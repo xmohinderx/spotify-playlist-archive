@@ -1,13 +1,49 @@
 {
-  "description": "Our favorite R&B artists on the rise! Cover: Destin Conrad",
-  "num_followers": 25765,
+  "description": "Our favorite R&B artists on the rise! Cover: Ambr\u00e9",
+  "num_followers": 25814,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGZlNDRkNjk2ZWZjMzdlMDY4Yzg1NTBkNTNkMjNiNmFi",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDhlNjJmMzNmYjU1NGMxOGEyMzQ0ZjFjYmFkYzI0MWZh",
   "tracks": [
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 202755,
+      "name": "I'm Baby (ft. Jvck James)",
+      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "B.E.D",
+        "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "B.E.D",
+      "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -55,6 +91,26 @@
       "duration_ms": 167115,
       "name": "NOBODY KNOWS",
       "url": "https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 205601,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -457,6 +513,38 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
+      "added_at": "2022-10-14 16:49:59",
+      "album": {
+        "name": "DISC TWO",
+        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 127802,
+      "name": "ALL OVER AGAIN",
+      "url": "https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH"
+    },
+    {
+      "added_at": "2022-11-11 15:56:44",
+      "album": {
+        "name": "In The Meantime...",
+        "url": "https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 130923,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "SATIN",
@@ -793,38 +881,6 @@
       "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
     },
     {
-      "added_at": "2022-10-14 16:49:59",
-      "album": {
-        "name": "DISC TWO",
-        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 127802,
-      "name": "ALL OVER AGAIN",
-      "url": "https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH"
-    },
-    {
-      "added_at": "2022-11-11 15:56:44",
-      "album": {
-        "name": "In The Meantime...",
-        "url": "https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        }
-      ],
-      "duration_ms": 130923,
-      "name": "Perfect Timing",
-      "url": "https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs"
-    },
-    {
       "added_at": "2022-10-14 04:41:47",
       "album": {
         "name": "Selfish",
@@ -899,22 +955,6 @@
       "duration_ms": 173000,
       "name": "Ride",
       "url": "https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic"
-    },
-    {
-      "added_at": "2022-10-28 04:35:14",
-      "album": {
-        "name": "Doubted Me",
-        "url": "https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf"
-      },
-      "artists": [
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 154686,
-      "name": "Doubted Me",
-      "url": "https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ"
     },
     {
       "added_at": "2022-10-14 04:41:47",
@@ -1333,22 +1373,6 @@
       "url": "https://open.spotify.com/track/1ohYls1sEAPR55QibTY1H3"
     },
     {
-      "added_at": "2022-09-23 04:08:48",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ"
-    },
-    {
       "added_at": "2022-09-30 04:05:18",
       "album": {
         "name": "Mani/Pedi",
@@ -1549,26 +1573,6 @@
       "url": "https://open.spotify.com/track/5VAxNirVOEJXjY6cWhAcOy"
     },
     {
-      "added_at": "2022-08-26 04:13:31",
-      "album": {
-        "name": "So Gone (feat. Naomi Wild)",
-        "url": "https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse"
-      },
-      "artists": [
-        {
-          "name": "Tempest",
-          "url": "https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa"
-        },
-        {
-          "name": "Naomi Wild",
-          "url": "https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg"
-        }
-      ],
-      "duration_ms": 224340,
-      "name": "So Gone (feat. Naomi Wild)",
-      "url": "https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ"
-    },
-    {
       "added_at": "2022-09-09 04:09:49",
       "album": {
         "name": "Yam Grier",
@@ -1587,22 +1591,6 @@
       "duration_ms": 143240,
       "name": "Back to Back (feat. Jordan Hawkins)",
       "url": "https://open.spotify.com/track/0gvG9jO8DdIctLEatJAYq1"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "BEFORE WE GO (DEEPER)",
-        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "DON'T PLAY WITH MY HEART",
-      "url": "https://open.spotify.com/track/71ZpSnBuuHgMdHkZtvahIE"
     },
     {
       "added_at": "2022-08-12 04:16:55",
@@ -1645,22 +1633,6 @@
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
-      "added_at": "2022-08-26 04:13:31",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
-    },
-    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "Good Love",
@@ -1675,22 +1647,6 @@
       "duration_ms": 181816,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        }
-      ],
-      "duration_ms": 167862,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1855,26 +1811,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2022-08-12 04:16:55",
-      "album": {
-        "name": "Energy (featuring Pink Sweat$)",
-        "url": "https://open.spotify.com/album/36N7aZLCMbUr7MHItTQaqC"
-      },
-      "artists": [
-        {
-          "name": "Nakkia Gold",
-          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 190169,
-      "name": "Energy (featuring Pink Sweat$)",
-      "url": "https://open.spotify.com/track/2mpcqMEvFFWHaFUprs0wv7"
     },
     {
       "added_at": "2022-07-15 04:05:26",

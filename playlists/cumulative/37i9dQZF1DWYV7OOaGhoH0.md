@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> Explore the ever\-evolving folk & roots scene\. Cover: Molly Tuttle
+> Explore the ever\-evolving folk & roots scene\. Cover: Madi Diaz
 
 318 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 911 likes - 158 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 913 likes - 158 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 44 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 |
 | 45 | [Fantasía](https://open.spotify.com/track/40rXWke6SnXiGkSmaT8ZUr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:55 |
 | 46 | [Jangueo](https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:51 |
-| 47 | [Peligrosa](https://open.spotify.com/track/3Nkqp3NSGWMXVVO08zGpN7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:22 |
-| 48 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
+| 47 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
+| 48 | [Peligrosa](https://open.spotify.com/track/3Nkqp3NSGWMXVVO08zGpN7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:22 |
 | 49 | [Vaivén](https://open.spotify.com/track/4gv9eyEf7cXViNTBXS2g5C) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Vaivén](https://open.spotify.com/album/3MSh01wXlrFGAJNfgXVsyQ) | 3:44 |
 | 50 | [Egoísta](https://open.spotify.com/track/4X3CV9rXo3hQrkb0fzRAux) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 4:07 |
 | 51 | [Noches de Aventura](https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 157 | [Ella Pide De Eso](https://open.spotify.com/track/4OUcankxNe66OYymBu600u) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:22 |
 | 158 | [La Llevo Al Cielo](https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku) | [Kallde "El Rey Del Placer"](https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR) | [La Llevo Al Cielo](https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU) | 3:44 |
 
-Snapshot ID: `Mjc4MjIzMjAsMDAwMDAwMDBiOGFhNWNmNzExNmNiMDExYjcwODQ1MzE1MTIyNmRjOQ==`
+Snapshot ID: `Mjc4MjM3NDIsMDAwMDAwMDBhNmIxZWQxYmU0Y2JmZjg5YTllNTZlOTY1MGM2ZDQ2YQ==`

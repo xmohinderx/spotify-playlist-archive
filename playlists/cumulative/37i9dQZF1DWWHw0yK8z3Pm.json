@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 248741,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/3ME0oA0PvhyIabL6ZiDOea"
@@ -1599,6 +1599,28 @@
       "duration_ms": 177668,
       "name": "Hey Who's Counting?",
       "url": "https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "Higher (feat. David Rawlings)",
+      "url": "https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ"
     },
     {
       "album": {

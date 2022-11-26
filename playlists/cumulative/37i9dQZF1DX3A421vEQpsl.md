@@ -4,7 +4,7 @@
 
 > Bollywood hits repackaged just for you\. Cover\- Ayushmann Khurrana, Vani kapoor, & Guru Randhawa
 
-84 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1RxcZY2SgLIUlL0fFKyBFg)
+85 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/1RxcZY2SgLIUlL0fFKyBFg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bunty Aur Babli 2](https://open.spotify.com/track/15joXqCZKdt5Dgfar80k2X) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Bunty Aur Babli 2](https://open.spotify.com/album/54weevFVjwwqQLeH3r1lnT) | 3:16 | 2022-05-24 |  |
 | [Chalti Hai Kya 9 Se 12 \(From "Judwaa 2"\)](https://open.spotify.com/track/0XeyPW8nkg29l8CHifVKoH) | [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Sandeep Shirodkar](https://open.spotify.com/artist/3Ma3jCLuyYvZCELx5WQHCd), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Chalti Hai Kya 9 Se 12 \(From "Judwaa 2"\)](https://open.spotify.com/album/0O79TnydGY8CSEjmTzLNDy) | 4:21 | 2022-05-24 |  |
 | [Chandigarh Kare Aashiqui 2.0](https://open.spotify.com/track/4bBEowhw95eq2NzasdXXBR) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jassi Sidhu](https://open.spotify.com/artist/2VXIKojJeuVC7NyOQs4JlE), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P) | [Chandigarh Kare Aashiqui 2.0](https://open.spotify.com/album/4snWqrdHxiAe5iaJe10rpZ) | 3:05 | 2022-05-24 |  |
+| [Chhoti Si Kahani Se](https://open.spotify.com/track/5AoFOY4pHfECHaiQ0EpSx3) | [Sahyba](https://open.spotify.com/artist/38rgOzcEeR4mjdFOqz9v2h) | [Chhoti Si Kahani Se \- Single](https://open.spotify.com/album/4OZ0MTyBsnrzBa0xq42Gjm) | 2:56 | 2022-11-25 |  |
 | [Chura Ke Dil Mera \- From "Hungama 2"](https://open.spotify.com/track/7d5ufSYehroRIgCXxJvcTM) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Anmol Malik](https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Chura Ke Dil Mera \(From "Hungama 2"\)](https://open.spotify.com/album/3XaG6643y3npUx6Dp7WGtY) | 4:45 | 2022-05-24 |  |
 | [Dhakka Laga Bukka \- From "Tandav"](https://open.spotify.com/track/4eiay6oNJXa2BN9EeEKm4K) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Mehboob](https://open.spotify.com/artist/5IQdeobKYan5qvwT92YXPv), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [H\. Sridhar](https://open.spotify.com/artist/2E4jBPbJ5vg6I78m9XOzUo) | [Dhakka Laga Bukka \(From "Tandav"\)](https://open.spotify.com/album/6May5sUcixsBdqoJGxV8mz) | 4:18 | 2022-05-24 |  |
 | [Dheere Dheere](https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Dheere Dheere](https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2) | 3:32 | 2022-05-24 |  |

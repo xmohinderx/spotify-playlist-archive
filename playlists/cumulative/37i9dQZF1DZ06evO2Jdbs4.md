@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/1xjrOFeEw74VbZbRn49c5D)
+77 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/1xjrOFeEw74VbZbRn49c5D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Quisiera](https://open.spotify.com/track/72GdSXUOtE6AdBUlNFO9NW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Lo Mío](https://open.spotify.com/album/4WlXlmCSRRJaAQZMzclg3Y) | 3:43 | 2022-06-01 | 2022-10-11 |
 | [Quisiera Decirte \- En Vivo](https://open.spotify.com/track/5GwDyHTGJvmU0joWiH7wqs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby Pulido en Vivo..\. Desde Monterrey, México \(En Vivo\)](https://open.spotify.com/album/3sSWnpZn8WwUh33sngU6vn) | 3:09 | 2022-06-13 | 2022-07-08 |
 | [Qué Más Te Puedo Dar](https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:40 | 2022-06-01 |  |
-| [Sabes](https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:35 | 2022-06-01 |  |
+| [Sabes](https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:35 | 2022-06-01 | 2022-11-26 |
+| [Se Me Antoja](https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:07 | 2022-11-25 |  |
 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:21 | 2022-06-01 |  |
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:09 | 2022-06-01 |  |
 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 | 2022-06-01 |  |

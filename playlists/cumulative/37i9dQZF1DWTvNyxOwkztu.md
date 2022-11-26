@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-220 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+224 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Back in Love](https://open.spotify.com/track/0xURkLqwfxkalc37EGgkVU) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Back in Love](https://open.spotify.com/album/1dBmcN0lkbhAq3zFoPEe3E) | 2:09 | 2022-03-25 | 2022-04-21 |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2021-12-09 |  |
 | [Bangkok](https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Bangkok](https://open.spotify.com/album/3BIefweoHMJZJhDsbn0t5q) | 2:48 | 2021-12-09 | 2022-07-23 |
-| [Bangkok](https://open.spotify.com/track/2jldQxck8ZUKv1BLxqVt4b) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Bangkok](https://open.spotify.com/album/2aRJel1Hr4NGqK9MVfivfA) | 2:48 | 2022-06-02 |  |
+| [Bangkok](https://open.spotify.com/track/2jldQxck8ZUKv1BLxqVt4b) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Bangkok](https://open.spotify.com/album/2aRJel1Hr4NGqK9MVfivfA) | 2:48 | 2022-06-02 | 2022-11-26 |
 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 | 2021-12-09 |  |
 | [Be Your Home](https://open.spotify.com/track/0BMyWJ75QwSyKuVUeOQWwg) | [minite](https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY) | [Be Your Home](https://open.spotify.com/album/3hcUBBnPFGeadvkuUi5So3) | 2:31 | 2021-12-09 | 2022-07-29 |
 | [Be Your Home](https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat) | [minite](https://open.spotify.com/artist/7pKvjpj0hmP1nnj34y9TlY) | [Be Your Home](https://open.spotify.com/album/5pMZbZNmxPdVp7gL5zvj3M) | 2:31 | 2022-06-02 |  |
@@ -52,7 +52,7 @@
 | [Coffee Break](https://open.spotify.com/track/0ExYatKbwbodCrVuA0uEH7) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Dreaming in Colour](https://open.spotify.com/album/4t5Ny1A5RTzUScEZ1risaq) | 3:36 | 2021-12-09 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG) | 2:49 | 2022-06-02 |  |
 | [Control](https://open.spotify.com/track/4FLaWi1Gr34f9SGaBtOa5P) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/1RSaZHGO5Zz08MGXKJtlNn) | 2:49 | 2021-12-09 | 2022-07-29 |
-| [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-10-07 |  |
+| [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-10-07 | 2022-11-26 |
 | [Daylight](https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G) | 2:32 | 2021-12-09 |  |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-12-09 |  |
 | [Descartes](https://open.spotify.com/track/5XKueyuuTWO6Q3QqK47IOt) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 4:49 | 2021-12-09 | 2022-04-22 |
@@ -83,6 +83,7 @@
 | [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 | 2022-03-25 | 2022-07-28 |
 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 | 2022-08-05 |  |
 | [Glass and Plastic \(Instrumental Version\)](https://open.spotify.com/track/2yfAkyDlAzx3zuMvgC0N9g) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Glass and Plastic](https://open.spotify.com/album/6OvqhTnUPNZ2GSPzp5x8WP) | 3:08 | 2022-03-25 | 2022-04-21 |
+| [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 | 2022-11-25 |  |
 | [Goldclap](https://open.spotify.com/track/1lDEM6ESKlPj3wFBTtZ8Z8) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Fall Again](https://open.spotify.com/album/669HtfPdwIVB2sCpdF0bbU) | 3:59 | 2021-12-09 | 2022-02-21 |
 | [Halo](https://open.spotify.com/track/1p9cjLG43MuaenXlUMvzgP) | [Okwen](https://open.spotify.com/artist/4snWBwVHKKPJ4Ha9LrcLaY) | [Halo](https://open.spotify.com/album/6QofnAjTE7W1sbd1HSGqG7) | 4:18 | 2021-12-09 | 2022-02-27 |
 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 |  |
@@ -106,7 +107,7 @@
 | [Kyoto](https://open.spotify.com/track/6PjXctzAvL8UjkSozwctep) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Kyoto](https://open.spotify.com/album/2z2Z5IohSxt1cNL3hSs5E3) | 2:21 | 2021-12-09 | 2022-06-24 |
 | [Last Forever](https://open.spotify.com/track/6jt9ksqmpgggBsIj5pVZNd) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Not from Here](https://open.spotify.com/album/3wltnpCzev9PmIK5aQmDhv) | 4:14 | 2021-12-09 | 2022-05-21 |
 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 | 2022-05-20 | 2022-05-31 |
-| [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 | 2022-10-07 |  |
+| [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 | 2022-10-07 | 2022-11-26 |
 | [Levante](https://open.spotify.com/track/35ME0Y7EEMKJ4nSM4SPhAX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Hidden Treasures EP](https://open.spotify.com/album/1AG7es9vgkIopCWbFtQYpn) | 3:13 | 2021-12-09 |  |
 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 | 2021-12-09 | 2022-10-02 |
 | [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 | 2022-09-12 | 2022-10-08 |
@@ -179,6 +180,7 @@
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-12-09 |  |
 | [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 | 2021-12-09 | 2022-09-21 |
 | [Stardust](https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Room for Thought](https://open.spotify.com/album/5EjPFBdTPs7tFd2N1K9spD) | 2:24 | 2021-12-09 | 2022-05-10 |
+| [Stay by My Side](https://open.spotify.com/track/2wk7mBr6JlorYMwESY7lyi) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [CLOSR](https://open.spotify.com/artist/1QIjx8SUfvxycTLJGoxww3) | [Stay by My Side](https://open.spotify.com/album/2cWi7kzQZpOCdnoMLUf6GD) | 1:51 | 2022-11-25 |  |
 | [Step By Step](https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Step By Step](https://open.spotify.com/album/488BJzweFOikT4WEI2PD0N) | 2:47 | 2021-12-09 | 2022-07-28 |
 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 | 2021-12-09 |  |
 | [Summer Vibe](https://open.spotify.com/track/1s7MlV77vmjAHqzVq60Vfd) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [Everything Shines](https://open.spotify.com/album/3eXCBTg64X3AuakWQGuQ7Y) | 2:59 | 2021-12-09 | 2022-02-27 |
@@ -209,6 +211,7 @@
 | [Utopia](https://open.spotify.com/track/4xRJYmi749eRPbD1TREOB9) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Utopia](https://open.spotify.com/album/6mmkJHEFlPqrtpFwbt5B8V) | 3:05 | 2021-12-09 | 2022-02-27 |
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 | 2022-11-17 |
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-06-02 | 2022-10-18 |
+| [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 | 2022-11-25 |  |
 | [Vanishing](https://open.spotify.com/track/1XePxhd6DqIDSrMcoYc94X) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh) | [Vanishing](https://open.spotify.com/album/75VTXKhMgwXqBz7fyU8XYJ) | 8:08 | 2021-12-09 | 2022-04-23 |
 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 | 2022-09-12 |  |
 | [Voices](https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Pool Party](https://open.spotify.com/album/2QwQy5RBIZoagRPUOpmAwe) | 2:47 | 2022-06-02 |  |
@@ -224,9 +227,10 @@
 | [White Sand](https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [White Sand](https://open.spotify.com/album/2UsS2tEkeUIi4vRS1dkRQH) | 3:08 | 2021-12-09 | 2022-08-14 |
 | [White Sand](https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 3:08 | 2022-09-12 | 2022-10-04 |
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 | 2022-10-13 |
+| [Wingspan](https://open.spotify.com/track/3MIMhAWM5nEAzMtGn81ZYm) | [7and5](https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi) | [Dragonfly](https://open.spotify.com/album/2hAiAbZpvHQpi012pPizS2) | 4:34 | 2022-11-25 |  |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 | 2022-08-06 |
 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 | 2021-12-09 |  |
 | [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 | 2022-05-20 | 2022-07-29 |
-| [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 | 2021-12-09 |  |
+| [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 | 2021-12-09 | 2022-11-26 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

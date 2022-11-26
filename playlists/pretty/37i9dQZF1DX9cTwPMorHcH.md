@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,118 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,199 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 17 | [Midnight in Harlem](https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Revelator](https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7) | 5:52 |
 | 18 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 |
 | 19 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 |
-| 20 | [Bell Bottom Blues](https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 5:01 |
-| 21 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 |
+| 20 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 |
+| 21 | [Bell Bottom Blues](https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 5:01 |
 | 22 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 |
 | 23 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 |
 | 24 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 85 | [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 |
 | 86 | [You Can't Teach An Old Dog New Tricks](https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [You Can't Teach An Old Dog New Tricks](https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr) | 3:34 |
 | 87 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 |
-| 88 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 |
-| 89 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 |
+| 88 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 |
+| 89 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 |
 | 90 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
 | 91 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 92 | [Money and Fools](https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie) | [Benny Walker](https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W) | [Chosen Line](https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn) | 3:50 |
 | 93 | [Catfish](https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Catfish](https://open.spotify.com/album/0UHFzxUW8gPhFwjIj7y6E0) | 3:51 |
 | 94 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
-| 95 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 |
-| 96 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 |
+| 95 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 |
+| 96 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 |
 | 97 | [Save Me](https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Cry No More](https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y) | 4:35 |
 | 98 | [Don't Leave Me Here](https://open.spotify.com/track/1pDwZmpFoPyPTApIgCLwHS) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 5:01 |
 | 99 | [Burn Bright](https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Sons](https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6) | 3:06 |
 | 100 | [What Kind Of Woman Is This?](https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 5:17 |
 
-Snapshot ID: `MTY2NzQ5MDkzNSwwMDAwMDAwMDRiMGQyOGM0MTYwZmU3ZGU1ZmRlZjQ4NzkzYzIzNWMy`
+Snapshot ID: `MTY2NzQ5MDkzNSwwMDAwMDAwMGJmNzVjYTQ2N2Q4ODhjZDkzZTAzYzFlY2UzYWU2YmM0`

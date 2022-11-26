@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Tornillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,669 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,887 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 38 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |
 | 39 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 |
 | 40 | [Clave Ali](https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:21 |
-| 41 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
-| 42 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
+| 41 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
+| 42 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
 | 43 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 |
 | 44 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 |
 | 45 | [Que Me Importa](https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Que Me Importa](https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI) | 3:28 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 65 | [Música Mexa](https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Música Mexa](https://open.spotify.com/album/59RfQ4q6GQMwjjmUWKvXbx) | 3:14 |
 | 66 | [El Achillo](https://open.spotify.com/track/1wV8nsIBPLpovpqOZnb24y) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Achillo](https://open.spotify.com/album/1J6Edxly1ds40IcPhE6Fvx) | 4:32 |
 | 67 | [Lo Mío No Tiene Cura](https://open.spotify.com/track/18Q3lULIvXX0n0zOkeUv9X) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Lo Mío No Tiene Cura](https://open.spotify.com/album/143kPEitPDgMiNotLyLene) | 3:40 |
-| 68 | [Artista Y Malandro](https://open.spotify.com/track/0NGHuBUQx9bC86zuhiY58M) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Artista Y Malandro](https://open.spotify.com/album/62aJ1pfSsd0T0Mw125rnWj) | 4:00 |
-| 69 | [El Triste](https://open.spotify.com/track/2Lk910jTXaUex71wuTwJPK) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Triste](https://open.spotify.com/album/6FDQmwo5gCTxM2gRcL3mcQ) | 3:32 |
+| 68 | [El Triste](https://open.spotify.com/track/2Lk910jTXaUex71wuTwJPK) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Triste](https://open.spotify.com/album/6FDQmwo5gCTxM2gRcL3mcQ) | 3:32 |
+| 69 | [Artista Y Malandro](https://open.spotify.com/track/0NGHuBUQx9bC86zuhiY58M) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Artista Y Malandro](https://open.spotify.com/album/62aJ1pfSsd0T0Mw125rnWj) | 4:00 |
 | 70 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 |
 | 71 | [Mi Última Venganza](https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Mi Última Venganza](https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm) | 3:33 |
 | 72 | [Subidas y Bajadas](https://open.spotify.com/track/7cIUTTH01eeHulkRxNAiuo) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Subidas y Bajadas](https://open.spotify.com/album/5nP6x6lJhcQI5TOjZ4oURQ) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 74 | [Turisteando](https://open.spotify.com/track/70IKYcH1WnWMxalbRq6xaO) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [Turisteando](https://open.spotify.com/album/2ji3HqCFRusVHCr6hS6w91) | 3:08 |
 | 75 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 |
 
-Snapshot ID: `MTY2Nzg2NjcyMiwwMDAwMDAwMGI4Zjg3OTQ1ZjhkOGI1NWI1MjMzOWY1ZDEzZTU5NDEx`
+Snapshot ID: `MTY2Nzg2NjcyMiwwMDAwMDAwMDM1NmE4NDI3MTc5YzA3Mjc5YTY4ODMzZjg2YzczZTI0`

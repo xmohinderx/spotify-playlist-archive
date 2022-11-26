@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i also wanna be BFF with chris and meghan ✨💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,732 likes - 600 songs - 1 day 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,936 likes - 600 songs - 1 day 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -466,7 +466,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 456 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 457 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 |
 | 458 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
-| 459 | [Nasty](https://open.spotify.com/track/5vQVca1ShutehX51ewkuPN) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat), [Fraser](https://open.spotify.com/artist/0mDpXFOFb3Gz2sabUfP2Ka) | [www.FuckMe.com \(Deluxe\)](https://open.spotify.com/album/3r3s52Mk0KkwegBofKxAMr) | 2:14 |
+| 459 | [Nasty](https://open.spotify.com/track/7pLnAla6HcJJLExBGZklju) | [HaveCasual](https://open.spotify.com/artist/5NbAZ8UutBbmESKNisG7oK) | [Brat](https://open.spotify.com/album/7mqLjqpHVCgqNJbrcXz0Yc) | 2:14 |
 | 460 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 |
 | 461 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 |
 | 462 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 599 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 600 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MTY2OTMzMDgwMCwwMDAwMDAwMGUzM2JiZTlkODNiNzEwODM0YmY2ZWI1MjhmNTMyMDRl`
+Snapshot ID: `MTY2OTMzMDgwMCwwMDAwMDAwMDRmMTc3ZmRiMjBhODE2Y2ZlMjUyYTBiOTE5Nzg5ZmJj`

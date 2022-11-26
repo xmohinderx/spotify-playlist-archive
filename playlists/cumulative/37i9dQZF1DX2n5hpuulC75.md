@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-120 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+121 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 | 2018-12-11 |  |
 | [Frozen Away](https://open.spotify.com/track/4hboEacHpNTLg2xPmAfjR3) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [Blur // Frozen Away](https://open.spotify.com/album/2fqV2w0MSDUocsbpI0OSaa) | 2:48 | 2018-12-11 | 2022-07-29 |
 | [Get Light](https://open.spotify.com/track/3VGqj3ZkIKE6dZCqXZQdIk) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Get Light](https://open.spotify.com/album/2PUSsWHPs1h48a7DaFYvY7) | 3:28 | 2018-12-11 | 2022-07-26 |
+| [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 | 2018-12-11 |  |
 | [Get Light](https://open.spotify.com/track/5uxT7O4QHNbGCjaqhn4cq6) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/3nhkZgFk1Ta7qtuOOdMJbK) | 3:28 | 2018-12-11 | 2022-10-21 |
 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 | 2018-12-11 | 2022-07-28 |
 | [Holiday \- Kyson Remix](https://open.spotify.com/track/3EsqrnNfJ9CgKtmqM8dJPN) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/13suTnGeieJJA5mF9ivLH2) | 4:41 | 2019-05-24 | 2022-07-29 |
@@ -63,8 +64,8 @@
 | [I would](https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq) | 3:25 | 2018-12-11 |  |
 | [I'm Right Here](https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [Unusable Love](https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p) | 4:41 | 2018-12-11 |  |
 | [I'm Right Here](https://open.spotify.com/track/1P6nShfHtDMPeX9ioSpuDB) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [I'm Right Here](https://open.spotify.com/album/40FBsidorGc3bClqQAvXYe) | 4:41 | 2018-12-11 | 2022-07-29 |
-| [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2018-12-11 | 2022-11-13 |
-| [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 | 2018-12-11 |  |
+| [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2018-12-11 |  |
+| [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 | 2018-12-11 | 2022-11-26 |
 | [I've Always Been](https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Zach Berro](https://open.spotify.com/artist/6t13QrSLbiVtlvksmoBgfH) | [I've Always Been](https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV) | 1:54 | 2018-12-11 |  |
 | [In Silence](https://open.spotify.com/track/0BsFp2sJPOdtRg3oUVWuh8) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [In Silence](https://open.spotify.com/album/5rTCzfuf6vmgD08IQBJlsx) | 4:18 | 2018-12-11 | 2022-07-29 |
 | [In Silence](https://open.spotify.com/track/3xSDwNpuoAnenzHEXJRWZg) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [In Silence](https://open.spotify.com/album/16xXu0I4RB3tUBTKVUgCBL) | 4:18 | 2018-12-11 | 2022-11-13 |
@@ -98,7 +99,7 @@
 | [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 | 2018-12-11 |  |
 | [The Edge of Forever](https://open.spotify.com/track/0v6dmK9TWQWY6NqBG7YVpK) | [Work Drugs](https://open.spotify.com/artist/0wLfAlTh58anndtgqA0MCU) | [The Edge of Forever](https://open.spotify.com/album/7KqxTEDu8NOKcr2665Zryv) | 4:59 | 2018-12-11 | 2022-07-29 |
 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 | 2018-12-11 |  |
-| [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 | 2018-12-11 |  |
+| [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 | 2018-12-11 | 2022-11-26 |
 | [Think Like I Do](https://open.spotify.com/track/2qjwe0mMqOne5HVFrpvdM8) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH), [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Think Like I Do](https://open.spotify.com/album/43DsyHKkzPdDohddCvOqaX) | 2:54 | 2018-12-11 |  |
 | [Think Like I Do](https://open.spotify.com/track/5BIywHyLnncJb8EWSLCViA) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH), [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Think Like I Do](https://open.spotify.com/album/2c26cJ0hmOGRyEsW2vTAEJ) | 2:54 | 2018-12-11 | 2022-07-27 |
 | [Together Alone](https://open.spotify.com/track/3EIrhX6rhOZZ9tageWD5Om) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \- EP](https://open.spotify.com/album/0Tfyv7ejRsl3zr8xm16XAr) | 3:05 | 2018-12-11 | 2022-07-29 |

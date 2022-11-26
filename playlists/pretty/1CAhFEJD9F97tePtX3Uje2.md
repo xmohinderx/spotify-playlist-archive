@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 366 likes - 198 songs - 11 hr 58 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 366 likes - 199 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,5 +206,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 196 | [All We Said](https://open.spotify.com/track/4GeKwhAbX5v8eaMY8BkoGQ) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [All We Said](https://open.spotify.com/album/6UbAooEZ5yr38K3Ur5rV07) | 3:22 |
 | 197 | [Radiant](https://open.spotify.com/track/5h3H7uXc5Uss7pNXK7C2WW) | [STS\-51L](https://open.spotify.com/artist/26sQOH3CNqd81507zMHofP), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Andromeda](https://open.spotify.com/album/0XQR3Ky1jdpw2RtpISEE93) | 3:13 |
 | 198 | [Rosacea](https://open.spotify.com/track/3CHXpZdk5W8y5wLlJape0Y) | [Grid](https://open.spotify.com/artist/2mr8Sn2YZJZiKuvbRmABbm) | [Rosacea](https://open.spotify.com/album/3eOytFp2PJ6061ZjOm9LRh) | 3:11 |
+| 199 | [OBLIVION](https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [OBLIVION](https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj) | 3:12 |
 
-Snapshot ID: `MjE0LDA1NjZhN2U1NzNjMjUzOWQ2NTlhNDYzNTRjYTZiZjhiODA2NWMyM2M=`
+Snapshot ID: `MjE1LDg0NjBhMTk3N2VkY2FjNTc4N2JkNDU1MDEyNWI0NDkyYTk1ZTE4Njk=`

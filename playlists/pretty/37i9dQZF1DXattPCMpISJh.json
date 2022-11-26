@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: The Jack Moves",
-  "num_followers": 65787,
+  "num_followers": 65894,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDhlMzFkMWE4ODNhMmQ1ZWNlNDcxODdjZjRhNWNhNTNh",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGI3NWY4NzQwMGMxOTM4ZDZjYWUxNjVkZTc3YWRlYzli",
   "tracks": [
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl"
+      },
+      "artists": [
+        {
+          "name": "LOU'ANA",
+          "url": "https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes"
+    },
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
@@ -1835,26 +1851,6 @@
       "duration_ms": 221744,
       "name": "Children",
       "url": "https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c"
-    },
-    {
-      "added_at": "2021-11-26 05:01:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/6HqP7UpBF5HRGwZZzOwJHU"
-      },
-      "artists": [
-        {
-          "name": "Natio",
-          "url": "https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc"
-        },
-        {
-          "name": "Tilsen",
-          "url": "https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq"
-        }
-      ],
-      "duration_ms": 164227,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/2WXOEBgNo7OkkJ6HMoMnIg"
     },
     {
       "added_at": "2021-08-20 04:02:00",

@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 133212,
       "name": "Beat Goes On (Rhythm to the Brain)",
       "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
@@ -251,10 +251,32 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 211288,
       "name": "CHASE THE SUN",
       "url": "https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh"
+    },
+    {
+      "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178908,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
     },
     {
       "album": {
@@ -479,7 +501,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
@@ -579,7 +601,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -853,7 +875,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -911,7 +933,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 149142,
       "name": "NON STOP",
       "url": "https://open.spotify.com/track/2LdUvIuGaxpzqJ8oHTiKnN"
@@ -971,7 +993,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 167460,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
@@ -1026,6 +1048,28 @@
     },
     {
       "album": {
+        "name": "Rise Up (feat. Vamero)",
+        "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Rise Up (feat. Vamero)",
+      "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
+    },
+    {
+      "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
@@ -1071,7 +1115,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"

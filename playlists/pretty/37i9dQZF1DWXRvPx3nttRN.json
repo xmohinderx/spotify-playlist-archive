@@ -1,12 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 462298,
+  "num_followers": 462475,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDY0Mjg3OSwwMDAwMDAwMDY3ODI0MjExZDJkZDAxZDA3MzRkZTM2N2Y1NmU3NzIy",
+  "snapshot_id": "MTY1MDY0Mjg3OSwwMDAwMDAwMGMyYWQyZGRmYmExYzQyMTYzMWE5Nzk2NWUxNDE4YWQ2",
   "tracks": [
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1095,22 +1095,22 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Dreamers of The Shore",
-        "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
       },
       "artists": [
         {
-          "name": "Volcan Peaks",
-          "url": "https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Cody Francis",
-          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 171908,
-      "name": "Dreamers Of The Shore",
-      "url": "https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5"
+      "duration_ms": 191206,
+      "name": "Perfect Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
+        "name": "Dreamers of The Shore",
+        "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Volcan Peaks",
+          "url": "https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD"
         },
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Cody Francis",
+          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
         }
       ],
-      "duration_ms": 191206,
-      "name": "Perfect Strangers - Acoustic",
-      "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
+      "duration_ms": 171908,
+      "name": "Dreamers Of The Shore",
+      "url": "https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Brown Eyed Girl",
-        "url": "https://open.spotify.com/album/2MkkFur4IEa1DKWqVS3bI2"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 214804,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/7Gs9vEfo69lSwsTz4MRuBG"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 149062,
       "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Brown Eyed Girl",
+        "url": "https://open.spotify.com/album/2MkkFur4IEa1DKWqVS3bI2"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 214804,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/7Gs9vEfo69lSwsTz4MRuBG"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
+        "name": "Covers with Friends",
+        "url": "https://open.spotify.com/album/6XBy6IeZBCHz5D1Frv6jGY"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        },
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 199056,
+      "name": "Se\u00f1orita - Acoustic",
+      "url": "https://open.spotify.com/track/3kSYLN853QF9qDkmmFy66C"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
         "name": "Sorry Not Sorry",
         "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
       },
@@ -1775,22 +1795,18 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Covers with Friends",
-        "url": "https://open.spotify.com/album/6XBy6IeZBCHz5D1Frv6jGY"
+        "name": "My My My! (Remixes)",
+        "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
       },
       "artists": [
         {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
-        },
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 199056,
-      "name": "Se\u00f1orita - Acoustic",
-      "url": "https://open.spotify.com/track/3kSYLN853QF9qDkmmFy66C"
+      "duration_ms": 223106,
+      "name": "My My My! - Acoustic",
+      "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1807,22 +1823,6 @@
       "duration_ms": 183950,
       "name": "More Than You Know - Acoustic",
       "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "My My My! (Remixes)",
-        "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "My My My! - Acoustic",
-      "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "For Seasons to Come",
-        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
-      },
-      "artists": [
-        {
-          "name": "Ginne Marker",
-          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "For Seasons to Come",
-      "url": "https://open.spotify.com/track/1HMXW4PoREtAjQiXSw4vHZ"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Here I Go Again",
         "url": "https://open.spotify.com/album/4yFIc1YHqohNGLkeHm0ppH"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 217597,
       "name": "Swalla - Acoustic Version",
       "url": "https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "For Seasons to Come",
+        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
+      },
+      "artists": [
+        {
+          "name": "Ginne Marker",
+          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "For Seasons to Come",
+      "url": "https://open.spotify.com/track/1HMXW4PoREtAjQiXSw4vHZ"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -2795,18 +2795,18 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Love Lies",
-        "url": "https://open.spotify.com/album/0xbQJ4XGhZbouBfRyWWhnF"
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/7BhVUDlkSYf0WO2xBAHneM"
       },
       "artists": [
         {
-          "name": "Matt Herrero",
-          "url": "https://open.spotify.com/artist/7mqvAMLRLuuThMgNMJ94uT"
+          "name": "Michael Collings",
+          "url": "https://open.spotify.com/artist/4vR6Xfagr0EsCf8t9oLy1t"
         }
       ],
-      "duration_ms": 209968,
-      "name": "Love Lies",
-      "url": "https://open.spotify.com/track/6XDdu1YQ3AjL7T7dbJ2ocC"
+      "duration_ms": 277785,
+      "name": "Fast Car - Acoustic Version",
+      "url": "https://open.spotify.com/track/6lc0tqItTGdpz9kagpvG9v"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -2827,18 +2827,34 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Fast Car",
-        "url": "https://open.spotify.com/album/7BhVUDlkSYf0WO2xBAHneM"
+        "name": "Love Lies",
+        "url": "https://open.spotify.com/album/0xbQJ4XGhZbouBfRyWWhnF"
       },
       "artists": [
         {
-          "name": "Michael Collings",
-          "url": "https://open.spotify.com/artist/4vR6Xfagr0EsCf8t9oLy1t"
+          "name": "Matt Herrero",
+          "url": "https://open.spotify.com/artist/7mqvAMLRLuuThMgNMJ94uT"
         }
       ],
-      "duration_ms": 277785,
-      "name": "Fast Car - Acoustic Version",
-      "url": "https://open.spotify.com/track/6lc0tqItTGdpz9kagpvG9v"
+      "duration_ms": 209968,
+      "name": "Love Lies",
+      "url": "https://open.spotify.com/track/6XDdu1YQ3AjL7T7dbJ2ocC"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Ledges",
+        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -2911,22 +2927,6 @@
       "duration_ms": 123708,
       "name": "Beyond Words",
       "url": "https://open.spotify.com/track/74rCyDgEC5qq5ES2UxKVzX"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "Ledges",
-        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "First Defeat",
-      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Web Cam Songs",
-        "url": "https://open.spotify.com/album/5yttdCN7FWfu0nv0Y3ohV1"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ward",
-          "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
-        }
-      ],
-      "duration_ms": 166323,
-      "name": "Feel This Moment",
-      "url": "https://open.spotify.com/track/7tTMZYsZKvUD9X2xu6gn9k"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Under the Covers, Vol. 5",
         "url": "https://open.spotify.com/album/2M8WFkrGgKISu3jSXAtqLT"
       },
@@ -3067,6 +3051,22 @@
       "duration_ms": 250072,
       "name": "Counting Stars (Acoustic) [feat. Corey Gray & Alexi Blue]",
       "url": "https://open.spotify.com/track/6mq0Bv2ArWxlvP3BFZxSHq"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Web Cam Songs",
+        "url": "https://open.spotify.com/album/5yttdCN7FWfu0nv0Y3ohV1"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ward",
+          "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
+        }
+      ],
+      "duration_ms": 166323,
+      "name": "Feel This Moment",
+      "url": "https://open.spotify.com/track/7tTMZYsZKvUD9X2xu6gn9k"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3171,22 +3171,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "By Popular Demand, Vol. 2",
-        "url": "https://open.spotify.com/album/1Yv4mQTshB88IeYlQMinVY"
-      },
-      "artists": [
-        {
-          "name": "Kajiwara",
-          "url": "https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "Nothin' On You",
-      "url": "https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "Next to Me",
         "url": "https://open.spotify.com/album/00t7CXQkp8jk5E8hmmukpk"
       },
@@ -3203,6 +3187,22 @@
       "duration_ms": 203469,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/797CLA4YDOQc4ksp11r95o"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "By Popular Demand, Vol. 2",
+        "url": "https://open.spotify.com/album/1Yv4mQTshB88IeYlQMinVY"
+      },
+      "artists": [
+        {
+          "name": "Kajiwara",
+          "url": "https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "Nothin' On You",
+      "url": "https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3275,6 +3275,22 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
+        "name": "We Got You Covered, Vol. 1",
+        "url": "https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 148174,
+      "name": "Can't Stop the Feeling / This Is What You Came For",
+      "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
         "name": "Poison (Acoustic)",
         "url": "https://open.spotify.com/album/16KGNmwzTUr81fFTrFBqac"
       },
@@ -3323,6 +3339,26 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
         "name": "Acoustic Hits, Vol. 2",
         "url": "https://open.spotify.com/album/7MW4Ij5prMGfwpUzVHVyFS"
       },
@@ -3355,26 +3391,6 @@
       "duration_ms": 179304,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/0PtrSBrpgoKpC3aHxW4VNW"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3427,18 +3443,18 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "We Got You Covered, Vol. 1",
-        "url": "https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M"
+        "name": "Acoustic Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/6DgPb9m6bFy34yDsMDkPfc"
       },
       "artists": [
         {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
         }
       ],
-      "duration_ms": 148174,
-      "name": "Can't Stop the Feeling / This Is What You Came For",
-      "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
+      "duration_ms": 145200,
+      "name": "Sorry - Acoustic Live Lounge",
+      "url": "https://open.spotify.com/track/46W3PqcQKnpYMc27pp2F4F"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3455,22 +3471,6 @@
       "duration_ms": 171200,
       "name": "Cool - Acoustic",
       "url": "https://open.spotify.com/track/6F4nOE5Z6Il1fM8h3zkAlW"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
-        "name": "Acoustic Hits, Vol. 3",
-        "url": "https://open.spotify.com/album/6DgPb9m6bFy34yDsMDkPfc"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Sorry - Acoustic Live Lounge",
-      "url": "https://open.spotify.com/track/46W3PqcQKnpYMc27pp2F4F"
     },
     {
       "added_at": "2022-04-22 15:54:39",
@@ -3727,22 +3727,6 @@
     {
       "added_at": "2022-04-22 15:54:39",
       "album": {
-        "name": "Lean On",
-        "url": "https://open.spotify.com/album/594OqJeENYOp7hh6seqQk9"
-      },
-      "artists": [
-        {
-          "name": "Ali Brustofski",
-          "url": "https://open.spotify.com/artist/6KxBixTtWRYyojmIvlFvjD"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/0Z8av1GXputZh3av4KJqpJ"
-    },
-    {
-      "added_at": "2022-04-22 15:54:39",
-      "album": {
         "name": "I Know What You Did Last Summer (Acoustic)",
         "url": "https://open.spotify.com/album/18GQWIehhia0R6pTPnqA6z"
       },
@@ -3759,6 +3743,22 @@
       "duration_ms": 238811,
       "name": "I Know What You Did Last Summer (Acoustic)",
       "url": "https://open.spotify.com/track/1d4vRGY5dfRWbKZrv6uU0E"
+    },
+    {
+      "added_at": "2022-04-22 15:54:39",
+      "album": {
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/594OqJeENYOp7hh6seqQk9"
+      },
+      "artists": [
+        {
+          "name": "Ali Brustofski",
+          "url": "https://open.spotify.com/artist/6KxBixTtWRYyojmIvlFvjD"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/0Z8av1GXputZh3av4KJqpJ"
     },
     {
       "added_at": "2022-04-22 15:54:39",

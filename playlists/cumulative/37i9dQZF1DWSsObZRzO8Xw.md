@@ -4,7 +4,7 @@
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: toe
 
-113 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/30AOiai6zS6TxM6b4PqLOP)
+114 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/30AOiai6zS6TxM6b4PqLOP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 | 2021-10-15 |  |
 | [My Only Swerving](https://open.spotify.com/track/4q26ViixkilRLjl1MdLABS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:14 | 2022-05-20 |  |
 | [My Only Swerving](https://open.spotify.com/track/7bUGrBJEkLdtCIDYfT5abh) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/1j1FvT4EyX9ZIHKlPnUFRL) | 5:14 | 2021-10-15 | 2022-07-29 |
-| [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2021-10-15 |  |
+| [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2021-10-15 | 2022-11-26 |
+| [Never Meant](https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp) | 4:28 | 2022-05-20 |  |
 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 | 2021-10-15 |  |
 | [Novelesco](https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN) | [Defórmica](https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF) | [Páramo](https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz) | 5:03 | 2021-10-15 |  |
 | [Papaya](https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Yum !!](https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx) | 3:08 | 2021-10-15 |  |

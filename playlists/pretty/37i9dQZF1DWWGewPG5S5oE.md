@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 和久井沙良
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,955 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,024 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 19 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
 | 20 | [Last Recollection](https://open.spotify.com/track/1i5dlXpWm2qyygCqeaGPD5) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [We'll be always on your side](https://open.spotify.com/album/5qD1q5sIgRJaU1mnvtdwHT) | 3:38 |
 | 21 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 |
-| 22 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 |
+| 22 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 |
 | 23 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
-| 24 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 |
+| 24 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 |
 | 25 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
 | 26 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
 | 27 | [The Unknown](https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U) | [Hiromuトリオ](https://open.spotify.com/artist/3fzQgygmoz4JfqJXQT6NPN) | [The Unknown](https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq) | 7:54 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 34 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
 | 35 | [Death by Glamour \(with Jacob Koller\)](https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw) | [瀬戸一王](https://open.spotify.com/artist/05QyI8tKAUSMa2H8WRI8v1), [Jacob Koller](https://open.spotify.com/artist/5WurrE6cmmCQDP151eki1o) | [PIANOTALE](https://open.spotify.com/album/0FtP1dhqgP2gS2hKkSAMnO) | 2:18 |
 | 36 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 |
-| 37 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
-| 38 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
+| 37 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
+| 38 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
 | 39 | [残酷な天使のテーゼ](https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2) | [Anime That Jazz](https://open.spotify.com/artist/0AmBT7fJDVHS4BshgbY8Aw) | [EVENING!](https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf) | 4:23 |
-| 40 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 |
-| 41 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
+| 40 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
+| 41 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 |
 | 42 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 |
 | 43 | [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 |
 | 44 | [Futurez](https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [Futurez](https://open.spotify.com/album/4iK5RotnCqsb4hBtluRXn5) | 4:52 |
 | 45 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 | 46 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
-| 47 | [具縄](https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [具縄](https://open.spotify.com/album/2KqcYIchslRedPNFe8MPuL) | 5:00 |
-| 48 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 |
-| 49 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
-| 50 | [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 |
+| 47 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 |
+| 48 | [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 |
+| 49 | [具縄](https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [具縄](https://open.spotify.com/album/2KqcYIchslRedPNFe8MPuL) | 5:00 |
+| 50 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 
-Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDk3YmJkNmYzYmY0MjJlMWNkNGNhNjZjNzQ1ZjI5YTI0`
+Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDliZDE3OTYwYWY2OGVkZWRjZWYxYjMyNDA3NGE0ZTZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,022 likes - 131 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,227 likes - 131 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 47 | [Goat](https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 3:48 |
 | 48 | [Night Time](https://open.spotify.com/track/0aY1QaQscBQ7NelzNfpVR5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 6:03 |
 | 49 | [Honey Waits](https://open.spotify.com/track/6hcslraHCOI1OHxRIwP0pI) | [Keilan Creech](https://open.spotify.com/artist/4eXFlF6OR3cXk0NObEVk3I) | [Honey Waits](https://open.spotify.com/album/6kY02y7pp2lNFIbAZKLn0H) | 3:32 |
-| 50 | [Convention](https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:16 |
+| 50 | [Convention](https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:16 |
 | 51 | [Say It Ain't So](https://open.spotify.com/track/1REohUFAzDBfIqPwL1CjUQ) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Say It Ain't So](https://open.spotify.com/album/22DE5yz0XPuClO8A0P6tyJ) | 3:43 |
 | 52 | [Stargazer](https://open.spotify.com/track/157AYdvLTUqe9JPdb196Ry) | [Robin Bacior](https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8) | [Stargazer](https://open.spotify.com/album/1dYQwIx2deZDw8vg6tKxBl) | 3:45 |
 | 53 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 130 | [Gutter Heart \- Acoustic Version](https://open.spotify.com/track/3QQD8AnSMwDYf8NQ585CqR) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Temple \(Unplugged\)](https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW) | 3:39 |
 | 131 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
 
-Snapshot ID: `MTY2ODcwNzY0MiwwMDAwMDAwMDhiYjhkODkxYjE0NzNjNzk0YTg5YTBmNjMxMjhlYzU0`
+Snapshot ID: `MTY2ODcwNzY0MiwwMDAwMDAwMDgwMDdiNzlkMzIzNjM2NWFmNDFhMjAwMjhiMzJlNjdm`

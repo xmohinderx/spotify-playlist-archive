@@ -4,7 +4,7 @@
 
 > Our favorite electronic tracks of 2021\. Cover: Fred again..
 
-121 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
+122 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 | 2021-12-01 |  |
 | [The Distance](https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7) | 4:51 | 2021-12-01 | 2022-07-29 |
 | [The Limit](https://open.spotify.com/track/5OBUmFuhkit7MYdaVZc2bs) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [The Limit](https://open.spotify.com/album/4qrRtK8B87gcp9S4aWZwPt) | 5:21 | 2021-12-01 |  |
-| [The Princess and the Clock](https://open.spotify.com/track/1o1aFykyi3d4qQPxDcPCJ7) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation II](https://open.spotify.com/album/1IcnToegRv641JAVAR8IqS) | 3:49 | 2021-12-01 |  |
+| [The Princess and the Clock](https://open.spotify.com/track/0jPoMzAErw4Exk2vbwQRHC) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation](https://open.spotify.com/album/4tywc61wWZwHDEBEDG4Cq1) | 3:49 | 2021-12-01 |  |
+| [The Princess and the Clock](https://open.spotify.com/track/1o1aFykyi3d4qQPxDcPCJ7) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation II](https://open.spotify.com/album/1IcnToegRv641JAVAR8IqS) | 3:49 | 2021-12-01 | 2022-11-26 |
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2021-12-01 |  |
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/39vC0mokdXbWbdzzUymp3x) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/2ruYajRlSa2ODHn7mxxNRk) | 4:30 | 2021-12-01 |  |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2021-12-01 |  |

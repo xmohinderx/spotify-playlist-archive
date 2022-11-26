@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-310 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
+311 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,9 +268,10 @@
 | [Take Me Back](https://open.spotify.com/track/6tBQwbubOllLrJgkh3utw2) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Take Me Back](https://open.spotify.com/album/5SsKV34TZECeZsU0tAEZb3) | 3:09 | 2021-12-03 | 2022-01-08 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
 | [Take Your Time](https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Take Your Time](https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh) | 3:06 | 2021-12-03 | 2022-01-08 |
-| [Tears For Later](https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Tears For Later](https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO) | 2:46 | 2021-12-03 |  |
+| [Tears For Later](https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Tears For Later](https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO) | 2:46 | 2021-12-03 | 2022-11-26 |
 | [Tell Me Something Good](https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5) | 4:09 | 2022-01-28 | 2022-07-29 |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2022-07-22 |  |
+| [Temptation](https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Temptation](https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ) | 3:12 | 2022-11-18 |  |
 | [Temptation \(feat\. Elise LeGrow\)](https://open.spotify.com/track/5nz5inh9IXoP7wwi2hi8kO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Temptation \(feat\. Elise LeGrow\)](https://open.spotify.com/album/2SerB9WFHD9HekA6tX95cb) | 3:12 | 2022-03-28 | 2022-11-17 |
 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 | 2022-01-07 | 2022-10-06 |
 | [That Feeling \(feat\. Hayley May\)](https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898) | [Danny Quest](https://open.spotify.com/artist/3F3uRvVluLsFqBrGaeJP3p), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [That Feeling \(feat\. Hayley May\)](https://open.spotify.com/album/02w7N6Z1cgDLw2DJTWCCsn) | 2:14 | 2021-12-03 | 2022-10-06 |

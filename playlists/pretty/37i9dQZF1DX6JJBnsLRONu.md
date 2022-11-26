@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,695 likes - 57 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,722 likes - 57 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

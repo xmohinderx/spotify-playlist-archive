@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-202 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+204 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Mountain Springs](https://open.spotify.com/track/6FndQWYzwj8kfv30aFAs3W) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mountain Spring](https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG) | 2:26 | 2022-06-10 | 2022-09-17 |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-03-04 | 2022-07-08 |
 | [Mysteria](https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Mysteria](https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW) | 2:02 | 2022-03-04 | 2022-04-22 |
+| [New York](https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd) | [Zach Len](https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR) | [New York](https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh) | 2:25 | 2022-11-25 |  |
 | [Noche Oscura](https://open.spotify.com/track/7pBTuE1FyL9c384Qn7VjSi) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Noche Oscura](https://open.spotify.com/album/4VsF4lug4BUD3eU6cAd1zv) | 2:30 | 2022-03-04 | 2022-05-27 |
 | [Nostálgica](https://open.spotify.com/track/4KirUMRCdO6e9dzltUqHoN) | [Manuel Limbucca](https://open.spotify.com/artist/5mTxvOsY3hfZ4DWE6qMSpT) | [Granada](https://open.spotify.com/album/4hSlCERBN8RHcmwYugUOUK) | 2:52 | 2022-03-04 | 2022-05-27 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-03-04 |  |
@@ -190,6 +191,7 @@
 | [To The Fullest](https://open.spotify.com/track/3N3cO8C6pdGLlZOIM2m0gY) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [To The Fullest](https://open.spotify.com/album/068joD3o3RhbfVGnraePDB) | 2:42 | 2022-03-04 | 2022-04-06 |
 | [train](https://open.spotify.com/track/4GK2DBwEnwd1P52jzVPzM0) | [Flaudicia](https://open.spotify.com/artist/1JEhjxH1R2Jvu17PzmphGl) | [train](https://open.spotify.com/album/7FyE3r44ajkiHt971NQkYE) | 3:01 | 2022-03-04 | 2022-04-06 |
 | [Traveling Through](https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf) | [Timber Row](https://open.spotify.com/artist/64ICK2JUkKFcevsUA8N8Ll) | [Lone Rider](https://open.spotify.com/album/2KhCe7d9REnKhzfiR3BDFp) | 2:14 | 2022-03-04 |  |
+| [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 |  |
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2022-03-04 | 2022-05-27 |
 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 | 2022-03-04 |  |
 | [Valencia](https://open.spotify.com/track/42OPBRIHro3yVoABLDGAnY) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Valencia](https://open.spotify.com/album/1cy4QIaqQNFDXEcynAUkvj) | 2:31 | 2022-03-04 | 2022-03-19 |

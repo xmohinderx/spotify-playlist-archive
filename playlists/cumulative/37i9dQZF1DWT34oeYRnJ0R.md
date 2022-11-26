@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: paopao
 
-216 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
+217 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 | 2022-10-09 |  |
 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 | 2022-09-06 | 2022-10-13 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-25 | 2022-09-07 |
-| [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 | 2022-09-06 |  |
+| [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 | 2022-09-06 | 2022-11-26 |
 | [lyu2 \(with marcos g\)](https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [lyu2 \(with marcos g\)](https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3) | 3:02 | 2022-09-06 |  |
 | [mala maña](https://open.spotify.com/track/2tcHiFQUp21LbIKdWmA995) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:33 | 2022-03-21 | 2022-09-07 |
 | [Mala Mía](https://open.spotify.com/track/2qBZwnNngUE4RXnJkznZVR) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Amor Roma](https://open.spotify.com/album/2pbBhYiSdgcWhuUFAzPru0) | 2:32 | 2022-03-21 | 2022-06-28 |
@@ -211,6 +211,7 @@
 | [Tu Fanático \- Remix](https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tu Fanático \(Remix\)](https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM) | 3:34 | 2022-09-06 |  |
 | [Tú y Yo](https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Memento](https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb) | 2:54 | 2022-09-06 |  |
 | [Una Llamada](https://open.spotify.com/track/0K1muMnMBrwseIwuswb18q) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Una Llamada](https://open.spotify.com/album/1V9ImHHtf4gyi3FZt9WuWJ) | 3:13 | 2022-03-21 | 2022-06-01 |
+| [VENENO](https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:33 | 2022-11-26 |  |
 | [Vente A Mi \(feat\. Jeuru\)](https://open.spotify.com/track/2JSYuVXVDnKgHVhVqv6gSP) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc), [JEURU](https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq) | [Vente A Mi \(feat\. Jeuru\)](https://open.spotify.com/album/26cyNJplkWY6BjnkZK2Cxq) | 2:37 | 2022-03-21 | 2022-06-25 |
 | [Vicio](https://open.spotify.com/track/0gbxXSs8uAopxh4XczYmmi) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Bahía Margarita](https://open.spotify.com/album/57HpVjbxNxCsSGiotd1Fq1) | 4:10 | 2022-03-21 | 2022-09-07 |
 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 | 2022-03-25 | 2022-09-07 |

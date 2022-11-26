@@ -4,7 +4,7 @@
 
 > A playlist for your Arab hipster starter kit.
 
-108 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
+109 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,11 +54,12 @@
 | [Eujoaideen](https://open.spotify.com/track/5kFQG6TjztZKpfeiNEpH1a) | [The Scorpios](https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe) | [The Scorpios](https://open.spotify.com/album/6UstlaUrqOXYkcqwfmFRG4) | 4:39 | 2020-05-01 |  |
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/0J4ltLwYQP6kyTy8JvmH9K) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Farrah Galbi Aljadeed \(Habibi Funk 009\)](https://open.spotify.com/album/3yPPozyWOkJcry3Ms86kEi) | 5:01 | 2020-05-01 | 2022-07-29 |
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/26vTeYgVVVqNwZLfOicw9p) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 5:01 | 2020-05-01 | 2022-11-20 |
+| [Forssa Saeeda](https://open.spotify.com/track/1KXgQYlW0U2z8k3bP6Kqyh) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ) | 6:55 | 2020-05-01 |  |
 | [Forssa Saeeda](https://open.spotify.com/track/5BoLdMq2K6BV8RpDmfY2Df) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 6:55 | 2020-05-01 | 2022-11-20 |
 | [Forssa Saeeda](https://open.spotify.com/track/7nKCVuK9xUx8o7iEo2w8sC) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Forssa Saeeda \(Habibi Funk 009\)](https://open.spotify.com/album/5HrgDklOtIEli3a1is5ixG) | 6:55 | 2020-05-01 | 2022-07-29 |
 | [Gelty](https://open.spotify.com/track/6haHoWRck06kZn4h92sEeL) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Love Words](https://open.spotify.com/album/34rC9hANoR793NEd7MY9OU) | 6:14 | 2020-05-01 |  |
 | [Gelty](https://open.spotify.com/track/0bRSz7QWA43loaosHgg5Sz) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Mots D'amour](https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC) | 6:14 | 2020-05-01 | 2022-07-29 |
-| [Gonon El Desco](https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI) | [Ezzat Abou Ouf](https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN) | [Gonon El Desco](https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3) | 4:01 | 2020-05-01 |  |
+| [Gonon El Desco](https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI) | [Ezzat Abou Ouf](https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN) | [Gonon El Desco](https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3) | 4:01 | 2020-05-01 | 2022-11-26 |
 | [Hanen](https://open.spotify.com/track/0TLpfEvWO8ruwbgfXVKbm5) | [Carthago](https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU) | [Alech \(Habibi Funk 004\)](https://open.spotify.com/album/6aWbhj0AFwifo0K7ebOWuh) | 4:56 | 2020-05-01 | 2022-11-20 |
 | [Hanen](https://open.spotify.com/track/2WdkiDYeDX1VgiEp0Y52Ns) | [Carthago](https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU) | [Alech \(Habibi Funk 004\)](https://open.spotify.com/album/5FA03xFVBdvnFN2F0eJVfn) | 4:56 | 2020-05-01 |  |
 | [I Love You Lina](https://open.spotify.com/track/4a2AUYDT9qsCKE69u4WVn4) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/4VTzwUDvasSga8yUhdHK1y) | 2:30 | 2020-05-01 | 2022-07-29 |

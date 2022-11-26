@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2010s.",
-  "num_followers": 792612,
+  "num_followers": 793326,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTI1ODU5NiwwMDAwMDAwMDY1Y2ZmZDFkMTZjMDA3NjZlZjZmYmNlMWE1YmQ2ZmNm",
+  "snapshot_id": "MTY2MTI1ODU5NiwwMDAwMDAwMDM3OGY0ZjkwMTNiZGQ5YTI3NjUzMjgyMmIwYjcwOTRi",
   "tracks": [
     {
       "added_at": "2022-08-23 12:43:16",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 285935,
       "name": "Love In The Dark",
       "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "How Do You Sleep?",
-        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 202204,
-      "name": "How Do You Sleep?",
-      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1747,6 +1747,38 @@
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -1771,22 +1803,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "All I Ask",
-      "url": "https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Blood Harmony (Deluxe)",
         "url": "https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "All I Ask",
+      "url": "https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Sacred Hearts Club",
-        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Sit Next to Me",
-      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "3 (The Purple Album)",
         "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 205440,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Sacred Hearts Club",
+        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Sit Next to Me",
+      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Tell Me That You Love Me",
-        "url": "https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 194658,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Lie To Me (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 149877,
       "name": "Lie To Me (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 194658,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2835,6 +2835,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 212787,
+      "name": "I Want You Around",
+      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
       },
@@ -2851,18 +2867,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 212787,
-      "name": "I Want You Around",
-      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
+      "duration_ms": 162586,
+      "name": "i'm so tired...",
+      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2883,22 +2903,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Revival (Deluxe)",
-        "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "Same Old Love",
-      "url": "https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Red (Big Machine Radio Release Special)",
         "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
       },
@@ -2915,6 +2919,22 @@
       "duration_ms": 245413,
       "name": "Everything Has Changed",
       "url": "https://open.spotify.com/track/3Z1kZKYfRC8iRXnYeC5sCJ"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Revival (Deluxe)",
+        "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "Same Old Love",
+      "url": "https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2951,22 +2971,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -2979,6 +2983,22 @@
       "duration_ms": 197182,
       "name": "Naked - Bonus Track",
       "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -2999,42 +3019,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "i'm so tired...",
-      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Halcyon Nights",
         "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
       },
@@ -3047,6 +3031,22 @@
       "duration_ms": 154440,
       "name": "How Long Will I Love You",
       "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3187,6 +3187,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "Make Me (Cry)",
         "url": "https://open.spotify.com/album/46yAYzRhSMPA44m0MzSr6g"
       },
@@ -3203,22 +3219,6 @@
       "duration_ms": 242081,
       "name": "Make Me (Cry)",
       "url": "https://open.spotify.com/track/2BrzlUj1u1CtvaJDGIKpsP"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "Selfless",
-        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "EX",
-      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3367,22 +3367,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Uncover",
-        "url": "https://open.spotify.com/album/0vXJ3rh6Sy7KWjp2P5d7ll"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 213543,
-      "name": "Uncover",
-      "url": "https://open.spotify.com/track/3DQisSEr1TLp9H0BEeKiQS"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -3395,6 +3379,22 @@
       "duration_ms": 329666,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Uncover",
+        "url": "https://open.spotify.com/album/0vXJ3rh6Sy7KWjp2P5d7ll"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 213543,
+      "name": "Uncover",
+      "url": "https://open.spotify.com/track/3DQisSEr1TLp9H0BEeKiQS"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3447,6 +3447,26 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "What You Did (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "I Can't Carry This Anymore",
         "url": "https://open.spotify.com/album/51FT0jxpcACduSG3w3NiFL"
       },
@@ -3487,26 +3507,6 @@
       "duration_ms": 318525,
       "name": "Same Love (feat. Mary Lambert)",
       "url": "https://open.spotify.com/track/01uqI4H13Gsd8Lyl1EYd8H"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "What You Did (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3567,6 +3567,22 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
+        "name": "Robin Hood",
+        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Robin Hood",
+      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r"
       },
@@ -3583,22 +3599,6 @@
       "duration_ms": 223053,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "Robin Hood",
-        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Robin Hood",
-      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
     },
     {
       "added_at": "2022-07-09 22:00:00",
@@ -3987,38 +3987,6 @@
     {
       "added_at": "2022-07-09 22:00:00",
       "album": {
-        "name": "Ella Eyre",
-        "url": "https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5"
-      },
-      "artists": [
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 230711,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
-        "name": "The Sun Will Come up, The Seasons Will Change",
-        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "The Best You Had",
-      "url": "https://open.spotify.com/track/3i0VfLdOUCks9DmAht65XI"
-    },
-    {
-      "added_at": "2022-07-09 22:00:00",
-      "album": {
         "name": "Toast to Our Differences (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1cujDxjZaAtJXnvyW7sl3U"
       },
@@ -4043,6 +4011,38 @@
       "duration_ms": 211760,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/7mkT9kS25nUIoNkm02Ww0n"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "The Sun Will Come up, The Seasons Will Change",
+        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "The Best You Had",
+      "url": "https://open.spotify.com/track/3i0VfLdOUCks9DmAht65XI"
+    },
+    {
+      "added_at": "2022-07-09 22:00:00",
+      "album": {
+        "name": "Ella Eyre",
+        "url": "https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5"
+      },
+      "artists": [
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "duration_ms": 230711,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM"
     },
     {
       "added_at": "2022-07-09 22:00:00",

@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley Gorley
 
-215 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+216 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,5 +223,6 @@
 | [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 | 2022-08-01 |  |
 | [Wink](https://open.spotify.com/track/3npzejFbPBy7sJIbkvTuZl) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 2:52 | 2022-01-01 |  |
 | [winner.](https://open.spotify.com/track/0nac6fGT0ROzUgG56c9RMZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [winner.](https://open.spotify.com/album/1kWyKD40f10OOX1w68su1O) | 2:58 | 2022-06-06 |  |
+| [You](https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha) | [You](https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt) | 3:16 | 2022-11-25 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

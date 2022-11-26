@@ -4,7 +4,7 @@
 
 > Run to indie and alternative hits.
 
-191 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
+193 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,11 @@
 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 | 2022-01-21 | 2022-07-29 |
 | [7](https://open.spotify.com/track/1MoDk4XDqdX25GXaRfXY2O) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/6PrcsM0LNzEYEmxvLNTJQN) | 4:16 | 2022-01-21 | 2022-07-29 |
 | [7](https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:16 | 2022-03-31 |  |
-| [A Life in Color](https://open.spotify.com/track/70ppxZHlN9AC2kEALCJGD6) | [Ramsey the Fourth](https://open.spotify.com/artist/7KBDBiNPH6TqBilJMWaJxf) | [A Life in Color](https://open.spotify.com/album/1ry5ikCYhK3SZvaQYiaGIU) | 3:22 | 2022-03-24 |  |
+| [A Life in Color](https://open.spotify.com/track/70ppxZHlN9AC2kEALCJGD6) | [Ramsey the Fourth](https://open.spotify.com/artist/7KBDBiNPH6TqBilJMWaJxf) | [A Life in Color](https://open.spotify.com/album/1ry5ikCYhK3SZvaQYiaGIU) | 3:22 | 2022-03-24 | 2022-11-26 |
 | [A Temporary High](https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:23 | 2022-08-12 |  |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-21 | 2022-10-03 |
 | [A Temporary High](https://open.spotify.com/track/4tDr4ibocFSBY2Yy54hFpK) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr) | 3:23 | 2022-03-31 | 2022-09-15 |
+| [Afterworld](https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Afterworld](https://open.spotify.com/album/1L0x1iCP1Uk2pMcKHtwW7Y) | 3:37 | 2022-11-26 |  |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 | 2022-03-31 |  |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 | 2022-01-21 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:24 | 2022-01-21 | 2022-07-29 |
@@ -33,6 +34,7 @@
 | [Blue Orchid](https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:37 | 2022-03-31 |  |
 | [Blue Orchid](https://open.spotify.com/track/1PCA097woCMSDvZPUVeRI7) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/5dQCkDTTilKZBD8Fhlmxiw) | 2:38 | 2022-01-21 | 2022-07-28 |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2022-01-21 |  |
+| [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 | 2022-11-26 |  |
 | [Burning](https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 5:48 | 2022-03-31 |  |
 | [Burning](https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 5:48 | 2022-01-21 | 2022-07-29 |
 | [Burning](https://open.spotify.com/track/08HmtdAdRYiutP5WO02utw) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/63BiMHrNanPPTIcDArNX4E) | 3:11 | 2022-01-21 | 2022-07-29 |
@@ -60,7 +62,7 @@
 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 | 2022-01-21 |  |
 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 | 2022-01-21 |  |
 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 | 2022-01-21 |  |
-| [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 | 2022-03-24 |  |
+| [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 | 2022-03-24 | 2022-11-26 |
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2022-03-31 |  |
 | [Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273) | 4:44 | 2022-01-21 | 2022-07-29 |
 | [Do Me Like That](https://open.spotify.com/track/2R4B5jDPvxVR09SQGLyDFP) | [Penguin Prison](https://open.spotify.com/artist/5VsOThWOagH8C8gCvIy13k) | [Turn It Up](https://open.spotify.com/album/0mcUaWtpurg0ICvHZiRxeU) | 3:15 | 2022-03-31 |  |
@@ -187,7 +189,7 @@
 | [Too Late Now](https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Too Late Now / Oh No](https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS) | 3:29 | 2022-02-21 | 2022-03-01 |
 | [Up!](https://open.spotify.com/track/0kOlfVP8Vg17Q41RkWGbWY) | [The Legends](https://open.spotify.com/artist/0GSCJJOY6dLofAwE68vMPd), [Vilma Flood](https://open.spotify.com/artist/34mQpvCjyifYcrScoIlcmW) | [Up!](https://open.spotify.com/album/2P9XEw3s2JBOyXG09KBSKw) | 1:56 | 2022-01-21 | 2022-11-12 |
 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 | 2022-01-21 |  |
-| [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-11-18 |  |
+| [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-11-17 |  |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2022-02-21 |  |
 | [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:09 | 2022-01-21 | 2022-07-29 |
 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 | 2022-09-30 |  |

@@ -1838,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Get On My Love",
+        "url": "https://open.spotify.com/album/2O2RFVGO34vGbxo391JhdC"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173267,
+      "name": "Get On My Love",
+      "url": "https://open.spotify.com/track/60REZmVNnLB2846rcsEoJJ"
+    },
+    {
+      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
       },
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 186093,
       "name": "home is lonely",
       "url": "https://open.spotify.com/track/0ul8VoGOdO1IK5LveN0r2q"
@@ -2798,6 +2816,28 @@
     },
     {
       "album": {
+        "name": "I Wanna Feel Good",
+        "url": "https://open.spotify.com/album/1s6h54FeQ45AQ9l7xOHnuO"
+      },
+      "artists": [
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+        },
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132656,
+      "name": "I Wanna Feel Good",
+      "url": "https://open.spotify.com/track/0qoKp8HEp97wjjKfefHTRW"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR"
       },
@@ -2813,6 +2853,24 @@
       "duration_ms": 204713,
       "name": "I wanna love you but I don\u2019t",
       "url": "https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl"
+    },
+    {
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/3GwSedcMHVElOaF9Wm5Tqx"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192746,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/66qkBxuwjKxEbvLxo4tY0C"
     },
     {
       "album": {
@@ -3907,7 +3965,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 234961,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4MB87UHsD18uievFjjo737"
@@ -4174,6 +4232,24 @@
     },
     {
       "album": {
+        "name": "No Wonder",
+        "url": "https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201278,
+      "name": "No Wonder",
+      "url": "https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3"
+    },
+    {
+      "album": {
         "name": "Not Alone (from Devotion)",
         "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
       },
@@ -4315,7 +4391,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 184806,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/4oiQcTx1JgW7DrVJfi7N2I"
@@ -4622,6 +4698,24 @@
     },
     {
       "album": {
+        "name": "Scared of Love",
+        "url": "https://open.spotify.com/album/6zxX2rDdkJxtILAlMxHtiM"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169881,
+      "name": "Scared of Love",
+      "url": "https://open.spotify.com/track/3sN0PsHUCr7C2W1G0vOMOY"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1"
       },
@@ -4673,7 +4767,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 183575,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK"
@@ -5099,7 +5193,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 190280,
       "name": "stuck in denial",
       "url": "https://open.spotify.com/track/5VVqWlP1umXU5XYdZTXXaT"

@@ -418,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Confession (Ditto X Chuu (LOONA))",
+        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
+      },
+      "artists": [
+        {
+          "name": "Chuu (LOONA)",
+          "url": "https://open.spotify.com/artist/5cFdpa8OCO9JGIOB7O8ygU"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Confession (Ditto X Chuu (LOONA))",
+      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/6QKMkubaMBZsiSGaxYd1k1"
       },
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 217320,
       "name": "UH-RA? (feat. dress)",
       "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"

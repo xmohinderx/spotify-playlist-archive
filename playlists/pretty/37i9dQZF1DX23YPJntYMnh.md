@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,294 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,343 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 |
+| 1 | [The Shape I'm Takin'](https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Shape I'm Takin'](https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp) | 3:35 |
 | 2 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
 | 3 | [Too Much Girl 4 Me \(feat\. Billy Gibbons\)](https://open.spotify.com/track/734WIZHSCzLUpxAjeE0J7K) | [Morris Day](https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD) | [Too Much Girl 4 Me \(feat\. Billy Gibbons\)](https://open.spotify.com/album/4l1PiVwpjTQTruBUTcnfBR) | 2:27 |
 | 4 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 27 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 |
 | 28 | [Get The Funk Out](https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 4:24 |
 | 29 | [Midlife Crisis](https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 4:19 |
-| 30 | [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 |
+| 30 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 |
 | 31 | [Stop](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 |
 | 32 | [Love Rears Its Ugly Head](https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Time'S Up](https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA) | 4:19 |
 | 33 | [Breaking Glass \- 2017 Remaster](https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 1:52 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 54 | [Black the Sky](https://open.spotify.com/track/6qrRjccCGT1LC9yO0bsBfm) | [King's X](https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH) | [Dogman](https://open.spotify.com/album/47U4J0zNT79iSnbWJOXg5S) | 4:33 |
 | 55 | [Sever](https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Soundsystem](https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ) | 4:43 |
 | 56 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
-| 57 | [Vinnie](https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5) | [Screaming Headless Torsos](https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb) | [1995](https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN) | 4:24 |
-| 58 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
+| 57 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
+| 58 | [Vinnie](https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5) | [Screaming Headless Torsos](https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb) | [1995](https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN) | 4:24 |
 | 59 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
 | 60 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDAwYmE5ZDFlYTY2YTI2NDc0ZjEzMmY4NmUwZTQ3YWNi`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDE3MTA1NmEyOGEzYjVhZWQyMjIyNDQ4OWY5MTE4YjMx`

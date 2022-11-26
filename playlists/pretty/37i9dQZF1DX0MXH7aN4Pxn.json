@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687830,
+  "num_followers": 687837,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDllNjNmNWI0MTJjMmM0MGJkNGMzNDRlMGI0MzVlM2Qx",
+  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDc3YjgwY2I3ZDQ3MWE4MjhkMTI1YWYxMTA2YmQ5ZDVm",
   "tracks": [
     {
       "added_at": "2022-08-22 17:56:05",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Pump It Up",
-        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 150635,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Don't Need Love",
         "url": "https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 195480,
       "name": "Don\u2019t Need Love (with GRACEY)",
       "url": "https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 150635,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1991,22 +1991,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/1LD7wfM8EYjricnmu1EpWQ"
+        "name": "Black Hole (Goodboys Remix)",
+        "url": "https://open.spotify.com/album/6tule1mz3fhX8MwY1k7rAn"
       },
       "artists": [
         {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         },
         {
-          "name": "Kiara Nelson",
-          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 164975,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL"
+      "duration_ms": 166742,
+      "name": "Black Hole - Goodboys Remix",
+      "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
     }
   ],
   "unique_name": "PARTY MODE",

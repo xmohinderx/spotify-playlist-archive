@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 105714,
+  "num_followers": 105889,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGU4OTNiMDRhMGNkYTcyYmVhMDk1ODc5OTMxMDhmNGQw",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDJhM2Q3NzY5ODIxODBkNDJlM2RlYzY5MTRjYjEzOGZk",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Dance Of Time",
+        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 299506,
+      "name": "Little Paradise",
+      "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
         "url": "https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 221000,
       "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
       "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Dance Of Time",
-        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "Little Paradise",
-      "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Taxes",
-        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
-      },
-      "artists": [
-        {
-          "name": "Disco Loveless",
-          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
-        }
-      ],
-      "duration_ms": 201577,
-      "name": "Taxes",
-      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
+      },
+      "artists": [
+        {
+          "name": "Disco Loveless",
+          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
+        }
+      ],
+      "duration_ms": 201577,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
-      },
-      "artists": [
-        {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Just A Little Lovin' (Early In The Mornin')",
-      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Stuck on You",
+        "url": "https://open.spotify.com/album/48jJpJh1n2jszVcUoFmnrf"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        }
+      ],
+      "duration_ms": 333089,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/3Nie2FVxbHaDvEfdBq95ff"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Stuck on You",
-        "url": "https://open.spotify.com/album/48jJpJh1n2jszVcUoFmnrf"
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
       "artists": [
         {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
         }
       ],
-      "duration_ms": 333089,
-      "name": "Stuck on You",
-      "url": "https://open.spotify.com/track/3Nie2FVxbHaDvEfdBq95ff"
+      "duration_ms": 200933,
+      "name": "Just A Little Lovin' (Early In The Mornin')",
+      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
-      },
-      "artists": [
-        {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Time to Love Again",
         "url": "https://open.spotify.com/album/5lFWqbLV5EG4qthImhlwV6"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 280508,
       "name": "Midnight at the Oasis",
       "url": "https://open.spotify.com/track/0sDFNE6X8ZKMRJHzr1RnDI"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
+      },
+      "artists": [
+        {
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1499,18 +1499,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Enough to Be on Your Way",
-        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
+        "name": "True Love's Flame",
+        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        },
+        {
+          "name": "Anna Serierse",
+          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
         }
       ],
-      "duration_ms": 318175,
-      "name": "Enough to Be on Your Way",
-      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
+      "duration_ms": 152360,
+      "name": "A Place I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "True Love's Flame",
-        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
+        "name": "Enough to Be on Your Way",
+        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
       "artists": [
         {
-          "name": "Benjamin Herman",
-          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
-        },
-        {
-          "name": "Anna Serierse",
-          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 152360,
-      "name": "A Place I Don\u2019t Know",
-      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
+      "duration_ms": 318175,
+      "name": "Enough to Be on Your Way",
+      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Alone With My Faith",
+        "url": "https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Benevolent Man",
+      "url": "https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 226240,
       "name": "A Happy Thought (feat. Stu Mindeman)",
       "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Alone With My Faith",
-        "url": "https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Benevolent Man",
-      "url": "https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM"
     },
     {
       "added_at": "2022-11-24 23:00:00",

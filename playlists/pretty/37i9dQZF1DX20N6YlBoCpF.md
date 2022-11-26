@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90?si=c6RwFQ\_JR2C\_\_DcuHpTRYg">Ché</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,376 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,416 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 9 | [Drink](https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa) | [Frikkie Braaibroodjie](https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL) | [Drink](https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx) | 3:18 |
 | 10 | [Laat Jou Voete Praat](https://open.spotify.com/track/6qNaSzF7aySbSCsNhmari2) | [CHARLIZE BERG](https://open.spotify.com/artist/0sm5h6GieSMumfzCc2ZONn) | [Laat Jou Voete Praat](https://open.spotify.com/album/1GffQhKNGRVPF6RqgmaXV2) | 3:46 |
 | 11 | [ATKV](https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:04 |
-| 12 | [Liefde Sonder 'n Maar](https://open.spotify.com/track/18fpCH8zf6gnReXzX2A0ST) | [Nádine](https://open.spotify.com/artist/12UDaSgVTTWlqvUytuQQhQ) | [Liefde Sonder 'n Maar](https://open.spotify.com/album/4QFkbKMKOmOwLtqt4FTLUh) | 3:44 |
+| 12 | [Liefde Sonder 'n Maar](https://open.spotify.com/track/18fpCH8zf6gnReXzX2A0ST) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [Liefde Sonder 'n Maar](https://open.spotify.com/album/4QFkbKMKOmOwLtqt4FTLUh) | 3:44 |
 | 13 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 |
 | 14 | [Hierdie Is Nie Liefde Nie](https://open.spotify.com/track/2YNV5GBMYwOI1ZpeSq74Ls) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi), [Michelle Mountjoy](https://open.spotify.com/artist/6YOybZbTWxncOU07yDI6mz) | [Hierdie Is Nie Liefde Nie](https://open.spotify.com/album/2oqy6xdyCXRaiMiNqBKNdm) | 2:49 |
 | 15 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 |

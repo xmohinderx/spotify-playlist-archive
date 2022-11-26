@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,050 likes - 41 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,086 likes - 41 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 33 | [Castles In The Air](https://open.spotify.com/track/1UNG4xf1SxhDE62c8vPCwR) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:42 |
 | 34 | [Even If You Win, You're Still A Rat](https://open.spotify.com/track/1YSmJJ1RRy9pOGgZHwyvhW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:12 |
 | 35 | [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 |
-| 36 | [Heartburn](https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:37 |
+| 36 | [Day in Day Out](https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:10 |
 | 37 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 |
 | 38 | [Daybreak](https://open.spotify.com/track/1ARkHSVKsDO1RWu2vedbpm) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:32 |
-| 39 | [Day in Day Out](https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:10 |
+| 39 | [Heartburn](https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:37 |
 | 40 | [Colony Collapse](https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:31 |
 | 41 | [Devil's Island](https://open.spotify.com/track/7E72zJebtIL3QHjXZOBk3d) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:06 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA2MGM1N2U1ZDdkNTcyNGEwODBlZmYyYzlkMDI1NWEwYw==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDA4NzViYWQzODdlMWQ5MTY4OGM2MTUyMmYzNDgzMzk2Zg==`

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 347108,
+  "num_followers": 347268,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMxOTIxMywwMDAwMDAwMDdlYjhmMDNkNzUxMjgxNzAzYTMxZWQxNjMwNjE4OWU4",
+  "snapshot_id": "MTY2OTMxOTIxMywwMDAwMDAwMDJhMzM5MjBkOTkzOTk4NjcxZTBkYzNkMjgwNzBhZDVl",
   "tracks": [
     {
       "added_at": "2022-11-24 19:46:53",
@@ -280,7 +280,7 @@
       "added_at": "2022-11-24 19:46:53",
       "album": {
         "name": "Save Me Tonight",
-        "url": "https://open.spotify.com/album/3obgU7GXmEVH1YzAdHIToZ"
+        "url": "https://open.spotify.com/album/384puu2XE2cjWNL66vcOhm"
       },
       "artists": [
         {
@@ -290,7 +290,7 @@
       ],
       "duration_ms": 195319,
       "name": "Save Me Tonight",
-      "url": "https://open.spotify.com/track/0bIgcfjpIsjFIpEXKd2BiM"
+      "url": "https://open.spotify.com/track/6BbiAm2kP8ZSVuba0oMvBl"
     },
     {
       "added_at": "2022-11-24 19:46:53",
@@ -306,6 +306,14 @@
         {
           "name": "STUTS",
           "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "butaji",
+          "url": "https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I"
+        },
+        {
+          "name": "YONCE (Suchmos)",
+          "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
         }
       ],
       "duration_ms": 264732,
@@ -559,18 +567,18 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+      "duration_ms": 355706,
+      "name": "KANATA HALUKA",
+      "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
     },
     {
       "added_at": "2022-11-24 19:46:53",
@@ -592,7 +600,7 @@
       "added_at": "2022-11-24 19:46:53",
       "album": {
         "name": "Highway",
-        "url": "https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9"
+        "url": "https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g"
       },
       "artists": [
         {
@@ -602,7 +610,23 @@
       ],
       "duration_ms": 328434,
       "name": "Highway",
-      "url": "https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1"
+      "url": "https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16"
+    },
+    {
+      "added_at": "2022-11-24 19:46:53",
+      "album": {
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
     },
     {
       "added_at": "2022-11-24 19:46:53",
@@ -623,22 +647,6 @@
       "duration_ms": 164800,
       "name": "BE THE GROOVE",
       "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
-    },
-    {
-      "added_at": "2022-11-24 19:46:53",
-      "album": {
-        "name": "Suzume (Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 355706,
-      "name": "KANATA HALUKA",
-      "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
     },
     {
       "added_at": "2022-11-24 19:46:53",
@@ -731,22 +739,30 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
+        "name": "Mirage Op.1",
+        "url": "https://open.spotify.com/album/2u6IqayyTuhTHxT3elTrCT"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+          "name": "Mirage Collective",
+          "url": "https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf"
         },
         {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "butaji",
+          "url": "https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I"
+        },
+        {
+          "name": "YONCE (Suchmos)",
+          "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
         }
       ],
-      "duration_ms": 207521,
-      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
+      "duration_ms": 247787,
+      "name": "Mirage Op.1",
+      "url": "https://open.spotify.com/track/3oJOpUiLV5btPhLXTKiT6U"
     },
     {
       "added_at": "2022-11-24 19:46:53",
@@ -767,22 +783,22 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
-        "name": "Mirage Op.1",
-        "url": "https://open.spotify.com/album/2u6IqayyTuhTHxT3elTrCT"
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
       },
       "artists": [
         {
-          "name": "Mirage Collective",
-          "url": "https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
         },
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
         }
       ],
-      "duration_ms": 247787,
-      "name": "Mirage Op.1",
-      "url": "https://open.spotify.com/track/3oJOpUiLV5btPhLXTKiT6U"
+      "duration_ms": 207521,
+      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
     },
     {
       "added_at": "2022-11-24 19:46:53",

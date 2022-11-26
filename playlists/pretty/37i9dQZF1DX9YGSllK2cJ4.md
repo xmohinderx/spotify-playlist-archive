@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,678 likes - 163 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,882 likes - 163 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 55 | [The Lantern Lighter](https://open.spotify.com/track/1hGglWU022gMZGk38kyDlQ) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [The Lantern Lighter](https://open.spotify.com/album/2qoWjGZxC8e0uuyYrBGxq7) | 2:57 |
 | 56 | [Eurytmi](https://open.spotify.com/track/2nMjde4kw1yuDyNnu9GJTO) | [Ola Claësson](https://open.spotify.com/artist/3MFfHtQUhTuey7urPpdWqQ) | [Eurytmi](https://open.spotify.com/album/6uLzK7fzvPskfWDDCwLoEj) | 2:39 |
 | 57 | [Glitter](https://open.spotify.com/track/3v9Pk1fxLg5MvKm9i5WraZ) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Glitter](https://open.spotify.com/album/0L8EQKHSBRT1ZjeB8bH8vX) | 2:52 |
-| 58 | [Carvoeiro](https://open.spotify.com/track/6VJ0cJWV19lwXzeDb4f35D) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Carvoeiro](https://open.spotify.com/album/1MdhGVfEl3ITet1idA1eFN) | 2:31 |
+| 58 | [Carvoeiro](https://open.spotify.com/track/1wpifGgn2zC6OPEI6okI67) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Forever Us](https://open.spotify.com/album/19C3NAAdk7JwNDgSXElhHV) | 2:31 |
 | 59 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 |
 | 60 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 |
 | 61 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 162 | [Downstreams](https://open.spotify.com/track/0PfQd8JoZTLC7QmuSALrnH) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Downstreams](https://open.spotify.com/album/3BGgZ0ogCdoaejPURuwfbP) | 2:18 |
 | 163 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 |
 
-Snapshot ID: `MTY2ODQyODc5MCwwMDAwMDAwMDFiMjczZjMwMzQ4ZTNmZTIxNDY1N2M4NTkzOTdhYjQ4`
+Snapshot ID: `MTY2ODQyODc5MCwwMDAwMDAwMDVjOGZhN2JhNTZkYjZkOGFlYWRlZTIzMzBiMmY0YmU4`

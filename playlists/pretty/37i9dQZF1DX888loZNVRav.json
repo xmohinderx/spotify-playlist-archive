@@ -1,12 +1,12 @@
 {
   "description": "Love at its most dramatic. Cover: Moulin Rouge",
-  "num_followers": 7842,
+  "num_followers": 7864,
   "original_name": "Broadway in Love!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQ0NDM4NywwMDAwMDAwMDJjZWE0MzFmZjZjMmY5ZWM5YTUyY2E4YzJkZTlhYWE4",
+  "snapshot_id": "MTY0NDQ0NDM4NywwMDAwMDAwMDFhM2JhZWFmOTFkZDY5NjVjODY4YzI1OTU2NDMxOTE5",
   "tracks": [
     {
       "added_at": "2022-02-09 21:53:30",
@@ -615,6 +615,26 @@
     {
       "added_at": "2022-02-09 21:53:30",
       "album": {
+        "name": "West Side Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Johnny Green",
+          "url": "https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI"
+        }
+      ],
+      "duration_ms": 124093,
+      "name": "West Side Story: Act II: Somewhere",
+      "url": "https://open.spotify.com/track/7DhQXwTYALJHMqoYaVaTFg"
+    },
+    {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
         "name": "Spring Awakening (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3aiuPuezy2yAwt4uvBUZxY"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 145906,
       "name": "My Junk - Original Broadway Cast Recording/2006",
       "url": "https://open.spotify.com/track/1ObqIFmNsmION2gjrvYycO"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
-        "name": "West Side Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa"
-      },
-      "artists": [
-        {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        },
-        {
-          "name": "Johnny Green",
-          "url": "https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI"
-        }
-      ],
-      "duration_ms": 124093,
-      "name": "West Side Story: Act II: Somewhere",
-      "url": "https://open.spotify.com/track/7DhQXwTYALJHMqoYaVaTFg"
     },
     {
       "added_at": "2022-02-09 21:53:30",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-02-09 21:53:30",
       "album": {
-        "name": "West Side Story (New Broadway Cast Recording (2009))",
-        "url": "https://open.spotify.com/album/2tMSkFy27VIZjBum94KbpD"
-      },
-      "artists": [
-        {
-          "name": "Matt Cavenaugh",
-          "url": "https://open.spotify.com/artist/6WiZX2e7EGamztEoz3w8nX"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6ZzVcf5w9RMS4iqIhVQeHe"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
         "name": "Camelot (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/5Fp6Y3gNufwzUeEBxuOZpo"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 191466,
       "name": "Camelot: If Ever I Would Leave You",
       "url": "https://open.spotify.com/track/6ypbXs9QrUv2EJuV7I1pP8"
+    },
+    {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
+        "name": "West Side Story (New Broadway Cast Recording (2009))",
+        "url": "https://open.spotify.com/album/2tMSkFy27VIZjBum94KbpD"
+      },
+      "artists": [
+        {
+          "name": "Matt Cavenaugh",
+          "url": "https://open.spotify.com/artist/6WiZX2e7EGamztEoz3w8nX"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6ZzVcf5w9RMS4iqIhVQeHe"
     },
     {
       "added_at": "2022-02-09 21:53:30",

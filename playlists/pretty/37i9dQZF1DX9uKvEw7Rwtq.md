@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,825 likes - 55 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,937 likes - 55 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 27 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
 | 28 | [Ekki múkk](https://open.spotify.com/track/4aLf8xu5v9TuzVAeIPFETC) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph) | 7:44 |
 | 29 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
-| 30 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
+| 30 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 |
 | 31 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 |
 | 32 | [OUR SIDE HAS TO WIN \(for D.H.\)](https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 6:30 |
-| 33 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 |
+| 33 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
 | 34 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
 | 35 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
 | 36 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 54 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
 | 55 | [The Slide Song](https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Pure Phase](https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a) | 3:52 |
 
-Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMGNkMTRlNzNkYjdjMTY4ZWQxZmJjNmIzNWYzN2M0MjUz`
+Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDYyNWQ1NmFlYjM4ZjEwZDMxMGNlNzAwN2ViZGJlYjRh`

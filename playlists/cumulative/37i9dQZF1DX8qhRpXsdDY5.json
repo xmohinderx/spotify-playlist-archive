@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The perfect Latin tunes to get in the Christmas spirit. ",
+  "description": "The perfect Latin tunes to get in the Christmas spirit. Cover: Conexi\u00f3n Divina",
   "name": "Latin Christmas",
   "published_playlist_ids": [
     "3HjIJ3sXLe73tAroOhDnrQ"
@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Blanca Navidad (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/6XOvqTL0wI3ToELKzrULfH"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159579,
+      "name": "Blanca Navidad - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE"
+    },
+    {
+      "album": {
         "name": "Caliente Navidad",
         "url": "https://open.spotify.com/album/1PC2nH9wPwsmr7UYz4kfrf"
       },
@@ -535,7 +553,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 304706,
       "name": "Cantares de Navidad",
       "url": "https://open.spotify.com/track/3CBwkURhT0xqoDCJQAoSZe"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 182000,
       "name": "Este Diciembre",
       "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
@@ -1344,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bells (Vamos All The Way)",
+        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155626,
+      "name": "Jingle Bells (Vamos All The Way)",
+      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "album": {
         "name": "30th Anniversary",
         "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
       },
@@ -1489,6 +1525,56 @@
       "duration_ms": 191333,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
+    },
+    {
+      "album": {
+        "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
+        "url": "https://open.spotify.com/album/1Z8NCuH0GmRWEfxbWrZQLW"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        },
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Banda Fortuna",
+          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
+        },
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        },
+        {
+          "name": "Ricardo Murillo",
+          "url": "https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125066,
+      "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
+      "url": "https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit"
     },
     {
       "album": {
@@ -2019,7 +2105,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 175500,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz"
@@ -2411,6 +2497,24 @@
       "duration_ms": 191117,
       "name": "Solo En Navidad",
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
+    },
+    {
+      "album": {
+        "name": "Te Deseo Muy Felices Fiestas",
+        "url": "https://open.spotify.com/album/1MNgBagbBDYqLVodkPAX7f"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231137,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/66NGgW8uNBnkSH40VM6bvC"
     },
     {
       "album": {
@@ -2867,7 +2971,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 212893,
       "name": "Ya es Navidad",
       "url": "https://open.spotify.com/track/2CZb2AfUdM9hhDyioxymTL"

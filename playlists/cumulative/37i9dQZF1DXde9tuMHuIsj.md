@@ -2,9 +2,9 @@
 
 ### [Trap Land](https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj)
 
-> The best of Latin Trap\. Cover: Mariah Angeliq & YOVNGCHIMI
+> The best of Latin Trap\. Cover: Eladio Carrion
 
-178 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+181 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bloody II](https://open.spotify.com/track/6Hs094CmM9IJcCUpCKodyp) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Bloody II](https://open.spotify.com/album/6LRvbsSDwfVzGYwIUz1U9R) | 2:47 | 2022-09-09 |  |
 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 | 2022-03-18 | 2022-05-04 |
 | [C100EN](https://open.spotify.com/track/5XnCXhCrTlj90KVaugYMkI) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [C100EN](https://open.spotify.com/album/1xeViFk5ypfynAdOcfqkFP) | 3:05 | 2022-05-03 |  |
+| [C4 x 73](https://open.spotify.com/track/40j4VmZ1eOCAPyWq4UXYmK) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [C4 x 73](https://open.spotify.com/album/78Xx2eT7AsNkxq4qoOXhrW) | 2:44 | 2022-11-25 |  |
 | [Calentón](https://open.spotify.com/track/1IVUBHo1L9YNK2VH8Lmndb) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Foreign Teck](https://open.spotify.com/artist/5HviKGcHfUcbesgUw0PLzX) | [Calentón](https://open.spotify.com/album/6M6USkTvFofNR1Opfp7ukq) | 2:08 | 2022-06-28 |  |
 | [Chanell Con Chanel](https://open.spotify.com/track/7FYXboOgrxcQri3pRgK5nJ) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Chanell Con Chanel](https://open.spotify.com/album/0ZoyktJJTxOA8Ho3pUTStT) | 2:27 | 2022-05-03 | 2022-06-29 |
 | [Cheke](https://open.spotify.com/track/3mPbF5PObAaieo4FtoTi2Z) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [El Nuevo Testamento](https://open.spotify.com/album/5qDaJwOkMjgIfHLKXkcdon) | 3:13 | 2022-06-28 |  |
@@ -89,6 +90,7 @@
 | [Hundreds \(feat\. Yovngchimi & Luar la L\) \- Remix](https://open.spotify.com/track/6OtIKdgAJfgxpbXy19ExHu) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Hundreds \(feat\. Yovngchimi & Luar la L\) \[Remix\]](https://open.spotify.com/album/6U0Pu3qyl0WZTrO8KYHF92) | 6:09 | 2022-06-03 |  |
 | [Influencer](https://open.spotify.com/track/2zwau1HSzNiD13xVtnCzuq) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Influencer](https://open.spotify.com/album/4hgtzMAy62dsk9t2NqXJMF) | 3:13 | 2022-05-03 | 2022-06-29 |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2022-04-01 | 2022-04-15 |
+| [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 | 2022-11-25 |  |
 | [Jóvenes Millonarios](https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:02 | 2022-03-18 |  |
 | [Khunsa](https://open.spotify.com/track/71DpCBjf6bmggtSNmXWjIE) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Reencarnaciòn](https://open.spotify.com/album/7sPE3bH9YnLraUfpREGcvr) | 2:37 | 2022-06-28 |  |
 | [Kong](https://open.spotify.com/track/5qJBRW4DEL0kVi7wdzM8hc) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 4:30 | 2022-05-03 |  |
@@ -156,6 +158,7 @@
 | [Somos O No Somos](https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Somos O No Somos](https://open.spotify.com/album/33x35WmVHlcFK8C17Nhzpw) | 4:00 | 2022-05-03 |  |
 | [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-04-15 |  |
 | [Stripper X](https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Stripper X](https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM) | 2:40 | 2022-05-03 |  |
+| [Suge Knight](https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Suge Knight](https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj) | 8:18 | 2022-11-25 |  |
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2022-05-03 | 2022-05-14 |
 | [Super Gremlin \- El Diablo Mix](https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Super Gremlin \(El Diablo Mix\)](https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe) | 3:59 | 2022-03-18 |  |
 | [Super Gremlin \- El Diablo Mix](https://open.spotify.com/track/7n3yVYDSlkZjEJ2kYMue2W) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Super Gremlin \(El Diablo Mix\)](https://open.spotify.com/album/32zbgvLRlhxbhlqBToS7or) | 3:59 | 2022-03-18 | 2022-04-06 |

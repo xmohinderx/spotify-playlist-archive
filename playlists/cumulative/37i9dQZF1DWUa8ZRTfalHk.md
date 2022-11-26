@@ -2,7 +2,7 @@
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> The hits of tomorrow are on Spotify today\. Cover: Dermot Kennedy
+> The hits of tomorrow are on Spotify today\. Cover: Sabrina Carpenter
 
 1,496 songs - 3 day 5 hr 29 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 

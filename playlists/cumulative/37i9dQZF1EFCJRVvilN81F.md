@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Q4GnDtPDjnD2xTWVQgErL">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-105 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/2DlS10vWOO2JeuRnTH7DA4)
+106 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2DlS10vWOO2JeuRnTH7DA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [1000 Xans](https://open.spotify.com/track/2XkYcbrEv83s6wD0AkeCbz) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:15 | 2022-09-08 |  |
 | [A Lite](https://open.spotify.com/track/3CeI4Ri97C26GxShl4sbdY) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:31 | 2022-09-08 |  |
 | [All Night \(feat\. Knox Fortune\)](https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 2:21 | 2022-09-08 |  |
-| [All We Do](https://open.spotify.com/track/5gIJdZ7ZKhhcCqfT7mMMh2) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/5mG6Ful0k8lBjMtrvKsGuF) | 4:12 | 2022-09-08 |  |
+| [All We Do](https://open.spotify.com/track/3ruOq5Gd9iZAdU1UP2nDJR) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/14RQlFzqaTt8nB8u3SXBRN) | 4:12 | 2022-11-25 |  |
+| [All We Do](https://open.spotify.com/track/5gIJdZ7ZKhhcCqfT7mMMh2) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/5mG6Ful0k8lBjMtrvKsGuF) | 4:12 | 2022-09-08 | 2022-11-26 |
 | [Another Lover](https://open.spotify.com/track/2KwW2VyIp48UXatX8S2TuL) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Silk Canvas](https://open.spotify.com/album/2EbhWs13R3DTnsGXHVZSPy) | 3:48 | 2022-09-08 |  |
 | [At All](https://open.spotify.com/track/0aR99yr1CNoxlZxm2veB65) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At All / Hilarity Duff EP](https://open.spotify.com/album/6VD74xHxGq77aSCaTSMDIw) | 4:47 | 2022-09-08 |  |
 | [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/73VGs4bdVRt4O8D7a4lCwJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 2:43 | 2022-09-08 |  |

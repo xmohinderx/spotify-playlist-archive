@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,293 likes - 54 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,589 likes - 54 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 39 | [Hasta mi final](https://open.spotify.com/track/1fZDEjhNs6zyqKzMC7HjyZ) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 3:36 |
 | 40 | [Your Love \- from "Once Upon A Time In The West"](https://open.spotify.com/track/799SQZx5kNatDCrEOvReAM) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Your Love \(from "Once Upon A Time In The West"\)](https://open.spotify.com/album/5uxs5lrUUWiQcDtnXDtIIl) | 4:11 |
 | 41 | [One Look \(feat\. Leona Lewis\)](https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:18 |
-| 42 | [Perhaps Love](https://open.spotify.com/track/2EliUCT5ApsdtFo1CYblyq) | [Bryn Terfel](https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [John Paricelli](https://open.spotify.com/artist/5bf6RvGi8q0hQUlY0XxZh5), [Czech Philharmonic Orchestra](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Dreams and Songs](https://open.spotify.com/album/6UpFGwTAEexVrJrR2icKHn) | 2:59 |
+| 42 | [Perhaps Love](https://open.spotify.com/track/2EliUCT5ApsdtFo1CYblyq) | [Bryn Terfel](https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [John Paricelli](https://open.spotify.com/artist/5bf6RvGi8q0hQUlY0XxZh5), [Czech Philharmonic](https://open.spotify.com/artist/4pTTYeA2XH8nuTCb5NR3fZ), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Dreams and Songs](https://open.spotify.com/album/6UpFGwTAEexVrJrR2icKHn) | 2:59 |
 | 43 | [We Will Meet Once Again \(with Andrea Bocelli\)](https://open.spotify.com/track/28hIO3sitQKgRPbQ61x6bS) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Bridges \(Deluxe\)](https://open.spotify.com/album/70406c1Pa2F3BQscpLiUME) | 3:55 |
 | 44 | [The Voice](https://open.spotify.com/track/2E3y6X63fbZCYJGELwRAWQ) | [Celtic Woman](https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x) | [A New Journey](https://open.spotify.com/album/1og5dt9eliYqKQG8eBH9jf) | 3:05 |
 | 45 | [Caruso](https://open.spotify.com/track/0tTbk9bpoFRDa19eVghS4d) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Unknown Artist](https://open.spotify.com/artist/3POLGp1PDjloqIXcgfJZZl), [Orchestra del Teatro Comunale di Bologna](https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg) | [Pavarotti Forever](https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP) | 5:18 |

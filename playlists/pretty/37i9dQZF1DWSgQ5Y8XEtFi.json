@@ -1,33 +1,13 @@
 {
   "description": "songs that break bones",
-  "num_followers": 133623,
+  "num_followers": 134298,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDQ3YzA3Mzk1MTkxOWYyMzJhOWVmYmMxNmZiYzkzOGQ0",
+  "snapshot_id": "MTY2OTM1ODQwMCwwMDAwMDAwMDQ5ZGJjM2M4YTNmZTU0NTQ1NWE3YjUyNmFlNTdmOWNm",
   "tracks": [
-    {
-      "added_at": "2022-11-04 22:24:27",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170501,
-      "name": "Major Distribution",
-      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
-    },
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
@@ -43,22 +23,6 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2022-10-14 14:40:00",
-      "album": {
-        "name": "BACKSTAB",
-        "url": "https://open.spotify.com/album/6ucfgxWZPJLjTVDu9Dp6UX"
-      },
-      "artists": [
-        {
-          "name": "SLOE JACK",
-          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
-        }
-      ],
-      "duration_ms": 120827,
-      "name": "SLOW DOWN",
-      "url": "https://open.spotify.com/track/6y4MU4slOYn6OGMslD2fu4"
     },
     {
       "added_at": "2022-10-14 18:14:02",
@@ -79,6 +43,38 @@
       "duration_ms": 122880,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA"
+    },
+    {
+      "added_at": "2022-10-14 14:40:00",
+      "album": {
+        "name": "BACKSTAB",
+        "url": "https://open.spotify.com/album/6ucfgxWZPJLjTVDu9Dp6UX"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/6y4MU4slOYn6OGMslD2fu4"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "GTG",
+        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 93893,
+      "name": "GTG",
+      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -103,46 +99,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "GTG",
-        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 93893,
-      "name": "GTG",
-      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "MERCURY",
-        "url": "https://open.spotify.com/album/67g64s2vQkxpSQylxF07xz"
-      },
-      "artists": [
-        {
-          "name": "CONNIE",
-          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
-        },
-        {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
-        },
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        }
-      ],
-      "duration_ms": 147336,
-      "name": "MERCURY",
-      "url": "https://open.spotify.com/track/0DqfpohMk1FXu2lzyY8O2Y"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "O My Heart",
         "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
       },
@@ -155,22 +111,6 @@
       "duration_ms": 181680,
       "name": "Hayloft",
       "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -191,22 +131,6 @@
       "duration_ms": 213132,
       "name": "Roll in Peace (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Big Pussy",
-        "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 140600,
-      "name": "Big Pussy",
-      "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -231,18 +155,18 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Summertime '06",
-        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl"
       },
       "artists": [
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 183160,
-      "name": "Norf Norf",
-      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
+      "duration_ms": 174250,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -259,26 +183,6 @@
       "duration_ms": 136572,
       "name": "vent",
       "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "i'm bored",
-        "url": "https://open.spotify.com/album/2OwbS1Pizs6Lu8Edd7BKEk"
-      },
-      "artists": [
-        {
-          "name": "Hadji Gaviota",
-          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
-        },
-        {
-          "name": "Gao the Arsonist",
-          "url": "https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum"
-        }
-      ],
-      "duration_ms": 136174,
-      "name": "i'm bored",
-      "url": "https://open.spotify.com/track/5tbUOswPFOzdji3HmJ8qTx"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -315,6 +219,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "Summertime '06",
+        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Norf Norf",
+      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Punk Tactics",
         "url": "https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH"
       },
@@ -327,6 +247,26 @@
       "duration_ms": 143552,
       "name": "Punk Tactics",
       "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "i'm bored",
+        "url": "https://open.spotify.com/album/2OwbS1Pizs6Lu8Edd7BKEk"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        },
+        {
+          "name": "Gao the Arsonist",
+          "url": "https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum"
+        }
+      ],
+      "duration_ms": 136174,
+      "name": "i'm bored",
+      "url": "https://open.spotify.com/track/5tbUOswPFOzdji3HmJ8qTx"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -383,6 +323,22 @@
       "duration_ms": 108013,
       "name": "Want (feat. prodby668)",
       "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Big Pussy",
+        "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 140600,
+      "name": "Big Pussy",
+      "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -469,26 +425,6 @@
       "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
     },
     {
-      "added_at": "2022-10-25 15:20:00",
-      "album": {
-        "name": "bag or die",
-        "url": "https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Lil Toe",
-          "url": "https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "deadman (feat. Lil Toe)",
-      "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Tanaka 2",
@@ -529,6 +465,26 @@
       "url": "https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e"
     },
     {
+      "added_at": "2022-10-25 15:20:00",
+      "album": {
+        "name": "bag or die",
+        "url": "https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Lil Toe",
+          "url": "https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "deadman (feat. Lil Toe)",
+      "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
+    },
+    {
       "added_at": "2022-10-07 11:48:00",
       "album": {
         "name": "GLOW ON",
@@ -547,22 +503,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Sogno",
-        "url": "https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG"
-      },
-      "artists": [
-        {
-          "name": "Bearded Legend",
-          "url": "https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe"
-        }
-      ],
-      "duration_ms": 106877,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Dat $tick",
         "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
       },
@@ -575,6 +515,22 @@
       "duration_ms": 126666,
       "name": "Dat $tick",
       "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Sogno",
+        "url": "https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG"
+      },
+      "artists": [
+        {
+          "name": "Bearded Legend",
+          "url": "https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe"
+        }
+      ],
+      "duration_ms": 106877,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -783,26 +739,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Mase in '97",
-        "url": "https://open.spotify.com/album/7hp3MpqhzFB5S608ZevGQs"
-      },
-      "artists": [
-        {
-          "name": "Carnage",
-          "url": "https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 100008,
-      "name": "Mase in '97",
-      "url": "https://open.spotify.com/track/7j6OJzMIJL5JcFHyeSJZGV"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "MAMBO",
         "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
       },
@@ -911,6 +847,62 @@
       "duration_ms": 181088,
       "name": "DICTATOR",
       "url": "https://open.spotify.com/track/1i5fRXLDQmiNf878YdAUjk"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Art of War (feat. Denzel Curry & Rico Nasty)",
+        "url": "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 186472,
+      "name": "Art of War (feat. Denzel Curry & Rico Nasty)",
+      "url": "https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "TA13OO",
+        "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "SUMO | ZUMO",
+      "url": "https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "CRYPT",
+        "url": "https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2"
+      },
+      "artists": [
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 105612,
+      "name": "CRYPT",
+      "url": "https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU"
     }
   ],
   "unique_name": "LOCKJAW",

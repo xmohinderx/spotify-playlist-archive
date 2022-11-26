@@ -1960,6 +1960,28 @@
     },
     {
       "album": {
+        "name": "Laisse-Toi Tomber",
+        "url": "https://open.spotify.com/album/1POU4xKcEeBw39qtp6fRk1"
+      },
+      "artists": [
+        {
+          "name": "The Soulmate Project",
+          "url": "https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a"
+        },
+        {
+          "name": "Might be Vero",
+          "url": "https://open.spotify.com/artist/0jupxdp3vnb3D29bU0jRo6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178282,
+      "name": "Laisse-Toi Tomber",
+      "url": "https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B"
+    },
+    {
+      "album": {
         "name": "Let there be a swing",
         "url": "https://open.spotify.com/album/6GO07EwUpAfQF2zpnEbeae"
       },
@@ -2165,6 +2187,24 @@
       "duration_ms": 229804,
       "name": "Lone Digger",
       "url": "https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL"
+    },
+    {
+      "album": {
+        "name": "Love Us a Ruckus",
+        "url": "https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7"
+      },
+      "artists": [
+        {
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244202,
+      "name": "Love Us a Ruckus",
+      "url": "https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR"
     },
     {
       "album": {
@@ -2379,7 +2419,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 164582,
       "name": "Marcianito - Cristina Renzetti Vocal Version",
       "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
@@ -3169,7 +3209,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 167360,
       "name": "Re-Charleston (Radio Edit)",
       "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"

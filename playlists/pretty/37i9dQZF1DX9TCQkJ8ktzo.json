@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 18505,
+  "num_followers": 18535,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMDQ4ZDNhYjE5MzVmYzI5YjM2MTBkM2U2OWUwMmRjZGY1",
+  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMDFkOTAxOWY1NTFmYTkxZGFjODAwNzI1MTk0Yjg1ZjM5",
   "tracks": [
     {
       "added_at": "2022-08-31 07:45:41",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Muchacha Bonita",
-      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
         "name": "Cuba y Puerto Rico",
         "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 164986,
       "name": "La Guarachera",
       "url": "https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Muchacha Bonita",
+      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -451,22 +451,6 @@
       "duration_ms": 191738,
       "name": "Estremecete",
       "url": "https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
-        "name": "Corridos Y Rancheras",
-        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Lleg\u00f3 Borracho el Borracho",
-      "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -547,6 +531,22 @@
       "duration_ms": 177893,
       "name": "Cuando Calienta el Sol",
       "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Lleg\u00f3 Borracho el Borracho",
+      "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+        "name": "Fantasia Espanola",
+        "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Mon\u00f3logo",
-      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
+      "duration_ms": 173400,
+      "name": "Cuerdas de Mi Guitarra",
+      "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Fantasia Espanola",
-        "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Cuerdas de Mi Guitarra",
-      "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
+      "duration_ms": 176093,
+      "name": "Mon\u00f3logo",
+      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
     },
     {
       "added_at": "2022-08-31 07:45:41",

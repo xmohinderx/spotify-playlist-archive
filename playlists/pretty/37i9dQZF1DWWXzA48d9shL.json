@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: Freddie Dredd",
-  "num_followers": 366564,
+  "num_followers": 367811,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDU0Y2ViNzI1ZDFmNjJiYjkwMTZiZjEwY2E1MTcxM2I1",
+  "snapshot_id": "MTY2OTM1MjUyMCwwMDAwMDAwMDc4MzE4OGIzNDc4NTNjZDMyNWU2ZmZkNDI5ZThiMDQ0",
   "tracks": [
     {
       "added_at": "2022-11-09 14:43:01",
@@ -23,6 +23,22 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "NEXTBOT!",
+        "url": "https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe"
+      },
+      "artists": [
+        {
+          "name": "Haarper",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "duration_ms": 90625,
+      "name": "NEXTBOT!",
+      "url": "https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -45,26 +61,6 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/1VdHzzopSxbS83ttJ3hIRg"
-      },
-      "artists": [
-        {
-          "name": "Blckbrd",
-          "url": "https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O"
-        },
-        {
-          "name": "Saliva Grey",
-          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
-        }
-      ],
-      "duration_ms": 139102,
-      "name": "MONOCHROME",
-      "url": "https://open.spotify.com/track/57hs3UITeO0l7PXwlyggZn"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Eye Spy",
@@ -79,6 +75,26 @@
       "duration_ms": 146635,
       "name": "Eye Spy",
       "url": "https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3"
+    },
+    {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "MYLAR",
+        "url": "https://open.spotify.com/album/4Dv0bJQKXIOwcV30jhuNCc"
+      },
+      "artists": [
+        {
+          "name": "Blckbrd",
+          "url": "https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O"
+        },
+        {
+          "name": "Saliva Grey",
+          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
+        }
+      ],
+      "duration_ms": 172190,
+      "name": "MYLAR",
+      "url": "https://open.spotify.com/track/3Qw7LPrzt23bdQXMsguiyb"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -99,18 +115,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l"
+        "name": "GODZILLA!",
+        "url": "https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB"
       },
       "artists": [
         {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
         }
       ],
-      "duration_ms": 141508,
-      "name": "Shut It",
-      "url": "https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM"
+      "duration_ms": 167272,
+      "name": "GODZILLA!",
+      "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
     },
     {
       "added_at": "2022-10-14 04:47:00",
@@ -127,6 +143,38 @@
       "duration_ms": 109792,
       "name": "from hell, with love",
       "url": "https://open.spotify.com/track/1atUX5yDsZpz82R6B55UEP"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 141508,
+      "name": "Shut It",
+      "url": "https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM"
+    },
+    {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "RECOIL",
+        "url": "https://open.spotify.com/album/1PjLCf12OUSWlaoBqu8Q9b"
+      },
+      "artists": [
+        {
+          "name": "Lord Gasp",
+          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
+        }
+      ],
+      "duration_ms": 110545,
+      "name": "RECOIL",
+      "url": "https://open.spotify.com/track/6AgK45AXMss9tvgBaLwFxB"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -151,18 +199,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "GODZILLA!",
-        "url": "https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB"
+        "name": "MONOCHROME",
+        "url": "https://open.spotify.com/album/1VdHzzopSxbS83ttJ3hIRg"
       },
       "artists": [
         {
-          "name": "Sxmpra",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+          "name": "Blckbrd",
+          "url": "https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O"
+        },
+        {
+          "name": "Saliva Grey",
+          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
         }
       ],
-      "duration_ms": 167272,
-      "name": "GODZILLA!",
-      "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
+      "duration_ms": 139102,
+      "name": "MONOCHROME",
+      "url": "https://open.spotify.com/track/57hs3UITeO0l7PXwlyggZn"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -533,26 +585,6 @@
       "url": "https://open.spotify.com/track/3ekCDlvLHI0kFj2U1W81oQ"
     },
     {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "RIOT",
-        "url": "https://open.spotify.com/album/7L705LjLyc5QApMUSkBisK"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        },
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "RIOT",
-      "url": "https://open.spotify.com/track/0H2fnXVXeTzl6H5ginSfRG"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "BBB",
@@ -591,6 +623,26 @@
       "duration_ms": 210000,
       "name": "LIKE YXU WXULD KNXW (AUTUMN TREES)",
       "url": "https://open.spotify.com/track/75M7UJy4KmcP3ng0vICdPN"
+    },
+    {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "I WON'T SAVE YOU",
+        "url": "https://open.spotify.com/album/6Nsj8kW7ybcU6ZG41fA1l2"
+      },
+      "artists": [
+        {
+          "name": "Hugo Gray",
+          "url": "https://open.spotify.com/artist/1NzOQ8DXuG5sMmCsyvhDgf"
+        },
+        {
+          "name": "PANDEMXNIUM",
+          "url": "https://open.spotify.com/artist/2krdsObsuYN0O7EK6B1H76"
+        }
+      ],
+      "duration_ms": 99866,
+      "name": "I WON'T SAVE YOU",
+      "url": "https://open.spotify.com/track/4Pg3azdQ1PdO2kPac2X6ks"
     },
     {
       "added_at": "2022-09-23 06:48:00",
@@ -743,30 +795,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "bloody!",
-        "url": "https://open.spotify.com/album/3yAw6PBvcHJo3nVyHKEOp8"
-      },
-      "artists": [
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        },
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "fkbambam",
-          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
-        }
-      ],
-      "duration_ms": 113156,
-      "name": "bloody!",
-      "url": "https://open.spotify.com/track/4ZBEfyphqFsSkjWP7y2L6E"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
@@ -783,26 +811,6 @@
       "duration_ms": 108013,
       "name": "Want (feat. prodby668)",
       "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "POLTERGEIST!",
-        "url": "https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
-        }
-      ],
-      "duration_ms": 101052,
-      "name": "POLTERGEIST!",
-      "url": "https://open.spotify.com/track/041sluNZwBxTCOuu766eNi"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -975,38 +983,6 @@
       "duration_ms": 171680,
       "name": "Kick Rocks (feat. Lil Darkie)",
       "url": "https://open.spotify.com/track/3E6coZX2cGtJVVfC3qeDwQ"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "DONNA",
-        "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
-      },
-      "artists": [
-        {
-          "name": "Softwilly",
-          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
-        },
-        {
-          "name": "void",
-          "url": "https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L"
-        },
-        {
-          "name": "LEX PAIN",
-          "url": "https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE"
-        },
-        {
-          "name": "$atori Zoom",
-          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
-        },
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 158710,
-      "name": "CHROME BERETTA",
-      "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1203,58 +1179,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "KOTA",
-        "url": "https://open.spotify.com/album/2LgEcNjbm8JC8fL986lpBP"
-      },
-      "artists": [
-        {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
-        },
-        {
-          "name": "South Strip",
-          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
-        }
-      ],
-      "duration_ms": 195405,
-      "name": "KOTA",
-      "url": "https://open.spotify.com/track/0dy38Daud7yGJskbPcuHr4"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Archon",
-        "url": "https://open.spotify.com/album/4uTq2N5uRqd87uHxs3X12I"
-      },
-      "artists": [
-        {
-          "name": "Haarper",
-          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
-        }
-      ],
-      "duration_ms": 122316,
-      "name": "Archon",
-      "url": "https://open.spotify.com/track/2p0hXoywTRphFaBOApH5Ew"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "FromBeyondTheGrave",
-        "url": "https://open.spotify.com/album/646x2vO2P4qeUTXANXTPLU"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 119510,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/4K4Rys1SsGGX88c3S6M9Ro"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "Goosebumps!",
         "url": "https://open.spotify.com/album/34jEJ49vmY9S2xu2VOktWX"
       },
@@ -1359,22 +1283,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "DISORDER",
-        "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
-      },
-      "artists": [
-        {
-          "name": "Kxllswxtch",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        }
-      ],
-      "duration_ms": 97057,
-      "name": "YASOPP",
-      "url": "https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "Crooked Smile",
         "url": "https://open.spotify.com/album/6jaoIy9JvvgLYs0OvMzkvx"
       },
@@ -1407,22 +1315,6 @@
       "duration_ms": 109090,
       "name": "CHARLOTTE'S WEB",
       "url": "https://open.spotify.com/track/5reFpkDbm6k57Oqp6oWVby"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "CROWN",
-        "url": "https://open.spotify.com/album/3CGqPpv4c2TRMtoGzOP0UL"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 111233,
-      "name": "CROWN",
-      "url": "https://open.spotify.com/track/712GtX9zzVa02hfTwKA1Ff"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -1499,22 +1391,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "HOBGOBLIN",
-        "url": "https://open.spotify.com/album/3BlOHRQuFEG7sOUQtT6EBp"
-      },
-      "artists": [
-        {
-          "name": "Witchouse 40k",
-          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
-        }
-      ],
-      "duration_ms": 206355,
-      "name": "HOBGOBLIN",
-      "url": "https://open.spotify.com/track/7I7sdHRJhSqQnwPPZbrsmv"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "NIGHTMARE!",
         "url": "https://open.spotify.com/album/2g9zVgPOAAX5yXlXOgdK5N"
       },
@@ -1527,66 +1403,6 @@
       "duration_ms": 148800,
       "name": "NIGHTMARE!",
       "url": "https://open.spotify.com/track/3m3PvBLWGFW6QNXtFvmRsg"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "VENOM",
-        "url": "https://open.spotify.com/album/22fGL6GIk4K5kvQkkcQfik"
-      },
-      "artists": [
-        {
-          "name": "Broken Flow",
-          "url": "https://open.spotify.com/artist/3QGiU4wavNaHjIxxRZVlW4"
-        },
-        {
-          "name": "Mobbs Radical",
-          "url": "https://open.spotify.com/artist/5CMFdQq95rtIg41Vip9wLR"
-        },
-        {
-          "name": "ChaiN",
-          "url": "https://open.spotify.com/artist/2IZOUfwpz4pPxiiwQWdgPX"
-        }
-      ],
-      "duration_ms": 136105,
-      "name": "VENOM",
-      "url": "https://open.spotify.com/track/0oxgwFjJ0AP5BhRJPIdVjC"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "WORLD $TAR",
-        "url": "https://open.spotify.com/album/3vDC0ra5Duoh4rMUwYXnLk"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 117342,
-      "name": "WORLD $TAR",
-      "url": "https://open.spotify.com/track/1UTcI73Dr5ROP0ddDvlImu"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "WAY TOO WAVY",
-        "url": "https://open.spotify.com/album/55rEA1eM02Ulibq29aRYdg"
-      },
-      "artists": [
-        {
-          "name": "Dexndre",
-          "url": "https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7"
-        },
-        {
-          "name": "Fidi",
-          "url": "https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL"
-        }
-      ],
-      "duration_ms": 117170,
-      "name": "WAY TOO WAVY",
-      "url": "https://open.spotify.com/track/1whdJyi0euy9qjyBG7KVKJ"
     },
     {
       "added_at": "2022-09-02 06:10:00",

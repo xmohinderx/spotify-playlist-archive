@@ -3654,6 +3654,24 @@
     },
     {
       "album": {
+        "name": "Forever Us",
+        "url": "https://open.spotify.com/album/19C3NAAdk7JwNDgSXElhHV"
+      },
+      "artists": [
+        {
+          "name": "Tjeerd Oosterhuis",
+          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151884,
+      "name": "Carvoeiro",
+      "url": "https://open.spotify.com/track/1wpifGgn2zC6OPEI6okI67"
+    },
+    {
+      "album": {
         "name": "Carvoeiro",
         "url": "https://open.spotify.com/album/1MdhGVfEl3ITet1idA1eFN"
       },
@@ -3665,7 +3683,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 151884,
       "name": "Carvoeiro",
       "url": "https://open.spotify.com/track/6VJ0cJWV19lwXzeDb4f35D"
@@ -24135,10 +24153,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 108849,
       "name": "Tuesday Rain",
       "url": "https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ"
+    },
+    {
+      "album": {
+        "name": "Forever Us",
+        "url": "https://open.spotify.com/album/19C3NAAdk7JwNDgSXElhHV"
+      },
+      "artists": [
+        {
+          "name": "Tjeerd Oosterhuis",
+          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108849,
+      "name": "Tuesday Rain",
+      "url": "https://open.spotify.com/track/5qcAFHyLIMPgQseVVE2qGJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,640 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,745 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 117 | [Sweet Sweet, So Sweet](https://open.spotify.com/track/0AjPf0VlaUXQMDIxguOEnI) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j) | [Sweet Sweet, So Sweet](https://open.spotify.com/album/5QZVAFAqkhs26qV1OoOJ5m) | 2:05 |
 | 118 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 |
 | 119 | [Thank You](https://open.spotify.com/track/1ychA86oJ3V1UqmFOVhu8U) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Thank You](https://open.spotify.com/album/3zVJkyQpwxJvKGLpuscxZR) | 5:50 |
-| 120 | [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 |
+| 120 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 |
 | 121 | [Addy \(feat\. Sevy\)](https://open.spotify.com/track/31MxX98bguX07cn0JCEjpb) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY), [Sevy](https://open.spotify.com/artist/1JWlma0hnqcELOIFZVl03u) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 2:41 |
 | 122 | [The Other Black Dog](https://open.spotify.com/track/16tXUfGm2mJHaZAsInBDr7) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 4:23 |
 | 123 | [Strawberry Kisses](https://open.spotify.com/track/2kjUj86ES5b1nBfTMzN6Uv) | [Nikki Webster](https://open.spotify.com/artist/6lFnLt6t0Wyq87KQK19BkA) | [Follow Your Heart](https://open.spotify.com/album/2NO1tSQRKXmQhNtMkuLQgp) | 3:30 |
 | 124 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 125 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MTY2MzcxMzczNywwMDAwMDAwMGZiYjQyZTNkZDczYTE2YjE2NTUyOGU5YTljOTU0NzZk`
+Snapshot ID: `MTY2MzcxMzczNywwMDAwMDAwMDliOTA3MmE2ZmZkZDMyNGNkODIxYThjMjliNzNmZGJm`

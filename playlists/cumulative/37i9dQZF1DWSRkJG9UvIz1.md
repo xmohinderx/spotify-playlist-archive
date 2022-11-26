@@ -4,7 +4,7 @@
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-84 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/0lHqHMv4PqSf7iP3xOQ8Du)
+85 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/0lHqHMv4PqSf7iP3xOQ8Du)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,14 @@
 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 | 2022-06-14 | 2022-07-29 |
 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 | 2022-06-14 |  |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2022-06-14 |  |
+| [Bonita y Triste](https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Bonita y Triste](https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO) | 3:36 | 2022-11-25 |  |
 | [Bossa No Sé](https://open.spotify.com/track/27oDPAmpfHVz6klfZtFrI7) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Alternativo diferente latino](https://open.spotify.com/album/6BUAYGfcb0vijQIvriHUI0) | 3:21 | 2022-10-07 | 2022-11-14 |
 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3SFnloABPd4n3d2B2KU2Zd) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/album/5OXkBzDKBSXBY0ItL6wgJE) | 3:21 | 2022-06-14 | 2022-07-29 |
 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:21 | 2022-06-14 |  |
 | [Bossa Velha](https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Selva](https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5) | 4:34 | 2022-06-14 |  |
 | [Bossanova](https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Bossanova](https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh) | 3:21 | 2022-06-14 |  |
 | [Brasil](https://open.spotify.com/track/1l4ef3sRHMVUzLzvt3FkWH) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Brasil](https://open.spotify.com/album/40OPW58oS9yfhzPuyCA8oI) | 3:50 | 2022-06-14 | 2022-07-29 |
-| [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 | 2022-06-14 |  |
+| [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 | 2022-06-14 | 2022-11-26 |
 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Acoustic Bossa Version](https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 4:10 | 2022-06-14 |  |
 | [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 | 2022-10-07 |  |
 | [Café Com Leite](https://open.spotify.com/track/38Y4mlYMY9eAbRlNTccgn0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Café Com Leite](https://open.spotify.com/album/3y3iNofd2lIY7HIMgYLAi6) | 4:22 | 2022-10-07 | 2022-11-14 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-557 songs - 1 day 10 hr 13 min - [published](https://open.spotify.com/playlist/2hJO5OpOxq1ldai8M2Twzr)
+558 songs - 1 day 10 hr 16 min - [published](https://open.spotify.com/playlist/2hJO5OpOxq1ldai8M2Twzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-09-12 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-16 | 2021-05-23 |
 | [Guilty](https://open.spotify.com/track/2W9awzkFJzPRddvLXtCSOU) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Guilty](https://open.spotify.com/album/2VrJduggZoDkUsshnQbFi5) | 2:58 | 2021-03-27\* | 2021-03-31 |
+| [Gundellonaa](https://open.spotify.com/track/14WLGWYd2wxho2cnDkLTBF) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ori Devuda](https://open.spotify.com/album/2j3dXe4RJCmzN85PwCMClE) | 3:20 | 2022-11-25 |  |
 | [Haan Tu Hain](https://open.spotify.com/track/4vgCpNUUcpEIBifidhQOnR) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Jannat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/153Qw0xXJqhEFxvm9M9rE8) | 5:24 | 2022-06-02 | 2022-06-04 |
 | [Har Har Shambhu Shiv Mahadeva](https://open.spotify.com/track/0aA3jlllhKSEiXTmGPGSWz) | [Jeetu Sharma](https://open.spotify.com/artist/6UECKSYwQSyYDONQ84CiDW), [Abhilipsa Panda](https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo) | [Har Har Shambhu Shiv Mahadeva](https://open.spotify.com/album/5jDQa8LIOlxDnItJvdFcsL) | 5:54 | 2022-08-02 | 2022-08-25 |
 | [Har Har Shambhu Shiv Mahadeva](https://open.spotify.com/track/3ndbMiA9kQ3LJq1moyHAfM) | [Jeetu Sharma](https://open.spotify.com/artist/6UECKSYwQSyYDONQ84CiDW), [Abhilipsa Panda](https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo) | [Har Har Shambhu Shiv Mahadeva](https://open.spotify.com/album/4QwWjaY61kWmPa0GHv1Svt) | 5:54 | 2022-07-15 | 2022-07-23 |
@@ -465,7 +466,7 @@
 | [Shayad](https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:07 | 2021-03-27\* |  |
 | [Sheesha](https://open.spotify.com/track/5uHy68Q7ZWe8Qq9k7EAprS) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sheesha](https://open.spotify.com/album/1qTxGh6NP5XUoN52jA3BB1) | 2:40 | 2022-08-31 | 2022-09-03 |
 | [Shiddat Title Track \(From "Shiddat"\)](https://open.spotify.com/track/6CTN8S2qzPwZdwwp0Nugvy) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Shiddat Title Track \(From "Shiddat"\)](https://open.spotify.com/album/5qHliLDYAZ91Xmt4pgqZt9) | 3:50 | 2021-10-13 | 2022-01-07 |
-| [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-11-19 |  |
+| [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-11-19 | 2022-11-26 |
 | [Shiv Tandav Stotram](https://open.spotify.com/track/0pA2HBr6nILi7x4xKRZsy9) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Legends \- Top 10](https://open.spotify.com/album/3deyvB3fEavgoVcG1BmFZv) | 9:13 | 2022-03-02 | 2022-03-04 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-12 | 2021-09-17 |
 | [Shree Ganeshay Dheemahi](https://open.spotify.com/track/7sRyejjZ7Ebkgo1sy6Gmfj) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Ganesha Symphonic Chants Experience](https://open.spotify.com/album/7pBI5ObmHmMbFi537wORHH) | 6:47 | 2021-09-12 | 2022-09-03 |

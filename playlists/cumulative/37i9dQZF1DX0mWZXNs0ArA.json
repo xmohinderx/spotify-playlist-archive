@@ -1428,6 +1428,24 @@
     },
     {
       "album": {
+        "name": "psilocybin",
+        "url": "https://open.spotify.com/album/2WGURTSIVqDOm6r0Srrxti"
+      },
+      "artists": [
+        {
+          "name": "YKARE",
+          "url": "https://open.spotify.com/artist/1p9c4UC7cX15y830hNHwm1"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "psilocybin - sped up",
+      "url": "https://open.spotify.com/track/1CwFuRSP9dB2HvbmXBSEDS"
+    },
+    {
+      "album": {
         "name": "reaLitie biTes (Nightcore Mix)",
         "url": "https://open.spotify.com/album/3FDJomAQ0DopwMB36WNIEp"
       },

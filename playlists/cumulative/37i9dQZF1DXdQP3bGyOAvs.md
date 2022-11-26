@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-252 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+257 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Trip To](https://open.spotify.com/track/0j0sKaVNvGcGrjCLWJyONE) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [A Trip To](https://open.spotify.com/album/3MUmE3HbSddqX8oh5fi2Hf) | 3:22 | 2022-10-28 |  |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2022-05-20 |  |
 | [absence of something](https://open.spotify.com/track/0WnBHKyt7k2fEsnkalnjMG) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [absence of something](https://open.spotify.com/album/1moLe0zYJ2wSk1veX2EVWr) | 2:56 | 2022-10-14 |  |
+| [Acre](https://open.spotify.com/track/7zhJeqcfstD3SUCo3fGDmi) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Acre](https://open.spotify.com/album/4i4gjhsfxuQk7wmLhpU4aU) | 2:26 | 2022-11-25 |  |
 | [Afterwave](https://open.spotify.com/track/4PlyNPjqjniNO5WLvuOfeJ) | [Scoobadive](https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd) | [Afterwave](https://open.spotify.com/album/6az6DQdYHWgjuQxtp7eQqK) | 2:56 | 2022-06-10 |  |
 | [Agwé](https://open.spotify.com/track/3P1ZUO9ammzR0p0t0Ez67Q) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Lhotse](https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx) | 5:35 | 2022-07-01 |  |
 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 | 2022-05-20 |  |
@@ -32,6 +33,7 @@
 | [Better Vibes](https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Better Vibes](https://open.spotify.com/album/5K7yAtX3yp0ijNeMjI14BQ) | 3:33 | 2022-05-20 |  |
 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2022-05-20 | 2022-09-09 |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2022-05-20 |  |
+| [Blurry Stars](https://open.spotify.com/track/2MvYG2MZjHljTK468rBncA) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blurry Stars](https://open.spotify.com/album/41rRCpIgzmzAFRCdqtWTH1) | 2:40 | 2022-11-25 |  |
 | [Boarding](https://open.spotify.com/track/0fSEMD71VwMtIZi6IUXJjQ) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Boarding](https://open.spotify.com/album/58jr54BxPnYRK7MUFBqfSE) | 4:58 | 2022-05-20 |  |
 | [Bonez](https://open.spotify.com/track/2BBqygCwljo8N4XcWk6bCN) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Bonez](https://open.spotify.com/album/40RcBRJGlIp9zlsWuGHGGj) | 3:16 | 2022-08-05 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-05-20 |  |
@@ -45,6 +47,7 @@
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-05-20 |  |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2022-05-20 |  |
 | [Chapterhouse](https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv) | [Haze Doe](https://open.spotify.com/artist/3Dnz1jt5f6SvtnxTsW9qKe) | [Chapterhouse](https://open.spotify.com/album/22loNe3xQRDMAbzp3KDNrJ) | 2:50 | 2022-05-20 |  |
+| [Chill Rush \(Znoijk Remix\)](https://open.spotify.com/track/23qcDAKuwJegiWk42nku4U) | [J Pepperwood](https://open.spotify.com/artist/0rze0pPOmFLjelwEdicfYP), [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Chill Rush \(Znoijk Remix\)](https://open.spotify.com/album/3eKnAxoTZ6VrBvj04NLfGd) | 2:40 | 2022-11-25 |  |
 | [Ciao Janet](https://open.spotify.com/track/50qpjR5hMQb5h285ANel1f) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Ciao Janet](https://open.spotify.com/album/3cl6WY7e8NpajLtdHYMRCG) | 2:50 | 2022-06-17 |  |
 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 | 2022-05-20 |  |
 | [City Highs](https://open.spotify.com/track/7Fask2JUtxg4jhCDuTF3tj) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Limes on Ice](https://open.spotify.com/album/09b5SXwJG8vnh0eNxakj7Y) | 3:12 | 2022-09-02 |  |
@@ -150,6 +153,8 @@
 | [Monday Beat](https://open.spotify.com/track/4LmN2h64LJHhN8ZiiwiwOY) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Monday Beat](https://open.spotify.com/album/6eQDuOdTk1UOXNRdQ0cHNX) | 2:55 | 2022-05-20 |  |
 | [Moot](https://open.spotify.com/track/2l8i114g3bZrpwO9EgFNsH) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Moot](https://open.spotify.com/album/2x00k3LmpeSpfH9GcwwUHP) | 3:05 | 2022-08-19 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-05-20 |  |
+| [Motenz](https://open.spotify.com/track/4dKm8ES2gZ9aavQvsc9uaN) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [Motenz](https://open.spotify.com/album/1DWqytI0XE8LbmzIbQjjhw) | 2:29 | 2022-11-25 |  |
+| [Mousha](https://open.spotify.com/track/0Uvr2G0WF4J3jntnkF04MS) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Mousha](https://open.spotify.com/album/30der8NDHj0j2DpViZT706) | 2:57 | 2022-11-25 |  |
 | [Moving On](https://open.spotify.com/track/4tIkzYzGCbHfv5VdmbXst5) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Moving On](https://open.spotify.com/album/6gMvsM5ZxUKFh1GLkSiAfO) | 2:48 | 2022-05-20 | 2022-09-09 |
 | [My Desert](https://open.spotify.com/track/6A6VvlEjLnN48BPkw8AhKC) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [My Desert](https://open.spotify.com/album/4Iey1mzYZ0GoovJxQa08ho) | 2:58 | 2022-08-12 |  |
 | [Myst](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Myst](https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv) | 3:02 | 2022-05-20 |  |

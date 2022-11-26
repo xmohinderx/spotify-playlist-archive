@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Zombic, Influencerz, Danimal
 
-226 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
+227 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-09-21 |  |
 | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 | 2022-01-19 | 2022-05-19 |
 | [Castle \(feat\. FAST BOY\)](https://open.spotify.com/track/1DcaveBkLsJCehY22YY9sY) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Castle \(feat\. FAST BOY\)](https://open.spotify.com/album/1wIYBR2x3po8AkWWjw260k) | 2:26 | 2022-04-20 | 2022-06-01 |
-| [CHASE THE SUN](https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv) | 3:31 | 2022-11-02 |  |
+| [CHASE THE SUN](https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc) | 3:31 | 2022-11-23 |  |
+| [CHASE THE SUN](https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv) | 3:31 | 2022-11-02 | 2022-11-26 |
 | [Children \- Rework](https://open.spotify.com/track/6HhLVhfYXhIsD4UpM0CLWo) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Children \(Rework\)](https://open.spotify.com/album/6mjA10GAfa4eQwevZPR1kc) | 2:52 | 2022-07-06 | 2022-11-24 |
 | [Children Of The Night](https://open.spotify.com/track/3LZvaHxUB1JHm0CupGqd5W) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Children Of The Night](https://open.spotify.com/album/1ah9V0sxEDCnYvFMrLwH27) | 2:37 | 2022-06-08 | 2022-07-07 |
 | [Closer](https://open.spotify.com/track/4mgI0LKhrJI6JdZ0pQc81D) | [BOSS](https://open.spotify.com/artist/2qXlwHI0XFxS3SC8NiUjI1), [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Closer](https://open.spotify.com/album/3Xte1fTOmF4p8gMxWIZNAu) | 2:16 | 2022-03-16 | 2022-08-25 |

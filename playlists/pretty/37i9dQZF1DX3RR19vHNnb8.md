@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,892 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,917 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 50 | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [EDNA \(Deluxe\)](https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP) | 2:53 |
 
-Snapshot ID: `MTY2NzU0MzM1NCwwMDAwMDAwMGVkNDZlYzBkNGE3ZGI4Nzc2ZmYxYjU3ZDg5MDgzNjky`
+Snapshot ID: `MTY2OTM2MjU3NCwwMDAwMDAwMDhlOGM1YmEyNDRlOTJiZDgzYzkwNWJiYWZmOWUwYzEw`

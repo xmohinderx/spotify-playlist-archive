@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 384383,
       "name": "Artificia",
       "url": "https://open.spotify.com/track/1LM07Pkmu4n1eCQRoWUU6E"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 253090,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/3EsaWNpxeJEMPEWQ7delht"
@@ -485,6 +485,24 @@
       "duration_ms": 156937,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/3rhpe2IfdDkoIz7vsOyBWm"
+    },
+    {
+      "album": {
+        "name": "Autumn Nites",
+        "url": "https://open.spotify.com/album/3hXsigjkwSaM78CMpZV1b6"
+      },
+      "artists": [
+        {
+          "name": "Aurelius",
+          "url": "https://open.spotify.com/artist/6pN3SUYHGCS8OAZpp4bBmO"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117352,
+      "name": "Autumn Nites",
+      "url": "https://open.spotify.com/track/2H2U7tBASKMAnEaKAd2kEz"
     },
     {
       "album": {
@@ -579,7 +597,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 276000,
       "name": "Balihai Baby",
       "url": "https://open.spotify.com/track/6MenZrnPbtADXE2XGHS5xL"
@@ -1526,6 +1544,32 @@
     },
     {
       "album": {
+        "name": "Coffee and a Nap",
+        "url": "https://open.spotify.com/album/4HxsCQjb7P5Hnthc9DqKg2"
+      },
+      "artists": [
+        {
+          "name": "Trix.",
+          "url": "https://open.spotify.com/artist/6sX3XCMLJp33YwlYcm5SNF"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "Early Garden",
+          "url": "https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Coffee and a Nap",
+      "url": "https://open.spotify.com/track/4Zj1WiIc9KXnA9IYbHiPNH"
+    },
+    {
+      "album": {
         "name": "Colors of the Feather",
         "url": "https://open.spotify.com/album/5BzcMqgb590cyoocWURYUB"
       },
@@ -1675,7 +1719,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 243055,
       "name": "Crickets",
       "url": "https://open.spotify.com/track/0sBbfmqP4MpoZsvq37VsLz"
@@ -1765,7 +1809,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 289979,
       "name": "Deep Feelings",
       "url": "https://open.spotify.com/track/5Own2KkXmnsn6Zn2O88OA3"
@@ -1801,7 +1845,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 256000,
       "name": "Deep Inside - Chill Mix",
       "url": "https://open.spotify.com/track/5NhOy0YdrJ2eW97aF751AJ"
@@ -1841,7 +1885,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 200000,
       "name": "Dessous la mere",
       "url": "https://open.spotify.com/track/2tm9yjiiqGbS4msFGQW2kL"
@@ -1895,7 +1939,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 318000,
       "name": "Diamond Shine",
       "url": "https://open.spotify.com/track/69IOxGl9w4WiqmlFIND2es"
@@ -2079,6 +2123,24 @@
       "duration_ms": 169956,
       "name": "Down and Out",
       "url": "https://open.spotify.com/track/1AOU0cQCD5sRNPCPySQkf4"
+    },
+    {
+      "album": {
+        "name": "Downlow Mix",
+        "url": "https://open.spotify.com/album/30SIhOFl1hD5RCTPCbcLXs"
+      },
+      "artists": [
+        {
+          "name": "Zoulzest",
+          "url": "https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93071,
+      "name": "Downlow Mix",
+      "url": "https://open.spotify.com/track/20GrRNzd0FuhKMkJAVAL2b"
     },
     {
       "album": {
@@ -2957,7 +3019,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 300689,
       "name": "Heaven Is All Around",
       "url": "https://open.spotify.com/track/3DfHUyI5I1kyf3Ct4Of24w"
@@ -4027,7 +4089,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 218336,
       "name": "Lazy Days",
       "url": "https://open.spotify.com/track/62JHhd8RJkdfVnUrdD5p7b"
@@ -4673,7 +4735,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 243037,
       "name": "Maricas River",
       "url": "https://open.spotify.com/track/2CCzjqJllhhu2vYIzrQdwN"
@@ -5080,6 +5142,24 @@
     },
     {
       "album": {
+        "name": "Near",
+        "url": "https://open.spotify.com/album/7ym9zstMTQeD5GalcqGneo"
+      },
+      "artists": [
+        {
+          "name": "Arkx",
+          "url": "https://open.spotify.com/artist/1jkW6D8ZRyWKpZ2bBISy0v"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106105,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/5GYkifQFQdmJTL0DX8X50a"
+    },
+    {
+      "album": {
         "name": "Needless to Say",
         "url": "https://open.spotify.com/album/7ooLEVtJYscAdXs1dZGHJz"
       },
@@ -5145,7 +5225,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 243157,
       "name": "Never End",
       "url": "https://open.spotify.com/track/0FUeG3eOGyEfWROLIGSPXT"
@@ -5623,7 +5703,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 233693,
       "name": "Patio Groove",
       "url": "https://open.spotify.com/track/2zxUKcmp7jkVX5JnUpOCDF"
@@ -6021,7 +6101,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 197142,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/20CeWoBpjSbfDGqCW3VFoR"
@@ -6115,7 +6195,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 236249,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/7jybpMVEBsO0onHoe6FVHq"
@@ -6299,10 +6379,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 201000,
       "name": "Romeo & Juliette",
       "url": "https://open.spotify.com/track/3uRcseZCwhzvGo91e2T2cA"
+    },
+    {
+      "album": {
+        "name": "Round Round",
+        "url": "https://open.spotify.com/album/4dzcrS7NpZK8QPIpEcKTN4"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Round Round",
+      "url": "https://open.spotify.com/track/3GwPkd0AV62fDu0hAvwSUm"
     },
     {
       "album": {
@@ -6415,6 +6513,24 @@
       "duration_ms": 113250,
       "name": "She\u00b4s fly",
       "url": "https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/1TlRXsdSE49gQPU0yiIspY"
+      },
+      "artists": [
+        {
+          "name": "Lou Vega",
+          "url": "https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160465,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/2fRZj7P8wV34zb5OltBVqE"
     },
     {
       "album": {
@@ -6685,7 +6801,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 286820,
       "name": "Solitary Fields",
       "url": "https://open.spotify.com/track/60y63A6yZWNiCtkfu30Wzy"
@@ -7067,7 +7183,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 193310,
       "name": "Stay Lo Get Go - Chill Original",
       "url": "https://open.spotify.com/track/3wJOPLmX9cqFmaDLo3Cz2i"
@@ -7280,6 +7396,24 @@
     },
     {
       "album": {
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/2PZOr25kIaUHciZK6EXkrQ"
+      },
+      "artists": [
+        {
+          "name": "farewell",
+          "url": "https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106705,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/4otG83V6aYd0FGlP8xIy4t"
+    },
+    {
+      "album": {
         "name": "Sundays on repeat",
         "url": "https://open.spotify.com/album/3LN1rA5WwNQW0sZtzTXLyi"
       },
@@ -7335,6 +7469,24 @@
       "duration_ms": 106285,
       "name": "Sundrop",
       "url": "https://open.spotify.com/track/5el7ikQ2pTLSaSsEXP06A9"
+    },
+    {
+      "album": {
+        "name": "Sunny Afternoon",
+        "url": "https://open.spotify.com/album/692nGJ7XJcIhlR4Df18B3X"
+      },
+      "artists": [
+        {
+          "name": "Xblaze",
+          "url": "https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138122,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/454nvk0jwgJ7aV1hg2bsZQ"
     },
     {
       "album": {
@@ -7695,6 +7847,28 @@
       "duration_ms": 129120,
       "name": "the next beat",
       "url": "https://open.spotify.com/track/23468IdKwDlOao9fWsPVeq"
+    },
+    {
+      "album": {
+        "name": "The Singing Flower",
+        "url": "https://open.spotify.com/album/5ucJ9GTCmPBMjpgT8TxXJ9"
+      },
+      "artists": [
+        {
+          "name": "MiDN8",
+          "url": "https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4"
+        },
+        {
+          "name": "Sleeping Dove",
+          "url": "https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144009,
+      "name": "The Singing Flower",
+      "url": "https://open.spotify.com/track/22GA1uwiCLJMkHyXhlP0bQ"
     },
     {
       "album": {
@@ -8329,7 +8503,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 246500,
       "name": "We Will Never Be Older",
       "url": "https://open.spotify.com/track/19jZ8kERRh2D1xpdAyZ17e"
@@ -8455,7 +8629,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 184480,
       "name": "When We Used To Know - Chill Mix",
       "url": "https://open.spotify.com/track/6YOyJYhOr08eEmr25qa3T8"

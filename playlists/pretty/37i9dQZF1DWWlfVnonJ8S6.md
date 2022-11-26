@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,981 likes - 104 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,084 likes - 104 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 80 | [Lagta Nahi!](https://open.spotify.com/track/3FNyyZTNw5Mvv4AchUpvWp) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Lagta Nahi!](https://open.spotify.com/album/0ojMYhDwEnipwzPLRejCN4) | 3:00 |
 | 81 | [Aao Phir Se](https://open.spotify.com/track/7Bu6dexQvuVz5LRuzjLYOX) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/2HRLg9LdgbjvWCnw6OOJRh) | 2:50 |
 | 82 | [Janam Janam \- Lofi Flip](https://open.spotify.com/track/1VlaAFoLyWmNH0YrOWx7Eg) | [SPECRO](https://open.spotify.com/artist/6QFIeCy0b6WNxqnKKAeX6m), [SKETCH](https://open.spotify.com/artist/2lDRRSO8ARhYWSE5hkxCb3), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Janam Janam \(Lofi Flip\)](https://open.spotify.com/album/2GW1v9NIKNwPyjLnzuafwp) | 2:31 |
-| 83 | [Saddiyan](https://open.spotify.com/track/0qoORzqrSxpIvREz58ugkW) | [Soch](https://open.spotify.com/artist/31y8hJ1vq1z54EPBOFdfRJ), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Saddiyan](https://open.spotify.com/album/6g27JelkjIlYYVfGY3Jbaq) | 2:49 |
+| 83 | [Saddiyan](https://open.spotify.com/track/0qoORzqrSxpIvREz58ugkW) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Saddiyan](https://open.spotify.com/album/6g27JelkjIlYYVfGY3Jbaq) | 2:49 |
 | 84 | [O Sanam \- DJ NYK Lofi Remix](https://open.spotify.com/track/2cGRuloXezvHDpoHX2bVyu) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [O Sanam \(DJ NYK Lofi Remix\)](https://open.spotify.com/album/3FQh153Y5J24LW7dfvKPP8) | 3:06 |
 | 85 | [tum na ho](https://open.spotify.com/track/2mCjsTS7RgxjJBLL5UNTQr) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG) | [tum na ho](https://open.spotify.com/album/44DmDw70UWyUUIaoT2cXm9) | 2:58 |
 | 86 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:21 |

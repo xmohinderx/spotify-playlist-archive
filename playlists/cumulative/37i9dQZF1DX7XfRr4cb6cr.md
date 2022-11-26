@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-182 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+183 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 | 2022-07-27 |
 | [In Time You Will](https://open.spotify.com/track/1SET0qRs8EQwmARr4heA63) | [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG) | [In Time You Will](https://open.spotify.com/album/2iu3K2wnI5e1oDQz5zVSLj) | 6:08 | 2022-03-25 | 2022-07-29 |
 | [In Waves](https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8) | [Loke Rahbek](https://open.spotify.com/artist/6fiX1FdXGRLUMN8xvwfgpw), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz) | [Elephant](https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs) | 3:16 | 2022-01-21 |  |
-| [Info Pandemie](https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL) | [DarkSonicTales](https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv) | [DarkSonicTales](https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG) | 2:57 | 2022-01-21 |  |
+| [Info Pandemie](https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL) | [DarkSonicTales](https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv) | [DarkSonicTales](https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG) | 2:57 | 2022-01-21 | 2022-11-26 |
 | [Insidious](https://open.spotify.com/track/0j4jbuU1XL2ShDIE4OHqel) | [4lienetic](https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk) | [Pompeii](https://open.spotify.com/album/3WGKBFVmZNW5Jt3bRheWev) | 3:39 | 2022-04-01 |  |
 | [Introduction](https://open.spotify.com/track/0jVs5KrJ52rMzzsAy16ZSJ) | [Paul Motian Trio](https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw) | [It Should've Happened A Long Time Ago](https://open.spotify.com/album/4yW6dg82YD5jwo9I5j0OW4) | 3:03 | 2022-01-21 | 2022-07-29 |
 | [Introduction](https://open.spotify.com/track/4sOeCVCew7f63JaVnflu2U) | [Paul Motian Trio](https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw) | [It Should've Happened A Long Time Ago](https://open.spotify.com/album/24kr1KBohyzTQ9qzZKpjqm) | 3:03 | 2022-07-22 |  |
@@ -114,6 +114,7 @@
 | [Of Becoming and Dying](https://open.spotify.com/track/3gxKrtlTm56lMm8Ng2vS02) | [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Subaerial](https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM) | 3:47 | 2022-01-21 | 2022-07-29 |
 | [Once](https://open.spotify.com/track/2ytljnf7K8GiXdqFEWgC9w) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt) | [Too](https://open.spotify.com/album/0ehlpK5bslOMgNPXNGDQun) | 5:42 | 2022-01-21 | 2022-07-16 |
 | [Parting phrase](https://open.spotify.com/track/1fSnFVmKeMsnMxGXt3wu2Y) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [Silvercoat the throng](https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM) | 6:24 | 2022-01-21 |  |
+| [Passed over Trail](https://open.spotify.com/track/2ClsC2CsgjP5SbId3uA5ZN) | [Raime](https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu) | [Quarter Turns over a Living Line](https://open.spotify.com/album/1O8NPLNTcqI20Xf9u576EO) | 4:30 | 2022-11-11 |  |
 | [Passed over Trail](https://open.spotify.com/track/3Zke9tyOGB7cOjtMOLlDW7) | [Raime](https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu) | [Quarter Turns over a Living Line](https://open.spotify.com/album/11ILaqdmxlFwL2cC4XVhF4) | 4:30 | 2022-02-11 | 2022-07-19 |
 | [Passed over Trail](https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9) | [Raime](https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu) | [Quarter Turns over a Living Line](https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg) | 4:30 | 2022-07-22 | 2022-10-19 |
 | [Path of Devotion](https://open.spotify.com/track/6GfYaRGWjzvvakXv9okhjB) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 3:24 | 2022-01-21 | 2022-07-26 |

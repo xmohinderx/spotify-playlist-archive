@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Eminem
 
-493 songs - 23 hr 52 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+494 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-07-25 | 2022-08-02 |
 | [Chabos wissen wer der Babo ist](https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Chabos wissen wer der Babo ist](https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T) | 2:19 | 2022-06-16 | 2022-06-24 |
 | [Chanel Bag](https://open.spotify.com/track/4d16JADh71pTeqx0vlHL69) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Chanel Bag](https://open.spotify.com/album/5Rfy71lgBW15gak3OtNHBQ) | 2:38 | 2022-06-09 | 2022-06-17 |
-| [CHASE THE SUN](https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv) | 3:31 | 2022-11-17 |  |
+| [CHASE THE SUN](https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc) | 3:31 | 2022-11-24 |  |
+| [CHASE THE SUN](https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv) | 3:31 | 2022-11-17 | 2022-11-26 |
 | [Chasing Dreams](https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg) | [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB) | [Welcome to 101](https://open.spotify.com/album/2HAYtoHrVCzfyNi4XY7jW7) | 1:38 | 2022-10-27 | 2022-11-11 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-29 | 2022-08-06 |
 | [Cider](https://open.spotify.com/track/49y9ulK2kgYvVw3yBSdDao) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Cider](https://open.spotify.com/album/0NOmnhMUuHzHKbto1lL4if) | 2:55 | 2022-09-29 |  |

@@ -4,7 +4,7 @@
 
 > 🧈 Smooth joints\. Cover: Adi Oasis
 
-765 songs - 1 day 21 hr 15 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+766 songs - 1 day 21 hr 18 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [25](https://open.spotify.com/track/77tTklVhbUpmuGRku51lYA) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [25](https://open.spotify.com/album/2iw9E5L5poVGJ5yorqbWGc) | 4:30 | 2019-09-29\* | 2019-12-13 |
 | [2Personal](https://open.spotify.com/track/2HQBtqstdRExrUEztGizXe) | [Raheaven](https://open.spotify.com/artist/4lXm6ZMmiF65lvSDAqQvY6) | [2Personal](https://open.spotify.com/album/5GaK5ZjDkSEJg14sMkcHNK) | 2:57 | 2020-10-30 | 2020-12-01 |
 | [3 on E](https://open.spotify.com/track/48Iq6k1seDMe2LprI8zKu0) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [The Joy of Music, the Job of Real Estate](https://open.spotify.com/album/4EyXFhtdGeaIGh5i5IkBtv) | 2:57 | 2020-04-03 | 2020-05-22 |
-| [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Law of Automata: Valid](https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN) | 3:20 | 2021-04-19 |  |
+| [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Law of Automata: Valid](https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN) | 3:20 | 2021-04-19 | 2022-11-26 |
 | [400 Years](https://open.spotify.com/track/0sZKyCleaIoLu9sHF4TIKj) | [Reginald Omas Mamode IV](https://open.spotify.com/artist/7fwMK3Ri8BjvsBajiUt8dS) | [400 Years](https://open.spotify.com/album/1UmLReSNuRIZuRum093wiu) | 3:12 | 2020-09-25 | 2022-06-13 |
 | [5 Minutes](https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [5 Minutes](https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL) | 3:15 | 2022-10-07 |  |
 | [7AM](https://open.spotify.com/track/0Shb8sVrjQPtKjMx0697vo) | [Raheaven](https://open.spotify.com/artist/4lXm6ZMmiF65lvSDAqQvY6) | [7AM](https://open.spotify.com/album/5xNhZtBcftRipgqH8PHZHQ) | 2:58 | 2020-09-04 | 2020-12-18 |
@@ -649,6 +649,7 @@
 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 | 2021-04-18 |  |
 | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb) | 2:56 | 2020-09-11 |  |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-15 |  |
+| [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 | 2022-11-25 |  |
 | [Sweet Sensation](https://open.spotify.com/track/0JvAFT6V106SHfkyVwhf4J) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Sweet Sensation](https://open.spotify.com/album/09aDpEjCtUlVcfDvTqhEte) | 2:43 | 2021-03-30 | 2022-07-26 |
 | [Sweet Shop](https://open.spotify.com/track/66LXZLB5neVWhdeEx56qjS) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sweet Shop](https://open.spotify.com/album/5BN6H5RXllnqNrRmt0cthQ) | 3:50 | 2020-09-04 | 2022-06-16 |
 | [Tadow](https://open.spotify.com/track/1DoS5ql0TW3ejjJGHbsAmz) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/66q4QLWTKxEZnADbRRTnSd) | 5:01 | 2019-09-29\* | 2020-03-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 21350,
+  "num_followers": 21413,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMGE0Nzg0YjEyYmU0YjRhNDE5MTYzNGI4YmQ2MjFmYWVj",
+  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMDA5OWUwZjYzYzM1NmYxNDk2MDNjY2UzZjI4ZDYzODFi",
   "tracks": [
     {
       "added_at": "2022-11-25 00:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 297737,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Teu Eternamente",
-      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 189011,
       "name": "Farda",
       "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Fe.",
-      "url": "https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l"
+      "duration_ms": 257500,
+      "name": ".Sais e Minerais",
+      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Longe",
-        "url": "https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q"
+        "name": "Paralyzed.",
+        "url": "https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5"
       },
       "artists": [
         {
-          "name": "Dinis Mota",
-          "url": "https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx"
+          "name": "zozyy!",
+          "url": "https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR"
         }
       ],
-      "duration_ms": 225982,
-      "name": "Longe",
-      "url": "https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB"
+      "duration_ms": 132961,
+      "name": "Paralyzed.",
+      "url": "https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1008,25 +1008,25 @@
           "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 257500,
-      "name": ".Sais e Minerais",
-      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
+      "duration_ms": 274000,
+      "name": "Fe.",
+      "url": "https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l"
     },
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Paralyzed.",
-        "url": "https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5"
+        "name": "Longe",
+        "url": "https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q"
       },
       "artists": [
         {
-          "name": "zozyy!",
-          "url": "https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR"
+          "name": "Dinis Mota",
+          "url": "https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx"
         }
       ],
-      "duration_ms": 132961,
-      "name": "Paralyzed.",
-      "url": "https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5"
+      "duration_ms": 225982,
+      "name": "Longe",
+      "url": "https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB"
     },
     {
       "added_at": "2022-11-25 00:00:00",

@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-104 songs - 4 hr 42 min - not published yet
+106 songs - 4 hr 47 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,9 +64,9 @@
 | [LXVE TXWN](https://open.spotify.com/track/1pCDWUyukLwNnDtKuDKk7j) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LXVE TXWN](https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm) | 2:38 | 2022-10-10 |  |
 | [MACHINE](https://open.spotify.com/track/2Ygz10JmWDwVigM6jN94H8) | [mxnarch](https://open.spotify.com/artist/42WdWoZDRwUeWhGOYDhfuj), [CERAZ](https://open.spotify.com/artist/2qN0KCCSg4BwDSagUxmEfR) | [MACHINE](https://open.spotify.com/album/6QeJDinj9YHIbiermHKxB6) | 2:47 | 2022-10-10 |  |
 | [MEANING OF LIFE](https://open.spotify.com/track/0JeAofgLJ7A0wnO8ecBm23) | [GTM](https://open.spotify.com/artist/2U79YzoLgxZrBbxzrg5l1S) | [MEANING OF LIFE](https://open.spotify.com/album/0lxBekjKWscjykmqz3xOHR) | 2:28 | 2022-10-10 |  |
-| [Memories of the Past](https://open.spotify.com/track/5nr2DfL7RtMyNyLLHaYkBo) | [KXXXIRO](https://open.spotify.com/artist/3WD49X7Fu6qlbmgT28BISo), [NEKXSTXZIS](https://open.spotify.com/artist/0I0YSfDwpdlrrgAfrucDdN) | [Memories of the Past](https://open.spotify.com/album/4XhA6RWi70bfN3RG0yuMol) | 2:46 | 2022-10-10 |  |
+| [Memories of the Past](https://open.spotify.com/track/5nr2DfL7RtMyNyLLHaYkBo) | [KXXXIRO](https://open.spotify.com/artist/3WD49X7Fu6qlbmgT28BISo), [NEKXSTXZIS](https://open.spotify.com/artist/0I0YSfDwpdlrrgAfrucDdN) | [Memories of the Past](https://open.spotify.com/album/4XhA6RWi70bfN3RG0yuMol) | 2:46 | 2022-10-10 | 2022-11-26 |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-10-10 |  |
-| [MINDSET](https://open.spotify.com/track/7AopDNQE6cqEydT5zv96MN) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [MINDSET](https://open.spotify.com/album/4DdiZ6bzOzDgNRUzygqWQI) | 3:05 | 2022-10-10 |  |
+| [MINDSET](https://open.spotify.com/track/7AopDNQE6cqEydT5zv96MN) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [MINDSET](https://open.spotify.com/album/4DdiZ6bzOzDgNRUzygqWQI) | 3:05 | 2022-10-10 | 2022-11-26 |
 | [MUSEUM OF THE VOID](https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [CULTURE OF FUTURITY](https://open.spotify.com/album/38f0sIVlHZbIhEBlKeb0OF) | 2:49 | 2022-10-10 |  |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-10-10 |  |
 | [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 | 2022-10-10 |  |
@@ -83,6 +83,7 @@
 | [No Witness](https://open.spotify.com/track/0GGepyK375cp1jN8Z9ZTK8) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE) | [No Witness](https://open.spotify.com/album/0HsG2moofrvt0hGo2iYuLb) | 2:48 | 2022-10-10 |  |
 | [nothing is eternal](https://open.spotify.com/track/7h3K4ED9jiEO447oGAvISz) | [deadsouls](https://open.spotify.com/artist/0mM8z9rf7HGXaqR0JWBlQE) | [nothing is eternal](https://open.spotify.com/album/7hEjkOUvBZKI3S3pHOGV3l) | 2:29 | 2022-10-10 |  |
 | [NOVA](https://open.spotify.com/track/5Rnv7W5R1eh6VIvBGbgIqd) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [NOVA](https://open.spotify.com/album/4YK3evtfb0ECUIP4PYPXJM) | 2:20 | 2022-10-10 | 2022-11-19 |
+| [OBLIVION](https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [OBLIVION](https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj) | 3:12 | 2022-11-25 |  |
 | [OCCUPATION](https://open.spotify.com/track/2TubhcsSDcCpJWyXiGEKPZ) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [OCCUPATION](https://open.spotify.com/album/00pHqxRbtuMXzMfbT5AA9z) | 3:30 | 2022-11-03 |  |
 | [ODIUM](https://open.spotify.com/track/4yyX0nJqMpqaubcGdGsxx9) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UNIVERSE OF THE PAST](https://open.spotify.com/album/4HlAmB7VZFZW5iPYapiqiz) | 2:46 | 2022-10-10 |  |
 | [Omega](https://open.spotify.com/track/6yzDgOc9gruRxmaaiVsBy1) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Omega](https://open.spotify.com/album/4B9PcrMKaJupfqKvko3pYv) | 2:53 | 2022-10-10 |  |
@@ -95,6 +96,7 @@
 | [Silence](https://open.spotify.com/track/6y3VTYZgLPVARFbC5dw8Py) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/7op6zDji4CCSGJc21Hrfzt) | 3:26 | 2022-10-10 |  |
 | [Silent Night](https://open.spotify.com/track/1EapFpXRLVRnK3PXUoJtTh) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi), [XVNNDRO](https://open.spotify.com/artist/5sSge1Liv1eU8WJPDH1dI5) | [Silent Night](https://open.spotify.com/album/4adqBewUGNtWm6p5gfCEnY) | 2:33 | 2022-10-10 |  |
 | [South](https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 3:12 | 2022-10-10 |  |
+| [Space](https://open.spotify.com/track/0W0KjUBX70GxtgVXraTcf9) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9), [Proof Nation](https://open.spotify.com/artist/7CV2yBOPHytA4ZrSPsjoLA) | [Space](https://open.spotify.com/album/0qh0hHIeYCqBJaDv7r12uR) | 2:25 | 2022-11-25 |  |
 | [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 | 2022-10-10 |  |
 | [Stay](https://open.spotify.com/track/4wBJ1sqcPukNqtMff4EEVb) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0) | [Stay](https://open.spotify.com/album/0lxkx8NDcNRiddCfUlpMfo) | 2:56 | 2022-10-10 |  |
 | [STOP LIES](https://open.spotify.com/track/6FqFMy46LchyaU6IsYeSSY) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [STOP LIES](https://open.spotify.com/album/4B51pcp7eccRF5T2thjSEa) | 3:23 | 2022-10-10 |  |

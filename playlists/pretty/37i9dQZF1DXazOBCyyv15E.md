@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Ray Laurél
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,826 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,868 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 44 | [In2you](https://open.spotify.com/track/4y6c69qw9NAWBpTq7bZS0W) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [In2you](https://open.spotify.com/album/55WmVdXpFLvKiVh6fLhT1A) | 3:14 |
 | 45 | [Sleeplessness](https://open.spotify.com/track/7bHYR8QOlwz0LC0BPNRvAU) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Sleeplessness](https://open.spotify.com/album/702mzBc6stopS5Abyrt3Fu) | 3:39 |
 | 46 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 |
-| 47 | [Club Country](https://open.spotify.com/track/3pj03IwuUk3OYS29crcwZV) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Always Sickening](https://open.spotify.com/album/0m3BU1wcAApzYq3aVcBb43) | 4:49 |
+| 47 | [Club Country](https://open.spotify.com/track/5sP0ZjiR6HypPDqYjBhArf) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Always Sickening](https://open.spotify.com/album/4slNroUWWHQPWDcXqGtpwA) | 4:49 |
 | 48 | [back to me.](https://open.spotify.com/track/0aAdNSg0uBOIxTpInhDRrh) | [DROZ](https://open.spotify.com/artist/3hg8GIwLfQ60sx8lAunT3S) | [back to me.](https://open.spotify.com/album/7LvXuOgeIo5MXlh3p5qTZq) | 3:20 |
 | 49 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
 | 50 | [loving u is harder](https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [loving u is harder](https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Darkness Forever \- Sophie's Version](https://open.spotify.com/track/3VDeyVAxUr6MBBgpKewRw6) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Darkness Forever \(Sophie's Version\)](https://open.spotify.com/album/6DopROneeNJjLXhotOv4AC) | 3:30 |
 | 100 | [You & Me](https://open.spotify.com/track/3vqpgzq5sKTmS4Sef91V6n) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Life In Miniature](https://open.spotify.com/album/3Lzbh9eqbBl8SlbEAI8T9N) | 3:09 |
 
-Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMGRiZDc2MDQ5ZmNhYjdjODRmZDA5NzRjYzVkZmZmMGIx`
+Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMGRjMzk2NTE5ODg1M2EzZDRmNTc0NmY2MzZlMTdmODdm`

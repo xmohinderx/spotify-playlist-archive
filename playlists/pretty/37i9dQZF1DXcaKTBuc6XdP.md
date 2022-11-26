@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,376 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,385 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 22 | [Trading My Sorrows \(Yes Lord\)](https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC) | [Darrell Evans](https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO) | [Freedom](https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA) | 6:01 |
 | 23 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 |
 | 24 | [Shine](https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:41 |
-| 25 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
-| 26 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
+| 25 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
+| 26 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
 | 27 | [Love Won't Let Me Down](https://open.spotify.com/track/2NssSayyXceWY40zguZjeq) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:25 |
 | 28 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 |
 | 29 | [Open the Eyes of My Heart Lord](https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w) | [Elevation](https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY) | [Timeless Treasures: Open the Eyes of My Heart Lord](https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI) | 4:12 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDU0NDZhMjc2YzI4ZjIyMGVmZTE5OWMxNjFjYjVkZmM4`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMGQwOGY1NWYxMWJiZWVhZjRjMDhiYTJkOWEyYzcxM2Vm`

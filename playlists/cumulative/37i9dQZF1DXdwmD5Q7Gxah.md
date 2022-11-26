@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: omar apollo
 
-1,956 songs - 4 day 8 hr 44 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,958 songs - 4 day 8 hr 50 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1247,6 +1247,7 @@
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-06-02 | 2021-08-14 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 |  |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2020-07-08 | 2021-01-12 |
+| [Odyssey](https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Odyssey](https://open.spotify.com/album/4uuWpzTfQzJp6dV6HrlhgG) | 3:03 | 2022-11-25 |  |
 | [of being alone](https://open.spotify.com/track/568zzc5sQCV74JQGKDmKL3) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a hard drug](https://open.spotify.com/album/0dTge9iHRfBRE63TWBV72r) | 3:26 | 2019-12-04 | 2020-01-28 |
 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 | 2021-05-12 | 2021-06-24 |
 | [OH GOD](https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5) | 2:12 | 2021-03-16 | 2021-06-24 |
@@ -1814,6 +1815,7 @@
 | [UNBOUND](https://open.spotify.com/track/4MlEFAvTGtsJw6CGvePq8H) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [UNBOUND](https://open.spotify.com/album/1UbfTiiqAD8ZO39c6Zsenm) | 2:41 | 2020-10-16 | 2021-01-15 |
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2022-06-21 | 2022-07-02 |
 | [Unconditional](https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unconditional](https://open.spotify.com/album/5STa9lDlTJXe3eQu2IesNT) | 3:09 | 2022-09-22 |  |
+| [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 | 2022-11-25 |  |
 | [uninspired](https://open.spotify.com/track/6hPxfqdk3ObCVhePxEYYhF) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [uninspired](https://open.spotify.com/album/7DpcUxOvaiLBErRpfD14iZ) | 3:46 | 2022-04-01 | 2022-04-28 |
 | [unoriginal](https://open.spotify.com/track/3XDU9wngxRWmiCbBuHviPA) | [splendi](https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3) | [unoriginal](https://open.spotify.com/album/3ZImuYbhtnBbR1HUKnAG5P) | 3:23 | 2022-05-20 | 2022-06-16 |
 | [unspoken words](https://open.spotify.com/track/0XUU1fzICK7484jpGnfGvd) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 4:06 | 2019-09-19 | 2020-02-20 |

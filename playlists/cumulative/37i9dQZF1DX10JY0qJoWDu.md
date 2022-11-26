@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-94 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
+95 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Jingle Bells](https://open.spotify.com/track/4IHPfrNW1DhFKmAxC0XkAD) | [Mickey and the Gang](https://open.spotify.com/artist/314zuaSQxaFN1VAOL2IKR7) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 2:11 | 2021-12-03 |  |
 | [Jolly to the Core](https://open.spotify.com/track/0Jkt3yFTzOpwOAUFbaHEMG) | [Cast \- Descendants](https://open.spotify.com/artist/6iOvIzJzeDKmXWrUlchtKz), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ) | [Disney Channel Holiday Hits](https://open.spotify.com/album/0mbCOOXGsz6SLRTopXAUF9) | 3:06 | 2021-12-03 |  |
 | [Last Christmas](https://open.spotify.com/track/5MlS3W0G127IhsDLUe3QqQ) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Rockin' Holiday](https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA) | 3:20 | 2021-12-03 |  |
+| [Last Christmas \- From "The Santa Clauses"](https://open.spotify.com/track/4X1briUG2VKKO1oP582NRT) | [The Santa Clauses \- Cast](https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU) | [Last Christmas \(From "The Santa Clauses"\)](https://open.spotify.com/album/0gCWN3e105Yl2K9v4Su8OD) | 1:50 | 2022-11-25 |  |
 | [Let It Glow \- From "Frozen Northern Lights"](https://open.spotify.com/track/5fvrAgYWC8D63PYqJNh3tf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Madison Hu](https://open.spotify.com/artist/612BRdnZhqoymH42utLvA7) | [Let It Glow \(From "Frozen Northern Lights"\)](https://open.spotify.com/album/4dPtBNViH8bSO5Xe6MRsfF) | 1:19 | 2021-12-03 |  |
 | [Let It Go \- From "Frozen / Single Version](https://open.spotify.com/track/1A2PVHd6kWaMlaJVkMfXmz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:44 | 2021-12-03 |  |
 | [Let it Snow, Let it Snow, Let it Snow](https://open.spotify.com/track/0TVNlaD7qwDybSNxVmXnlj) | [Isabella](https://open.spotify.com/artist/2EmRXI8KZXDepJZ5niFy3y) | [Phineas and Ferb Holiday Favorites](https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x) | 2:07 | 2021-12-03 |  |

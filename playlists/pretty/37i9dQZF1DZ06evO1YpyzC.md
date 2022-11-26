@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,207 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,294 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 50 | [Cold Spot](https://open.spotify.com/track/3FbfTn3qdwNx9uKiefB9N9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:37 |
 | 51 | [Learning](https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:22 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA2NjFhY2EyNGNkODkwOWVhNDZlNjFhNjA4MGZkMzI3Ng==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDA1OWZmNGMxMTdkMDJhZTYwYmU4NGU4OTFhMWVmYjc5Yw==`

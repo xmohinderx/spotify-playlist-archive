@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,334 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,535 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 21 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
 | 22 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 | 23 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 |
-| 24 | [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [think abt it](https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V) | 2:24 |
-| 25 | [mos thoser](https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [food house](https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr) | 4:07 |
+| 24 | [mos thoser](https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [food house](https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr) | 4:07 |
+| 25 | [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [think abt it](https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V) | 2:24 |
 | 26 | [cheap liquor](https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 1:48 |
 | 27 | [stupid horse](https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:01 |
 | 28 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:23 |
 | 75 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 |
 
-Snapshot ID: `MTY2ODExMDYyNiwwMDAwMDAwMDExMmZkN2QyYWVhNTAyNTgzYzI0MGU0YmM3Y2ExYTg1`
+Snapshot ID: `MTY2ODExMDYyNiwwMDAwMDAwMDQ4ZWFhYWIzODE3ZmJiZTI4ZTlhMTBmYjk5NDAyMmJl`

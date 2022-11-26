@@ -250,6 +250,28 @@
     },
     {
       "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
+    },
+    {
+      "album": {
         "name": "A Veces (feat. Feid)",
         "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
       },
@@ -1865,7 +1887,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 152361,
       "name": "CU\u00c1L?",
       "url": "https://open.spotify.com/track/0mX32GS4uB6VgscfYL7QrL"
@@ -5239,7 +5261,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -5345,6 +5367,28 @@
       "duration_ms": 171215,
       "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
       "url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI"
+    },
+    {
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "Necio (feat. LIT killah)",
+      "url": "https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq"
     },
     {
       "album": {

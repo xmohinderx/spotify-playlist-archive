@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 29168,
+  "num_followers": 29241,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGUxYjJjOTYyZTA3OTVkMWNmNjdkZjkxMjBkZTQyODUx",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDA1NTQ3OGVmYmI2ZjYzYjNhYjM4NDRkZjQ5M2I3MTk3",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -287,22 +287,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
-      },
-      "artists": [
-        {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 236933,
       "name": "The God Who Stays",
       "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -703,26 +703,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "I Know A Ghost",
-        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 209840,
-      "name": "Let It Rain (Is There Anybody)",
-      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "I Know A Ghost",
+        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 209840,
+      "name": "Let It Rain (Is There Anybody)",
+      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "The Hurt & The Healer",
-        "url": "https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "You Are I Am",
-      "url": "https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "God Knows (Must Be Love) - Radio Edit",
         "url": "https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 236453,
       "name": "God Knows (Must Be Love) - Radio Edit",
       "url": "https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "The Hurt & The Healer",
+        "url": "https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "You Are I Am",
+      "url": "https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli"
     },
     {
       "added_at": "2019-11-20 07:28:20",

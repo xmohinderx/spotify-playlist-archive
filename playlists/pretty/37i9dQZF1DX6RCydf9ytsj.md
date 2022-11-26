@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,936 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,313 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 40 | [The Sweetest Thing \(I've Ever Known\)](https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:08 |
 | 41 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
 | 42 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
-| 43 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
-| 44 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 |
+| 43 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 |
+| 44 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
 | 45 | [When You Say Nothing at All](https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:42 |
 | 46 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
 | 47 | [Rockin' With The Rhythm Of The Rain](https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 2:41 |
-| 48 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
+| 48 | [Lookin' for Love](https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Lookin' For Love](https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47) | 3:40 |
 | 49 | [Old Flames Can't Hold a Candle to You](https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly Dolly Dolly](https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186) | 3:23 |
-| 50 | [Lookin' for Love](https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Lookin' For Love](https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47) | 3:40 |
+| 50 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
 | 51 | [Streets of Bakersfield](https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Buenas Noches From a Lonely Room](https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx) | 2:48 |
-| 52 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
-| 53 | [The One I Loved Back Then \(The Corvette Song\)](https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Who's Gonna Fill Their Shoes](https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL) | 2:30 |
+| 52 | [The One I Loved Back Then \(The Corvette Song\)](https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Who's Gonna Fill Their Shoes](https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL) | 2:30 |
+| 53 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 54 | [Meet Me In Montana](https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi), [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 3:56 |
 | 55 | [Love Me Like You Used To](https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Love Me Like You Used To](https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5) | 3:49 |
 | 56 | [Seven Spanish Angels \(with Ray Charles\)](https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Friendship](https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g) | 3:51 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [My Baby's Got Good Timing](https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [The Very Best Of Dan Seals](https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC) | 3:29 |
 | 150 | [Blue Moon With Heartache](https://open.spotify.com/track/4TDX7TaAUcdb7Emfgh5Vif) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Essential Rosanne Cash](https://open.spotify.com/album/0Ko0hOl571b8Z2HWdzNCCc) | 4:26 |
 
-Snapshot ID: `MTY1ODc4NTAxNCwwMDAwMDAwMDNlZTcwMzdkZjc1ZWExNDFmOWFiNDhhODE0YTRmZDA5`
+Snapshot ID: `MTY1ODc4NTAxNCwwMDAwMDAwMGM2ZjY2YWNhMWQ5ZmY1MzBiNjU0ZjVhNTcyNDlhODFj`

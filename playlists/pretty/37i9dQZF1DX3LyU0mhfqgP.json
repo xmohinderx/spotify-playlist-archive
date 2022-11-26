@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists. Cover: Muna",
-  "num_followers": 816547,
+  "num_followers": 816856,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE1NzcxMywwMDAwMDAwMGViY2VhZjYzMjBmMzJkOWJmNzk0NDg0YjMxMTdjOTE3",
+  "snapshot_id": "MTY2OTE1NzcxMywwMDAwMDAwMGRlNmUzZmIzNTA1Y2MxMmU1YTBkMzAzZjM1OWM1YjM1",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
-      "added_at": "2022-11-25 01:24:01",
+      "added_at": "2022-11-26 01:21:15",
       "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
     },
     {
-      "added_at": "2022-11-25 01:24:01",
+      "added_at": "2022-11-26 01:21:15",
       "album": {
         "name": "Girl Of My Dreams (Deluxe)",
         "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
     },
     {
-      "added_at": "2022-11-25 01:24:01",
+      "added_at": "2022-11-26 01:21:15",
       "album": {
         "name": "It's Been So Long",
         "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "FIRST HELLO",
-        "url": "https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU"
-      },
-      "artists": [
-        {
-          "name": "Grant Knoche",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 197569,
-      "name": "FIRST HELLO",
-      "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "FIRST HELLO",
+        "url": "https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU"
+      },
+      "artists": [
+        {
+          "name": "Grant Knoche",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 197569,
+      "name": "FIRST HELLO",
+      "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "SUBSTANCE",
-        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 250213,
       "name": "The Curse of the Blackened Eye",
       "url": "https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "SUBSTANCE",
+        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "SUBSTANCE",
+      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "rising (the deluxe)",
         "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 185346,
       "name": "kaleidoscope",
       "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "CROSSOVER (Deluxe)",
-        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 177483,
-      "name": "day to day",
-      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "I Wanna Be a Boy",
         "url": "https://open.spotify.com/album/4o84MA22X4ofp4LM9z7U3y"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 199733,
       "name": "I Wanna Be a Boy",
       "url": "https://open.spotify.com/track/4O7UPnI2rePU0JndPCI09d"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "CROSSOVER (Deluxe)",
+        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 177483,
+      "name": "day to day",
+      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Je te vois enfin",
-        "url": "https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Je te vois enfin",
-      "url": "https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Barbara",
         "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 166821,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Je te vois enfin",
+        "url": "https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Je te vois enfin",
+      "url": "https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6"
     },
     {
       "added_at": "2022-10-28 04:00:00",

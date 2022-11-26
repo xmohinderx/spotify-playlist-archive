@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: Wet Leg
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,431 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,686 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 26 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 27 | [Champion](https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Champion](https://open.spotify.com/album/0oHPGTS0X4TVmgtKQoarfX) | 4:39 |
 | 28 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 |
-| 29 | [Easy On Your Own?](https://open.spotify.com/track/2Bh6gPXFkzkqIHLmXyLvle) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:54 |
+| 29 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 |
 | 30 | [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 |
 | 31 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 32 | [Higher Power](https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 79 | [Love Song](https://open.spotify.com/track/4AzqVdOWSfVr1YQMLdpFMn) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A) | 3:45 |
 | 80 | [STRICTLY OLD SKOOL](https://open.spotify.com/track/59au5nk2BYfxjnwL3pnzTW) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [The Alchemist's Euphoria](https://open.spotify.com/album/5YAOV1BIL0uPv2Xa491hCM) | 3:07 |
 
-Snapshot ID: `MTY2ODcwMTIwMSwwMDAwMDAwMDBmM2VjZjM4MzM0Yjc1MGM4NjY5ZjQ1ODkzNDcwNjIx`
+Snapshot ID: `MTY2ODcwMTIwMSwwMDAwMDAwMDUwZDU1NzQzY2I4MDg1OTU4NzZkNTM4OTU4MDc1ZjY2`

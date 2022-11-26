@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,959 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,973 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 46 | [I'll Make Love to You \- Live On MTV Unplugged](https://open.spotify.com/track/0gazVflAsJdyXmuFrIiKmq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Babyface Unplugged NYC 1997](https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs) | 2:02 |
 | 47 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7ce3XCXIRELdK4RpyYCcxt) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:22 |
 | 48 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
-| 49 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 |
-| 50 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
+| 49 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
+| 50 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 |
 
-Snapshot ID: `Mjc4MjE2NzcsMDAwMDAwMDBlYWM1NjM2NWIzYWVmYjVhMWI2OTQzMjhmMjI2NzAwZg==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDBlNjBlMWY5MWJmNjI4MTU4OTYyMmIzYjJkZWU4OGIwOA==`

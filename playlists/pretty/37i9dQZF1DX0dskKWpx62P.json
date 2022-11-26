@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 24104,
+  "num_followers": 24136,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDk2MWNmYjUyODc4MjM3YmRkZDc0NWJlNjliMDhjY2Fi",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGQxMWZhZTk3MzhmZTE2NTBhZWM0ZGU5ZDUyMGIxMmRm",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Amor, amor",
+        "url": "https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Otra vez me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/6WATTVi4gRkxzavGw2YZtq"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "El Jilguero de Huascar\u00e1n",
         "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 388813,
       "name": "Flor de Retana",
       "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Amor, amor",
-        "url": "https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Otra vez me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/6WATTVi4gRkxzavGw2YZtq"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
-      },
-      "artists": [
-        {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "Challwaschallay",
-      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "La Reina de las Parranditas",
         "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 170109,
       "name": "Amor Te Has Marchado Lejos",
       "url": "https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+      },
+      "artists": [
+        {
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Challwaschallay",
+      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Pastorita Huaracina",
-        "url": "https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM"
-      },
-      "artists": [
-        {
-          "name": "Pastorita Huaracina",
-          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "A los Filos de un Cuchillo",
-      "url": "https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huaylash Macho",
         "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 219653,
       "name": "Huaylash Macho",
       "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Pastorita Huaracina",
+        "url": "https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM"
+      },
+      "artists": [
+        {
+          "name": "Pastorita Huaracina",
+          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
+        }
+      ],
+      "duration_ms": 188786,
+      "name": "A los Filos de un Cuchillo",
+      "url": "https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La Reina de las Parranditas",
-        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
-      },
-      "artists": [
-        {
-          "name": "Abencia Meza",
-          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "Cuanto Tiempo Sin Verte",
-      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 210560,
       "name": "Adi\u00f3s Pueblo De Ayacucho",
       "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "La Reina de las Parranditas",
+        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
+      },
+      "artists": [
+        {
+          "name": "Abencia Meza",
+          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "Cuanto Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
-      },
-      "artists": [
-        {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Mi Linda Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huaylash Pio Pio",
         "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 219653,
       "name": "El Pio, Pio",
       "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+      },
+      "artists": [
+        {
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Mi Linda Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
       "artists": [
         {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
         }
       ],
-      "duration_ms": 180853,
-      "name": "Tomando Cerveza",
-      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+      },
+      "artists": [
+        {
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Tomando Cerveza",
+      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "T\u00fa Puedes Volar",
         "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 250533,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",

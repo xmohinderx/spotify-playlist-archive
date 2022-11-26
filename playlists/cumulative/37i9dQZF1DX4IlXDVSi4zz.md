@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-115 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/6xJvxiorVlvPVNAhaM6Xfd)
+116 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/6xJvxiorVlvPVNAhaM6Xfd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Huwa](https://open.spotify.com/track/3n8f72Abjl4dDzL56JdktV) | [Dzhef](https://open.spotify.com/artist/6ULoCtOuU8QQ2sS6r88Mg9) | [Huwa](https://open.spotify.com/album/4nTvcJCQfzSiZdqrlPdS9P) | 7:03 | 2022-05-06 | 2022-07-29 |
 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 | 2022-07-26 | 2022-11-13 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-07-26 | 2022-08-11 |
-| [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-08-20 |  |
+| [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-08-20 | 2022-11-26 |
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-27 | 2022-07-29 |
 | [I'll Be There](https://open.spotify.com/track/1pMlrIbhp66MV2TJMz9vm2) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD), [Dawty Music](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe) | [I'll Be There](https://open.spotify.com/album/5QSSdvdhsIm2nUnISXpNuS) | 3:04 | 2022-03-29 | 2022-07-29 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2022-03-29 |  |
@@ -121,6 +121,7 @@
 | [Who Loves The Sun](https://open.spotify.com/track/2u2aognU8U2C3bPJO5pVmz) | [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [We Love The Sun](https://open.spotify.com/album/68dHtIw94SJ33SIBiT1rcK) | 9:22 | 2022-04-24 | 2022-11-13 |
 | [Who Loves The Sun feat\. Jo.Ke \- Edit](https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [We Love The Sun \(Edit\)](https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt) | 4:16 | 2022-03-29 | 2022-07-29 |
 | [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-03-29 |  |
+| [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-26 |  |
 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 | 2022-07-26 |  |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-03-29 |  |
 

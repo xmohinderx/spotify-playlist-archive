@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-266 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/4CkcBa2yg5PYM4HXnr0aPa)
+267 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/4CkcBa2yg5PYM4HXnr0aPa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Oye Tu Lamento](https://open.spotify.com/track/4YvpQTz05YJUiPr7gpDETG) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Oye Tu Lamento](https://open.spotify.com/album/5KyIk4zpwBD3KDyhQjRVz7) | 4:32 | 2022-07-05 | 2022-07-20 |
 | [Paisaje](https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 4:24 | 2022-07-05 | 2022-11-13 |
 | [Para dormir contigo otra vez](https://open.spotify.com/track/5MarqoT4wE5uNITGuEZams) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/6VANTf2CMQHLbGdxtvaXKN) | 3:01 | 2022-07-05 | 2022-07-29 |
-| [Para dormir contigo otra vez](https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk) | 3:01 | 2022-07-05 |  |
+| [Para dormir contigo otra vez](https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk) | 3:01 | 2022-07-05 | 2022-11-26 |
 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 | 2022-07-05 |  |
 | [Perrito Malvado](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Marita](https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ) | [Perrito Malvado](https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ) | 4:40 | 2022-07-05 |  |
 | [Pideme la luna](https://open.spotify.com/track/5EaIGGp65BeF4u9rgPygfl) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cachacas favoritas vol 1](https://open.spotify.com/album/442PotJOVamQkCyPhagrXJ) | 3:16 | 2022-07-05 | 2022-07-29 |
@@ -238,6 +238,7 @@
 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 | 2022-10-28 | 2022-11-13 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/65Z4VN8ZKEYkqM6K2yNoRl) | 3:23 | 2022-07-05 | 2022-07-29 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 | 2022-08-12 |  |
+| [Te Vi](https://open.spotify.com/track/31pwIptm5k6TLuHNd2QWAQ) | [Enghel](https://open.spotify.com/artist/5VxYEcNSW6yMZF39CPbFWQ), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Te Vi](https://open.spotify.com/album/7jXKHxSOlB7gETUxU4ryDE) | 3:44 | 2022-11-25 |  |
 | [Te Vi](https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:10 | 2022-07-05 | 2022-07-26 |
 | [Te Vuelvo a Ver](https://open.spotify.com/track/2NItmgHAUnsICEWIY5DQmj) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/00up9oRhervpPijdMVoZFn) | 3:38 | 2022-07-05 | 2022-07-22 |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 | 2022-07-05 | 2022-07-29 |

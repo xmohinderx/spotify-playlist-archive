@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 173984,
+  "num_followers": 174263,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMGQ3YzRiN2RiM2ZlMTMwN2M2MDNlZjA5ZDRmZTgxODEx",
+  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDE1YTUzYjg5MGQzZWE1OGEwNDQwNWVmMGUyYTc2ZTkw",
   "tracks": [
     {
       "added_at": "2021-09-23 20:29:34",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 231920,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "I Hope You Dance",
-        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "I Hope You Dance",
-      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Rhinestone Cowboy (Expanded Edition)",
         "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 194453,
       "name": "Rhinestone Cowboy",
       "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "I Hope You Dance",
+        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "I Hope You Dance",
+      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Teach Your Children",
+      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Teach Your Children",
-      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Judge Jerrod & The Hung Jury",
-        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
+        "name": "Livin' It Up",
+        "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
       },
       "artists": [
         {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Lover, Lover",
-      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
+      "duration_ms": 187000,
+      "name": "Love Without End, Amen",
+      "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Livin' It Up",
-        "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
+        "name": "Judge Jerrod & The Hung Jury",
+        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Love Without End, Amen",
-      "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
+      "duration_ms": 193733,
+      "name": "Lover, Lover",
+      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "I'm From The Country",
-        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
+        "name": "C.W. McCall's Greatest Hits",
+        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "C.W. McCall",
+          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
         }
       ],
-      "duration_ms": 213973,
-      "name": "I'm From The Country - Single Version",
-      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+      "duration_ms": 230600,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "C.W. McCall's Greatest Hits",
-        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
+        "name": "I'm From The Country",
+        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
       },
       "artists": [
         {
-          "name": "C.W. McCall",
-          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Convoy",
-      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
+      "duration_ms": 213973,
+      "name": "I'm From The Country - Single Version",
+      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
     },
     {
       "added_at": "2021-09-23 20:29:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,108 likes - 71 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,190 likes - 71 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 45 | [Kamasu or Die](https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [Kamasu or Die](https://open.spotify.com/album/5lbYwvOXS7YZIdRdKvLaTw) | 3:41 |
 | 46 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 |
 | 47 | [YAPPA](https://open.spotify.com/track/0Z0SFVUgp96U4BkrsSYII0) | [SKOLOR](https://open.spotify.com/artist/5h8iTRYvWcWxXcDkefed0n) | [YAPPA](https://open.spotify.com/album/2kclqoWmIj9o6ydLvime3D) | 2:03 |
-| 48 | [JAPANESE NINJA](https://open.spotify.com/track/00HIKUJ3NMsxnvFuLuQiSf) | [LeMu](https://open.spotify.com/artist/2Fs2BmbyNv5W969MZKe2kM), [P¥TA](https://open.spotify.com/artist/3YVzbws07cdeBA8ZisKzqX), [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq), [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe) | [LeMu TAPE](https://open.spotify.com/album/2AIUvGSCl36rMXwiRH1IaV) | 2:22 |
+| 48 | [JAPANESE NINJA](https://open.spotify.com/track/00HIKUJ3NMsxnvFuLuQiSf) | [LeMu](https://open.spotify.com/artist/2Fs2BmbyNv5W969MZKe2kM), [P¥TA](https://open.spotify.com/artist/3YVzbws07cdeBA8ZisKzqX), [Will](https://open.spotify.com/artist/3muGOz0Xarz7aRbHp1QOSu), [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe) | [LeMu TAPE](https://open.spotify.com/album/2AIUvGSCl36rMXwiRH1IaV) | 2:22 |
 | 49 | [WAR](https://open.spotify.com/track/6oVlyC84w0IvHWuPg6SJZM) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [WAR](https://open.spotify.com/album/5BWTz9IMuwdDMmZvFTM7gu) | 2:12 |
 | 50 | [R.I.P](https://open.spotify.com/track/3JkLRKvufT3vSABHmDbdIl) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [BAD HOP WORLD DELUXE](https://open.spotify.com/album/5iKrBBfSSmDja64JoH0kRS) | 4:01 |
 | 51 | [POP KILLERS](https://open.spotify.com/track/0JKLH3MfvHtHPGzWaPbaXO) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS](https://open.spotify.com/album/3dyCh1FE71PhGCYAQfIw6C) | 2:39 |

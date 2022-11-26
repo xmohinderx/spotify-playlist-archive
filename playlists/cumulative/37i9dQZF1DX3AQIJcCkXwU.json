@@ -1084,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "Manali Sunrise",
+        "url": "https://open.spotify.com/album/1YrIS5BqUiTHZMo8PhOyZc"
+      },
+      "artists": [
+        {
+          "name": "Interspaces",
+          "url": "https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207374,
+      "name": "Manali Sunrise",
+      "url": "https://open.spotify.com/track/4m0KL4ZBlLnhwXWGm3FvyX"
+    },
+    {
+      "album": {
         "name": "Moksha",
         "url": "https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY"
       },

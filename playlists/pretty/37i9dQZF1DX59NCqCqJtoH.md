@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,212 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,366 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 63 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
 | 64 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
 | 65 | [snowflake \(feat\. Jaden & Sarcastic Sounds\)](https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [tell me your feelings and i won't tell you mine](https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R) | 3:07 |
-| 66 | [i'd rather be alone](https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1) | [boodahki](https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ) | [i'd rather be alone](https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV) | 2:22 |
-| 67 | [You Don't Want Me Anymore](https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [You Don't Want Me Anymore](https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss) | 2:45 |
+| 66 | [You Don't Want Me Anymore](https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [You Don't Want Me Anymore](https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss) | 2:45 |
+| 67 | [i'd rather be alone](https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1) | [boodahki](https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ) | [i'd rather be alone](https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV) | 2:22 |
 | 68 | [this body means nothing to me](https://open.spotify.com/track/2zQQai9nqofvLZ703t0Jxi) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [this body means nothing to me](https://open.spotify.com/album/59KqxBTfo4IpsQrxpPkwwR) | 2:11 |
 | 69 | [Please Never Fall in Love Again](https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M) | [Ollie MN](https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk) | [Songs from the Swamp](https://open.spotify.com/album/0HCDt0E4uxtXP99bJyOQDV) | 2:34 |
 | 70 | [Say Goodbye](https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Say Goodbye](https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp) | 2:30 |
-| 71 | [I'm Not Enough and I'm Sorry](https://open.spotify.com/track/4P1L6AniTDJzANaubzWGYs) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [I'm Not Enough and I'm Sorry](https://open.spotify.com/album/55el5L9WQeGe5LUm73cWL7) | 2:00 |
-| 72 | [Any Love](https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 2:13 |
+| 71 | [Any Love](https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 2:13 |
+| 72 | [I'm Not Enough and I'm Sorry](https://open.spotify.com/track/4P1L6AniTDJzANaubzWGYs) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [I'm Not Enough and I'm Sorry](https://open.spotify.com/album/55el5L9WQeGe5LUm73cWL7) | 2:00 |
 | 73 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 |
 | 74 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 |
 | 75 | [please never fall in love again](https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf), [Ollie MN](https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk) | [please never fall in love again](https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd) | 2:37 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 78 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
 | 79 | [Brockhampton](https://open.spotify.com/track/02YuLkTLNkOzKfl5Pmvs2S) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 4:32 |
 | 80 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
-| 81 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
-| 82 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
+| 81 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
+| 82 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
 | 83 | [Losing Interest](https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd) | [CuBox](https://open.spotify.com/artist/4zlFLeqKTteBjaFysGR9CU), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Japan](https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX) | 2:50 |
 | 84 | [The Silence](https://open.spotify.com/track/72dIN8F7D5ydB3auSqNi84) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 6:59 |
 | 85 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 96 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 |
 | 97 | [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 |
 | 98 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
-| 99 | [Don't Leave, Don't Go](https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT) | 3:04 |
-| 100 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 |
+| 99 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
+| 100 | [Don't Leave, Don't Go](https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT) | 3:04 |
 
-Snapshot ID: `MTY2OTE0NjIwMywwMDAwMDAwMDZmNDNhYzczNDMxZmQyYzFmNDYxMTJiYWE2OGJkZWQy`
+Snapshot ID: `MTY2OTE0NjIwMywwMDAwMDAwMGJhZmNlMzlhZmM4MWNiNjRmNTBmODEyYjc4NzA1MzIw`

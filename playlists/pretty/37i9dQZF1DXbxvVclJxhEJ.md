@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,020 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,086 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 3 | [Nobody Knows You When You're Down and Out \- 78rpm Version](https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Essential Bessie Smith](https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag) | 2:56 |
 | 4 | [My Journey To The Sky](https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 3:10 |
 | 5 | [Turtle Blues](https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:21 |
-| 6 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
-| 7 | [I'm A Woman](https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [The Earthshaker](https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq) | 4:34 |
+| 6 | [I'm A Woman](https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [The Earthshaker](https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq) | 4:34 |
+| 7 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 | 8 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 |
 | 9 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
 | 10 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 20 | [Little Red Rooster](https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:28 |
 | 21 | [My Daddy Rocks Me](https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Trixie Smith Vol\. 2 1925\-1929](https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI) | 2:54 |
 | 22 | [Gimme a Pigfoot \- Mono](https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 3:07 |
-| 23 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
-| 24 | [Born Under A Bad Sign](https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:56 |
+| 23 | [Born Under A Bad Sign](https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:56 |
+| 24 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
 | 25 | [Summertime](https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:53 |
 | 26 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
 | 27 | [Rock The Bop](https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp) | 2:13 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 46 | [Trouble In Mind \(9510\)](https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT) | [Bertha "Chippie" Hill](https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E) | [Bertha "Chippie" Hill 1925\-1929](https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9) | 2:44 |
 | 47 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 |
 | 48 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 |
-| 49 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
-| 50 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
+| 49 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
+| 50 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
 
-Snapshot ID: `MTY2ODcxMTQxOCwwMDAwMDAwMGM2YmE2ODM3OWQ4NGUzNmQ5ZmE5NmM3ZGY0NDA2MDE0`
+Snapshot ID: `MTY2ODcxMTQxOCwwMDAwMDAwMGY1NTEzYjk2NDMxZmM3Y2RmNTc5ZjQ0NTliNjFkMjQx`

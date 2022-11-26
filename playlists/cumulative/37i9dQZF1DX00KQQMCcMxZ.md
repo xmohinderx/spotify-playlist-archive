@@ -4,7 +4,7 @@
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-38 songs - 1 hr 37 min - not published yet
+39 songs - 1 hr 40 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bird Sounds HD](https://open.spotify.com/track/4CfWxs2ZmO9H34idCvfnvp) | [Dominica del Foresta](https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ) | [Summer Breeze Bird](https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA) | 2:03 | 2022-10-28 |  |
 | [Bird\-watching](https://open.spotify.com/track/3q1utXbOrLhfUO3S1daLdE) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:58 | 2022-10-28 |  |
 | [Birds & The Bees](https://open.spotify.com/track/4wdgM2i2X3jMCvq5bCnNJ9) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 1:34 | 2022-10-28 |  |
-| [Birds and Increasing Wind](https://open.spotify.com/track/1YBs0EOOgWqCw58d9gxWlB) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Spring Birds in the Forest](https://open.spotify.com/album/0BhDcOpk8LFSJkGLeREQUN) | 1:52 | 2022-10-28 |  |
+| [Birds and Increasing Wind](https://open.spotify.com/track/1YBs0EOOgWqCw58d9gxWlB) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Spring Birds in the Forest](https://open.spotify.com/album/0BhDcOpk8LFSJkGLeREQUN) | 1:52 | 2022-10-28 | 2022-11-26 |
 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 | 2022-10-28 |  |
 | [Birds In The Woods](https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:41 | 2022-10-28 |  |
 | [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 | 2022-10-28 |  |
@@ -39,6 +39,7 @@
 | [Morning Bird Symphony](https://open.spotify.com/track/3H33Uelf6KheaJQphvrYFz) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Morning Bird Symphony](https://open.spotify.com/album/2815kNCpMBJS3tP20pmwFh) | 2:03 | 2022-10-28 |  |
 | [Morning Birds](https://open.spotify.com/track/6xUIF4Z4PcCPHHWi0Ljp5E) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 3:42 | 2022-10-28 |  |
 | [Morning in the Mist](https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM) | [Wonders of Nature](https://open.spotify.com/artist/76h7eP0k2WHIUN2MkppeVJ) | [Woodlands](https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq) | 4:31 | 2022-10-28 |  |
+| [Ocean Winds And Birds](https://open.spotify.com/track/0Ky7FA9AeAsAGiLUW7fKUv) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:31 | 2022-10-28 |  |
 | [Orchid Stories](https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Orchid Stories](https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V) | 3:46 | 2022-10-28 |  |
 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 | 2022-10-28 |  |
 | [Raindrops In The Forest \- Seamless](https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9) | [The Sleepy Forest](https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN) | [Timber Slumber](https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg) | 3:02 | 2022-10-28 |  |

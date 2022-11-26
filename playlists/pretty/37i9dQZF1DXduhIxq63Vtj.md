@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Achis achis los mariachis!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,052 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,079 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 22 | [La fiesta del mariachi](https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:44 |
 | 23 | [Ay, Chabela](https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
 | 24 | [Cielito Lindo](https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE) | [Darvelio Arredondo](https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC) | 3:41 |
-| 25 | [Osito carpintero](https://open.spotify.com/track/7nx4DJCKRjAGzAjBL7tKYC) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 2:38 |
+| 25 | [La Raspa \- Remastered](https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:17 |
 | 26 | [Guadalajara](https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:56 |
-| 27 | [La Raspa \- Remastered](https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:17 |
+| 27 | [Osito carpintero](https://open.spotify.com/track/7nx4DJCKRjAGzAjBL7tKYC) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 2:38 |
 | 28 | [Chaparrita](https://open.spotify.com/track/4mcQaRnIRyOqBocOjivSZz) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 3:27 |
 | 29 | [Negrita de Mis Pesares](https://open.spotify.com/track/4yHL70akK2dL99EU0DviKH) | [Mariachi Pablo Olmedo](https://open.spotify.com/artist/57eFfYB14GxTUGPoZCCtvR) | [Mexican Music: Best Mariachi Music\. Traditional & Popular Mexican Songs, Rancheras & Corridos](https://open.spotify.com/album/7ynAgcVHO5LuUTQ8SkkG2L) | 2:59 |
 | 30 | [La Interesada](https://open.spotify.com/track/5UbjsmHa2M69q2Q1bzmDBE) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [De Buen Humor, Con Las Canciones Y La Voz De Chava Flores](https://open.spotify.com/album/3AS7o4ZD2AYKG5VhuOJSmg) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 49 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
 | 50 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
 
-Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMGJiZDQyZmE2NTc1NGI2ZDQ4MDZhNmYyYzZlYTM0Zjdl`
+Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMDEyYjYwMTFlZmY4NjMyMDk0NGVmYjc4ODEzNTg1MzA2`

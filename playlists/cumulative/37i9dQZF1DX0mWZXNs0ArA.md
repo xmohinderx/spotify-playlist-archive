@@ -4,7 +4,7 @@
 
 > 150%
 
-107 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+108 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Paro \- Speed Up](https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro \(Speed Up\)](https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL) | 2:33 | 2022-07-25 |  |
 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 | 2022-06-24 |  |
 | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV) | 2:00 | 2022-06-09 |  |
+| [psilocybin \- sped up](https://open.spotify.com/track/1CwFuRSP9dB2HvbmXBSEDS) | [YKARE](https://open.spotify.com/artist/1p9c4UC7cX15y830hNHwm1) | [psilocybin](https://open.spotify.com/album/2WGURTSIVqDOm6r0Srrxti) | 1:52 | 2022-11-25 |  |
 | [reaLitie biTes \- \(Nightcore Mix\)](https://open.spotify.com/track/3RjKonSan0ZzkbwjgL4nO8) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [reaLitie biTes \(Nightcore Mix\)](https://open.spotify.com/album/3FDJomAQ0DopwMB36WNIEp) | 2:01 | 2022-10-28 | 2022-11-05 |
 | [Remember \- Acoustic / Sped Up](https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:34 | 2022-10-24 |  |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-06-09 |  |

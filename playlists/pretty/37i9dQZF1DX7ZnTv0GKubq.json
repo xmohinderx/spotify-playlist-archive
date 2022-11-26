@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 336361,
+  "num_followers": 336390,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1MzA2MiwwMDAwMDAwMDAyM2U2YWU5MzIzOTA3ZTBlZjFmMDU1YzllMzlmNjlk",
+  "snapshot_id": "MTY2NjU1MzA2MiwwMDAwMDAwMGMxN2Y0OWRmZmQyZDgyZmFhMmEzNjdkY2M2NTc5NTc4",
   "tracks": [
     {
       "added_at": "2022-10-23 19:24:22",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
+    },
+    {
+      "added_at": "2022-10-23 19:24:22",
+      "album": {
         "name": "Want U Around (feat. Ruel)",
         "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
-      "added_at": "2022-10-23 19:24:22",
-      "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
     },
     {
       "added_at": "2022-10-23 19:24:22",

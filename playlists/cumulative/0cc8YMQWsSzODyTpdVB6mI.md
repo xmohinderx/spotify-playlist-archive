@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-101 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+102 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-11-05 |  |
 | [Might Be on Fire](https://open.spotify.com/track/2CwWU5UFHrIHUuGyN7pf5E) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Might Be on Fire](https://open.spotify.com/album/4ZbbWUSrvTCjuHCgkDA0W7) | 3:07 | 2021-11-05 |  |
+| [Moonlight](https://open.spotify.com/track/3xg2H9VTF8uW046sq1Grto) | [Karl Meyer](https://open.spotify.com/artist/2f9bz0POgpM78PM6Mbarjo) | [Moonlight](https://open.spotify.com/album/53QtBB62XZEkvGVoazcE4f) | 3:08 | 2022-11-25 |  |
 | [MY MIND](https://open.spotify.com/track/7Kgcz89XMfj4WHtm5nd3mJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_III](https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7) | 2:55 | 2022-11-16 |  |
 | [No One Knows You Better Than Me](https://open.spotify.com/track/5sRw42rZDyBqUi041yw5q8) | [Runrummer](https://open.spotify.com/artist/2VqvNXdQzKDywenScflYoX) | [No One Knows You Better Than Me](https://open.spotify.com/album/3u7wrsxCG6SfCsz14Kcts4) | 4:23 | 2022-04-04 | 2022-06-14 |
 | [Nympho](https://open.spotify.com/track/7BShG8FX4glHiyOrh7dbET) | [DJ Assault](https://open.spotify.com/artist/3yoyUFgb11DMp1KrsJoQZU) | [Nympho](https://open.spotify.com/album/1IisYeFNyLYwdJdg0eW1V5) | 4:01 | 2021-11-05 |  |
@@ -97,7 +98,7 @@
 | [TE NECESITO¡! \(club\)](https://open.spotify.com/track/3kTongg66uYQDvmqViLXad) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Melika](https://open.spotify.com/artist/5Om1eyevwmfGPz1PTWn8VK) | [TALES\_FOR\_NIGHTCLUBS \(extended\)](https://open.spotify.com/album/1fwN0p83Sfq9ljvfcYI7Iy) | 3:12 | 2022-04-15 | 2022-06-24 |
 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-04-18 | 2022-06-28 |
 | [The Soft Spot](https://open.spotify.com/track/6xf1V275yYwB7nbv8ViGUD) | [Blush FM](https://open.spotify.com/artist/2FeqmH4OmXUDoPeMX6itAb) | [The Soft Spot](https://open.spotify.com/album/7re2LRARUnbzCyChKn61IT) | 3:31 | 2022-10-24 |  |
-| [The Way You Move It \- Radio Edit](https://open.spotify.com/track/50wq9ALHIyympgfiXUiHfq) | [James Juke](https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf) | [The Way You Move It](https://open.spotify.com/album/3rmYMf2QUh3D78uBiZApw6) | 3:40 | 2022-08-26 |  |
+| [The Way You Move It \- Radio Edit](https://open.spotify.com/track/50wq9ALHIyympgfiXUiHfq) | [James Juke](https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf) | [The Way You Move It](https://open.spotify.com/album/3rmYMf2QUh3D78uBiZApw6) | 3:40 | 2022-08-26 | 2022-11-26 |
 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 | 2022-09-12 |  |
 | [TTYL](https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [TTYL](https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G) | 3:18 | 2022-07-04 | 2022-09-27 |
 | [Wake Up](https://open.spotify.com/track/6BIwfeKvv16gjDnoYSGTdo) | [Pocket Sun](https://open.spotify.com/artist/2AglFpK0fLt8IxuOPC3SbR) | [Wake Up](https://open.spotify.com/album/5hENfb4W17kr2Xq0dnC3hS) | 3:32 | 2022-10-10 |  |

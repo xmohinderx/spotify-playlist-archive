@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 164795,
+  "num_followers": 164894,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDE1ZmNlMjQ3OGEzOGIzMGVhOWMxNWQwNTNhZjdlNmU1",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDkzNTlhYmM5YzY3NGMxNWIzZGE2NDM1MDI3Nzc5MDVk",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -375,6 +375,26 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Sun, Moon, Stars",
+        "url": "https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        },
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 275613,
+      "name": "Sun, Moon, Stars",
+      "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "The Sky is Painted Gray Today",
         "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 288678,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Sun, Moon, Stars",
-        "url": "https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        },
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 275613,
-      "name": "Sun, Moon, Stars",
-      "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Magic Chairs",
-        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+        "name": "Gardening, Pt. 1",
+        "url": "https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v"
       },
       "artists": [
         {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
         }
       ],
-      "duration_ms": 293760,
-      "name": "Modern Drift",
-      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+      "duration_ms": 224226,
+      "name": "Romain's Place",
+      "url": "https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Magic Chairs",
+        "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Modern Drift",
+      "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Unknown / (It's Not About) Running",
         "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 246316,
       "name": "(It's Not About) Running",
       "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Gardening, Pt. 1",
-        "url": "https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Romain's Place",
-      "url": "https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "The Lingering",
+        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 193622,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Br\u00e5tebrann",
         "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 197192,
       "name": "Morgan, I Might",
       "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "The Lingering",
-        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 193622,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "One Day at a Time",
+        "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
+      },
+      "artists": [
+        {
+          "name": "Benedikt",
+          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
+        }
+      ],
+      "duration_ms": 152120,
+      "name": "One Day at a Time",
+      "url": "https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "And Then the Sun Came Up",
         "url": "https://open.spotify.com/album/0ARbTN291oZy3KePCs36Uq"
       },
@@ -875,42 +891,6 @@
       "duration_ms": 291427,
       "name": "Astoria",
       "url": "https://open.spotify.com/track/4ZTOrqZ171TP9z7ubj2LEt"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Jag \u00e4r sen igen",
-        "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
-      },
-      "artists": [
-        {
-          "name": "Benedikt",
-          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
-        },
-        {
-          "name": "\u00c6vestaden",
-          "url": "https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw"
-        }
-      ],
-      "duration_ms": 170875,
-      "name": "Halsmandlar",
-      "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
-      },
-      "artists": [
-        {
-          "name": "Silver Lining",
-          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -935,6 +915,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Dad Told Me",
         "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
       },
@@ -951,38 +947,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl"
-      },
-      "artists": [
-        {
-          "name": "Broken Twin",
-          "url": "https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Glimpse of a Time",
-      "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/5KGvjHsl3He6zOSszh8uFH"
-      },
-      "artists": [
-        {
-          "name": "Sonic L\u00f8land",
-          "url": "https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3y30CMKgom7ymwPVnDuoQ4"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Classic Objects",
         "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
@@ -995,6 +959,42 @@
       "duration_ms": 136960,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Jag \u00e4r sen igen",
+        "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
+      },
+      "artists": [
+        {
+          "name": "Benedikt",
+          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
+        },
+        {
+          "name": "\u00c6vestaden",
+          "url": "https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw"
+        }
+      ],
+      "duration_ms": 170875,
+      "name": "Halsmandlar",
+      "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl"
+      },
+      "artists": [
+        {
+          "name": "Broken Twin",
+          "url": "https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Glimpse of a Time",
+      "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
     },
     {
       "added_at": "2022-11-24 23:00:00",

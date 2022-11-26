@@ -4,7 +4,7 @@
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-50 songs - 3 hr 51 min - not published yet
+51 songs - 3 hr 55 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Faz Brilhar / Brilha Jesus](https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 5:25 | 2021-11-12 |  |
 | [Feliz Natal](https://open.spotify.com/track/5gYzSC8RstOKVyM6HHgVKA) | [Bruno Átyla](https://open.spotify.com/artist/5lENw00wwnZE4q98GMUxLp), [Haldo e Diames](https://open.spotify.com/artist/59cVfb20QheOgE3kFCzTTb) | [Feliz Natal](https://open.spotify.com/album/7vTIzjCHpHEVlRVpv4ZFhm) | 3:18 | 2021-11-12 |  |
 | [Filho de Deus Amigo Meu](https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Revolução](https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR) | 4:18 | 2021-11-12 |  |
+| [Glória a Deus nas Alturas](https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA) | [Laura Morena](https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU), [Sullivan Dutra](https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki) | [Glória a Deus nas Alturas](https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk) | 4:02 | 2022-11-25 |  |
 | [Glória e Aleluia \- Christmas](https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Glória e Aleluia \(Christmas\)](https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl) | 3:54 | 2021-11-12 |  |
 | [Grande é o Senhor \- Acústico Ao Vivo](https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:40 | 2021-11-12 |  |
 | [Jesus Te Amamos \(feat\. Nívea Soares\)](https://open.spotify.com/track/40VfGWKp45JemcR9NWY13U) | [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Novamente](https://open.spotify.com/album/0ibQw0V0Y9WfFMWZdIwTJe) | 6:58 | 2021-11-12 |  |
@@ -51,7 +52,7 @@
 | [Primeiro Natal \(The First Noel\)](https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 | 2021-11-12 |  |
 | [Redenção](https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Viva](https://open.spotify.com/album/62xmf2as0ezc3sb0zj5Da0) | 4:35 | 2021-11-12 |  |
 | [Te Agradeço \- Ao Vivo](https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 5:04 | 2021-11-12 |  |
-| [Tenha pra Você um Feliz Natal](https://open.spotify.com/track/1y0oEieIbO267rpUEpvgMM) | [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Meu Natal](https://open.spotify.com/album/0hqPJXin6tnErxVYK6i4jA) | 4:15 | 2021-11-12 |  |
+| [Tenha pra Você um Feliz Natal](https://open.spotify.com/track/1y0oEieIbO267rpUEpvgMM) | [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Meu Natal](https://open.spotify.com/album/0hqPJXin6tnErxVYK6i4jA) | 4:15 | 2021-11-12 | 2022-11-26 |
 | [Vem Cear](https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e) | [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm) | [Clássicos da Música Cristã](https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY) | 3:38 | 2021-11-12 |  |
 | [Vem Chegando o Natal](https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK) | [Noite de Paz \- Canções para Celebrar](https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1) | 3:13 | 2021-11-12 |  |
 | [É meia\-noite \(Ó, Noite Santa\)](https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Nasceu o Redentor](https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW) | 5:24 | 2021-11-12 |  |

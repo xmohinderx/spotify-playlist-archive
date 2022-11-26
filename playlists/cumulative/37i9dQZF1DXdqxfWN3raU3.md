@@ -2,9 +2,9 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B creado en el continente y España\. Foto: Elena Rose
+> Disfruta del más fino R&B creado en el continente y España\. Nicole Horts en portada.
 
-164 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+166 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2021-12-13 | 2022-07-23 |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2021-12-13 |  |
 | [Bésame Lento](https://open.spotify.com/track/2b1z1Z44zzakWfqTycS1rL) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Bésame Lento](https://open.spotify.com/album/5AF3raSCoWij16qck0msSm) | 3:58 | 2022-08-17 |  |
+| [Cabrón](https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Cabrón](https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf) | 2:59 | 2022-11-25 |  |
 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 | 2022-02-18 |  |
 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 | 2022-01-21 |  |
 | [Cambio](https://open.spotify.com/track/0WvD8VcyBR81nZOVvVpC32) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Cambio](https://open.spotify.com/album/1Wx284gZVggOh2cVd9NcDA) | 2:55 | 2021-12-13 | 2022-02-05 |
@@ -79,10 +80,10 @@
 | [Honey](https://open.spotify.com/track/4GFTSjFirhXwj2TS4E6Baf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Honey](https://open.spotify.com/album/033OksAEhQNLvkJojYuNtL) | 3:06 | 2022-03-07 |  |
 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 | 2022-10-16 |  |
 | [Humo](https://open.spotify.com/track/4OTUMCIUroaNsqQ17gb0vn) | [Iza](https://open.spotify.com/artist/6UEg14BmF105iMIZcz9Bw7) | [Humo](https://open.spotify.com/album/1dN1HqAFOMMjRsilVKjbFf) | 3:14 | 2021-12-13 | 2022-02-19 |
-| [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2021-12-13 |  |
+| [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2021-12-13 | 2022-11-26 |
 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 | 2022-01-04 |  |
 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 | 2022-01-21 |  |
-| [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 | 2021-12-13 |  |
+| [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 | 2021-12-13 | 2022-11-26 |
 | [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 | 2022-06-16 |  |
 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 | 2022-10-16 |  |
 | [La Faca](https://open.spotify.com/track/1JpecUG8sPntakN0orOpgN) | [Ángel Strife](https://open.spotify.com/artist/3Lse4fAlOchY8msotsYMA6), [Carol Villagrán](https://open.spotify.com/artist/2t97Z9KUuhtctWUlsmrt4Q) | [La Faca \(Feat\. Carol Villagrán\)](https://open.spotify.com/album/66A465PEibTC3MjkOI4Nvw) | 3:18 | 2021-12-13 |  |
@@ -158,6 +159,7 @@
 | [Ten Cuidao'](https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Ten Cuidao'](https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i) | 2:54 | 2021-12-13 |  |
 | [Terminamos](https://open.spotify.com/track/3dXKFweUDz1Ls4wXLQIIVh) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Terminamos](https://open.spotify.com/album/1TIbf6LcBe262eVSsJWLQu) | 3:34 | 2021-12-13 | 2022-02-19 |
 | [Terremoto](https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu) | 3:27 | 2022-03-11 |  |
+| [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 | 2022-11-25 |  |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2021-12-13 | 2022-01-05 |
 | [Tu Papá Te Va a Llamar](https://open.spotify.com/track/5whRxHuzSIj35MUkIm0Op6) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Protohombre](https://open.spotify.com/album/4jk57uh2vy7YFkEy7X2iaZ) | 3:40 | 2021-12-13 |  |
 | [Tus Ojos Me Hablaron](https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tus Ojos Me Hablaron](https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM) | 3:21 | 2021-12-13 |  |

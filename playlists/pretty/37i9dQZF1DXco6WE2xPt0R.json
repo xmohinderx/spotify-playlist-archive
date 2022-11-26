@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 84000,
+  "num_followers": 84025,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQ2MCwwMDAwMDAwMGFlZDFkNzVlOTBjNDg3MWEzYmJkYjgxNDU3ZTFlYTg4",
+  "snapshot_id": "MTY2ODc0MDQ2MCwwMDAwMDAwMDU4YWI5M2I2M2Q2YTlmY2RjZmEzYzQ4NDVjZTE0NmFi",
   "tracks": [
     {
       "added_at": "2022-11-18 03:01:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
+        "name": "Obsession (feat. Muni Long) [Remix]",
+        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Obsession (feat. Muni Long) - Remix",
+      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "Obsession (feat. Muni Long) [Remix]",
-        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Obsession (feat. Muni Long) - Remix",
-      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
         "name": "Good Morning Gorgeous (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Julie.",
+      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
         "name": "All Pride Aside with Summer Walker",
         "url": "https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 258417,
       "name": "All Pride Aside with Summer Walker",
       "url": "https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Julie.",
-      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Let Me See Your Phone",
-        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 202371,
-      "name": "Let Me See Your Phone",
-      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "She Knows",
         "url": "https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 248250,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Let Me See Your Phone",
+        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 202371,
+      "name": "Let Me See Your Phone",
+      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Sex, Love & Pain",
-        "url": "https://open.spotify.com/album/2ysbGZxi30xemn0KCIDWU1"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "My Body",
-      "url": "https://open.spotify.com/track/39sfV1mgK48hNDmyZhCg4f"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "Exposure",
         "url": "https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 224543,
       "name": "Exposure",
       "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Sex, Love & Pain",
+        "url": "https://open.spotify.com/album/2ysbGZxi30xemn0KCIDWU1"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 231280,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/39sfV1mgK48hNDmyZhCg4f"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1275,6 +1275,22 @@
       "duration_ms": 239173,
       "name": "No Love Song",
       "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 191625,
       "name": "Ifwu",
       "url": "https://open.spotify.com/track/6ODk81vpF0O4JWD2odIjC1"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Eventually Pt. 1",
-        "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
-      },
-      "artists": [
-        {
-          "name": "MAAD",
-          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "ILM",
-      "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/4JnOTToBfdGzJUP7Qy2nYL"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 161573,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/4aKniqIkySbQDkrOA6uUqP"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Eventually Pt. 1",
+        "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
+      },
+      "artists": [
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "ILM",
+      "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
     },
     {
       "added_at": "2022-11-18 03:01:00",

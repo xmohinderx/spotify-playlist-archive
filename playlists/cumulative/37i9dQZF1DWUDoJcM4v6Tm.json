@@ -1125,10 +1125,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 196106,
       "name": "Convention",
       "url": "https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY"
+    },
+    {
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "Convention",
+      "url": "https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb"
     },
     {
       "album": {

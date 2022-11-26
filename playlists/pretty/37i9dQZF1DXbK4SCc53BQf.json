@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 76703,
+  "num_followers": 76748,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDgxMTU1OTNmMjMxZGM2NjA1NjE2NWY4Zjk0YjhkMzk2",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDY5ZmQ5NjJkNTg3ODU1M2NiOGQzN2E5ODVkMzI0OTJh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -551,6 +551,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
+      },
+      "artists": [
+        {
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
+        }
+      ],
+      "duration_ms": 297580,
+      "name": "Autor",
+      "url": "https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Original Love",
         "url": "https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 248857,
       "name": "Good Good Father (feat. Avion Blackman)",
       "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Vestida De Adoracion",
-        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
-      },
-      "artists": [
-        {
-          "name": "Kathy Cristina",
-          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
-        }
-      ],
-      "duration_ms": 297580,
-      "name": "Autor",
-      "url": "https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -863,22 +863,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Colaboraciones de Ayer y Hoy",
-        "url": "https://open.spotify.com/album/5uu15dSyOKwEVPY9qRzT6t"
+        "name": "Dios Te Bendiga",
+        "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
       },
       "artists": [
         {
-          "name": "Rescate",
-          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Willy Rodriguez",
+          "url": "https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH"
         }
       ],
-      "duration_ms": 241960,
-      "name": "Soy Jose",
-      "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
+      "duration_ms": 232254,
+      "name": "Dios Te Bendiga",
+      "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

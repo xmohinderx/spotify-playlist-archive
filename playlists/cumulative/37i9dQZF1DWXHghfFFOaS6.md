@@ -4,7 +4,7 @@
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-161 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/0s2Ueduw9O11cFJZqPQWID)
+162 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/0s2Ueduw9O11cFJZqPQWID)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Think Twice](https://open.spotify.com/track/6uh8siVtiO7lJwhFeAnavp) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Welcome To Detroit](https://open.spotify.com/album/5M92m91MsFyvA6Nu0tRj8t) | 3:52 | 2021-12-12 | 2022-07-29 |
 | [Think Twice](https://open.spotify.com/track/3yBO33Nyb6APYbeLESad7u) | [Jay Dee](https://open.spotify.com/artist/16L1SS4OancaZUTu3qWqHb), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Welcome 2 Detroit](https://open.spotify.com/album/2KvJwjA8SxHUn1JPG09W4g) | 3:52 | 2022-07-14 |  |
 | [TIBBE](https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [TTWL / TIBBE](https://open.spotify.com/album/4PCiw9zO0xQbymk38A1Giq) | 2:25 | 2021-12-12 | 2022-11-21 |
+| [TIBBE](https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:25 | 2022-07-14 |  |
 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 | 2022-03-10 |  |
 | [Totally Together](https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 3:49 | 2021-12-12 |  |
 | [Turn On, Tune In, Cop Out \- Radio Edit](https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc) | [Freak Power](https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ) | [Drive\-Thru Booty](https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2) | 4:24 | 2022-07-14 |  |
@@ -167,7 +168,7 @@
 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 | 2021-12-12 |  |
 | [Yes Baby Yes](https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd) | 5:00 | 2022-07-14 |  |
 | [Yes Baby Yes](https://open.spotify.com/track/7giGmJIbbNsXTFcXvFCEjw) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/1sfaA3zsjszpfodCwz0GMi) | 5:00 | 2021-12-12 | 2022-07-29 |
-| [You Are In My System](https://open.spotify.com/track/2kSStoNv9O3SLvOXebvuVt) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Always There: 1981\-2021 \(40 Years & Still Groovin’\)](https://open.spotify.com/album/1gcxfIY8oeRYr203cTsjVP) | 5:43 | 2022-07-14 |  |
+| [You Are In My System](https://open.spotify.com/track/2kSStoNv9O3SLvOXebvuVt) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Always There: 1981\-2021 \(40 Years & Still Groovin’\)](https://open.spotify.com/album/1gcxfIY8oeRYr203cTsjVP) | 5:43 | 2022-07-14 | 2022-11-26 |
 | [You Are In My System](https://open.spotify.com/track/6VgrEmwquJYvUwOF4Vfn6k) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Always There: 1981\-2021 \(40 Years & Still Groovin’\)](https://open.spotify.com/album/3UAMuhitdgaxR2bonDONGs) | 5:43 | 2022-03-10 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

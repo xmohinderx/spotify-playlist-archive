@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-5,332 songs - 11 day 14 hr 29 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+5,334 songs - 11 day 14 hr 35 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3394,6 +3394,7 @@
 | [Någon någonsin](https://open.spotify.com/track/5pU720mII2FlXPVF2eALff) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Någon någonsin](https://open.spotify.com/album/0GTKBK5CRMNryQ9Xy95SPx) | 2:29 | 2022-04-21 | 2022-04-29 |
 | [Nån som dig](https://open.spotify.com/track/3lWoovM4PoG0j9TvkmMFHv) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Nån som dig](https://open.spotify.com/album/2HhddSAZ9tOxA6bS8UO9LC) | 3:09 | 2022-01-13 | 2022-01-21 |
 | [Nånting helt okej](https://open.spotify.com/track/6Ijf7FwTC6pl2MISxcOEvB) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Nånting helt okej](https://open.spotify.com/album/2bxEShcE58mUwytrCkdXoI) | 2:25 | 2022-06-09 | 2022-06-17 |
+| [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 | 2022-11-24 |  |
 | [Nåt i vattnet](https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Nåt i vattnet](https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6) | 3:33 | 2022-10-13 | 2022-10-21 |
 | [Nåt jag saknar](https://open.spotify.com/track/5UVBBWhlZ70q4sQknojSFL) | [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [STRESS! \(Hjärnfonden\)](https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y) | 3:26 | 2022-11-17 | 2022-11-25 |
 | [Nåt på fickan](https://open.spotify.com/track/4NCi8meUtDzj04ovWWyDTr) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Nåt på fickan](https://open.spotify.com/album/0Oh2dhmJjIxXz2sh5dV7mT) | 2:30 | 2022-04-21 | 2022-04-29 |
@@ -3898,6 +3899,7 @@
 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 | 2022-05-19 | 2022-05-27 |
 | [SAMBAPOCALYPSE](https://open.spotify.com/track/0UdJImt8LpPv9Yar7lnfjm) | [DÖDSDISKO](https://open.spotify.com/artist/7uyrqUgvYRkkrPsEDRWJwP) | [DÖDSDISKO 1](https://open.spotify.com/album/1qIdMq4sSei23aFpRflVhK) | 2:34 | 2022-11-10 | 2022-11-18 |
 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 | 2022-02-24 | 2022-03-04 |
+| [Same People](https://open.spotify.com/track/3EOEvnYl2v0E899Ov9j0gE) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Same People](https://open.spotify.com/album/4oMlqE0MvhO3yYFHqIvDv6) | 3:07 | 2022-11-24 |  |
 | [Same Thing](https://open.spotify.com/track/5eqQVbVNz41UuUaEdt5Dga) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Same Thing](https://open.spotify.com/album/1CDqizYMYd2dIyNBrXbXNz) | 3:03 | 2022-03-03 | 2022-03-11 |
 | [Sampha's Plea](https://open.spotify.com/track/2Hb8HUCnMZ74gwl4DppYDd) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 2:46 | 2022-11-24 |  |
 | [Samurai](https://open.spotify.com/track/3iKyG1U1x9fXu4KVZRs4Uh) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Samurai](https://open.spotify.com/album/0bEk1oSbj6LL6N6Gy9YCaA) | 2:57 | 2022-11-03 | 2022-11-11 |

@@ -1002,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "Alice's Restaurant",
+        "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
+      },
+      "artists": [
+        {
+          "name": "Arlo Guthrie",
+          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1116933,
+      "name": "Alice's Restaurant Massacree",
+      "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
+    },
+    {
+      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -4309,6 +4327,28 @@
       "duration_ms": 133613,
       "name": "Don't Play That",
       "url": "https://open.spotify.com/track/3IPGG5Niex4hGlXFOYWzp9"
+    },
+    {
+      "album": {
+        "name": "Don't Play With It (feat. Billy B)",
+        "url": "https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Billy B",
+          "url": "https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "Don't Play With It (feat. Billy B)",
+      "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
     },
     {
       "album": {
@@ -11913,7 +11953,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
@@ -12605,7 +12645,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 139038,
       "name": "OOGA BOOGA!",
       "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
@@ -14143,6 +14183,40 @@
       "duration_ms": 229937,
       "name": "SEXY NUKIM (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
+    },
+    {
+      "album": {
+        "name": "Shabooya",
+        "url": "https://open.spotify.com/album/1CGE1Yx45ZHuxkw95NXpyU"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Shabooya",
+      "url": "https://open.spotify.com/track/6PphODv2LB2b9BWK9lhWuY"
     },
     {
       "album": {
@@ -17621,7 +17695,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"

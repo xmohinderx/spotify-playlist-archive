@@ -10683,7 +10683,7 @@
     {
       "album": {
         "name": "Another Night",
-        "url": "https://open.spotify.com/album/1icETboYWcv7eEkd0dHc2n"
+        "url": "https://open.spotify.com/album/7f0bkf8n6AeLyDf8pI2bnT"
       },
       "artists": [
         {
@@ -10698,6 +10698,28 @@
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 286019,
+      "name": "Learning to Fly - Bonus Track",
+      "url": "https://open.spotify.com/track/0tKT5LrEldMTYJw3Ov9eAS"
+    },
+    {
+      "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/1icETboYWcv7eEkd0dHc2n"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        {
+          "name": "Ralf Hildenbeutel",
+          "url": "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
       "duration_ms": 286019,
       "name": "Learning to Fly - Bonus Track",
       "url": "https://open.spotify.com/track/6k4yXDGfo2cgRE5fMsAJnw"

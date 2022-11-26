@@ -1342,6 +1342,48 @@
     },
     {
       "album": {
+        "name": "Mkrna (Remix)",
+        "url": "https://open.spotify.com/album/4AmOxXERX6qsfpBTehQPRi"
+      },
+      "artists": [
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "Alexis Rostro",
+          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
+        },
+        {
+          "name": "ZALEYKO",
+          "url": "https://open.spotify.com/artist/4kbM1M865DS7kBHe1J11yQ"
+        },
+        {
+          "name": "DJ Ruido",
+          "url": "https://open.spotify.com/artist/58MSkJwOYir5SWUpNENJFC"
+        },
+        {
+          "name": "Yulissa Mendoza Mx",
+          "url": "https://open.spotify.com/artist/0AnLukcIL5LPlpeqfTFZIr"
+        },
+        {
+          "name": "Eve Crm",
+          "url": "https://open.spotify.com/artist/50xOjgsrHAIHTNvncJW1GI"
+        },
+        {
+          "name": "Dj Teack",
+          "url": "https://open.spotify.com/artist/5ncZY0JMBZdQH7liaQpa5i"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314274,
+      "name": "Mkrna - Remix",
+      "url": "https://open.spotify.com/track/0jdbn1pcJxGjiTIkptkS3h"
+    },
+    {
+      "album": {
         "name": "MODO CHAKALON",
         "url": "https://open.spotify.com/album/4nsCbDdqTlSIIuHxE4KctY"
       },
@@ -1519,7 +1561,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 192000,
       "name": "Pasito Chacalon",
       "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"

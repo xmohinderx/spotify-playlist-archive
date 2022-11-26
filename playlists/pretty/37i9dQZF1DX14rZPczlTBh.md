@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,792 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,828 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 21 | [Champesaave Nannu](https://open.spotify.com/track/1soYqSnez9gGQepWQ50Fc1) | [Kapil, Sameera Bharadwaj](https://open.spotify.com/artist/2p90GSbbnImJrBEdsnYvuM) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:20 |
 | 22 | [Pedda Puli](https://open.spotify.com/track/4PYJiAIsR6JlgGZbhXPPK1) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chal Mohan Ranga](https://open.spotify.com/album/3c1DvyiyWk9a7v4or97bWW) | 3:51 |
 | 23 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
-| 24 | [Time To Party](https://open.spotify.com/track/4MCwrrZj6yl2hL6rGxeXQu) | [David Simon\|Malgadi Subha](https://open.spotify.com/artist/1boEI6lCFhu5guBcZ8CUos) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 4:29 |
-| 25 | [Dhaari Choodu](https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3) | [Penchal Das](https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN) | [Krishnarjuna Yudham](https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8) | 3:08 |
+| 24 | [Dhaari Choodu](https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3) | [Penchal Das](https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN) | [Krishnarjuna Yudham](https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8) | 3:08 |
+| 25 | [Time To Party](https://open.spotify.com/track/4MCwrrZj6yl2hL6rGxeXQu) | [David Simon\|Malgadi Subha](https://open.spotify.com/artist/1boEI6lCFhu5guBcZ8CUos) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 4:29 |
 | 26 | [Box Badhalai Poyi](https://open.spotify.com/track/2tXmqzOJHKDsIWJ2y2ntAe) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 3:33 |
-| 27 | [Pilla Picture Perfect](https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranarangam](https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg) | 3:34 |
-| 28 | [Psycho Saiyaan](https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Saaho](https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr) | 2:46 |
+| 27 | [Psycho Saiyaan](https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Saaho](https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr) | 2:46 |
+| 28 | [Pilla Picture Perfect](https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranarangam](https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg) | 3:34 |
 | 29 | [Mind Block](https://open.spotify.com/track/4q4PNCWRo90nUTILn6Y048) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 4:24 |
 | 30 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 |
 | 31 | [Pilla Chao](https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 4:13 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 66 | [Let's Party All Night](https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Jaya Janaki Nayaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM) | 4:11 |
 | 67 | [Singilu Singilu DJ Song](https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [90ml \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH) | 3:41 |
 
-Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMGM1NTIwZTM1OGVmN2Q1OWU4NTgwODlhOWRjNTYxZmRh`
+Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMDAzYmRmYmJkN2M4ODdkYmQwMDFlOWVmM2I5MzM2ODFi`

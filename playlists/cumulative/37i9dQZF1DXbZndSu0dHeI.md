@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-341 songs - 20 hr 39 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+342 songs - 20 hr 43 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Apologies](https://open.spotify.com/track/7a7FV38RE6FLqPSfAsRbz7) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Apologies](https://open.spotify.com/album/6N5O4PGF6cnWoPci1sKqjG) | 2:59 | 2022-03-19 | 2022-04-14 |
 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 | 2022-08-05 | 2022-11-17 |
 | [Archie, Marry Me](https://open.spotify.com/track/3XpXhVtZwqh2eM5d9ieXT5) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/28a7IkiQxDoxGpAr8Cy0fP) | 3:16 | 2021-11-12 | 2022-07-29 |
-| [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2022-06-22 |  |
+| [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2022-06-22 | 2022-11-26 |
 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 | 2021-11-12 |  |
 | [artificial](https://open.spotify.com/track/0vvTPpHQ9pv5DsWXwKiTlz) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [artificial](https://open.spotify.com/album/1ocZVYlGbIgRcVXPJlpfuU) | 3:49 | 2022-03-19 | 2022-07-07 |
 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-11-12 | 2022-07-23 |
@@ -176,6 +176,7 @@
 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 | 2022-03-19 | 2022-04-14 |
 | [Keep Going](https://open.spotify.com/track/4aHc7hnqkSzc1KLU9LnL26) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4) | 6:39 | 2021-11-12 | 2022-07-29 |
 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 | 2022-06-22 |  |
+| [kill you](https://open.spotify.com/track/67zugn57NW0eFNM3DL4IxD) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [kill you](https://open.spotify.com/album/1nHCdR0VOXjVSv7ei3PD3x) | 3:07 | 2022-11-26 |  |
 | [Kiss Your Lips](https://open.spotify.com/track/1lpVxyYCXR7w6PhhEXcfAX) | [Allo Darlin'](https://open.spotify.com/artist/0cygwaJypZFDlu4NLQTm7b) | [Allo Darlin'](https://open.spotify.com/album/00r8ZlXYm0KLyHHjgyqXa5) | 3:46 | 2022-03-19 | 2022-07-10 |
 | [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-11-12 | 2022-07-29 |
 | [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 | 2022-06-22 |  |

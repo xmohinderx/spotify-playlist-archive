@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-136 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+137 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 | 2021-12-03 |  |
 | [Freight Train](https://open.spotify.com/track/6oo0HD3mrcYtzApYeYsS4L) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Freight Train](https://open.spotify.com/album/6oCWzZ0s3QMp1MJLKUV8QG) | 4:39 | 2022-02-11 |  |
 | [Gone Too Soon](https://open.spotify.com/track/07mnxqYqssab1EEBynCuQ4) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon](https://open.spotify.com/album/7gWVQxnmBpNv9ZacenAgd8) | 2:49 | 2021-12-03 | 2022-09-15 |
+| [Good Riddance](https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [Good Riddance](https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz) | 2:22 | 2022-11-25 |  |
 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 | 2022-07-20 |  |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-04 |  |
 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 | 2022-04-22 |  |

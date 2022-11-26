@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan, Jorge & Mateus
+> O melhor do sertanejo em uma só playlist! Foto: Israel & Rodolffo, Ana Castela
 
 105 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 

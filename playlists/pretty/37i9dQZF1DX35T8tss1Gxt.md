@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,446 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,476 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,13 +91,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 81 | [Abide](https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Abide](https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX) | 4:27 |
 | 82 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
 | 83 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 |
-| 84 | [God Made](https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [God Made](https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft) | 3:20 |
-| 85 | [GUIDE MY HEART](https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [GUIDE MY HEART](https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG) | 2:23 |
-| 86 | [Thank You](https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy) | [Kelechi](https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7) | [Thank You](https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR) | 3:25 |
+| 84 | [Thank You](https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy) | [Kelechi](https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7) | [Thank You](https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR) | 3:25 |
+| 85 | [God Made](https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [God Made](https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft) | 3:20 |
+| 86 | [GUIDE MY HEART](https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [GUIDE MY HEART](https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG) | 2:23 |
 | 87 | [The Best Friend](https://open.spotify.com/track/6gndTSB6dxJOz8db35DqFO) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [The Best Friend](https://open.spotify.com/album/3B9L9agghKNHGI6ulzHnUW) | 3:54 |
 | 88 | [Thanks and Praise](https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb) | [Bay Worship Collective](https://open.spotify.com/artist/0sqo3WtvwFbQzu9eMRWOuT), [Josh Manongdo](https://open.spotify.com/artist/2k86aeAGM873qCIVSGImKe), [Sarita Canel](https://open.spotify.com/artist/5sUMPqfzRZPTsNbmguPX9N), [Ariel Catanyag](https://open.spotify.com/artist/2dmtwwOZ1U96RuKPLVitgt) | [Vol 3](https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi) | 4:41 |
-| 89 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
-| 90 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 |
+| 89 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 |
+| 90 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
 | 91 | [Rescue \(Reimagined\)](https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Rescue \(Reimagined\)](https://open.spotify.com/album/022ehc5YpTikEsYXysMeun) | 3:15 |
 | 92 | [Hold Me Close](https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru) | [Jimmy McNeal](https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5) | [Roots](https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36) | 6:08 |
 | 93 | [GRACE](https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [GRACE](https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [You Won't Leave Us](https://open.spotify.com/track/2vwqf7ECS2Th0lHoN9LuUz) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [You Won't Leave Us](https://open.spotify.com/album/4wiAzOB2eT9e6XLWtsYLzQ) | 3:19 |
 | 100 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
 
-Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMGJiZmM5M2M4ODliYWU5YTdlNzEwNzJlODA0ZjVhMDlm`
+Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMDQzYjViMTM2YjU5MWE4MmRiNTE2NWZkYTIzZjQzZGVm`

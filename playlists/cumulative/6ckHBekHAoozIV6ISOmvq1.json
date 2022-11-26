@@ -581,7 +581,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 502666,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: Virgines caste",
       "url": "https://open.spotify.com/track/48sYaVLf5VcnEMRW9Zg5t3"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 447040,
       "name": "Amour m\u2019a le cuer mis (Ballade)",
       "url": "https://open.spotify.com/track/6THfQ2uSdqmUTOScQIpZ5B"
@@ -1989,7 +1989,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 308586,
       "name": "Bel Acueil, rondeau \u00e0 1, 2 & 3",
       "url": "https://open.spotify.com/track/1Lcmx25cZD7hXomhSqvDAt"
@@ -2795,7 +2795,7 @@
       ],
       "date_added": "2019-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 243493,
       "name": "Cantigas de Santa Maria, No. 384: A Que Por Muy Gran Fremosura",
       "url": "https://open.spotify.com/track/1wU8xVTS3CwIh9aehuBmXI"
@@ -2971,7 +2971,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 219666,
       "name": "Cantigos de Santa Maria: Cantiga 13. Assi como Jesu Cristo",
       "url": "https://open.spotify.com/track/0ehYZpldb022rtJzDAYTYF"
@@ -2997,7 +2997,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 209400,
       "name": "Cantigos de Santa Maria: Cantiga 353",
       "url": "https://open.spotify.com/track/7MlPbkTK9kAImft2wYYUXn"
@@ -4233,7 +4233,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 190643,
       "name": "Cosa crudel m'ancide",
       "url": "https://open.spotify.com/track/7qdaKRyTmrd8z4hCMu7tJ2"
@@ -4351,7 +4351,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 185133,
       "name": "Da Perugia: La greygnour bien",
       "url": "https://open.spotify.com/track/0cxbQqHg35BQ0X7lVOhkfE"
@@ -4403,7 +4403,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 822226,
       "name": "Dame d\u2019onour (Ballade)",
       "url": "https://open.spotify.com/track/7aItXFxzu8Uc4DztLPkFCX"
@@ -8023,7 +8023,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 215560,
       "name": "Kalenda maya",
       "url": "https://open.spotify.com/track/6v4HcAWVqQoVKQrXhvZ5MI"
@@ -11183,7 +11183,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 297773,
       "name": "O quanta qualia",
       "url": "https://open.spotify.com/track/6MNdXpaHVrPT4iZ46ZWuf1"
@@ -13079,7 +13079,7 @@
       ],
       "date_added": "2020-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 433946,
       "name": "Raimbaut de Vaqueiras: Kalenda maia",
       "url": "https://open.spotify.com/track/18xJ7YTMOsqDbfszFwkK76"
@@ -13707,6 +13707,28 @@
       "duration_ms": 249933,
       "name": "Se je chant (Arr. Harre-Jones)",
       "url": "https://open.spotify.com/track/46LDPqEDyKz3Lsn7G41JHQ"
+    },
+    {
+      "album": {
+        "name": "De Perugia: Chansons",
+        "url": "https://open.spotify.com/album/1Wn0Cw3426YGjUYxpUnekW"
+      },
+      "artists": [
+        {
+          "name": "Matteo da Perugia",
+          "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
+        },
+        {
+          "name": "Tetraktys",
+          "url": "https://open.spotify.com/artist/58LZ1hCFww56TTbmD9XDwT"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314038,
+      "name": "Se pour loyaulment servir (Rondeau - 43v)",
+      "url": "https://open.spotify.com/track/7wCz8RaO9KdHrgAL1NYUNB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 306707,
+  "num_followers": 306745,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDc0ZWUxNjRkNjcyMmFhMTA3NWY1ZmM2ODlmMzkxYjQ1",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDJiODNlYTg0ZmQ1YWMyNzNjMTFjMTM5YzBjODRiODVj",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -963,6 +963,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "Viva Juan Gabriel / Popurr\u00ed",
+      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "Songbook 3 El Amor Es Vida",
         "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 360823,
       "name": "Amor eterno",
       "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "Viva Juan Gabriel / Popurr\u00ed",
-      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
     },
     {
       "added_at": "2021-12-29 23:38:25",

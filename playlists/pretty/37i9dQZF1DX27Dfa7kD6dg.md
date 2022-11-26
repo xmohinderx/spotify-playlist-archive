@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,198 likes - 126 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,241 likes - 126 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 58 | [Amor Perfecto](https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [El Salsero De Ahora](https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ) | 4:35 |
 | 59 | [Mambo Gozon](https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 2:48 |
 | 60 | [Lupita](https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [La Industria Salsera](https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq) | 3:48 |
-| 61 | [Vaciló Con Tumbao](https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr) | [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Dos Imagenes](https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo) | 2:54 |
-| 62 | [El Cantante](https://open.spotify.com/track/6wUm4Hpp5LchMaiNhZ6JpX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Doble Filo](https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA) | 6:20 |
+| 61 | [El Cantante](https://open.spotify.com/track/6wUm4Hpp5LchMaiNhZ6JpX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Doble Filo](https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA) | 6:20 |
+| 62 | [Vaciló Con Tumbao](https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr) | [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Dos Imagenes](https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo) | 2:54 |
 | 63 | [Linda Mujer](https://open.spotify.com/track/0jJmkvcRT2vGETrMAgwmIk) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 5:13 |
 | 64 | [Ran Kan Kan](https://open.spotify.com/track/7qKQb6lScG5P9PKUaBLSaa) | [German Villareal](https://open.spotify.com/artist/4XkEwP6rxlThQhL2mdQ5jm), [Mambo Big Band](https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI) | [Con Permiso de Mis Mayores](https://open.spotify.com/album/4bzpKsW94b9dGiCsbyAKFT) | 4:05 |
 | 65 | [Carbonerito](https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [35th Anniversary\- 35 Years Around the World](https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn) | 5:01 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 100 | [Pachito Eche](https://open.spotify.com/track/4Bo0925JisL1yD285mAPTu) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Havana Nights](https://open.spotify.com/album/3zP5mtJGzeHuiHAhRiaI5s) | 3:40 |
 | 101 | [Matrimonio Feliz](https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [West Side Beat](https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2) | 2:47 |
 | 102 | [Tanga](https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Yo Soy La Rumba](https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx) | 3:34 |
-| 103 | [Un Telegrama](https://open.spotify.com/track/6D2ZGTWXKrvvRrwpQK765o) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:57 |
-| 104 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 |
+| 103 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 |
+| 104 | [Un Telegrama](https://open.spotify.com/track/6D2ZGTWXKrvvRrwpQK765o) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:57 |
 | 105 | [La Peluca](https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn) | [Dave Santiago](https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq) | [Dave Santiago & Latin Affair](https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY) | 5:22 |
 | 106 | [Tokyo Blues](https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Best Of The Concord Years](https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3) | 5:15 |
 | 107 | [New York State of Mind](https://open.spotify.com/track/3HP07vhvfEXajpBL0pgdsW) | [Bobby Rodriguez y La Compania](https://open.spotify.com/artist/4AlehYieSy692kucODs8Na) | [Juntos Otra Vez](https://open.spotify.com/album/1aDMTl12KZoP0RqOdiEXow) | 5:17 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 113 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
 | 114 | [Me Fallaste](https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Platino: Eddie Santiago](https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s) | 5:03 |
 | 115 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
-| 116 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
-| 117 | [De Profesión...Tu Amante](https://open.spotify.com/track/5u6tdzhDa8rlOOI5Lm84KL) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:29 |
+| 116 | [De Profesión...Tu Amante](https://open.spotify.com/track/5u6tdzhDa8rlOOI5Lm84KL) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:29 |
+| 117 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 118 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 | 119 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
 | 120 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 125 | [Conciencia](https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:33 |
 | 126 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 
-Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMGE4YTJlYTdmYmQwYWFiYzQ5N2YwNmU2NmQyMWQyNjVm`
+Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMDNmN2Y2NDFkMzEzNWVjM2JkMTAxNWM3NDQ5OGJjOWU3`

@@ -2342,6 +2342,24 @@
     },
     {
       "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh"
+      },
+      "artists": [
+        {
+          "name": "Zach Len",
+          "url": "https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145624,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd"
+    },
+    {
+      "album": {
         "name": "Noche Oscura",
         "url": "https://open.spotify.com/album/4VsF4lug4BUD3eU6cAd1zv"
       },
@@ -3293,6 +3311,24 @@
       "duration_ms": 134895,
       "name": "Traveling Through",
       "url": "https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf"
+    },
+    {
+      "album": {
+        "name": "Tuscany",
+        "url": "https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124597,
+      "name": "Tuscany",
+      "url": "https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I"
     },
     {
       "album": {

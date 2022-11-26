@@ -2,7 +2,7 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Brooke Ligertwood
+> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Hope Darst
 
 282 songs - 1 day 3 hr 12 min - [published](https://open.spotify.com/playlist/12yoI78Chtrh071OwGd6QO)
 

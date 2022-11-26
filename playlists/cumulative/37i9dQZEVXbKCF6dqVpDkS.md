@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-832 songs - 1 day 19 hr 34 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+833 songs - 1 day 19 hr 39 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-07-01 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-05 | 2022-03-07 |
-| [Ausfahrt](https://open.spotify.com/track/2zkCzK0YBafIS8UzhcuOxd) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 2:34 | 2022-11-19 |  |
+| [Ausfahrt](https://open.spotify.com/track/2zkCzK0YBafIS8UzhcuOxd) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 2:34 | 2022-11-19 | 2022-11-26 |
 | [Automatisch](https://open.spotify.com/track/6mMVJJkpzL5r9OyqX7VzBk) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1gr2uGne9hmcTVPCaadDX5) | 2:45 | 2022-04-30 | 2022-11-06 |
 | [Automatisch](https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ) | 2:45 | 2022-11-05 | 2022-11-23 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-14 |  |
@@ -239,6 +239,7 @@
 | [Enjoyment](https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Enjoyment](https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn) | 3:14 | 2022-08-20 | 2022-08-22 |
 | [Erop Eraf](https://open.spotify.com/track/0Q0JmbU5DoQ17za7VPLqzE) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Erop Eraf](https://open.spotify.com/album/5cXBooJf8EDIEEvcGVZm1k) | 2:45 | 2021-06-20 | 2021-08-22 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-08 |
+| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-11-25 |  |
 | [Etages](https://open.spotify.com/track/1mmkY3IFQ6Kj60wnGp6q3z) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Etages](https://open.spotify.com/album/44SCv7NlQWFdkLCErtyCfv) | 2:34 | 2021-03-27 | 2021-04-03 |
 | [Eventjes Weg](https://open.spotify.com/track/26VZUtbArNYO2lyftfhejj) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 2:53 | 2021-09-05 | 2021-09-06 |
 | [Excuseer](https://open.spotify.com/track/0PrxviwWNPOUJunvL9LkTI) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Excuseer](https://open.spotify.com/album/1GuRi4m4Uo7KTlDTwaezUz) | 2:32 | 2022-05-28 | 2022-06-07 |

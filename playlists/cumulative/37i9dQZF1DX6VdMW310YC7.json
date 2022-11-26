@@ -9627,7 +9627,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 224444,
       "name": "Gradients",
       "url": "https://open.spotify.com/track/1XpxDhEXKAnYdqYFsyFvBn"
@@ -14597,7 +14597,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 193411,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/5rMwxbfCjVHn7nEKHJP6JQ"
@@ -17869,6 +17869,24 @@
       "duration_ms": 224409,
       "name": "Only Now",
       "url": "https://open.spotify.com/track/2uYVZv2juOm5MOEObqzLK7"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2tUAhqGKehsZThAq0PBI4E"
+      },
+      "artists": [
+        {
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195862,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/54iMHNHJpXhx0AHXNoAwPz"
     },
     {
       "album": {
@@ -25459,7 +25477,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 291657,
       "name": "Us",
       "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"

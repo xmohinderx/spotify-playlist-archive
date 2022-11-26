@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,345 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,389 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 36 | [Primeira Vez](https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Primeira Vez](https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE) | 2:35 |
 | 37 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
 | 38 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
-| 39 | [Rockstar Shit](https://open.spotify.com/track/55dHzXldRhyknlMCNSlxZS) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Vida Rockstar](https://open.spotify.com/album/47PidTvTpM253ecxT58EF3) | 3:30 |
-| 40 | [Vencedor](https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [M.a.D.H.P.](https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl) | 4:20 |
+| 39 | [Vencedor](https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [M.a.D.H.P.](https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl) | 4:20 |
+| 40 | [Rockstar Shit](https://open.spotify.com/track/55dHzXldRhyknlMCNSlxZS) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Vida Rockstar](https://open.spotify.com/album/47PidTvTpM253ecxT58EF3) | 3:30 |
 | 41 | [Bandidas](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Bandidas](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 |
 | 42 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
 | 43 | [HEI](https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [HEI](https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 59 | [Nós](https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Nós](https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz) | 4:38 |
 | 60 | [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 |
 
-Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMDdhMWIxNjQ4ZjZlNDlmYWI2OGEwMGNjMmFmNGM3MmVi`
+Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMDBjODUyNTZmMmEyZmI4ODc2OTIzYWE5OWViYTIwYTFk`

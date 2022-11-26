@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,594 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,751 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 5 | [Accident Prone](https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [Dear You](https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI) | 6:13 |
 | 6 | [Back And To The Left](https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ) | [Texas Is The Reason](https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8) | [Do You Know Who You Are?: The Complete Collection](https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7) | 3:55 |
 | 7 | [Shoulder to the Wheel](https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Through Being Cool](https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo) | 3:19 |
-| 8 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 |
+| 8 | [Never Meant](https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp) | 4:28 |
 | 9 | [Hope For Us](https://open.spotify.com/track/2bhMvw4ZILdxeEVt9bXHAq) | [The Jealous Sound](https://open.spotify.com/artist/1ggwkSYO7sCaM9sBV4ldYf) | [Kill Them With Kindness \[Deluxe Reissue\]](https://open.spotify.com/album/2xsahntmompiEH4N7QQrWm) | 4:10 |
 | 10 | [Courage Was Confused](https://open.spotify.com/track/2kVc8s89MliCutzKkXXROb) | [Knapsack](https://open.spotify.com/artist/7kcgO0DTza7One0HqXRIH7) | [Day Three of My New Life](https://open.spotify.com/album/6xK0rYqqBtzcIiq0rY90Al) | 3:51 |
 | 11 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 |
 | 50 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 |
 
-Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMDk3ODI5NWZmMGJlNzZlYjdlNmI0NjJhYWQ2ODM3MmUw`
+Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMGIwMDdkYjEwMTFlMmE5NzE5M2JkMmM4ZmM4YzI0NDcw`

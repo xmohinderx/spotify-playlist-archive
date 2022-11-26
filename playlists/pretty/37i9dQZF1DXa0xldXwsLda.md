@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,677 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,703 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 38 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 39 | [Mañana Es Too Late](https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:15 |
 | 40 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 |
-| 41 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 |
-| 42 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
+| 41 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
+| 42 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 |
 | 43 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 |
 | 44 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
 | 45 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 |
 | 46 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
 | 47 | [Kiss Me \- AOL Sessions Acoustic Version](https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [AOL Sessions](https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH) | 3:01 |
 | 48 | [Let It Be](https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk) | 2:28 |
-| 49 | [My Girl](https://open.spotify.com/track/6LMjjcvtlWp1Dtj19yiIvT) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:29 |
-| 50 | [Bailar](https://open.spotify.com/track/1Z9JRMA4ogC9vTpv0JxWph) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Amor Presente](https://open.spotify.com/album/6qPyFeApmk6187F7yoQvcd) | 4:16 |
+| 49 | [Bailar](https://open.spotify.com/track/1Z9JRMA4ogC9vTpv0JxWph) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Amor Presente](https://open.spotify.com/album/6qPyFeApmk6187F7yoQvcd) | 4:16 |
+| 50 | [My Girl](https://open.spotify.com/track/6LMjjcvtlWp1Dtj19yiIvT) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:29 |
 | 51 | [Vivir Sin Aire](https://open.spotify.com/track/3qppK9r9CpNUcqAwn9bX6u) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Você É Minha Religião: O Melhor Do Maná \(Deluxe Version\)](https://open.spotify.com/album/0T6xjJtpq2ZFsGb8WVBPfO) | 4:51 |
 | 52 | [Alguien Más](https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:22 |
 | 53 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 70 | [Slide \- Acoustic Version](https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [Slide \(Acoustic Version\)](https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W) | 2:51 |
 | 71 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
 | 72 | [me haces bien](https://open.spotify.com/track/4I31qeJXdtVgG7a7RIxPTj) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/3rwYRSMbEuUiuxqDmgZUhJ) | 2:52 |
-| 73 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 |
-| 74 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
+| 73 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
+| 74 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 |
 | 75 | [Happy Now \- Acoustic](https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Happy Now \(Acoustic Version\)](https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm) | 3:33 |
 | 76 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 |
 | 77 | [Thunder](https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX) | [Fink's Mood](https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8) | [Thunder](https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 99 | [Nena](https://open.spotify.com/track/47jv81dOwBzrAbYgQfs5u0) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:39 |
 | 100 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
 
-Snapshot ID: `MTY0ODQ4NjE5NSwwMDAwMDAwMGU0NTJkYzU1NDc0NWNlYzAzYWFkYjhiY2I4ZTliYzc1`
+Snapshot ID: `MTY0ODQ4NjE5NSwwMDAwMDAwMGI3NWU4ZWI3NTVmZjYxYmEzODU1YTcwYmIyMjU0MjAx`

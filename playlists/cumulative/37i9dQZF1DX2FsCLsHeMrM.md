@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-270 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+271 songs - 17 hr 51 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [The Sweetest Meditation](https://open.spotify.com/track/1QVF9JOvsO9koQhq1XQTzy) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/08gaJDLvSafVxpaaZCo9Pm) | 5:54 | 2021-11-10 | 2022-07-29 |
 | [The Sweetest Meditation](https://open.spotify.com/track/6Ds341awJUTMJ7Zmx3Gl1i) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/2l6MYrhN7T3DwsH05XsXxp) | 5:54 | 2022-06-03 | 2022-09-19 |
 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 | 2021-11-10 |  |
-| [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 | 2022-11-07 |  |
+| [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 | 2022-11-07 | 2022-11-26 |
+| [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 4:58 | 2022-11-07 |  |
 | [Them Changes](https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 3:08 | 2021-11-10 | 2022-01-21 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2022-11-17 |  |
 | [There It Is](https://open.spotify.com/track/7hIXnKU8VkOGFftj3DAiUL) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night To Remember](https://open.spotify.com/album/6TCux89IlNjNcGDGjlRKvY) | 4:25 | 2021-11-10 | 2022-11-13 |

@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 210882,
       "name": "A Christmas To Remember",
       "url": "https://open.spotify.com/track/6hvBmhDifLf4D2c7un98hi"
@@ -197,6 +197,24 @@
       "duration_ms": 177518,
       "name": "All Together For Christmas",
       "url": "https://open.spotify.com/track/3YMMOyhpzFsinzVW3y0O9r"
+    },
+    {
+      "album": {
+        "name": "All We Need",
+        "url": "https://open.spotify.com/album/4SugSFhdGVz61zW0WGOUM5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182702,
+      "name": "All We Need",
+      "url": "https://open.spotify.com/track/2rtOMcw98nnUfs0DzGgZLn"
     },
     {
       "album": {
@@ -731,7 +749,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 136092,
       "name": "Christmas Is a Way of Life, My Dear",
       "url": "https://open.spotify.com/track/7JHjMdMRTgOG4oJHy0p0Ht"
@@ -1142,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "Don't Hang The Mistletoe",
+        "url": "https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l"
+      },
+      "artists": [
+        {
+          "name": "Jojo Mason",
+          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197167,
+      "name": "Don't Hang The Mistletoe",
+      "url": "https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG"
+    },
+    {
+      "album": {
         "name": "Don't You Know It's Christmas",
         "url": "https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4"
       },
@@ -1229,7 +1265,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 217104,
       "name": "Family For Christmas",
       "url": "https://open.spotify.com/track/4gc4UD9nony5vYnR5nxDI0"
@@ -1453,7 +1489,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 233653,
       "name": "Good King Wenceslas",
       "url": "https://open.spotify.com/track/67coyu2OnSVJNENhFHLinC"
@@ -1699,7 +1735,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 142493,
       "name": "Home for the Holidays",
       "url": "https://open.spotify.com/track/0uvywHmSjlt2F2Bg9jvMzq"
@@ -1977,7 +2013,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 193900,
       "name": "It Won't Be Christmas",
       "url": "https://open.spotify.com/track/7N2Nct5EFTfe5LDyTlenWf"
@@ -2305,7 +2341,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 283247,
       "name": "Last Minute Fathers",
       "url": "https://open.spotify.com/track/1Yizm8VL9EBz1MZqmrLSpB"
@@ -2864,6 +2900,36 @@
     },
     {
       "album": {
+        "name": "Les tubes de No\u00ebl",
+        "url": "https://open.spotify.com/album/4B0V8aq80xQpSCCMvcb3bt"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        },
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        },
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240946,
+      "name": "No\u00ebl des enfants / Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/13RMuZfKnEypuaQCWhHSZx"
+    },
+    {
+      "album": {
         "name": "A Merrie Christmas to You",
         "url": "https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai"
       },
@@ -3045,6 +3111,24 @@
       "duration_ms": 179160,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
+    },
+    {
+      "album": {
+        "name": "Please Come Home For Christmas",
+        "url": "https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw"
+      },
+      "artists": [
+        {
+          "name": "Ryland James",
+          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp"
     },
     {
       "album": {
@@ -3257,7 +3341,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 201197,
       "name": "Santa Is A Good Ole Boy",
       "url": "https://open.spotify.com/track/4pIQoVY9KR0f5l9EQ8I6UQ"

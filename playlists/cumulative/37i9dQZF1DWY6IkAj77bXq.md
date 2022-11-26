@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-138 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
+139 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Loveliness](https://open.spotify.com/track/2743TnEHSd1VI9Dwrzut7k) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/3IZIg6JCUU2i9KTiRE5CYy) | 2:40 | 2022-07-19 | 2022-07-25 |
 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 | 2022-11-11 |  |
 | [Moonchild's First Flight](https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011) | [Amos Stremann](https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV) | [Moonchild's First Flight](https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc) | 2:52 | 2022-07-05 |  |
-| [Moonlit](https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3) | 2:38 | 2022-11-11 | 2022-11-13 |
+| [Moonlit](https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3) | 2:38 | 2022-11-11 |  |
 | [Moonlit](https://open.spotify.com/track/67cHf1VdUczVmY1nD8gdos) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/1tbaoKLRFMdl6vhDO63LN9) | 2:38 | 2022-07-19 | 2022-07-29 |
 | [mOther World](https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe) | [Mike Molloy](https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r) | [mOther World](https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un) | 2:04 | 2022-07-19 |  |
 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Sweetscape](https://open.spotify.com/artist/1BF35yKu7uZaQMKsHO3MRP) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 | 2022-08-05 |  |
@@ -105,7 +105,7 @@
 | [Repose](https://open.spotify.com/track/5iznXjdt5IJ29UjDM7lVT7) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Repose](https://open.spotify.com/album/6kDgVv2vgX9z2DWawWlOWt) | 3:12 | 2022-07-05 | 2022-07-29 |
 | [Rituals](https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ritual](https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD) | 3:49 | 2022-07-05 |  |
 | [Sandy Foam](https://open.spotify.com/track/3eifjD5zwsrWjKkphFcr5i) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Sandy Foam](https://open.spotify.com/album/47x7s8rWew3mkOc8xgzuIB) | 2:25 | 2022-07-19 | 2022-11-12 |
-| [Sapphire Dunes](https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Sapphire Dunes](https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj) | 3:40 | 2022-07-19 |  |
+| [Sapphire Dunes](https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Sapphire Dunes](https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj) | 3:40 | 2022-07-19 | 2022-11-26 |
 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 | 2022-07-19 |  |
 | [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 | 2022-07-19 |  |
 | [Semblance](https://open.spotify.com/track/4p0HBAmru8viDonTn7meJM) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/4JIstsrl6fPr8CcgiItzwQ) | 3:03 | 2022-07-05 | 2022-07-29 |
@@ -128,13 +128,14 @@
 | [Soothe](https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea) | 2:51 | 2022-07-19 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sphere](https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn) | 2:59 | 2022-07-19 |  |
 | [Stillness](https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Stillness](https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC) | 3:11 | 2022-07-19 | 2022-07-27 |
-| [Tangerine Dreams](https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI) | 2:50 | 2022-11-11 |  |
+| [Tangerine Dreams](https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI) | 2:50 | 2022-11-11 | 2022-11-26 |
 | [Tangerine Dreams](https://open.spotify.com/track/0loHXV5PTemi8u167w9NYi) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/5Qr4R4KJuA08m64wcHJ20Z) | 2:50 | 2022-07-05 | 2022-07-29 |
 | [The State of Mudita](https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP) | [The State Of Mudita](https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy) | [The State of Mudita](https://open.spotify.com/album/4o8usQMTLQY2MQJzF97XFJ) | 2:35 | 2022-07-19 | 2022-07-28 |
 | [The State of Mudita](https://open.spotify.com/track/1xPNLw77249xsb6EBWipV2) | [The State Of Mudita](https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy) | [The State of Mudita](https://open.spotify.com/album/34tKY4ovl06o917Ggv6ztL) | 2:35 | 2022-11-11 | 2022-11-14 |
 | [The Sun Will Rise Again](https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [The Sun Will Rise Again](https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn) | 2:22 | 2022-07-05 |  |
 | [Tokyo Drifting](https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/2jdD7Hg1UGMmIwlW9rhQQw) | 3:23 | 2022-07-19 | 2022-07-28 |
 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 | 2022-08-05 |  |
+| [Tomorrow](https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Tomorrow](https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu) | 2:48 | 2022-11-22 |  |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 | 2022-07-19 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-07-19 |  |

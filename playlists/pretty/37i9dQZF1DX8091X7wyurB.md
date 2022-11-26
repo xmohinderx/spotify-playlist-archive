@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,281 likes - 80 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,346 likes - 80 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 14 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
 | 15 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
 | 16 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
-| 17 | [Hosanna](https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Hosanna](https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV) | 3:17 |
-| 18 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 |
+| 17 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 |
+| 18 | [Hosanna](https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Hosanna](https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV) | 3:17 |
 | 19 | [Hallelu](https://open.spotify.com/track/7kS7kiFLVZ0UZDpFyPusXG) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs) | [Hallelu](https://open.spotify.com/album/1ZFY1mPumRKVFzVBxv3lQM) | 2:36 |
 | 20 | [I Will Sing \(Refreshed\)](https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [I Will Sing \(Refreshed\)](https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD) | 5:50 |
 | 21 | [Shine](https://open.spotify.com/track/4wDlHsa0h7kg42T94CWmU2) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Shine](https://open.spotify.com/album/3s9EGrEnTKHlBS24KT2M6K) | 3:14 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 60 | [Other Side](https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Other Side](https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE) | 3:16 |
 | 61 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 |
 | 62 | [Ogo](https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Ogo](https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS) | 5:36 |
-| 63 | [Hallelujah](https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc) | [Celebrate Africa](https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hallelujah](https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i) | 3:44 |
-| 64 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 |
+| 63 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 |
+| 64 | [Hallelujah](https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc) | [Celebrate Africa](https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hallelujah](https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i) | 3:44 |
 | 65 | [Great and Mighty God \(Live\)](https://open.spotify.com/track/5YWEXH09aiqtsN9HFmp8Et) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 3:51 |
 | 66 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 |
 | 67 | [Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day](https://open.spotify.com/track/1h0prCASS9tSr8JHAUvCBx) | [Joyful Way Inc.](https://open.spotify.com/artist/2XDQ4bOnx7ruvNFxx34DpV) | [Grateful Hearts](https://open.spotify.com/album/1dXixMQ1fxXkygMFcczgYP) | 14:10 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 76 | [Thank You](https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe) | [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Thank You](https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6) | 5:16 |
 | 77 | [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 |
 | 78 | [Shower Me](https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6) | [Sam Oladotun](https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c) | [Shower Me](https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe) | 3:31 |
-| 79 | [Satisfy](https://open.spotify.com/track/6DGi6J7yowxdGkzWBuXa28) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Satisfy](https://open.spotify.com/album/3fxGuECzrTfEaPpQOOHbUh) | 2:07 |
-| 80 | [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 |
+| 79 | [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 |
+| 80 | [Satisfy](https://open.spotify.com/track/6DGi6J7yowxdGkzWBuXa28) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Satisfy](https://open.spotify.com/album/3fxGuECzrTfEaPpQOOHbUh) | 2:07 |
 
-Snapshot ID: `MTY2ODc3MTgxNywwMDAwMDAwMDVlMmZjYjMxYWE0ZTkwM2RkZTMxNmE0YjFhMTNkOGVl`
+Snapshot ID: `MTY2OTM2MjUzMSwwMDAwMDAwMDk0Y2Y2NzNiZjQzNjUwOTAwNDI0MzJkNmZhZTY5ZmYz`

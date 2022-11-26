@@ -2,13 +2,14 @@
 
 ### [AUGE](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Grag Queen
+> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Giovani Cidreira, Linn da Quebrada
 
-76 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
+77 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 | 2022-04-29 |  |
+| [Agora Vai!](https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Agora Vai!](https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2) | 4:26 | 2022-11-25 |  |
 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 | 2022-04-29 |  |
 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-22 | 2022-10-08 |
 | [Back In Bahia \- Spotify Singles](https://open.spotify.com/track/6ModYZze07tx1R40jykgeL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Back In Bahia \- Spotify Singles](https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3) | 2:43 | 2022-11-16 |  |
@@ -60,7 +61,7 @@
 | [Provocar](https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Provocar](https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO) | 2:48 | 2022-04-29 |  |
 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 | 2022-04-29 |  |
 | [S2](https://open.spotify.com/track/3rg977NzneilMptUTSIakF) | [Quebrada Queer](https://open.spotify.com/artist/4IE6ncOiPoXKI9Ze7THZ2D) | [HoloForte](https://open.spotify.com/album/5oeLKQXeD3LncbWTxodVpy) | 0:47 | 2022-04-29 | 2022-09-24 |
-| [SURRA](https://open.spotify.com/track/1tNTim1EMqV5UXIsaeaRkS) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [SURRA](https://open.spotify.com/album/0JuHQR7gegmdTnIS1Gswbg) | 2:08 | 2022-04-29 |  |
+| [SURRA](https://open.spotify.com/track/1tNTim1EMqV5UXIsaeaRkS) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [SURRA](https://open.spotify.com/album/0JuHQR7gegmdTnIS1Gswbg) | 2:08 | 2022-04-29 | 2022-11-26 |
 | [Sócia](https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Borogodó pt.1](https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2) | 2:49 | 2022-09-23 |  |
 | [TAQUEI](https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P) | [TAQUEI](https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv) | 2:00 | 2022-05-27 |  |
 | [Tarde D+](https://open.spotify.com/track/1oUEVYaAihtqWsWFJjuitL) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Fim das Tentativas](https://open.spotify.com/album/6kQlwMSjHVBlS6Rr7LH40z) | 3:08 | 2022-09-23 |  |

@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia\. Cover: Ernia
 
-181 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+182 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [DUALIPA E DABABY](https://open.spotify.com/track/1vuSsLVeIb5tSAQsLrlyhV) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:48 | 2022-06-30 | 2022-07-08 |
 | [Easy \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0DpTRR4HyiDJH4Waoj9hXU) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 3:26 | 2022-05-09 | 2022-07-27 |
 | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/album/2T9HGGzn2cmF27zrUTHHN0) | 2:40 | 2022-05-09 | 2022-05-13 |
-| [EGO](https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 | 2022-08-04 |  |
+| [EGO](https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 | 2022-08-04 | 2022-11-26 |
+| [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 | 2022-11-24 |  |
 | [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 | 2022-05-27 | 2022-08-09 |
 | [Eurovision \(feat\. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone\)](https://open.spotify.com/track/4f5TKGvkD4TkTjr61GKNAG) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [A2 Anti](https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 4:03 | 2022-05-09 | 2022-06-01 |
 | [FEDELE AL QUARTIERE \(feat\. Vale Pain\)](https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:20 | 2022-09-28 |  |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70724,
+  "num_followers": 70732,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIyNjEwNTQwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIyNjk2MzYzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Gatita",
         "url": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Mini Mini",
         "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "ADICTO (feat. Best, Bayriton)",
         "url": "https://open.spotify.com/album/2lMQji7tH4Gb2VPoi1iF55"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/0pVFw0LHdpjAWI2xwoUXQZ"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Plut\u00e3o",
         "url": "https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc"
@@ -129,7 +129,71 @@
       "url": "https://open.spotify.com/track/4tDUIRZU50xaP0uRAGklqy"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 282463,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Vengo Naciendo",
+        "url": "https://open.spotify.com/album/63CHm5FprtIb6QxpJUdFe3"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Para Vivir",
+      "url": "https://open.spotify.com/track/5FSMzTs1TMGoWjHern6Fwv"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "KICK BACK",
+        "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 193495,
+      "name": "KICK BACK",
+      "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Yo Me Quedo",
+        "url": "https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 278825,
+      "name": "Yolanda",
+      "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "WORTH NOTHING",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
@@ -149,39 +213,7 @@
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "KICK BACK",
-        "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 193495,
-      "name": "KICK BACK",
-      "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "The Astronaut",
-        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
-      },
-      "artists": [
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 282463,
-      "name": "The Astronaut",
-      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
@@ -197,39 +229,7 @@
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Yo Me Quedo",
-        "url": "https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 278825,
-      "name": "Yolanda",
-      "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Vengo Naciendo",
-        "url": "https://open.spotify.com/album/63CHm5FprtIb6QxpJUdFe3"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Para Vivir",
-      "url": "https://open.spotify.com/track/5FSMzTs1TMGoWjHern6Fwv"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -249,23 +249,23 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
       "artists": [
         {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "EL NENE",
         "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
@@ -285,23 +285,39 @@
       "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+        "name": "No Me Pidas",
+        "url": "https://open.spotify.com/album/4Cz3T17VDkaF6x1OdgSolu"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
         }
       ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+      "duration_ms": 167563,
+      "name": "Yo No Te Pido",
+      "url": "https://open.spotify.com/track/7h7IkK9jXlc2szCeexTDHG"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "i'm yours",
         "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "El Alma Que Te Trajo",
         "url": "https://open.spotify.com/album/7J9BzqMQTX0ne8M8dn57Uo"
@@ -337,23 +353,7 @@
       "url": "https://open.spotify.com/track/5pGz6FrmpHjOuso83azbik"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "No Me Pidas",
-        "url": "https://open.spotify.com/album/4Cz3T17VDkaF6x1OdgSolu"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 167563,
-      "name": "Yo No Te Pido",
-      "url": "https://open.spotify.com/track/7h7IkK9jXlc2szCeexTDHG"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Hay Amores Que Matan (Remix)",
         "url": "https://open.spotify.com/album/3QtcuQHDqkRIDsPh1VWQxA"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/4938heiCnr3uLMh5GxXRVx"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "A I O",
         "url": "https://open.spotify.com/album/5082P5BtVaz97uET2hhEIM"
@@ -405,67 +405,7 @@
       "url": "https://open.spotify.com/track/5imSFd0G9WtsEfYRpaKHUr"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Na Na Na (Remix)",
-        "url": "https://open.spotify.com/album/7pigWCNPdpIxpfLbebqVdH"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 272463,
-      "name": "Na Na Na - Remix",
-      "url": "https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Te Extra\u00f1o a Lo Vio",
         "url": "https://open.spotify.com/album/1sH5doMd0JobOpHAsfit6I"
@@ -497,23 +437,87 @@
       "url": "https://open.spotify.com/track/0yq2vtAiZfTYZlP2EFCJDt"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
-        "name": "Pensandote Sin Querer",
-        "url": "https://open.spotify.com/album/5anA28EXcANKX9gHRikwA5"
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
-          "name": "Saigo",
-          "url": "https://open.spotify.com/artist/4RAYYG4VK6BOZSrt5VtSB0"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 290286,
-      "name": "Pensandote Sin Querer - Remix",
-      "url": "https://open.spotify.com/track/5FvXHhO5Ga5JMp1LuOiMKp"
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Na Na Na (Remix)",
+        "url": "https://open.spotify.com/album/7pigWCNPdpIxpfLbebqVdH"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 272463,
+      "name": "Na Na Na - Remix",
+      "url": "https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 175788,
+      "name": "Fiera",
+      "url": "https://open.spotify.com/track/4tWO6MRXQwmh8nKlWHgBYz"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
@@ -529,7 +533,7 @@
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -545,7 +549,23 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Vista Al Mar",
+        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 180672,
+      "name": "Vista Al Mar",
+      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
@@ -565,43 +585,23 @@
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
-        "name": "Fiera",
-        "url": "https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1"
+        "name": "Pensandote Sin Querer",
+        "url": "https://open.spotify.com/album/5anA28EXcANKX9gHRikwA5"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Saigo",
+          "url": "https://open.spotify.com/artist/4RAYYG4VK6BOZSrt5VtSB0"
         }
       ],
-      "duration_ms": 175788,
-      "name": "Fiera",
-      "url": "https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D"
+      "duration_ms": 290286,
+      "name": "Pensandote Sin Querer - Remix",
+      "url": "https://open.spotify.com/track/5FvXHhO5Ga5JMp1LuOiMKp"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Vista Al Mar",
-        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 180672,
-      "name": "Vista Al Mar",
-      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
@@ -633,43 +633,7 @@
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "SI AYER FUERA HOY",
-        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Salir Con Vida",
-      "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "funkysolo",
-        "url": "https://open.spotify.com/album/7HhpsWu3oXmYHGqYDkQ79V"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 226517,
-      "name": "funkysolo",
-      "url": "https://open.spotify.com/track/1wd9Yc43eVRgsfivN750MU"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -685,23 +649,35 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
-        "name": "El Ladr\u00f3n de Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/4GdRmX52uGkkRr09PcpUQ1"
+        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
       "artists": [
         {
-          "name": "Beatriz Sanchez",
-          "url": "https://open.spotify.com/artist/7IoJwev1Iea2sTIB7nBcDg"
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 208529,
-      "name": "El Ladr\u00f3n de Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/71BXZPdeQHoyVqWJdj7lyH"
+      "duration_ms": 206069,
+      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Dos Besitos",
         "url": "https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58"
@@ -725,39 +701,27 @@
       "url": "https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
-        "name": "KICK ii",
-        "url": "https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy"
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
       },
       "artists": [
         {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 151531,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/0hp5IJ83YpnglsrvGfIhIN"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "SALGO A KAZARTE",
-        "url": "https://open.spotify.com/album/63ARBw2XCjARqh69buOqsX"
-      },
-      "artists": [
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
         {
-          "name": "Dunkan",
-          "url": "https://open.spotify.com/artist/3WPRuzfjcRBf7byiF6pFvE"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 193619,
-      "name": "SALGO A KAZARTE",
-      "url": "https://open.spotify.com/track/3mIwvkMmVKgPIU2N31Nfhz"
+      "duration_ms": 176086,
+      "name": "Salir Con Vida",
+      "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -773,7 +737,75 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "funkysolo",
+        "url": "https://open.spotify.com/album/7HhpsWu3oXmYHGqYDkQ79V"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 226517,
+      "name": "funkysolo",
+      "url": "https://open.spotify.com/track/1wd9Yc43eVRgsfivN750MU"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "KICK ii",
+        "url": "https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 151531,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/0hp5IJ83YpnglsrvGfIhIN"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "El Ladr\u00f3n de Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4GdRmX52uGkkRr09PcpUQ1"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Sanchez",
+          "url": "https://open.spotify.com/artist/7IoJwev1Iea2sTIB7nBcDg"
+        }
+      ],
+      "duration_ms": 208529,
+      "name": "El Ladr\u00f3n de Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/71BXZPdeQHoyVqWJdj7lyH"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Querido Pablo",
+        "url": "https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 242960,
+      "name": "El Breve Espacio en Que No Estas",
+      "url": "https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Los Green Lanters 2.0",
         "url": "https://open.spotify.com/album/4XuIa2a0170dUBN6HzhJd6"
@@ -813,7 +845,23 @@
       "url": "https://open.spotify.com/track/2xHt5akicWyD4FCPv3ExVP"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/3V2AB5EnZHMBNXf1mE8dRh"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 207908,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -829,7 +877,71 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2022-11-24 13:09:00",
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "SALGO A KAZARTE",
+        "url": "https://open.spotify.com/album/63ARBw2XCjARqh69buOqsX"
+      },
+      "artists": [
+        {
+          "name": "Dunkan",
+          "url": "https://open.spotify.com/artist/3WPRuzfjcRBf7byiF6pFvE"
+        }
+      ],
+      "duration_ms": 193619,
+      "name": "SALGO A KAZARTE",
+      "url": "https://open.spotify.com/track/3mIwvkMmVKgPIU2N31Nfhz"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2022-11-25 12:59:23",
       "album": {
         "name": "Soy Mam\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/15U77jsUNt9gKpBlfAMCKs"
@@ -851,126 +963,6 @@
       "duration_ms": 209000,
       "name": "Soy Mam\u00e1 (Remix)",
       "url": "https://open.spotify.com/track/0ZQKdhpgwEXDFol41SREFn"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Menthol",
-        "url": "https://open.spotify.com/album/4J0cGevPAxdyPGSYrcSt09"
-      },
-      "artists": [
-        {
-          "name": "Los Audio Kimikos",
-          "url": "https://open.spotify.com/artist/4jS4FtPkA8eOSeXKlRz2dl"
-        },
-        {
-          "name": "GioBulla",
-          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
-        },
-        {
-          "name": "Myztiko",
-          "url": "https://open.spotify.com/artist/2aZII4u5vhdDD2aCKvPfnU"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Menthol",
-      "url": "https://open.spotify.com/track/2TiaktqJAtI0CsTL9NfyAS"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Parcera",
-        "url": "https://open.spotify.com/album/3V2AB5EnZHMBNXf1mE8dRh"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 207908,
-      "name": "Parcera",
-      "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
-        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
-      },
-      "artists": [
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Aisha",
-          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 206069,
-      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
-      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "\u65b0\u6642\u4ee3",
-      "url": "https://open.spotify.com/track/28MATCYDctW5EiBa2repxb"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2022-11-24 13:09:00",
-      "album": {
-        "name": "Querido Pablo",
-        "url": "https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        },
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 242960,
-      "name": "El Breve Espacio en Que No Estas",
-      "url": "https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb"
     }
   ],
   "unique_name": "Viral 50 - Chile",

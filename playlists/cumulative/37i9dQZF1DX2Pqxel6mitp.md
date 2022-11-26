@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw blues.
 
-135 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
+136 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Feelin' Blue](https://open.spotify.com/track/2SNmU4PqvXbqyOdh8HEnUP) | [Del Rio Ramblers](https://open.spotify.com/artist/6jLMFfYQjxVXQgrlYhI7pI) | [Go Away Hound Dog](https://open.spotify.com/album/17joEUj4DSbaTt5xWRV0jP) | 2:28 | 2022-07-08 | 2022-07-25 |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-05-25 |  |
 | [Fussin' and Fightin' \(Blues\)](https://open.spotify.com/track/479M29eunSUcosQ608slSc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:00 | 2022-06-14 |  |
+| [Going Down South](https://open.spotify.com/track/0Zbaiyzuhf4OkDLoZnIJMp) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:04 | 2022-11-18 |  |
 | [Going To Chicago](https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:50 | 2022-07-01 |  |
 | [Good Morning Little School Girl](https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:16 | 2022-05-25 |  |
 | [Good Morning Mr\. Blues](https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Good Morning Mr\. Blues](https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn) | 3:25 | 2022-05-25 | 2022-07-29 |
@@ -71,7 +72,7 @@
 | [How To Love](https://open.spotify.com/track/0g2i0wii2FZuBskWUta2SK) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [How To Love](https://open.spotify.com/album/4MOG342gzrJ8AEagVhXjcg) | 3:38 | 2022-05-25 | 2022-07-29 |
 | [How to Love](https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:38 | 2022-07-08 |  |
 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 | 2022-05-25 |  |
-| [If My Mind Don't Change \(feat\. Sharde Thomas\)](https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Sharde Turner](https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:40 | 2022-10-14 |  |
+| [If My Mind Don't Change \(feat\. Sharde Thomas\)](https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Sharde Turner](https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:40 | 2022-10-14 | 2022-11-26 |
 | [Imidiwaren](https://open.spotify.com/track/1BcEPYZS6rVhPhQ4L06zlr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [The Radio Tisdas Sessions](https://open.spotify.com/album/5O5TvfdtaQn6AiTkSYBbAr) | 6:26 | 2022-06-14 |  |
 | [Jolene](https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Jolene](https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG) | 3:57 | 2022-05-25 |  |
 | [Judgement Day](https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu) | [Marc Amacher](https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0) | [Judgement Day](https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR) | 4:12 | 2022-05-25 | 2022-06-30 |

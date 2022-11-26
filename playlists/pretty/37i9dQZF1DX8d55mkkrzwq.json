@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgyNjgwNiwwMDAwMDAwMDU2ZTVhZmEwZTM5ZTU3MmFhODk2NTNlOWE0NDllOGZh",
+  "snapshot_id": "MTY0ODgyNjgwNiwwMDAwMDAwMDNkNGYxYTcxMGI5NmQ4OTU2OWZhM2EwNTg1NTE4OTI3",
   "tracks": [
     {
       "added_at": "2022-04-01 15:26:46",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
+        "name": "Blippi's Birthday Party",
+        "url": "https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Dance, Dance, Freeze",
+      "url": "https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
         "name": "Preschool Songs Volume 2",
         "url": "https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 193802,
       "name": "Robot Song",
       "url": "https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Blippi's Birthday Party",
-        "url": "https://open.spotify.com/album/1WPDUEohi6ZRZuMKOH4lLa"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Dance, Dance, Freeze",
-      "url": "https://open.spotify.com/track/5oVTyy9JZ6RIXxiZ3nNaMm"
     },
     {
       "added_at": "2022-04-01 15:26:46",

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 122562,
+  "num_followers": 122760,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMGJkMDY1YzViZWRmOThhZTczZWEzMWQ1Nzk4Y2E5N2M0",
+  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMGI5NDljNGY4NGZiODg1MjliODg3ZDUwZDBlODliMjZi",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
     },
     {
+      "added_at": "2022-01-14 00:51:04",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -247,22 +263,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2022-01-14 00:51:04",
-      "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2022-09-12 20:09:14",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
-      "added_at": "2022-09-11 03:45:48",
-      "album": {
-        "name": "So Clear",
-        "url": "https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf"
-      },
-      "artists": [
-        {
-          "name": "Hyd",
-          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "So Clear",
-      "url": "https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m"
-    },
-    {
       "added_at": "2022-07-19 04:00:00",
       "album": {
         "name": "\u00a1Ay!",
@@ -343,6 +327,22 @@
       "duration_ms": 215583,
       "name": "Garter Snake",
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 317453,
+      "name": "Zoo Eyes",
+      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
     },
     {
       "added_at": "2022-09-21 00:47:37",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 317453,
-      "name": "Zoo Eyes",
-      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
-    },
-    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -435,6 +419,22 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+    },
+    {
+      "added_at": "2022-09-11 03:45:48",
+      "album": {
+        "name": "CLEARING",
+        "url": "https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP"
     },
     {
       "added_at": "2022-09-12 20:31:51",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
-      "added_at": "2022-10-27 22:17:21",
-      "album": {
-        "name": "Se Ve Desde Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 408057,
-      "name": "Desde el Cielo",
-      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
-    },
-    {
       "added_at": "2022-09-22 17:52:51",
       "album": {
         "name": "The Order of the Rain",
@@ -571,6 +555,22 @@
       "duration_ms": 300000,
       "name": "The Order of the Rain",
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
+    },
+    {
+      "added_at": "2022-10-27 22:17:21",
+      "album": {
+        "name": "Se Ve Desde Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 408057,
+      "name": "Desde el Cielo",
+      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
       "added_at": "2022-08-31 04:34:22",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
-      "added_at": "2022-09-29 00:31:07",
-      "album": {
-        "name": "After School Club",
-        "url": "https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t Ngo",
-          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
-        }
-      ],
-      "duration_ms": 228777,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/09Vq5hMGi8Rzn2ZSLSVJEa"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "As The Love Continues",
@@ -823,6 +807,22 @@
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
+    },
+    {
+      "added_at": "2022-09-29 00:31:07",
+      "album": {
+        "name": "After School Club",
+        "url": "https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+        }
+      ],
+      "duration_ms": 228777,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/09Vq5hMGi8Rzn2ZSLSVJEa"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
-    },
-    {
       "added_at": "2022-09-11 03:49:06",
       "album": {
         "name": "Forever",
@@ -903,6 +887,22 @@
       "duration_ms": 238134,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Hildegard",
-        "url": "https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV"
-      },
-      "artists": [
-        {
-          "name": "Hildegard",
-          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 186544,
-      "name": "Jour 3",
-      "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Heartlow",
         "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 229000,
       "name": "Las Tres Hermanas",
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 186544,
+      "name": "Jour 3",
+      "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Revolution Of Super Visions",
-        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution Of Super Visions",
-      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
-    },
-    {
       "added_at": "2021-12-01 01:36:10",
       "album": {
         "name": "SEIM",
@@ -1297,6 +1281,22 @@
       "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Revolution Of Super Visions",
+        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution Of Super Visions",
+      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
+    },
+    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Fiesta",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Big Appetite",
-      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
-    },
-    {
       "added_at": "2022-02-09 04:04:07",
       "album": {
         "name": "Tintagel",
@@ -1359,6 +1343,22 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Big Appetite",
+      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
       "added_at": "2022-01-11 00:08:03",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
-    },
-    {
       "added_at": "2022-01-21 20:15:30",
       "album": {
         "name": "Feedback Loop",
@@ -1415,6 +1399,22 @@
       "duration_ms": 188873,
       "name": "Feedback Loop",
       "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2022-08-13 01:26:08",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
-      "added_at": "2022-09-03 04:22:45",
-      "album": {
-        "name": "Noon",
-        "url": "https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi"
-      },
-      "artists": [
-        {
-          "name": "Nothing for Breakfast",
-          "url": "https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Noon",
-      "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
-    },
-    {
       "added_at": "2022-08-25 19:38:46",
       "album": {
         "name": "A Liberdade \u00e9 Cara",
@@ -1483,6 +1467,22 @@
       "duration_ms": 380973,
       "name": "A Liberdade \u00e9 Cara",
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+    },
+    {
+      "added_at": "2022-09-03 04:22:45",
+      "album": {
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi"
+      },
+      "artists": [
+        {
+          "name": "Nothing for Breakfast",
+          "url": "https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Noon",
+      "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
     },
     {
       "added_at": "2022-07-14 12:42:06",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
     },
     {
+      "added_at": "2022-08-31 04:56:45",
+      "album": {
+        "name": "Flock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6BAwrKOz139eyfUMyYxcxL"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 215831,
+      "name": "Don't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/4n5pGqntHw2yLB61tbVGoJ"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "NOW",
@@ -1609,22 +1625,6 @@
       "url": "https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W"
     },
     {
-      "added_at": "2022-08-31 04:56:45",
-      "album": {
-        "name": "Flock (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6BAwrKOz139eyfUMyYxcxL"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 215831,
-      "name": "Don't Tell Me I'm Wrong",
-      "url": "https://open.spotify.com/track/4n5pGqntHw2yLB61tbVGoJ"
-    },
-    {
       "added_at": "2022-07-06 16:56:59",
       "album": {
         "name": "Painting Box",
@@ -1639,6 +1639,22 @@
       "duration_ms": 278000,
       "name": "Ritual in Transfigured Time",
       "url": "https://open.spotify.com/track/5c1WARTmXsU40hCFsh2nWp"
+    },
+    {
+      "added_at": "2022-02-09 04:03:27",
+      "album": {
+        "name": "Unfamiliar Minds",
+        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
+      },
+      "artists": [
+        {
+          "name": "Elena Seti\u00e9n",
+          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
       "added_at": "2022-09-29 01:42:35",
@@ -1659,22 +1675,6 @@
       "duration_ms": 224047,
       "name": "Down and Lonely",
       "url": "https://open.spotify.com/track/6DAYxohAgspB0483KwT160"
-    },
-    {
-      "added_at": "2022-02-09 04:03:27",
-      "album": {
-        "name": "Unfamiliar Minds",
-        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
-      },
-      "artists": [
-        {
-          "name": "Elena Seti\u00e9n",
-          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
       "added_at": "2022-08-03 02:31:18",

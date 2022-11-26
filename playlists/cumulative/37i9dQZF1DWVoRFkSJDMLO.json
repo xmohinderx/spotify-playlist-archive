@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Busta Rhymes \ud83c\uddef\ud83c\uddf2 ",
+  "description": "Inspired by African drums. Cover: WizKid \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "published_playlist_ids": [
     "3Nva1foeKA4kN9RYANT1NX"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
@@ -323,6 +323,36 @@
       "duration_ms": 165215,
       "name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
       "url": "https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt"
+    },
+    {
+      "album": {
+        "name": "Azul '22",
+        "url": "https://open.spotify.com/album/0LMmqUmCmVQGYoxQGXHh8p"
+      },
+      "artists": [
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241211,
+      "name": "Azul '22",
+      "url": "https://open.spotify.com/track/63Zz3bxDL27qxAb4KIuzAt"
     },
     {
       "album": {
@@ -1039,7 +1069,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
@@ -1601,7 +1631,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
@@ -2279,7 +2309,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 177600,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/7gLBmiTRzVqJ9curo0dj1N"
@@ -2319,6 +2349,24 @@
       "duration_ms": 136000,
       "name": "Hey Lova",
       "url": "https://open.spotify.com/track/2mnjeG9kYpsagKPI5KR6Wi"
+    },
+    {
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
       "album": {
@@ -3140,6 +3188,24 @@
     },
     {
       "album": {
+        "name": "Lil Mama",
+        "url": "https://open.spotify.com/album/1uW6l7lFd88GtgYglei0ZR"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "Lil Mama",
+      "url": "https://open.spotify.com/track/0TdQ54hT5S5racTQAwdW3U"
+    },
+    {
+      "album": {
         "name": "Live Some Life (feat. DING DONG)",
         "url": "https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY"
       },
@@ -3891,6 +3957,24 @@
       "duration_ms": 135176,
       "name": "Oh Well",
       "url": "https://open.spotify.com/track/38qLUaSV2nN8LhDEkCmhBY"
+    },
+    {
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183788,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M"
     },
     {
       "album": {
@@ -5741,6 +5825,28 @@
       "duration_ms": 384893,
       "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
       "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
+    },
+    {
+      "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
     },
     {
       "album": {

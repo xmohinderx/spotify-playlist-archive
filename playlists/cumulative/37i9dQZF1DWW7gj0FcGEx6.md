@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-202 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+204 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Life Was Just Beginning](https://open.spotify.com/track/2ZZLWOz3YrQfhD8q0OUsdW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [A Journal for Jordan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lnVivEoRcH4Hh7e38vmdn) | 4:07 | 2021-12-20 |  |
 | [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 | 2021-12-20 |  |
 | [Love Is Not Enough](https://open.spotify.com/track/7wEaPRwNN1mrDrnqZZoQ3M) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Son \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7fKZaTDLIJHlyT0yiNk2PY) | 3:21 | 2022-11-18 |  |
+| [Lovers](https://open.spotify.com/track/6fQDa0Wh4niERIF1svm3Zv) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj) | [Lady Chatterley's Lover \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4RGyDHjrEYtXMRwqKBvpgy) | 1:48 | 2022-11-25 |  |
 | [Main Titles](https://open.spotify.com/track/0HY36x94MbEBf0ZNw0eHsP) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM) | 2:36 | 2022-07-22 |  |
 | [Main Titles](https://open.spotify.com/track/5BRpHMeMmznGplORyurX5n) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0tcFS2LRXYloWu9Z4Iyrni) | 2:36 | 2022-05-06 | 2022-07-29 |
 | [Main Titles](https://open.spotify.com/track/2dssT0G1eXmqLoNIzKEuxN) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [Severance: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/6sImespZLxOQOKwbmegpcF) | 1:20 | 2022-02-18 |  |
@@ -204,6 +205,7 @@
 | [We Will Heal](https://open.spotify.com/track/0602EuPn3xAfSaX0Mz2IAE) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [She Will \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42OuXan0cgtOZsYZlFSXD5) | 3:27 | 2022-07-15 |  |
 | [Wedding Day](https://open.spotify.com/track/5HTUwlijsog2BomPCl5P3M) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Windfall \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/2KJkduLAyyzgAmZeTACdnG) | 2:02 | 2022-11-11 |  |
 | [Wedding Day](https://open.spotify.com/track/6FdZa2ipXEDOd6Hw3wE3r6) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Windfall \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/69e7XDQqWy86rMvK7dkBi1) | 2:02 | 2022-06-10 | 2022-11-17 |
+| [Wednesday Main Titles](https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF) | 1:09 | 2022-11-25 |  |
 | [Werewolf By Night: Mane Title](https://open.spotify.com/track/6bh3vf93ab2mBMpsJnj8BC) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Marvel Studios' Werewolf By Night \(Original Soundtrack\)](https://open.spotify.com/album/4TKivMxK8tgOYu4OOsSFqk) | 3:01 | 2022-10-28 |  |
 | [What Lies Ahead](https://open.spotify.com/track/7LyHmHqI6t5rpi2BDSlO0M) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 13 \- Flux \(Original Television Soundtrack\)](https://open.spotify.com/album/6QkKL4MKiahk0WnAKqMkze) | 3:32 | 2022-09-30 |  |
 | [Wicked Games](https://open.spotify.com/track/0FXSdzre3I9GaBB444umzh) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Wicked Games \(From Westworld: Season 3\)](https://open.spotify.com/album/1raeE4103hULnR9XjAUhzF) | 5:31 | 2021-12-20 | 2022-07-09 |

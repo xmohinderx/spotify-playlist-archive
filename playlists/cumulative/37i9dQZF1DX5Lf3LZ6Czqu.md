@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Polyphia
 
-109 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+111 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Stratagem](https://open.spotify.com/track/4DqUMex7TPQoDv6E1NNIG5) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Collage](https://open.spotify.com/album/70KEOoFGZwVHmLfMO38bcX) | 3:17 | 2021-05-04 |  |
 | [Sunny Days](https://open.spotify.com/track/0ieb7z4ZUYsPiVBs8up3MF) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [Sunny Days](https://open.spotify.com/album/1i9dFFnIrKKjeb8Hs3jUgq) | 2:59 | 2021-05-04 |  |
 | [Teeth of the Hydra](https://open.spotify.com/track/4mGigKCuAXQot4xkmhate9) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Inviolate](https://open.spotify.com/album/084PBfKRx4oXa6xQyPAold) | 5:12 | 2022-10-11 |  |
+| [Tellicherry](https://open.spotify.com/track/16rsNa8Olqgyo6ALWgySLo) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Tellicherry](https://open.spotify.com/album/3P2MhHAKj7iZfdHEzInBdM) | 4:50 | 2022-11-25 |  |
 | [Tempest Pulse](https://open.spotify.com/track/73i8HclsPcSmyXwwLmVTFp) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV) | [Wheelhouse](https://open.spotify.com/album/1JkBVjeznFK9Bb3xasp6un) | 5:20 | 2021-05-04 |  |
 | [The 12th Hour](https://open.spotify.com/track/1S7LDIJFVGYDZVuuU5IbD7) | [Marco Sfogli](https://open.spotify.com/artist/3DH5T3XE9zij8BRWAxW6SF) | [Homeland](https://open.spotify.com/album/3qpPGP9Zmkab4GEMSLyWLl) | 4:43 | 2021-05-04 |  |
 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 | 2021-05-04 |  |
@@ -116,6 +117,7 @@
 | [When I Met You](https://open.spotify.com/track/0qLSej5O1b7IviLseDChHk) | [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [Lechuga](https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB) | [Blossoms](https://open.spotify.com/album/2JeTEgwVR74F3OUd1QPhCE) | 3:33 | 2022-11-11 |  |
 | [When She Leaves](https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:20 | 2022-09-23 |  |
 | [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 | 2022-04-01 |  |
+| [XXXphobia](https://open.spotify.com/track/6kDHSMUvrnRyiRjo6axbb1) | [Marmalade butcher](https://open.spotify.com/artist/0NqMZ0EDrPSG9ysXDiWkSi) | [Onomatomani\[a\]kus](https://open.spotify.com/album/674sTwV33EPpt0WC5zlI21) | 2:59 | 2022-11-25 |  |
 | [À l’avenir](https://open.spotify.com/track/6GhvoVU3BOpqN6bCdID8QP) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Pete Thorn II](https://open.spotify.com/album/26pXUKMlyQXLjhaHLHUZEe) | 3:31 | 2021-05-04 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Mientras no dejes de cantar, la playlist no deja de sonar. Alfredo Olivas en portada. ",
-  "num_followers": 128621,
+  "num_followers": 128816,
   "original_name": "Karaoke Regional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcxMTQwNywwMDAwMDAwMDc1MmZhZTY5YjAxYmVkY2ZlZDU2N2U5MjY5MzM2YjA2",
+  "snapshot_id": "MTY2MzcxMTQwNywwMDAwMDAwMGRiNDhkZTc1YWVjYzI3OGM5YWYxYzdkZDU4NzdlNzMw",
   "tracks": [
     {
       "added_at": "2022-09-20 22:03:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 163560,
-      "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -815,6 +799,22 @@
       "duration_ms": 202560,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "La Loca (En Vivo)",
-        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 246251,
-      "name": "La Loca (En Vivo)",
-      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "Ya No Vives En M\u00ed",
         "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 209586,
       "name": "Cu\u00e1l Adi\u00f3s",
       "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "La Loca (En Vivo)",
+        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 246251,
+      "name": "La Loca (En Vivo)",
+      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
+        "name": "El Ahijado Consentido",
+        "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
+      },
+      "artists": [
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "El Ahijado Consentido",
-        "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
-      },
-      "artists": [
-        {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
         "name": "La Barda Me Vol\u00e9",
         "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
@@ -1543,18 +1559,22 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+      "duration_ms": 191946,
+      "name": "2 Veces",
+      "url": "https://open.spotify.com/track/4cV6ld7uIs906zOwNscoBM"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1579,26 +1599,6 @@
       "duration_ms": 169986,
       "name": "Contigo No Fue",
       "url": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
-        "name": "Recordando A Una Leyenda",
-        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "2 Veces",
-      "url": "https://open.spotify.com/track/4cV6ld7uIs906zOwNscoBM"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Intocable",
-        "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
       },
@@ -2007,18 +1991,34 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+        "name": "Intocable",
+        "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 234480,
-      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
-      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+      "duration_ms": 260066,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
       "artists": [
         {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 191986,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
+      "duration_ms": 234480,
+      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
+      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
     },
     {
       "added_at": "2022-09-20 22:03:27",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Disfrut\u00e9 Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/2yHmyqLvinMYOiOsJagAYK"
-    },
-    {
-      "added_at": "2022-09-20 22:03:27",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
       },
@@ -2139,18 +2123,34 @@
     {
       "added_at": "2022-09-20 22:03:27",
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+        "name": "El Envidioso",
+        "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+      "duration_ms": 191996,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
+    },
+    {
+      "added_at": "2022-09-20 22:03:27",
+      "album": {
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Disfrut\u00e9 Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/2yHmyqLvinMYOiOsJagAYK"
     }
   ],
   "unique_name": "Karaoke Regional Mexicano",

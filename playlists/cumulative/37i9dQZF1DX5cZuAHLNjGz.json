@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi hits with Sidhu Moose Wala",
+  "description": "Ultimate 101 Punjabi hits with Karan Aujla",
   "name": "Punjabi 101",
   "published_playlist_ids": [
     "65mo2NWVu4B5tAS7KU5k4E"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 198119,
       "name": "Chithiyaan",
       "url": "https://open.spotify.com/track/36T47GIlXspprLND3cJKqT"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 218400,
       "name": "Gutt",
       "url": "https://open.spotify.com/track/6Y8r5v3lwWX80fr7oRNK9V"
@@ -1846,6 +1846,28 @@
     },
     {
       "album": {
+        "name": "A for Arjan",
+        "url": "https://open.spotify.com/album/1QWzDrem3DVrc3nBForpg4"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/7GNukf9cYyeLwyDPyK1wtt"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127374,
+      "name": "Milde",
+      "url": "https://open.spotify.com/track/2d5u6ttu5nqLIdpzebeSuP"
+    },
+    {
+      "album": {
         "name": "Mitti De Tibbe",
         "url": "https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp"
       },
@@ -2017,7 +2039,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 215723,
       "name": "Navi Navi Yaari",
       "url": "https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG"
@@ -2119,6 +2141,24 @@
       "duration_ms": 253636,
       "name": "Old Skool",
       "url": "https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz"
+    },
+    {
+      "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1RT06dWvxSC13JY6WnQmb5"
     },
     {
       "album": {
@@ -3263,6 +3303,28 @@
       "duration_ms": 199420,
       "name": "Wo Noor",
       "url": "https://open.spotify.com/track/32FVH23yFXr8Z0sfjRw4It"
+    },
+    {
+      "album": {
+        "name": "Wytb",
+        "url": "https://open.spotify.com/album/4yN52ilychdYFbugDvLrJK"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Wytb",
+      "url": "https://open.spotify.com/track/0mitUgVDvaKFw4EuXZ8nLx"
     },
     {
       "album": {

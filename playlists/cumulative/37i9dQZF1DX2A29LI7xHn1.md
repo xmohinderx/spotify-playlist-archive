@@ -4,7 +4,7 @@
 
 > Crossing over like Allen I\. Cover: Doechii
 
-397 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/2r5DE6CSqTiYmBM4pn2qN9)
+398 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/2r5DE6CSqTiYmBM4pn2qN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 | 2022-07-08 | 2022-10-08 |
 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 | 2021-09-03 | 2022-02-26 |
 | [Swangin’ On Westheimer](https://open.spotify.com/track/0sze9rycXZswg5emYTFklv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 4:48 | 2021-11-05 | 2022-04-09 |
+| [Sweet Yamz](https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Sweet Yamz](https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd) | 1:45 | 2022-11-25 |  |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 | 2022-10-21 |  |
 | [Taken For Granted](https://open.spotify.com/track/3CsdKcnQRUtuPO7hHjzJ1P) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Taken For Granted](https://open.spotify.com/album/1v9tdLs34CUDSItvFilRMD) | 2:50 | 2021-10-29 | 2022-04-09 |
 | [Talk Nice](https://open.spotify.com/track/1qo8LZ0OHfObYJpA8Zdfhl) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Talk Nice](https://open.spotify.com/album/4oPuSNNJzdQWn7Qf6UdlmE) | 1:51 | 2021-12-17 | 2022-05-20 |
@@ -367,7 +368,7 @@
 | [TOUGH SKIN](https://open.spotify.com/track/1KYxtEzzTOVHceP30W0QV7) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TOUGH SKIN](https://open.spotify.com/album/0hbJNPVO0hMzpJcIf5lioa) | 2:48 | 2022-08-12 | 2022-10-08 |
 | [Toxic](https://open.spotify.com/track/2HzSAg4A7t5yM8Ly3JpaZR) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Toxic](https://open.spotify.com/album/2EMFr4pSI55v5Xm6FgUBvk) | 2:39 | 2022-04-08 |  |
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 |  |
-| [Toxic](https://open.spotify.com/track/1lKdmaqbv7d4U8e1Rkf9dt) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Baby Goat 2](https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC) | 2:53 | 2022-09-23 |  |
+| [Toxic](https://open.spotify.com/track/1lKdmaqbv7d4U8e1Rkf9dt) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Baby Goat 2](https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC) | 2:53 | 2022-09-23 | 2022-11-26 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 | 2022-11-12 |
 | [Typa Way](https://open.spotify.com/track/277OKlE8bKSaWghuEBz7U7) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc) | [Typa Way](https://open.spotify.com/album/1v8obs02a28Pv1b6Mbjnir) | 3:50 | 2022-03-11 | 2022-06-11 |
 | [Unappreciated](https://open.spotify.com/track/3XY9A28it4ayh188fbjCnK) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Talk More Soon](https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc) | 3:46 | 2022-08-19 |  |

@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-230 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
+231 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Colorado Blues](https://open.spotify.com/track/2qew8GpEiZ9ApwgWPamrj3) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/7mk5dBCDyzFHhEmg3JwtWQ) | 2:37 | 2022-01-05 | 2022-07-29 |
 | [Colorado Blues](https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 2:37 | 2022-05-02 |  |
 | [Come and See](https://open.spotify.com/track/5xAiZ21W3yXME0kJqu6eOw) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [Lean Year](https://open.spotify.com/album/4GBG1Gq0qREhpY6VSJRTrO) | 3:39 | 2021-10-08 | 2022-04-14 |
-| [Convention](https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:16 | 2021-10-08 |  |
+| [Convention](https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:16 | 2021-10-08 | 2022-11-26 |
+| [Convention](https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:16 | 2022-11-17 |  |
 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 | 2021-10-08 |  |
 | [Crucified](https://open.spotify.com/track/6kclw9en3fBEUTjZOjio7c) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Crucified](https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se) | 3:03 | 2022-02-25 |  |
 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 | 2021-10-08 |  |

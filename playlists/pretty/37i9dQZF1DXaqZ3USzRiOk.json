@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 98999,
+  "num_followers": 99186,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQzODk1OCwwMDAwMDAwMDNhM2YxODNlNjI4YzBkZjc5NzEzOWFmZmIyNTIyOTYw",
+  "snapshot_id": "MTY1NjQzODk1OCwwMDAwMDAwMGNiMmRkNDRiZmRiNmFmMWQ1NThjYmJlZDFmMmE2MmJm",
   "tracks": [
     {
       "added_at": "2022-06-17 05:00:00",
@@ -577,6 +577,22 @@
       "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 137120,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
+    },
+    {
       "added_at": "2022-06-17 05:00:00",
       "album": {
         "name": "Tambora, Vol. 2",
@@ -595,18 +611,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 137120,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -623,22 +639,6 @@
       "duration_ms": 211773,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 129400,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+      "duration_ms": 151120,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -883,38 +883,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Sin Fortuna",
-      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
-    },
-    {
-      "added_at": "2022-06-17 05:00:00",
-      "album": {
-        "name": "Mi Jefe",
-        "url": "https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 214785,
-      "name": "Mi Jefe",
-      "url": "https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Que Te Vaya Bonito",
         "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
       },
@@ -931,6 +899,22 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Sin Fortuna",
+      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
         "name": "Yo Vendo Unos Ojos Verdes",
         "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2022-06-17 05:00:00",
+      "album": {
+        "name": "Mi Jefe",
+        "url": "https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 214785,
+      "name": "Mi Jefe",
+      "url": "https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Pa' Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 200213,
       "name": "Cuando Nadie Te Quiera",
       "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Pa' Todo el A\u00f1o",
-      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "La basurita",
-      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 128400,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "La basurita",
+      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        }
-      ],
-      "duration_ms": 131066,
-      "name": "Cama de Piedra",
-      "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Exitos De Oro",
         "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 184200,
       "name": "Tu Delirio",
       "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        }
+      ],
+      "duration_ms": 131066,
+      "name": "Cama de Piedra",
+      "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "El Triunfador",
-        "url": "https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6"
-      },
-      "artists": [
-        {
-          "name": "Juan Valentin",
-          "url": "https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK"
-        }
-      ],
-      "duration_ms": 202071,
-      "name": "Nom\u00e1s Por Tu Culpa",
-      "url": "https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
       },
@@ -1735,18 +1719,34 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
+        "name": "El Triunfador",
+        "url": "https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Juan Valentin",
+          "url": "https://open.spotify.com/artist/2yKmxk6HYQNEr93j9VFJbK"
         }
       ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+      "duration_ms": 202071,
+      "name": "Nom\u00e1s Por Tu Culpa",
+      "url": "https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Me Saludas A La Tuya",
+        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 163932,
+      "name": "Me Saludas A La Tuya",
+      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Me Saludas A La Tuya",
-        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 163932,
-      "name": "Me Saludas A La Tuya",
-      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Penas, Desenga\u00f1os... y Amores",
-        "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Yo Se Que Te Acordaras",
-      "url": "https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Muy Dentro De Mi Corazon",
         "url": "https://open.spotify.com/album/51swWg5ktkZ01dwmd1yWZX"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 244426,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/3SxxIc1oAzkZ2n5GSl776X"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Penas, Desenga\u00f1os... y Amores",
+        "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Yo Se Que Te Acordaras",
+      "url": "https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Un Pu\u00f1o de Tierra",
-      "url": "https://open.spotify.com/track/5sccvYWAbqyChZPqPadLqC"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Boleros Rancheros - Feria Mexicana",
         "url": "https://open.spotify.com/album/1uUbHmJrPsN8nSXwNkjzMa"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 230626,
       "name": "Tu Sigues Siendo El Mismo",
       "url": "https://open.spotify.com/track/3EAoVI4vLl3FanZ6ivOkWa"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Un Pu\u00f1o de Tierra",
+      "url": "https://open.spotify.com/track/5sccvYWAbqyChZPqPadLqC"
     },
     {
       "added_at": "2022-06-07 22:01:28",

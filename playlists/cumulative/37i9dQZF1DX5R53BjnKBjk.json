@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: morgana / Arte: Isu Kim",
+  "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: Mar\u00f4 / Arte: Isu Kim",
   "name": "Fresh Finds Brasil",
   "published_playlist_ids": [
     "67GFnJVXnyWY0MjhTSXEEJ"
@@ -59,6 +59,24 @@
       "duration_ms": 168293,
       "name": "4 Da Tarde",
       "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
+    },
+    {
+      "album": {
+        "name": "A Coisa Mais Bonita",
+        "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
+      },
+      "artists": [
+        {
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169383,
+      "name": "A Coisa Mais Bonita",
+      "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
     },
     {
       "album": {
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 152727,
       "name": "Apaga a Luz",
       "url": "https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ"
@@ -337,7 +355,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 114081,
       "name": "Baby",
       "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
@@ -377,6 +395,24 @@
       "duration_ms": 247250,
       "name": "Beat Lobo (Mande um Sinal)",
       "url": "https://open.spotify.com/track/4PnVS3vhthIwnPBZYmYcHD"
+    },
+    {
+      "album": {
+        "name": "Beija e Arranha",
+        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172874,
+      "name": "Beija e Arranha",
+      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "album": {
@@ -631,6 +667,24 @@
       "duration_ms": 160437,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/7iGVqFzpfBCg8Q8fJHSPl5"
+    },
+    {
+      "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139480,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl"
     },
     {
       "album": {
@@ -939,7 +993,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 155733,
       "name": "DEPRIMIDA",
       "url": "https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g"
@@ -1019,6 +1073,28 @@
       "duration_ms": 236956,
       "name": "Deslize de Del\u00edrio Inconsequente",
       "url": "https://open.spotify.com/track/7afauHi7fLtMLLqLVTzg5J"
+    },
+    {
+      "album": {
+        "name": "Devaneios",
+        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
+      },
+      "artists": [
+        {
+          "name": "Fraterna Trip",
+          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
+        },
+        {
+          "name": "John",
+          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201137,
+      "name": "Devaneios",
+      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
     },
     {
       "album": {
@@ -1143,6 +1219,28 @@
       "duration_ms": 171038,
       "name": "Ent\u00e3o Me Diz",
       "url": "https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5"
+    },
+    {
+      "album": {
+        "name": "Escuro (Remix)",
+        "url": "https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T"
+      },
+      "artists": [
+        {
+          "name": "MAD\u00da",
+          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
+        },
+        {
+          "name": "Tain\u00e1 Seabra",
+          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184557,
+      "name": "Escuro - Remix",
+      "url": "https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d"
     },
     {
       "album": {
@@ -1447,7 +1545,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 226386,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV"
@@ -1660,6 +1758,24 @@
     },
     {
       "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+      },
+      "artists": [
+        {
+          "name": "TOLENTINO",
+          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153559,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+    },
+    {
+      "album": {
         "name": "JEANS",
         "url": "https://open.spotify.com/album/6q3WFg7vBmD1S72mS7p9US"
       },
@@ -1725,7 +1841,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 175778,
       "name": "KIKADAUM",
       "url": "https://open.spotify.com/track/04aZsWuQFUxRRY0hp4T3Kd"
@@ -2062,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142699,
+      "name": "Mete o P\u00e9",
+      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
+    },
+    {
+      "album": {
         "name": "meu bem, meu bem",
         "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
       },
@@ -2095,7 +2229,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194782,
       "name": "Meu Foco",
       "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
@@ -2305,6 +2439,24 @@
       "duration_ms": 188360,
       "name": "Nuvem (Ai Claud)",
       "url": "https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM"
+    },
+    {
+      "album": {
+        "name": "n\u00e3o consigo mais chorar",
+        "url": "https://open.spotify.com/album/1PUjhle1aE7ntdXqMh9qgG"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186605,
+      "name": "n\u00e3o consigo mais chorar",
+      "url": "https://open.spotify.com/track/5yFSlEnufHWEwZPw79cQVP"
     },
     {
       "album": {
@@ -2728,6 +2880,28 @@
     },
     {
       "album": {
+        "name": "Pe\u00e7o Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS"
+      },
+      "artists": [
+        {
+          "name": "Camilla Leonel",
+          "url": "https://open.spotify.com/artist/7gOLPtcQXX082ZRRur3sZx"
+        },
+        {
+          "name": "SCALON",
+          "url": "https://open.spotify.com/artist/1C71ve72DbTuQNcyH8cV0N"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180440,
+      "name": "Pe\u00e7o Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP"
+    },
+    {
+      "album": {
         "name": "Varanda",
         "url": "https://open.spotify.com/album/16vCNvwG9Rj4dC8N8rRokI"
       },
@@ -2986,6 +3160,24 @@
     },
     {
       "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5tgyf2RZII4PP9Lwr7vBwA"
+      },
+      "artists": [
+        {
+          "name": "Agriff",
+          "url": "https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/27UVEuLVKW5POr1SzoSL9I"
+    },
+    {
+      "album": {
         "name": "Que Fase",
         "url": "https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU"
       },
@@ -2997,7 +3189,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 139058,
       "name": "Qual Fita",
       "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
@@ -3563,7 +3755,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 209765,
       "name": "Tain\u00e1 Cigana",
       "url": "https://open.spotify.com/track/1DRZSRWT8dosHTI14vVp4b"
@@ -3733,7 +3925,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 176938,
       "name": "Trancado",
       "url": "https://open.spotify.com/track/3O4FZv6i5sQvsGj4qfD50W"
@@ -3805,7 +3997,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 149793,
       "name": "tr\u00eas",
       "url": "https://open.spotify.com/track/3PrFyucupUOrcLRPXR29yI"

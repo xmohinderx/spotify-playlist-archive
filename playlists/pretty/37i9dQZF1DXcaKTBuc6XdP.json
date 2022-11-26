@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 3376,
+  "num_followers": 3385,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDU0NDZhMjc2YzI4ZjIyMGVmZTE5OWMxNjFjYjVkZmM4",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGQwOGY1NWYxMWJiZWVhZjRjMDhiYTJkOWEyYzcxM2Vm",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -447,6 +447,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Top 25 Praise Songs: 2005",
+        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Praise Band",
+          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Shine, Jesus Shine",
+      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "The Worship Initiative, Vol. 2",
         "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 229487,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Top 25 Praise Songs: 2005",
-        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Praise Band",
-          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "Shine, Jesus Shine",
-      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
     },
     {
       "added_at": "2021-06-29 13:36:02",

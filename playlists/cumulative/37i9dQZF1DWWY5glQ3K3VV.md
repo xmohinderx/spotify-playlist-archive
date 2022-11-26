@@ -4,7 +4,7 @@
 
 > Canzoni rap per party fino al mattino! Cover: Rhove
 
-138 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/5o7py36Yd4VocyDEPVW5BA)
+139 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5o7py36Yd4VocyDEPVW5BA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF) | 2:58 | 2022-05-01 |  |
 | [DREAM TEAM \(feat\. Pyrex, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 2:38 | 2022-05-01 | 2022-10-26 |
 | [DREAM TEAM \(feat\. Pyrex, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 2:38 | 2022-10-27 |  |
-| [EGO](https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 | 2022-08-04 |  |
+| [EGO](https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 | 2022-08-04 | 2022-11-26 |
+| [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 | 2022-10-27 |  |
 | [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 | 2022-05-26 | 2022-08-09 |
 | [Envidioso \(feat\. Morad\)](https://open.spotify.com/track/7bsBuM2ipkM4umttZlod2K) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Envidioso \(feat\. Morad\)](https://open.spotify.com/album/2rso7me20KtXjYyZyGet55) | 3:16 | 2022-05-01 |  |
 | [ERROR FREESTYLE \(feat\. Neima Ezza\)](https://open.spotify.com/track/5EBY8nXWYE3P2gFZrmHzoF) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [ERROR 442](https://open.spotify.com/album/5JOGZh2ZkEGnt83bRjocpM) | 1:43 | 2022-05-01 | 2022-05-11 |

@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 64060,
+  "num_followers": 64110,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDAwMTI3MzIwMDEyYjJjZDA3NzJlMDYwZWExYTdlZGIw",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDViNDNhZjIwZjQ1MzhiNTY2ZmM1YmIxYTA5MWFjNGE1",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "Kj\u00e6rlighetsvisa",
-      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "N\u00e6rmere",
         "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 288678,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "Kj\u00e6rlighetsvisa",
+      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Har det no \u00e5 si",
-        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Vi M\u00f8ttes I En Soloppgang",
         "url": "https://open.spotify.com/album/1aPBFbIRtY9TttO1eIfflK"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 195680,
       "name": "Vi M\u00f8ttes I En Soloppgang",
       "url": "https://open.spotify.com/track/1nCIRz2gS5f5QA6Qnm0wBs"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Har det no \u00e5 si",
+        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Inn i skogen",
-        "url": "https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        },
-        {
-          "name": "Sigrid Aase",
-          "url": "https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Godt nok",
-      "url": "https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
@@ -647,18 +627,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+        "name": "Inn i skogen",
+        "url": "https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq"
       },
       "artists": [
         {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        },
+        {
+          "name": "Sigrid Aase",
+          "url": "https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK"
         }
       ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+      "duration_ms": 236640,
+      "name": "Godt nok",
+      "url": "https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 322826,
       "name": "Novemberdag novembernatt",
       "url": "https://open.spotify.com/track/2pnrk0bjGIhgsklVVrKz1v"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Kr\u00e5keviks Songbok",
-        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
-      },
-      "artists": [
-        {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
-        }
-      ],
-      "duration_ms": 178760,
-      "name": "Den Fyrste Song",
-      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "K\u00e6m va du?",
         "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 179533,
       "name": "Togsang",
       "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Kr\u00e5keviks Songbok",
+        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Den Fyrste Song",
+      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
     },
     {
       "added_at": "2022-11-10 23:00:00",

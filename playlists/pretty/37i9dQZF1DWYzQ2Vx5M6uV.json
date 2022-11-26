@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 100489,
+  "num_followers": 100541,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGU5MzNhNzM0YmU3NmI1MGNhYjAxNjFlYTIwZDUwYWE2",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGY5MDE4NTEyNDdhNGRiMzBmNTU3ODNlN2NkMDdmYWVk",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "Touch It",
+        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "ZaZa Vibes (Extended Version)",
         "url": "https://open.spotify.com/album/1QFQBlZ2zwGRcwhPwEOCpQ"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 164081,
       "name": "Sempe - Remix",
       "url": "https://open.spotify.com/track/27aOnrAdyXMNTDInNoXcYj"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Touch It",
-        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1431,42 +1431,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Popor\u00f3",
-        "url": "https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx"
-      },
-      "artists": [
-        {
-          "name": "Preto Show",
-          "url": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
-        }
-      ],
-      "duration_ms": 169396,
-      "name": "Popor\u00f3",
-      "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "AFRICAN LOVER",
-        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SOLO CON MI CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw"
       },
@@ -1487,22 +1451,58 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Ladies First",
-        "url": "https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU"
+        "name": "AFRICAN LOVER",
+        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
       },
       "artists": [
         {
-          "name": "Dice Ailes",
-          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
         }
       ],
-      "duration_ms": 181978,
-      "name": "Rosalia",
-      "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
+      "duration_ms": 172500,
+      "name": "SOLO CON MI CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Popor\u00f3",
+        "url": "https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx"
+      },
+      "artists": [
+        {
+          "name": "Preto Show",
+          "url": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        }
+      ],
+      "duration_ms": 169396,
+      "name": "Popor\u00f3",
+      "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "LOML (feat. Olamide)",
+        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 196139,
+      "name": "LOML (feat. Olamide)",
+      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
     }
   ],
   "unique_name": "Afro Ritmo",

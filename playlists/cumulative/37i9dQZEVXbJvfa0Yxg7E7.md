@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-864 songs - 1 day 21 hr 29 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+865 songs - 1 day 21 hr 33 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Donda Chant](https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 0:52 | 2021-08-31 | 2021-09-01 |
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-05-19 | 2022-07-03 |
 | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr) | 2:48 | 2021-08-22 | 2021-08-29 |
-| [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-11-19 |  |
+| [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-11-19 | 2022-11-26 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2021-05-23 | 2021-08-18 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-05-23 |
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-11-26 |  |
@@ -225,6 +225,7 @@
 | [Engel, Ikke Dra](https://open.spotify.com/track/2IxH6mSZrIjcQFH848fssw) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Engel, Ikke Dra](https://open.spotify.com/album/1lV7sEq8DKhsDl3Kd7TezF) | 2:29 | 2021-05-16 | 2021-07-25 |
 | [Ensom](https://open.spotify.com/track/6ZzEb8FQadW2FQBK2E0n7x) | [Oven](https://open.spotify.com/artist/1EPCst185uNHrufVIP3TE8) | [Ensom](https://open.spotify.com/album/2Ke2uDzenu7MeJPiLL64Gu) | 2:38 | 2022-08-27 | 2022-10-23 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-14 |
+| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-11-25 |  |
 | [Et Sommertegn](https://open.spotify.com/track/1BA75Vrz6wS2m3nBAIxxlr) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Et Sommertegn](https://open.spotify.com/album/6ARkVCwTHtfeAOdtTtdpKB) | 2:43 | 2021-06-20 | 2021-08-17 |
 | [Ett Minutt](https://open.spotify.com/track/3svle4JD98qjX8WVADVEMA) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Ett Minutt](https://open.spotify.com/album/4Eymp4sKB2Gewp8tkSk5Yv) | 2:54 | 2022-02-07 | 2022-03-07 |
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2021-06-13 | 2021-06-20 |

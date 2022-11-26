@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXboGlPhJFIp9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXboGlPhJFIp9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXboGlPhJFIp9)
 
-### [Electric Relaxation](https://open.spotify.com/playlist/37i9dQZF1DXboGlPhJFIp9)
+### [Relaxing Electric Guitar](https://open.spotify.com/playlist/37i9dQZF1DXboGlPhJFIp9)
 
-> The calming and pensive side of electric guitar\. Instrumental only.
+> Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
 104 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 

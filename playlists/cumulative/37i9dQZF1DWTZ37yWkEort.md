@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-67 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
+68 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/7K3i0GUuw4tdIy2BtXVqtW) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unwrapped \- EP](https://open.spotify.com/album/5UxCYp9ugSxlZtp7TIaJoV) | 3:27 | 2017-11-08 |  |
 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 | 2022-01-14 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/7h0jTze9vNvp7Kpid2i2dB) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [A Rockapella Holiday](https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO) | 1:55 | 2017-11-08 |  |
+| [Jingle Bells](https://open.spotify.com/track/7wC6PVdB1uxCR3IVBk2p9E) | [Cliff Beach](https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z) | [Jingle Bells](https://open.spotify.com/album/5zmS7dWEZRqX980VsitUsI) | 2:12 | 2022-11-25 |  |
 | [Jingle Bells](https://open.spotify.com/track/0NgU0FRX592LEHGds21pfD) | [VOCA PEOPLE](https://open.spotify.com/artist/0lJU6XXo5bSHEoDV2m4iqQ) | [Life Is Music \(Deluxe Version\)](https://open.spotify.com/album/7spOTs7ChtP9bOU3rlkT5a) | 0:47 | 2017-11-08 | 2022-11-16 |
 | [Jingle Bells \- Acapella](https://open.spotify.com/track/2mi1zKy5IOCa0UChNuFJiK) | [Cimorelli](https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2) | [Jingle Bells \(Acapella\)](https://open.spotify.com/album/4fHC3WxhHhBdh8Upzuhot7) | 3:12 | 2022-11-15 |  |
 | [Joy to the World](https://open.spotify.com/track/21RoMQv86rgHUQLdVy07xn) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [I'll Have Another...Christmas Album](https://open.spotify.com/album/5fAtug9KJE3XhEf010Gkoj) | 3:08 | 2017-11-08 |  |

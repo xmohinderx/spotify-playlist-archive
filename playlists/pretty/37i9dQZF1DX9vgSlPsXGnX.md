@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,984 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,054 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 21 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
 | 22 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 |
 | 23 | [La Gloria Eres Tú](https://open.spotify.com/track/79BOX5jI2CAhA8d7GD7FGY) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:56 |
-| 24 | [Contigo Aprendí](https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 1:58 |
-| 25 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
+| 24 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
+| 25 | [Contigo Aprendí](https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 1:58 |
 | 26 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 |
 | 27 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
 | 28 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [Cuando Estemos Viejos](https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de la Billo Caracas Boy's](https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB) | 2:27 |
 | 75 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 
-Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMGY3MDhhZGJiZDI5MjAwOTljOGQ1ZGM3YjI0OGQ0Mzcw`
+Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMGM3NTdhNDc3ODQxZDFmMzc3ZWU4MjFmMGEwOGM0YmRh`

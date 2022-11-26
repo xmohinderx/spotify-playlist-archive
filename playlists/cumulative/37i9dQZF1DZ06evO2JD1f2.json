@@ -256,6 +256,32 @@
     },
     {
       "album": {
+        "name": "Top 10 Trappers DOA",
+        "url": "https://open.spotify.com/album/3iyEcyNBj7ZrniAgMzyqaK"
+      },
+      "artists": [
+        {
+          "name": "Hardo",
+          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Bottom of the Trap (feat. Icewear Vezzo & EST Gee)",
+      "url": "https://open.spotify.com/track/6PlWlDkvdyfiy9R5C52C3F"
+    },
+    {
+      "album": {
         "name": "Bottom Of The Trap (feat. Icewear Vezzo & EST Gee)",
         "url": "https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb"
       },
@@ -275,7 +301,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 179704,
       "name": "Bottom Of The Trap (feat. Icewear Vezzo & EST Gee)",
       "url": "https://open.spotify.com/track/0Btz9n7eympYOWBp6ICg1P"

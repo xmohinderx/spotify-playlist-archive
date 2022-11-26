@@ -4,12 +4,13 @@
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/6PNqDto21Pc7noiKhPa5qP)
+81 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/6PNqDto21Pc7noiKhPa5qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:05 | 2021-12-28 |  |
-| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-06 |  |
+| [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-25 |  |
+| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-06 | 2022-11-26 |
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2021-12-28 |  |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-28 |  |
 | [Bank On It](https://open.spotify.com/track/5jqh2kAjz4GxjOS3HHSz17) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:36 | 2021-12-28 |  |

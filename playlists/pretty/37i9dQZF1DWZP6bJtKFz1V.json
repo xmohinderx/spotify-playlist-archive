@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: spill tab",
-  "num_followers": 82762,
+  "num_followers": 82816,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGM4ZWE4NDg2N2FiYmJkZWUyMDY1ZWI4ZTdjNGVlNmM4",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGQ3ZWUzY2Q3ZmQ4YTlkMWM4N2E1YmRmMmFjMjE0NDQ1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -331,6 +331,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "spend the money (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 199669,
+      "name": "spend the money (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "age tape 8",
         "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 167200,
       "name": "sun keeps on shining",
       "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "spend the money (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 199669,
-      "name": "spend the money (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Stereo Driver",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Stereo Driver",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Stereo Driver",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Stereo Driver",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 124247,
-      "name": "Pharmacist",
-      "url": "https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Wet Cement",
         "url": "https://open.spotify.com/album/09nVh8buc4n4lewLvRpSQG"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "It's Been So Long",
+        "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 192541,
+      "name": "It's Been So Long",
+      "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "3 outfits",
         "url": "https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "It's Been So Long",
-        "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 192541,
-      "name": "It's Been So Long",
-      "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF"
       },
@@ -951,22 +935,6 @@
       "duration_ms": 184797,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "2am",
-        "url": "https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 224178,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -987,6 +955,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "2am",
+        "url": "https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 224178,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "CHAMPAGNE",
         "url": "https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs"
       },
@@ -1003,22 +987,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Girls Make Me Wanna Die",
-        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "pretty kids",
         "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
       },
@@ -1031,6 +999,22 @@
       "duration_ms": 159417,
       "name": "pretty kids",
       "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1171,50 +1155,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Blood Runs Red",
-        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
+        "name": "girls just wanna have sex",
+        "url": "https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg"
       },
       "artists": [
         {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
         }
       ],
-      "duration_ms": 218826,
-      "name": "Blood Runs Red",
-      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/6NY94ZdXbzACNNuQcWIVlg"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 180422,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/1cz61f96sBlapUOQHmLNFK"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 185944,
-      "name": "Wonderful Life - Edit",
-      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
+      "duration_ms": 124029,
+      "name": "girls just wanna have sex",
+      "url": "https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1235,18 +1187,50 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "girls just wanna have sex",
-        "url": "https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg"
+        "name": "Blood Runs Red",
+        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
       },
       "artists": [
         {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
         }
       ],
-      "duration_ms": 124029,
-      "name": "girls just wanna have sex",
-      "url": "https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3"
+      "duration_ms": 218826,
+      "name": "Blood Runs Red",
+      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 185944,
+      "name": "Wonderful Life - Edit",
+      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/6NY94ZdXbzACNNuQcWIVlg"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 180422,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/1cz61f96sBlapUOQHmLNFK"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Rats",
+        "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 145947,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw"
       },
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Rats",
-        "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 145947,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Perfectly Imperfect",
         "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
       },
@@ -1415,6 +1383,22 @@
       "duration_ms": 192878,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1475,22 +1459,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "SYT",
-        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "SYT",
-      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -1507,6 +1475,22 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "SYT",
+        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "SYT",
+      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Martian Man",
+        "url": "https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 124564,
+      "name": "Martian Man",
+      "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 225128,
       "name": "Where Are You Now? (feat. girlhouse)",
       "url": "https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Martian Man",
-        "url": "https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 124564,
-      "name": "Martian Man",
-      "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1675,6 +1659,22 @@
       "duration_ms": 183586,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3GxL646ciwj2Wtf0RwgOG3"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Splinter",
+      "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
     }
   ],
   "unique_name": "Et Alt",

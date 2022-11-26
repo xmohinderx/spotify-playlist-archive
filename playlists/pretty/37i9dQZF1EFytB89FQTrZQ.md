@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,083 likes - 234 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,086 likes - 234 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,10 +132,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 122 | [WORSHIP \(feat\. MNEK\)](https://open.spotify.com/track/6EiVkThclMrFSYJn6r4JcN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 3:35 |
 | 123 | [Through The Night \(feat\. 220 KID\)](https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:48 |
 | 124 | [Rude Love](https://open.spotify.com/track/4p2x6JTf4Zxg4VTjOmI07r) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love](https://open.spotify.com/album/0okWcXKuFdofPUPHRipBfd) | 3:11 |
-| 125 | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/track/7o5i46NjAqBbfgXCJtvHeb) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt), [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/album/61qGaLD8KuczuHqEszC12M) | 5:50 |
-| 126 | [Sing That Song \(feat\. Celeste\) \- Radio Edit](https://open.spotify.com/track/3q5AATAYobIW7Nz24EDk1T) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Sing That Song \(feat\. Celeste\)](https://open.spotify.com/album/55C5efBYETSqazd7tJPLv3) | 2:59 |
-| 127 | [Unpredictable](https://open.spotify.com/track/0Hz3UFZz5QFnxl2UsEhiHB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Unpredictable](https://open.spotify.com/album/5Yc2TXEU0CpftnNuKR2A9R) | 3:49 |
-| 128 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
+| 125 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
+| 126 | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/track/7o5i46NjAqBbfgXCJtvHeb) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt), [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/album/61qGaLD8KuczuHqEszC12M) | 5:50 |
+| 127 | [Sing That Song \(feat\. Celeste\) \- Radio Edit](https://open.spotify.com/track/3q5AATAYobIW7Nz24EDk1T) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Sing That Song \(feat\. Celeste\)](https://open.spotify.com/album/55C5efBYETSqazd7tJPLv3) | 2:59 |
+| 128 | [Unpredictable](https://open.spotify.com/track/0Hz3UFZz5QFnxl2UsEhiHB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Unpredictable](https://open.spotify.com/album/5Yc2TXEU0CpftnNuKR2A9R) | 3:49 |
 | 129 | [Overglow](https://open.spotify.com/track/431dLa3HnVrcW6cVdKWe1h) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:32 |
 | 130 | [Foreign World \(feat\. Anne\-Marie\)](https://open.spotify.com/track/24t27lEozHfSSNbvtONlCz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:17 |
 | 131 | [Impressionable](https://open.spotify.com/track/3QAgFsUgFfRNk8UFfB0f89) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:01 |
@@ -226,8 +226,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 216 | [Is It Wrong \- Main Mix](https://open.spotify.com/track/2myKcFWoAgze1hHO6QOQb1) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Is It Wrong](https://open.spotify.com/album/14tRqV2OKEE7HJSF1uH5N1) | 5:19 |
 | 217 | [Simulation](https://open.spotify.com/track/1nWVz4QTSIMYcdkUvllivw) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Modern Warfare \(EPs 1\-3\)](https://open.spotify.com/album/3xJIXGonvx4OfwZ8Rsbmzt) | 5:39 |
 | 218 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 |
-| 219 | [Right Now](https://open.spotify.com/track/74gFi6GtPqh6oiKAKnGorG) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Get Some Courage, Vol\. 2](https://open.spotify.com/album/4Fj8JNq3FAyYVrulSd5EvR) | 3:08 |
-| 220 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
+| 219 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
+| 220 | [Right Now](https://open.spotify.com/track/74gFi6GtPqh6oiKAKnGorG) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Get Some Courage, Vol\. 2](https://open.spotify.com/album/4Fj8JNq3FAyYVrulSd5EvR) | 3:08 |
 | 221 | [qandeel baloch](https://open.spotify.com/track/2XgqX1xMB5tFqWlLTvFQJi) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 2:54 |
 | 222 | [Stronger Stuff](https://open.spotify.com/track/0Tqb9tHAdN6RI26zIqP4V6) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 4:34 |
 | 223 | [Muscle](https://open.spotify.com/track/7AhlVNoD2zOA6nzUsHYExb) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:00 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 233 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
 | 234 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc4MjIzMjAsMDAwMDAwMDAxZTEyNGRlMzM5ZmVkYTU2ODIwYTk4ODJhMjk3ODIxMg==`
+Snapshot ID: `Mjc4MjM3NDUsMDAwMDAwMDBiMzg1NDE2ZjA1MmE0YmM4MjRkYzk5Mzk5YzRjMGYxYQ==`

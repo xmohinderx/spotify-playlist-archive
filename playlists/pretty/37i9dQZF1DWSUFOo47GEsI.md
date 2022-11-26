@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 
 > Music to reduce insomnia and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,033 likes - 300 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,118 likes - 300 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

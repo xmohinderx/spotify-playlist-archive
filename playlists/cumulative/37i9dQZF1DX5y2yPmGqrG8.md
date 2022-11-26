@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-461 songs - 1 day 19 hr 31 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+462 songs - 1 day 19 hr 36 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [From Sky to Sea](https://open.spotify.com/track/0I6PkVKkHnS1WtAo53A13M) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [From Sky to Sea](https://open.spotify.com/album/5goaFuqvW2KpRFrO05n6nc) | 6:56 | 2022-03-30 | 2022-07-27 |
 | [Fur & Feather](https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Fur & Feather](https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr) | 3:04 | 2022-03-30 | 2022-07-28 |
 | [G303](https://open.spotify.com/track/2GRIzdua1CF9g7Kbwr9znw) | [Jacek Sienkiewicz](https://open.spotify.com/artist/5rmOkK7yIwlt5NAJDElVgu) | [Krasz](https://open.spotify.com/album/6q6jFy6zI7GZaHKltHbiLH) | 4:51 | 2022-01-12 | 2022-05-21 |
+| [Garden](https://open.spotify.com/track/4ITPubj0RkBFfsAA1WGCUl) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [The Sun is Parallel](https://open.spotify.com/album/3WEskLTX6RJBwSl9e8HTjZ) | 4:25 | 2022-11-26 |  |
 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 | 2022-10-14 | 2022-10-28 |
 | [Gerne](https://open.spotify.com/track/3AAajry6nvnDqyd2Nnw0Rl) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wahre Liebe](https://open.spotify.com/album/3TRqBRv1Dc7vgQLaRcWHDC) | 3:15 | 2021-10-06 | 2022-07-27 |
 | [Getting Out](https://open.spotify.com/track/7K7fHCGFgeX1ipUbvf7gwj) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 2:53 | 2021-10-06 | 2022-07-21 |
@@ -247,7 +248,7 @@
 | [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 | 2022-10-01 | 2022-10-15 |
 | [Masi Stone Duet](https://open.spotify.com/track/7HPWrrZrLGFt3QBl6hlMPW) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:00 | 2022-03-30 | 2022-07-21 |
 | [May As Well Be](https://open.spotify.com/track/3bPrZswZF1OiWToRkgB7i8) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [Celestial Greens](https://open.spotify.com/album/7cj9GeDDwhl4o4iAZ7OECO) | 4:00 | 2022-01-12 | 2022-04-14 |
-| [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 | 2022-10-14 |  |
+| [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 | 2022-10-14 | 2022-11-26 |
 | [Medela](https://open.spotify.com/track/3dCqGW7sretd5eP1V2smGU) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Medela](https://open.spotify.com/album/2mUOpzjjdsc8caCYWv5sHp) | 8:41 | 2021-10-06 | 2022-05-15 |
 | [Meditation No\. 1](https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 18:47 | 2021-10-06 | 2022-04-04 |
 | [Melancholia VI](https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 2:16 | 2022-10-14 |  |

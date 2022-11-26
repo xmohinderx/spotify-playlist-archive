@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-180 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
+181 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Can't see me](https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC) | [Uncle Jay](https://open.spotify.com/artist/7wHw0pBlnMtQ5NpO6JCtNj) | [Can't see me](https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6) | 3:55 | 2021-12-17 |  |
 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 | 2021-12-17 |  |
 | [Chilli Heatwave](https://open.spotify.com/track/0I5CXOrOHwCg13oTgG3TAr) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [25 Minutes of Relaxing ASMR](https://open.spotify.com/album/6jbwFqmwVH89xXyNKaRcgG) | 4:35 | 2021-12-17 | 2022-07-29 |
-| [Chilli Heatwave](https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [31 Minutes of Relaxing ASMR](https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk) | 4:35 | 2022-07-01 |  |
+| [Chilli Heatwave](https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [31 Minutes of Relaxing ASMR](https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk) | 4:35 | 2022-07-01 | 2022-11-26 |
 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 | 2021-12-17 |  |
 | [Creekside](https://open.spotify.com/track/1wBu1kU1EYl7UP0OVH5K19) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF) | [Creekside](https://open.spotify.com/album/1hQDgeZYNZ1VhzmUsCwIvr) | 2:42 | 2021-12-17 | 2022-07-27 |
 | [Cut 02 \- Delfonic 2020 Edit](https://open.spotify.com/track/3fEHO0kO6MQ0jDjiAIneZZ) | [Martin Georgi](https://open.spotify.com/artist/5HF1T8gzwh7wBfRu3slUYt), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP) | [Early Cuts 2008 \- 13 \(Extended Version\)](https://open.spotify.com/album/2SrfDomjaFJRUUS4ngZJJs) | 5:32 | 2021-12-17 | 2022-07-29 |
@@ -134,6 +134,7 @@
 | [Pomni](https://open.spotify.com/track/5Zg2oGPqM8F5C4KEj4ZbBM) | [Boogrov](https://open.spotify.com/artist/1eyg9AJYXvQaXtHyi77WCK) | [Pomni](https://open.spotify.com/album/4n4YVXaUkjIcMDo7A5ZK1K) | 5:28 | 2022-01-07 | 2022-10-15 |
 | [Pool House](https://open.spotify.com/track/2ySiEAs8xbSw9arjRiteTB) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Pacific Coliseum](https://open.spotify.com/artist/4sL9uMYCk8NDAhimqhVSlB) | [Pool House](https://open.spotify.com/album/7E1hswPT23ea7OQRckSSxd) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [porco rosso](https://open.spotify.com/track/5lwjdvgblpKI77ferBvdNl) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/1Fp9w0o4EBXaWTuV6UJ3VL) | 3:39 | 2022-03-31 | 2022-11-20 |
+| [porco rosso](https://open.spotify.com/track/5zPFiALwRF6FwkECorlrUB) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/5AlxMStxbXQCBrrZ3WJoql) | 3:39 | 2022-10-21 |  |
 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 | 2021-12-17 |  |
 | [Pyrexia](https://open.spotify.com/track/3zczBLZYI46fBVs36Cr1ne) | [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [Pyrexia](https://open.spotify.com/album/2rkDvpCRvAY5a9cg7ClyxO) | 2:08 | 2021-12-17 | 2022-07-28 |
 | [Quartz](https://open.spotify.com/track/4D179b9FABEloN1rEYxqgT) | [Lauren Ritter](https://open.spotify.com/artist/3tPKumydOBlF2yLF0krfsL) | [Rift Vision 001](https://open.spotify.com/album/4U8scggEIqRUwhM2LznBFI) | 6:11 | 2021-12-17 | 2022-06-10 |

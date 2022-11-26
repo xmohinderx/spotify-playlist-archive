@@ -4,7 +4,7 @@
 
 > A celebration of Norway's dance scene!
 
-108 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
+109 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 | 2022-06-02 |  |
 | [beefs, bad blood and burning vendettas](https://open.spotify.com/track/67q2kAzAD0xfJ4qvtwqmRc) | [dragongirl](https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM) | [beefs, bad blood and burning vendettas](https://open.spotify.com/album/4ox6yvsuLchkGQjJ6nkuLm) | 3:21 | 2022-06-02 | 2022-07-29 |
 | [Blinded By The LEDs \- Edit](https://open.spotify.com/track/5tVGnPxbP3d6wwWq3HoZbt) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Blinded By The LEDs](https://open.spotify.com/album/3FjlEG9kLx0nfWM5D9kuZE) | 4:15 | 2022-06-02 | 2022-07-29 |
-| [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 | 2022-06-02 |  |
+| [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 | 2022-06-02 | 2022-11-26 |
 | [Boney M Down](https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Lindstrom & Prins Thomas](https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM) | 3:49 | 2022-06-02 |  |
 | [Borrowed Emotions](https://open.spotify.com/track/1HMG1SRBtyiZ9KN2fTG170) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [Borrowed Emotions](https://open.spotify.com/album/259kRda8p1CvXqQtw9baoS) | 4:54 | 2022-06-02 | 2022-07-29 |
 | [Clean Air](https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Byen](https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD) | 7:54 | 2022-07-28 |  |
@@ -42,7 +42,7 @@
 | [Flott Flyt](https://open.spotify.com/track/3oTO2LswafxBqEIKt0YjQR) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/2KskrAgPQBKonLKPpMCQqS) | 6:41 | 2022-06-02 | 2022-07-28 |
 | [Flott Flyt](https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 6:41 | 2022-07-28 |  |
 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 | 2022-06-02 |  |
-| [Games \- Prins Thomas Diskomiks](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 | 2022-06-02 |  |
+| [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 | 2022-06-02 |  |
 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 | 2022-07-28 |  |
 | [Hard Trafikk](https://open.spotify.com/track/7k4gAzE8PX9WIgBxFFsWSq) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1OObPP3Seyj3Aym9RmsElV) | 4:42 | 2022-06-02 | 2022-07-29 |
 | [how long is..\. cold pizza good for](https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 5:59 | 2022-06-02 |  |
@@ -67,6 +67,7 @@
 | [Love In The Night](https://open.spotify.com/track/0LiYWncfwdH5GyaPF2hfYl) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [CDIII](https://open.spotify.com/album/76R9ihCAPyxveADAAEYLzB) | 8:13 | 2022-06-02 | 2022-07-29 |
 | [Love in the Night](https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [CDIII](https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF) | 8:13 | 2022-07-28 |  |
 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 | 2022-06-02 |  |
+| [Maskindans \- Radio Edit](https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Det Gylne Triangel](https://open.spotify.com/artist/4Rkaxisnihy39c7B45junc) | [Maskindans](https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE) | 3:34 | 2022-11-24 |  |
 | [Maskindans \- Radio Edit](https://open.spotify.com/track/4ln5gGLJie7NiRwR11RMMc) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Det Gylne Triangel](https://open.spotify.com/artist/1jGwKlVoMvOShtje9ipVAR) | [Maskindans](https://open.spotify.com/album/7zUntiGDtGZiwZT1gs1JdD) | 3:34 | 2022-06-02 | 2022-10-13 |
 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6) | 13:33 | 2022-07-28 |  |
 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/4K3yHlxUKbaSJG8a0oq1jy) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/3NnwznPu0g0NBbua3tDkBj) | 13:33 | 2022-06-02 | 2022-07-29 |

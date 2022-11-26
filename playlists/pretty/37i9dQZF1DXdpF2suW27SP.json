@@ -1,6 +1,6 @@
 {
   "description": "X-Tense entra na zona. ",
-  "num_followers": 155747,
+  "num_followers": 155775,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,30 @@
       "duration_ms": 179508,
       "name": "SHOT",
       "url": "https://open.spotify.com/track/4IZWISZrSBvO1gKK5hrLRC"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/1S5w4wJZoMPoacHqBWWTwF"
+      },
+      "artists": [
+        {
+          "name": "Chyna",
+          "url": "https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF"
+        },
+        {
+          "name": "9 Miller",
+          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
+        },
+        {
+          "name": "Fumaxa",
+          "url": "https://open.spotify.com/artist/1qMTgrvxRRHO3rflIONsCP"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/6J6DcdqOLCCA3VZ9mr6VPD"
     },
     {
       "added_at": "2022-11-25 00:00:00",

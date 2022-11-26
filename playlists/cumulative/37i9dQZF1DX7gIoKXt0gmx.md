@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠
 
-231 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
+232 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 |  |
 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 | 2019-05-26\* | 2019-06-19 |
 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 | 2020-08-22 |  |
-| [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2022-07-22 |  |
+| [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2022-07-22 | 2022-11-26 |
 | [Got Me \(with Ari Lennox & Omen feat\. Ty Dolla $ign & Dreezy\)](https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 4:44 | 2020-09-05 |  |
 | [Harveston Lake](https://open.spotify.com/track/4I7B083Xi0GdfjRoW8HZU6) | [Johnny Rain](https://open.spotify.com/artist/0kqRUwSJCCooeI3hNRsghY) | [11](https://open.spotify.com/album/1s7gq59jNw5plYQqXJFrR4) | 4:48 | 2019-05-26\* | 2019-06-19 |
 | [Hate The Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 | 2020-11-12 | 2022-04-16 |
@@ -232,6 +232,7 @@
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-04-15 | 2022-07-29 |
 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 | 2022-10-05 |  |
 | [Wicked Games](https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:23 | 2019-06-19\* |  |
+| [Wish You Were Here](https://open.spotify.com/track/6NFfdk3mverX1Uxwu9AMVJ) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Wish You Were Here](https://open.spotify.com/album/5dGg5xBwmtNksRRfic2r9y) | 3:09 | 2022-11-25 |  |
 | [With Me](https://open.spotify.com/track/6AIte2Iej1QKlaofpjCzW1) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 6:59 | 2019-05-26\* | 2019-06-19 |
 | [With You](https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:15 | 2019-05-26\* | 2019-06-19 |
 | [Wylin'](https://open.spotify.com/track/0C0nNm2RDKbANnU4lLfkSc) | [Always Never](https://open.spotify.com/artist/0iiDqBBNToKJG4YoyESrBf) | [Call Me Over](https://open.spotify.com/album/1jBOlb1HB2TSCDskqGHuvW) | 4:29 | 2019-06-19\* | 2022-07-29 |

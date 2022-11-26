@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,707 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,745 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 55 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/1rF8VGIeSE4EGNuTCajFUr) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Lucia Mendez Canta Un Homenaje A Juan Gabriel](https://open.spotify.com/album/0kumbFfu0fr0061adl4kFR) | 3:21 |
 | 56 | [Así fue](https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Eres tan distinta a todas](https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb) | 5:03 |
 | 57 | [El Dia Que Me Acaricies Lloraré](https://open.spotify.com/track/6zcdLtTcaqCT4KAtESlNiY) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 3:51 |
-| 58 | [Amor eterno](https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:00 |
-| 59 | [Viva Juan Gabriel / Popurrí](https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 7:57 |
+| 58 | [Viva Juan Gabriel / Popurrí](https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 7:57 |
+| 59 | [Amor eterno](https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:00 |
 | 60 | [Debo Hacerlo / Caray / Querida / Me Nace del Corazón \(Popurri Juan Gabriel\)](https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [En Acustico](https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw) | 5:19 |
 | 61 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/2KgbsDLZt3TllBRtFCwrx2) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [No Hay Mujeres Feas](https://open.spotify.com/album/16MRHu1XrPSBuoZ7f0wxeC) | 2:52 |
 | 62 | [Medley: Caray / Esta Noche Voy a Verla / Juntos](https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 7:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 | 100 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/6iU3Z1hIEXctO1xm3JQzfZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM) | 3:13 |
 
-Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMDc0ZWUxNjRkNjcyMmFhMTA3NWY1ZmM2ODlmMzkxYjQ1`
+Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMDJiODNlYTg0ZmQ1YWMyNzNjMTFjMTM5YzBjODRiODVj`

@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 44324,
+  "num_followers": 44359,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MzAwMiw1YzI3ZDdkNzc2NjM4YWJlMGU1N2E0YmRiYzM5Y2UzMDQ2OTIxNjJi",
+  "snapshot_id": "MzAwNCw2ZDRhYTVhZTQ3MzY1MGE2N2EwMDFlMmJlMGJkYTRlODVkMzc2OTVl",
   "tracks": [
+    {
+      "added_at": "2022-11-25 08:54:12",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/53QtBB62XZEkvGVoazcE4f"
+      },
+      "artists": [
+        {
+          "name": "Karl Meyer",
+          "url": "https://open.spotify.com/artist/2f9bz0POgpM78PM6Mbarjo"
+        }
+      ],
+      "duration_ms": 188362,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3xg2H9VTF8uW046sq1Grto"
+    },
     {
       "added_at": "2022-11-21 08:43:31",
       "album": {
@@ -399,22 +415,6 @@
       "duration_ms": 207268,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/7HyQKWEzycUMPaKnPWcZet"
-    },
-    {
-      "added_at": "2022-08-26 08:30:57",
-      "album": {
-        "name": "The Way You Move It",
-        "url": "https://open.spotify.com/album/3rmYMf2QUh3D78uBiZApw6"
-      },
-      "artists": [
-        {
-          "name": "James Juke",
-          "url": "https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf"
-        }
-      ],
-      "duration_ms": 220714,
-      "name": "The Way You Move It - Radio Edit",
-      "url": "https://open.spotify.com/track/50wq9ALHIyympgfiXUiHfq"
     },
     {
       "added_at": "2021-11-05 15:47:43",

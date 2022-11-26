@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Disturbed",
+  "description": "The hardest songs, loud. Very loud. Cover: Smashing Pumpkins",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 181447,
       "name": "\"Filthy\"",
       "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
@@ -225,6 +225,28 @@
       "duration_ms": 243560,
       "name": "AfterLife",
       "url": "https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2kqCjpvl8mEJU2GQ64EYGF"
+      },
+      "artists": [
+        {
+          "name": "LYELL",
+          "url": "https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y"
+        },
+        {
+          "name": "SkyDxddy",
+          "url": "https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114183,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/6oudjrcW0NjYCX71cMJy2c"
     },
     {
       "album": {
@@ -434,6 +456,24 @@
     },
     {
       "album": {
+        "name": "Auburn",
+        "url": "https://open.spotify.com/album/2nXUryORVWNeMtAGLCnXIr"
+      },
+      "artists": [
+        {
+          "name": "Motive Black",
+          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230621,
+      "name": "Auburn",
+      "url": "https://open.spotify.com/track/5vrW1zdDm9rX7Rz7XHBRWl"
+    },
+    {
+      "album": {
         "name": "Awaken Love",
         "url": "https://open.spotify.com/album/14Yjv6pmzJmUCqewnThxxq"
       },
@@ -625,7 +665,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 238143,
       "name": "Beguiled",
       "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
@@ -759,6 +799,24 @@
       "duration_ms": 245516,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/6nFt6XgvvCRweKbD2B3aPa"
+    },
+    {
+      "album": {
+        "name": "ATUM - Act I",
+        "url": "https://open.spotify.com/album/6lnwneHwAQkzRdRLf4W10i"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222739,
+      "name": "Beyond the Vale",
+      "url": "https://open.spotify.com/track/7DkojvD8hlZZETvBOZp1TI"
     },
     {
       "album": {
@@ -1725,6 +1783,24 @@
       "duration_ms": 233092,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4"
+    },
+    {
+      "album": {
+        "name": "Complete Collapse",
+        "url": "https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192553,
+      "name": "Complete Collapse",
+      "url": "https://open.spotify.com/track/7wdOqBy3UVKeQ1wPkHkAO1"
     },
     {
       "album": {
@@ -3824,6 +3900,24 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6fpqA0nA9YoIADNE3POe5Z"
+      },
+      "artists": [
+        {
+          "name": "Lansdowne",
+          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216844,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/79pTRPk4bqz34vh574c3TX"
+    },
+    {
+      "album": {
         "name": "Crisis Of Faith",
         "url": "https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW"
       },
@@ -4579,7 +4673,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 207457,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/0cvOGqcRWlJMTNI727XW1Z"
@@ -5075,7 +5169,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 205974,
       "name": "Let You Down (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/0TwK4x6GMaX8oXj8kRocku"
@@ -5310,6 +5404,24 @@
     },
     {
       "album": {
+        "name": "Love Abuser (Save Me)",
+        "url": "https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa"
+    },
+    {
+      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -5339,7 +5451,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 223392,
       "name": "Love is Red",
       "url": "https://open.spotify.com/track/7Bv3EeVZG2U79f51j483rk"
@@ -6155,7 +6267,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 227899,
       "name": "Omens",
       "url": "https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci"
@@ -7143,7 +7255,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 252761,
       "name": "Ringin' In My Head",
       "url": "https://open.spotify.com/track/1WvT1OcoGlm9g3Sjx9W3Gw"
@@ -7677,7 +7789,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 300916,
       "name": "Shivering (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
@@ -7947,7 +8059,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 294426,
       "name": "Soldier On!",
       "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
@@ -8557,7 +8669,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 237291,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/64donJ2nJTgqW711j5YoHl"
@@ -9095,6 +9207,24 @@
       "duration_ms": 185120,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/2jDgvn31FTHSYgTMavDv3v"
+    },
+    {
+      "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234945,
+      "name": "There\u2019s Fear In Letting Go",
+      "url": "https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4"
     },
     {
       "album": {
@@ -10427,7 +10557,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 271026,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/0oTYX6tG3Nas6dzleBXbh6"

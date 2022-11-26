@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain](/playlists/plain/37i9dQZF1DXboGlPhJFIp9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXboGlPhJFIp9)
 
-### [Electric Relaxation](https://open.spotify.com/playlist/37i9dQZF1DXboGlPhJFIp9)
+### [Relaxing Electric Guitar](https://open.spotify.com/playlist/37i9dQZF1DXboGlPhJFIp9)
 
-> The calming and pensive side of electric guitar\. Instrumental only.
+> Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,248 likes - 95 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,273 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 94 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 |
 | 95 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 |
 
-Snapshot ID: `MTY2ODcyOTY2MCwwMDAwMDAwMDg1Yjg2OGZhMGNkYmZjNWRkMDY3MmRiNzcwMDM2ZWU5`
+Snapshot ID: `MTY2OTM3MjcxOSwwMDAwMDAwMDdiYzdlOTBmOGM1YWNlM2E3ZjUzYmIyNjM2ZWI3YmNj`

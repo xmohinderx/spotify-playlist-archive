@@ -3328,6 +3328,24 @@
     },
     {
       "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224894,
+      "name": "I Just Want You",
+      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
+    },
+    {
+      "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6"
       },
@@ -5987,7 +6005,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194499,
       "name": "The Old Man Said - Radio Edit",
       "url": "https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv"

@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 107343,
+  "num_followers": 107437,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMwMjAwMCwwMDAwMDAwMGNlZTEzNGExZjUxMmZiZDMzNTBmODgxYzcyMDkxODll",
+  "snapshot_id": "MTY2OTMwMjAwMCwwMDAwMDAwMDljNzkyNjNjYjNhYTA3NzcyZWI0YmNkNTIzNmZjZTgx",
   "tracks": [
     {
       "added_at": "2022-11-24 15:00:00",
@@ -314,6 +314,14 @@
         {
           "name": "STUTS",
           "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "butaji",
+          "url": "https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I"
+        },
+        {
+          "name": "YONCE (Suchmos)",
+          "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
         }
       ],
       "duration_ms": 264732,
@@ -1035,6 +1043,22 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -1067,22 +1091,6 @@
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1167,22 +1175,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "move",
-      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "VIVID",
         "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
       },
@@ -1199,6 +1191,22 @@
       "duration_ms": 193120,
       "name": "VIVID",
       "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "move",
+      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1367,6 +1375,22 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "Iced Tea",
         "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
       },
@@ -1383,22 +1407,6 @@
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1459,18 +1467,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Y4",
-        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+        "name": "Frisco",
+        "url": "https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Fool 4 U",
-      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
+      "duration_ms": 222911,
+      "name": "Frisco",
+      "url": "https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

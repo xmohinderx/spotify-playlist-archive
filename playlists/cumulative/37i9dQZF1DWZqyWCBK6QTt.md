@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Sara James.
 
-381 songs - 23 hr 30 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
+382 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-09-24 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2021-09-24 | 2022-07-29 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 | 2022-10-13 |
+| [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-10-03 |  |
 | [Ex\-Factor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5EfIJ2ElBG4R1COH0Y6OHZ) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3JbrnUMiO5gRtb5jOxEk8r) | 6:11 | 2021-09-24 | 2022-07-29 |
 | [Faz uma loucura por mim \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:14 | 2022-03-24 |  |
 | [Feels \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3ZQ7nkVPz3DcFMpsp47e8m) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Spotify Singles](https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t) | 1:35 | 2022-03-24 | 2022-06-07 |
@@ -186,7 +187,7 @@
 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 | 2022-03-24 | 2022-11-13 |
 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO) | 2:44 | 2022-10-03 |  |
 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w) | 2:44 | 2021-09-24 | 2022-10-13 |
-| [Keep Ya Head Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/74sfJjVq74bYkxMQoOhH3r) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Spotify Singles](https://open.spotify.com/album/2NclReHquDka42tG31lbAY) | 2:43 | 2022-03-24 |  |
+| [Keep Ya Head Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/74sfJjVq74bYkxMQoOhH3r) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Spotify Singles](https://open.spotify.com/album/2NclReHquDka42tG31lbAY) | 2:43 | 2022-03-24 | 2022-11-26 |
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 | 2022-06-07 |  |
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 3:59 | 2022-03-24 | 2022-04-21 |
 | [Kiss \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7Kfpow0FQwvw3xxrRdXgf9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 4:03 | 2021-09-24 | 2022-07-29 |

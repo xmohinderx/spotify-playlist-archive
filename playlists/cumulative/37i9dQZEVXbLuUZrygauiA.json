@@ -3484,6 +3484,24 @@
     },
     {
       "album": {
+        "name": "Vengo Naciendo",
+        "url": "https://open.spotify.com/album/63CHm5FprtIb6QxpJUdFe3"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276706,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/1Uylg0vWobQ3TfqtbVIHH2"
+    },
+    {
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -3575,6 +3593,28 @@
       "duration_ms": 384880,
       "name": "El Breve Espacio En Que No Estas",
       "url": "https://open.spotify.com/track/5uJOoesM2WNaKktCalFKd0"
+    },
+    {
+      "album": {
+        "name": "Querido Pablo",
+        "url": "https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "El Breve Espacio en Que No Estas",
+      "url": "https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb"
     },
     {
       "album": {
@@ -5273,7 +5313,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -5389,7 +5429,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 128000,
       "name": "Idea 10",
       "url": "https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9"

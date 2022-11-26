@@ -110,6 +110,36 @@
     },
     {
       "album": {
+        "name": "Azul '22",
+        "url": "https://open.spotify.com/album/0LMmqUmCmVQGYoxQGXHh8p"
+      },
+      "artists": [
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241211,
+      "name": "Azul '22",
+      "url": "https://open.spotify.com/track/63Zz3bxDL27qxAb4KIuzAt"
+    },
+    {
+      "album": {
         "name": "B. D\u2019OR (feat. Wizkid)",
         "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
@@ -1183,7 +1213,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
@@ -2085,7 +2115,7 @@
           "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153108,

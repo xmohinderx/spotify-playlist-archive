@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=0IyWnw1PSRCm3TShrrq6Xg">Barto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,924 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,982 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 31 | [Vat 'n Bietjie](https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:12 |
 | 32 | [Kaap](https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Kaap](https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF) | 3:56 |
 | 33 | [Ophou](https://open.spotify.com/track/2vRJC11heZ6GqkmnqXTnrO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ophou](https://open.spotify.com/album/4DgQmYYVWDOszCGW7McXWe) | 3:32 |
-| 34 | [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 |
+| 34 | [Braaibroodjies](https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/4YoNjsXDZjPPlo4WqaNKT2) | 3:23 |
 | 35 | [Bring Dit](https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Bring Dit](https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku) | 2:52 |
 | 36 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 |
 | 37 | [Johnnie Blou](https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Johnnie Blou](https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 49 | [Kannie Sonder Jou Nie](https://open.spotify.com/track/1J0nJQxgno6jiHKAhdAO2G) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Jy Ken My Naam](https://open.spotify.com/album/5qKLrFVXNqfps1WvLPF4wF) | 3:26 |
 | 50 | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/track/7k7ZQJ375LWnwr27fodysE) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/album/1tNfmhPmCAvg0Myyyhl5fa) | 3:13 |
 
-Snapshot ID: `MTY2OTMyNzE0MCwwMDAwMDAwMDAyMTJkZGFlMjIxMDQ1MDE2OTllMjAwNDkwYjljZmJl`
+Snapshot ID: `MTY2OTMyNzE0MCwwMDAwMDAwMDA3NjdkN2JhODE4YjgyODMxY2ZmOTViMzQxNzkxYTkw`

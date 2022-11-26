@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,924 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,939 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 28 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
 | 29 | [Calle Luna Calle Sol](https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 3:48 |
 | 30 | [El Manicero](https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos, Vol\. 1](https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep) | 4:42 |
-| 31 | [Cui Cui](https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 4:47 |
-| 32 | [No No No](https://open.spotify.com/track/6kWG4fIWsx6Qf4b0kgRMXM) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/3ZS5ekQ7jFi2jtwnbg19Lx) | 5:27 |
+| 31 | [No No No](https://open.spotify.com/track/6kWG4fIWsx6Qf4b0kgRMXM) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/3ZS5ekQ7jFi2jtwnbg19Lx) | 5:27 |
+| 32 | [Cui Cui](https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 4:47 |
 | 33 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
 | 34 | [Juan Pachanga](https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:13 |
 | 35 | [Alo Alo](https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [Salsa De La Mata, Vol\. 2](https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk) | 4:51 |
 | 36 | [Prende El Fogón](https://open.spotify.com/track/5o1kiwkFXoJET4FW4pKtlE) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Desde Puerto Rico A Nueva York](https://open.spotify.com/album/1vqHcNBGzfBymZFfceTcML) | 5:12 |
 | 37 | [Brujeria](https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7), [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Yayo El Indio](https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG) | [Aqui Estoy Yo, Vol\. 1](https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry) | 3:27 |
 | 38 | [La Esquina Del Movimiento](https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Nelson Pinedo](https://open.spotify.com/artist/68YsvVAGVdlaJpk5sA21pq) | [¿Quién Será?](https://open.spotify.com/album/1RajdvWppURk9ULx1dzNSV) | 2:36 |
-| 39 | [Marejada Feliz](https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 9](https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT) | 7:22 |
-| 40 | [Azúcar](https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Azúcar pa' Ti](https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT) | 9:29 |
+| 39 | [Azúcar](https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Azúcar pa' Ti](https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT) | 9:29 |
+| 40 | [Marejada Feliz](https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 9](https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT) | 7:22 |
 | 41 | [Salsa Y Sabor](https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Para los Rumberos](https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P) | 3:01 |
 | 42 | [Traigo Salsa](https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 4:16 |
 | 43 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 46 | [Patillero](https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Patillero](https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR) | 3:27 |
 | 47 | [Te conozco bacalao](https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb) | [El Combo Belga](https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve) | [Rompiendo clave](https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v) | 4:24 |
 | 48 | [Ella Quiere Salsa](https://open.spotify.com/track/6bWzqEarZ6n92VxLYRMxwD) | [Grupo Clase](https://open.spotify.com/artist/4oIdA7cUUwR7d4fVRVH1fu) | [Al Son Que Me Toquen, Vol\. 1](https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i) | 4:09 |
-| 49 | [Rumba En El Patio](https://open.spotify.com/track/2nCRjY5GCdAmZwQnjsCVro) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [El Gigante del Sur](https://open.spotify.com/album/3dnroWv7dsrbXlx9uHG0xZ) | 4:34 |
-| 50 | [Pan De Piquito](https://open.spotify.com/track/4st0c4ezBpkYAXpfO0SLs2) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:57 |
+| 49 | [Pan De Piquito](https://open.spotify.com/track/4st0c4ezBpkYAXpfO0SLs2) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:57 |
+| 50 | [Rumba En El Patio](https://open.spotify.com/track/2nCRjY5GCdAmZwQnjsCVro) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [El Gigante del Sur](https://open.spotify.com/album/3dnroWv7dsrbXlx9uHG0xZ) | 4:34 |
 
-Snapshot ID: `MTU4NjgyMjU1OCwwMDAwMDAwMDMxMDE1ZmI3ZDk3OThkNzcwMjRmMzA5NmNkZWJiMjFi`
+Snapshot ID: `MTU4NjgyMjU1OCwwMDAwMDAwMGZmZWI4ODU3YjRmNDdmNzZiZWExZTMwN2U5NzhmY2Q3`

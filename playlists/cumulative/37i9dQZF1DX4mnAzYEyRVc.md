@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-465 songs - 1 day 2 hr 56 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+466 songs - 1 day 3 hr 0 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Everything Went Numb](https://open.spotify.com/track/2I3HfKZFH69dLwhapHrI9o) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Everything Goes Numb](https://open.spotify.com/album/1QP8LbDOWw9ZVZsbaVgtCl) | 3:29 | 2021-12-06 | 2022-07-25 |
 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 | 2021-12-06 |  |
 | [Fashion Zombies!](https://open.spotify.com/track/6T2QCAFNrCOuLOJmF8H1dU) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Charge!!](https://open.spotify.com/album/62UiaxK6Q7ptEnzADhUGUB) | 3:16 | 2021-12-06 |  |
-| [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 | 2022-07-15 |  |
+| [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 | 2022-07-15 | 2022-11-26 |
 | [Festa Al Local](https://open.spotify.com/track/72L9o8kk68xhLE8xBtQrR0) | [Guaita'ls](https://open.spotify.com/artist/2OtUO9OGsQjdAWeq89dxuW) | [Boss Sounds Catalunya](https://open.spotify.com/album/57AJ86gJ04iblyD2dmnm1N) | 3:36 | 2021-12-06 | 2022-06-22 |
 | [Festuc Dance](https://open.spotify.com/track/5KDPg7eTUDhwtrgLcFTJuT) | [Amusic Skazz Band](https://open.spotify.com/artist/0GEmS4ca3mN3hbQvIL2Myg) | [Jazzing You](https://open.spotify.com/album/3NDT7eqCEnEVe5PH4tHfIu) | 3:52 | 2021-12-06 | 2022-07-27 |
 | [Fistful of Satisfaction](https://open.spotify.com/track/4SWOdCAwIDoSI25YDDbMiV) | [K\-Mob](https://open.spotify.com/artist/0O0sY03FZ4VLokfqRFBOoz) | [Cushdy](https://open.spotify.com/album/1hbY5AjK0UKzabXgzEenrI) | 4:45 | 2021-12-06 | 2022-06-29 |
@@ -213,6 +213,7 @@
 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 | 2021-12-06 |  |
 | [Los Salvajes](https://open.spotify.com/track/12KToB0SxsA1VYNNZzw6ja) | [Los Guanábana](https://open.spotify.com/artist/3K6qSfggEeueKbIWttYWJe) | [Los Salvajes](https://open.spotify.com/album/1j5v9mz2gERAWz07Qnwmw5) | 3:32 | 2021-12-06 |  |
 | [Love and Affection](https://open.spotify.com/track/56N0hi6bmzEpxLg2FQtZI9) | [Western Standard Time Ska Orchestra](https://open.spotify.com/artist/307wefpFQglED5zeNdeDSA) | [Western Standard Time Ska Orchestra](https://open.spotify.com/album/2esCNfzDvwXfg1wgeKoJ7s) | 2:37 | 2021-12-06 | 2022-07-24 |
+| [LOVELY](https://open.spotify.com/track/2p6nat27bxB2AMzlthwCCl) | [The SKAMOTTS](https://open.spotify.com/artist/0wTU8u6R5Gk5cDeBc7JdMa) | [LOVELY](https://open.spotify.com/album/2HLRvFbuH5bSVPfF6pKR5T) | 3:49 | 2022-11-25 |  |
 | [Luces](https://open.spotify.com/track/5hSbnfAhzymyRPrKLbUlFI) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50) | [Luces](https://open.spotify.com/album/6ly1Y9KawTXwqLzT93xMDG) | 4:27 | 2021-12-06 | 2022-07-28 |
 | [Luchadora](https://open.spotify.com/track/1fMbKuoUklDvMear8SpfJa) | [Burkina Ska](https://open.spotify.com/artist/5ch7iYXGW1nQHgqHz53Bg2) | [Un Paso al Frente](https://open.spotify.com/album/7scyeZx4xjAOf8HrbcJefO) | 2:56 | 2021-12-06 | 2022-07-27 |
 | [Lullaby for a Rude Girl](https://open.spotify.com/track/0EVTbdfyCO5G0kRRdHdHLc) | [Dr\. Deadlock](https://open.spotify.com/artist/3V3A6oARyaaDkjNeS2hfLG), [Conga Line](https://open.spotify.com/artist/5aYQ2l0kqx6DJiVC79lYkq) | [Conga Line](https://open.spotify.com/album/0lmWwX4lyeCdammdJVdXIv) | 3:51 | 2021-12-06 | 2022-07-27 |
@@ -309,12 +310,12 @@
 | [Que Pex!](https://open.spotify.com/track/3VKXddmjTLXEZIQbo7VQdR) | [Matamoska!](https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe) | [M Is for Murder!](https://open.spotify.com/album/4PE95wRUTjyOUu8xv2zCBN) | 2:58 | 2021-12-06 | 2022-07-29 |
 | [Queensland \(1986\)](https://open.spotify.com/track/3NR30Jc8UT5RAAeUZyFEwO) | [The Funaddicts](https://open.spotify.com/artist/4rpjkmvdM7kjnSMeWc3AXv) | [What's the Rush?](https://open.spotify.com/album/6cnUxPhagWlCrCTKacyJDD) | 3:41 | 2021-12-06 | 2022-06-14 |
 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/6sCAmUEUKyoTUT5j3Ax2YH) | [Ska\-J](https://open.spotify.com/artist/4Ztrfx8ru9RVCjpUM9TdMt) | [Cielo...mio marito!](https://open.spotify.com/album/3twpi7Sq3MMPTHElt8YH4X) | 2:54 | 2021-12-06 | 2022-07-29 |
-| [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 | 2022-03-09 |  |
+| [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 | 2022-03-09 | 2022-11-26 |
 | [Rastablanc](https://open.spotify.com/track/6SKGFQuZCn8uzPFk6cmnwI) | [Deskarats](https://open.spotify.com/artist/2Uyrnxu8EY0owd057n0MA4) | [Embolingats \- Homenatge a Skatalà](https://open.spotify.com/album/3rCHdRvA1sbLojXKMj927u) | 4:12 | 2021-12-06 | 2022-07-29 |
 | [Recuerdos](https://open.spotify.com/track/4mQ7XHNUwNGZkBN5vUXiik) | [Brixton Sounds](https://open.spotify.com/artist/7LqzPFLL2aPMtoI9oRE37C) | [Fiebre, Locura y Pasión](https://open.spotify.com/album/44ndcBxhMIRu43dh5vtGrW) | 3:48 | 2021-12-06 | 2022-07-28 |
 | [Reggae & Ska](https://open.spotify.com/track/0l7Wmyq4F0XAlIIYSasJ8Q) | [Judge Dread](https://open.spotify.com/artist/2Mn4nQqUerOfqG1CQt9mhY) | [Reggae & Ska \(Original\)](https://open.spotify.com/album/4rAD1AviiP0myOeRPuwsVm) | 2:30 | 2021-12-06 | 2022-07-27 |
 | [Relajación](https://open.spotify.com/track/4FnyZuFPctSWYVpWb7pmV1) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo Tiempo Pasado Fue Peor \(Estúpidas guerras\) \[Señalados\]](https://open.spotify.com/album/72AOxklWXO9lXRyfEUpecn) | 2:50 | 2021-12-06 | 2022-07-27 |
-| [Ribbon](https://open.spotify.com/track/6XuTr7IAJzqeYRGpH921as) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [SKA=ALMIGHTY](https://open.spotify.com/album/29JIgqdr03TsrbOs9CvObS) | 3:57 | 2021-12-06 | 2022-11-13 |
+| [Ribbon](https://open.spotify.com/track/6XuTr7IAJzqeYRGpH921as) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [SKA=ALMIGHTY](https://open.spotify.com/album/29JIgqdr03TsrbOs9CvObS) | 3:57 | 2021-12-06 |  |
 | [Robbery](https://open.spotify.com/track/2o7IXJqbrRESHwtGmzUq1Q) | [See Spot](https://open.spotify.com/artist/2CVMOauC3N3KcThvN98zGE) | [The Robbery](https://open.spotify.com/album/5eM8QBWNBvaJ9ZlOglexdF) | 2:51 | 2021-12-06 | 2022-07-29 |
 | [Rolled Up](https://open.spotify.com/track/6K8hK9VfSqlOWby6v4O0a8) | [Long Beach Dub Allstars](https://open.spotify.com/artist/3zAxGWQqKmDnAsCY57ihKR) | [Wonders Of The World](https://open.spotify.com/album/1mL3ujun8jq6Jd8Mp24kp6) | 3:14 | 2021-12-06 |  |
 | [Rude Boy \(Vocal\)](https://open.spotify.com/track/1jym8HW0dg5yKiEqKCwgLY) | [The OzSkas](https://open.spotify.com/artist/1ZL59Ge0pF8ZsooC2vEnsr) | [Rude Boy](https://open.spotify.com/album/3r8bAbEVhzERSA197cd5dq) | 3:34 | 2021-12-06 | 2022-07-16 |

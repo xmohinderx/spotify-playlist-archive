@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-161 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+162 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 | 2021-12-09 |  |
 | [La vie sans tempête](https://open.spotify.com/track/443UYWttxhi3XVPHaD261k) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [La vie sans tempête](https://open.spotify.com/album/013YBPhL4svBS05w8IEoNK) | 2:17 | 2021-12-09 |  |
 | [Largo](https://open.spotify.com/track/0kyoafwrCw1YoY1vy8ULWI) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Largo](https://open.spotify.com/album/6uN9lAKq2SWb9NKeyVuZWG) | 2:05 | 2022-10-14 |  |
+| [Les Yeux Noisette](https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Les Yeux Noisette](https://open.spotify.com/album/4L3J11sHAt33LIzhGMyuCU) | 2:22 | 2022-11-25 |  |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2021-12-09 | 2022-04-06 |
 | [Linens](https://open.spotify.com/track/0UwvM6Pn8jWh3cNWQunjt0) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:56 | 2021-12-09 |  |
 | [Lonely Prayer](https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Lonely Prayer](https://open.spotify.com/album/0dz5PGLVD6QEdPtYWJShbq) | 2:47 | 2021-12-09 | 2022-06-10 |

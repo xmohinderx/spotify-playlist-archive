@@ -2,9 +2,9 @@
 
 ### [Alt NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> Måneskin along with the top Alternative songs of today.
+> WILLOW along with the top Alternative songs of today.
 
-232 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
+233 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-06-25 | 2022-02-05 |
 | [Distorted Light Beam](https://open.spotify.com/track/1Z1Swejv14UoCFKPlFIXA9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:57 | 2022-02-04 | 2022-02-19 |
 | [Don't Let the Light Go Out](https://open.spotify.com/track/0eVyU7CnlKmjzqyC7XNTZk) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Beautiful Trending Hits 2022](https://open.spotify.com/album/0CJVsS1o9gbjQFqxmErubK) | 3:49 | 2022-11-04 | 2022-11-13 |
-| [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 | 2022-09-30 |  |
+| [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 | 2022-09-30 | 2022-11-26 |
 | [Don't Let The Light Go Out](https://open.spotify.com/track/2lCyQnftM6ptqC3vk7qeao) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Don’t Let The Light Go Out](https://open.spotify.com/album/12sVYYyzqFcgA6o3yqCx5i) | 3:49 | 2022-08-19 | 2022-10-06 |
 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 | 2022-11-11 |  |
 | [Dummy](https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy \(Deluxe\)](https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW) | 3:16 | 2022-11-18 |  |
@@ -165,6 +165,7 @@
 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 | 2021-10-22 | 2022-04-23 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-25 | 2022-05-07 |
 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 | 2022-07-01 | 2022-11-05 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-25 |  |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-01 | 2022-09-17 |
 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 | 2022-11-11 |  |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2022-08-20 |

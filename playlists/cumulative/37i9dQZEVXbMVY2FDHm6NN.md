@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-80 songs - 5 hr 0 min - not published yet
+82 songs - 5 hr 7 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-07 | 2022-10-22 |
 | [Crush On](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:01 | 2022-10-14 | 2022-10-22 |
 | [DICE](https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2022-09-30 | 2022-10-15 |
-| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-18 |  |
+| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-18 | 2022-11-26 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-09-30 | 2022-10-08 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-09-30 | 2022-10-29 |
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-30 | 2022-10-08 |
@@ -26,7 +26,7 @@
 | [I'm Alive](https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I'm Alive](https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji) | 2:52 | 2022-09-30 |  |
 | [ILLELLA](https://open.spotify.com/track/34vqTQQDhOppwZDbpOJoip) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/2Mg8o2HDAbaGqbLtnNuVUX) | 2:46 | 2022-10-21 | 2022-11-12 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-21 |  |
-| [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-28 |  |
+| [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-28 | 2022-11-26 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-09-30 | 2022-10-15 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-14 |  |
 | [Letting Go](https://open.spotify.com/track/6FSOibqLCbhFrmGdqMbwiZ) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [說到愛](https://open.spotify.com/album/4yAISmg3ZMOxPM3t4wTrVn) | 4:23 | 2022-09-30 |  |
@@ -68,15 +68,17 @@
 | [愛上你算我賤](https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [REAL LIFE](https://open.spotify.com/album/61lJ7RLdtuMb8vxZB47W4i) | 4:10 | 2022-09-30 |  |
 | [愛人錯過](https://open.spotify.com/track/27FOde2nUw0pFuj7hlPbaS) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 4:52 | 2022-10-07 |  |
 | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/track/4fJlSLYLiu5trFCMZdSQDC) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/album/0VqgheMWJatfAl6njk2DL8) | 3:52 | 2022-09-30 |  |
-| [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2022-09-30 | 2022-10-15 |
+| [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2022-09-30 |  |
 | [我就想你](https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 3:24 | 2022-11-11 |  |
 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 | 2022-09-30 |  |
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2022-09-30 |  |
+| [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-11-25 |  |
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-09-30 | 2022-10-15 |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-09-30 | 2022-10-29 |
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-09-30 |  |
+| [最後一次心碎](https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [最後一次心碎](https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD) | 2:48 | 2022-11-25 |  |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2022-11-04 |  |
-| [满天星辰不及你](https://open.spotify.com/track/09io3vVKFutG8rzdjjQYfM) | [yccc](https://open.spotify.com/artist/688ekAE2qdQA7jJbmqcXGL) | [满天星辰不及你](https://open.spotify.com/album/6AvfkqnDNGX27Lz7C02mIt) | 3:36 | 2022-11-11 |  |
+| [满天星辰不及你](https://open.spotify.com/track/09io3vVKFutG8rzdjjQYfM) | [yccc](https://open.spotify.com/artist/688ekAE2qdQA7jJbmqcXGL) | [满天星辰不及你](https://open.spotify.com/album/6AvfkqnDNGX27Lz7C02mIt) | 3:36 | 2022-11-11 | 2022-11-26 |
 | [炙愛 \- 女聲版](https://open.spotify.com/track/3CEkc8f1UDvI7kohz3ARpA) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Am I Who I Am](https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1) | 3:01 | 2022-09-30 |  |
 | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/track/3eab5IX1gKr3UOfk3zV06e) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/album/5Y6JkAQCHC2TYmkzMNzPwi) | 4:06 | 2022-11-18 |  |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-14 | 2022-10-22 |

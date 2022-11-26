@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-193 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+194 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Because It's You](https://open.spotify.com/track/6iCTKW1p8y1NPtwQ1bJaxH) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [First Time](https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC) | 3:52 | 2022-05-11 | 2022-07-13 |
 | [being friends suck](https://open.spotify.com/track/3ZheaNstMAwG3uTbAoaZCG) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [GirlFrenD](https://open.spotify.com/artist/3HFox5DosAsJrKOwfwTf2A) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:09 | 2022-05-11 | 2022-07-24 |
 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 | 2022-05-11 |  |
+| [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-11-26 |  |
 | [BOKE](https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BOKE](https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD) | 3:04 | 2022-05-11 |  |
 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 | 2022-05-11 |  |
 | [Book](https://open.spotify.com/track/2nCJFTqCDjEYLJR151Fd5B) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:11 | 2022-05-11 | 2022-07-28 |
@@ -160,7 +161,7 @@
 | [T3T..](https://open.spotify.com/track/6xB6eu2lhRILGMiA14A7eH) | [Truly](https://open.spotify.com/artist/02x3lVhWglPdVux5KJTQOb) | [T3T..](https://open.spotify.com/album/0heIoSQVBOTVbxDxx1SSEa) | 3:20 | 2022-05-11 | 2022-06-28 |
 | [Take Me \(with 11Kitties\)](https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Take Me](https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz) | 3:45 | 2022-07-04 |  |
 | [Take You High](https://open.spotify.com/track/7zvDMuetv3lPGvWhuS0fPx) | [Park SoYu](https://open.spotify.com/artist/68yMfuTg2cuK4Kh6RT9AKy) | [Night Greetings](https://open.spotify.com/album/6PlLisyP3v4gqNKXs53KqS) | 3:59 | 2022-06-09 | 2022-07-26 |
-| [TENNIS](https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy) | 4:34 | 2022-05-11 |  |
+| [TENNIS](https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy) | 4:34 | 2022-05-11 | 2022-11-26 |
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2022-05-11 | 2022-07-23 |
 | [The Theater](https://open.spotify.com/track/32DpcsdvyzseJWwjjOetkL) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [The Theater](https://open.spotify.com/album/3SuhEMydqNp4tk7q45yTDP) | 2:45 | 2022-06-20 | 2022-07-28 |
 | [The wrong picture \(feat\. TONLIZ\)](https://open.spotify.com/track/01zLsmh6WS5kji3dpq8H8S) | [99PRBLM](https://open.spotify.com/artist/48k4RRZzAu8aBh2oGtcCPn), [TONLIZ](https://open.spotify.com/artist/6SlooEKoamDl63pLAHmTU8) | [The wrong picture \(feat\. TONLIZ\)](https://open.spotify.com/album/3ExFIr5FipA8ekCXrjkv8Q) | 3:34 | 2022-06-20 | 2022-07-16 |

@@ -3442,6 +3442,24 @@
     },
     {
       "album": {
+        "name": "What\u2019s on Your Mind?",
+        "url": "https://open.spotify.com/album/5Mb8GVBFQNPoLtiLHBGCTF"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "What\u2019s on Your Mind?",
+      "url": "https://open.spotify.com/track/4W2c3LX6S00WBhqUpdTy1A"
+    },
+    {
+      "album": {
         "name": "Who Are You",
         "url": "https://open.spotify.com/album/4CW4C79y9O1GK6Iln645R6"
       },

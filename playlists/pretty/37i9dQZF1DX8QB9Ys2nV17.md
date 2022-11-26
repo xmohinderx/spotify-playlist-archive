@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,798 likes - 55 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,806 likes - 55 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 27 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 | 28 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 |
 | 29 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
-| 30 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
-| 31 | [I'm A Woman](https://open.spotify.com/track/0HPazJXESVCimRyMggplg5) | [Deborah Coleman](https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny) | [Soft Place To Fall](https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN) | 4:51 |
+| 30 | [I'm A Woman](https://open.spotify.com/track/0HPazJXESVCimRyMggplg5) | [Deborah Coleman](https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny) | [Soft Place To Fall](https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN) | 4:51 |
+| 31 | [The Best Thing](https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 4:52 |
 | 32 | [Nowhere Left to Go](https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU) | [Nowhere Left to Go](https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd) | 3:47 |
-| 33 | [The Best Thing](https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 4:52 |
+| 33 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
 | 34 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 35 | [The Ice Queen](https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [The Ice Queen](https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe) | 6:23 |
 | 36 | [Heavy Hearts Hard Fists](https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml) | 3:17 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 54 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 | 55 | [Call on God](https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 3:37 |
 
-Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMGZmNDVmZmI5ZTQyNThkYzI4MDlkOTJiMGY5MmRhZGNk`
+Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMDA5ZDA0MDUzM2I1NWYxZDAxYjU0MTA5NjZhOTBmMzM1`

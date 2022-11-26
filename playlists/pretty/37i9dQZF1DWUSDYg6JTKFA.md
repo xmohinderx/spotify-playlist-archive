@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,425 likes - 65 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,519 likes - 65 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 19 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
 | 20 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 21 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
-| 22 | [Heaven Help Me](https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:22 |
-| 23 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
+| 22 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
+| 23 | [Heaven Help Me](https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:22 |
 | 24 | [The River](https://open.spotify.com/track/3gQC0KTBXZeysuzRqMrfbD) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Beloved](https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1) | 3:15 |
 | 25 | [Until Grace](https://open.spotify.com/track/52stVyuGiZ0QOWAAb27ZY4) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:36 |
 | 26 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 55 | [You Are Loved](https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 3:26 |
 | 56 | [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 |
 | 57 | [That Was Then, This Is Now](https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [That Was Then, This Is Now](https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq) | 3:17 |
-| 58 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
-| 59 | [My Hope Is in You](https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe \(Deluxe Edition\)](https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD) | 4:14 |
-| 60 | [Seasons](https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 4:34 |
+| 58 | [My Hope Is in You](https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe \(Deluxe Edition\)](https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD) | 4:14 |
+| 59 | [Seasons](https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 4:34 |
+| 60 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
 | 61 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
 | 62 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
 | 63 | [In The Name Of Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 3:25 |
-| 64 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
-| 65 | [Your Words \(feat\. Harvest\) \(feat\. Harvest\)](https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [Harvest](https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:58 |
+| 64 | [Your Words \(feat\. Harvest\) \(feat\. Harvest\)](https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [Harvest](https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:58 |
+| 65 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
 
-Snapshot ID: `MTU5NTUxNTA5NiwwMDAwMDAwMDI1ZWQ2ZTcxOTNhOGJmYjk4ZWIwMTZkMGZlNjRjMjNk`
+Snapshot ID: `MTU5NTUxNTA5NiwwMDAwMDAwMGQzMmU5ZDBjNmFiMTczNDBhZGFkYjAwZmQ4MTMyMjI5`

@@ -1,13 +1,29 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Sam Smith",
-  "num_followers": 210252,
+  "num_followers": 211075,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODgyMDM3MCwwMDAwMDAwMGEzNzBkZGNhOTQ2MDBlMTViOGUwYWY5ZTM4MzI4YzJm",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDNhZmIwODY4NTNhNWIxOGQwMWM1NWFiNTc4ZDQ3MTYx",
   "tracks": [
+    {
+      "added_at": "2022-10-25 22:26:11",
+      "album": {
+        "name": "Merry Christmas, Y\u2019all",
+        "url": "https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 141586,
+      "name": "It\u2019s Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/6kfDpP0HWb9Q67iaPs5HZw"
+    },
     {
       "added_at": "2022-11-18 19:29:30",
       "album": {
@@ -23,38 +39,6 @@
       "duration_ms": 216220,
       "name": "Night Before Christmas",
       "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
-    },
-    {
-      "added_at": "2022-11-18 19:29:30",
-      "album": {
-        "name": "Last Christmas / Winter Wonderland",
-        "url": "https://open.spotify.com/album/4UvWqFOHO52TlLLEANkeqr"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/2C4YYe2aqRXKdKmb2nbUVr"
-    },
-    {
-      "added_at": "2022-11-18 19:29:30",
-      "album": {
-        "name": "Driving Home for Christmas (Spotify Singles Holiday)",
-        "url": "https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 221398,
-      "name": "Driving Home for Christmas - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/0yCuAztZbBfa3eg2fRaxyl"
     },
     {
       "added_at": "2022-10-25 22:26:11",
@@ -95,6 +79,118 @@
     {
       "added_at": "2022-11-18 19:29:30",
       "album": {
+        "name": "Last Christmas / Winter Wonderland",
+        "url": "https://open.spotify.com/album/4UvWqFOHO52TlLLEANkeqr"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2C4YYe2aqRXKdKmb2nbUVr"
+    },
+    {
+      "added_at": "2022-11-18 19:29:30",
+      "album": {
+        "name": "Driving Home for Christmas (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 221398,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/0yCuAztZbBfa3eg2fRaxyl"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/5mbIWRgO06zmSPPi9PL4Km"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 131328,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/4s0tYJnBSApvZ2qfBZbbVP"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Because It's Christmas",
+        "url": "https://open.spotify.com/album/66dvNhgCyN9ltRO7Pbt4Kz"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 199283,
+      "name": "Because It's Christmas",
+      "url": "https://open.spotify.com/track/2bnCUBgmqbirSSyUWiK1jw"
+    },
+    {
+      "added_at": "2022-11-18 19:29:30",
+      "album": {
+        "name": "Single On The 25th",
+        "url": "https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 161184,
+      "name": "Single On The 25th",
+      "url": "https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16"
+    },
+    {
+      "added_at": "2022-11-11 20:44:17",
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+    },
+    {
+      "added_at": "2022-11-18 19:29:30",
+      "album": {
         "name": "Christmas Tree Farm - Spotify Singles",
         "url": "https://open.spotify.com/album/2qA6ipSGFgsVG6cXrFBbOx"
       },
@@ -125,6 +221,142 @@
       "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Cozy Christmas / December Baby",
+        "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 237953,
+      "name": "Cozy Christmas",
+      "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
+    },
+    {
+      "added_at": "2022-11-18 19:29:30",
+      "album": {
+        "name": "Seat At The Table",
+        "url": "https://open.spotify.com/album/5BEAFUm1QHZrzYeEXTCS1r"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 191635,
+      "name": "Seat At The Table",
+      "url": "https://open.spotify.com/track/0OhlmucNUv1KsJcm4rYU7o"
+    },
+    {
+      "added_at": "2022-11-11 20:44:17",
+      "album": {
+        "name": "Cry Christmas",
+        "url": "https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Cry Christmas",
+      "url": "https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez"
+    },
+    {
+      "added_at": "2022-11-12 00:27:34",
+      "album": {
+        "name": "It's Almost Christmas",
+        "url": "https://open.spotify.com/album/2wxHZ6ht0voWVM2kb8nCiY"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        }
+      ],
+      "duration_ms": 231060,
+      "name": "It's Almost Christmas",
+      "url": "https://open.spotify.com/track/4KZcqAcWleiOuz5y6cOdNE"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Falling For Christmas (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lohan",
+          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+        },
+        {
+          "name": "Ali Tomineek",
+          "url": "https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM"
+        }
+      ],
+      "duration_ms": 176279,
+      "name": "Jingle Bell Rock (from the Netflix Film \"Falling For Christmas\")",
+      "url": "https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE"
+    },
+    {
+      "added_at": "2022-11-11 20:44:17",
+      "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/21Txm9MFkx4lEuO4h7CAFY"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "duration_ms": 177127,
+      "name": "Cheer",
+      "url": "https://open.spotify.com/track/4pK7lH8K4GrsRIWcJ9DTFk"
+    },
+    {
+      "added_at": "2022-10-25 22:26:11",
+      "album": {
+        "name": "What Christmas Means to Me",
+        "url": "https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "What Christmas Means to Me",
+      "url": "https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Holiday Party",
+        "url": "https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Holiday Party",
+      "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
+    },
+    {
       "added_at": "2022-11-18 19:29:30",
       "album": {
         "name": "Blue Christmas",
@@ -143,22 +375,6 @@
     {
       "added_at": "2022-11-18 19:29:30",
       "album": {
-        "name": "Single On The 25th",
-        "url": "https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 161184,
-      "name": "Single On The 25th",
-      "url": "https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16"
-    },
-    {
-      "added_at": "2022-11-18 19:29:30",
-      "album": {
         "name": "I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/3Es0nbwli8bIfJTRgAHwAQ"
       },
@@ -171,6 +387,22 @@
       "duration_ms": 179756,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/7vFVPwwMqUsS7RqN7k824W"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Waiting On A Miracle",
+        "url": "https://open.spotify.com/album/2azuAWPuD65l91vwJDZ0PC"
+      },
+      "artists": [
+        {
+          "name": "Violet Skies",
+          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "Waiting On A Miracle",
+      "url": "https://open.spotify.com/track/2P59qa8ZlfJVjzKDbq5YQH"
     },
     {
       "added_at": "2022-11-18 19:29:30",
@@ -243,22 +475,6 @@
     {
       "added_at": "2022-11-18 19:29:30",
       "album": {
-        "name": "Seat At The Table",
-        "url": "https://open.spotify.com/album/5BEAFUm1QHZrzYeEXTCS1r"
-      },
-      "artists": [
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 191635,
-      "name": "Seat At The Table",
-      "url": "https://open.spotify.com/track/0OhlmucNUv1KsJcm4rYU7o"
-    },
-    {
-      "added_at": "2022-11-18 19:29:30",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas / Marshmallow World",
         "url": "https://open.spotify.com/album/50TrLFhQ6l7bDC73Ktr7jh"
       },
@@ -305,22 +521,6 @@
       "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
     },
     {
-      "added_at": "2022-10-25 22:26:11",
-      "album": {
-        "name": "Merry Christmas, Y\u2019all",
-        "url": "https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 141586,
-      "name": "It\u2019s Beginning To Look A Lot Like Christmas",
-      "url": "https://open.spotify.com/track/6kfDpP0HWb9Q67iaPs5HZw"
-    },
-    {
       "added_at": "2022-11-18 19:29:30",
       "album": {
         "name": "Warm In December",
@@ -353,20 +553,24 @@
       "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Christmas (Baby Please Come Home)",
-        "url": "https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2"
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/2nxxZBXTbqXCZActyVloGW"
       },
       "artists": [
         {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+          "name": "Mila Jam",
+          "url": "https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a"
+        },
+        {
+          "name": "Trans Chorus of Los Angeles",
+          "url": "https://open.spotify.com/artist/4TtD6XNkJlufh7J0quit2c"
         }
       ],
-      "duration_ms": 162840,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL"
+      "duration_ms": 213956,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5XJDLmBGgralQiFdxkBhVN"
     },
     {
       "added_at": "2022-11-18 19:29:30",
@@ -389,22 +593,6 @@
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
     },
     {
-      "added_at": "2022-10-25 22:26:11",
-      "album": {
-        "name": "What Christmas Means to Me",
-        "url": "https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "What Christmas Means to Me",
-      "url": "https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF"
-    },
-    {
       "added_at": "2022-11-18 19:29:30",
       "album": {
         "name": "thank you wisdom angel i love you",
@@ -419,42 +607,6 @@
       "duration_ms": 175214,
       "name": "silver bells",
       "url": "https://open.spotify.com/track/45gO8lL6LPBdHmnWvLeAqx"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Falling For Christmas (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Lohan",
-          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
-        },
-        {
-          "name": "Ali Tomineek",
-          "url": "https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM"
-        }
-      ],
-      "duration_ms": 176279,
-      "name": "Jingle Bell Rock (from the Netflix Film \"Falling For Christmas\")",
-      "url": "https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE"
-    },
-    {
-      "added_at": "2022-11-11 20:44:17",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
       "added_at": "2022-11-18 19:29:30",
@@ -535,22 +687,6 @@
       "duration_ms": 216208,
       "name": "C\u00f3mo Poder Olvidar - Spotify Singles",
       "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
-    },
-    {
-      "added_at": "2022-11-11 20:44:17",
-      "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/21Txm9MFkx4lEuO4h7CAFY"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 177127,
-      "name": "Cheer",
-      "url": "https://open.spotify.com/track/4pK7lH8K4GrsRIWcJ9DTFk"
     },
     {
       "added_at": "2022-11-18 19:29:30",
@@ -719,26 +855,6 @@
       "duration_ms": 153780,
       "name": "Wrapped Up In You",
       "url": "https://open.spotify.com/track/2064iNeDMPgM6YJwqfYeoP"
-    },
-    {
-      "added_at": "2022-11-12 00:27:34",
-      "album": {
-        "name": "It's Almost Christmas",
-        "url": "https://open.spotify.com/album/2wxHZ6ht0voWVM2kb8nCiY"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        },
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        }
-      ],
-      "duration_ms": 231060,
-      "name": "It's Almost Christmas",
-      "url": "https://open.spotify.com/track/4KZcqAcWleiOuz5y6cOdNE"
     },
     {
       "added_at": "2022-11-18 19:29:30",
@@ -1143,22 +1259,6 @@
     {
       "added_at": "2022-11-11 20:44:17",
       "album": {
-        "name": "Cry Christmas",
-        "url": "https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Cry Christmas",
-      "url": "https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez"
-    },
-    {
-      "added_at": "2022-11-11 20:44:17",
-      "album": {
         "name": "Rockin\u2019 Around the Christmas Tree",
         "url": "https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq"
       },
@@ -1187,22 +1287,6 @@
       "duration_ms": 231613,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Holiday Party",
-        "url": "https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Holiday Party",
-      "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
     },
     {
       "added_at": "2022-11-18 19:29:30",

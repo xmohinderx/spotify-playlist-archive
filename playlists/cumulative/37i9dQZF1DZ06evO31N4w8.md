@@ -4,7 +4,7 @@
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/0sYa4z4Qbp5n9iE99g3wrJ)
+66 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/0sYa4z4Qbp5n9iE99g3wrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Seria Una Flor](https://open.spotify.com/track/4gAEmR4qMioTuqRmKN9B3S) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:39 | 2022-06-01 |  |
 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 | 2022-06-01 |  |
 | [Suerte Perra](https://open.spotify.com/track/0UsKh6z2cpwvaMG8c70cYd) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Íconos 25 Éxitos](https://open.spotify.com/album/5sGSpfHovVN7Nvj4WWvZQR) | 2:28 | 2022-06-01 |  |
-| [Te Quiero Mucho](https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 3:23 | 2022-06-01 |  |
+| [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 | 2022-11-25 |  |
+| [Te Quiero Mucho](https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 3:23 | 2022-06-01 | 2022-11-26 |
 | [Tenía Razón Mi 'Amá](https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:01 | 2022-06-03 |  |
 | [Tu Nuevo Cariñito](https://open.spotify.com/track/5UCPSGLNI76qSbzPyMMyo2) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:55 | 2022-06-01 |  |
 | [Un Engaño Más](https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:52 | 2022-06-01 |  |

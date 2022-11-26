@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,041 songs - 2 day 7 hr 54 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+1,042 songs - 2 day 7 hr 57 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2021-08-29 | 2022-05-22 |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-05-28 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
+| [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2022-11-25 |  |
 | [Geronimo](https://open.spotify.com/track/6v85G6mHevBjdpylVuGNGB) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Geronimo](https://open.spotify.com/album/7ck2Cibgjw4kEAx9jfVhpN) | 2:32 | 2021-10-23 | 2021-10-31 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-05-10 | 2022-05-12 |
 | [Gigi](https://open.spotify.com/track/0qPKOJg7KdbZcm6bLTduO8) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 3:11 | 2022-06-04 | 2022-06-12 |
@@ -702,7 +703,7 @@
 | [Numéro 9](https://open.spotify.com/track/60lP1bVGsS0XytKQU4AnLa) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [Kekra](https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr) | 2:31 | 2021-04-04 | 2021-04-05 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-04 |
 | [Offishal](https://open.spotify.com/track/3hH4JiJWA57DmOSDmMNo73) | [Ambiance Skandal](https://open.spotify.com/artist/2n2jly4e9kmWEHSX8N0XUa) | [Offishal](https://open.spotify.com/album/1nfKasxAhhxkrHoLoyFx3D) | 2:40 | 2021-11-19 | 2021-11-26 |
-| [Offshore](https://open.spotify.com/track/7FSBBwk1A5N9dlm0zMnAEM) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 3:38 | 2022-11-19 |  |
+| [Offshore](https://open.spotify.com/track/7FSBBwk1A5N9dlm0zMnAEM) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 3:38 | 2022-11-19 | 2022-11-26 |
 | [OG](https://open.spotify.com/track/4rhBWOjhizvPajnOhp7q5H) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:47 | 2021-12-05 | 2022-01-08 |
 | [Oh mama oh](https://open.spotify.com/track/5Y4PCU2iZItuebZIEqVBZW) | [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW), [Tony La Famille](https://open.spotify.com/artist/7r658wXpS8MsudskxZV70p), [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr), [LIM](https://open.spotify.com/artist/4XpY5A2DRpbeIK4UiRN8VJ), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Hollis l'Infâme](https://open.spotify.com/artist/28YhgzqLjCrIQfKHgIQuBc), [Joker](https://open.spotify.com/artist/3kjfut5ogkfSvuj9931ESY), [R.E.D.K.](https://open.spotify.com/artist/0gnvHfvVVSQ7xcTVFC5TJk), [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ) | [Le classico organisé](https://open.spotify.com/album/5Qiln6hgo90OKyf9x0ci4y) | 6:36 | 2021-11-07 | 2021-11-11 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-11-22 |

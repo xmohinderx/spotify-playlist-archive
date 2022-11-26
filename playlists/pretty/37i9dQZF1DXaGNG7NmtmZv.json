@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 170661,
+  "num_followers": 170752,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDljMDI1Mzg4YmQwOWJlM2FmMmE2OWY0ZDJiZDkxYTgx",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDY5MzdkODA0ZjlhYjFiZjFlNTNjYWZkNGY5MTgxZmVh",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "The Current Will Carry Us",
-        "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "The Disconnect",
-      "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Scratch the Surface",
         "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 189026,
       "name": "Step Down",
       "url": "https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "The Current Will Carry Us",
+        "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The Disconnect",
+      "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+        "name": "Check Your People",
+        "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
       },
       "artists": [
         {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+          "name": "Downset",
+          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
         }
       ],
-      "duration_ms": 165720,
-      "name": "Scratch the Surface",
-      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
+      "duration_ms": 153173,
+      "name": "Pure Trauma",
+      "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Check Your People",
-        "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
-      },
-      "artists": [
-        {
-          "name": "Downset",
-          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
-        }
-      ],
-      "duration_ms": 153173,
-      "name": "Pure Trauma",
-      "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Voice of Rebellion",
         "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 241343,
       "name": "Voice of Rebellion",
       "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Scratch the Surface",
+      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "For Those Who Were Crucified",
-        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
-      },
-      "artists": [
-        {
-          "name": "All Out War",
-          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Burning Season",
-      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Everything You Know",
         "url": "https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 203440,
       "name": "Chasing the Dragon",
       "url": "https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "For Those Who Were Crucified",
+        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
+      },
+      "artists": [
+        {
+          "name": "All Out War",
+          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Burning Season",
+      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
-      },
-      "artists": [
-        {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "In This Defiance",
         "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 147186,
       "name": "Blistered",
       "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+      },
+      "artists": [
+        {
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
     },
     {
       "added_at": "2020-12-08 15:12:11",

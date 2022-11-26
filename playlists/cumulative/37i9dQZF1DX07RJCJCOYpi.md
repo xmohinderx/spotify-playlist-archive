@@ -2,9 +2,9 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The leading wave of Latin Electronic music\. Cover: Farruko
+> The leading wave of Latin Electronic music\. Cover: Gordo & Feid
 
-140 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+143 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Hanging Tree](https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Hanging Tree](https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S) | 2:53 | 2022-03-22 |  |
 | [Heartless \- Kidd Spin Remix](https://open.spotify.com/track/52PY71c5aNyFrCXpBGViMz) | [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ), [Kidd Spin](https://open.spotify.com/artist/2DMpyk6UvqyiQIfJdkFswE) | [Heartless \(Kidd Spin Remix\)](https://open.spotify.com/album/7HGBT7yVmnLCsIj58do4M0) | 3:07 | 2022-03-22 |  |
 | [Helicóptero](https://open.spotify.com/track/5PpwwiaSqIzLyzboENB4QO) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:46 | 2022-03-22 |  |
+| [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2022-11-25 |  |
 | [Horny](https://open.spotify.com/track/0nhV0dOGi7JzYxU47GZSpc) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat) | [Horny](https://open.spotify.com/album/2NEHtROeEsVy8LDmSumGS1) | 2:34 | 2022-03-22 | 2022-04-29 |
 | [HOT](https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:34 | 2022-04-20 |  |
 | [Huellas](https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Laguna](https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1), [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Huellas](https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG) | 3:48 | 2022-03-22 | 2022-04-29 |
@@ -72,6 +73,7 @@
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-06-06 |  |
 | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/album/0TgnR5s6e8YQMwQEZPvPuh) | 2:50 | 2022-03-22 | 2022-04-29 |
 | [La Tarde](https://open.spotify.com/track/0v2uMRnqJRCLGgnboVtq6A) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/2Gtkz11XYN5wtzafQFS8As) | 3:01 | 2022-06-23 |  |
+| [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 | 2022-11-25 |  |
 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 | 2022-07-14 |  |
 | [Legoo](https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Legoo](https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS) | 2:28 | 2022-03-22 | 2022-04-29 |
 | [Llorando en un Ferrari](https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:13 | 2022-03-22 |  |
@@ -146,6 +148,7 @@
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 |  |
 | [Vuela](https://open.spotify.com/track/6nJtkNn2xNPS7wnMqqxkUN) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60), [Dj Flechas](https://open.spotify.com/artist/5Fw4n5XRnte30eKCBAdwWH) | [Vuela](https://open.spotify.com/album/5uh94tIV50XBqUTR3trC2c) | 3:35 | 2022-03-22 | 2022-04-29 |
 | [Wanna Stop](https://open.spotify.com/track/1vj9zQwbID2XkPEsYOp59f) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Wanna Stop](https://open.spotify.com/album/3w65NF9vnUUXnphSZiof2L) | 2:33 | 2022-03-22 | 2022-05-14 |
+| [WAYO](https://open.spotify.com/track/5mZndhqE6tE6trjPjNFIk0) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [WAYO](https://open.spotify.com/album/4dFEytjjMaxCOUV7n4ndeD) | 3:57 | 2022-11-25 |  |
 | [We Outside \- Sak Noel & Salvi Remix](https://open.spotify.com/track/5hbSLOZkTwfSbAglosqKh1) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [Kronic](https://open.spotify.com/artist/2V30V0HJG5k0FKh3Zd3UnH), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat) | [We Outside \(Sak Noel & Salvi Remix\)](https://open.spotify.com/album/2AZmSJDDeiQmf0q0EMRyKG) | 2:37 | 2022-03-22 |  |
 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 | 2022-05-23 |  |
 

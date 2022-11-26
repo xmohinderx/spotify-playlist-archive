@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 236001,
       "name": "A Dois",
       "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
@@ -189,6 +189,46 @@
       "duration_ms": 285098,
       "name": "Al\u00edvio",
       "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
+    },
+    {
+      "album": {
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/7oJjbZCliayZ7kCBxR7GAe"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "Elias In\u00e1cio",
+          "url": "https://open.spotify.com/artist/0m3hCc4WOLzmHaXkBMg2ud"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238889,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2OFVWDZP3ikovgSWAzD4Dg"
+    },
+    {
+      "album": {
+        "name": "Ao \u00danico",
+        "url": "https://open.spotify.com/album/2bCRgPS1wXx55YedHQGtBL"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257155,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w"
     },
     {
       "album": {
@@ -497,7 +537,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 249331,
       "name": "Ele Nos Ama - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6mfGVJl7uQ6LcE3owuUOPs"
@@ -1009,7 +1049,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 191316,
       "name": "Na Casa",
       "url": "https://open.spotify.com/track/4ogfIbc7uyb6M2btL5VJXj"
@@ -1285,6 +1325,24 @@
       "duration_ms": 302750,
       "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
+    },
+    {
+      "album": {
+        "name": "O Tamanho da Tua Dor",
+        "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "O Tamanho da Tua Dor",
+      "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
     },
     {
       "album": {

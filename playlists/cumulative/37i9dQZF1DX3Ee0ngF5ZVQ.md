@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers Band
 
-389 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+390 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [I Find a Reason](https://open.spotify.com/track/4IAupLMiDKB5zRplJfHA3R) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [I Find a Reason](https://open.spotify.com/album/5yWWYAO6oUH2oFJRVIslnN) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [I Found Trouble](https://open.spotify.com/track/54WSRFGDv7lWCcZnAA1m3M) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [I Found Trouble](https://open.spotify.com/album/036hxRgtHzDUCtTzGt5Z6A) | 3:07 | 2021-12-17 | 2022-07-25 |
 | [I Got Game](https://open.spotify.com/track/4L380F6X8jQMzJGfcXnKTU) | [Nate Burnham](https://open.spotify.com/artist/0kdKIeJVJPraaKPgWjfjDf) | [I Got Game](https://open.spotify.com/album/6rrqcJxn566iuFFvF5LsSM) | 3:04 | 2021-12-17 | 2022-03-19 |
+| [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 | 2022-11-18 |  |
 | [I Just Want You](https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [I Just Want You](https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6) | 3:44 | 2022-01-28 | 2022-11-06 |
 | [I Will Find You](https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg), [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [I Will Find You](https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929) | 3:24 | 2021-12-31 | 2022-03-19 |
 | [I'm Going Home](https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau) | 3:29 | 2022-08-26 | 2022-10-09 |
@@ -330,7 +331,7 @@
 | [The Light Saw Me](https://open.spotify.com/track/3PPM7i0ZexIaFoZPvFmYur) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2i4mGpyGWt8NGwxwgbn6XK) | 3:12 | 2022-03-18 | 2022-07-29 |
 | [The Moment](https://open.spotify.com/track/1rsXQpzWFCGfdKgKXY7UXj) | [Sundance Head](https://open.spotify.com/artist/3HgDVnEnlN20dfe1vvaBXH) | [The Moment](https://open.spotify.com/album/6wUDtYNurgNNPe357lSWUF) | 3:28 | 2022-06-17 | 2022-07-09 |
 | [The Old Man Said](https://open.spotify.com/track/11YK2L3U5Yr4SepKwX1yiE) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 3:39 | 2022-08-19 | 2022-08-27 |
-| [The Old Man Said \- Radio Edit](https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Old Man Said \(Radio Edit\)](https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb) | 3:14 | 2022-08-26 |  |
+| [The Old Man Said \- Radio Edit](https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Old Man Said \(Radio Edit\)](https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb) | 3:14 | 2022-08-26 | 2022-11-26 |
 | [The One You Know](https://open.spotify.com/track/1x3pjQoyhtctVe7NsTVeAU) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The One You Know](https://open.spotify.com/album/2Ghe25vEXBDc17A5YlOaaB) | 3:40 | 2022-07-15 | 2022-09-10 |
 | [The Road](https://open.spotify.com/track/0pAKpLlTtZZrkPFfnQRm99) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Jon Randall](https://open.spotify.com/album/53B4uGWjlFp0kcXfmhjYN3) | 4:45 | 2021-12-17 | 2022-07-20 |
 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 | 2022-09-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 49150,
+  "num_followers": 49359,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NjYzMiwwMDAwMDAwMDI1ZTQ5NDliYWI1MGVmOTg1ODdkNGZiYzhiYjZmNmY5",
+  "snapshot_id": "MTY2OTI3NjYzMiwwMDAwMDAwMDU3MWE0NWYzYjNhZjcwMGFmMTczOGNjZDkxMDhkMTc4",
   "tracks": [
     {
       "added_at": "2022-11-16 14:13:12",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 246237,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Day Into Night",
         "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 238066,
       "name": "Greenstreet",
       "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "If I Could Fly",
-      "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 309386,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 256853,
+      "name": "If I Could Fly",
+      "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -215,6 +215,22 @@
       "duration_ms": 245226,
       "name": "I'm Waiting For You",
       "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -287,22 +303,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Sweet Thing",
         "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 259973,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/75YDo9npGeipsBmVIxcPtC"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 175280,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/38EkRULbiBhUGbMBsgFRtw"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 259973,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/75YDo9npGeipsBmVIxcPtC"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 270773,
       "name": "Who's That Lady",
       "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 335045,
-      "name": "Silk",
-      "url": "https://open.spotify.com/track/1KXOfTQldUODRAqM6cFyOd"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 228573,
       "name": "A Quiet Place",
       "url": "https://open.spotify.com/track/1OPul4djgqzViAUdGMHJof"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 335045,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/1KXOfTQldUODRAqM6cFyOd"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "For The Love",
         "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 280868,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/6ojF0t5M1HSB0nsMqPKRya"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG"
+        "name": "Nice & Slow",
+        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 267400,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/6ojF0t5M1HSB0nsMqPKRya"
+      "duration_ms": 288800,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1259,22 +1275,6 @@
       "duration_ms": 249133,
       "name": "When I Think of You",
       "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "Nice & Slow",
-        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2022-11-16 14:13:12",

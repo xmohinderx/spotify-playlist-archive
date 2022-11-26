@@ -4,7 +4,7 @@
 
 > swe x fr connect
 
-707 songs - 1 day 7 hr 25 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+709 songs - 1 day 7 hr 30 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/track/0nRssz1xxPRC6B22k5lG06) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/album/1whyLxdmgza9nO22aEsW93) | 2:59 | 2022-05-20 | 2022-05-27 |
 | [NUMBER](https://open.spotify.com/track/5wEOkGKgNaCDQUhYOsKhZX) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [NUMBER](https://open.spotify.com/album/6khYXZo4YuYPN076H2WHEO) | 2:08 | 2022-10-20 | 2022-11-18 |
 | [Närvaro](https://open.spotify.com/track/46NGCnt4LHBc7fJMBRye4Z) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Närvaro](https://open.spotify.com/album/6nnUu4Im9qLyuvDT0xp6WX) | 2:28 | 2022-07-07 | 2022-09-09 |
+| [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 | 2022-11-24 |  |
 | [Nåt jag saknar](https://open.spotify.com/track/5UVBBWhlZ70q4sQknojSFL) | [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [STRESS! \(Hjärnfonden\)](https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y) | 3:26 | 2022-11-17 |  |
 | [OFFERKOFTA](https://open.spotify.com/track/1BfknTgibIdZ1pAdudI1nz) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [OFFERKOFTA](https://open.spotify.com/album/3pEaFGEZpJSNqHq9szdEso) | 2:27 | 2022-11-10 |  |
 | [Offside](https://open.spotify.com/track/68iZcSWAuoWVnmA7WKZy1K) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Offside](https://open.spotify.com/album/26HqefOZ5kw9YqCtFKq3n0) | 2:25 | 2022-02-03 | 2022-03-10 |
@@ -665,7 +666,8 @@
 | [Vamos](https://open.spotify.com/track/6N3q7NSmlxB7TNJkyzfYcb) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN) | 2:41 | 2022-09-12 | 2022-11-04 |
 | [Vamos](https://open.spotify.com/track/7jpv96mbDX0dQwbewYj906) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:41 | 2022-09-08 | 2022-09-15 |
 | [Vant Mig](https://open.spotify.com/track/3cJA0GAQorbqIIZcOU5iNi) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [KARIMO](https://open.spotify.com/album/6dmKNqyiMgp26yJ3EIyuvq) | 2:33 | 2022-01-20 | 2022-03-05 |
-| [Var Är Du](https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Var Är Du](https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4) | 2:25 | 2022-11-04 |  |
+| [Var Är Du](https://open.spotify.com/track/2Ohk1b9JT1AbtNOUqMfNSl) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [En Unge](https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P) | 2:25 | 2022-11-24 |  |
+| [Var Är Du](https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Var Är Du](https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4) | 2:25 | 2022-11-04 | 2022-11-26 |
 | [Vara jag](https://open.spotify.com/track/4uNqbRT4aZDcVQMfrg6RUP) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Vara jag](https://open.spotify.com/album/2rgcBjdReUbm1x0q219YtJ) | 2:06 | 2022-08-05 | 2022-09-30 |
 | [VCFlow](https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [VCFlow](https://open.spotify.com/album/1NZqbv9DLeea5t7gQCXP2q) | 3:02 | 2022-01-25 | 2022-03-25 |
 | [Vcflow2](https://open.spotify.com/track/09WFWi9nnZwP8jTLmFOgCA) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Young&Strapped](https://open.spotify.com/album/5jQeVs9qODgBoddT5zsowp) | 2:51 | 2022-06-01 | 2022-06-03 |

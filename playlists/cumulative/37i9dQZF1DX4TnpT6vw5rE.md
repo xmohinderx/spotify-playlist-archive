@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-208 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+209 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dreamt](https://open.spotify.com/track/7yzWKf2adZoNKsLu3UxXjv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 3:59 | 2020-12-08\* | 2022-07-29 |
 | [Dunes](https://open.spotify.com/track/0XY3HwzcxaP1cM1lWR61bE) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Ethereal Dream](https://open.spotify.com/album/3zt0kYKy8vVLE9Px2ZpEOn) | 2:16 | 2021-04-15 |  |
 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 | 2020-12-08\* |  |
+| [Fade To Green](https://open.spotify.com/track/7g6H3w5ZR6LltDkD2iRISL) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Slumber](https://open.spotify.com/album/0RVAtmxNwwR7lOimtJQAvY) | 2:28 | 2022-11-22 |  |
 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 | 2020-12-08\* |  |
 | [Father Time](https://open.spotify.com/track/07cPfu8rikx5pkmAFzBDfC) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Father Time](https://open.spotify.com/album/34oHoVmrfHegqTJRnO6dLQ) | 3:51 | 2020-12-08\* | 2021-09-17 |
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2020-12-08\* | 2021-05-27 |
@@ -128,7 +129,7 @@
 | [Motion](https://open.spotify.com/track/0JExELrTTlXBvwYXJGIMtT) | [Balam Acab](https://open.spotify.com/artist/49jnSQa0nLfgkSREjJ03Az) | [Wander/Wonder](https://open.spotify.com/album/79iR8QvVwZ2abKTWrE2BLV) | 4:03 | 2020-12-08\* | 2021-09-22 |
 | [Moving](https://open.spotify.com/track/2nmmHSgj6mWaw2FasOy87z) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Third Album](https://open.spotify.com/album/5FJBPsg4NlggVYENdgw8OW) | 2:19 | 2020-12-08\* | 2020-12-25 |
 | [Mystery of Time](https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW) | [Dopplar](https://open.spotify.com/artist/7mTlijRgUDWcMA0tQegd0D) | [Cosmic Strings](https://open.spotify.com/album/7wSfnWizxLlBLYu2HJPWkS) | 2:33 | 2020-12-08\* |  |
-| [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 | 2022-05-19 |  |
+| [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 | 2022-05-19 | 2022-11-26 |
 | [Natural Cause](https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:15 | 2020-12-08\* | 2021-05-27 |
 | [Navi](https://open.spotify.com/track/37XRBuSza57EcexazvYqQy) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Summer](https://open.spotify.com/album/3iEJDeVcMLzAFJToGcih34) | 1:22 | 2020-12-08\* | 2021-01-07 |
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2020-12-08\* | 2021-05-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: El Cuarteto De Nos.",
-  "num_followers": 14569,
+  "num_followers": 14582,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMzA2OSwwMDAwMDAwMDczYjI2ZjIyZTQ3MTBmNjAyMjZlMjA0MWMyMzMzMTk3",
+  "snapshot_id": "MTY2ODIwMzA2OSwwMDAwMDAwMGExYzViYmE4NDRmMjA3OTA4YjNlYTllNDk3YjQ5YWU1",
   "tracks": [
     {
       "added_at": "2022-11-11 21:44:29",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 156197,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 350400,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
         "name": "El Calor Del Pleno Invierno",
         "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 185866,
       "name": "Ese Maldito Momento",
       "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 350400,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Tarea Fina",
-      "url": "https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Tarea Fina",
+      "url": "https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Bella Donna (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 329413,
-      "name": "Edge of Seventeen - 2016 Remaster",
-      "url": "https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
         "name": "Oktubre",
         "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
+        "name": "Bella Donna (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 329413,
+      "name": "Edge of Seventeen - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu"
     },
     {
       "added_at": "2022-11-11 21:44:29",

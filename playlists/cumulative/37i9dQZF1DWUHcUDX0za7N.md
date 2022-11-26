@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA" > Odumodublvck </a>
 
-126 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/3BUxfJDiPiu9ct0POyewZM)
+127 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/3BUxfJDiPiu9ct0POyewZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Balance](https://open.spotify.com/track/3x8oSPH4XYzkBiG53D02xo) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Balance](https://open.spotify.com/album/3ajc5gJ1vNgCBOrYMj6iYK) | 3:27 | 2022-10-14 | 2022-10-29 |
 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 | 2022-06-09 |  |
 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 | 2022-06-09 |  |
+| [Barawo](https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Barawo](https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK) | 3:49 | 2022-06-09 |  |
 | [Basic](https://open.spotify.com/track/2VDTxpDlQnSfZgLbJnufV6) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Rasaqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/4RuSx7uURK2Dsqq11bKMJx) | 4:38 | 2022-06-09 | 2022-11-25 |
 | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY) | 2:43 | 2022-10-28 |  |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 |  |
@@ -130,7 +131,7 @@
 | [Who U](https://open.spotify.com/track/1NnNx2eoTcUgkwgLUGpbFP) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Who U](https://open.spotify.com/album/63jO4I3MPDuq0wp6UvvACu) | 2:53 | 2022-06-09 | 2022-11-16 |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2022-06-09 |  |
 | [Wicked Bitch of the South](https://open.spotify.com/track/0J5QpTl2bQZz14hankIpzn) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Outside II](https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1) | 0:53 | 2022-10-07 | 2022-11-25 |
-| [Wonder \(feat\. Patoranking\)](https://open.spotify.com/track/4cr9TB2EIAb3uDgvjbYYL0) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wonder \(feat\. Patoranking\)](https://open.spotify.com/album/1ywLmHZrCdZs0TlcXlGQdB) | 2:53 | 2022-06-09 |  |
+| [Wonder \(feat\. Patoranking\)](https://open.spotify.com/track/4cr9TB2EIAb3uDgvjbYYL0) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wonder \(feat\. Patoranking\)](https://open.spotify.com/album/1ywLmHZrCdZs0TlcXlGQdB) | 2:53 | 2022-06-09 | 2022-11-26 |
 | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/track/4Xaq0vPaePG4RrcuTgf5gf) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/album/2DD6vrTPCM84OBzBAxRx45) | 3:28 | 2022-10-14 | 2022-10-29 |
 | [YOUNG PREACHER](https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 2:22 | 2022-10-28 |  |
 | [YOUNG PREACHER](https://open.spotify.com/track/76aQdQbQYLUAp3I7ywE1jx) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 2:22 | 2022-10-28 | 2022-11-11 |

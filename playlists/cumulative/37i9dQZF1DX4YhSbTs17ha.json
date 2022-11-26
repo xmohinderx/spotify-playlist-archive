@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Escucha las canciones de pop m\u00e1s exitosas en M\u00e9xico. Kim Loaiza en portada.\n",
+  "description": "Escucha las canciones de pop m\u00e1s exitosas en M\u00e9xico. Yuridia y \u00c1ngela Aguilar en portada.\n",
   "name": "S\u00f3lo Pop",
   "published_playlist_ids": [
     "1nDBCqiK6HvT2BsLItZYgM"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 145787,
       "name": "BEBE",
       "url": "https://open.spotify.com/track/3qIKikzA0EypwZJjK4k9PG"
@@ -872,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Corriendo Con Tijeras",
+        "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Corriendo Con Tijeras",
+      "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
+    },
+    {
+      "album": {
         "name": "Cositas de la USA",
         "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
       },
@@ -1141,6 +1159,24 @@
       "duration_ms": 274601,
       "name": "Dime Que S\u00ed",
       "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
+    },
+    {
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164727,
+      "name": "DIME QUI\u00c9N????",
+      "url": "https://open.spotify.com/track/186Mx1PHhT87YfoBCV93Wx"
     },
     {
       "album": {
@@ -2268,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148700,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
+    },
+    {
+      "album": {
         "name": "Mal de Amores",
         "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
@@ -2661,7 +2715,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 198558,
       "name": "Mismo Amor",
       "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
@@ -3612,6 +3666,28 @@
     },
     {
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "album": {
         "name": "Si pudiera",
         "url": "https://open.spotify.com/album/7oszfSxoX7J3Zl3IYZeltL"
       },
@@ -3627,7 +3703,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 256811,
       "name": "Si pudiera",
       "url": "https://open.spotify.com/track/0PEbhZvom6GqoQwUNDxwRF"
@@ -4066,6 +4142,28 @@
     },
     {
       "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151600,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
+    },
+    {
+      "album": {
         "name": "Tengamos Pasado",
         "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
@@ -4161,7 +4259,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 200502,
       "name": "Todo My Love",
       "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"
@@ -4288,6 +4386,24 @@
     },
     {
       "album": {
+        "name": "Un Viaje a Todas Partes (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1BQBLXaMxMEwSsnuxTgdbE"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Un Viaje a Todas Partes - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/12AyVdnjbSyH00nrZXowIl"
+    },
+    {
+      "album": {
         "name": "Una Chica Como T\u00fa",
         "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
       },
@@ -4321,7 +4437,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 224512,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/5jbT4IeQCi00OjuQGFxQIA"
@@ -4365,7 +4481,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 204089,
       "name": "Vive",
       "url": "https://open.spotify.com/track/6F3TMaAA8iW9dNsNgpUVkj"

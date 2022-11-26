@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 | 17 | [Hustler \- Radio Edit](https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Hustler](https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle) | 2:51 |
 | 18 | [2 LA](https://open.spotify.com/track/0Nwr2tgFoTgnKwG1sc8n8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Z A K](https://open.spotify.com/artist/7BF3vz2rJ9RnK0j1mYOxYf) | [2 LA](https://open.spotify.com/album/7tjJCsyo9jqtQQ1DnLr85F) | 2:36 |
 | 19 | [After Party](https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Party](https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b) | 3:36 |
-| 20 | [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 |
-| 21 | [Ride or Die](https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride or Die](https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO) | 3:08 |
+| 20 | [Ride or Die](https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride or Die](https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO) | 3:08 |
+| 21 | [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 |
 | 22 | [Let Me](https://open.spotify.com/track/2QWF5091N3go4P54nO1faZ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Let Me](https://open.spotify.com/album/0CgiHbDExqV0Gk7YZzRCm3) | 2:58 |
 | 23 | [In My Bag](https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [In My Bag](https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9) | 3:04 |
 | 24 | [The Streets](https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 2:38 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 | 30 | [Light It Up](https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:08 |
 | 31 | [Dance With Me](https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:06 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDBiYjNhZTU0NDlhZjIxY2I3NjM3ZjhiYTYxN2UxMzZjNA==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDA5MzgyNjZhZDEzNjM3M2UyNTg3M2I1NDI4NGM4MDUzZA==`

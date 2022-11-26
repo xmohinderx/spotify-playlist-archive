@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Susy Gonzalez",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: \n Generaci\u00f3n 12",
   "name": "\u00c9xitos Cristianos",
   "published_playlist_ids": [
     "46xuGYmp3nbMhyLwZ3Xj5y"
@@ -909,6 +909,24 @@
       "duration_ms": 148030,
       "name": "Bendito Amor",
       "url": "https://open.spotify.com/track/76lCr666St0dE5DXbhdTL6"
+    },
+    {
+      "album": {
+        "name": "BUENO (Nunca Vas a Cambiar)",
+        "url": "https://open.spotify.com/album/7fml1stxwLAWkTKONJ1SWw"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305116,
+      "name": "BUENO (Nunca Vas a Cambiar)",
+      "url": "https://open.spotify.com/track/4tMecu7jQX9jnaqmaPzvMz"
     },
     {
       "album": {
@@ -2221,6 +2239,28 @@
       "duration_ms": 312063,
       "name": "En Cada Momento",
       "url": "https://open.spotify.com/track/6a3UnW9xFQ4Zy4B16Kc3np"
+    },
+    {
+      "album": {
+        "name": "En el estudio con Manny Montes Vol. 4",
+        "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
+      },
+      "artists": [
+        {
+          "name": "D-One Music",
+          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "En el estudio con Manny Montes Vol. 4",
+      "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
     },
     {
       "album": {
@@ -4005,7 +4045,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 243529,
       "name": "Miles de Aleluyas",
       "url": "https://open.spotify.com/track/36PtOlNj6AEeVIY3hWcAsI"
@@ -4592,6 +4632,28 @@
     },
     {
       "album": {
+        "name": "Prendio",
+        "url": "https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD"
+      },
+      "artists": [
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162203,
+      "name": "Prendio",
+      "url": "https://open.spotify.com/track/0AFZ3q755SUhvquX6EVpnJ"
+    },
+    {
+      "album": {
         "name": "Primer Amor (Live)",
         "url": "https://open.spotify.com/album/476IYrXNVsKXF0RxtBQdHE"
       },
@@ -4719,7 +4781,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 218809,
       "name": "Puesta Pal Perreo",
       "url": "https://open.spotify.com/track/4J4JlzmObQ2AgZQaVo6AAN"
@@ -5539,7 +5601,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 168000,
       "name": "Somos Libres",
       "url": "https://open.spotify.com/track/3mTmc6r4qI2mFQOxVAWwsW"

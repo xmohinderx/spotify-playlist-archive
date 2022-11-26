@@ -27,6 +27,28 @@
     {
       "album": {
         "name": "The Prodigy",
+        "url": "https://open.spotify.com/album/1jTCrR34ciKYVJA5j4z6kq"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164461,
+      "name": "1Skillibeng",
+      "url": "https://open.spotify.com/track/0U8KSdDEOr5QVxH53waeNu"
+    },
+    {
+      "album": {
+        "name": "The Prodigy",
         "url": "https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14"
       },
       "artists": [
@@ -45,28 +67,6 @@
       "duration_ms": 164461,
       "name": "1Skillibeng",
       "url": "https://open.spotify.com/track/4q90DrWjw2roovdi4q1tj1"
-    },
-    {
-      "album": {
-        "name": "The Prodigy",
-        "url": "https://open.spotify.com/album/1jTCrR34ciKYVJA5j4z6kq"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "date_added": "2022-08-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171445,
-      "name": "1Skillibeng",
-      "url": "https://open.spotify.com/track/0U8KSdDEOr5QVxH53waeNu"
     },
     {
       "album": {

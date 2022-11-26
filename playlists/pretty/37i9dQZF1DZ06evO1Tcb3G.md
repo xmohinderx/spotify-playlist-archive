@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,904 likes - 38 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,004 likes - 38 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 37 | [Wona](https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [The Very Best](https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Johannesburg](https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066) | 4:00 |
 | 38 | [With A Little Help From My Friends \(Live from London\)](https://open.spotify.com/track/6Rd8m5KdOL2ayiK00ko1Mu) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta Tour EP](https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB) | 5:59 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAwOGNmMDVjNjUxMzk0Nzg3YzY4NDRlZWNmOWU5ODcyYQ==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDBmNmVjNzA5NTg4NGEyYmEwYzY1MGJmZjBkZDRmMjI5Yw==`

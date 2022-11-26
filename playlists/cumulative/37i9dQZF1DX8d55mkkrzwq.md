@@ -4,7 +4,7 @@
 
 > Get moving with these family\-friendly dance hits!
 
-47 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/5BeG8cl5OqoZoz4Jy5zAW1)
+48 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/5BeG8cl5OqoZoz4Jy5zAW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 | 2022-04-01 |  |
 | [Dance Silly](https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84) | 3:04 | 2022-04-01 |  |
 | [Dance, Dance, Freeze](https://open.spotify.com/track/1DepfYD1ZxKedQyOnAPPwF) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/3Q8rbBIpOAWd4QlD2F33KO) | 2:10 | 2022-04-01 | 2022-11-24 |
-| [Dance, Dance, Freeze](https://open.spotify.com/track/5oVTyy9JZ6RIXxiZ3nNaMm) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/1WPDUEohi6ZRZuMKOH4lLa) | 2:10 | 2022-04-01 |  |
+| [Dance, Dance, Freeze](https://open.spotify.com/track/5oVTyy9JZ6RIXxiZ3nNaMm) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/1WPDUEohi6ZRZuMKOH4lLa) | 2:10 | 2022-04-01 | 2022-11-26 |
+| [Dance, Dance, Freeze](https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ) | 2:10 | 2022-04-01 |  |
 | [Do as I'm Doing](https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Do as I'm Doing](https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN) | 1:56 | 2022-04-01 |  |
 | [Do Your Own Dance](https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 2:31 | 2022-04-01 |  |
 | [Do Your Own Dance](https://open.spotify.com/track/5OFRH7DX66YJxWMWxEZt4b) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/0GDRDnnvLcMVLtHshEpDkV) | 2:31 | 2022-04-01 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-375 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+382 songs - 17 hr 17 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alcobaça](https://open.spotify.com/track/693XrfcZwRmf6byHIUq1F4) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Alcobaça](https://open.spotify.com/album/6N91CVoXi22j22OtHFfYwk) | 2:08 | 2022-09-02 |  |
 | [All Those Things](https://open.spotify.com/track/6crKfVVbULAcl1qmnZfr47) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [All Those Things](https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o) | 2:42 | 2021-12-08 | 2022-06-10 |
 | [Alte Liebe](https://open.spotify.com/track/2HkYUQt0e5GUXvJSFfFTcX) | [Reinhold Simmel](https://open.spotify.com/artist/7DpQruqjtjA5gOVgYfYJZ0) | [Alte Liebe](https://open.spotify.com/album/78muUWjscrUbNX7GFo5W7O) | 3:05 | 2021-12-08 |  |
+| [Always Remember](https://open.spotify.com/track/71qbsWmYq1fFjyOdyr35Mj) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [Always Remember](https://open.spotify.com/album/7gFLOtunDLPawMrwu2JChj) | 1:59 | 2022-11-25 |  |
 | [am Rande des Waldes](https://open.spotify.com/track/7alIySW96sYHrTNzl1d9NS) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [no man's land](https://open.spotify.com/album/3yUOrhecG3B9bbRWcb2ghB) | 2:57 | 2021-12-08 | 2022-02-02 |
 | [Am Soiernsee](https://open.spotify.com/track/1omB6aDhZpkZttTTNhQ1tN) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mond Farben](https://open.spotify.com/album/5eNszXHl0p0GhAOMYEnRtN) | 3:48 | 2022-08-05 |  |
 | [Am Starnberger See](https://open.spotify.com/track/0AaQCL7bGvEFYmTCSdcRNh) | [Joseph Winkler](https://open.spotify.com/artist/7kRkQ9MMlq3wIzX6LOJbhr) | [Chiara](https://open.spotify.com/album/66SeV3uOJWL9qxrYDkKBph) | 3:05 | 2021-12-08 | 2022-04-06 |
@@ -136,6 +137,7 @@
 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 | 2022-02-01 |  |
 | [Guitarra De Aire](https://open.spotify.com/track/4CeuvQWrIQ6IGWLicEsZzv) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Guitarra De Aire](https://open.spotify.com/album/4jQAhv8VySlv2D2qt4vh5Y) | 3:45 | 2021-12-08 | 2022-02-02 |
 | [Hanna\`s Waltz](https://open.spotify.com/track/3qnrlBE2EdCb0lbVm7jjWQ) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Hanna\`s Waltz](https://open.spotify.com/album/11hzf8FQ7RhyLBKC5C2tsT) | 2:22 | 2021-12-08 | 2022-04-06 |
+| [Harvest](https://open.spotify.com/track/6zwt5fkqq1IOpt9nf7EK0t) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Harvest](https://open.spotify.com/album/3QkmUHNwgTum5f0D5gBt2W) | 2:16 | 2022-11-25 |  |
 | [Havana Vieja](https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:51 | 2022-03-04 |  |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2022-04-05 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-08 |  |
@@ -174,6 +176,7 @@
 | [La Promenade](https://open.spotify.com/track/6StJgUQTkXWw4R00002izA) | [Clotilde Dupuy](https://open.spotify.com/artist/4y31i4eg78AV7G4sP7IZZC) | [La Promenade](https://open.spotify.com/album/4XeJ8S2iCa4mEWVKC9svOa) | 3:02 | 2021-12-08 |  |
 | [Labyrinth](https://open.spotify.com/track/56GaSp5xjMWEwsbSnI35JQ) | [Gairloch](https://open.spotify.com/artist/6EHbx04jKV7mm9YB8X3Ywd) | [Labyrinth](https://open.spotify.com/album/4E8Eyp8NYNqSRtxPp5F59Y) | 2:32 | 2021-12-08 | 2022-02-02 |
 | [Lagoon Mirim](https://open.spotify.com/track/75dxJIXB8A184w1TiDUMhu) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Vieques](https://open.spotify.com/album/7a3lu2zOOxadhzI3Z2cRpV) | 2:49 | 2021-12-08 | 2022-04-06 |
+| [Lake Michigan](https://open.spotify.com/track/3JJperyiS45dHKTBeDNyaT) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Lake Michigan](https://open.spotify.com/album/6rNNYU4OAgapOr4dr8DO35) | 1:54 | 2022-11-25 |  |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2022-01-05 |  |
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2022-01-11 |  |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 |  |
@@ -183,6 +186,7 @@
 | [Let Hope Be Your Anchor](https://open.spotify.com/track/2mfr6qiU7oYNge4Ar0P6XI) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Let Hope Be Your Anchor](https://open.spotify.com/album/0ec0mMBEPa6EAqDi0Wgh3g) | 3:23 | 2022-06-24 |  |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-08 | 2022-10-14 |
 | [Levitating](https://open.spotify.com/track/49SUqwYACakEEvO20DcLlt) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Levitating](https://open.spotify.com/album/565nU3fGdYAnH8eH7gOuZc) | 4:18 | 2021-12-08 | 2022-05-27 |
+| [Lift Me Up](https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Lift Me Up](https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv) | 2:33 | 2022-11-25 |  |
 | [Light Touch](https://open.spotify.com/track/7DRiHX3VXNCkhDxtUsy6YX) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Light Touch](https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj) | 1:42 | 2022-08-19 |  |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2021-12-08 | 2022-06-03 |
 | [Limpopo](https://open.spotify.com/track/51ZG36kK3KPEqYYH8a2Nna) | [ONEGUI](https://open.spotify.com/artist/5z0Vy8IS2ybQtKxzQ3IWfb) | [Ikun Vol\. 1](https://open.spotify.com/album/7tCXKwYlcTzESVAspYpDf6) | 2:19 | 2021-12-08 |  |
@@ -191,6 +195,7 @@
 | [Lovelight](https://open.spotify.com/track/17c3bS1IscSItKzhhzdc4N) | [Geoff Henzel](https://open.spotify.com/artist/1GEOzSfLdNej1BIxdMQWN5) | [Lovelight](https://open.spotify.com/album/1E7UDTzbiqvLmpuR7wymWB) | 1:53 | 2022-02-01 | 2022-07-08 |
 | [Low Hanging Fruit](https://open.spotify.com/track/4Cjmwt8CPG0zusrNcnavxZ) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Low Hanging Fruit](https://open.spotify.com/album/1reJ7jRbbumaDTAabKziE6) | 3:59 | 2022-01-05 |  |
 | [Lowlight \(Duet\)](https://open.spotify.com/track/5GQw0xJFMXme3lsU2zbOC7) | [Thomas Kessler](https://open.spotify.com/artist/7gladxebEaXEnycRmspgzJ), [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Lowlight \(Duet\)](https://open.spotify.com/album/7CJZBVIvmNyX6WJNN9jKc0) | 2:21 | 2022-10-07 |  |
+| [Luisa](https://open.spotify.com/track/4vjJEZHhvFvH8l2ZyKMHwI) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Luisa](https://open.spotify.com/album/6RYiBExjghtFaGMBsfvQbK) | 2:35 | 2022-11-25 |  |
 | [Luna De Miel](https://open.spotify.com/track/4SZHMmupzClfrRXX96g4JD) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Luna De Miel](https://open.spotify.com/album/6LQLFCcKYZA43Mp2iIgwj3) | 2:26 | 2022-10-28 |  |
 | [Lyrical](https://open.spotify.com/track/0mWqjLtRwguVfNiPoVdgf8) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Lyrical](https://open.spotify.com/album/6mPcH5Fstf5uLLoSdEf4WA) | 1:54 | 2021-12-08 | 2022-07-22 |
 | [Lágrimas de amor](https://open.spotify.com/track/182ef9MHe22ir2OVFYvnKE) | [Esuperio](https://open.spotify.com/artist/4PvuTrnG35W97Lely4a37m) | [Lágrimas de amor](https://open.spotify.com/album/4yMe3gYZ4G9a8dTrtueyiH) | 3:00 | 2021-12-08 | 2022-06-10 |
@@ -199,6 +204,7 @@
 | [Malinconia](https://open.spotify.com/track/6sLcVBEcHjENFjn4cmkcmH) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Malinconia](https://open.spotify.com/album/5CviDqiWgQ5Dct3ZCPQj5A) | 3:08 | 2022-06-03 | 2022-09-17 |
 | [Mar Abierto](https://open.spotify.com/track/3iJPvAuAfJVWWnin355Tmk) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Mar Abierto](https://open.spotify.com/album/3djqu4voBcHRSQOLgnfeW2) | 2:09 | 2022-10-07 |  |
 | [Mareld](https://open.spotify.com/track/7njI830XuQtdheC4m9LCgm) | [Ron Melass](https://open.spotify.com/artist/61JpiETiqqg2JJIKbXO04g) | [Mareld](https://open.spotify.com/album/1BATEK1hhvNdASdRQR8euJ) | 1:57 | 2022-05-27 | 2022-07-08 |
+| [Maybe It's Not Too Late](https://open.spotify.com/track/2OPSOulWZFo8pu0cOwBEOE) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Maybe It's Not Too Late](https://open.spotify.com/album/0XNxtbuDlEXhIqAUYSpSwC) | 2:07 | 2022-11-25 |  |
 | [Melancolia](https://open.spotify.com/track/2YbIbI797f6htjFAwzcIGJ) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Melancolia](https://open.spotify.com/album/23k6kKSxaMIEmkSsqg118j) | 2:21 | 2021-12-08 | 2022-03-19 |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-08 | 2022-06-10 |
 | [Memento](https://open.spotify.com/track/69BDXrJPLMJ2qVN6NkYmry) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Memento](https://open.spotify.com/album/6sQnpBPrAuHonNKkmtxlwI) | 2:44 | 2021-12-08 | 2022-04-06 |
@@ -280,6 +286,7 @@
 | [Sapphire](https://open.spotify.com/track/7Iil1UUDVl8lHs1t4XtblP) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Sapphire](https://open.spotify.com/album/5RKqIrbcvGmC1SPDN9X6l1) | 1:59 | 2022-10-14 |  |
 | [Sarabande In A Major](https://open.spotify.com/track/7MnFIm6VgmpsvN0Ont5Wsd) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Sarabande In A Major](https://open.spotify.com/album/0cOdJ0RJ6AaWWPqEhap8G0) | 1:39 | 2021-12-08 |  |
 | [Satellites](https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:36 | 2021-12-08 |  |
+| [Savage Silhouettes](https://open.spotify.com/track/3Xg0edgHJLSNyfjwtHHcCh) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Savage Silhouettes](https://open.spotify.com/album/2eYTNL3P3wVZA8kdHgnWxa) | 2:06 | 2022-11-25 |  |
 | [Say it First](https://open.spotify.com/track/629DN0qMDPVhEyQnQ3LxHy) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Say it First](https://open.spotify.com/album/6YdeDCvJraTDzS5F7BPXrQ) | 2:56 | 2022-10-28 |  |
 | [Second Wind](https://open.spotify.com/track/0L6DEqH0thu3joOOC9Sd4E) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Second Wind](https://open.spotify.com/album/4zb2sYov4uCPxnDgfvxsJO) | 3:02 | 2021-12-08 |  |
 | [serenades](https://open.spotify.com/track/4QI998cXoXoHhDU2tQx0mB) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [serenades](https://open.spotify.com/album/1m2P646u6G7JsazHkDgLG4) | 1:41 | 2022-07-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 54552,
+  "num_followers": 54591,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDE0ODBiZDY3Y2Y4NmZhMmJiZTBjMjA4NGIzZDJhNTM0",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDAyNzQwZGIxNWZmNzRhMWJkZDZiMWYxMmE5YTFhNjU0",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 219799,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 252600,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 219799,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Lavandina",
-        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 299192,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 202320,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Lavandina",
+        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 299192,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 255217,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Hyperreal",
         "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 187348,
       "name": "FIXXI\u00d3N",
       "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 255217,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 249638,
-      "name": "Might Forgive You",
-      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Ca\u00edda Libre",
         "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 231050,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 249638,
+      "name": "Might Forgive You",
+      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
     },
     {
       "added_at": "2022-07-29 05:00:00",

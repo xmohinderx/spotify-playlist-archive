@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 194566,
       "name": "Essa Eu Fiz Pro Nosso Amor",
       "url": "https://open.spotify.com/track/4JwwAxvprUGhrecdjSjfHN"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 170948,
       "name": "If Jesus Was A Rockstar",
       "url": "https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 178809,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 186698,
       "name": "Por Supuesto",
       "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
@@ -1787,6 +1787,24 @@
       "duration_ms": 142838,
       "name": "PR\u00caMIO",
       "url": "https://open.spotify.com/track/3pQs1W4QPXFDxx0zLsQ5Mt"
+    },
+    {
+      "album": {
+        "name": "DISCO VOADOR",
+        "url": "https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158575,
+      "name": "pSi Lo saBE",
+      "url": "https://open.spotify.com/track/1pIqjlJdi5ubGWfaaCIrh6"
     },
     {
       "album": {
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195845,
       "name": "Showed Me (How I Fell In Love With You)",
       "url": "https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf"

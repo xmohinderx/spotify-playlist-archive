@@ -518,6 +518,28 @@
     },
     {
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2Fl0KLMRuSOjCsUMKACIKJ"
+      },
+      "artists": [
+        {
+          "name": "The Past",
+          "url": "https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174300,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/0ucPJRg36w8HDRwi1GzYlQ"
+    },
+    {
+      "album": {
         "name": "Blast Off",
         "url": "https://open.spotify.com/album/4H3PVX3Zks7zFo7fj252J0"
       },
@@ -1379,7 +1401,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 193000,
       "name": "Express",
       "url": "https://open.spotify.com/track/75Mp8SoON8fbpcOtNx3PwN"
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 265280,
       "name": "Feeling Of Love",
       "url": "https://open.spotify.com/track/08hiTUdlkeFpCFqdxsnjOh"
@@ -1555,6 +1577,28 @@
       "duration_ms": 244285,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/3FqvCSW4LXjdJJPxpna5AH"
+    },
+    {
+      "album": {
+        "name": "Fool For You",
+        "url": "https://open.spotify.com/album/6rc9d2SLCNCHqAsmqyfYq4"
+      },
+      "artists": [
+        {
+          "name": "Apollo Theo",
+          "url": "https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz"
+        },
+        {
+          "name": "Jaz Lund",
+          "url": "https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132209,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/3quWT2PJG1tbS1Q7T5yLKK"
     },
     {
       "album": {
@@ -2041,7 +2085,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 246504,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/1sDuoXz1FxkzA9o6IHJLK8"
@@ -2214,6 +2258,24 @@
     },
     {
       "album": {
+        "name": "Humpty Dumpty",
+        "url": "https://open.spotify.com/album/2tgHFkodm0ydkaJPgrd51k"
+      },
+      "artists": [
+        {
+          "name": "Tendavillage",
+          "url": "https://open.spotify.com/artist/1nOm8sUi8M1dyIAJ8B5SRc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170223,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/4hpVZXbR64gA01UCwFifdT"
+    },
+    {
+      "album": {
         "name": "FALL",
         "url": "https://open.spotify.com/album/7z0evm6hjFVuDzigZkB33b"
       },
@@ -2225,7 +2287,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 198000,
       "name": "I Ain't Perfect",
       "url": "https://open.spotify.com/track/5aFmPqvtEPF8qYOJQZJ1Er"
@@ -2853,6 +2915,24 @@
       "duration_ms": 174893,
       "name": "Lover",
       "url": "https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm"
+    },
+    {
+      "album": {
+        "name": "made of",
+        "url": "https://open.spotify.com/album/6wHWVoohwI1MJZl3tiY28f"
+      },
+      "artists": [
+        {
+          "name": "Skyler Acord",
+          "url": "https://open.spotify.com/artist/1phSD0yoDFOv2kUbXzM1d4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182197,
+      "name": "made of",
+      "url": "https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X"
     },
     {
       "album": {
@@ -3758,6 +3838,32 @@
     },
     {
       "album": {
+        "name": "Slings and Arrows",
+        "url": "https://open.spotify.com/album/1qeNTwz5GBpN7itlDaV31o"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Trance Thompson",
+          "url": "https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323473,
+      "name": "Slings and Arrows",
+      "url": "https://open.spotify.com/track/4SelDlGzpaSB9i31ZqzQgS"
+    },
+    {
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/14X6uVSMTSRi5k0SPTTkhw"
       },
@@ -3919,7 +4025,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 246050,
       "name": "Stone Cold Lover",
       "url": "https://open.spotify.com/track/0S5odtCg5QVBkKCVu3vsrl"
@@ -3959,6 +4065,24 @@
       "duration_ms": 272211,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
+    },
+    {
+      "album": {
+        "name": "Sun Ray",
+        "url": "https://open.spotify.com/album/4oSjiWRUaJKSZJrE3KUiWp"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/7rUh2bSgYyKH4HZGANSJTs"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207856,
+      "name": "Sun Ray",
+      "url": "https://open.spotify.com/track/2A42wBeqad7skiuLqiz0gq"
     },
     {
       "album": {
@@ -4331,7 +4455,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 185293,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/07o395Wrt3pGfyh7ZWFrCz"

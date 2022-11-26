@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,015 likes - 95 songs - 14 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,025 likes - 95 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 4 | [Mali \(Live\)](https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [John Patitucci Trio: Live in Italy](https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7) | 14:10 |
 | 5 | [All Alone \(Live\)](https://open.spotify.com/track/6ixVVhh46Z9KPe335caMzm) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Searching in Grenoble : The 1978 Solo Piano Concert \(Live\)](https://open.spotify.com/album/7LijvBcp5Kb23YTAVzbGzW) | 6:51 |
 | 6 | [My One and Only Love \- Live](https://open.spotify.com/track/6eO4Uudsw3t79uCQJFtrta) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Live at Fabrik, Hamburg, 1987](https://open.spotify.com/album/3zV3pERmVFEntiv4j9MCKB) | 10:12 |
-| 7 | [Where Do I Go from Here? \- Live](https://open.spotify.com/track/4TAydY5d4u5cL5RcxxIZ6J) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Where Do I Go from Here? \(Live\)](https://open.spotify.com/album/3Kdz365Ndt7t2GFKxSeJUZ) | 7:38 |
+| 7 | [Where Do I Go from Here? \- Live](https://open.spotify.com/track/7nkambEulQpS321zfsrbiA) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [On a Clear Day: The Oscar Peterson Trio \- Live in Zurich, 1971](https://open.spotify.com/album/38lO4EZETq8mnXKHi1Nvkl) | 7:38 |
 | 8 | [Splendido Sundance \- Live at Warfield Theater, San Francisco, CA \- December 6, 1980](https://open.spotify.com/track/7evFX4LIgofxcz2MGnPaf5) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Saturday Night in San Francisco \(Expanded Edition\) \[Live\]](https://open.spotify.com/album/0ucEskHaCyeqMWBmgT3J3n) | 7:05 |
 | 9 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 | 10 | [What It Is \- Live at Theatre St\-Denis, Montreal, Canada \- July 7, 1983](https://open.spotify.com/track/3oNcGjNy8kWNrORs3LGfrL) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [What It Is: Montreal 7/7/83 \(Live\)](https://open.spotify.com/album/5NUH4GlFSKf4QnKsK8EQHL) | 6:45 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 94 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 95 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 
-Snapshot ID: `MTY2NjMyNDg2MCwwMDAwMDAwMGY1YjQ5ZThlZjZkMjhhYTYyZTk5YzU5NzAyZTUxOGMz`
+Snapshot ID: `MTY2NjMyNDg2MCwwMDAwMDAwMDMzNjBlOTRlMjFiNmI1OTRlN2RiMmJlZTlkZTE5YTA1`

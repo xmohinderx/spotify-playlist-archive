@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 5692,
+  "num_followers": 5820,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDc4ZDlmNGYyMjE0NjMzNmQ2MjQ3OTcwNTQ4YWQwOGI3",
+  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDNjNzk4OTM0MTI0MjE0ODNkMTg5OTYwYmNlMjI2MGNh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 139574,
       "name": "Bria's Interlude (feat. Omarion)",
       "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 386626,
-      "name": "Next Lifetime",
-      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
     },
     {
       "added_at": "2022-10-01 16:00:00",

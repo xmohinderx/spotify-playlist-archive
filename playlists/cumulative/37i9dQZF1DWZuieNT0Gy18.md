@@ -4,7 +4,7 @@
 
 > Una selección de éxitos para ponerle ritmo a las tareas del hogar.
 
-390 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/0HZQGlRq0MCTlMu5IzL6ZI)
+391 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/0HZQGlRq0MCTlMu5IzL6ZI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-03-11 |  |
 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 | 2022-02-08 |  |
 | [2:50](https://open.spotify.com/track/5xlxSHnvXwT66JWYwDkEFE) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [2:50](https://open.spotify.com/album/2mRxKQgVJXjIz7YNu7E7re) | 3:05 | 2022-04-01 | 2022-04-21 |
-| [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2022-09-02 |  |
+| [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2022-09-02 | 2022-11-26 |
 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 | 2022-03-24 | 2022-04-21 |
 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 | 2022-03-24 | 2022-04-20 |
 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 | 2022-02-08 | 2022-07-29 |
@@ -115,6 +115,7 @@
 | [Cuéntame](https://open.spotify.com/track/2XfCdX6mCqjBgTXNJsb3cU) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Cuéntame](https://open.spotify.com/album/4Ta7gpqx1OI4qJwyNal6ND) | 2:13 | 2022-03-24 | 2022-04-20 |
 | [Cómo Te Extraño Mi Amor \(En Vivo\) \(feat\. Rubén Albarrán\)](https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:15 | 2022-02-08 | 2022-07-19 |
 | [De Mí, Contigo](https://open.spotify.com/track/6DkCyx3mGUPGwO7MRsZy3E) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [El Amor en Mi Vida](https://open.spotify.com/album/3wxazAm6J5TaVwp7oWS7xg) | 3:01 | 2022-02-08 | 2022-07-29 |
+| [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2022-11-26 |  |
 | [Decide](https://open.spotify.com/track/2XQL4qFgEcT6XUaIATprxp) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [Decide](https://open.spotify.com/album/3QsMRvZ8VR6mhmQATPJkkn) | 3:15 | 2022-04-08 | 2022-04-16 |
 | [Deja Que Te Bese](https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deja Que Te Bese](https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4) | 4:04 | 2022-02-08 | 2022-05-25 |
 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 | 2022-02-08 | 2022-07-29 |

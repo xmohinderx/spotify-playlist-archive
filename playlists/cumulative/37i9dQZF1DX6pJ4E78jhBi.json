@@ -676,6 +676,28 @@
     },
     {
       "album": {
+        "name": "Mary's Boychild",
+        "url": "https://open.spotify.com/album/3DFsEtBtGmseKUD7pm7QGE"
+      },
+      "artists": [
+        {
+          "name": "Jester Hairston",
+          "url": "https://open.spotify.com/artist/3tgxh3cqdCA5UvqwuNYWWl"
+        },
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121693,
+      "name": "Mary's Boychild",
+      "url": "https://open.spotify.com/track/5yyxBmvuGEOMZ4DKfhobNx"
+    },
+    {
+      "album": {
         "name": "O Come All Ye Faithful",
         "url": "https://open.spotify.com/album/7EoYR3CpzVLDng5B6hbIbP"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 939300,
+  "num_followers": 939739,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE4OTg4MCwwMDAwMDAwMGMwYTk0NWI0OTgwNDNhN2EzY2Q5Y2U4YmIyZDY3ZmYy",
+  "snapshot_id": "MTY2OTE4OTg4MCwwMDAwMDAwMGVlNzU0ZWQ0MTdhMGM2NjQ2YjA2N2RmNTA1OGZlOTVl",
   "tracks": [
     {
       "added_at": "2022-11-23 07:51:20",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -223,18 +207,34 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "Moon River And Other Great Movie Themes",
-        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 162893,
-      "name": "Moon River (From \"Breakfast at Tiffany's\")",
-      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+      "duration_ms": 162893,
+      "name": "Moon River (From \"Breakfast at Tiffany's\")",
+      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 147146,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
         "name": "The Legendary Bobby Darin",
         "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 145933,
       "name": "More - Remastered 2004",
       "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "A Swingin' Affair! (Remastered)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "The Lady Is A Tramp - Remastered",
-      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
+        "name": "A Swingin' Affair! (Remastered)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "The Lady Is A Tramp - Remastered",
+      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
+      "duration_ms": 153533,
+      "name": "For Once in My Life",
+      "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -595,34 +595,18 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 153533,
-      "name": "For Once in My Life",
-      "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP"
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -643,6 +627,22 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
         "name": "Ultimate Sinatra",
         "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 204146,
       "name": "Theme From New York, New York",
       "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
+        "name": "That Face!",
+        "url": "https://open.spotify.com/album/0tTIug98cYd67md0Gtc5Iw"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra Jr.",
+          "url": "https://open.spotify.com/artist/5fElZYhQFp0lEc4FQVcRu1"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -675,22 +691,6 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
-        "name": "That Face!",
-        "url": "https://open.spotify.com/album/0tTIug98cYd67md0Gtc5Iw"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra Jr.",
-          "url": "https://open.spotify.com/artist/5fElZYhQFp0lEc4FQVcRu1"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "We Are In Love",
-      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
         "name": "My One And Only Thrill",
         "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 210693,
       "name": "Baby I'm A Fool",
       "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "We Are In Love",
+      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "Moonlight Serenade",
-        "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 229986,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
         "name": "We Are In Love",
         "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 154906,
       "name": "Recipe For Love",
       "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
+        "name": "Moonlight Serenade",
+        "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 229986,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "They Didn't Believe Me",
+      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
         "name": "Platinum Collection",
         "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 175866,
       "name": "Qu'est-ce que tu crois ?",
       "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2022-11-23 07:51:20",
-      "album": {
         "name": "Your Songs",
         "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 202226,
       "name": "First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
+    },
+    {
+      "added_at": "2022-11-23 07:51:20",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2022-11-23 07:51:20",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-11-23 07:51:20",
       "album": {
-        "name": "The Essential Glenn Miller",
-        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
+        "name": "Vaughan And Violins",
+        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
       },
       "artists": [
         {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 190160,
-      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
-      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
+      "duration_ms": 182640,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
     }
   ],
   "unique_name": "An Elegant Affair",

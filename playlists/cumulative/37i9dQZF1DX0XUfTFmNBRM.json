@@ -2380,6 +2380,24 @@
     },
     {
       "album": {
+        "name": "Kya Kariye",
+        "url": "https://open.spotify.com/album/6I7ukO1gNwBiDHxIqjXdDV"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Lagan Lagi",
+      "url": "https://open.spotify.com/track/3VrW0js3lDsZyqNa3kNcUa"
+    },
+    {
+      "album": {
         "name": "Lagdi Lahore Di (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/1PQ8K9syD1KiKORuiRWF1w"
       },

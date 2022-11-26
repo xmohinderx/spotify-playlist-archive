@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: blink\-182
 
-193 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/7obgySRmTZymfPOzhJ5T39)
+194 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/7obgySRmTZymfPOzhJ5T39)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 | 2022-01-14 | 2022-06-11 |
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-10-14 | 2022-11-12 |
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2022-01-14 |  |
-| [Painkiller](https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 2:59 | 2022-08-01 |  |
+| [Painkiller](https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 2:59 | 2022-08-01 | 2022-11-26 |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-02 | 2022-10-29 |
 | [Peach](https://open.spotify.com/track/1OWNwD4n5bGm8CcH3uuQ3C) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Peach](https://open.spotify.com/album/33LMoG1vTsoNnUy9vvy8t3) | 4:16 | 2022-01-14 |  |
 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 | 2022-01-28 | 2022-11-13 |
@@ -157,6 +157,7 @@
 | [Surrender](https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 3:41 | 2022-01-14 | 2022-02-05 |
 | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/album/6rLcLYKvxCCqp78ZYXXXMy) | 2:48 | 2022-01-14 |  |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2022-01-14 | 2022-02-05 |
+| [Take the Ride](https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Take the Ride](https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX) | 2:58 | 2022-11-25 |  |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-09-02 |  |
 | [Take What You Want](https://open.spotify.com/track/4OYMEAquAbr1EWDtp5kx1x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Take What You Want](https://open.spotify.com/album/1pu9cD6Qa8PVQGiz52ZRQ5) | 4:14 | 2022-04-22 | 2022-07-29 |
 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 | 2022-07-01 | 2022-10-01 |

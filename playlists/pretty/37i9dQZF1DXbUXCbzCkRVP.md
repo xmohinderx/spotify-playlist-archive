@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,184 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,232 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 34 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 |
 | 35 | [Tribute To Elmore James](https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Second Album](https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ) | 3:25 |
 | 36 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
-| 37 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 |
-| 38 | [Part Time Blues](https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:19 |
+| 37 | [Part Time Blues](https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:19 |
+| 38 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 |
 | 39 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 |
 | 40 | [Overall Junction](https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 8:20 |
 | 41 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 1:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 49 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 |
 | 50 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 |
 
-Snapshot ID: `MTY2OTMwODYxOCwwMDAwMDAwMDljNzRkZGE4NTJjOWM3M2NlMjhlMjQ2NzBjZTA3M2U3`
+Snapshot ID: `MTY2OTMwODYxOCwwMDAwMDAwMDMwMzNhMjMzM2JlODI3ZWRiNzg2Mjg1N2YzYTRlYzU1`

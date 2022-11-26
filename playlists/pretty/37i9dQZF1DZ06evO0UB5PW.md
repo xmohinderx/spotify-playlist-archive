@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,558 likes - 45 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,567 likes - 45 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 44 | [Fallen Torches](https://open.spotify.com/track/55PBokVAiehQnFfapP54PK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:22 |
 | 45 | [The Last Baron](https://open.spotify.com/track/6MUc3qu8WOqO7hAY6gdhJY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 13:00 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAzNTIyOTE3MDhkMGRiOThjMWEwZWVjZDc0YTcxY2EyNw==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDA1MTY1NzI1NWZhMjVhMjBhZGZiZmE5M2IwY2Y0YTc5Mw==`

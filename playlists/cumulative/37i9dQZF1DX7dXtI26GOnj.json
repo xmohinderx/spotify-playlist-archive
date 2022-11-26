@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Rauw Alejandro",
+  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Karol G",
   "name": "Calorcito",
   "published_playlist_ids": [
     "0hWEX2Wmud5ZvfLlh8QTkr"
@@ -23,6 +23,28 @@
       "duration_ms": 175829,
       "name": "2 PALABRAS",
       "url": "https://open.spotify.com/track/69g0c784NPvnjGNyUEU1EX"
+    },
+    {
+      "album": {
+        "name": "A Veces (feat. Feid)",
+        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191555,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
     },
     {
       "album": {
@@ -1919,7 +1941,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
@@ -3262,6 +3284,24 @@
     },
     {
       "album": {
+        "name": "DISCO VOADOR",
+        "url": "https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158575,
+      "name": "pSi Lo saBE",
+      "url": "https://open.spotify.com/track/1pIqjlJdi5ubGWfaaCIrh6"
+    },
+    {
+      "album": {
         "name": "Psycho B**ch",
         "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
       },
@@ -4015,7 +4055,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 176290,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/68xg9tAB603bMnsCg7OD3Z"
@@ -4158,6 +4198,28 @@
     },
     {
       "album": {
+        "name": "Ulala",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188009,
+      "name": "Ulala",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -4219,7 +4281,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"

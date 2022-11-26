@@ -30314,6 +30314,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9"
+    },
+    {
+      "album": {
         "name": "Tango",
         "url": "https://open.spotify.com/album/3v85vwElHbbbgPIg9M56Cj"
       },
@@ -30325,7 +30343,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 222493,
       "name": "Tango",
       "url": "https://open.spotify.com/track/1cTPxRjuv4LE7N3unxy589"

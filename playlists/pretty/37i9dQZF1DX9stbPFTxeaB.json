@@ -1,13 +1,29 @@
 {
   "description": "Blues, but funky. Or funk, but bluesy. Cover: Kenny Wayne Shepherd",
-  "num_followers": 838319,
+  "num_followers": 838351,
   "original_name": "Funky Heavy Bluesy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGRkOWQxZjIxZGExYjMyYmJlNzRlZjNjZWQ1ODlhM2Mz",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGQxOWNmZGU2MzM0NDJlMzgwODFkOWFkYjE0NDA0ZWU0",
   "tracks": [
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7sv8d8tHuZTRzEmEOQFeoj"
+      },
+      "artists": [
+        {
+          "name": "The Gulls",
+          "url": "https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y"
+    },
     {
       "added_at": "2021-03-12 05:00:00",
       "album": {

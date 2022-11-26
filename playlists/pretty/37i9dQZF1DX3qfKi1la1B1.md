@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,653 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,688 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 14 | [Fever](https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Black Radio \(Deluxe Edition\)](https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C) | 6:48 |
 | 15 | [Butter \- Hidden Spheres Remix](https://open.spotify.com/track/30WL8qJoF0RUOOwmkALa7T) | [Nariaki Obukuro](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Strides Remixes](https://open.spotify.com/album/41gXeGhbitx4bPs69Epqof) | 3:54 |
 | 16 | [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 |
-| 17 | [Highway](https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9) | 5:28 |
+| 17 | [Highway](https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g) | 5:28 |
 | 18 | [Overthinker \- Stones Taro Remix](https://open.spotify.com/track/0mPLsl9A6JdPBqRws85AYk) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Overthinker\(Stones Taro Remix\)](https://open.spotify.com/album/53fRA0u4akvEtfL4POeEX5) | 4:54 |
 | 19 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 |
 | 20 | [Version Blue](https://open.spotify.com/track/6oOgdj7i9Mql2NDIhDBZX0) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Playing Nowhere](https://open.spotify.com/album/3oiGkzurwVioYdQd3dqrNo) | 4:35 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 53 | [Falling In Love](https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:05 |
 | 54 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
 | 55 | [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 |
-| 56 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
-| 57 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
-| 58 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 |
+| 56 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 |
+| 57 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
+| 58 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
 | 59 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
 | 60 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
 
-Snapshot ID: `MTY2OTMwMjAwMCwwMDAwMDAwMDExNjJmNzBkOTMzNGY3ZTRjMDI1OWU3MmM0ZTMxM2Vj`
+Snapshot ID: `MTY2OTMwMjAwMCwwMDAwMDAwMGVhMWFlNTI3YjljYWRlZjcxNDY0ZDA0NzEyYjNlMDhk`

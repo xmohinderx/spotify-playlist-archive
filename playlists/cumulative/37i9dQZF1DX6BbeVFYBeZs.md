@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-185 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+186 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Isola Bella](https://open.spotify.com/track/3JlL4o7hhUC2eWOByAdbk1) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Isola Bella](https://open.spotify.com/album/1usC9bDEEJ79QAVmg1FoCx) | 1:49 | 2022-09-09 |  |
 | [It Started With A Simple Hello](https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [It Started With A Simple Hello](https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd) | 2:48 | 2022-06-17 |  |
 | [La Rumba D'el Jefe](https://open.spotify.com/track/5zZEP23ceNvvA9IT6CnqoY) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Rumba Foundation](https://open.spotify.com/album/4PIZLP5JDoSFwyBNJMm9BA) | 3:37 | 2022-06-17 | 2022-07-29 |
+| [la Vigilia del búho](https://open.spotify.com/track/42WlKjbT3ZtIZItjBH3ZkF) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [la Vigilia del búho](https://open.spotify.com/album/0Tmhf4JVqsy6vvfY6hZjfZ) | 2:17 | 2022-11-25 |  |
 | [Laguna](https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Laguna](https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF) | 3:11 | 2022-11-18 |  |
 | [Lara](https://open.spotify.com/track/14fXKp1owsmQEzlsHFsC4k) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Lara](https://open.spotify.com/album/0OR0UbW0bvsxvpB7GAN8lo) | 2:04 | 2022-06-17 |  |
 | [Las Lagrimas De Lucia](https://open.spotify.com/track/7znYxzLpVk7LN3fMkGLB3g) | [Rimoneta](https://open.spotify.com/artist/3sGbxLPqbkEwXndXF5rZZc) | [Las Lagrimas De Lucia](https://open.spotify.com/album/4xlHGwdnzANu33Pp7spHtp) | 2:13 | 2022-06-17 |  |

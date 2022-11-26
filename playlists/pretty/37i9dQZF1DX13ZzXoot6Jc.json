@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Luke Combs",
-  "num_followers": 424128,
+  "num_followers": 424314,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMyOTY2NiwwMDAwMDAwMDQyYzYyYmIzNDUzOWM2NTRiMDIxNDMyYWI3MWVlN2U2",
+  "snapshot_id": "MTY2OTMyOTY2NiwwMDAwMDAwMDMwMmRlMTg0YjRjZGRjZWU0ZmQ2NDU3NGU5ZDY3MTIx",
   "tracks": [
     {
       "added_at": "2022-11-17 17:01:51",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
+        "name": "GOOD TIME",
+        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "GOOD TIME",
+      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
         "name": "The Way It Feels",
         "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 175840,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "GOOD TIME",
-      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
     },
     {
       "added_at": "2022-11-17 17:01:51",
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
-      "added_at": "2022-11-25 01:18:25",
+      "added_at": "2022-11-26 01:16:05",
       "album": {
         "name": "Water Under The Bridge",
         "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Life Rolls On",
-        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Long Live",
-      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 158240,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
+        "name": "Life Rolls On",
+        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Long Live",
+      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
     },
     {
       "added_at": "2022-11-17 17:01:51",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
         "name": "boom.",
         "url": "https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 196666,
       "name": "You Broke Up with Me",
       "url": "https://open.spotify.com/track/5jZF1nvKORdaHNjNNMRbFl"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
     },
     {
       "added_at": "2022-11-17 17:01:51",

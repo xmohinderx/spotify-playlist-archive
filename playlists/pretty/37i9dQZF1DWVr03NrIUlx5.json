@@ -1,15 +1,15 @@
 {
   "description": "8 bit bangers.",
-  "num_followers": 76682,
+  "num_followers": 76788,
   "original_name": "8 Bit Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNjA0MCwwMDAwMDAwMDVhNzk4NTk0ZjExNDMxNzZjZjA2YjcwZjRjMDA5MjY5",
+  "snapshot_id": "MTY2NDUxNjA0MCwwMDAwMDAwMGFkODBlYzEwNmRkMjYyZTAwM2E1MGFkMDcyYjVkNmJl",
   "tracks": [
     {
-      "added_at": "2022-11-25 01:08:15",
+      "added_at": "2022-11-26 01:03:48",
       "album": {
         "name": "Tonight (feat. Ezra Koenig) [8-Bit Button Masher Remix]",
         "url": "https://open.spotify.com/album/2GNvZZ39EQbDfg7AqO1UAF"
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "8 Bit Dynasty",
-        "url": "https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Dynasty",
-          "url": "https://open.spotify.com/artist/77CnzDPRTX7EYB1YMsO2NE"
-        },
-        {
-          "name": "N/A",
-          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
-        }
-      ],
-      "duration_ms": 270441,
-      "name": "Clean (8 Bit Version)",
-      "url": "https://open.spotify.com/track/1q5UT5EGiDE0lwyI5RHSXm"
-    },
-    {
-      "added_at": "2022-07-22 15:07:00",
-      "album": {
         "name": "8 Bit Joyride",
         "url": "https://open.spotify.com/album/6nBRHZwQ97d5UgRzhNLqxV"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 217141,
       "name": "Cake by the Ocean (8 Bit Version)",
       "url": "https://open.spotify.com/track/5YGQYIZLUEurid9mcuJMzl"
+    },
+    {
+      "added_at": "2022-07-22 15:07:00",
+      "album": {
+        "name": "8 Bit Dynasty",
+        "url": "https://open.spotify.com/album/5OqBkQMrWzGEYFE6fhjrhJ"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Dynasty",
+          "url": "https://open.spotify.com/artist/77CnzDPRTX7EYB1YMsO2NE"
+        },
+        {
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
+        }
+      ],
+      "duration_ms": 270441,
+      "name": "Clean (8 Bit Version)",
+      "url": "https://open.spotify.com/track/1q5UT5EGiDE0lwyI5RHSXm"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "8-Bit Versions of Metallica",
-        "url": "https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/6or0Zn98H9Cir0LILZq26W"
-    },
-    {
-      "added_at": "2022-07-22 15:07:00",
-      "album": {
         "name": "8-Bit Versions of Linkin Park",
         "url": "https://open.spotify.com/album/6W3SvNdAMTZxqQhuKhyhEe"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "8 Bit Jawns",
-        "url": "https://open.spotify.com/album/2xIqDFz4M21hhDRlTqAef0"
+        "name": "8-Bit Versions of Metallica",
+        "url": "https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S"
       },
       "artists": [
         {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
         }
       ],
-      "duration_ms": 225534,
-      "name": "Sandstorm (8 Bit Version)",
-      "url": "https://open.spotify.com/track/77PhhruRvyonqhzwKEYHU8"
+      "duration_ms": 270000,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/6or0Zn98H9Cir0LILZq26W"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -987,6 +971,22 @@
       "duration_ms": 221020,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/1rVr7Tq6lAk9ctFEm2IlTE"
+    },
+    {
+      "added_at": "2022-07-22 15:07:00",
+      "album": {
+        "name": "8 Bit Jawns",
+        "url": "https://open.spotify.com/album/2xIqDFz4M21hhDRlTqAef0"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 225534,
+      "name": "Sandstorm (8 Bit Version)",
+      "url": "https://open.spotify.com/track/77PhhruRvyonqhzwKEYHU8"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "Lit 8 Bits",
-        "url": "https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
-        }
-      ],
-      "duration_ms": 115559,
-      "name": "Old Town Road (8 Bit Version)",
-      "url": "https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2"
-    },
-    {
-      "added_at": "2022-07-22 15:07:00",
-      "album": {
         "name": "8-Bit Versions of Queen",
         "url": "https://open.spotify.com/album/1BUP3E3dL2AIFofpXV4umQ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 338873,
       "name": "Bohemian Rhapsody",
       "url": "https://open.spotify.com/track/0Fj5KBQsHdeaKG8fJAyIWt"
+    },
+    {
+      "added_at": "2022-07-22 15:07:00",
+      "album": {
+        "name": "Lit 8 Bits",
+        "url": "https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 115559,
+      "name": "Old Town Road (8 Bit Version)",
+      "url": "https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "8-Bit Versions of Avenged Sevenfold",
-        "url": "https://open.spotify.com/album/3qSsdgZP7HrTFCkYnVVHW1"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 250956,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/4z5sPd30YF6UbFJWxCVMAQ"
-    },
-    {
-      "added_at": "2022-07-22 15:07:00",
-      "album": {
         "name": "8-Bit Versions of Twenty One Pilots",
         "url": "https://open.spotify.com/album/1bBLH23v2BFQejyWAXQXOX"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 197333,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/5Q3oWfRpID64IA9auc4NMS"
+    },
+    {
+      "added_at": "2022-07-22 15:07:00",
+      "album": {
+        "name": "8-Bit Versions of Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3qSsdgZP7HrTFCkYnVVHW1"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 250956,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/4z5sPd30YF6UbFJWxCVMAQ"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "The Ultimate Korn",
-        "url": "https://open.spotify.com/album/0Q2sBVJZsF1SiS4j2qL5aW"
+        "name": "Program the Party",
+        "url": "https://open.spotify.com/album/0YXTQKfMIT9bl4tQCyEa4O"
       },
       "artists": [
         {
-          "name": "8-Bit Arcade",
-          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
         }
       ],
-      "duration_ms": 245935,
-      "name": "Falling Away from Me (8-Bit Computer Game Version)",
-      "url": "https://open.spotify.com/track/2Q3aNnGQZM8LnNI4DSyE28"
+      "duration_ms": 204513,
+      "name": "Paper Planes (8 Bit Version)",
+      "url": "https://open.spotify.com/track/5z7P6AS3UhpYQMqGBblCQB"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
+        "name": "8-Bit Versions of Nirvana",
+        "url": "https://open.spotify.com/album/0tbrVxoMh8YaAVSrNBG14d"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 301043,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5CVCqj3EtrFDMhZylxpqhf"
+    },
+    {
+      "added_at": "2022-07-22 15:07:00",
+      "album": {
         "name": "8-Bit Versions of Coheed and Cambria",
         "url": "https://open.spotify.com/album/03yCGYcjR62dJXJhPuZ4zY"
       },
@@ -1343,34 +1359,18 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "Program the Party",
-        "url": "https://open.spotify.com/album/0YXTQKfMIT9bl4tQCyEa4O"
+        "name": "The Ultimate Korn",
+        "url": "https://open.spotify.com/album/0Q2sBVJZsF1SiS4j2qL5aW"
       },
       "artists": [
         {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+          "name": "8-Bit Arcade",
+          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
         }
       ],
-      "duration_ms": 204513,
-      "name": "Paper Planes (8 Bit Version)",
-      "url": "https://open.spotify.com/track/5z7P6AS3UhpYQMqGBblCQB"
-    },
-    {
-      "added_at": "2022-07-22 15:07:00",
-      "album": {
-        "name": "8-Bit Versions of Nirvana",
-        "url": "https://open.spotify.com/album/0tbrVxoMh8YaAVSrNBG14d"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 301043,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5CVCqj3EtrFDMhZylxpqhf"
+      "duration_ms": 245935,
+      "name": "Falling Away from Me (8-Bit Computer Game Version)",
+      "url": "https://open.spotify.com/track/2Q3aNnGQZM8LnNI4DSyE28"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "8-Bit Versions of Metallica",
-        "url": "https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "One",
-      "url": "https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ"
-    },
-    {
-      "added_at": "2022-07-22 15:07:00",
-      "album": {
         "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
         "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 250813,
       "name": "Snow (Hey Oh)",
       "url": "https://open.spotify.com/track/41SA5xHK3B3LI0f6bj9tyR"
+    },
+    {
+      "added_at": "2022-07-22 15:07:00",
+      "album": {
+        "name": "8-Bit Versions of Metallica",
+        "url": "https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "One",
+      "url": "https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "8-Bit Universe, Vol. 14",
-        "url": "https://open.spotify.com/album/39cvCh6jfHDGfkrOAS1aOM"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
-        }
-      ],
-      "duration_ms": 217245,
-      "name": "Shake It Off - 8-Bit Version",
-      "url": "https://open.spotify.com/track/6SGKOA0LzHTtZBue2RfaqF"
-    },
-    {
-      "added_at": "2022-07-22 15:07:00",
-      "album": {
         "name": "8-Bit Versions of Depeche Mode",
         "url": "https://open.spotify.com/album/0V43sy9cb2Q8HQroLLD1wV"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 255511,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/74mbMt5h9srEgEl0pXrpJU"
+    },
+    {
+      "added_at": "2022-07-22 15:07:00",
+      "album": {
+        "name": "8-Bit Universe, Vol. 14",
+        "url": "https://open.spotify.com/album/39cvCh6jfHDGfkrOAS1aOM"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 217245,
+      "name": "Shake It Off - 8-Bit Version",
+      "url": "https://open.spotify.com/track/6SGKOA0LzHTtZBue2RfaqF"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "Life in 8 Bit",
-        "url": "https://open.spotify.com/album/2mvpFiWBrD3l6y5kXGMM4o"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Schroeder",
-          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
-        }
-      ],
-      "duration_ms": 190886,
-      "name": "Drag Me Down (8 Bit)",
-      "url": "https://open.spotify.com/track/4nanieJKGPcyUWgTwCGwk5"
-    },
-    {
-      "added_at": "2022-07-22 15:07:00",
-      "album": {
         "name": "The 8 Bit Mix Tape",
         "url": "https://open.spotify.com/album/6ocA2f6IzrcMSJuEX6q3Yd"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "Rock & Metal Anthems",
-        "url": "https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf"
+        "name": "Life in 8 Bit",
+        "url": "https://open.spotify.com/album/2mvpFiWBrD3l6y5kXGMM4o"
       },
       "artists": [
         {
-          "name": "8-Bit Arcade",
-          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
+          "name": "Benjamin Schroeder",
+          "url": "https://open.spotify.com/artist/2MLypapYfbqYI5sfyVRdky"
         }
       ],
-      "duration_ms": 206891,
-      "name": "Toxicity (8-Bit System Of A Down Emulation)",
-      "url": "https://open.spotify.com/track/78stY6565a5LgCpTvnhxl2"
+      "duration_ms": 190886,
+      "name": "Drag Me Down (8 Bit)",
+      "url": "https://open.spotify.com/track/4nanieJKGPcyUWgTwCGwk5"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 184773,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/7DJ3CdD4IdIX78siG1vJb9"
+    },
+    {
+      "added_at": "2022-07-22 15:07:00",
+      "album": {
+        "name": "Rock & Metal Anthems",
+        "url": "https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Arcade",
+          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
+        }
+      ],
+      "duration_ms": 206891,
+      "name": "Toxicity (8-Bit System Of A Down Emulation)",
+      "url": "https://open.spotify.com/track/78stY6565a5LgCpTvnhxl2"
     },
     {
       "added_at": "2022-07-22 15:07:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2022-07-22 15:07:00",
       "album": {
-        "name": "8-bit tribute to Bon Jovi",
-        "url": "https://open.spotify.com/album/2v8qBUr8Xh8cK5pnitp4nJ"
+        "name": "8-Bit Versions of Iron Maiden",
+        "url": "https://open.spotify.com/album/6xPPlEtcuwC6NlCWIxIk6V"
       },
       "artists": [
         {
-          "name": "Chiptune Radio",
-          "url": "https://open.spotify.com/artist/6HWfXh9ErTOP7mSk7kxnf0"
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
         }
       ],
-      "duration_ms": 224834,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/6UjUvXX0IG3FjtB6hO1a3m"
+      "duration_ms": 214736,
+      "name": "The Number of the Beast",
+      "url": "https://open.spotify.com/track/3G3QnHwq6j2OzIoqxHhK1H"
     }
   ],
   "unique_name": "8 Bit Hits",

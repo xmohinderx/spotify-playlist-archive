@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Yung Juse.
 
-242 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+243 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [REVOLVER](https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O) | [I THINK I THINK TOO MUCH](https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo) | 3:25 | 2022-09-22 |  |
 | [Roads](https://open.spotify.com/track/3HfAhtgBdCt5eDodsDMVUE) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Roads](https://open.spotify.com/album/5McMjC94XEKWJ01IP6lKoy) | 2:04 | 2022-11-18 |  |
 | [Ronaldo](https://open.spotify.com/track/3CmccPzPZRHwXWKGoXUVde) | [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT) | [Ronaldo](https://open.spotify.com/album/5qPXzQhaqdBaWALdmAMt7T) | 2:20 | 2022-08-04 | 2022-10-28 |
+| [Rosa](https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST) | [Rosa](https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho) | 3:30 | 2022-11-25 |  |
 | [Sabes o Que é Life? Pt\. 2](https://open.spotify.com/track/5p5hRYa6Lkerb0jTIgYZMe) | [Edi Ventura](https://open.spotify.com/artist/4Q8Yv1CiUWvjhLfNq7c72F) | [Sabes o Que é Life? Pt\. 2](https://open.spotify.com/album/4QDBnHZTK19AixLoc7yqZm) | 4:32 | 2022-08-04 | 2022-10-28 |
 | [Sai Feiticeiro](https://open.spotify.com/track/1TnxG0q4CYSg2PyvuIOdjZ) | [Ama G](https://open.spotify.com/artist/5j3HpkNw30Hnq4J8O2GJVa) | [Sai Feiticeiro](https://open.spotify.com/album/6QPfDXLDXwuBLuGpZ3el1G) | 4:11 | 2022-07-07 | 2022-08-26 |
 | [Sangue](https://open.spotify.com/track/6MEOW2h9FfRhkrnZCYv1sU) | [ENOCK](https://open.spotify.com/artist/0ZQbhzbdCo4Mm77BxPVBIY), [LO KYO](https://open.spotify.com/artist/0x7ZY4ZNkD8Af2UixK4tUi) | [Sangue](https://open.spotify.com/album/1pDuOefGj0PWu3M1PcPjUJ) | 3:13 | 2022-07-07 | 2022-09-02 |

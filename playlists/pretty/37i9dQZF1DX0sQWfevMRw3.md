@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Ahh ingen gör det som oss!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,889 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,104 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 3 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 |
 | 4 | [CHEVA PÅ FREDAG](https://open.spotify.com/track/6JvSqDyQ6rbbb93XklyNQ7) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [CHEVA PÅ FREDAG](https://open.spotify.com/album/3PPJzp8UYVzn3h1evPqtSV) | 2:24 |
 | 5 | [Genom Dalarna](https://open.spotify.com/track/2izd2Ke23axCcWGUkAyKyG) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Genom Dalarna](https://open.spotify.com/album/7qT77qFCP5oiA1PIb9eZeW) | 2:42 |
-| 6 | [SNURRAR SOM ETT HJUL](https://open.spotify.com/track/08TmjaKrRDvnRfuMWccWsN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Fröken Snusk](https://open.spotify.com/artist/4ZGpzhHkFKGrtSWsM4ChH5) | [SNURRAR SOM ETT HJUL](https://open.spotify.com/album/5NcBV2Wruziy3gkKjny9Yh) | 2:05 |
+| 6 | [SNURRAR SOM ETT HJUL](https://open.spotify.com/track/08TmjaKrRDvnRfuMWccWsN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [SNURRAR SOM ETT HJUL](https://open.spotify.com/album/5NcBV2Wruziy3gkKjny9Yh) | 2:05 |
 | 7 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 | 8 | [Dubbel D](https://open.spotify.com/track/2jAGW5r4OfOJ8gj8qGUWVL) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF), [Blondini](https://open.spotify.com/artist/0l5Z38yckkLZE55rEUZtVK) | [Dubbel D](https://open.spotify.com/album/2mOFC1Py1sxaE0kZrAS2pe) | 2:09 |
 | 9 | [NÄR RADION DÅNAR](https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [NÄR RADION DÅNAR](https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO) | 2:10 |

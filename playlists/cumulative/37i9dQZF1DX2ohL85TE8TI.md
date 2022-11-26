@@ -4,7 +4,7 @@
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Ditto\(동감\)\)
 
-459 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
+461 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Fall in love](https://open.spotify.com/track/5h6c3ArwadWdEny5yXUPOt) | [Jihan](https://open.spotify.com/artist/47ODPG71p0WSxPL9fjooi4), [Park Soeun](https://open.spotify.com/artist/5mRaQUiwWOrJGSsC2TM1K0) | [Fall in love \(A Business Proposal OST Part.6\)](https://open.spotify.com/album/3JYP9Vln3dCV2vIXcVWKzy) | 3:19 | 2022-03-24 | 2022-06-14 |
 | [Falling](https://open.spotify.com/track/1cXlFn45iKoANa74LUqiCP) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/49RPhfmbjEiPdrSzzpN2YO) | 3:01 | 2022-11-16 |  |
 | [Farewell Stopped Time](https://open.spotify.com/track/5tXaqGxunxzRAMSiDF0JJY) | [Yoon Yeo Kyu](https://open.spotify.com/artist/2OV19DWpMxsMV5N2mDWo9p) | [Young Lady And Gentleman \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0mRY8SeFynVVa2oMV3J5eW) | 4:16 | 2022-02-21 | 2022-05-12 |
+| [Feel My Heart](https://open.spotify.com/track/6UfTnJ8W97OElE8JSHu25e) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Behind Every Star \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/3ofJVo6jygV5hTdXTv7y3n) | 3:09 | 2022-11-25 |  |
 | [Feel so good](https://open.spotify.com/track/2N6Sf7zENnpltAb0LgY6xn) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gongzza, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2WMCIxUpPYulkVWLTu1ghK) | 3:10 | 2022-05-11 | 2022-08-03 |
 | [Fight On](https://open.spotify.com/track/3RKHz2UxKMtGfHmRJ6wowu) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/6ZAm0SSHJIW7vEFpaXOc4t) | 3:21 | 2022-06-28 | 2022-10-08 |
 | [Finale](https://open.spotify.com/track/0oslYYo3t1iwbnoTJy1mja) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 3:07 | 2021-12-19 | 2022-03-25 |
@@ -357,6 +358,7 @@
 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 | 2022-08-18 |  |
 | [Straight](https://open.spotify.com/track/74GCPkDvhTuB3uzejf43a5) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Dali and Cocky Prince \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/3pt5sXb0xjjqRYCNk1MLVI) | 3:07 | 2021-12-19 | 2021-12-25 |
 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 | 2022-06-20 | 2022-09-20 |
+| [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-25 |  |
 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 | 2022-01-14 | 2022-04-22 |
 | [Sunday to Monday](https://open.spotify.com/track/4GlfPmVBquQ8uNV60FVE4B) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Woori The Virgin, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/09jEbMGUNe8el2xPyJrhDj) | 3:42 | 2022-06-18 | 2022-08-20 |
 | [Sunset Village](https://open.spotify.com/track/1dFwUiafCcOqp8EYAQdR8r) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/6Rg3OPU1ySX27gmUVVzN57) | 4:29 | 2022-09-19 |  |

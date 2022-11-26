@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-362 songs - 22 hr 57 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+363 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 |  |
 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 | 2022-06-28 |  |
 | [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 | 2022-06-28 |  |
+| [Lonely Dreams](https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Lonely Dreams](https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5) | 3:37 | 2022-11-24 |  |
 | [Long Ago And Far Away](https://open.spotify.com/track/4E8iJLPtZiIHvquh0rf0f5) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Long Ago And Far Away](https://open.spotify.com/album/579pCXCY423zV2a3ReVko9) | 3:25 | 2022-10-27 |  |
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-06-28 |  |
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2022-06-28 |  |
@@ -235,7 +236,7 @@
 | [Next Door Dreaming](https://open.spotify.com/track/7efC0wMGzDX0nsZX1dQodO) | [Rob Kasaki](https://open.spotify.com/artist/41EpNGSsN3YUU0KhLhJ7Uh) | [Next Door Dreaming](https://open.spotify.com/album/27GlvAjgPmmgXpZUBiYWjS) | 2:18 | 2022-06-28 | 2022-10-08 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-06-28 |  |
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-07 |  |
-| [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-06-28 |  |
+| [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-06-28 | 2022-11-26 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 |  |
 | [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 | 2022-06-28 | 2022-11-01 |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-06-28 |  |

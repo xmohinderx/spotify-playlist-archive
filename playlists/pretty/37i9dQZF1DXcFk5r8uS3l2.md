@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,395 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,460 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 14 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 |
 | 15 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 |
 | 16 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 |
-| 17 | [Soulfight](https://open.spotify.com/track/3TQxkQsyJS03EUwl02Qaub) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [The Revivalists](https://open.spotify.com/album/6c65k7oQyZ1VIaDvOlOwQT) | 6:32 |
-| 18 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
+| 17 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
+| 18 | [Soulfight](https://open.spotify.com/track/3TQxkQsyJS03EUwl02Qaub) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [The Revivalists](https://open.spotify.com/album/6c65k7oQyZ1VIaDvOlOwQT) | 6:32 |
 | 19 | [Sound & Color](https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:02 |
 | 20 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
 | 21 | [Good To You](https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17) | [Jonny P](https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6) | [Good To You](https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15) | 2:38 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 30 | [Grass Is Greener](https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 4:14 |
 | 31 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 |
 | 32 | [belladonna](https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:15 |
-| 33 | [Eastham Prison Farm Blues \- Stripped Back](https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(Stripped Back\)](https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3) | 3:00 |
-| 34 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 |
+| 33 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 |
+| 34 | [Eastham Prison Farm Blues \- Stripped Back](https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(Stripped Back\)](https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3) | 3:00 |
 | 35 | [Need To Know Basis](https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 1:59 |
 | 36 | [Ain't Gotta Worry Child](https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 3:05 |
 | 37 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 64 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 |
 | 65 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 |
 | 66 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 |
-| 67 | [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 |
-| 68 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 |
+| 67 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 |
+| 68 | [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 |
 | 69 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 |
 | 70 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 |
 | 71 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 74 | [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 |
 | 75 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDg4ZDU1M2Y0NjU3YTBiZWI4MDg3MzI0M2ZiODgwOTg0`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDA3NTRmOTNjMjdiMDE2M2Y4MGRjNmNjOWYyOTExZmJl`

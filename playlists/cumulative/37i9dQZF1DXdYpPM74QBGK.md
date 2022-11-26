@@ -4,7 +4,7 @@
 
 > Party on with these top children's tracks!
 
-67 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/35J8tx9xvVM0O8oKcmw2vk)
+68 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/35J8tx9xvVM0O8oKcmw2vk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,13 +53,14 @@
 | [Nonstop](https://open.spotify.com/track/28t4A1DdvuZzub3p8E7qFF) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/3Rfex8n3nRVBZyN0JX059j) | 2:20 | 2021-12-01 | 2022-11-24 |
 | [Nonstop](https://open.spotify.com/track/7M0S9UOrhrWM0Ce7Tkl8QT) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/6b9STxR1fsmemwH0C2DlIH) | 2:20 | 2021-12-01 |  |
 | [One Tribe](https://open.spotify.com/track/0ZzcIDCRQLEhdkpZ3sRtfP) | [1 Tribe Collective](https://open.spotify.com/artist/16kRGICZQiz5QqArmWwN1p) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:47 | 2021-12-01 |  |
-| [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 | 2021-12-01 |  |
+| [PAW Patrol Opening Theme](https://open.spotify.com/track/1yWYXhJCbiWHH9bLcG1ptK) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp) | 0:40 | 2021-12-01 |  |
+| [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 | 2021-12-01 | 2022-11-26 |
 | [PAW Patrol Opening Theme](https://open.spotify.com/track/6J5tBYqpU2amNkTkIPHCHE) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1) | 0:40 | 2021-12-01 | 2022-11-24 |
 | [PAW Patrol Opening Theme](https://open.spotify.com/track/7n70tzvZDfdAL1j9XqsAbH) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf) | 0:40 | 2021-12-01 | 2022-10-14 |
 | [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/0mtbdLpb00NVosTfz8qtow) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1) | 1:39 | 2021-12-01 | 2022-11-24 |
 | [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/3mXOoFswXWtqAR8vAYUtBG) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf) | 1:39 | 2021-12-01 | 2022-10-13 |
-| [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/5L4wJYKr5TYoMlZt3aD8wO) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp) | 1:39 | 2021-12-01 |  |
-| [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/7lwkzHlF9BroFhhZRZ1sdi) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 1:39 | 2021-12-01 | 2022-11-25 |
+| [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/5L4wJYKr5TYoMlZt3aD8wO) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp) | 1:39 | 2021-12-01 | 2022-11-26 |
+| [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/7lwkzHlF9BroFhhZRZ1sdi) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 1:39 | 2021-12-01 |  |
 | [PJ Masks Theme Song](https://open.spotify.com/track/7eKpWdTDReOTNn1mXPyuzf) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 0:40 | 2021-12-01 |  |
 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 | 2021-12-01 |  |
 | [Rock\-a\-Bye Your Bear](https://open.spotify.com/track/5V0hwPnZnYroTZN7ZhZE2J) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:26 | 2021-12-01 |  |

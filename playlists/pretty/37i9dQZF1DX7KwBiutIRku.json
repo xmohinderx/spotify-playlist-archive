@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 47001,
+  "num_followers": 47108,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDJjZGQ3NjVlMGYyY2M0MjEyM2ZmYWM2Njc5NTg4NTNl",
+  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMGNhMTUxYTE0M2E0ODczYTAyODEyMmY5Y2ExZTRlOWE3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -251,22 +251,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+        "name": "Malpractice",
+        "url": "https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+          "name": "Dr. Feelgood",
+          "url": "https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV"
         }
       ],
-      "duration_ms": 246493,
-      "name": "Let's Make It",
-      "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
+      "duration_ms": 240866,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -287,18 +283,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Malpractice",
-        "url": "https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO"
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
       "artists": [
         {
-          "name": "Dr. Feelgood",
-          "url": "https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG"
+      "duration_ms": 246493,
+      "name": "Let's Make It",
+      "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

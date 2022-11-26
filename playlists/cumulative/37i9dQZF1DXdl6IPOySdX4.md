@@ -4,7 +4,7 @@
 
 > you up?
 
-338 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+339 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 | 2022-11-10 |
 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 | 2022-05-12 | 2022-05-20 |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-03-25 |  |
+| [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-18 |  |
 | [do re mi](https://open.spotify.com/track/3sTCfUmYXSVWDacTd6uMbQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [do re mi](https://open.spotify.com/album/2pVmCOuvfn3SbDgR2QW3lW) | 3:32 | 2022-02-04 | 2022-04-12 |
 | [do re mi](https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 3:32 | 2022-10-24 |  |
 | [Don't Let Me Down \(feat\. Khalid\)](https://open.spotify.com/track/2cSiyndkQZRPmYOfrk9WlC) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Don't Let Me Down / All to You](https://open.spotify.com/album/1NkkXbEvt3lhsVdgYYf8tn) | 2:56 | 2022-04-01 | 2022-04-19 |
@@ -249,7 +250,7 @@
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 | 2022-07-27 |
 | [Poison](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Poison](https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD) | 3:32 | 2022-02-20 |  |
 | [Prada](https://open.spotify.com/track/4vaEOyy9MYJIsa8YvaxCD6) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Prada](https://open.spotify.com/album/01YijZvjK0ksgnERYtrYaX) | 1:53 | 2022-02-20 | 2022-06-14 |
-| [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2022-03-25 |  |
+| [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2022-03-25 | 2022-11-26 |
 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 | 2022-03-28 |  |
 | [Put On Repeat](https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Put On Repeat](https://open.spotify.com/album/7fkVD3CHttaBT4rnyEZiCN) | 3:05 | 2022-02-11 | 2022-07-29 |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2022-03-25 | 2022-04-21 |

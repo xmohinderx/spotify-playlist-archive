@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-141 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
+142 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2022-03-22 |  |
 | [Archangel](https://open.spotify.com/track/1aaIYTqoRDzRUilU2Q6vTe) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 3:58 | 2022-03-22 | 2022-07-16 |
 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 | 2022-03-22 |  |
-| [Ars Vivendi](https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm) | [Eisket](https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK) | [Ars Vivendi](https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F) | 6:21 | 2022-03-22 |  |
+| [Ars Vivendi](https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm) | [Eisket](https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK) | [Ars Vivendi](https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F) | 6:21 | 2022-03-22 | 2022-11-26 |
 | [Arterial](https://open.spotify.com/track/4peVRcmAcueJlmM0dFd8OX) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/0t3mZVc3l8zwo8b8la2jfM) | 4:14 | 2022-03-22 | 2022-07-29 |
 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 | 2022-07-15 |  |
 | [As Long as There's Sunset](https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Aerial](https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89) | 6:09 | 2022-03-22 |  |
@@ -55,6 +55,7 @@
 | [Distance](https://open.spotify.com/track/7sKlCCbWryUL7uANyvFDw6) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Distance \- EP](https://open.spotify.com/album/1tz2pddT85FcmrmkCe0zfs) | 7:12 | 2022-03-22 | 2022-07-12 |
 | [End Title \- Art of Tones Remix](https://open.spotify.com/track/4JFjJqCYitt1NGcpXZ6xsR) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Deep Blues](https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s) | 8:45 | 2022-03-22 | 2022-09-26 |
 | [Epoch](https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch](https://open.spotify.com/album/2hgVjzYQb3Yb5FHT8smg4T) | 5:45 | 2022-07-15 | 2022-11-22 |
+| [Epoch](https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch \(Deluxe Version\)](https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg) | 5:45 | 2022-07-15 |  |
 | [Epoch](https://open.spotify.com/track/5EeNRe6Fi29tTrssVzl4dw) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch](https://open.spotify.com/album/0GXI4iAc5FshqWgIlaNAXO) | 5:45 | 2022-03-22 | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh) | [A Forest Mighty Black](https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y) | [Mellowdramatic](https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3) | 7:58 | 2022-03-22 | 2022-11-20 |
 | [Excess](https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Excess EP](https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE) | 7:12 | 2022-03-22 |  |

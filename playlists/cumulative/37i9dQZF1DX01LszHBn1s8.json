@@ -9815,10 +9815,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 134141,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/5vQVca1ShutehX51ewkuPN"
+    },
+    {
+      "album": {
+        "name": "Brat",
+        "url": "https://open.spotify.com/album/7mqLjqpHVCgqNJbrcXz0Yc"
+      },
+      "artists": [
+        {
+          "name": "HaveCasual",
+          "url": "https://open.spotify.com/artist/5NbAZ8UutBbmESKNisG7oK"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134083,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/7pLnAla6HcJJLExBGZklju"
     },
     {
       "album": {

@@ -1,13 +1,137 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Secily",
-  "num_followers": 172253,
+  "num_followers": 172395,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5NjQ5MSwwMDAwMDAwMDg1ZDdkMjJhYzFhNjYzZjM2MTIwZTIyNGNhZDgyMGQx",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDAzNWNmZWZkYTRkOTM1ZDhlZjhhZTc2MWE0YTM4ZGE4",
   "tracks": [
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "IT'S PRICIE",
+        "url": "https://open.spotify.com/album/3oxB7OZmXl7G0KAehBE9iJ"
+      },
+      "artists": [
+        {
+          "name": "PRICIE",
+          "url": "https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "U, U and Only U",
+      "url": "https://open.spotify.com/track/4rq2z754eYOq3HBDCVcswc"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/6DEDsw36XwmVj6JrE9HrIE"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 118375,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/523usGNKxmt7aXqzYG3wE6"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/5dGg5xBwmtNksRRfic2r9y"
+      },
+      "artists": [
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6NFfdk3mverX1Uxwu9AMVJ"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Good Things (Remix)",
+        "url": "https://open.spotify.com/album/4rMkdfw5lunESFETaf4TsH"
+      },
+      "artists": [
+        {
+          "name": "Jay Glavany",
+          "url": "https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q"
+        },
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "duration_ms": 217443,
+      "name": "Good Things (Remix)",
+      "url": "https://open.spotify.com/track/3linBtGF8ouzEncml6s2ux"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Not Mad",
+        "url": "https://open.spotify.com/album/5kCujf0HXNP9lLnSzznIiU"
+      },
+      "artists": [
+        {
+          "name": "Salome",
+          "url": "https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "Not Mad",
+      "url": "https://open.spotify.com/track/2LSLOF95FlWBCvHauAEU7e"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Pov",
+        "url": "https://open.spotify.com/album/27L7cQxrrlgUBbeLgNf2v0"
+      },
+      "artists": [
+        {
+          "name": "Backend Projects",
+          "url": "https://open.spotify.com/artist/6MPBisSIX2hAUsGzgN8keY"
+        },
+        {
+          "name": "MiMi",
+          "url": "https://open.spotify.com/artist/2eO5amGdfMGkheRmBPVEnR"
+        },
+        {
+          "name": "Gio Luna",
+          "url": "https://open.spotify.com/artist/29tpl4rvLDPOimIiKgrENa"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "View",
+      "url": "https://open.spotify.com/track/1PHGUCoURaebDUnQa57v4g"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Cheaper Than Therapy",
+        "url": "https://open.spotify.com/album/4z625iYFMJnfihdWN7Hdyi"
+      },
+      "artists": [
+        {
+          "name": "Benjamin A.D",
+          "url": "https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN"
+        }
+      ],
+      "duration_ms": 147029,
+      "name": "Cheaper Than Therapy",
+      "url": "https://open.spotify.com/track/02tOkTieBbxiM1DZKrF9Qp"
+    },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {

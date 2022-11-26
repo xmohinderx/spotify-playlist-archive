@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,309 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,379 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,22 +74,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 64 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 |
 | 65 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
 | 66 | [Vacation \(feat\. Train\)](https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Vacation \(feat\. Train\)](https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0) | 3:32 |
-| 67 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
-| 68 | [Blackout](https://open.spotify.com/track/3R4rGlA4MbG0I3XjfsH8If) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blessings](https://open.spotify.com/album/5eL6kdOkLUdF35zemcJJGg) | 3:42 |
+| 67 | [Blackout](https://open.spotify.com/track/3R4rGlA4MbG0I3XjfsH8If) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blessings](https://open.spotify.com/album/5eL6kdOkLUdF35zemcJJGg) | 3:42 |
+| 68 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
 | 69 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
 | 70 | [Little Green Bag](https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [The Tarantino Connection](https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q) | 3:15 |
 | 71 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
 | 72 | [Brad Pitt](https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:36 |
-| 73 | [Hollow Life](https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:57 |
-| 74 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 |
-| 75 | [Wherever You Go](https://open.spotify.com/track/38GuP87aSI8phjYj7TzZK8) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Sirens](https://open.spotify.com/album/61BsnCrEb7zeRowWTFP4zC) | 3:31 |
+| 73 | [Wherever You Go](https://open.spotify.com/track/38GuP87aSI8phjYj7TzZK8) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Sirens](https://open.spotify.com/album/61BsnCrEb7zeRowWTFP4zC) | 3:31 |
+| 74 | [Hollow Life](https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:57 |
+| 75 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 |
 | 76 | [I Wanna Be Your High](https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [I Wanna Be Your High](https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU) | 3:07 |
 | 77 | [Palm Reader](https://open.spotify.com/track/5LtrJHnBO57EoVHsLR6xR8) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/0QdTN7cbQCSTyzZqLQubCI) | 3:00 |
-| 78 | [Peachy](https://open.spotify.com/track/176zLXcj1PiFN7DATpBT1j) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 3:22 |
-| 79 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 |
+| 78 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 |
+| 79 | [Peachy](https://open.spotify.com/track/176zLXcj1PiFN7DATpBT1j) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 3:22 |
 | 80 | [Ocean Eyes](https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y) | [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [Ocean Eyes](https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph) | 3:22 |
-| 81 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
-| 82 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 |
+| 81 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 |
+| 82 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
 | 83 | [Says She Loves Me](https://open.spotify.com/track/6esi0H0bM3ORbJwgVVCoOt) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/1wK7QTctYTPfRkkJ9zyyYY) | 3:39 |
 | 84 | [Crazy Mad Beautiful](https://open.spotify.com/track/7aZkSXM4C6XBspwHaLSvaJ) | [Luke Mitrani](https://open.spotify.com/artist/6OzAqsb9KgjKjUyoTjZ6UV) | [Live It Up](https://open.spotify.com/album/6fTrc7CxLHco921W4qT3u2) | 3:08 |
 | 85 | [Good Feeling](https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 99 | [Changes](https://open.spotify.com/track/5RdHkLxnVnj1RZndX1Sj1T) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/7zDlksfOktU7vodm08KPsb) | 3:31 |
 | 100 | [Mixtape](https://open.spotify.com/track/7pV3R5btHH6ddO4FYUumej) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Girls.](https://open.spotify.com/album/731pQqiILP4nsxEUzvRAhf) | 3:52 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDc5OTc0YjJmNzczNzkzMzAyMjJkMGIyODNkNDRkODc5`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGIxZWNlMjRlODkzMWM2YzIyZTJmZmRmMjg5MDI1YTYw`

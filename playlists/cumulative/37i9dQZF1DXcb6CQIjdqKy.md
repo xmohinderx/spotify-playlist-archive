@@ -2,9 +2,9 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\.  Cover:  Blessing Offor
+> The best mix of today's Christian music, all genres, worldwide\.  Cover:  Katy Nichole
 
-398 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
+399 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 | 2022-05-27 | 2022-06-11 |
 | [New Creation](https://open.spotify.com/track/66CqLV4jBPFGoN8kx78J15) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:02 | 2021-12-17 | 2022-04-09 |
 | [New Wine Flow](https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [New Wine Flow](https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y) | 3:29 | 2022-06-24 | 2022-07-16 |
+| [Nights In Atlanta](https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Nights In Atlanta](https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE) | 2:25 | 2022-11-25 |  |
 | [No Hurt](https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [No Hurt](https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T) | 3:12 | 2022-08-05 | 2022-08-27 |
 | [Now Here \- In Studio](https://open.spotify.com/track/4hgrcAj2dsBf9Nen7IV3kg) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Now Here \(The Collection\)](https://open.spotify.com/album/6O3TlNhKm1rXwGGClEDMOc) | 3:42 | 2022-06-24 |  |
 | [Oh, Can You See It](https://open.spotify.com/track/5UkICwSpvTckm7XsfQ1tnB) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Oh, Can You See It](https://open.spotify.com/album/0ClvMrD7ijED1NIEe7iyny) | 4:12 | 2022-01-28 | 2022-02-19 |

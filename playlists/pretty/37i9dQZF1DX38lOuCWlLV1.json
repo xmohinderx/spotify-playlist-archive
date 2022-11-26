@@ -1,12 +1,12 @@
 {
   "description": "Eclectic indie love songs from throughout the years. Delicate lyrics that say it best.",
-  "num_followers": 174195,
+  "num_followers": 174440,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU5NzQ2OSwwMDAwMDAwMDkxZTIxYTM0NmI1ZjA2OTQwN2JiNTc0ODBmZjQyYmQ0",
+  "snapshot_id": "MTY2NTU5NzQ2OSwwMDAwMDAwMGJkYjlmM2Y0YTUyZDVkY2FhNjExN2I1ZTA3YzgzZTBl",
   "tracks": [
     {
       "added_at": "2022-10-12 17:57:49",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2022-10-12 17:57:49",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "No Angel",
+        "url": "https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
         }
       ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+      "duration_ms": 217826,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/751gBcu62kORDelX7FV0mM"
     },
     {
       "added_at": "2022-10-12 17:57:49",
@@ -831,18 +847,18 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
-        "name": "No Angel",
-        "url": "https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk"
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
       },
       "artists": [
         {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 217826,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/751gBcu62kORDelX7FV0mM"
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2022-10-12 17:57:49",
@@ -875,22 +891,6 @@
       "duration_ms": 217333,
       "name": "No One's Gonna Love You",
       "url": "https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx"
-    },
-    {
-      "added_at": "2022-10-12 17:57:49",
-      "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2022-10-12 17:57:49",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 384438,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1Rd5OVjqDAr5xC96MHt448"
-    },
-    {
-      "added_at": "2022-10-12 17:57:49",
-      "album": {
         "name": "Four Songs",
         "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 379520,
       "name": "Orange Sky",
       "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+    },
+    {
+      "added_at": "2022-10-12 17:57:49",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 384438,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1Rd5OVjqDAr5xC96MHt448"
     },
     {
       "added_at": "2022-10-12 17:57:49",

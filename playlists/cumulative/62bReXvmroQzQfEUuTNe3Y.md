@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-318 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+319 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2021-11-11 |  |
 | [By Your Side](https://open.spotify.com/track/0QjS0WbZfhprbeISN7IFvc) | [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [By Your Side](https://open.spotify.com/album/3c1kkNHPEs2ZrGzJJHAKCA) | 2:26 | 2021-07-17 | 2022-09-10 |
 | [Captivated \- Radio Edit](https://open.spotify.com/track/5FZUXqoFBLa3CE2htHWwj7) | [Soku](https://open.spotify.com/artist/65erlFc9L0HKWs1WBQGg7b), [Léon Rudolf](https://open.spotify.com/artist/46kNtzDGJJSdSYEhdQZXtf) | [Captivated](https://open.spotify.com/album/5IKdB0GxleVMRYHJGsdpSn) | 3:39 | 2021-08-14 |  |
+| [Care At All](https://open.spotify.com/track/2TewnOsUmffMzv4kL3AoO7) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Care At All](https://open.spotify.com/album/4COfdRQVZja6TCPyrV5xM4) | 2:56 | 2022-11-25 |  |
 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 | 2020-12-18 |  |
 | [Change of Heart](https://open.spotify.com/track/7fXupzi3jFgKVED9BUCmUc) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Louise Harris](https://open.spotify.com/artist/4QVYXgffO3RSW3aIVPHqJj) | [Change of Heart](https://open.spotify.com/album/0fHNf3Ms5KaVq2dqDLoaPG) | 2:35 | 2021-12-04 |  |
 | [Cinematic](https://open.spotify.com/track/47ywdBjVysnPv8ag3P5Ojt) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Cinematic](https://open.spotify.com/album/6AWy4WgqAZQF4BaObQRQwS) | 4:48 | 2021-12-17 | 2022-01-08 |

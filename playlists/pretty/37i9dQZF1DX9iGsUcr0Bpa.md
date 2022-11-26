@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lil' Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,394 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,626 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 3 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 4 | [Queen Bitch](https://open.spotify.com/track/1LFqcpp3k7r9nHBH7Lsos4) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 3:17 |
 | 5 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 |
-| 6 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
+| 6 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
 | 7 | [Big Momma Thang](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
 | 8 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 |
 | 9 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:39 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 13 | [Lost Ones](https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:33 |
 | 14 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
 | 15 | [Did It On’em](https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 |
-| 16 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
+| 16 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
 | 17 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
 | 18 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 | 19 | [Da B Side \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/3VXdEVTbT6SLTrOLEX7MCr) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [ANUTHAFUNKDAFIEDTANTRUM](https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0) | 3:43 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 36 | [Satisfaction](https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 4:18 |
 | 37 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
 | 38 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
-| 39 | [What Ya Want](https://open.spotify.com/track/7trv6zFBS6YUuJsZf5U8uE) | [Ruff Ryders](https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Nokio](https://open.spotify.com/artist/6Cn6oLgoPl6s19Qo2AkxbM) | [Ryde Or Die, Vol.1](https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N) | 4:21 |
-| 40 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
+| 39 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
+| 40 | [What Ya Want](https://open.spotify.com/track/7trv6zFBS6YUuJsZf5U8uE) | [Ruff Ryders](https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Nokio](https://open.spotify.com/artist/6Cn6oLgoPl6s19Qo2AkxbM) | [Ryde Or Die, Vol.1](https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N) | 4:21 |
 | 41 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
 | 42 | [I Got That \(feat\. Beyoncé\) \- Explicit Album Version](https://open.spotify.com/track/1BONIRNVivu1sOD9xYxPhr) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 3:17 |
 | 43 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
 | 50 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 |
 
-Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMGI0NGEyMWNiMjFkMDcxOThiODlkNWFmMDdhYjlkMTJh`
+Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMDcyODk3M2IzOWU2MzU5NGE3YzhiN2Y0MGQwODI1YjFl`

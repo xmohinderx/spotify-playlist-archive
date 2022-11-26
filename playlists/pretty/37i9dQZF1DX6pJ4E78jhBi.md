@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,796 likes - 46 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,572 likes - 47 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 37 | [We Three Kings](https://open.spotify.com/track/3wE6NC3et1CbZjcvWIQXUp) | [Robin Meloy Goldsby](https://open.spotify.com/artist/2ZS0eOeBhk5GgOetMqP7xb) | [December](https://open.spotify.com/album/4x04WzKXt5q1tqUf5Eais1) | 4:22 |
 | 38 | [Huron Carol](https://open.spotify.com/track/7dkXnwn1iKD6DZ28gA5OY5) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 3:13 |
 | 39 | [What Sweeter Music](https://open.spotify.com/track/22TtoL9ogBV2B4eHK01924) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [The Piano Collection](https://open.spotify.com/album/13QCcMPgbmg9FZROLvenU3) | 4:17 |
-| 40 | [In the Bleak Midwinter, H\. 73, No\. 1](https://open.spotify.com/track/1wrHwFpnwV4snllIwRMa1y) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [London Chamber Orchestra](https://open.spotify.com/artist/1ucDa7qmi9SfqfSqES9iXZ), [Christopher Warren\-Green](https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK) | [Midwinter's Eve \- Music for Christmas](https://open.spotify.com/album/7DOdHPkADua4PT6yyP60GE) | 3:17 |
-| 41 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 |
-| 42 | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/track/48HpzCZRKhMWKvOI3Ic0rl) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz) | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/album/2oy471jjrzeyB6AAWle1sL) | 2:29 |
-| 43 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 |
-| 44 | [Largo From Winter](https://open.spotify.com/track/6qNxvuKuLORieVbQeKauYe) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Largo From Winter](https://open.spotify.com/album/060kov0LwToXCEdgQsYbac) | 3:48 |
-| 45 | [Christmas Letter](https://open.spotify.com/track/3oFDysBX3TkBDmy5cZuxJP) | [Cellist Yesle](https://open.spotify.com/artist/1EPr2hpZSt3xNbeXEyBEbj) | [Beautiful Cello](https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn) | 3:48 |
-| 46 | [Lo How a Rose](https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3) | [Winter Harp Ensemble](https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw), [Lori Pappajohn](https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL) | [A Night in Winter](https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf) | 4:11 |
+| 40 | [Mary's Boychild](https://open.spotify.com/track/5yyxBmvuGEOMZ4DKfhobNx) | [Jester Hairston](https://open.spotify.com/artist/3tgxh3cqdCA5UvqwuNYWWl), [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Mary's Boychild](https://open.spotify.com/album/3DFsEtBtGmseKUD7pm7QGE) | 2:01 |
+| 41 | [In the Bleak Midwinter, H\. 73, No\. 1](https://open.spotify.com/track/1wrHwFpnwV4snllIwRMa1y) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [London Chamber Orchestra](https://open.spotify.com/artist/1ucDa7qmi9SfqfSqES9iXZ), [Christopher Warren\-Green](https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK) | [Midwinter's Eve \- Music for Christmas](https://open.spotify.com/album/7DOdHPkADua4PT6yyP60GE) | 3:17 |
+| 42 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 |
+| 43 | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/track/48HpzCZRKhMWKvOI3Ic0rl) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz) | [Give me no Splendour, Gold or Pomp](https://open.spotify.com/album/2oy471jjrzeyB6AAWle1sL) | 2:29 |
+| 44 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 |
+| 45 | [Largo From Winter](https://open.spotify.com/track/6qNxvuKuLORieVbQeKauYe) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Largo From Winter](https://open.spotify.com/album/060kov0LwToXCEdgQsYbac) | 3:48 |
+| 46 | [Christmas Letter](https://open.spotify.com/track/3oFDysBX3TkBDmy5cZuxJP) | [Cellist Yesle](https://open.spotify.com/artist/1EPr2hpZSt3xNbeXEyBEbj) | [Beautiful Cello](https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn) | 3:48 |
+| 47 | [Lo How a Rose](https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3) | [Winter Harp Ensemble](https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw), [Lori Pappajohn](https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL) | [A Night in Winter](https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf) | 4:11 |
 
-Snapshot ID: `MTY2ODc4MjE1NCwwMDAwMDAwMGI2MTRmOGFmOGE3MGVlNjdkOGIwNTdmYTg0YzRhYzVk`
+Snapshot ID: `MTY2OTM0ODgwMCwwMDAwMDAwMDFhNjg4Yzg3MTM0ZTI1OTQ4NzQ1MTZkZTQ3N2E1YTll`

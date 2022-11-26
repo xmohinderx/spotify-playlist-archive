@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 467320,
+  "num_followers": 467339,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGE5YzNkNjg0MjExOGEwZGNjZDY1MjYyYzI0MWRmNWI5",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGE0ZDM5ODI2MzJmNzBmNGRhODcxMTRjMjkxYTI0ZDUy",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "To Emmylou",
-        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Prayer in Open D",
-      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 219672,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "To Emmylou",
+        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Prayer in Open D",
+      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 223576,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Pine Hollow (Live)",
         "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 253000,
       "name": "Jolene - Live",
       "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 223576,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Other People's Songs Volume One",
-        "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
-      },
-      "artists": [
-        {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
-        },
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 145280,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Other People's Songs Volume One",
+        "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
+      },
+      "artists": [
+        {
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+        },
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/404DH5KgWamwVcCincjRJE"
       },
@@ -1321,20 +1337,20 @@
       "url": "https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 200666,
       "name": "Talk to Me of Mendocino",
       "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "That's How You Know",
         "url": "https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 225151,
       "name": "That's How You Know",
       "url": "https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
+        "name": "Covers, Ch. 1",
+        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
         }
       ],
-      "duration_ms": 251760,
-      "name": "All the Best",
-      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
+      "duration_ms": 159920,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "All the Best",
+      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 198205,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Covers, Ch. 1",
-        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
-      },
-      "artists": [
-        {
-          "name": "The Sweeplings",
-          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 246722,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "By Your Side / Landslide",
         "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
       },
       "artists": [
         {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 260093,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
+      "duration_ms": 246722,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1831,6 +1815,22 @@
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
     },
     {
       "added_at": "2022-10-14 04:00:00",

@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Big Skeez
 
-195 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+196 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [FELL IN LOVE](https://open.spotify.com/track/1UpnuuaN0ZUEOiprBsHTJF) | [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl) | [FELL IN LOVE](https://open.spotify.com/album/1VIEhfTTMa9qRuriE8Nvx2) | 2:14 | 2022-07-21 |  |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-08-25 | 2022-09-09 |
 | [Finesse \- feat\. BNXN, PANIA & Kedus](https://open.spotify.com/track/3EDzIGK8XRqX93d8WmdBDD) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf), [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse \(feat\. BNXN, PANIA & Kedus\)](https://open.spotify.com/album/72emeGJH2Dy2am7X1zleWa) | 3:31 | 2022-07-18 | 2022-10-28 |
+| [Fire and Water](https://open.spotify.com/track/3y5txnuMV6qTEU9owJnEje) | [Bbanner](https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG), [S.P.L](https://open.spotify.com/artist/3EzmUqD79Wn7ksLY6DPxjT) | [Fire and Water](https://open.spotify.com/album/5r0UCyB1w3akg1Yi435M2N) | 2:55 | 2022-11-24 |  |
 | [FOREVER](https://open.spotify.com/track/6S8Iul6DWPZ6VtjyESjxFx) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [FOREVER](https://open.spotify.com/album/2tQp7yltog7HsOGuKlvMxE) | 2:31 | 2022-11-10 |  |
 | [G.O.A.T\. \(feat\. Ty Dolla $ign & Bella Alubo\)](https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [G.O.A.T\. \(feat\. Ty Dolla $ign & Bella Alubo\)](https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk) | 3:52 | 2022-07-18 | 2022-07-22 |
 | [Gbona](https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:07 | 2022-07-18 | 2022-08-05 |

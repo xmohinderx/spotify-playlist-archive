@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 122316,
       "name": "Archon",
       "url": "https://open.spotify.com/track/2p0hXoywTRphFaBOApH5Ew"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 119510,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/4K4Rys1SsGGX88c3S6M9Ro"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 113156,
       "name": "bloody!",
       "url": "https://open.spotify.com/track/4ZBEfyphqFsSkjWP7y2L6E"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 111233,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/712GtX9zzVa02hfTwKA1Ff"
@@ -3059,7 +3059,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 206355,
       "name": "HOBGOBLIN",
       "url": "https://open.spotify.com/track/7I7sdHRJhSqQnwPPZbrsmv"
@@ -3245,6 +3245,28 @@
       "duration_ms": 172173,
       "name": "I Think It's Time That I Emerge",
       "url": "https://open.spotify.com/track/4AxnwDsuPBrgXTBqenWTiB"
+    },
+    {
+      "album": {
+        "name": "I WON'T SAVE YOU",
+        "url": "https://open.spotify.com/album/6Nsj8kW7ybcU6ZG41fA1l2"
+      },
+      "artists": [
+        {
+          "name": "Hugo Gray",
+          "url": "https://open.spotify.com/artist/1NzOQ8DXuG5sMmCsyvhDgf"
+        },
+        {
+          "name": "PANDEMXNIUM",
+          "url": "https://open.spotify.com/artist/2krdsObsuYN0O7EK6B1H76"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99866,
+      "name": "I WON'T SAVE YOU",
+      "url": "https://open.spotify.com/track/4Pg3azdQ1PdO2kPac2X6ks"
     },
     {
       "album": {
@@ -3693,7 +3715,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195405,
       "name": "KOTA",
       "url": "https://open.spotify.com/track/0dy38Daud7yGJskbPcuHr4"
@@ -4492,6 +4514,28 @@
     },
     {
       "album": {
+        "name": "MYLAR",
+        "url": "https://open.spotify.com/album/4Dv0bJQKXIOwcV30jhuNCc"
+      },
+      "artists": [
+        {
+          "name": "Blckbrd",
+          "url": "https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O"
+        },
+        {
+          "name": "Saliva Grey",
+          "url": "https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172190,
+      "name": "MYLAR",
+      "url": "https://open.spotify.com/track/3Qw7LPrzt23bdQXMsguiyb"
+    },
+    {
+      "album": {
         "name": "NADA",
         "url": "https://open.spotify.com/album/7EueOgedGZdZ3sZk8OAlvS"
       },
@@ -4547,6 +4591,24 @@
       "duration_ms": 127768,
       "name": "NEW PROFILE PIC",
       "url": "https://open.spotify.com/track/1gyRKqGojB0xbiommbjN32"
+    },
+    {
+      "album": {
+        "name": "NEXTBOT!",
+        "url": "https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe"
+      },
+      "artists": [
+        {
+          "name": "Haarper",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90625,
+      "name": "NEXTBOT!",
+      "url": "https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr"
     },
     {
       "album": {
@@ -4925,7 +4987,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 101052,
       "name": "POLTERGEIST!",
       "url": "https://open.spotify.com/track/041sluNZwBxTCOuu766eNi"
@@ -5042,6 +5104,24 @@
     },
     {
       "album": {
+        "name": "RECOIL",
+        "url": "https://open.spotify.com/album/1PjLCf12OUSWlaoBqu8Q9b"
+      },
+      "artists": [
+        {
+          "name": "Lord Gasp",
+          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110545,
+      "name": "RECOIL",
+      "url": "https://open.spotify.com/track/6AgK45AXMss9tvgBaLwFxB"
+    },
+    {
+      "album": {
         "name": "Red Light",
         "url": "https://open.spotify.com/album/6Ciw7D04j2nfPIxvW0Rs0Q"
       },
@@ -5097,7 +5177,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 166857,
       "name": "RIOT",
       "url": "https://open.spotify.com/track/0H2fnXVXeTzl6H5ginSfRG"
@@ -6223,7 +6303,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 136105,
       "name": "VENOM",
       "url": "https://open.spotify.com/track/0oxgwFjJ0AP5BhRJPIdVjC"
@@ -6419,7 +6499,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 117170,
       "name": "WAY TOO WAVY",
       "url": "https://open.spotify.com/track/1whdJyi0euy9qjyBG7KVKJ"
@@ -6633,7 +6713,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 117342,
       "name": "WORLD $TAR",
       "url": "https://open.spotify.com/track/1UTcI73Dr5ROP0ddDvlImu"
@@ -6749,7 +6829,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 97057,
       "name": "YASOPP",
       "url": "https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe"

@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Lily Meola
 
-341 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+344 songs - 18 hr 25 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [break my heart](https://open.spotify.com/track/5nlKcuzD8Pd79njhGXt1vT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [break my heart](https://open.spotify.com/album/3Bx72slNcFS4gRjmtiBl7b) | 2:58 | 2022-09-02 |  |
 | [Brooklyn \- Stripped](https://open.spotify.com/track/3goLem0sEOQmKk29FWYx6q) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Brooklyn \(Stripped\)](https://open.spotify.com/album/1mOnHIpwGUAnU1jgbK3Ods) | 2:51 | 2022-01-14 | 2022-02-19 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-10-14 |  |
-| [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-06-24 |  |
+| [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-06-24 | 2022-11-26 |
 | [busy](https://open.spotify.com/track/7kdmDLwyzFL8jYLzfMvPwQ) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Something New](https://open.spotify.com/album/5pQLIMOOfKQlTufpnkV49Q) | 3:03 | 2022-07-15 | 2022-08-13 |
 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 | 2022-02-16 | 2022-02-19 |
 | [Butterfly](https://open.spotify.com/track/28h1mlM9GI9BPDwqm2plTI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Butterfly](https://open.spotify.com/album/7gc956PnIlEBzEqKRzT66f) | 2:46 | 2022-09-02 |  |
@@ -220,6 +220,7 @@
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 | 2022-06-25 |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-04-23 |
 | [Nights Like This](https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Nights Like This](https://open.spotify.com/album/5GuZOIH7CAgK0WrPIn5uAi) | 2:22 | 2022-01-14 | 2022-02-19 |
+| [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 |  |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
 | [On The Drive Home](https://open.spotify.com/track/5HXQI1AJwzmnxLVm7BW1kV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 4:16 | 2022-08-12 |  |
@@ -238,6 +239,7 @@
 | [pretty when u cry](https://open.spotify.com/track/5XVz2gm474WOD26Q3pp9PA) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [pretty when u cry](https://open.spotify.com/album/5o9b4Ff3zqrviSAtUfFt3w) | 3:38 | 2022-02-04 | 2022-08-06 |
 | [rage](https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:37 | 2022-04-22 | 2022-07-16 |
 | [Raining in June](https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG) | [Olivia Klugman](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc) | 2:46 | 2022-01-14 | 2022-03-18 |
+| [realistic](https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [realistic](https://open.spotify.com/album/6AT3vx5geFUXbuo89ZJcfW) | 3:33 | 2022-11-25 |  |
 | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr) | 3:09 | 2022-02-25 | 2022-04-09 |
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2022-01-14 | 2022-09-03 |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-10-08 |
@@ -248,10 +250,11 @@
 | [Sadtown USA](https://open.spotify.com/track/5L7sbhEYjCagSs6fGdfVbi) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/64nylLzvc9O40yAD3EaJ2G) | 3:10 | 2022-09-09 | 2022-11-19 |
 | [Sadtown USA](https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN) | 3:10 | 2022-07-22 | 2022-10-13 |
 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 | 2022-02-25 | 2022-09-17 |
+| [Same People](https://open.spotify.com/track/3EOEvnYl2v0E899Ov9j0gE) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Same People](https://open.spotify.com/album/4oMlqE0MvhO3yYFHqIvDv6) | 3:07 | 2022-11-25 |  |
 | [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 | 2022-11-11 |  |
 | [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 | 2022-03-11 | 2022-04-09 |
 | [SARA](https://open.spotify.com/track/7IlWwsL01c1dizJTHgD5rK) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SARA](https://open.spotify.com/album/2dXlLCZoS2qhel0sUTJrZ0) | 4:38 | 2022-11-11 |  |
-| [sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 | 2022-06-24 |  |
+| [sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 | 2022-06-24 | 2022-11-26 |
 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 | 2022-01-14 | 2022-09-17 |
 | [scaredy cat](https://open.spotify.com/track/6h25pN6clHAfaO443edhwS) | [JT FOLEY](https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q) | [scaredy cat](https://open.spotify.com/album/5fFrqDeUxm6LkKtXHABKHd) | 3:06 | 2022-04-01 | 2022-04-23 |
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2022-01-14 | 2022-04-23 |

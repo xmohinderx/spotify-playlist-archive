@@ -1,12 +1,12 @@
 {
   "description": "An exclusive collection of Malayalam super hit songs.\nCover: Thallumaala",
-  "num_followers": 31062,
+  "num_followers": 31302,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzc5OTI1MCwwMDAwMDAwMGQ0NDk2MTZmZDFjZWRjYzFhMDU4ZmM2ODQzZWQ1Yjdh",
+  "snapshot_id": "MTY2OTM5MDY1MywwMDAwMDAwMDUzN2IyYzI2ZjMxYTYwNDBlNzIxYTIxYjczNTczNTAx",
   "tracks": [
     {
       "added_at": "2022-08-18 06:40:38",
@@ -29,44 +29,28 @@
       "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
     },
     {
-      "added_at": "2022-07-13 06:43:44",
+      "added_at": "2022-11-07 05:28:01",
       "album": {
-        "name": "Pala Palli (From \"Kaduva\")",
-        "url": "https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk"
+        "name": "Aadharanjali (From \"Romancham) - Single",
+        "url": "https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE"
       },
       "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Athul Narukara",
-          "url": "https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR"
-        }
-      ],
-      "duration_ms": 270157,
-      "name": "Pala Palli - From \"Kaduva\"",
-      "url": "https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC"
-    },
-    {
-      "added_at": "2022-05-30 08:09:47",
-      "album": {
-        "name": "Bheeshma Parvam",
-        "url": "https://open.spotify.com/album/6ouJQmuaymffyfNxWlQGZT"
-      },
-      "artists": [
-        {
-          "name": "Sreenath Bhasi",
-          "url": "https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9"
-        },
         {
           "name": "Sushin Shyam",
           "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
         }
       ],
-      "duration_ms": 242998,
-      "name": "Parudeesa",
-      "url": "https://open.spotify.com/track/7v9H4CsUcaoeXSCkhv0xHa"
+      "duration_ms": 149278,
+      "name": "Aadharanjali (From \"Romancham)",
+      "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
     },
     {
       "added_at": "2022-06-16 11:57:53",
@@ -87,6 +71,50 @@
       "duration_ms": 226000,
       "name": "Darshana - From \"Hridayam\"",
       "url": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2"
+    },
+    {
+      "added_at": "2022-11-07 05:28:01",
+      "album": {
+        "name": "Mandharapoove (From \"Kumari\") - Single",
+        "url": "https://open.spotify.com/album/0P8tywlgqtbcAB0BZFAGN7"
+      },
+      "artists": [
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        },
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Joe Paul",
+          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
+        }
+      ],
+      "duration_ms": 240606,
+      "name": "Mandharapoove (From \"Kumari\")",
+      "url": "https://open.spotify.com/track/0md9xaiSP9NADGM78p6byG"
+    },
+    {
+      "added_at": "2022-05-30 08:09:47",
+      "album": {
+        "name": "Bheeshma Parvam",
+        "url": "https://open.spotify.com/album/6ouJQmuaymffyfNxWlQGZT"
+      },
+      "artists": [
+        {
+          "name": "Sreenath Bhasi",
+          "url": "https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9"
+        },
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        }
+      ],
+      "duration_ms": 242998,
+      "name": "Parudeesa",
+      "url": "https://open.spotify.com/track/7v9H4CsUcaoeXSCkhv0xHa"
     },
     {
       "added_at": "2022-10-25 06:42:51",
@@ -121,28 +149,64 @@
       "url": "https://open.spotify.com/track/03rqcCuFVOpUR8TV7hj42N"
     },
     {
-      "added_at": "2022-09-05 05:39:36",
+      "added_at": "2022-05-17 06:14:03",
       "album": {
-        "name": "Palthu Janwar - Title Track (From \"Palthu Janwar\")",
-        "url": "https://open.spotify.com/album/3FEFJ3NjcRyFX9QxEZq8Si"
+        "name": "Love Action Drama",
+        "url": "https://open.spotify.com/album/0PyduGao02LM04po12NKcm"
       },
       "artists": [
         {
-          "name": "Justin Varghese",
-          "url": "https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh"
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
         },
         {
-          "name": "Tanvi",
-          "url": "https://open.spotify.com/artist/1aoh0ZYaDBAb5mGbLEhA1n"
-        },
-        {
-          "name": "Drisya Anil",
-          "url": "https://open.spotify.com/artist/1TZhNZwtZCKxfNENO4HZT0"
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
         }
       ],
-      "duration_ms": 139289,
-      "name": "Palthu Janwar - Title Track (From \"Palthu Janwar\")",
-      "url": "https://open.spotify.com/track/47O56IG6evlvPWdPbqfFIO"
+      "duration_ms": 157609,
+      "name": "Kudukku",
+      "url": "https://open.spotify.com/track/3QRSs8nzHXXvcQjdnx0CsJ"
+    },
+    {
+      "added_at": "2022-07-13 06:43:44",
+      "album": {
+        "name": "Pala Palli (From \"Kaduva\")",
+        "url": "https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Athul Narukara",
+          "url": "https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR"
+        }
+      ],
+      "duration_ms": 270157,
+      "name": "Pala Palli - From \"Kaduva\"",
+      "url": "https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC"
+    },
+    {
+      "added_at": "2022-08-18 06:40:38",
+      "album": {
+        "name": "Devadoothar Paadi (From \"Nna Thaan Case Kodu\")",
+        "url": "https://open.spotify.com/album/7ycVSsCV5hOlMQstQqeZeA"
+      },
+      "artists": [
+        {
+          "name": "Biju Narayanan",
+          "url": "https://open.spotify.com/artist/039dmmH0fdQTlvXC0zGlQx"
+        },
+        {
+          "name": "Ouseppachan",
+          "url": "https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR"
+        }
+      ],
+      "duration_ms": 344791,
+      "name": "Devadoothar Paadi - From \"Nna Thaan Case Kodu\"",
+      "url": "https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej"
     },
     {
       "added_at": "2022-11-07 05:28:01",
@@ -173,48 +237,52 @@
       "url": "https://open.spotify.com/track/4wMpv5KCDYSCQ0rWwKON0E"
     },
     {
-      "added_at": "2022-08-18 06:40:38",
+      "added_at": "2022-09-05 05:39:36",
       "album": {
-        "name": "Devadoothar Paadi (From \"Nna Thaan Case Kodu\")",
-        "url": "https://open.spotify.com/album/7ycVSsCV5hOlMQstQqeZeA"
+        "name": "Palthu Janwar - Title Track (From \"Palthu Janwar\")",
+        "url": "https://open.spotify.com/album/3FEFJ3NjcRyFX9QxEZq8Si"
       },
       "artists": [
         {
-          "name": "Biju Narayanan",
-          "url": "https://open.spotify.com/artist/039dmmH0fdQTlvXC0zGlQx"
+          "name": "Justin Varghese",
+          "url": "https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh"
         },
         {
-          "name": "Ouseppachan",
-          "url": "https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR"
+          "name": "Tanvi",
+          "url": "https://open.spotify.com/artist/1aoh0ZYaDBAb5mGbLEhA1n"
+        },
+        {
+          "name": "Drisya Anil",
+          "url": "https://open.spotify.com/artist/1TZhNZwtZCKxfNENO4HZT0"
         }
       ],
-      "duration_ms": 344791,
-      "name": "Devadoothar Paadi - From \"Nna Thaan Case Kodu\"",
-      "url": "https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej"
+      "duration_ms": 139289,
+      "name": "Palthu Janwar - Title Track (From \"Palthu Janwar\")",
+      "url": "https://open.spotify.com/track/47O56IG6evlvPWdPbqfFIO"
     },
     {
-      "added_at": "2022-11-07 05:28:01",
+      "added_at": "2022-10-25 06:42:51",
       "album": {
-        "name": "Aadharanjali (From \"Romancham) - Single",
-        "url": "https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE"
+        "name": "Kannilu Kannilu (From \"Ayisha\")",
+        "url": "https://open.spotify.com/album/1nztFaTYNoTL1wFUGfifIU"
       },
       "artists": [
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "Ahi Ajayan",
+          "url": "https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH"
         },
         {
-          "name": "Madhuvanthi Narayan",
-          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+          "name": "M. Jayachandran",
+          "url": "https://open.spotify.com/artist/67ra8R8hw9NkDyBaJBS2j6"
         },
         {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
         }
       ],
-      "duration_ms": 149278,
-      "name": "Aadharanjali (From \"Romancham)",
-      "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
+      "duration_ms": 232912,
+      "name": "Kannilu Kannilu (From \"Ayisha\")",
+      "url": "https://open.spotify.com/track/23mxqvgypgECg4KxnVqtNr"
     },
     {
       "added_at": "2022-08-10 18:21:35",
@@ -247,26 +315,6 @@
       "duration_ms": 183737,
       "name": "Thallumaala Paattu",
       "url": "https://open.spotify.com/track/1JGdOSXhyXpAu7xUpoygxW"
-    },
-    {
-      "added_at": "2022-05-17 06:14:03",
-      "album": {
-        "name": "Love Action Drama",
-        "url": "https://open.spotify.com/album/0PyduGao02LM04po12NKcm"
-      },
-      "artists": [
-        {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        }
-      ],
-      "duration_ms": 157609,
-      "name": "Kudukku",
-      "url": "https://open.spotify.com/track/3QRSs8nzHXXvcQjdnx0CsJ"
     },
     {
       "added_at": "2022-10-25 06:42:51",
@@ -303,54 +351,6 @@
       "duration_ms": 168690,
       "name": "Ghoom Ghoom - From \"Monster\"",
       "url": "https://open.spotify.com/track/6MEVXbAKoPwH4nMXskKbGH"
-    },
-    {
-      "added_at": "2022-10-25 06:42:51",
-      "album": {
-        "name": "Kannilu Kannilu (From \"Ayisha\")",
-        "url": "https://open.spotify.com/album/1nztFaTYNoTL1wFUGfifIU"
-      },
-      "artists": [
-        {
-          "name": "Ahi Ajayan",
-          "url": "https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH"
-        },
-        {
-          "name": "M. Jayachandran",
-          "url": "https://open.spotify.com/artist/67ra8R8hw9NkDyBaJBS2j6"
-        },
-        {
-          "name": "B.K. Harinarayanan",
-          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
-        }
-      ],
-      "duration_ms": 232912,
-      "name": "Kannilu Kannilu (From \"Ayisha\")",
-      "url": "https://open.spotify.com/track/23mxqvgypgECg4KxnVqtNr"
-    },
-    {
-      "added_at": "2022-11-07 05:28:01",
-      "album": {
-        "name": "Mandharapoove (From \"Kumari\") - Single",
-        "url": "https://open.spotify.com/album/0P8tywlgqtbcAB0BZFAGN7"
-      },
-      "artists": [
-        {
-          "name": "Aavani Malhar",
-          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
-        },
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Joe Paul",
-          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
-        }
-      ],
-      "duration_ms": 240606,
-      "name": "Mandharapoove (From \"Kumari\")",
-      "url": "https://open.spotify.com/track/0md9xaiSP9NADGM78p6byG"
     },
     {
       "added_at": "2022-08-18 06:40:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,360 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,697 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 30 | [Beija Eu](https://open.spotify.com/track/7tkka2fYf1erIg8wy8r9Lt) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 3:14 |
 | 31 | [Oceano](https://open.spotify.com/track/3iof6EclqePezHDibBiykI) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA) | 4:56 |
 | 32 | [Partilhar](https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 5:37 |
-| 33 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
-| 34 | [Chega de Saudade](https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:03 |
+| 33 | [Chega de Saudade](https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:03 |
+| 34 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
 | 35 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 36 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
 | 37 | [Apesar de Querer](https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Abacaxepa](https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy) | [Apesar de Querer](https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR) | 4:04 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 48 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 49 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 |
 | 50 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
-| 51 | [Travessia \- Spotify Singles](https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Travessia \- Spotify Singles](https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL) | 3:25 |
-| 52 | [Pra Me Refazer](https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Pra Me Refazer](https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5) | 3:35 |
+| 51 | [Pra Me Refazer](https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Pra Me Refazer](https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5) | 3:35 |
+| 52 | [Travessia \- Spotify Singles](https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Travessia \- Spotify Singles](https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL) | 3:25 |
 | 53 | [Samba](https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Samba](https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT) | 2:40 |
 | 54 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |
 | 55 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Preciso me encontrar \- Original Motion Picture Soundtrack "Diários De Intercâmbio"](https://open.spotify.com/track/0vUZ7NmyFsAUNb2NgHRdox) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Preciso me encontrar \(Original Motion Picture Soundtrack "Diários De Intercâmbio"\)](https://open.spotify.com/album/1AGfGXPfd68ytghke2h73Z) | 2:07 |
 | 70 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
 
-Snapshot ID: `MTY2Nzk2MjgwMCwwMDAwMDAwMDk3OTViMzg1ODYyODI4Y2UzMTAwYmY4OThlODU4ZGNj`
+Snapshot ID: `MTY2OTM0NTIwMCwwMDAwMDAwMDYwMzQzZWM4NDcwZmFjNTIzZTI2YzNmZTU0YmM3OWZm`

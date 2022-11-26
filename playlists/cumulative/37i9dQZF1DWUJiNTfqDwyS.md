@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-128 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/5j359EkdLizzDFpJebBsga)
+129 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/5j359EkdLizzDFpJebBsga)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 | 2022-05-25 |  |
 | [Into The Pit](https://open.spotify.com/track/3cJqCKXyclrgrglUvgGOB6) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Into The Pit](https://open.spotify.com/album/77aDDGEf9o1lInQsW6Zyh4) | 2:49 | 2022-05-25 | 2022-06-26 |
 | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/track/7fPLwXukTjv4vSnZdCn3ev) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8), [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/album/6fuK48wdK9EBB4JUQJyMAP) | 3:51 | 2022-06-13 |  |
-| [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 | 2022-05-25 |  |
+| [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 | 2022-05-25 | 2022-11-26 |
 | [Just Got Paid](https://open.spotify.com/track/2xzQKVwhsuVeGPbR7DHIWA) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Covered, A Revolution In Sound: Warner Bros\. Records \(Int'l Release\)](https://open.spotify.com/album/2xhCCmd1tTYAnS1miTau9l) | 3:33 | 2022-05-25 | 2022-07-16 |
 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 | 2022-05-25 |  |
 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 | 2022-06-13 |  |
@@ -70,6 +70,7 @@
 | [Let It Go](https://open.spotify.com/track/0XUBVMTYG5YFdbUstP34EC) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Let It Go](https://open.spotify.com/album/5ACse9gOjTzWMuJQoJjDwR) | 3:11 | 2022-06-13 |  |
 | [Let It Go](https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Let It Go](https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17) | 3:37 | 2022-05-25 |  |
 | [Let Me Love You](https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN) | [Love and Death](https://open.spotify.com/artist/4nrzg6bzMCRGsdQ5eD4d19), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Perfectly Preserved](https://open.spotify.com/album/7BuSHSKWrEiZR8zF9YShvJ) | 3:52 | 2022-05-25 |  |
+| [Life On Mars?](https://open.spotify.com/track/7DWloTckw5BK6VRNepZIP5) | [Tuuh](https://open.spotify.com/artist/65456d4iYC4Z1twwPkV9O5) | [Life On Mars?](https://open.spotify.com/album/7Fus1yDojHyih5BFpIlVJl) | 3:55 | 2022-11-25 |  |
 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 | 2022-05-25 |  |
 | [Lonely Nights](https://open.spotify.com/track/1aqBMkIKxCp481UfL3FWcx) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Lonely Nights](https://open.spotify.com/album/1TwHNQDT1hOPnA0ejik8RS) | 3:48 | 2022-05-25 | 2022-07-28 |
 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 | 2022-05-25 | 2022-11-13 |

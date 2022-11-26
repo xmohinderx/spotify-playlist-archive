@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 3861,
+  "num_followers": 3887,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc2NzM4OSwwMDAwMDAwMDRiZWYxOTFiYTUxOGZjZWQzNzE2MTVjNTdmNjYzODky",
+  "snapshot_id": "MTY2ODc2NzM4OSwwMDAwMDAwMGY0NmRjMWM3ZTBlOTg3ZDUyYWI5MjliNWMzNWYxYTE2",
   "tracks": [
     {
       "added_at": "2022-11-18 10:29:49",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+        "name": "in my head.",
+        "url": "https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01"
       },
       "artists": [
         {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
         }
       ],
-      "duration_ms": 240357,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
+      "duration_ms": 203478,
+      "name": "in my head.",
+      "url": "https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -743,6 +743,22 @@
       "duration_ms": 260708,
       "name": "Jesus Called My Name",
       "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -767,22 +783,6 @@
       "duration_ms": 183043,
       "name": "Allegiance",
       "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "in my head.",
-        "url": "https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01"
-      },
-      "artists": [
-        {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "in my head.",
-      "url": "https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
       "artists": [
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
         }
       ],
-      "duration_ms": 144021,
-      "name": "It Could Be Worse",
-      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+      "duration_ms": 229324,
+      "name": "Libre (feat. Tommy Royale)",
+      "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 229324,
-      "name": "Libre (feat. Tommy Royale)",
-      "url": "https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC"
+      "duration_ms": 144021,
+      "name": "It Could Be Worse",
+      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3"
+        "name": "Thanks In Advance",
+        "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
         }
       ],
-      "duration_ms": 168004,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz"
+      "duration_ms": 141176,
+      "name": "Thanks In Advance",
+      "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Thanks In Advance",
-        "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3"
       },
       "artists": [
         {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
         }
       ],
-      "duration_ms": 141176,
-      "name": "Thanks In Advance",
-      "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+      "duration_ms": 168004,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Church House Trap House",
-        "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "1k Pson",
-          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Church House Trap House",
-      "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "Hold Me Back",
         "url": "https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 187820,
       "name": "Hold Me Back",
       "url": "https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "Church House Trap House",
+        "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "1k Pson",
+          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Church House Trap House",
+      "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "Proverbs & Beats",
         "url": "https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl"
       },
@@ -1467,38 +1483,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "97",
-        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "Feared By Hell (Reanimation)",
         "url": "https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 264664,
       "name": "Is That Okay?",
       "url": "https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "97",
+        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "mess it up",
+        "url": "https://open.spotify.com/album/6RGc68Chn4t2kLI2OODxYP"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 128300,
+      "name": "mess it up",
+      "url": "https://open.spotify.com/track/0R65qkFygRF8FB4iX9VndY"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "I's On Him",
         "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "Fight for It",
-        "url": "https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 153046,
-      "name": "Fight for It",
-      "url": "https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
       },
@@ -1811,6 +1811,38 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
+        "name": "Fight for It",
+        "url": "https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 153046,
+      "name": "Fight for It",
+      "url": "https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
+        "name": "I Can't Let Up",
+        "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "I Can't Let Up",
+      "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
+    },
+    {
+      "added_at": "2022-11-18 10:29:49",
+      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -1839,22 +1871,6 @@
       "duration_ms": 106794,
       "name": "The Offering",
       "url": "https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "mess it up",
-        "url": "https://open.spotify.com/album/6RGc68Chn4t2kLI2OODxYP"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 128300,
-      "name": "mess it up",
-      "url": "https://open.spotify.com/track/0R65qkFygRF8FB4iX9VndY"
     },
     {
       "added_at": "2022-11-18 10:29:49",
@@ -1895,38 +1911,26 @@
     {
       "added_at": "2022-11-18 10:29:49",
       "album": {
-        "name": "I Can't Let Up",
-        "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
       },
       "artists": [
         {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "I Can't Let Up",
-      "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
-    },
-    {
-      "added_at": "2022-11-18 10:29:49",
-      "album": {
-        "name": "Stickin",
-        "url": "https://open.spotify.com/album/3U8Vj4e07qmOWWcs2O3uBX"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
         },
         {
-          "name": "Foolie Vision",
-          "url": "https://open.spotify.com/artist/2nDlD7zB6lFms9wIabvCfd"
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
         }
       ],
-      "duration_ms": 111549,
-      "name": "Stickin",
-      "url": "https://open.spotify.com/track/7Bch9LNK8Ukbi6yKoMBV6W"
+      "duration_ms": 242564,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
     }
   ],
   "unique_name": "Blessings",

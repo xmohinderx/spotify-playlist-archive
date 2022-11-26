@@ -1,12 +1,12 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 1982818,
+  "num_followers": 1983001,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDllMmQ2ZGMyZmJmMjE3NjllYjM4MDVmOTVmM2MwMzY2",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGFjMzdjMmFjZWM1YzIzYzcyMzJmOTBjMTNlZWEzYzAz",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Woodwind",
-        "url": "https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU"
-      },
-      "artists": [
-        {
-          "name": "Jan Harbeck Quartet",
-          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Woodwind",
-      "url": "https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 336546,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/4bA0Y5vHsRx2RH59lGkryb"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Woodwind",
+        "url": "https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU"
+      },
+      "artists": [
+        {
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Woodwind",
+      "url": "https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 245086,
+      "name": "Is There a Way",
+      "url": "https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Jazz from the Countryside",
         "url": "https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+        "name": "Approaching Standards",
+        "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
       },
       "artists": [
         {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
         }
       ],
-      "duration_ms": 245086,
-      "name": "Is There a Way",
-      "url": "https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP"
+      "duration_ms": 372493,
+      "name": "Ruby My Dear",
+      "url": "https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -639,18 +655,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Approaching Standards",
-        "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
+        "name": "Gilles Peterson - Magic Peterson Sunshine",
+        "url": "https://open.spotify.com/album/6VflpBTIdO5wvutZII2Grw"
       },
       "artists": [
         {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
         }
       ],
-      "duration_ms": 372493,
-      "name": "Ruby My Dear",
-      "url": "https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg"
+      "duration_ms": 280480,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/2qswPLZD9CbUoSidGNyxwm"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 621680,
       "name": "Once upon a Summertime",
       "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Gilles Peterson - Magic Peterson Sunshine",
-        "url": "https://open.spotify.com/album/6VflpBTIdO5wvutZII2Grw"
-      },
-      "artists": [
-        {
-          "name": "Mary Lou Williams",
-          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
-        }
-      ],
-      "duration_ms": 280480,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/2qswPLZD9CbUoSidGNyxwm"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "This Is Jazz #14",
         "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Semantics",
-        "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rathbun",
-          "url": "https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx"
-        }
-      ],
-      "duration_ms": 501106,
-      "name": "Old Ballad For Hawk",
-      "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "on the tender spot of every calloused moment",
         "url": "https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 160720,
       "name": "Roy",
       "url": "https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "duration_ms": 472573,
+      "name": "Music For Some Film",
+      "url": "https://open.spotify.com/track/5iiM7aAhdPWhzvoGtSqGtP"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
+        "name": "Semantics",
+        "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
       },
       "artists": [
         {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+          "name": "Andrew Rathbun",
+          "url": "https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx"
         }
       ],
-      "duration_ms": 472573,
-      "name": "Music For Some Film",
-      "url": "https://open.spotify.com/track/5iiM7aAhdPWhzvoGtSqGtP"
+      "duration_ms": 501106,
+      "name": "Old Ballad For Hawk",
+      "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1023,34 +1023,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Theme for Ernie",
-        "url": "https://open.spotify.com/album/2nT1hom1JGnM6Z1RQCCPxs"
-      },
-      "artists": [
-        {
-          "name": "G\u00e1bor Bolla",
-          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
-        },
-        {
-          "name": "R\u00f3bert Lakatos",
-          "url": "https://open.spotify.com/artist/5sGpH9552Y13uJp6wi7bm1"
-        },
-        {
-          "name": "Daniel Franck",
-          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
-        },
-        {
-          "name": "Billy Drummond",
-          "url": "https://open.spotify.com/artist/1P5JD0ocEllsCSrj0fgBA1"
-        }
-      ],
-      "duration_ms": 307370,
-      "name": "Theme for Ernie",
-      "url": "https://open.spotify.com/track/5hUMi6pb2Gy6QQAruGgedc"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -1099,6 +1071,34 @@
       "duration_ms": 270896,
       "name": "Procession",
       "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Theme for Ernie",
+        "url": "https://open.spotify.com/album/2nT1hom1JGnM6Z1RQCCPxs"
+      },
+      "artists": [
+        {
+          "name": "G\u00e1bor Bolla",
+          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
+        },
+        {
+          "name": "R\u00f3bert Lakatos",
+          "url": "https://open.spotify.com/artist/5sGpH9552Y13uJp6wi7bm1"
+        },
+        {
+          "name": "Daniel Franck",
+          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
+        },
+        {
+          "name": "Billy Drummond",
+          "url": "https://open.spotify.com/artist/1P5JD0ocEllsCSrj0fgBA1"
+        }
+      ],
+      "duration_ms": 307370,
+      "name": "Theme for Ernie",
+      "url": "https://open.spotify.com/track/5hUMi6pb2Gy6QQAruGgedc"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1191,30 +1191,26 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Quiet Nights of Quiet Songs",
-        "url": "https://open.spotify.com/album/371VzyXWti506VTodQfkf8"
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/6LXuAUGcglKV3b4zEwbDqJ"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
         },
         {
-          "name": "Andrea Rea Trio",
-          "url": "https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG"
+          "name": "Krydda Sundstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm"
         },
         {
-          "name": "Joe Rehmer",
-          "url": "https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa"
-        },
-        {
-          "name": "Marcello Di Leonardo",
-          "url": "https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU"
+          "name": "Oskar Cederblad",
+          "url": "https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM"
         }
       ],
-      "duration_ms": 375000,
-      "name": "I Fall in Love Too Easily",
-      "url": "https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g"
+      "duration_ms": 241434,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2M5EVZsjXDyj532rLybsHt"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1259,18 +1255,30 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "The 7th Hand",
-        "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD"
+        "name": "Quiet Nights of Quiet Songs",
+        "url": "https://open.spotify.com/album/371VzyXWti506VTodQfkf8"
       },
       "artists": [
         {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Andrea Rea Trio",
+          "url": "https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG"
+        },
+        {
+          "name": "Joe Rehmer",
+          "url": "https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa"
+        },
+        {
+          "name": "Marcello Di Leonardo",
+          "url": "https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU"
         }
       ],
-      "duration_ms": 284529,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
+      "duration_ms": 375000,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1295,6 +1303,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "The 7th Hand",
+        "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "duration_ms": 284529,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH"
       },
@@ -1315,30 +1339,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Autumn Leaves",
-        "url": "https://open.spotify.com/album/6LXuAUGcglKV3b4zEwbDqJ"
-      },
-      "artists": [
-        {
-          "name": "Rasmus H Thomsen Trio",
-          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
-        },
-        {
-          "name": "Krydda Sundstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm"
-        },
-        {
-          "name": "Oskar Cederblad",
-          "url": "https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM"
-        }
-      ],
-      "duration_ms": 241434,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2M5EVZsjXDyj532rLybsHt"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Street Of Dreams",
         "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "The Parable Of The Poet",
-        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 344466,
-      "name": "BENEDICTION",
-      "url": "https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Cloud 10",
         "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 365693,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "The Parable Of The Poet",
+        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 344466,
+      "name": "BENEDICTION",
+      "url": "https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Broken Balance",
-        "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
-      },
-      "artists": [
-        {
-          "name": "Shalosh",
-          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
-        }
-      ],
-      "duration_ms": 160999,
-      "name": "Quiet Corner",
-      "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "All Things Are",
         "url": "https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 712826,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Broken Balance",
+        "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
+      },
+      "artists": [
+        {
+          "name": "Shalosh",
+          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
+        }
+      ],
+      "duration_ms": 160999,
+      "name": "Quiet Corner",
+      "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Reflections in D",
-        "url": "https://open.spotify.com/album/1PulHx45zSWvOGnbMJ4gND"
-      },
-      "artists": [
-        {
-          "name": "Larry Goldings",
-          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 335866,
-      "name": "Reflections in D",
-      "url": "https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Links",
         "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
       },
@@ -1639,6 +1615,22 @@
       "duration_ms": 232559,
       "name": "Links",
       "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Pocket Rhapsody II",
+        "url": "https://open.spotify.com/album/7o7WzQ3safNurKu8xWrcji"
+      },
+      "artists": [
+        {
+          "name": "Frank Woeste",
+          "url": "https://open.spotify.com/artist/4fW1CbHzNerTxAeUj4SXnQ"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/2PEAh0Yz9I72m1Lz2Z7uFj"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1659,18 +1651,26 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Pocket Rhapsody II",
-        "url": "https://open.spotify.com/album/7o7WzQ3safNurKu8xWrcji"
+        "name": "Reflections in D",
+        "url": "https://open.spotify.com/album/1PulHx45zSWvOGnbMJ4gND"
       },
       "artists": [
         {
-          "name": "Frank Woeste",
-          "url": "https://open.spotify.com/artist/4fW1CbHzNerTxAeUj4SXnQ"
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
         }
       ],
-      "duration_ms": 234840,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/2PEAh0Yz9I72m1Lz2Z7uFj"
+      "duration_ms": 335866,
+      "name": "Reflections in D",
+      "url": "https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Preaching to the Choir",
-        "url": "https://open.spotify.com/album/3Lc55JT9sZ0c4nTVu2xKWD"
-      },
-      "artists": [
-        {
-          "name": "Vincent Herring",
-          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
-        }
-      ],
-      "duration_ms": 386440,
-      "name": "In a Sentimental Mood",
-      "url": "https://open.spotify.com/track/2VEB1PohDkoy7NBDeKhepa"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/0bTuaMPPREoKbTZixGGIpO"
       },
@@ -1791,6 +1775,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Preaching to the Choir",
+        "url": "https://open.spotify.com/album/3Lc55JT9sZ0c4nTVu2xKWD"
+      },
+      "artists": [
+        {
+          "name": "Vincent Herring",
+          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
+        }
+      ],
+      "duration_ms": 386440,
+      "name": "In a Sentimental Mood",
+      "url": "https://open.spotify.com/track/2VEB1PohDkoy7NBDeKhepa"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Gone With Golson",
         "url": "https://open.spotify.com/album/6F2T22yUsmFWvnETgGBB1y"
       },
@@ -1803,22 +1803,6 @@
       "duration_ms": 516133,
       "name": "Blues After Dark",
       "url": "https://open.spotify.com/track/6kVGcuAOP7WnMnhWTL2p0W"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Time for Ballads - The Maene Sessions",
-        "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
-      },
-      "artists": [
-        {
-          "name": "Rob Van Bavel",
-          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
-        }
-      ],
-      "duration_ms": 315240,
-      "name": "In a Sentimental Mood",
-      "url": "https://open.spotify.com/track/5pESIEsMvc2p0LC2BpyMzi"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1851,18 +1835,34 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/7222mnyJDInGd0gsVn8GIY"
+        "name": "Time for Ballads - The Maene Sessions",
+        "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
       },
       "artists": [
         {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
         }
       ],
-      "duration_ms": 259252,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/6oAni9EYklGVd1ZOLThaW1"
+      "duration_ms": 315240,
+      "name": "In a Sentimental Mood",
+      "url": "https://open.spotify.com/track/5pESIEsMvc2p0LC2BpyMzi"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Ambivalence",
+        "url": "https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 435040,
+      "name": "Those Peaceful Nights",
+      "url": "https://open.spotify.com/track/3uL5MKK614H6AfCx2BKBqV"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1887,22 +1887,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Swept Away",
-        "url": "https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj"
+        "name": "I Love Music",
+        "url": "https://open.spotify.com/album/7222mnyJDInGd0gsVn8GIY"
       },
       "artists": [
         {
-          "name": "Marc Johnson",
-          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
-        },
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
         }
       ],
-      "duration_ms": 378520,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT"
+      "duration_ms": 259252,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/6oAni9EYklGVd1ZOLThaW1"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1923,18 +1919,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Ambivalence",
-        "url": "https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS"
+        "name": "Swept Away",
+        "url": "https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj"
       },
       "artists": [
         {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+          "name": "Marc Johnson",
+          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
+        },
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
         }
       ],
-      "duration_ms": 435040,
-      "name": "Those Peaceful Nights",
-      "url": "https://open.spotify.com/track/3uL5MKK614H6AfCx2BKBqV"
+      "duration_ms": 378520,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT"
     },
     {
       "added_at": "2022-11-24 23:00:00",

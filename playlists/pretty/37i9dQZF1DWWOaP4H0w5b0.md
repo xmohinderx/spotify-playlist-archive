@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 
 > Want some metal? Better to start with the essentials\. Cover: Pantera
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,588,104 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,588,843 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 73 | [The Motherload](https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 |
 | 74 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 |
 | 75 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 |
-| 76 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
-| 77 | [Stone the Crow](https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 4:42 |
+| 76 | [Stone the Crow](https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 4:42 |
+| 77 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
 | 78 | [Freezing Moon](https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:23 |
 | 79 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 |
 | 80 | [Hellraiser \- 30th Anniversary Edition](https://open.spotify.com/track/7iD5t0YgWvIIrvZtw6IIxQ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Hellraiser \(30th Anniversary Edition\)](https://open.spotify.com/album/3pn1WoMZ18F0Mn2qfWx4Cq) | 4:55 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 86 | [Symbolic](https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Symbolic \(Remastered Version\)](https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR) | 6:32 |
 | 87 | [The Toxic Waltz](https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Fabulous Disaster](https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy) | 4:50 |
 | 88 | [Princess of the Night \- 2009 Remastered Version](https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather \(2009 Remastered Version\)](https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad) | 4:02 |
-| 89 | [Evil](https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58) | 4:44 |
-| 90 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
+| 89 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
+| 90 | [Evil](https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58) | 4:44 |
 | 91 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
 | 92 | [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 |
 | 93 | [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 99 | [Black Metal](https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Black Metal](https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV) | 3:41 |
 | 100 | [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 |
 
-Snapshot ID: `MTY2NjM1NDc5MiwwMDAwMDAwMGQxODkxNjE0MDMwOTM0NGUyODA3MWRiNzZlZGMwNDUy`
+Snapshot ID: `MTY2NjM1NDc5MiwwMDAwMDAwMDMyYTk3MjYxOGQwYjdkYzU2YzYyNDIxMmQ5OGE0MzNl`

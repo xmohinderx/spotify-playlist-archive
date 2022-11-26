@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 428389,
+  "num_followers": 428510,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMGZlZmNmYjA3ZmM2ZWVhN2MzOWU1MWE2ZjYxZTFmM2M5",
+  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMDY3NjZhYWQ5ZDJkMzJiMThiOWUyZGRmMDEyNTViNTJi",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
         "name": "Leave a Light On",
         "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "Up from Below",
+        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+      "duration_ms": 303200,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -979,26 +995,6 @@
       "duration_ms": 205986,
       "name": "I Miss You (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "Girls Like You (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/75iQSBSaztFIAun9qLLCnb"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 235545,
-      "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
-      "url": "https://open.spotify.com/track/6FRLCMO5TUHTexlWo8ym1W"
     }
   ],
   "unique_name": "Pop Study",

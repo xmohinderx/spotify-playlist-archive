@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 87233,
+  "num_followers": 87274,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDJhNTJjYzUyNWZmZWI1YTAyNjVjYzZjOTQzNGU0ZmY2",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDg1ZTg0ZjNhOGFlNmZmN2Q2Y2MzN2IwNWI2MTQ1MTUy",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -791,30 +791,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ferrari (Remix)",
-        "url": "https://open.spotify.com/album/0zWMvd5j2ozFDLycUIVzbt"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Ferrari - Remix",
-      "url": "https://open.spotify.com/track/3XucsgiwXb8KPn9Csf9Zmu"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ferrari (Remix)",
+        "url": "https://open.spotify.com/album/0zWMvd5j2ozFDLycUIVzbt"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Ferrari - Remix",
+      "url": "https://open.spotify.com/track/3XucsgiwXb8KPn9Csf9Zmu"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1011,34 +1011,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Hace Calor (Remix)",
-        "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Hace Calor - Remix",
-      "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -1071,6 +1043,34 @@
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Hace Calor (Remix)",
+        "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Hace Calor - Remix",
+      "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 237701,
       "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 159592,
+      "name": "r()t()nda (feat. Tiziano Ferro)",
+      "url": "https://open.spotify.com/track/0GUPqrlZYs3ANVhAifVlgJ"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P"
       },
@@ -1367,42 +1387,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 159592,
-      "name": "r()t()nda (feat. Tiziano Ferro)",
-      "url": "https://open.spotify.com/track/0GUPqrlZYs3ANVhAifVlgJ"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
     }
   ],
   "unique_name": "Tra Amiche",

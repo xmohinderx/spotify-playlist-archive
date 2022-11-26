@@ -1,12 +1,12 @@
 {
   "description": "The Corridos of yesterday and today all in one place!",
-  "num_followers": 23572,
+  "num_followers": 23601,
   "original_name": "Now & Then Corridos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTk4NjkyOSwwMDAwMDAwMDMyYTI1NjM3YTdiY2Y2ZjE2NGVlY2YxZTgxMmY2NDli",
+  "snapshot_id": "MTY2NTk4NjkyOSwwMDAwMDAwMGZhNmRlNzFiOTljYTA3MTUxOTc5NzMwNzY0NDlhN2Ew",
   "tracks": [
     {
       "added_at": "2022-10-17 06:08:49",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-10-17 06:08:49",
       "album": {
+        "name": "La Cadena",
+        "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
+      },
+      "artists": [
+        {
+          "name": "Los Morros Del Norte",
+          "url": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "La Botella (Dos Botellas De Mescal)",
+      "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
+    },
+    {
+      "added_at": "2022-10-17 06:08:49",
+      "album": {
         "name": "Mi Nueva Familia",
         "url": "https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 191200,
       "name": "Cosas Cambiaron",
       "url": "https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb"
-    },
-    {
-      "added_at": "2022-10-17 06:08:49",
-      "album": {
-        "name": "La Cadena",
-        "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
-      },
-      "artists": [
-        {
-          "name": "Los Morros Del Norte",
-          "url": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "La Botella (Dos Botellas De Mescal)",
-      "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
     },
     {
       "added_at": "2022-10-17 06:08:49",

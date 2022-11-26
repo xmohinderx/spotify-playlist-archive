@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,440 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,498 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 14 | [Fortune](https://open.spotify.com/track/2d0x9mTqqF7oL1hMgdroX4) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Fortune](https://open.spotify.com/album/4ySNWAn6xZltmBxxeXaC6y) | 3:49 |
 | 15 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
 | 16 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
-| 17 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
-| 18 | [Water Witch](https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 3:27 |
+| 17 | [Water Witch](https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 3:27 |
+| 18 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
 | 19 | [If The World Falls To Pieces](https://open.spotify.com/track/6ocTXpzLe3OaPwuYSq8XgY) | [Young Summer](https://open.spotify.com/artist/2SlMPjZm02pC12ODpApdhB) | [If The World Falls To Pieces](https://open.spotify.com/album/2uw7LYkAs8Flntkk6AnF0v) | 2:46 |
 | 20 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 |
 | 21 | [Got Your Number](https://open.spotify.com/track/6uQn7dAD9rk1gmr20gumXz) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/2AKuAztOmtF6yUvz0emMrH) | 3:07 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 39 | [Help Me Mama](https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Storm](https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG) | 3:05 |
 | 40 | [Glass Piano](https://open.spotify.com/track/4Rz3FamBRVJ6s1d0B0XGJ4) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Kathleen II](https://open.spotify.com/album/53i39sp8XOhqNPZ9q7reFG) | 3:25 |
 | 41 | [Name on a Matchbook](https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj) | [Springtime Carnivore](https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S) | [Springtime Carnivore](https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO) | 4:16 |
-| 42 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
+| 42 | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz) | [Sonia Leigh](https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Rob the Man](https://open.spotify.com/artist/3jO133hmnKXdj74oUVnEyr) | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf) | 3:22 |
 | 43 | [Dark River](https://open.spotify.com/track/0b9sQP9v5pqIHOG2bEJhRu) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/72vwwazB0Mccfmaev230zw) | 3:24 |
-| 44 | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz) | [Sonia Leigh](https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Rob the Man](https://open.spotify.com/artist/3jO133hmnKXdj74oUVnEyr) | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf) | 3:22 |
+| 44 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
 | 45 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
 | 46 | [Moonrise](https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54) | [WILDWOOD](https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V) | [Moonrise](https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh) | 3:43 |
 | 47 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 |
 | 70 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDBkYTg2Yzk5YmMzZDM4NDU0YmM4Mzg3OWE5ZWQxYjVh`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDIxYTEzMDQ4YTE0ZjNkODE2YjMyMTE1NTBiNmNlMmVi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "IAmChino, Pitbull & Yandel tienen el ritmo que mueve Latinoam\u00e9rica.",
+  "description": "Myke Towers & Daddy Yankee tienen el ritmo que mueve Latinoam\u00e9rica.",
   "name": "El Ritmo",
   "published_playlist_ids": [
     "3K8lWo1A5PGXtJdAZf1WiQ"
@@ -3917,7 +3917,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 164732,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/5FtjZf2fUJpwIrAkJwsK21"
@@ -5884,6 +5884,36 @@
     },
     {
       "album": {
+        "name": "Ol\u00e9 Ol\u00e9 (feat. Ronaldinho Ga\u00facho)",
+        "url": "https://open.spotify.com/album/12IaoWeaXTEte1MULtTvjm"
+      },
+      "artists": [
+        {
+          "name": "AriBeatz",
+          "url": "https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180068,
+      "name": "Ol\u00e9 Ol\u00e9 (feat. Ronaldinho Ga\u00facho)",
+      "url": "https://open.spotify.com/track/3eUsJCHaRFj7MUmYbycwHw"
+    },
+    {
+      "album": {
         "name": "Otra Vez Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/4ZlHlbUReIOc1Cw6oudAgE"
       },
@@ -6779,6 +6809,24 @@
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
+    },
+    {
+      "album": {
+        "name": "Rosa Melo",
+        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
+      },
+      "artists": [
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164853,
+      "name": "Rosa Melo",
+      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
     },
     {
       "album": {
@@ -7773,7 +7821,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 146768,
       "name": "Te Toco",
       "url": "https://open.spotify.com/track/5IrDx7oJmgwYRgNBzvpuwQ"
@@ -8243,6 +8291,28 @@
       "duration_ms": 198413,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"
+    },
+    {
+      "album": {
+        "name": "Ulala",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188009,
+      "name": "Ulala",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
     },
     {
       "album": {

@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 238360,
       "name": "Addictive/Predictive",
       "url": "https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 132573,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc"
@@ -1663,6 +1663,24 @@
       "duration_ms": 236098,
       "name": "Funambule (tout restera pareil)",
       "url": "https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i"
+    },
+    {
+      "album": {
+        "name": "Gallows",
+        "url": "https://open.spotify.com/album/4rWlTRMZieWj6MJV7KsCJh"
+      },
+      "artists": [
+        {
+          "name": "Reno McCarthy",
+          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186737,
+      "name": "Gallows",
+      "url": "https://open.spotify.com/track/3HsH8EwEfvhu151P1erqDX"
     },
     {
       "album": {
@@ -2119,10 +2137,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 292226,
       "name": "jardin",
       "url": "https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL"
+    },
+    {
+      "album": {
+        "name": "consolation",
+        "url": "https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292680,
+      "name": "jardin",
+      "url": "https://open.spotify.com/track/2mcMoXYHmVLxmCgAvaO2cS"
     },
     {
       "album": {
@@ -3571,6 +3607,28 @@
       "duration_ms": 152577,
       "name": "Quand je veux je dors",
       "url": "https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539"
+    },
+    {
+      "album": {
+        "name": "Redcup",
+        "url": "https://open.spotify.com/album/2JqC8e1k92ih07yaSzq8Yx"
+      },
+      "artists": [
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+        },
+        {
+          "name": "Sara Diamond",
+          "url": "https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Redcup",
+      "url": "https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu"
     },
     {
       "album": {

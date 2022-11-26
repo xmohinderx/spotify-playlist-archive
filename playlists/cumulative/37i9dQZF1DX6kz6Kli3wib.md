@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-238 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+240 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,8 @@
 | [Cotton Candy Flavored](https://open.spotify.com/track/56dhAHUA4WaiRB7CEYOHMs) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Golden Skin](https://open.spotify.com/album/3r3cYXwXao0P8fSZ43zv2D) | 2:31 | 2022-04-15 |  |
 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 | 2021-11-11 |  |
 | [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 |  |
+| [Cruisin](https://open.spotify.com/track/05IEDJVQnFPggjAD0o0vB4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Cruisin](https://open.spotify.com/album/7tPX59Ir4f3TlYxAHabC4V) | 2:25 | 2022-11-25 |  |
+| [Crystals](https://open.spotify.com/track/02o4X4FcJr6YeDxsNypNrY) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Crystals](https://open.spotify.com/album/00jgyv6zuR4TrBNJubM84f) | 2:19 | 2022-11-25 |  |
 | [detour](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [detour](https://open.spotify.com/album/3W42O1LosXXhBD1d5N5TQH) | 2:57 | 2022-06-24 |  |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2021-11-11 | 2022-05-20 |
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2021-11-11 |  |

@@ -8898,6 +8898,24 @@
     },
     {
       "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "album": {
         "name": "Georgia Peach (Sketch)",
         "url": "https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA"
       },
@@ -22057,7 +22075,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 175311,
       "name": "stuck on us",
       "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
@@ -22411,7 +22429,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 165254,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
@@ -22985,7 +23003,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 166859,
       "name": "Tek It - Sped Up",
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Roberta Campos",
+  "description": "As belas novidades da MPB. Foto: Alice Caymmi, Chico C\u00e9sar",
   "name": "Divina MPB",
   "published_playlist_ids": [
     "01cf54AteUmLGb18bFZOzr"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445156,
+      "name": "3 Marias",
+      "url": "https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4"
+    },
     {
       "album": {
         "name": "A Alma do Rio",
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 250602,
       "name": "Beira Do Mar",
       "url": "https://open.spotify.com/track/0kX5ljJYzOU7a0gnRNqBcx"
@@ -1255,6 +1273,24 @@
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "album": {
+        "name": "Truques Velhos Para Cachorros Novos",
+        "url": "https://open.spotify.com/album/6AUrJKjegLbKtxft47IiPx"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118080,
+      "name": "Calma, Carolina",
+      "url": "https://open.spotify.com/track/3G33vUrcfoFvntv2Orn9bw"
     },
     {
       "album": {
@@ -1590,6 +1626,24 @@
     },
     {
       "album": {
+        "name": "Continha",
+        "url": "https://open.spotify.com/album/4LnfbTkG0cLbIINmM0TbYS"
+      },
+      "artists": [
+        {
+          "name": "Salma e Mac",
+          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151880,
+      "name": "Continha",
+      "url": "https://open.spotify.com/track/70oxHVdsXTsaFmXk3d3u0l"
+    },
+    {
+      "album": {
         "name": "Fio",
         "url": "https://open.spotify.com/album/23yj7rTYKJg3XbAxRQbsID"
       },
@@ -1779,7 +1833,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 206657,
       "name": "Devagar, Meu Bem",
       "url": "https://open.spotify.com/track/4usF77pzhFPT2Eefse5mzK"
@@ -1867,6 +1921,28 @@
       "duration_ms": 182481,
       "name": "Disk Me",
       "url": "https://open.spotify.com/track/5cHJa34QqU2zQaAIHgxHvC"
+    },
+    {
+      "album": {
+        "name": "Do Acaso",
+        "url": "https://open.spotify.com/album/3LyypTwqJAdyo78uTm6Hg6"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265557,
+      "name": "Do Acaso",
+      "url": "https://open.spotify.com/track/1RJhiQh7nS96VeBlxGXBF7"
     },
     {
       "album": {
@@ -2131,6 +2207,32 @@
       "duration_ms": 156800,
       "name": "Esta\u00e7\u00e3o do Amor",
       "url": "https://open.spotify.com/track/65ZjrCljoJNNk19o6UxvvG"
+    },
+    {
+      "album": {
+        "name": "ESTRELA",
+        "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Flor Gil",
+          "url": "https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy"
+        },
+        {
+          "name": "Sol de Maria",
+          "url": "https://open.spotify.com/artist/1neBz4e5qmsNOeblVEoS2G"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185777,
+      "name": "ESTRELA",
+      "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
     },
     {
       "album": {
@@ -2509,7 +2611,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 268868,
       "name": "Frequ\u00eancia Rara",
       "url": "https://open.spotify.com/track/1sfxVBu3mpDOAFteXZGdYn"
@@ -3406,6 +3508,24 @@
     },
     {
       "album": {
+        "name": "Menino Pele Cor De Jambo",
+        "url": "https://open.spotify.com/album/2Mc6BCAVndBlJp923EVhSs"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222499,
+      "name": "Menino Pele Cor De Jambo",
+      "url": "https://open.spotify.com/track/0wLpiwpVtBU8h5CoW8qcsN"
+    },
+    {
+      "album": {
         "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
         "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
       },
@@ -4296,6 +4416,28 @@
     },
     {
       "album": {
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/4knGeJAqB8IMwNKQc6JHNF"
       },
@@ -4835,7 +4977,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 203571,
       "name": "Pra Sorrir",
       "url": "https://open.spotify.com/track/3Wzr7JiTQqdEhGuMYOdMQ4"
@@ -5114,6 +5256,24 @@
     },
     {
       "album": {
+        "name": "Purifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5bjpYeTq9oxZXSIGChuZRk"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263488,
+      "name": "Purifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/53iCl146CrNjtMR06Dg5mn"
+    },
+    {
+      "album": {
         "name": "Quando o Ver\u00e3o Chegar",
         "url": "https://open.spotify.com/album/1PuAhd3UK50GiH3JENkWhr"
       },
@@ -5169,6 +5329,28 @@
       "duration_ms": 218951,
       "name": "Que Tal um Samba?",
       "url": "https://open.spotify.com/track/6XqbqeZl7YwPLcWsp8sLOk"
+    },
+    {
+      "album": {
+        "name": "Segue o Movimento (Ao Vivo)",
+        "url": "https://open.spotify.com/album/24B8aW3ZpoVtAlvBIKOGZ7"
+      },
+      "artists": [
+        {
+          "name": "N\u00f4 Stopa",
+          "url": "https://open.spotify.com/artist/1tvJkKNKt5zYCbbyR36fZa"
+        },
+        {
+          "name": "Bia Tucci",
+          "url": "https://open.spotify.com/artist/1VSWRZULqi1BUaZERHQvNr"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196033,
+      "name": "Quem Sim? (Ao Vivo)",
+      "url": "https://open.spotify.com/track/61LTxSXQ0IEdWlHOSF2rIB"
     },
     {
       "album": {
@@ -5289,7 +5471,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 182756,
       "name": "Redentor",
       "url": "https://open.spotify.com/track/2MJ3pgIHIvkyUEfBwujt5A"
@@ -5384,6 +5566,28 @@
     },
     {
       "album": {
+        "name": "Novo Samba Sempre Novo",
+        "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
+      },
+      "artists": [
+        {
+          "name": "Benito 80",
+          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
+        },
+        {
+          "name": "Ju\u00e7ara Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237234,
+      "name": "Retalhos De Cetim",
+      "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
+    },
+    {
+      "album": {
         "name": "Retr\u00f3picos",
         "url": "https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj"
       },
@@ -5417,7 +5621,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 226949,
       "name": "Ribanceira - Ao Vivo",
       "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
@@ -5551,7 +5755,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195279,
       "name": "Saudade \u00c9 Pouco",
       "url": "https://open.spotify.com/track/4KJkY8dFC4fleO2HbdMHRE"
@@ -6060,6 +6264,28 @@
     },
     {
       "album": {
+        "name": "Tarde Em Itapu\u00e3",
+        "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
+    },
+    {
+      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -6111,7 +6337,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 221601,
       "name": "Tem Gente",
       "url": "https://open.spotify.com/track/68V1U8mQCWG85jypot6rmU"
@@ -6151,7 +6377,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195506,
       "name": "Templos - Ao Vivo",
       "url": "https://open.spotify.com/track/5gOXswoH6SMzvWy7lvCpQC"
@@ -6471,7 +6697,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 216340,
       "name": "Um Deus Aleijado",
       "url": "https://open.spotify.com/track/4CQjNTDWxcCUAxHRLWtNid"
@@ -6831,7 +7057,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 167061,
       "name": "\u00c1rvore - Ao Vivo no Rio",
       "url": "https://open.spotify.com/track/6ck63Hkr6XAuLdOioWyAjQ"

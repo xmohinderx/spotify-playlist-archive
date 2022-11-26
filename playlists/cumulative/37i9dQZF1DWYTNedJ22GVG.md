@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-161 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+163 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Little Drummer Boy](https://open.spotify.com/track/7BvCDrlYwJ5D9RUqvvs3BT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTXmas \(Deluxe Edition\)](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) | 4:15 | 2021-12-07 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/39ZfgbFZas5cMS0VhU1aoo) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pop Hits Weihnachten \- Die größten Weihnachtshits aller Zeiten](https://open.spotify.com/album/7ycxLNdcx1IZ0SCVtvWpcV) | 4:16 | 2021-12-07 | 2022-11-13 |
 | [Little Things](https://open.spotify.com/track/1vLPyotXnRlM2EJIHK16LW) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 3:08 | 2021-12-07 |  |
+| [Magic Be with You](https://open.spotify.com/track/3x3XK67jpkDrTFvoCKlKcF) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Fraggle Rock](https://open.spotify.com/artist/3Nxg9jbBUXycegdZFGuoEr) | [Fraggle Rock: Night of the Lights \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/7t417FFoAi66lNpuPzltvj) | 2:26 | 2022-11-25 |  |
 | [Man With The Bag](https://open.spotify.com/track/3E1DLz9jCFpvtQp9u9kKnH) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Man With The Bag](https://open.spotify.com/album/12VFW6qpEFjwKbMphXZpQG) | 2:41 | 2021-12-07 |  |
 | [Mary's Little Boy Child](https://open.spotify.com/track/1kvNGqiWBpVqrRs9NbvZH5) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Volume 4](https://open.spotify.com/album/4ELVrpXgMqKgutlW08leXU) | 3:52 | 2021-12-07 |  |
 | [Merry Christmas](https://open.spotify.com/track/1c8okwl6G1OUhgU2BJekIx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5W2wJUsVxy9l9jONK5LvGB) | 3:28 | 2021-12-07 | 2022-07-29 |
@@ -105,6 +106,7 @@
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/1R7XAC26tgDaa7SRG4HaPo) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:14 | 2021-12-07 | 2022-07-29 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2021-12-07 |  |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/2UJv1yuk5kShbTUEq6hIKA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Weihnachten zu Hause](https://open.spotify.com/album/7DbyJlZDEz6SX3LQGOvcby) | 4:15 | 2021-12-07 | 2022-11-13 |
+| [Night of the Lights](https://open.spotify.com/track/5PnkjBdLpPtfsdRk4vvBhN) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Fraggle Rock](https://open.spotify.com/artist/3Nxg9jbBUXycegdZFGuoEr) | [Fraggle Rock: Night of the Lights \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/7t417FFoAi66lNpuPzltvj) | 2:13 | 2022-11-25 |  |
 | [North Star \(Single From “Music From Zoey’s Extraordinary Christmas”\)](https://open.spotify.com/track/5rZGLms9i9cKgx3udMVQep) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [North Star \(Single from "Music from Zoey's Extraordinary Christmas"\)](https://open.spotify.com/album/1vOqSsMFFo72MxM6UksoDt) | 3:42 | 2021-12-07 |  |
 | [O Come, All Ye Faithful](https://open.spotify.com/track/4kZqBZ1cihUH8SoBZ3PBrd) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:35 | 2021-12-07 |  |
 | [Oh Santa!](https://open.spotify.com/track/016bn6MDd82OaNOH8bKcDc) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Tyler Perry’s A Madea Christmas Album \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VWuvATfuNuRu8o3lqmbpr) | 3:31 | 2021-12-07 |  |

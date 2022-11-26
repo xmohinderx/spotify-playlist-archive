@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-196 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/0eIEI0ptmU2SZvI7Y0sdN5)
+198 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/0eIEI0ptmU2SZvI7Y0sdN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Anna Painting](https://open.spotify.com/track/4Q8LnVINko045PEZ9pul8v) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Anna Painting](https://open.spotify.com/album/0CTMk3XKsfG1LfmKu1KCCA) | 7:41 | 2020-06-05\* | 2022-07-28 |
 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 | 2021-03-16 | 2022-06-02 |
 | [Are You Fine?](https://open.spotify.com/track/6sJbL5hAk1cKLXM6z3TCgo) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Making Music Is Bad For Your Self Esteem](https://open.spotify.com/album/2uM2WWarpblam6YIsk9pAo) | 3:46 | 2020-06-05\* | 2022-07-17 |
-| [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 | 2020-06-05\* |  |
+| [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 | 2020-06-05\* | 2022-11-26 |
 | [Atlas](https://open.spotify.com/track/4gx9edHLyQtb69ibMUyTxJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/6snYAeR3hklBu7LpvyQ3LR) | 5:50 | 2020-06-05 | 2022-07-17 |
 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 | 2022-05-30 |  |
 | [Aurora](https://open.spotify.com/track/2jhU0MFc3aJrULBpksSvDP) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [A Ghost From a Memory](https://open.spotify.com/album/7KMd6ligbagoZi02sM73eR) | 1:52 | 2020-09-02 | 2022-07-29 |
@@ -99,7 +99,7 @@
 | [Limb To Limb](https://open.spotify.com/track/4hlr0UeJckKGmT6IapEjVi) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Lilia](https://open.spotify.com/artist/2YFACCFxJUZcwTyNeXFB7u) | [Limb To Limb](https://open.spotify.com/album/6r0kP1A5UtUlBAGIxchQ0e) | 4:14 | 2020-06-05\* | 2022-07-29 |
 | [Lines](https://open.spotify.com/track/6WLfk4F8qnuS7tdvhbDgQ1) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Jimi](https://open.spotify.com/album/1UoEWWXu1EGjCVGnbIhpbI) | 4:26 | 2021-03-16 | 2021-05-28 |
 | [Looking Back](https://open.spotify.com/track/1o7oX9vAT7pdED3vaZ035C) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Bahasa](https://open.spotify.com/album/0ZHcB7ypGVPQPolTROtl4c) | 5:37 | 2021-02-15 | 2022-07-27 |
-| [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2021-01-05 |  |
+| [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2021-01-05 | 2022-11-26 |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2020-06-05\* |  |
 | [Loud \- Shura Remix](https://open.spotify.com/track/4hn5Ey6jVFtsD9tYMKPpM0) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Loud \(Shura Remix\)](https://open.spotify.com/album/6z945ZfXHDb3eCNmgEJ5yC) | 3:30 | 2021-01-05 | 2022-06-25 |
 | [Loud Places](https://open.spotify.com/track/0Sl8C9oeS3b5Kv9bSvTPDr) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I) | 4:43 | 2021-03-21 | 2022-07-29 |
@@ -117,6 +117,7 @@
 | [Miss U](https://open.spotify.com/track/7H4tN0rXuTf742D6ZoZLzF) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Misconceptions](https://open.spotify.com/album/66lU3va34JbKbJAlmdepk4) | 4:51 | 2020-06-12 | 2022-06-01 |
 | [Moons](https://open.spotify.com/track/2k8KF5WqJeIO1RodV9mS1u) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Tangerine](https://open.spotify.com/album/4olQWXC3W8iaZfzGyzkN0Y) | 5:52 | 2020-06-05 | 2022-07-23 |
 | [Mystery](https://open.spotify.com/track/00Fx3RRfjbl0NdZVUqAY6D) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Nude](https://open.spotify.com/album/75sLU8PQAhy5tS5XbIhEn6) | 4:45 | 2020-06-10 | 2021-10-12 |
+| [need u tonight](https://open.spotify.com/track/3FZFI1p9qhX0FWQIsklTFW) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2) | 0:46 | 2022-11-25 |  |
 | [Nightcrawler](https://open.spotify.com/track/18SLJP3bbntdyiMuRTonc2) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/7MFGMQ53RAZbsOR9K0JQId) | 3:45 | 2020-06-05\* | 2022-07-23 |
 | [No Borders](https://open.spotify.com/track/3Ru6v1CcBAUbIuNVKcQW4v) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Diasporave 3/3](https://open.spotify.com/album/5HJrxKarX2kUBB7CRfBf7Q) | 2:44 | 2020-06-12 | 2022-07-29 |
 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 | 2021-01-28 |  |
@@ -127,6 +128,7 @@
 | [On Hold](https://open.spotify.com/track/5CPqOpKSk0QcJ3dGdaWcRB) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/2PXy9USZAoTSdtrxfkPBnl) | 3:44 | 2021-03-17 | 2021-05-24 |
 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 | 2022-05-30 |  |
 | [One Grain of Sand](https://open.spotify.com/track/73F3XnDV60gX1tOnJw4ut9) | [Powel](https://open.spotify.com/artist/7lswylDlldiV65bPXGD46m) | [The Beauty of a Polaroid](https://open.spotify.com/album/7BWs0FjxHJmYSS8DqC9tG5) | 6:25 | 2021-01-05 | 2022-07-29 |
+| [Opening Credits](https://open.spotify.com/track/7zuMvkTqp8RQpJqSHCFofp) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Opening Credits](https://open.spotify.com/album/70ObWOtpXMsBBbYLNmRIgm) | 4:03 | 2022-11-25 |  |
 | [Orange](https://open.spotify.com/track/0JIsc98iJvP4ySokSFFRY8) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz), [Sinead White](https://open.spotify.com/artist/0bow8GsVd622Y1NEGOeEL0) | [L.O.S.S.](https://open.spotify.com/album/1RoBBAroy6tMbqXkkT4yyK) | 3:08 | 2020-06-05\* | 2022-07-05 |
 | [Painting On Glass](https://open.spotify.com/track/52BaGmviMTO9z4cIerve0C) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Painting On Glass](https://open.spotify.com/album/4sx4UF9JugEaB2dTIbRzlV) | 2:32 | 2021-01-05 | 2022-07-29 |
 | [Parallel 7](https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:43 | 2021-01-05 | 2022-11-22 |

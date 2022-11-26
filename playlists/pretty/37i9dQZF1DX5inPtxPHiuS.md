@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Don Tetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,900 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,924 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 57 | [Sangre de Prófugo](https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec) | 3:31 |
 | 58 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
 | 59 | [Antiamor](https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu) | 3:43 |
-| 60 | [Pimpinella](https://open.spotify.com/track/2AWR5s0EOIKrmKjh77hTDF) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Francesca Collavini](https://open.spotify.com/artist/5v076gGHAwFFq2uAVPlHzg) | [Pimpinella](https://open.spotify.com/album/1JjSmuzofyycWZ3s6wJE56) | 4:13 |
+| 60 | [Más Allá del Tiempo](https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Más Allá del Tiempo](https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m) | 3:37 |
 
-Snapshot ID: `MTY2NTY3Mzk2MCwwMDAwMDAwMDYzNzg5Zjk3NmIzZDhmYzYzM2RjYzI3NWU5NGVlNjZi`
+Snapshot ID: `MTY2NTY3Mzk2MCwwMDAwMDAwMDA3MjkyZjA4ZDg4MjhmMzlmZDI1NDJmZWY3ZmY0ZWVi`

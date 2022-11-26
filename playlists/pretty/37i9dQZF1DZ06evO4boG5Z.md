@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,763 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,771 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 26 | [Farewell My Hell](https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:51 |
 | 27 | [Something I Would Die For](https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 2:50 |
 | 28 | [Boring Planet](https://open.spotify.com/track/3OQfwNOhDOodlqBYixpc3A) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:07 |
-| 29 | [Dance Craze](https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:01 |
-| 30 | [Mooseman's Jukebox](https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:12 |
+| 29 | [Vixen](https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [The Melancholy Collection](https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V) | 1:49 |
+| 30 | [Dance Craze](https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:01 |
 | 31 | [Egocentric Man](https://open.spotify.com/track/6gcTVs1P3Rkl4XYF2MF74j) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 2:34 |
-| 32 | [Vixen](https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [The Melancholy Collection](https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V) | 1:49 |
+| 32 | [Mooseman's Jukebox](https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:12 |
 | 33 | [Killercrush](https://open.spotify.com/track/4RyifJbF8JhMtFdR2Bzslt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:27 |
 | 34 | [For Yesterday](https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 2:46 |
 | 35 | [Leona](https://open.spotify.com/track/1meXK8bC29YKP011kHQml1) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 49 | [Detox](https://open.spotify.com/track/61lH2PBKTjJ3M8CUe5YsND) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Machine 15](https://open.spotify.com/album/37R1jMircABSFxsoWulxTa) | 3:37 |
 | 50 | [Da Strike](https://open.spotify.com/track/1zpz6NAlgOE2bLvfidhQhN) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 3:01 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAzZDdhMWNhODNlNjFjOWJjNjNmZWEyZWY2OGRhMjhiZA==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDAzMGFkMzY4NDhhNTg1NzQ1ZjlkZGRhNTExMGJmYTg4ZQ==`

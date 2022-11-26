@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDdhY2RmYmQ4OWJiZDcwNjRjYjJlMTA3OGE0NTgzOTdj",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDAwYWU5NDAzODM1ZjBhYzc1NzkyZmVlODU1YTA3ZDgx",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Orange Blood",
         "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Mouthfuls",
-        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "When U Love Somebody",
-      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Mouthfuls",
+        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "When U Love Somebody",
+      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Gone for Good",
-      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Wakin On A Pretty Daze",
         "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 570733,
       "name": "Wakin On A Pretty Day",
       "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Chutes Too Narrow",
+        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Gone for Good",
+      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "The Stand Ins",
-        "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
-      },
-      "artists": [
-        {
-          "name": "Okkervil River",
-          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Lost Coastlines",
-      "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 299719,
       "name": "Sugaree",
       "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "The Stand Ins",
+        "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
+      },
+      "artists": [
+        {
+          "name": "Okkervil River",
+          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Lost Coastlines",
+      "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
     },
     {
       "added_at": "2022-06-17 04:02:00",

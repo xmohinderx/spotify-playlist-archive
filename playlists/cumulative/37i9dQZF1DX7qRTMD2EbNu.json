@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194939,
       "name": "Akatafo Party",
       "url": "https://open.spotify.com/track/2dErHn9K3ajwPmKeTO2o6s"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 153750,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/1wdXNMo95BlitTNEZQFx5U"
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Buokrom Boy",
+        "url": "https://open.spotify.com/album/6LwAZ6V7j3mTEaO9upZl11"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240337,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/098BS1HCypwZZdX2phJk9L"
+    },
+    {
+      "album": {
         "name": "DTMV (Don't Touch My Vision)",
         "url": "https://open.spotify.com/album/6yawCJDZwZDV5KDvCzAYzS"
       },
@@ -671,6 +689,28 @@
       "duration_ms": 88348,
       "name": "DTMV (Don't Touch My Vision)",
       "url": "https://open.spotify.com/track/66ebvi27vMsoytonqo7A3D"
+    },
+    {
+      "album": {
+        "name": "Dup\u0117",
+        "url": "https://open.spotify.com/album/6hqyFPUXzElJTaIlsIcXP1"
+      },
+      "artists": [
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191055,
+      "name": "Dup\u0117",
+      "url": "https://open.spotify.com/track/5zJYfys6I9qA2WrXserMUm"
     },
     {
       "album": {
@@ -741,7 +781,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 284868,
       "name": "FED UP",
       "url": "https://open.spotify.com/track/0hdRhRacQ3gyrt8rxODkoS"
@@ -979,7 +1019,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 216746,
       "name": "Governor",
       "url": "https://open.spotify.com/track/5u3K16NYnDR8llAqKIcdYF"
@@ -1333,6 +1373,50 @@
       "duration_ms": 130000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b"
+    },
+    {
+      "album": {
+        "name": "MOBB (feat. Le Juiice)",
+        "url": "https://open.spotify.com/album/27XavddsYmGmvQmBRwXEzC"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "MOBB (feat. Le Juiice)",
+      "url": "https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY"
+    },
+    {
+      "album": {
+        "name": "Mona Mobre",
+        "url": "https://open.spotify.com/album/2F4l42nbeEJN12pMz2TZMk"
+      },
+      "artists": [
+        {
+          "name": "Matino",
+          "url": "https://open.spotify.com/artist/6Lh8Pbf1GRE9NI58rnaTpY"
+        },
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Mona Mobre",
+      "url": "https://open.spotify.com/track/5BZCvuHKfFf3RCnHz5EAxR"
     },
     {
       "album": {
@@ -1731,7 +1815,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 161531,
       "name": "Scary",
       "url": "https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu"
@@ -2022,6 +2106,62 @@
     },
     {
       "album": {
+        "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
+        "url": "https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp"
+      },
+      "artists": [
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
+      "url": "https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2"
+    },
+    {
+      "album": {
+        "name": "Trenches Babies; Lalid - The Big Fish",
+        "url": "https://open.spotify.com/album/7w0dha98O5MiKp51tUlMyg"
+      },
+      "artists": [
+        {
+          "name": "Ground Up Chale",
+          "url": "https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh"
+        },
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/6gWvtdIeRmIE7175RmDJ81"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124898,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/2l2euV6MEINdOvBHp5yr7N"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk"
       },
@@ -2191,7 +2331,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 231500,
       "name": "Yenda",
       "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"

@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 135157,
+  "num_followers": 135527,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzNzAxMywwMDAwMDAwMGM3N2MxMmE5NjExYjk1OTdiYWM2ZjkxMGVhYjVjODIz",
+  "snapshot_id": "MTY2OTM0MjQwMiwwMDAwMDAwMDVlNTFjN2ZhOTRmMDgxMWFmYjRjMTBhYThmNzlkYjg5",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -89,6 +89,26 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
+      "added_at": "2022-11-26 01:23:00",
+      "album": {
+        "name": "WORTH NOTHING",
+        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING",
+      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
       "added_at": "2022-10-12 15:41:51",
       "album": {
         "name": "Pepas",
@@ -169,6 +189,26 @@
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
+      "added_at": "2022-11-25 00:43:33",
+      "album": {
+        "name": "GOOD TIMES (Sofia Kourtesis Remix)",
+        "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 269711,
+      "name": "GOOD TIMES - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
+    },
+    {
       "added_at": "2022-10-12 15:41:51",
       "album": {
         "name": "Goosebumps (Remix)",
@@ -187,26 +227,6 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2022-11-25 01:25:31",
-      "album": {
-        "name": "GOOD TIMES (Sofia Kourtesis Remix)",
-        "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 269711,
-      "name": "GOOD TIMES - Sofia Kourtesis Remix",
-      "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
     },
     {
       "added_at": "2022-10-12 15:41:51",
@@ -499,26 +519,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 174215,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2022-10-12 15:41:51",
@@ -583,22 +603,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You - Edit",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "The Last Goodbye (feat. Bettye LaVette)",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -615,6 +619,22 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You - Edit",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2022-10-12 15:41:51",
@@ -1075,22 +1095,6 @@
       "duration_ms": 255093,
       "name": "Cocaine Model",
       "url": "https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
     }
   ],
   "unique_name": "Tulum Party",

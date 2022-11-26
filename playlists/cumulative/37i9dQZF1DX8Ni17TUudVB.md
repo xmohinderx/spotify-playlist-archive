@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-186 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
+187 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Covalent Bond](https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK) | [Erick T](https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0), [The Second Wave](https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o) | [Covalent Bond](https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK) | 2:39 | 2022-04-24 | 2022-07-29 |
 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 | 2022-08-16 |  |
 | [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2022-01-04 | 2022-11-02 |
+| [Dance Alone](https://open.spotify.com/track/2nwLHppShziXpR18WF5z9k) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Dance Alone](https://open.spotify.com/album/1e0e33Zz7JX1YSybY0KPv2) | 2:05 | 2022-08-16 |  |
 | [Dance Alone](https://open.spotify.com/track/6WoA6fm4Mv1Xo9XuHADlRT) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Dance Alone](https://open.spotify.com/album/4xN5FWfUzGRI5FGrMbHqRy) | 2:05 | 2022-01-04 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/7s914GtCjjcdeAP0TScYqB) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Dance With Me](https://open.spotify.com/album/4lEnbHVWLFdlWfPTyUtzfm) | 2:56 | 2022-01-04 | 2022-07-29 |
 | [Dark](https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Dark](https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii) | 2:03 | 2022-03-09 | 2022-08-17 |
@@ -106,7 +107,7 @@
 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 | 2022-06-27 |  |
 | [La Botella](https://open.spotify.com/track/5SAuyeUPUD1vmRGt653Gta) | [BonHaus](https://open.spotify.com/artist/34gZinCBxDwlo9VlbFA995), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [La Botella](https://open.spotify.com/album/61lIlJlRlFgsMNUWVNafrg) | 3:45 | 2022-01-04 | 2022-07-29 |
 | [La Muerte](https://open.spotify.com/track/23BMl5kfWlCCBX4Jf207Sc) | [Medincci](https://open.spotify.com/artist/4nq6VrMtymuZ5HWojYNzJo), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [La Muerte](https://open.spotify.com/album/06vXQVIxhcFkJ5FiMOcPja) | 2:56 | 2022-01-04 | 2022-07-29 |
-| [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 | 2022-01-04 |  |
+| [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 | 2022-01-04 | 2022-11-26 |
 | [La Rana](https://open.spotify.com/track/1Cv6h7fvpqwwhwzFghwfwP) | [SBM](https://open.spotify.com/artist/10sogTUsGzLPeCcrOcEPF1), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [La Rana](https://open.spotify.com/album/4bT2Rj4nZ6eemoACXDBgMm) | 4:40 | 2022-01-04 | 2022-07-29 |
 | [Leave Me](https://open.spotify.com/track/4HwCOHAttt18YbphVEt2Tc) | [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq) | [Leave Me](https://open.spotify.com/album/5V4BXvi7L2x0mZuUyzOQlG) | 2:19 | 2022-01-04 | 2022-07-29 |
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2022-01-04 |  |

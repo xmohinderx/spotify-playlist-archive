@@ -1,45 +1,13 @@
 {
   "description": "The hottest out the south. Cover: Quavo & Takeoff",
-  "num_followers": 1107426,
+  "num_followers": 1107810,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGJlZDAwNjBhODM1Y2RkMmQzYWI2ZTBlZjdkNTk0NDQ4",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGMwZGM5MTdjNmQxZmQ2ZjE4ZWQ1MmUwMTM4Y2Y4OGY1",
   "tracks": [
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "PRE5L",
-        "url": "https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Jigsaw",
-      "url": "https://open.spotify.com/track/3Wqs6XFKsKcTjaWhmB8VCP"
-    },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
@@ -59,26 +27,6 @@
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -101,6 +49,94 @@
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "PRE5L",
+        "url": "https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Jigsaw",
+      "url": "https://open.spotify.com/track/3Wqs6XFKsKcTjaWhmB8VCP"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Letter to Takeoff",
+        "url": "https://open.spotify.com/album/4yrzsGF0xjnXP5oWNvMNqX"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 217872,
+      "name": "Letter to Takeoff",
+      "url": "https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Tomorrow 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Jupiter's Diary: 7 Day Theory",
@@ -115,6 +151,22 @@
       "duration_ms": 159545,
       "name": "MJ Story",
       "url": "https://open.spotify.com/track/7G5wdn7Os6rKWtmbTYCjJO"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -161,22 +213,6 @@
       "url": "https://open.spotify.com/track/0tLfChoWmx3RK1hoBuImpC"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 180760,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
@@ -191,22 +227,6 @@
       "duration_ms": 169465,
       "name": "Unh Unh",
       "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Letter to Takeoff",
-        "url": "https://open.spotify.com/album/4yrzsGF0xjnXP5oWNvMNqX"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 217872,
-      "name": "Letter to Takeoff",
-      "url": "https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -249,24 +269,24 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tomorrow 2 (with Cardi B)",
-        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+        "name": "Gucci Flow",
+        "url": "https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
         }
       ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+      "duration_ms": 131120,
+      "name": "Gucci Flow",
+      "url": "https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -321,6 +341,26 @@
       "url": "https://open.spotify.com/track/1AXB0WRiTcSQe9RbBD2Ipx"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Meet The Walkers 2 (With Nardo Wick)",
+        "url": "https://open.spotify.com/album/2cLUowGZhWDNrxBhQM4xYc"
+      },
+      "artists": [
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 186380,
+      "name": "Meet The Walkers 2 (With Nardo Wick)",
+      "url": "https://open.spotify.com/track/4b74N1zeHs4tIOTxTz1Jub"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Hell Yeah",
@@ -339,6 +379,22 @@
       "duration_ms": 168160,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -481,26 +537,6 @@
       "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Meet The Walkers 2 (With Nardo Wick)",
-        "url": "https://open.spotify.com/album/2cLUowGZhWDNrxBhQM4xYc"
-      },
-      "artists": [
-        {
-          "name": "Lil Double 0",
-          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
-        },
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 186380,
-      "name": "Meet The Walkers 2 (With Nardo Wick)",
-      "url": "https://open.spotify.com/track/4b74N1zeHs4tIOTxTz1Jub"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "RuleBook",
@@ -549,26 +585,6 @@
       "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Gucci Flow",
-        "url": "https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        }
-      ],
-      "duration_ms": 131120,
-      "name": "Gucci Flow",
-      "url": "https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Only Built For Infinity Links",
@@ -611,6 +627,22 @@
       "duration_ms": 163113,
       "name": "Mr. CBFW (feat. G Herbo)",
       "url": "https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK"
     },
     {
       "added_at": "2022-10-21 05:26:36",
@@ -683,6 +715,26 @@
       "duration_ms": 183296,
       "name": "What Type of Games",
       "url": "https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Emotional Gangsta",
+        "url": "https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C"
+      },
+      "artists": [
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 263636,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5BcIBbBdkjSYnf5jNlLG7j"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -829,26 +881,6 @@
       "url": "https://open.spotify.com/track/6hFAavE0EiilAXtubEpEW0"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "HEAVY IS THE HEAD",
-        "url": "https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy"
-      },
-      "artists": [
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 172987,
-      "name": "WIN 4 LOSIN (with Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/104Z44ugOYxbw2RzGBWZPn"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "ALMETHA\u2019S SON",
@@ -883,42 +915,6 @@
       "duration_ms": 115776,
       "name": "Robbin Season",
       "url": "https://open.spotify.com/track/4OCpoiyhEEU3OKqEbK8I9w"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Outside Lookin In",
-        "url": "https://open.spotify.com/album/5i4bMLcHAgno1DeDLa0FkP"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "Outside Lookin In",
-      "url": "https://open.spotify.com/track/2E0GPxxASUGBkgZevrhr3V"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/0sPpOYWKeLPeppdKyZy9W4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4iPk2FPM9hZYHqtQsfEz6m"
     }
   ],
   "unique_name": "No Cap",

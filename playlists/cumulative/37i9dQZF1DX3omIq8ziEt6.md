@@ -4,7 +4,7 @@
 
 > Timeless Latin hits, solo tus favoritos!
 
-368 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/6Way9yNdo6mukwZcZ3i08m)
+369 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/6Way9yNdo6mukwZcZ3i08m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2022-06-27 |  |
 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 | 2022-06-27 |  |
 | [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2021-12-09 | 2022-07-29 |
-| [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 | 2021-12-09 |  |
+| [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 | 2021-12-09 | 2022-11-26 |
 | [Sexo Pudor Y Lágrimas](https://open.spotify.com/track/7ji21BRR5NpJC4rWdsyJAP) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Sexo, Pudor Y Lagrimas: Remixes](https://open.spotify.com/album/0adtB6rl7NTp71HFwLmk1v) | 3:56 | 2021-12-09 | 2022-07-29 |
 | [Shabadabada](https://open.spotify.com/track/0v5lV9xxdEumQ2jKf5CBVp) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 3:55 | 2021-12-09 | 2022-07-29 |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-06-27 |  |
@@ -329,6 +329,7 @@
 | [Toda la Vida](https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Desnudo Emmanuel](https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG) | 4:49 | 2022-01-01 | 2022-07-20 |
 | [Todavia](https://open.spotify.com/track/5wPhERt9izm1T45aFXDWPe) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Exitos](https://open.spotify.com/album/3oIRbufih3VX2kDgTLnk4X) | 3:23 | 2021-12-09 | 2022-07-29 |
 | [Todavia](https://open.spotify.com/track/7gaovXojjqfn276uZR0omT) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia](https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n) | 3:24 | 2022-06-27 | 2022-08-27 |
+| [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 | 2022-08-31 |  |
 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 | 2022-06-27 |  |
 | [Traicionera](https://open.spotify.com/track/79Jhw5xn4gGn6PZak275gg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Traicionera](https://open.spotify.com/album/7aTqiX68z42xqpEsiWBz4O) | 3:48 | 2022-01-25 | 2022-06-21 |
 | [Tu](https://open.spotify.com/track/7xMfjdjZWMrxc78qKOXpXE) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/3OGxK3YAhUW3jGPlmHSciZ) | 4:51 | 2021-12-09 | 2022-07-29 |

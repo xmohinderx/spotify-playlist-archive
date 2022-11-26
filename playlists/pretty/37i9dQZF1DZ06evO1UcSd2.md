@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,487 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,538 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 15 | [Contra Mis Principios](https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Sin Perder El Estilo](https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF) | 3:46 |
 | 16 | [Comandante Tanque](https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Comandante Tanque](https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX) | 3:26 |
 | 17 | [Gente del General](https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 2:45 |
-| 18 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
-| 19 | [Las Erres Gemelas](https://open.spotify.com/track/7hwomKLANXZQDHEFzjbgq1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Las Erres Gemelas](https://open.spotify.com/album/73q7EwOjaITTUQB7ajLmm6) | 4:35 |
+| 18 | [Las Erres Gemelas](https://open.spotify.com/track/7hwomKLANXZQDHEFzjbgq1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Las Erres Gemelas](https://open.spotify.com/album/73q7EwOjaITTUQB7ajLmm6) | 4:35 |
+| 19 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
 | 20 | [Vuelve Por Favor](https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vuelve Por Favor](https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W) | 3:20 |
 | 21 | [El de la Gorra 27](https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:20 |
 | 22 | [Hierba de Receta](https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Hierba de Receta](https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g) | 3:13 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 46 | [El Mentado](https://open.spotify.com/track/2K5oFDtsSM0Wf6rzOmVEMT) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 2:36 |
 | 47 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
 | 48 | [Del Barrio](https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio](https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8) | 3:03 |
-| 49 | [El Señor Zambada](https://open.spotify.com/track/1CBXspim9GK60C4auWiPBe) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 3:42 |
-| 50 | [El Plumas](https://open.spotify.com/track/0Gbvdas2fBkDsQBiNgq8dN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Plumas](https://open.spotify.com/album/2yB6Jml9JVX50kTjlU2cgX) | 2:57 |
+| 49 | [El Plumas](https://open.spotify.com/track/0Gbvdas2fBkDsQBiNgq8dN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Plumas](https://open.spotify.com/album/2yB6Jml9JVX50kTjlU2cgX) | 2:57 |
+| 50 | [El Señor Zambada](https://open.spotify.com/track/1CBXspim9GK60C4auWiPBe) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 3:42 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAwOGM0YTRlMGNlZDU0NTdjYThhZmI5NzJlMzVhOTU4OQ==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDA3MDVmN2RkNWU3Y2Y2N2IzYTE2NjczYWJlNmQ0YzQ2Yg==`

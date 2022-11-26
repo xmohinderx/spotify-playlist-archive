@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 202395,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 289604,
       "name": "\u6162\u51b7",
       "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9"
+    },
+    {
+      "album": {
         "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
       },
@@ -1260,6 +1278,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+        "url": "https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168944,
+      "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+      "url": "https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY"
+    },
+    {
+      "album": {
         "name": "\u5931\u7720\u75c7\u5019\u7fa4",
         "url": "https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN"
       },
@@ -1289,7 +1325,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 216021,
       "name": "\u6ee1\u5929\u661f\u8fb0\u4e0d\u53ca\u4f60",
       "url": "https://open.spotify.com/track/09io3vVKFutG8rzdjjQYfM"

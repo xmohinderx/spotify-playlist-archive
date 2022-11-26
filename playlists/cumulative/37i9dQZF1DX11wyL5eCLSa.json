@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq"
+      },
+      "artists": [
+        {
+          "name": "Los Dynamite",
+          "url": "https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp"
+    },
+    {
+      "album": {
         "name": "4 del 20",
         "url": "https://open.spotify.com/album/0iugtNNvaIcTPzV7C7ASqK"
       },
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 225853,
       "name": "Despi\u00e9rtame",
       "url": "https://open.spotify.com/track/5mLWU71Qwb0QTNdbgTlMJr"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 212185,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 190654,
       "name": "Est\u00e1 Bien",
       "url": "https://open.spotify.com/track/7nNJjT0i00WGlpp4ELLEky"
@@ -1146,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Hasta Las Hifas, Un Micelio",
+        "url": "https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274277,
+      "name": "Hasta Las Hifas, Un Micelio",
+      "url": "https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb"
+    },
+    {
+      "album": {
         "name": "Cielos Desconocidos",
         "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
       },
@@ -1197,6 +1233,24 @@
       "duration_ms": 302840,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/2YiqBesMJpszYU6raDOG0R"
+    },
+    {
+      "album": {
+        "name": "Hombre Perro de Tlatelolco",
+        "url": "https://open.spotify.com/album/3oDiczQFqZtVsLjIluV6yq"
+      },
+      "artists": [
+        {
+          "name": "O Tortuga",
+          "url": "https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219626,
+      "name": "Hombre perro de Tlatelolco",
+      "url": "https://open.spotify.com/track/1IWvQ1eB8B1mFO0pecAYXo"
     },
     {
       "album": {
@@ -1359,7 +1413,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 220429,
       "name": "La Madre Que la Trajo",
       "url": "https://open.spotify.com/track/7LEFk9MQRuovhRSh4xfnve"
@@ -1485,7 +1539,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
@@ -1503,7 +1557,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 305413,
       "name": "Libertad",
       "url": "https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR"
@@ -1835,7 +1889,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 188181,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
@@ -2324,6 +2378,42 @@
     },
     {
       "album": {
+        "name": "Pendejo",
+        "url": "https://open.spotify.com/album/77yiQPiK9LOQtP4cUzb0sY"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186389,
+      "name": "Pendejo",
+      "url": "https://open.spotify.com/track/3PG2vYXGQuBZhTTdvtwxdj"
+    },
+    {
+      "album": {
+        "name": "Piel De Luna",
+        "url": "https://open.spotify.com/album/3OfRXND8qp1xQECuNgxsr3"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3dex F\u00e9nix",
+          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298174,
+      "name": "Piel De Luna",
+      "url": "https://open.spotify.com/track/57NtJwiDGoCgcXVs6yi16N"
+    },
+    {
+      "album": {
         "name": "Playa Privada",
         "url": "https://open.spotify.com/album/3MArnPhSwpOc6u3ig8D9cW"
       },
@@ -2563,7 +2653,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 185400,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4CgNNWpvkkMsMkJfSHOOll"
@@ -2957,6 +3047,28 @@
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR"
+    },
+    {
+      "album": {
+        "name": "T\u00f3xico",
+        "url": "https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229927,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV"
     },
     {
       "album": {

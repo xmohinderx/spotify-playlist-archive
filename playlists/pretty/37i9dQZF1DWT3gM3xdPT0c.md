@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,134 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,221 likes - 102 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,23 +90,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 80 | [Guarnieri](https://open.spotify.com/track/0rWUcQHJNWLZ4tkCJGhfpg) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Foi Assim](https://open.spotify.com/album/0tA8gFpl3KiocUkvLWAtQH) | 2:57 |
 | 81 | [Gravity](https://open.spotify.com/track/4c0elNnVTcM5E9SXxnVlF4) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Gravity](https://open.spotify.com/album/7JVqev38x90LU4bq85nAqM) | 1:44 |
 | 82 | [Rain Is Here](https://open.spotify.com/track/2tf9JNRi8eYDjkNe50bMrJ) | [Wildflowers](https://open.spotify.com/artist/5coLLXzZ7CNs9tKs0AbeJo) | [Rain Is Here](https://open.spotify.com/album/3otdxqAMOQxmZQ2X8aZK0B) | 2:55 |
-| 83 | [The Journey With You](https://open.spotify.com/track/0ZEsPuSsslffsQiTB9UoTA) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [The Journey With You](https://open.spotify.com/album/1N9XguMS6vl9LbbRkeLnBZ) | 2:22 |
-| 84 | [Ripple](https://open.spotify.com/track/35ubLpqwf9B0JJswg5kfP5) | [Mathew Joseph](https://open.spotify.com/artist/3thJquMnhrDJ0dU06Jo9jN) | [Ripple](https://open.spotify.com/album/1SOyteort2iMLqlZ2Rlf4i) | 2:05 |
-| 85 | [Morning Light](https://open.spotify.com/track/0selXaJihgVtLwxUSabMys) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Morning Light](https://open.spotify.com/album/3WD5ysTL46aG7XskWr62ma) | 3:26 |
-| 86 | [Lilac Morning](https://open.spotify.com/track/3DrBORXqiYfJiL2uwilZGG) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Lilac Morning](https://open.spotify.com/album/2xnOqaHP1YzVvckOvOZeKZ) | 2:41 |
-| 87 | [Memories](https://open.spotify.com/track/43fv0Uohu4M5XnaBR4NYqh) | [Ian Rice](https://open.spotify.com/artist/7aUuQ2faT5iuixVCX7DXRj) | [As It Was](https://open.spotify.com/album/1wkZ0ftdgQCqV4BORaDiXn) | 3:27 |
-| 88 | [Afterwards](https://open.spotify.com/track/7oX3WkGekn1AhPJBVrz1DT) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Afterwards](https://open.spotify.com/album/2uh6qOYZnKOGbOHTinb2EN) | 2:02 |
-| 89 | [I've Made Up My Mind](https://open.spotify.com/track/7di3JmluQQPzpBk39jaBXO) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I've Made Up My Mind](https://open.spotify.com/album/0rlBNagqYyRlrHzmUsxMmW) | 3:35 |
-| 90 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
-| 91 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 |
-| 92 | [In Her Heart](https://open.spotify.com/track/1wo3quOcZ1poLIp7Zqi9eg) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [In Her Heart](https://open.spotify.com/album/6tRWkHGPOZZ2wsrfN5ZxOs) | 2:03 |
-| 93 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 |
-| 94 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 |
-| 95 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 |
-| 96 | [Owl & the Moon](https://open.spotify.com/track/3SXdjP2Bguxi8zGp48erWj) | [Alan Gogoll](https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3) | [Owl & the Moon](https://open.spotify.com/album/5fuDpP53oiSHp0IqXHflYw) | 2:43 |
-| 97 | [Jasmine Spring](https://open.spotify.com/track/0rvAQQgVhaUsbl9oF4pmlQ) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Jasmine Spring](https://open.spotify.com/album/5jTFUQwgbtF73qI3Qky9sF) | 2:26 |
-| 98 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 |
-| 99 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 |
-| 100 | [Loch Lomond](https://open.spotify.com/track/2cAOjBEOihwcAZmrNHVd7v) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Loch Lomond](https://open.spotify.com/album/1uAK1L5V9sG1g3vzbXrTIb) | 1:54 |
+| 83 | [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 |
+| 84 | [New York](https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd) | [Zach Len](https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR) | [New York](https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh) | 2:25 |
+| 85 | [The Journey With You](https://open.spotify.com/track/0ZEsPuSsslffsQiTB9UoTA) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [The Journey With You](https://open.spotify.com/album/1N9XguMS6vl9LbbRkeLnBZ) | 2:22 |
+| 86 | [Ripple](https://open.spotify.com/track/35ubLpqwf9B0JJswg5kfP5) | [Mathew Joseph](https://open.spotify.com/artist/3thJquMnhrDJ0dU06Jo9jN) | [Ripple](https://open.spotify.com/album/1SOyteort2iMLqlZ2Rlf4i) | 2:05 |
+| 87 | [Morning Light](https://open.spotify.com/track/0selXaJihgVtLwxUSabMys) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Morning Light](https://open.spotify.com/album/3WD5ysTL46aG7XskWr62ma) | 3:26 |
+| 88 | [Lilac Morning](https://open.spotify.com/track/3DrBORXqiYfJiL2uwilZGG) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Lilac Morning](https://open.spotify.com/album/2xnOqaHP1YzVvckOvOZeKZ) | 2:41 |
+| 89 | [Memories](https://open.spotify.com/track/43fv0Uohu4M5XnaBR4NYqh) | [Ian Rice](https://open.spotify.com/artist/7aUuQ2faT5iuixVCX7DXRj) | [As It Was](https://open.spotify.com/album/1wkZ0ftdgQCqV4BORaDiXn) | 3:27 |
+| 90 | [Afterwards](https://open.spotify.com/track/7oX3WkGekn1AhPJBVrz1DT) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Afterwards](https://open.spotify.com/album/2uh6qOYZnKOGbOHTinb2EN) | 2:02 |
+| 91 | [I've Made Up My Mind](https://open.spotify.com/track/7di3JmluQQPzpBk39jaBXO) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I've Made Up My Mind](https://open.spotify.com/album/0rlBNagqYyRlrHzmUsxMmW) | 3:35 |
+| 92 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
+| 93 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 |
+| 94 | [In Her Heart](https://open.spotify.com/track/1wo3quOcZ1poLIp7Zqi9eg) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [In Her Heart](https://open.spotify.com/album/6tRWkHGPOZZ2wsrfN5ZxOs) | 2:03 |
+| 95 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 |
+| 96 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 |
+| 97 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 |
+| 98 | [Owl & the Moon](https://open.spotify.com/track/3SXdjP2Bguxi8zGp48erWj) | [Alan Gogoll](https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3) | [Owl & the Moon](https://open.spotify.com/album/5fuDpP53oiSHp0IqXHflYw) | 2:43 |
+| 99 | [Jasmine Spring](https://open.spotify.com/track/0rvAQQgVhaUsbl9oF4pmlQ) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Jasmine Spring](https://open.spotify.com/album/5jTFUQwgbtF73qI3Qky9sF) | 2:26 |
+| 100 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 |
+| 101 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 |
+| 102 | [Loch Lomond](https://open.spotify.com/track/2cAOjBEOihwcAZmrNHVd7v) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Loch Lomond](https://open.spotify.com/album/1uAK1L5V9sG1g3vzbXrTIb) | 1:54 |
 
-Snapshot ID: `MTY2ODcyOTY2MCwwMDAwMDAwMDI3N2QxZDEyMzk1ODY1YTQ0YzkwNTdiNDJjMThmM2Ey`
+Snapshot ID: `MTY2OTM3Mjc1NywwMDAwMDAwMDFjMDQwZjZkYTc2NjhhMmQyZjMxZDdiZGMzZjczMWRm`

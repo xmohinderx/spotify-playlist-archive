@@ -7612,6 +7612,32 @@
     },
     {
       "album": {
+        "name": "3860",
+        "url": "https://open.spotify.com/album/43cDHyzNftlde27nFt8rhV"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Lul Timm",
+          "url": "https://open.spotify.com/artist/4Xar68aJpS6MogtDg8gNiA"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "I Swear (feat. Lul Timm)",
+      "url": "https://open.spotify.com/track/5eTBBqeELbM67DaQ2l5f1Z"
+    },
+    {
+      "album": {
         "name": "I Used to Dream",
         "url": "https://open.spotify.com/album/1zAyBzF02DgJ6C1rNDWe9B"
       },
@@ -11393,6 +11419,32 @@
       "duration_ms": 137419,
       "name": "One For The Old School (feat. twlv)",
       "url": "https://open.spotify.com/track/0kTPtHLqy09LxqYwiSsqRV"
+    },
+    {
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/0FbUdx3SdNnouUTwDfedrD"
     },
     {
       "album": {

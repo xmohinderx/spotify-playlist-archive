@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,710 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,725 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 30 | [A Mis Padres](https://open.spotify.com/track/77tboh0O7eULVRwwIqUgax) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:31 |
 | 31 | [Tu Precio](https://open.spotify.com/track/1N7iPUvDor2HA8wOlS5LIB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:52 |
 | 32 | [El Zancudito](https://open.spotify.com/track/1Y3HAmViyeZjPisxX8R4H8) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:44 |
-| 33 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
-| 34 | [Jacinto Pérez De La O](https://open.spotify.com/track/5ZltgKoPzE2AKQQq8EeG0q) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 3:06 |
+| 33 | [Jacinto Pérez De La O](https://open.spotify.com/track/5ZltgKoPzE2AKQQq8EeG0q) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 3:06 |
+| 34 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
 | 35 | [Si la Ven por Ahí](https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:50 |
 | 36 | [La Traicionera](https://open.spotify.com/track/1cHG4Z9p9qSwKVs8AetKAz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:15 |
 | 37 | [Cuánto Te Quiero](https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Colección](https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Juan Colorado](https://open.spotify.com/track/5O56ZFb2wudJMlk6278gyB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa' Que Veas Lo Que Se Siente](https://open.spotify.com/album/3qphrl3j2zNiNrPcqcrF8x) | 2:29 |
 | 50 | [Madrecita Querida](https://open.spotify.com/track/4un4Y5oRumyvaUZHcXXvXd) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 2:40 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAzNmJhNDhmNjA5MDdlNTYyMTYwNjUxZGQyYzQyZmUxOA==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDBlMzk4Njc0Zjk5ZDc0MDIyZTgwNzc2NjI0YWFmNDVlYg==`

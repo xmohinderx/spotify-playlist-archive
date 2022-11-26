@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-640 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
+641 songs - 1 day 8 hr 56 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-03-24 | 2022-10-01 |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-03-24 | 2022-04-18 |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-24 | 2022-07-29 |
-| [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-07-07 |  |
+| [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-07-07 | 2022-11-26 |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-03-24 | 2022-04-19 |
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-07 |  |
@@ -608,6 +608,7 @@
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/06RhAj4FSp8YlDyrxulgbt) | 3:37 | 2022-03-24 | 2022-04-21 |
 | [We Cry](https://open.spotify.com/track/2gXbtADykoLc8IiA3NBLt3) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Cry](https://open.spotify.com/album/69q3Au1hkKj9eQB7eA7rD0) | 3:47 | 2022-03-24 | 2022-04-18 |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-12-16 | 2022-07-19 |
+| [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 | 2022-11-24 |  |
 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 | 2022-03-24 | 2022-11-25 |
 | [What Did I Do?](https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [What Did I Do?](https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I) | 3:35 | 2022-03-24 | 2022-04-20 |
 | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/track/3qDLLnU3pQBCkb7Pctum3O) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What If I Told You \(Original Music from The L Word: Generation Q\)](https://open.spotify.com/album/0k7wjFeipafGeyu29azRR7) | 2:48 | 2022-02-10 | 2022-02-12 |

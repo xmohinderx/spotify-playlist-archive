@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Celebrating the release of Live Forever: A Tribute to Billy Joe Shaver\. Cover: Billy Joe Shaver
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,223 likes - 93 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,342 likes - 93 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 145654,
+  "num_followers": 145960,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMGRiNmUyZjE2MmVkZDNkNWUzMTg2NTFlNTIxY2U5NmU4",
+  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMDgyNDQ5MjU4NTM5ZWIwNmQ0MzIyNzliODhmNWZhMmVk",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Why Can't We Be Friends?",
-        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Low Rider",
-      "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 180493,
       "name": "If You Want Me to Stay",
       "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Why Can't We Be Friends?",
+        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Life & Times",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Take The Money And Run",
-      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 174866,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+      "duration_ms": 170173,
+      "name": "Take The Money And Run",
+      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "The Kids & Me",
         "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 156200,
       "name": "Nothing From Nothing",
       "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "You Don't Mess Around with Jim",
-      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Bad Girls",
@@ -1683,6 +1667,22 @@
       "duration_ms": 295106,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "You Don't Mess Around with Jim",
+      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2089,22 +2089,6 @@
       "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "If You Knew Suzi\u2026 (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI"
-      },
-      "artists": [
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        }
-      ],
-      "duration_ms": 232994,
-      "name": "If You Can't Give Me Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "I Love The Way You Love",
@@ -2119,6 +2103,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "If You Knew Suzi\u2026 (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 232994,
+      "name": "If You Can't Give Me Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2349,22 +2349,6 @@
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "KC & the Sunshine Band, Pt. 3... and More",
-        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "I'm Your Boogie Man",
-      "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "C'est Chic (2018 Remaster)",
@@ -2379,6 +2363,22 @@
       "duration_ms": 413586,
       "name": "I Want Your Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "KC & the Sunshine Band, Pt. 3... and More",
+        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "I'm Your Boogie Man",
+      "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 193573,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     }
   ],
   "unique_name": "70s Party",

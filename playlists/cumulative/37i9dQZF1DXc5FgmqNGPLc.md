@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-104 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+105 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [What It Is \- Live at Theatre St\-Denis, Montreal, Canada \- July 7, 1983](https://open.spotify.com/track/19SAIkqkaDzQsaX1h0Jmam) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [That's What Happened 1982\-1985: The Bootleg Series, Vol\. 7](https://open.spotify.com/album/2mwZpszzkV5EzChG04oDWv) | 6:45 | 2022-07-08 | 2022-11-13 |
 | [What It Is \- Live at Theatre St\-Denis, Montreal, Canada \- July 7, 1983](https://open.spotify.com/track/3oNcGjNy8kWNrORs3LGfrL) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [What It Is: Montreal 7/7/83 \(Live\)](https://open.spotify.com/album/5NUH4GlFSKf4QnKsK8EQHL) | 6:45 | 2022-07-08 |  |
 | [What It Is \- Live In Montreal \- July 7, 1983](https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [What It Is \(Live In Montreal \- July 7, 1983\)](https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx) | 6:45 | 2022-07-08 | 2022-09-18 |
-| [Where Do I Go from Here? \- Live](https://open.spotify.com/track/4TAydY5d4u5cL5RcxxIZ6J) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Where Do I Go from Here? \(Live\)](https://open.spotify.com/album/3Kdz365Ndt7t2GFKxSeJUZ) | 7:38 | 2022-10-21 |  |
+| [Where Do I Go from Here? \- Live](https://open.spotify.com/track/4TAydY5d4u5cL5RcxxIZ6J) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Where Do I Go from Here? \(Live\)](https://open.spotify.com/album/3Kdz365Ndt7t2GFKxSeJUZ) | 7:38 | 2022-10-21 | 2022-11-26 |
+| [Where Do I Go from Here? \- Live](https://open.spotify.com/track/7nkambEulQpS321zfsrbiA) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [On a Clear Day: The Oscar Peterson Trio \- Live in Zurich, 1971](https://open.spotify.com/album/38lO4EZETq8mnXKHi1Nvkl) | 7:38 | 2022-10-21 |  |
 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 | 2021-11-12 |  |
 | [Yesterdays \(Live\) \- Live At Cafe Bohemia, NY, 1955 / Remastered 2001](https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [At The Cafe Bohemia](https://open.spotify.com/album/7abhRrzWB22yrMLbp7HcMJ) | 4:18 | 2021-11-12 |  |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-16 |  |

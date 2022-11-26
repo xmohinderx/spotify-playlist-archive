@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,182 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,246 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 51 | [The Corsican](https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8) | [SUPERSAN](https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7) | [Enter the San](https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY) | 3:19 |
 | 52 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 53 | [Pua](https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Semillero](https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4) | 5:48 |
-| 54 | [El pavo real](https://open.spotify.com/track/02z57uGfEd82kcbpssAmcq) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [El pavo real](https://open.spotify.com/album/1U651FMxGylI8PoQysziz6) | 3:28 |
-| 55 | [Sutileza](https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Coladera](https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ) | [Sutileza](https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1) | 3:40 |
+| 54 | [Sutileza](https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Coladera](https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ) | [Sutileza](https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1) | 3:40 |
+| 55 | [El pavo real](https://open.spotify.com/track/02z57uGfEd82kcbpssAmcq) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [El pavo real](https://open.spotify.com/album/1U651FMxGylI8PoQysziz6) | 3:28 |
 | 56 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
 | 57 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
-| 58 | [Los Guasangú \- \(Cerrero Remix\)](https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Los Guasangú \(Cerrero Remix\)](https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV) | 5:11 |
-| 59 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
-| 60 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
+| 58 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
+| 59 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
+| 60 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 
-Snapshot ID: `MTY2NTQxNTEzNywwMDAwMDAwMGYyMzQ1ZjQ2OWRmZmQwNjc4Zjk0ZmJjMzkzNmRjMWNj`
+Snapshot ID: `MTY2NTQxNTEzNywwMDAwMDAwMGE1ZGUxZTkwZDFjNzNlMWQ4MWY4ZmJlOWI0YjExOTkx`

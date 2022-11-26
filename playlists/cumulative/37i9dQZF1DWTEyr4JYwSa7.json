@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 278946,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 196295,
       "name": "Je t'offre mon c\u0153ur",
       "url": "https://open.spotify.com/track/5e9Rr0cC3a6zs04w7a4RFs"
@@ -4178,6 +4178,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl sur la 40",
+        "url": "https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU"
+      },
+      "artists": [
+        {
+          "name": "Funambule",
+          "url": "https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168360,
+      "name": "No\u00ebl sur la 40",
+      "url": "https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU"
+    },
+    {
+      "album": {
         "name": "No\u00ebl sur Terre",
         "url": "https://open.spotify.com/album/223EBKe30FAE6NboeQpy3z"
       },
@@ -5775,7 +5793,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 189916,
       "name": "\u00c0 la fin d\u00e9cembre",
       "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"

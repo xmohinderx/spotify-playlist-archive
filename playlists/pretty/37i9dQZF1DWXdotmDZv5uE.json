@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 121993,
+  "num_followers": 122019,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDM3OTJlODVlMGYyOGRkOGZiZTljNmZlYWYxNzc2MmQ1",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDE3ODQ1ZjIxN2I5YWRjODZmYjM4NTRmOTE1ZjAwMjMw",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
-        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Alma Jarocha",
-          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Canto A Veracruz",
-      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Mis Rancheras Favoritas",
         "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 167636,
       "name": "All\u00e1 En El Rancho Grande",
       "url": "https://open.spotify.com/track/5sqRaYsFBVkG5QyI2c3SnV"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
+        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alma Jarocha",
+          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Canto A Veracruz",
+      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -527,38 +527,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "No Me Platiques M\u00e1s",
-        "url": "https://open.spotify.com/album/4fZthxX55ATYvOF7cZQDe4"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
-        }
-      ],
-      "duration_ms": 151179,
-      "name": "Que Chula Es Puebla",
-      "url": "https://open.spotify.com/track/72wFUQWbD8nThZnUTrOQYP"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Mis Rancheras Favoritas",
         "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 169708,
       "name": "El Barrilito",
       "url": "https://open.spotify.com/track/6SrFN9LvRwvsMqlvu9opUf"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "No Me Platiques M\u00e1s",
+        "url": "https://open.spotify.com/album/4fZthxX55ATYvOF7cZQDe4"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "duration_ms": 151179,
+      "name": "Que Chula Es Puebla",
+      "url": "https://open.spotify.com/track/72wFUQWbD8nThZnUTrOQYP"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -603,18 +587,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
-        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
       "artists": [
         {
-          "name": "Grupo Mono Blanco Y Stone Lips",
-          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 208040,
-      "name": "El chuchumbe",
-      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -635,6 +619,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
+        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mono Blanco Y Stone Lips",
+          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "El chuchumbe",
+      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "Son Jarocho",
         "url": "https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "15 \u00c9xitos Al Estilo Ranchero De Juan Torres",
-        "url": "https://open.spotify.com/album/4eJxF67PdhW7DGjq1f21gF"
+        "name": "San Cristobal",
+        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
       },
       "artists": [
         {
-          "name": "Juan Torres",
-          "url": "https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
         }
       ],
-      "duration_ms": 212776,
-      "name": "Adi\u00f3s Mariquita Linda",
-      "url": "https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L"
+      "duration_ms": 141398,
+      "name": "San Cristobal",
+      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -699,34 +699,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "San Cristobal",
-        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
+        "name": "15 \u00c9xitos Al Estilo Ranchero De Juan Torres",
+        "url": "https://open.spotify.com/album/4eJxF67PdhW7DGjq1f21gF"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+          "name": "Juan Torres",
+          "url": "https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY"
         }
       ],
-      "duration_ms": 141398,
-      "name": "San Cristobal",
-      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "El tilingo",
-      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
+      "duration_ms": 212776,
+      "name": "Adi\u00f3s Mariquita Linda",
+      "url": "https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -743,6 +727,46 @@
       "duration_ms": 173800,
       "name": "La raspa",
       "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Marimbas Y Regional Vol. 1",
+        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+        }
+      ],
+      "duration_ms": 98871,
+      "name": "Huapango 2",
+      "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "El tilingo",
+      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -827,22 +851,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "El ave de mi so\u00f1ar: Mexican Sones Huastecos",
-        "url": "https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk"
-      },
-      "artists": [
-        {
-          "name": "Los Camperos de Valles",
-          "url": "https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "El fandanguito - The Little Fandango",
-      "url": "https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Son De Madera",
         "url": "https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn"
       },
@@ -859,26 +867,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Marimbas Y Regional Vol. 1",
-        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+        "name": "El ave de mi so\u00f1ar: Mexican Sones Huastecos",
+        "url": "https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+          "name": "Los Camperos de Valles",
+          "url": "https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE"
         }
       ],
-      "duration_ms": 98871,
-      "name": "Huapango 2",
-      "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
+      "duration_ms": 198906,
+      "name": "El fandanguito - The Little Fandango",
+      "url": "https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG"
     },
     {
       "added_at": "2022-08-31 15:41:18",

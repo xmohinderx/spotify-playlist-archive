@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 19494,
+  "num_followers": 19595,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGIyNDIzYzNhYjlkZWY0NDVlMjQzMjMwNGRlZDlkY2Zh",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDk1Y2FjNTc3MDU0OTE5NWE1YjgxODQyOWU0NGQzZTZi",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
-      },
-      "artists": [
-        {
-          "name": "Ben & Katsy",
-          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
-        }
-      ],
-      "duration_ms": 244879,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "You Must Believe In Spring (Remastered Version)",
         "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 196026,
       "name": "B Minor Waltz - Remastered 2003",
       "url": "https://open.spotify.com/track/1G8ZiodFtDX5tNHwvxcllW"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
+      },
+      "artists": [
+        {
+          "name": "Ben & Katsy",
+          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
+        }
+      ],
+      "duration_ms": 244879,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Hodges: Front and Center, Vol. 1",
-        "url": "https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD"
-      },
-      "artists": [
-        {
-          "name": "Owen Broder",
-          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
-      "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Sonny Rollins With The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl"
       },
@@ -327,6 +311,46 @@
       "duration_ms": 197893,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 325786,
+      "name": "Blue In Green (Take 3)",
+      "url": "https://open.spotify.com/track/60p18YXhrzLNrAaUXL8Bu6"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Hodges: Front and Center, Vol. 1",
+        "url": "https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD"
+      },
+      "artists": [
+        {
+          "name": "Owen Broder",
+          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
+      "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -363,30 +387,6 @@
       "duration_ms": 168615,
       "name": "the point above",
       "url": "https://open.spotify.com/track/27j2QBudHBt7AYWjCpcnEa"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Portrait In Jazz [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Scott LaFaro",
-          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 325786,
-      "name": "Blue In Green (Take 3)",
-      "url": "https://open.spotify.com/track/60p18YXhrzLNrAaUXL8Bu6"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 310666,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Rise Again",
         "url": "https://open.spotify.com/album/7b4UPV5j802exbvqWNoSgq"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 276506,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/5pjC6gbfSHeUrzgzahrKs7"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 310666,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "A Hero Lives Another Day",
-        "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
+        "name": "He Said She Got It Going",
+        "url": "https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS"
       },
       "artists": [
         {
-          "name": "Claudia Torrek",
-          "url": "https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ"
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
         }
       ],
-      "duration_ms": 186768,
-      "name": "A Hero Lives Another Day",
-      "url": "https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0"
+      "duration_ms": 158075,
+      "name": "He Said She Got It Going",
+      "url": "https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "A Hero Lives Another Day",
+        "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
+      },
+      "artists": [
+        {
+          "name": "Claudia Torrek",
+          "url": "https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ"
+        }
+      ],
+      "duration_ms": 186768,
+      "name": "A Hero Lives Another Day",
+      "url": "https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "See You At The Fair",
         "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 492933,
       "name": "When October Goes",
       "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "He Said She Got It Going",
-        "url": "https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS"
-      },
-      "artists": [
-        {
-          "name": "Erik Moreau",
-          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
-        }
-      ],
-      "duration_ms": 158075,
-      "name": "He Said She Got It Going",
-      "url": "https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1059,34 +1059,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Quiet Nights of Quiet Songs",
-        "url": "https://open.spotify.com/album/371VzyXWti506VTodQfkf8"
-      },
-      "artists": [
-        {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
-        },
-        {
-          "name": "Andrea Rea Trio",
-          "url": "https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG"
-        },
-        {
-          "name": "Joe Rehmer",
-          "url": "https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa"
-        },
-        {
-          "name": "Marcello Di Leonardo",
-          "url": "https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "I Fall in Love Too Easily",
-      "url": "https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Baker's Holiday",
         "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
@@ -1119,6 +1091,34 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Quiet Nights of Quiet Songs",
+        "url": "https://open.spotify.com/album/371VzyXWti506VTodQfkf8"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Andrea Rea Trio",
+          "url": "https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG"
+        },
+        {
+          "name": "Joe Rehmer",
+          "url": "https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa"
+        },
+        {
+          "name": "Marcello Di Leonardo",
+          "url": "https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Red Garland Revisited!",
         "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Correlations",
-        "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
+        "name": "Soular Energy",
+        "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
       },
       "artists": [
         {
-          "name": "Steve Davis",
-          "url": "https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD"
+          "name": "Ray Brown Trio",
+          "url": "https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo"
         }
       ],
-      "duration_ms": 436000,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
+      "duration_ms": 344213,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/4z5tPOBoKRIgCRVJMPPnoH"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Soular Energy",
-        "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
+        "name": "Correlations",
+        "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
       },
       "artists": [
         {
-          "name": "Ray Brown Trio",
-          "url": "https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo"
+          "name": "Steve Davis",
+          "url": "https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD"
         }
       ],
-      "duration_ms": 344213,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/4z5tPOBoKRIgCRVJMPPnoH"
+      "duration_ms": 436000,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Hidden Beauty",
-        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
-      },
-      "artists": [
-        {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "Leave Me Here",
-      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Sorrowful",
         "url": "https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Hidden Beauty",
+        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "Leave Me Here",
+      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
     },
     {
       "added_at": "2022-11-24 23:00:00",

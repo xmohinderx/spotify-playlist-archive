@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "6000 Degrees (AH HA)",
+        "url": "https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH"
+      },
+      "artists": [
+        {
+          "name": "$hyfromdatre",
+          "url": "https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102872,
+      "name": "6000 Degrees (AH HA)",
+      "url": "https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG"
+    },
+    {
+      "album": {
         "name": "650 (feat. Baby Money)",
         "url": "https://open.spotify.com/album/4U5BPISYxkVN9Iz3pjYvMK"
       },
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 217613,
       "name": "Big Stunna (feat. Birdman)",
       "url": "https://open.spotify.com/track/1OdXwV1ZqMDuMKsPThVfSB"
@@ -2364,6 +2382,28 @@
     },
     {
       "album": {
+        "name": "Dead Opps (feat. Lil Double 0)",
+        "url": "https://open.spotify.com/album/2aWgHdb7XpJosdbnOYxQE5"
+      },
+      "artists": [
+        {
+          "name": "Lil PJ",
+          "url": "https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv"
+        },
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165005,
+      "name": "Dead Opps (feat. Lil Double 0)",
+      "url": "https://open.spotify.com/track/47M722fhV7zj0tBCOZNmNx"
+    },
+    {
+      "album": {
         "name": "Dead Wrong",
         "url": "https://open.spotify.com/album/2rMKt5fIxHNbD333uL9Yos"
       },
@@ -3134,6 +3174,28 @@
     },
     {
       "album": {
+        "name": "The Largest",
+        "url": "https://open.spotify.com/album/49p52K2THX4ITtv8Hu6Uj0"
+      },
+      "artists": [
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Flip Phone (with Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/5OytywJPZvMreSx6JCfInS"
+    },
+    {
+      "album": {
         "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb"
       },
@@ -3389,7 +3451,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 169306,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc"
@@ -5013,7 +5075,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 185800,
       "name": "Impala",
       "url": "https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T"
@@ -5127,6 +5189,28 @@
       "duration_ms": 136294,
       "name": "It's Me",
       "url": "https://open.spotify.com/track/2ilbSC2LpKCVBHxYRYQFTr"
+    },
+    {
+      "album": {
+        "name": "It\u2019s On",
+        "url": "https://open.spotify.com/album/7JOnteNVrJX6Ozy9JMZK8N"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "It\u2019s On",
+      "url": "https://open.spotify.com/track/3XF3Baw0evEYgLwD83Xywg"
     },
     {
       "album": {
@@ -6255,7 +6339,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 156279,
       "name": "MHM",
       "url": "https://open.spotify.com/track/1Mnyp68Lvm4H8OWTFxTUHb"
@@ -6765,6 +6849,28 @@
       "duration_ms": 160760,
       "name": "Murderzone (feat. EST Gee)",
       "url": "https://open.spotify.com/track/1CSsb62J1mtvWthlljcmbG"
+    },
+    {
+      "album": {
+        "name": "Emotional Gangsta",
+        "url": "https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C"
+      },
+      "artists": [
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263636,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5BcIBbBdkjSYnf5jNlLG7j"
     },
     {
       "album": {
@@ -7285,7 +7391,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 86807,
       "name": "O to the G",
       "url": "https://open.spotify.com/track/11BN0s9uuARJK3dps40nbF"
@@ -8589,7 +8695,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 109557,
       "name": "Rob Who",
       "url": "https://open.spotify.com/track/48MQdSUo3BmusC8rIyE51h"
@@ -10412,6 +10518,24 @@
     },
     {
       "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK"
+    },
+    {
+      "album": {
         "name": "The Biggest Dookie",
         "url": "https://open.spotify.com/album/4J12HgyZvzAMtKEQjXeo2p"
       },
@@ -11879,7 +12003,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 151275,
       "name": "Wicked Inna RaQ",
       "url": "https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,391 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,407 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 14 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
 | 15 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 |
 | 16 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
-| 17 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
-| 18 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 |
+| 17 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 |
+| 18 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
 | 19 | [Lágrimas Negras](https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:44 |
 | 20 | [Friends](https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:15 |
 | 21 | [Lagrimas Negras](https://open.spotify.com/track/1fQ1MNKCNXwcKq083Lb11e) | [Enrique Chia](https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9) | [La Cuba Eterna](https://open.spotify.com/album/41r8Uf00kchpTtjYFyYIuL) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
 | 50 | [Pensativa](https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw) | [Sara Florence](https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8) | [Green In Blue EP](https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ) | 5:12 |
 
-Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDI3MzljOTBiYjhmOTY1MWVmZGJhMTRkOWI5MjQ1ZDRm`
+Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMGM0ZmM5MWM5MTU4OWEyZDIwY2I1Yjc0ZTFmZDllYjEw`

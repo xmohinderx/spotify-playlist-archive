@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 815145,
+  "num_followers": 815477,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDIzMTEwNzI0ZTllNTUzNmM0Nzk1NWI3ZWU3MzliYWRh",
+  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDJlMzY0YmFhZjE0NDFlMTQ1MzRiYjI5Y2FhYzgyYmUz",
   "tracks": [
     {
       "added_at": "2022-11-09 20:14:28",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "MANGO (feat. Adi Oasis)",
         "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 276600,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -499,42 +499,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        }
-      ],
-      "duration_ms": 150496,
-      "name": "From My Heart and My Soul (feat. Phoelix)",
-      "url": "https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "aiMless",
         "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
       },
@@ -571,6 +535,42 @@
       "duration_ms": 228347,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "duration_ms": 150496,
+      "name": "From My Heart and My Soul (feat. Phoelix)",
+      "url": "https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 129048,
       "name": "You",
       "url": "https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -779,22 +795,6 @@
       "duration_ms": 237699,
       "name": "Fair Chance",
       "url": "https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Two Worlds Apart",
-      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/3LaOgyaShyrdyet6ftXxDy"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Sun, Moon & Herbs",
-      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+      "duration_ms": 228861,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/79IirvCpDrry68JTKlmQdU"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1059,34 +1055,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/3LaOgyaShyrdyet6ftXxDy"
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 228861,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/79IirvCpDrry68JTKlmQdU"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Good Good",
-        "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
-      },
-      "artists": [
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
         {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 225541,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
+      "duration_ms": 252053,
+      "name": "Sun, Moon & Herbs",
+      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
         }
       ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
+      "duration_ms": 225541,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1155,6 +1139,22 @@
       "duration_ms": 207200,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "dancefloor",
-        "url": "https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j"
-      },
-      "artists": [
-        {
-          "name": "marcos g",
-          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "single (on the weekend)",
-      "url": "https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -1547,34 +1531,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "No Romance",
-        "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
+        "name": "dancefloor",
+        "url": "https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j"
       },
       "artists": [
         {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
         }
       ],
-      "duration_ms": 237235,
-      "name": "No Romance",
-      "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "TheKAMAUU-CASSETTE: \u016dRTH G\u014dLD",
-        "url": "https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        }
-      ],
-      "duration_ms": 240856,
-      "name": "L\u0103V\u012dND\u016dR",
-      "url": "https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX"
+      "duration_ms": 155533,
+      "name": "single (on the weekend)",
+      "url": "https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1591,6 +1559,62 @@
       "duration_ms": 311000,
       "name": "Shadow Man",
       "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "No Romance",
+        "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 237235,
+      "name": "No Romance",
+      "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Flight 99",
+        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
+      },
+      "artists": [
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "matt mcwaters",
+          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Flight 99",
+      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "TheKAMAUU-CASSETTE: \u016dRTH G\u014dLD",
+        "url": "https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "duration_ms": 240856,
+      "name": "L\u0103V\u012dND\u016dR",
+      "url": "https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1655,30 +1679,6 @@
       "duration_ms": 237405,
       "name": "Drifty",
       "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Flight 99",
-        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
-      },
-      "artists": [
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        },
-        {
-          "name": "matt mcwaters",
-          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Flight 99",
-      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
     },
     {
       "added_at": "2022-11-09 20:14:28",

@@ -1,12 +1,12 @@
 {
   "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e?si=U-tX-QiYQkmrwftWnDnSZQ\"> Adomaa</a> ",
-  "num_followers": 7189,
+  "num_followers": 7211,
   "original_name": "Sizzlers ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MTEwNiwwMDAwMDAwMDAxZjhlNTAwYmMxNjI5OTEwNzcwNzJmYjUzNjNhMWMx",
+  "snapshot_id": "MTY2OTM2MTc3MCwwMDAwMDAwMDcxMWY5NDJmMGMzZGQ5MTlhNjUyM2FhMTUyYmM2ZDdj",
   "tracks": [
     {
       "added_at": "2022-09-01 23:00:00",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
     },
     {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
+        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        }
+      ],
+      "duration_ms": 133392,
+      "name": "I Saw An Angel On The Roof & Wept",
+      "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
+    },
+    {
       "added_at": "2022-10-13 23:00:00",
       "album": {
         "name": "Soft Life",
@@ -217,6 +233,30 @@
       "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "Abeg",
+        "url": "https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf"
+      },
+      "artists": [
+        {
+          "name": "SOLIS",
+          "url": "https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 253618,
+      "name": "Abeg",
+      "url": "https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD"
+    },
+    {
       "added_at": "2022-10-28 12:50:25",
       "album": {
         "name": "How To Kill A Man",
@@ -255,6 +295,22 @@
       "duration_ms": 230000,
       "name": "3 in the Morning",
       "url": "https://open.spotify.com/track/0YcAQqvxtRERBkCFyx7afs"
+    },
+    {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6HxACxCvHBmeK1kYKsyVXw"
+      },
+      "artists": [
+        {
+          "name": "J.E.N.N.Y",
+          "url": "https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/10Acd9i7TFQNQzEJKKiv8r"
     },
     {
       "added_at": "2022-10-21 06:00:49",
@@ -305,6 +361,22 @@
       "url": "https://open.spotify.com/track/3P0sc2aS6WK6mEdkef7O7D"
     },
     {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "IDT",
+        "url": "https://open.spotify.com/album/3vIVvdalZDCFdjxAUzV5rY"
+      },
+      "artists": [
+        {
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+        }
+      ],
+      "duration_ms": 198676,
+      "name": "IDT",
+      "url": "https://open.spotify.com/track/4zXMJEavXIWMG9LZHE50Tx"
+    },
+    {
       "added_at": "2022-10-28 12:50:25",
       "album": {
         "name": "Pretty",
@@ -319,6 +391,22 @@
       "duration_ms": 151179,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa"
+    },
+    {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "DON'T",
+        "url": "https://open.spotify.com/album/2XU7xRMCtUUtgYhqRldvKT"
+      },
+      "artists": [
+        {
+          "name": "Kreptismenace",
+          "url": "https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz"
+        }
+      ],
+      "duration_ms": 139780,
+      "name": "DON'T",
+      "url": "https://open.spotify.com/track/5AzIXbjKdIR5NwLtQD4f48"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -351,6 +439,50 @@
       "duration_ms": 134765,
       "name": "Million Dollar",
       "url": "https://open.spotify.com/track/0qDTt6Zxh0w2jCjhSezAfw"
+    },
+    {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "A Piece Of Me",
+        "url": "https://open.spotify.com/album/0enq2ODADHlUOmFWjxatEj"
+      },
+      "artists": [
+        {
+          "name": "Ugoccie",
+          "url": "https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        }
+      ],
+      "duration_ms": 156700,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/0yOviZhkPwCUtOfWRRP6nd"
+    },
+    {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "Phase One",
+        "url": "https://open.spotify.com/album/4jeLU9uhpa3D4qG7lWzyVT"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "duration_ms": 197286,
+      "name": "Body Nice",
+      "url": "https://open.spotify.com/track/6pK1SixhWsATn6uuVWtaWX"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -401,6 +533,22 @@
       "url": "https://open.spotify.com/track/4oD80Qp1vqULUHhTyy4ycr"
     },
     {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
+        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        }
+      ],
+      "duration_ms": 229411,
+      "name": "Citrus Tears",
+      "url": "https://open.spotify.com/track/5T17angrfy3Gdmh4Y3aeQR"
+    },
+    {
       "added_at": "2022-07-25 09:20:17",
       "album": {
         "name": "Foundry",
@@ -419,6 +567,22 @@
       "duration_ms": 235102,
       "name": "Foundry",
       "url": "https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5"
+    },
+    {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "Paradise (All Over Me)",
+        "url": "https://open.spotify.com/album/1pkqwPvn9FoiIGUqTSxi10"
+      },
+      "artists": [
+        {
+          "name": "If\u00e9",
+          "url": "https://open.spotify.com/artist/5bwayITcleftVQyaj7TnSa"
+        }
+      ],
+      "duration_ms": 184610,
+      "name": "Paradise (All Over Me)",
+      "url": "https://open.spotify.com/track/4LLpSnnyjPQt0PB2DkitWD"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -505,6 +669,38 @@
       "url": "https://open.spotify.com/track/6riYRZyy2Fgf11GuK2tfXK"
     },
     {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/3OoyFQ2XCcLvEfzonOBGL5"
+      },
+      "artists": [
+        {
+          "name": "Keziah Mallam",
+          "url": "https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs"
+        }
+      ],
+      "duration_ms": 130796,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/64y3aFuRKV9leFkMAWDUJL"
+    },
+    {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "Iyanu (Twenty Somethin')",
+        "url": "https://open.spotify.com/album/4cwdioZioTp5WHSmuyxSZS"
+      },
+      "artists": [
+        {
+          "name": "Brum3h",
+          "url": "https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk"
+        }
+      ],
+      "duration_ms": 165114,
+      "name": "Iyanu (Twenty Somethin')",
+      "url": "https://open.spotify.com/track/6VfRpnjNHNYQL7Oqawfcex"
+    },
+    {
       "added_at": "2022-09-29 23:00:00",
       "album": {
         "name": "This Is Lovn",
@@ -539,6 +735,22 @@
       "duration_ms": 137147,
       "name": "No Religion",
       "url": "https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP"
+    },
+    {
+      "added_at": "2022-11-25 07:36:10",
+      "album": {
+        "name": "This Side",
+        "url": "https://open.spotify.com/album/0GRQb7OLGaDUKKFc1ttCXF"
+      },
+      "artists": [
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        }
+      ],
+      "duration_ms": 157231,
+      "name": "This Side",
+      "url": "https://open.spotify.com/track/6ef9xVJZ0iExKd67ybLAyF"
     },
     {
       "added_at": "2022-10-21 06:00:49",
@@ -683,34 +895,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u"
-      },
-      "artists": [
-        {
-          "name": "Black Girls Glow",
-          "url": "https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK"
-        },
-        {
-          "name": "Lindsey Abudei",
-          "url": "https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg"
-        },
-        {
-          "name": "Lor",
-          "url": "https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK"
-        },
-        {
-          "name": "Lily Asia",
-          "url": "https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Say You Love Me (Remix)",
         "url": "https://open.spotify.com/album/6E7dFfCB9s1gsWAt3Wt2QO"
       },
@@ -731,22 +915,6 @@
       "duration_ms": 177000,
       "name": "Say You Love Me (Remix)",
       "url": "https://open.spotify.com/track/1Bj6WRSHoDN00UMqdCn1Yq"
-    },
-    {
-      "added_at": "2022-10-28 12:50:25",
-      "album": {
-        "name": "Table for Two",
-        "url": "https://open.spotify.com/album/3aoMBKJZG8CDYecBihJsBp"
-      },
-      "artists": [
-        {
-          "name": "Boyd",
-          "url": "https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Table for Two",
-      "url": "https://open.spotify.com/track/2ztim2Wblnr9vsbATzyMg2"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -871,22 +1039,6 @@
       "duration_ms": 146823,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/33a48upmr4xnlU6FPPSPPs"
-    },
-    {
-      "added_at": "2022-09-16 04:46:22",
-      "album": {
-        "name": "Yoruba Demon",
-        "url": "https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0"
-      },
-      "artists": [
-        {
-          "name": "Di'Ja",
-          "url": "https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "Yoruba Demon",
-      "url": "https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD"
     },
     {
       "added_at": "2022-09-29 23:00:00",

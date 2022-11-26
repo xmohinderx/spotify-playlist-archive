@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Sergio Dalma & La K'onga.
 
-177 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+178 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Fue Difícil](https://open.spotify.com/track/3p9UeIicVHsdEUBucLJqes) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/0cWsxDLP7WMqbs6Yiui0yH) | 3:46 | 2021-12-24 | 2022-07-29 |
 | [Fue Difícil](https://open.spotify.com/track/6949gWWMFg0NWjam6SkCDA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD) | 3:46 | 2022-07-22 |  |
 | [Fue Difícil](https://open.spotify.com/track/3R6zKiVOHM9WdnL8PvtrKK) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/2I99BEAGEhgr0T0jsNVRzt) | 3:46 | 2022-10-28 | 2022-11-13 |
+| [Fues Solo Piel](https://open.spotify.com/track/1wGlvLMghlLuI0JS0CcpDF) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe), [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u) | [Fues Solo Piel](https://open.spotify.com/album/4O8LVFTp9vwoQystHNX5Lr) | 2:39 | 2022-11-25 |  |
 | [Fugitivo / Aca Llega la Banda / Asi Fue \- En Vivo](https://open.spotify.com/track/1FmxDLgWWPGN3gWTD45648) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fugitivo / Aca Llega la Banda / Asi Fue \(En Vivo\)](https://open.spotify.com/album/4adOZCfSCGTRXBiDdS5tRo) | 7:12 | 2021-12-24 |  |
 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 | 2021-12-24 |  |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2021-12-24 |  |
@@ -125,7 +126,7 @@
 | [Paisaje](https://open.spotify.com/track/4EDCymZo79P1adudaFnOmj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Paisaje](https://open.spotify.com/album/5L31DZVxy3JHpFalfYXKDp) | 4:36 | 2022-07-15 |  |
 | [Para Que](https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ilan Amores](https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z) | [Para Que](https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3) | 3:57 | 2022-09-09 |  |
 | [Pensando Recordé](https://open.spotify.com/track/7E4wX37s5Kf2wIFpntbcvz) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Pensando Recordé](https://open.spotify.com/album/6itNbVzsvRFmhgvl2Q4Ldi) | 3:42 | 2021-12-24 | 2022-08-06 |
-| [Pensándote](https://open.spotify.com/track/1AadbT8MzoeyI7KGmyQECf) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Pensándote](https://open.spotify.com/album/3kJvT2frbjLUM4ptQQB2dW) | 2:32 | 2022-08-26 |  |
+| [Pensándote](https://open.spotify.com/track/1AadbT8MzoeyI7KGmyQECf) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Pensándote](https://open.spotify.com/album/3kJvT2frbjLUM4ptQQB2dW) | 2:32 | 2022-08-26 | 2022-11-26 |
 | [Piensame](https://open.spotify.com/track/3DnSi9XRkcqEOHPaYcMeHr) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Ep N\-Blq 33](https://open.spotify.com/album/5h61fNKIiR3eleB74l8xCv) | 2:57 | 2021-12-24 | 2022-04-16 |
 | [Pistola Remix](https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [El Mas Ladron](https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Pistola Remix](https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T) | 2:16 | 2021-12-24 |  |
 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 | 2022-09-09 |  |

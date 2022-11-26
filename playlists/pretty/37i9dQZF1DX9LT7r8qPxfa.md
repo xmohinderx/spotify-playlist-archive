@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,021 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,061 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 41 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 42 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
 | 43 | [Pictures of Flowers](https://open.spotify.com/track/2YJyShuoMWP3YjcjvLzNCl) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/7FHjrtERXl5ia51dPmcxBq) | 4:20 |
-| 44 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
-| 45 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 |
+| 44 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 |
+| 45 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
 | 46 | [Tarifa](https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:50 |
 | 47 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 48 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 80 | [Lincoln, Nebraska](https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH) | 2:23 |
 | 81 | [I’ll Still Have Me \- Aquilo Remix](https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I’ll Still Have Me \(Aquilo Remix\)](https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr) | 4:04 |
 | 82 | [hurt](https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:31 |
-| 83 | [Turn To Dust](https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:07 |
-| 84 | [We Cannot Resist](https://open.spotify.com/track/068ZytZuPeqoSgaffebBVD) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [Animal](https://open.spotify.com/album/1UiSJKr1F1Y3ZwbCw67JV2) | 4:45 |
-| 85 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 |
+| 83 | [We Cannot Resist](https://open.spotify.com/track/068ZytZuPeqoSgaffebBVD) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [Animal](https://open.spotify.com/album/1UiSJKr1F1Y3ZwbCw67JV2) | 4:45 |
+| 84 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 |
+| 85 | [Turn To Dust](https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:07 |
 | 86 | [Horses](https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Soft Drop](https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB) | 3:16 |
 | 87 | [World on Fire](https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [Meet Me on the Edge of Our Ruin](https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L) | 4:03 |
 | 88 | [I Don't Want to Let You Down](https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Don't Want To Let You Down b/w All Over Again](https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9) | 4:02 |
-| 89 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 |
-| 90 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 |
-| 91 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
-| 92 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
-| 93 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
-| 94 | [Body](https://open.spotify.com/track/7pfuJiYU9vnQgBCADJeZsc) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Body](https://open.spotify.com/album/0Fo7Dd9Yn4VqzcRO9ExChR) | 5:07 |
+| 89 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 |
+| 90 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 |
+| 91 | [Body](https://open.spotify.com/track/7pfuJiYU9vnQgBCADJeZsc) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Body](https://open.spotify.com/album/0Fo7Dd9Yn4VqzcRO9ExChR) | 5:07 |
+| 92 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
+| 93 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
+| 94 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 | 95 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
 | 96 | [Sprinter](https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR) | 4:44 |
 | 97 | [Rae](https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:55 |
 | 98 | [Oliver](https://open.spotify.com/track/60ltZnAfLz7ChT96ld006V) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Oliver](https://open.spotify.com/album/4ngu4UzWbLvArpuZzUl3m0) | 5:15 |
 | 99 | [This Is What Our Love Looks Like Now](https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [This Is What Our Love Looks Like Now](https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh) | 4:03 |
-| 100 | [Cold Caller](https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Eastwick / Cold Caller](https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU) | 3:57 |
+| 100 | [Vampire Weeknight](https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Vampire Weeknight](https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV) | 3:24 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDlmNjQyMzI2ODFmNjY4MmQ3NjY2OTI1NGIwOGQyODhh`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDU2M2M1OWI0MGQwMzY5MzAyNjlkYTljMjFlNWRkYjgx`

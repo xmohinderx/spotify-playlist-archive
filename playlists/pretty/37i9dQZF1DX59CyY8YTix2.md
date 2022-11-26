@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: SHISHAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,520 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,559 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 16 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
 | 17 | [地獄と地獄](https://open.spotify.com/track/4aOQx8r3qqmGXkIT5pbjR3) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [鄙、天国](https://open.spotify.com/album/5qrUsfI8Hre2TH3DYtWUhe) | 1:31 |
 | 18 | [Game Over](https://open.spotify.com/track/3RTPhsEAhEOTcw4y7cAnbC) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Game Over](https://open.spotify.com/album/2l28sfvxclSXQOMHgm1fe3) | 3:19 |
-| 19 | [1](https://open.spotify.com/track/2XKC1yPYhtI5zPBofGBbzQ) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw) | [1](https://open.spotify.com/album/2SMgYY7Z70e06DAUNjmYWh) | 3:49 |
+| 19 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 |
 | 20 | [like like](https://open.spotify.com/track/3ITJU5IAi49tuu7ROVWMSt) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [like like](https://open.spotify.com/album/0UFQXjTiyoyJiB9axeHYd2) | 4:36 |
-| 21 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 |
+| 21 | [1](https://open.spotify.com/track/2XKC1yPYhtI5zPBofGBbzQ) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw) | [1](https://open.spotify.com/album/2SMgYY7Z70e06DAUNjmYWh) | 3:49 |
 | 22 | [ma ta ne](https://open.spotify.com/track/1don1Vrx90qZjIqhThSpSY) | [mismatch\-smile](https://open.spotify.com/artist/159vzWrM1lyDOOGqQGgHgR) | [INNERMOST](https://open.spotify.com/album/0UR5uSg0lAfBTAvzNZOj38) | 4:22 |
 | 23 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
 | 24 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 41 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 |
 | 42 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 |
 | 43 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 |
-| 44 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
-| 45 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
-| 46 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 |
-| 47 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 |
+| 44 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
+| 45 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 |
+| 46 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 |
+| 47 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
 | 48 | [KokoroToIuNaNoFukakai](https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:29 |
 | 49 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 |
 | 50 | [君と夏フェス](https://open.spotify.com/track/0mVtmQomDom72Y7UDm1ODi) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:44 |
 
-Snapshot ID: `MTY2OTMwMjAwMCwwMDAwMDAwMDBjZjgyZGNlNzBmZDgxZDYxMjRjOTBkZjI5OGJhOWMx`
+Snapshot ID: `MTY2OTMwMjAwMCwwMDAwMDAwMGNiMDA3ODI3N2NlYjQ3ZWNhMWNkM2QwZGNmNGVmZDYy`

@@ -1084,6 +1084,28 @@
     },
     {
       "album": {
+        "name": "Groove Missing",
+        "url": "https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212054,
+      "name": "Groove Back (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ"
+    },
+    {
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1741,6 +1763,28 @@
       "duration_ms": 173639,
       "name": "No.5",
       "url": "https://open.spotify.com/track/49n3XWprPOrQP8O50Ue9ls"
+    },
+    {
+      "album": {
+        "name": "Not Beautiful (feat. Kenessi)",
+        "url": "https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl"
+      },
+      "artists": [
+        {
+          "name": "THE PIECES",
+          "url": "https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY"
+        },
+        {
+          "name": "kenessi",
+          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253040,
+      "name": "Not Beautiful (feat. Kenessi)",
+      "url": "https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5"
     },
     {
       "album": {

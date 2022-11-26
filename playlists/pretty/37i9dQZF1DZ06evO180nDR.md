@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,210 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,231 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 29 | [Estoy Aquí](https://open.spotify.com/track/4VKn45HqiDSTZEzCTVEUst) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:54 |
 | 30 | [El Coyote](https://open.spotify.com/track/6bkpFoadpQOmcFE2xC5Rfs) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:50 |
 | 31 | [Me Gusta Lo Bueno](https://open.spotify.com/track/12TqOAQIhqchko6cjE91Mh) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 2:36 |
-| 32 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
+| 32 | [Tus Bellos Pechos](https://open.spotify.com/track/5YdYw9nugSQSFsTVrHTWAN) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:11 |
 | 33 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 |
 | 34 | [El Perro Negro](https://open.spotify.com/track/1rP90VhA9IlyqfJGOHuRX1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:35 |
 | 35 | [Enséñame A Olvidar](https://open.spotify.com/track/7J2YIWWQlNCz1MLXpdPUwV) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 3:21 |
-| 36 | [Tus Bellos Pechos](https://open.spotify.com/track/5YdYw9nugSQSFsTVrHTWAN) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:11 |
+| 36 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
 | 37 | [Por El Ruido De La Cinta](https://open.spotify.com/track/65jYeBXlXAbre1TP6XORAy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:48 |
 | 38 | [Corrido De Alfredo Beltrán](https://open.spotify.com/track/5LS2EZZyM9whD8b8Bl5elA) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:49 |
 | 39 | [El Perdedor](https://open.spotify.com/track/2rtYAvcfMLss6hzOYObwyp) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:31 |
-| 40 | [Valentín De La Sierra](https://open.spotify.com/track/2xu5deA14965VAfplcEtQ3) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 3:02 |
+| 40 | [Juanito El Comandante](https://open.spotify.com/track/4gkFnMZqkMYv68qZz9tWrJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 3:36 |
 | 41 | [Lino Rodarte](https://open.spotify.com/track/6X76twkIP8C6Vc7UtBWFBf) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 4:12 |
-| 42 | [Juanito El Comandante](https://open.spotify.com/track/4gkFnMZqkMYv68qZz9tWrJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 3:36 |
+| 42 | [Valentín De La Sierra](https://open.spotify.com/track/2xu5deA14965VAfplcEtQ3) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 3:02 |
 | 43 | [El Fin De Nuestro Amor](https://open.spotify.com/track/5IsKvVrgXiO6QEbETwik9X) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:41 |
-| 44 | [Cargadores Enteipados](https://open.spotify.com/track/6XB6Liz9fd7W1zCpy3f2le) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 3:17 |
+| 44 | [De Tu Oído A Tu Ombligo](https://open.spotify.com/track/6fRf2VxMjBMtSGD7j0ienu) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sangre Guerrera](https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR) | 3:09 |
 | 45 | [Ven Y Ven](https://open.spotify.com/track/4CP1GpmLYMSnrdlFT5AQuy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 2:48 |
-| 46 | [De Tu Oído A Tu Ombligo](https://open.spotify.com/track/6fRf2VxMjBMtSGD7j0ienu) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sangre Guerrera](https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR) | 3:09 |
-| 47 | [Yo Te Quise Amar](https://open.spotify.com/track/5hSEPgls5rYRCQCb0ooiVP) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Una Copa Más](https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI) | 3:06 |
-| 48 | [Hombre De Negocios](https://open.spotify.com/track/465XYz4eYfKiSQD1EFMc5J) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 4:08 |
+| 46 | [Cargadores Enteipados](https://open.spotify.com/track/6XB6Liz9fd7W1zCpy3f2le) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 3:17 |
+| 47 | [Hombre De Negocios](https://open.spotify.com/track/465XYz4eYfKiSQD1EFMc5J) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 4:08 |
+| 48 | [Yo Te Quise Amar](https://open.spotify.com/track/5hSEPgls5rYRCQCb0ooiVP) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Una Copa Más](https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI) | 3:06 |
 | 49 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 |
 | 50 | [Vivir Sin Aire](https://open.spotify.com/track/1kPds8OapQhPuFZQ9mnyXi) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:32 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA0NzIzN2M2OGVhODY1MzAyYzU4YjZjZTkzMjUyN2I0Yg==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDA1ZWYzZGEzZGQ4ZWMzNGYwOTNiNDdmMzRiMWViNDQ3OQ==`

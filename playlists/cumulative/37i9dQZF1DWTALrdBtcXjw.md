@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-223 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+224 songs - 20 hr 18 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,12 +85,13 @@
 | [Honest Waltz](https://open.spotify.com/track/6XV1s4qGZM3BoPnatmOxzV) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Honest Waltz](https://open.spotify.com/album/0Dc8OxbbSCNlfTdvCRzA8L) | 5:25 | 2022-04-21 | 2022-09-04 |
 | [Honeysuckle Rose](https://open.spotify.com/track/37fKuIYSd67vF8mPpkgKyS) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Key One Up](https://open.spotify.com/album/3zEVfXNe9G370rdfKxoVhM) | 6:23 | 2020-03-31 | 2022-04-28 |
 | [How Deep Is the Ocean?](https://open.spotify.com/track/3d8vUViUV2NpB37JhxnTcH) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is the Ocean](https://open.spotify.com/album/4O7jV7aCfbf9vFJEqfWblQ) | 4:40 | 2022-02-18 |  |
+| [How High The Moon](https://open.spotify.com/track/0OXt9xqBmwPwDXIbioz38B) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [How High The Moon](https://open.spotify.com/album/20V8WVUaQLHsBpmvkQzIrM) | 3:02 | 2022-11-24 |  |
 | [How I Sing](https://open.spotify.com/track/77eZBHfUgVSPqatPpsdY1m) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [How I Sing](https://open.spotify.com/album/3MjBszHfA4TdioPXyDoKR4) | 3:36 | 2022-11-12 |  |
 | [I Miss You](https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Within a Dream](https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4) | 4:18 | 2020-03-31 | 2022-10-06 |
 | [I Should Care](https://open.spotify.com/track/7gRa0lT64mARp2ccsk3tNN) | [Back Room Jazz Trio](https://open.spotify.com/artist/0QsYYreXejEBRLCOp8v6bP) | [If You Could See Me Now](https://open.spotify.com/album/4t6mWcSyJBwJw17VkCrFb1) | 4:10 | 2022-11-12 |  |
 | [I Think of You](https://open.spotify.com/track/5O7gq2BSiX0UhDgPMLbayr) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Classics](https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM) | 7:03 | 2022-05-19 | 2022-09-21 |
 | [I Thought About You](https://open.spotify.com/track/7bjeNg98SWzGugTks8mpQv) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [I Thought About You](https://open.spotify.com/album/7B8lEaNZh5wxZythOv3tXL) | 4:31 | 2022-11-12 |  |
-| [I Will Never Stop Loving You](https://open.spotify.com/track/0ivNT9MjfyorZGsJDdXPE4) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 2:53 | 2022-07-28 |  |
+| [I Will Never Stop Loving You](https://open.spotify.com/track/0ivNT9MjfyorZGsJDdXPE4) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 2:53 | 2022-07-28 | 2022-11-26 |
 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 | 2022-11-12 |  |
 | [I'll Never Stop Loving You](https://open.spotify.com/track/19eGuwgMWn7huIkQ5qqfcs) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [I'll Never Stop Loving You](https://open.spotify.com/album/2CfvJoDEni8SoCkzdXsV8i) | 2:53 | 2022-02-18 | 2022-07-29 |
 | [I'm Old Fashioned](https://open.spotify.com/track/3VudDVni3lGTV0XiR9cm8f) | [Charles Cook Jr.](https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y) | [I'm Old Fashioned](https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3) | 4:21 | 2022-11-12 |  |

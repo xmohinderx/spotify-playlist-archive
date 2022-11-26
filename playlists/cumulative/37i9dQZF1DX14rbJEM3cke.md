@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover: James Mantis
 
-151 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
+152 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cigarettes](https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:47 | 2022-06-03 |  |
 | [Cigarettes](https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Cigarettes](https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi) | 3:47 | 2022-02-12 | 2022-07-29 |
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-18 | 2022-06-04 |
+| [Clique, Boom](https://open.spotify.com/track/5rWy99nNNONycsObYOMzHx) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Are We There yet?](https://open.spotify.com/album/4EhXfx3WlNuUYsefNjrvUv) | 2:33 | 2022-11-25 |  |
 | [Come Home feat\. Ayla Tesler\-Mabe](https://open.spotify.com/track/7GVgDSeuspSUANtLBmZi0D) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Ayla Tesler\-Mabe](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 3:37 | 2022-02-12 | 2022-06-04 |
 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 | 2022-02-12 | 2022-10-08 |
 | [CRUMBLE](https://open.spotify.com/track/1ud2gKMwBIK5XkePiIr16r) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [CRUMBLE](https://open.spotify.com/album/3tukKF6gkRQ7OIWu3kse3j) | 2:14 | 2022-09-03 |  |

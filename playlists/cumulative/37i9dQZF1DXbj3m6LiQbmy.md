@@ -4,7 +4,7 @@
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-228 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
+229 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 | 2022-04-01 |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-06-12 | 2022-06-27 |
 | [Don't Hold Back](https://open.spotify.com/track/5bFYFeG8PWkUr4z3561aAH) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Don't Hold Back](https://open.spotify.com/album/4GMHdkSjnkKrj5BqfhCG9x) | 3:43 | 2021-11-19 | 2022-07-29 |
-| [Dottore](https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [L'Incantesimo Delle Ciliegie](https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa) | 2:45 | 2022-05-19 |  |
+| [Dottore](https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [L'Incantesimo Delle Ciliegie](https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa) | 2:45 | 2022-05-19 | 2022-11-26 |
 | [Dulce de Leche \(feat\. M¥SS KETA\) \- M¥SS KETA remix](https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Dulce de Leche \(feat\. M¥SS KETA\) \[M¥SS KETA remix\]](https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla) | 3:06 | 2021-11-19 |  |
 | [Ecco la Notte](https://open.spotify.com/track/07NTvJ2DpPtQ23qTu1YWOq) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Ecco la Notte](https://open.spotify.com/album/3KvGybqvwIKaGSSUGefaZ0) | 5:44 | 2021-11-19 |  |
 | [Elastic Heart](https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:17 | 2022-06-12 | 2022-06-27 |
@@ -196,6 +196,7 @@
 | [SOTTOPELLE](https://open.spotify.com/track/4I6tfF0z09uVOVXy9fS9e4) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [SOTTOPELLE](https://open.spotify.com/album/0HT35YNuCxYKIIxXyhtJsJ) | 3:02 | 2022-06-26 | 2022-09-22 |
 | [Star Wh\*res Runway](https://open.spotify.com/track/5irByxVBTOngIlgk0FPhwA) | [DJ Lil' Jean](https://open.spotify.com/artist/5M5a14CQjm5XWYdkzMgcIv) | [Star Wh\*res Runway](https://open.spotify.com/album/5kiAqGNI8GYfpXOuQPkOMg) | 4:09 | 2021-11-19 | 2022-07-23 |
 | [Start Something New](https://open.spotify.com/track/2kE9KFOqwGwJob7HmWORsw) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP) | [Just a Little Bit in My Pocket](https://open.spotify.com/album/4YD2NzWYCATt0YUeIMifbl) | 5:38 | 2022-04-01 | 2022-07-26 |
+| [Story Untold](https://open.spotify.com/track/0GYzG6CKoOE76b08v1vAxs) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/5u2KQUMuGzBp9xxaUEe3H8) | 3:12 | 2022-09-08 |  |
 | [Story Untold](https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68) | 3:12 | 2022-06-26 | 2022-11-20 |
 | [Succhiamo](https://open.spotify.com/track/3Urbo9F8yQPUxhxR1vXFNx) | [Succhiamo](https://open.spotify.com/artist/7mATZtVmJSf9YKZgPu6M4k) | [Succhiamo](https://open.spotify.com/album/02QLVdx9zmqt23hBD6kYg2) | 3:56 | 2021-11-19 | 2022-07-25 |
 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg) | 1:31 | 2022-04-01 | 2022-11-22 |

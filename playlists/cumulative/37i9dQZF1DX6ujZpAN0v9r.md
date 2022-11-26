@@ -4,7 +4,7 @@
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-226 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/5wox3oqTyq5tKxLClFEbq5)
+227 songs - 17 hr 23 min - [published](https://open.spotify.com/playlist/5wox3oqTyq5tKxLClFEbq5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Tugboat](https://open.spotify.com/track/5IwrivnMMDar1H7Et13dDc) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [The Portable Galaxie 500](https://open.spotify.com/album/1hjEh9pioJlwgQ8aJoomwP) | 3:54 | 2021-06-03 | 2022-11-13 |
 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 | 2020-10-29\* | 2022-07-29 |
 | [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 | 2021-06-03 |  |
-| [Turn Into](https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U) | 3:23 | 2020-10-29\* |  |
+| [Turn Into](https://open.spotify.com/track/0QCpDMWI8zQTB58WqVgu7C) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/1tW2xzjwARfKVOQp6e43Fj) | 3:23 | 2021-06-03 |  |
+| [Turn Into](https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U) | 3:23 | 2020-10-29\* | 2022-11-26 |
 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 | 2021-06-03 |  |
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2020-10-29\* | 2022-07-29 |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2020-10-29\* |  |

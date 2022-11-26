@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2498760,
+  "num_followers": 2499301,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NzIyMiwwMDAwMDAwMGRjNTM2ZWVkN2NhMDlmOWUxMDhhOWRlNzkwMjg5Y2I2",
+  "snapshot_id": "MTY1MzY3NzIyMiwwMDAwMDAwMGQ3YTI1OTJhMDc0NGU1YzBlZjg4MmI4NTNmOTlmZWNl",
   "tracks": [
     {
       "added_at": "2022-05-27 18:47:02",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "Moondance",
         "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 205613,
       "name": "Into the Mystic - 2013 Remaster",
       "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "Music From Big Pink (Remastered)",
         "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 274493,
       "name": "The Weight - Remastered 2000",
       "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
       "artists": [
         {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
       "artists": [
         {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 170759,
       "name": "Walkin' Back to Georgia",
       "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Songs Of Love And Hate",
-        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 310773,
-      "name": "Famous Blue Raincoat",
-      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
+      "duration_ms": 200146,
+      "name": "Where You Lead",
+      "url": "https://open.spotify.com/track/0APt4t1Dab58sYmGQ4jgij"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+        "name": "Songs Of Love And Hate",
+        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Where You Lead",
-      "url": "https://open.spotify.com/track/0APt4t1Dab58sYmGQ4jgij"
+      "duration_ms": 310773,
+      "name": "Famous Blue Raincoat",
+      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
-        "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
-      },
-      "artists": [
-        {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Here Comes The Sun",
-      "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "Fair and Square",
         "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 267133,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
+        "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
+        "name": "Bruised Orange",
+        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "That's the Way That the World Goes 'Round",
+      "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
         "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
@@ -1271,38 +1287,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Odetta Sings",
-        "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
-      },
-      "artists": [
-        {
-          "name": "Odetta",
-          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
-        }
-      ],
-      "duration_ms": 234530,
-      "name": "Hit Or Miss",
-      "url": "https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
-        "name": "Bruised Orange",
-        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "That's the Way That the World Goes 'Round",
-      "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 202266,
       "name": "Country Road - 2019 Remaster",
       "url": "https://open.spotify.com/track/2OBaVeRFXblWxoZHC4sryf"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Odetta Sings",
+        "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "duration_ms": 234530,
+      "name": "Hit Or Miss",
+      "url": "https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 201022,
+      "name": "Strangers - 2020 Stereo Remaster",
+      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
         "name": "Terms of My Surrender",
         "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
-        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
+        "name": "Alice's Restaurant",
+        "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
       },
       "artists": [
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "Arlo Guthrie",
+          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
         }
       ],
-      "duration_ms": 201022,
-      "name": "Strangers - 2020 Stereo Remaster",
-      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
+      "duration_ms": 1116933,
+      "name": "Alice's Restaurant Massacree",
+      "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1411,6 +1427,22 @@
       "duration_ms": 176826,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Unplugged (2013 Remaster)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1495,22 +1527,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Alice's Restaurant",
-        "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
-      },
-      "artists": [
-        {
-          "name": "Arlo Guthrie",
-          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
-        }
-      ],
-      "duration_ms": 1116933,
-      "name": "Alice's Restaurant Massacree",
-      "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "It's So Hard To Tell Who's Going To Love You The Best",
         "url": "https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "900 Miles",
-      "url": "https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "All Things Must Pass (2020 Mix)",
         "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Unplugged (2013 Remaster)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
         }
       ],
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+      "duration_ms": 307880,
+      "name": "900 Miles",
+      "url": "https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo"
     },
     {
       "added_at": "2022-05-27 18:47:02",

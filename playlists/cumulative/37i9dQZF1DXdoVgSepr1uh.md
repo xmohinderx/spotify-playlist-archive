@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Trueno.
+> Argentina en la casa! Foto: Nicki Nicole.
 
-143 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+145 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 | 2022-05-24 |  |
 | [Animal](https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:23 | 2022-05-24 | 2022-06-04 |
 | [Anoche \(Remix\)](https://open.spotify.com/track/2k6RWRsm2yYD8lOJjer5qa) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Anoche \(Remix\)](https://open.spotify.com/album/0ibOm3Sm7K1o6wG8I9B6QQ) | 3:48 | 2022-05-24 |  |
-| [Atrévete](https://open.spotify.com/track/4HDJzMYiqYxbON1CGa19x4) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Atrévete](https://open.spotify.com/album/2wpVr5x946STGMJKussoXW) | 2:49 | 2022-05-24 |  |
+| [Atrévete](https://open.spotify.com/track/4HDJzMYiqYxbON1CGa19x4) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Atrévete](https://open.spotify.com/album/2wpVr5x946STGMJKussoXW) | 2:49 | 2022-05-24 | 2022-11-26 |
 | [Aunque Ya No Estés Aquí](https://open.spotify.com/track/00sAoxFmsbUSU5Cn0RCxlV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Aunque Ya No Estés Aquí](https://open.spotify.com/album/5DLcKxG9Fs22scFfoEDcmV) | 3:26 | 2022-05-24 |  |
 | [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 | 2022-09-09 |  |
 | [Baby Drip](https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Baby Drip](https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d) | 3:22 | 2022-07-28 |  |
@@ -51,6 +51,7 @@
 | [Flow de Barrio](https://open.spotify.com/track/4IJfIFvMB3lwPW93g6Asno) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flow de Barrio](https://open.spotify.com/album/4jjU50TCU52hjATJcXHeXw) | 2:30 | 2022-05-24 |  |
 | [FLOW DE LA MATA](https://open.spotify.com/track/4ZhVLMruwsPlwU44eXLNWt) | [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [FLOW DE LA MATA](https://open.spotify.com/album/3azyJVP4rWEDUWlY8LPZpX) | 2:31 | 2022-06-17 | 2022-07-16 |
 | [Frio Polar](https://open.spotify.com/track/7wLkEOd9Q0OzRH7i3pRMWa) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Frio Polar](https://open.spotify.com/album/2DS60bWq3zaj81tnCYEH86) | 3:12 | 2022-05-24 | 2022-06-18 |
+| [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2022-11-25 |  |
 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-05-24 |  |
 | [Gatas](https://open.spotify.com/track/4Z6ucGPXIzZZTN70Q7KQM0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Gatas](https://open.spotify.com/album/31dhzIDFoaVAwcN3bBwgNA) | 2:12 | 2022-05-24 |  |
 | [Goodbye](https://open.spotify.com/track/3gVnDk9My0gZJfeMsVMH64) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g) | [Goodbye](https://open.spotify.com/album/3JjXYcOLYr3TzwWkXpmdcd) | 2:38 | 2022-05-24 | 2022-08-06 |
@@ -77,7 +78,7 @@
 | [Lo Que Tienes](https://open.spotify.com/track/1ftABeHaXdNPjsOmhosE5L) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Lo Que Tienes](https://open.spotify.com/album/1qoTZ7Qt3O05KxWWIPMeZu) | 3:20 | 2022-05-24 | 2022-07-29 |
 | [Lo Que Tienes](https://open.spotify.com/track/5dpLdsSEVRkTUwpOaULkeT) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Lo Que Tienes](https://open.spotify.com/album/7ggoTmrnK7ucVK3CX6c2rt) | 3:20 | 2022-07-28 |  |
 | [Loba](https://open.spotify.com/track/276rXWKRL20v33E2UnF3ks) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Loba](https://open.spotify.com/album/4sIlTGDO1A6QGNvxw8OrsC) | 2:38 | 2022-05-24 |  |
-| [Location](https://open.spotify.com/track/6DMbR6JnaJRQR9TZCq0fvu) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Sota Asa](https://open.spotify.com/artist/6kMCwJFs2yF1726DqbWOKM) | [Location](https://open.spotify.com/album/3RGFG16ObdSxLWRYFEludW) | 2:57 | 2022-07-28 |  |
+| [Location](https://open.spotify.com/track/6DMbR6JnaJRQR9TZCq0fvu) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Sota Asa](https://open.spotify.com/artist/6kMCwJFs2yF1726DqbWOKM) | [Location](https://open.spotify.com/album/3RGFG16ObdSxLWRYFEludW) | 2:57 | 2022-07-28 | 2022-11-26 |
 | [Location](https://open.spotify.com/track/3JUtF9szQ4r3yLSJ7IHn9y) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Soto Asa](https://open.spotify.com/artist/45u6fHp1118iTp6WeNlBTn), [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi) | [Location](https://open.spotify.com/album/7KCBFMlb9xZkUj9OwFsAHY) | 2:57 | 2022-05-24 | 2022-07-29 |
 | [Lucifer](https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Lucifer](https://open.spotify.com/album/3ID0TDMh101kcidA9TrwWr) | 2:54 | 2022-05-24 | 2022-07-23 |
 | [Madrid](https://open.spotify.com/track/0IexmD3A6JSdhVTFGbu1NZ) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Madrid](https://open.spotify.com/album/5rEutOpWVW9KdiVkPJL5QH) | 2:38 | 2022-05-24 | 2022-11-19 |
@@ -106,6 +107,7 @@
 | [Pa' La Pared](https://open.spotify.com/track/3mdPjtqAHenQdfruvauObB) | [J.Mastermix](https://open.spotify.com/artist/1UvUSpVxlY8KvfNMMNtxSR) | [Pa' La Pared](https://open.spotify.com/album/67ddgcdFLnJfjBCIREBrBx) | 2:58 | 2022-08-05 | 2022-09-10 |
 | [Pal Carajo el Amor](https://open.spotify.com/track/4AM8g5OElpKpuHjMuH1PSk) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pal Carajo el Amor](https://open.spotify.com/album/4gpZ0GHKxJitDg4SjosXm5) | 3:16 | 2022-05-24 | 2022-11-19 |
 | [Peligrosa](https://open.spotify.com/track/1upN12BuuI00PtPX5RwWQA) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Peligrosa](https://open.spotify.com/album/126iuno9i89GrSPRHDO4Er) | 2:22 | 2022-07-15 | 2022-07-23 |
+| [Perreando](https://open.spotify.com/track/338MIWSfnsOx5RVZWzq1GW) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Perreando](https://open.spotify.com/album/4RUqdOBF49MwSDwRhQMMRy) | 2:17 | 2022-11-25 |  |
 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 | 2022-05-24 |  |
 | [Perreo Bendito](https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:39 | 2022-08-05 | 2022-11-19 |
 | [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-23 | 2022-08-09 |

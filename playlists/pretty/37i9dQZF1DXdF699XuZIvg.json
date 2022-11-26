@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 555539,
+  "num_followers": 555773,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2MTA0NCwwMDAwMDAwMDEyZWU5MjBlNDljNWVkZmI4ZGE0YWE3ZDdlM2ZhYjg4",
+  "snapshot_id": "MTY2NjM2MTA0NCwwMDAwMDAwMGViZjJkNDc1OTIzNDU3OTU2YmRiNTAwYWIwYWQwYTNj",
   "tracks": [
     {
       "added_at": "2022-10-21 14:04:04",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
+        "name": "Surface Sounds",
+        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 284798,
+      "name": "Hey Gringo",
+      "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "added_at": "2022-10-21 14:04:04",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "Surface Sounds",
-        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 284798,
-      "name": "Hey Gringo",
-      "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
-    },
-    {
-      "added_at": "2022-10-21 14:04:04",
-      "album": {
         "name": "Hunted",
         "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "Master of Reality (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 317206,
-      "name": "Children of the Grave - 2014 Remaster",
-      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
-    },
-    {
-      "added_at": "2022-10-21 14:04:04",
-      "album": {
         "name": "Breakin' Outta Hell",
         "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 232425,
       "name": "Breakin' Outta Hell",
       "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
+    },
+    {
+      "added_at": "2022-10-21 14:04:04",
+      "album": {
+        "name": "Master of Reality (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 317206,
+      "name": "Children of the Grave - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
     },
     {
       "added_at": "2022-10-21 14:04:04",

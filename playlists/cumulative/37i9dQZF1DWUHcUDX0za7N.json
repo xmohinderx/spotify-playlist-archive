@@ -322,6 +322,24 @@
     },
     {
       "album": {
+        "name": "Barawo",
+        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229250,
+      "name": "Barawo",
+      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
+    },
+    {
+      "album": {
         "name": "The Fresh Prince Of Lagos",
         "url": "https://open.spotify.com/album/4RuSx7uURK2Dsqq11bKMJx"
       },
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 173547,
       "name": "Wonder (feat. Patoranking)",
       "url": "https://open.spotify.com/track/4cr9TB2EIAb3uDgvjbYYL0"

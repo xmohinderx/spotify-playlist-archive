@@ -776,6 +776,32 @@
     },
     {
       "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz"
+      },
+      "artists": [
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        },
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        },
+        {
+          "name": "YA'BOYZ",
+          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142204,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh"
       },

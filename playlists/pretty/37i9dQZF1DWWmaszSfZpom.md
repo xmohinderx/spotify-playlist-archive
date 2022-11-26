@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacaré
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,164 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,272 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 23 | [Bumbum granada](https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq) | [MC's Zaac](https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Bumbum granada](https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV) | 3:07 |
 | 24 | [Se Prepara 2](https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Se Prepara 2](https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP) | 2:27 |
 | 25 | [Oh Juliana](https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Oh Juliana](https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL) | 2:33 |
-| 26 | [Comprei um Lança](https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Comprei um Lança](https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb) | 1:52 |
+| 26 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 |
 | 27 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 28 | [VAI MENINA](https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [VAI MENINA](https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY) | 2:02 |
-| 29 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 |
+| 29 | [Comprei um Lança](https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Comprei um Lança](https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb) | 1:52 |
 | 30 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
 | 31 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
-| 32 | [Ritmo Mexicano](https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv) | 3:10 |
-| 33 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
-| 34 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
+| 32 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
+| 33 | [Ritmo Mexicano](https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv) | 3:10 |
+| 34 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
 | 35 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
 | 36 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 |
 | 37 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 74 | [Para não](https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Para não](https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf) | 2:44 |
 | 75 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 
-Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDBkYWFkZWQ1OTdiYjBkNDU2MzFhMmYxZDJlYTRmNDhh`
+Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDdmYzRiNTYyZGRjNmE2ZmVlYzkxNWQxOWE2YjViMTBi`

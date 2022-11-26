@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
 
-304 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+305 songs - 20 hr 51 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,8 +66,9 @@
 | [Dick Cheney](https://open.spotify.com/track/1WXWUnvXJreNdQjydRoD7H) | [Vic Chesnutt](https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H) | [Skitter On Take\-Off](https://open.spotify.com/album/0mIKLkym8IE6zoJmuk4Y9N) | 3:18 | 2020-08-30 | 2020-09-11 |
 | [Different Kind of World](https://open.spotify.com/track/0drAsTHCEB3polistcpT1T) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 2:45 | 2022-09-09 |  |
 | [Dinosaur](https://open.spotify.com/track/5dLVPZd9DTpd17UlKrOWa1) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Captain](https://open.spotify.com/album/5Eo5kqv5ZyxjCOsLizMoB9) | 3:14 | 2019-09-29\* | 2020-10-15 |
-| [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 | 2022-08-26 |  |
+| [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 | 2022-08-26 | 2022-11-26 |
 | [Don't Miss It](https://open.spotify.com/track/5VYCCPct242jtbidE13EKK) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/3VpbXPsAOhcp3duHhkye8g) | 4:59 | 2020-03-21 |  |
+| [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2022-09-02 |  |
 | [Driving the Dynamite Truck](https://open.spotify.com/track/4mxEulRzxyx6SMkVh6mDPY) | [Seam](https://open.spotify.com/artist/0AOyxXRa4odDG1PisHJtKx) | [Kernel](https://open.spotify.com/album/1PCIUbIXn7yPQhqO2LEeE0) | 6:04 | 2020-08-30 | 2020-09-11 |
 | [Early To The Party](https://open.spotify.com/track/0J3JK0bohyKpn6zaPheYy0) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 4:05 | 2019-09-29\* | 2020-01-17 |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2020-11-16 |  |

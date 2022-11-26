@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-106 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
+107 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 | 2020-01-08 |  |
 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 | 2020-01-08 |  |
 | [Drifting Away](https://open.spotify.com/track/6dTK3myeKGWomdNhtMK59Y) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Drifting Away](https://open.spotify.com/album/0V01bdeXh5WOTLBNSOeCj9) | 3:30 | 2022-02-04 | 2022-04-21 |
-| [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2022-09-23 |  |
+| [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2022-09-23 | 2022-11-26 |
 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 | 2020-01-08 |  |
 | [Fire](https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR) | [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [Mother's Finest](https://open.spotify.com/album/2u7SLLZRvtRIPcKnYjMj0H) | 4:07 | 2020-01-08 | 2022-07-29 |
 | [Get The Funk Out](https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 4:24 | 2020-01-08 |  |
@@ -95,6 +95,7 @@
 | [The Devil](https://open.spotify.com/track/0Oo8Aa1ENUC78J2Vl7T7TP) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12), [John Popper](https://open.spotify.com/artist/2r8UpAivBMWpM96XTb4zaI) | [The Devil](https://open.spotify.com/album/5nksS055u8VN76qS1A54j9) | 3:07 | 2022-02-25 | 2022-06-09 |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-14 |  |
 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 | 2022-07-01 | 2022-08-25 |
+| [The Shape I'm Takin'](https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Shape I'm Takin'](https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp) | 3:35 | 2022-11-25 |  |
 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 | 2020-01-08 |  |
 | [Thumb](https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ) | [TM Stevens](https://open.spotify.com/artist/1JQSaRDeBgD9qxqotg6n6y) | [Shocka Zooloo](https://open.spotify.com/album/4Ykpxtr1YHvEIPQwJDXNyu) | 4:20 | 2020-01-08 | 2022-06-04 |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 | 2022-10-15 |

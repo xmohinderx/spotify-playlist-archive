@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 869198,
+  "num_followers": 869296,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE2NjAyNTBiY2Y1NzcxNjRjMTUyNmI0ZjU5NGUwMzNm",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDljNTg0ZDExMDA4ZGRjYTY4NGYyOTA1ZGRiZTkzZWIw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Northern Lights (Remixes)",
         "url": "https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 182400,
       "name": "Neck And Neck - DNMO Remix",
       "url": "https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Westcoast G-House Compilation",
         "url": "https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 201642,
       "name": "Gangsta Gangsta (feat. Baby Eazy-E)",
       "url": "https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 210017,
+      "name": "I Want U",
+      "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Dark Night Sweet Light",
         "url": "https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF"
       },
@@ -631,18 +647,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys"
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
         }
       ],
-      "duration_ms": 210017,
-      "name": "I Want U",
-      "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
+      "duration_ms": 154616,
+      "name": "WARDOGZ",
+      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -663,26 +683,6 @@
       "duration_ms": 173950,
       "name": "I Admit It (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "6 FEET UNDER",
-        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
-      },
-      "artists": [
-        {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
-        },
-        {
-          "name": "City Morgue",
-          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "WARDOGZ",
-      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+        "name": "Shiawase",
+        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
       },
       "artists": [
         {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
         }
       ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
+      "duration_ms": 217787,
+      "name": "Shiawase",
+      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -851,42 +867,6 @@
       "duration_ms": 224017,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Shiawase",
-        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "Shiawase",
-      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -915,6 +895,26 @@
       "duration_ms": 168641,
       "name": "In My Room (feat. Ty Dolla $ign & Tyga)",
       "url": "https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Redo",
         "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 197260,
       "name": "Redo",
       "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "futura",
-        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
-      },
-      "artists": [
-        {
-          "name": "Knapsack",
-          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Nothing Less",
-      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Sable Valley Summer Vol. 2",
         "url": "https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 178285,
       "name": "No Chill",
       "url": "https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "futura",
+        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
+      },
+      "artists": [
+        {
+          "name": "Knapsack",
+          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
+        }
+      ],
+      "duration_ms": 206086,
+      "name": "Nothing Less",
+      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
     },
     {
       "added_at": "2022-11-18 05:00:00",

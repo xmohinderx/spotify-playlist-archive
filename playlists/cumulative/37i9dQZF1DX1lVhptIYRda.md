@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Jordan Davis
+> Today's top country hits of the week, worldwide! Cover: Carly Pearce
 
-571 songs - 1 day 6 hr 49 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
+573 songs - 1 day 6 hr 55 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Grew Up On That](https://open.spotify.com/track/45Q5uKc4KRJiowOQay7wR5) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/1IInfaBi6Ty3SybtzjgyER) | 2:52 | 2020-05-30 | 2020-11-22 |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-18 | 2022-06-26 |
 | [Growing Up](https://open.spotify.com/track/3M4rxsJSUvKPjGy5yMeQ5j) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO) | 3:01 | 2021-03-14 | 2021-04-24 |
-| [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 | 2022-07-29 |  |
+| [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 | 2022-07-29 | 2022-11-26 |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 | 2020-04-04 | 2020-04-25 |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2021-03-27 | 2021-12-11 |
 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 | 2020-09-11 | 2020-09-26 |
@@ -210,6 +210,7 @@
 | [Happy in This Bar](https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Happy in This Bar](https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl) | 2:37 | 2022-02-25 | 2022-05-14 |
 | [Hard To Forget \- Radio Edit](https://open.spotify.com/track/6ITrZx7zVGgrADDD1lksjw) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Hard To Forget \(Radio Edit\)](https://open.spotify.com/album/4FGl5W9N0XRIcDbAdsNEtn) | 3:09 | 2020-04-03 | 2020-08-22 |
 | [Hard To Stay Mad At](https://open.spotify.com/track/1Y5a2JUuCmmNrjmCe8p0h5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 4:10 | 2020-08-21 | 2020-08-30 |
+| [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 | 2022-11-25 |  |
 | [Hate You Like I Love You](https://open.spotify.com/track/7fv8w55N7T95xtX72TycwQ) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Things](https://open.spotify.com/album/66cQh6B5mTvqYUGXgbH18w) | 2:53 | 2020-10-06 | 2020-12-06 |
 | [Head Over Heels](https://open.spotify.com/track/4uSGKYoqdlqXYAr8SwhnFl) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Head Over Heels](https://open.spotify.com/album/0LTNBwbMq7nP2PSNL6bI86) | 3:09 | 2019-06-22 | 2019-11-09 |
 | [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 | 2022-06-10 |  |
@@ -486,7 +487,7 @@
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2019-12-08 | 2020-03-14 |
 | [The Bones](https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL...The Bones](https://open.spotify.com/album/3wRyo249Hi01jeaxnkJ49m) | 3:17 | 2019-05-26\* | 2019-12-11 |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-01-30 | 2021-07-04 |
-| [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-17 |  |
+| [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-17 | 2022-11-26 |
 | [The Man Who Loves You The Most](https://open.spotify.com/track/58DvikiJcEjow3Skg80yxX) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Man Who Loves You The Most](https://open.spotify.com/album/0Iu8r7hmiTYiiKbUteZWVZ) | 3:44 | 2020-06-14 | 2020-08-15 |
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/20vIaD2DFOxGqDvN0dlMEH) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/album/6dHn1cTLJ4CAlN2AyR3a1O) | 3:11 | 2019-06-30 | 2019-08-18 |
 | [the other girl \(with Halsey\)](https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:21 | 2020-03-21 | 2020-04-04 |
@@ -578,6 +579,7 @@
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2020-11-13 | 2021-08-07 |
 | [You Time](https://open.spotify.com/track/0pJalGEYsRikSogLkXU6KV) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [You Time](https://open.spotify.com/album/3v5EfqlUMolY1RR5GNnMYx) | 3:12 | 2021-08-14 | 2021-10-02 |
 | [Younger Me](https://open.spotify.com/track/5vyONuW3HK0kJQBkrSp25B) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Younger Me](https://open.spotify.com/album/1LQ7jQS8wOaIDcHqjcDet2) | 3:26 | 2021-11-13 | 2022-02-05 |
+| [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 | 2022-11-25 |  |
 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 | 2021-11-13 | 2022-01-08 |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

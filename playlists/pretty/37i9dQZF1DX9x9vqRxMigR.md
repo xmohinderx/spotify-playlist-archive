@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,338 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,344 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 39 | [Homecoming](https://open.spotify.com/track/6hVrALHnE9h0bSpnOwX7gG) | [Lore](https://open.spotify.com/artist/2szlp4jqn8XBTqnhpvwtNk) | [Homecoming](https://open.spotify.com/album/3gWApeKQBMmNe0UqqqV4y0) | 4:13 |
 | 40 | [Que Si Quieres, Moreno](https://open.spotify.com/track/7KBuW5SXwxaCBCPWtPWbw6) | [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [A Tiempo Real: A New Take on Spanish Tradition](https://open.spotify.com/album/37vhTf1m8xlhVMNM25gauO) | 4:36 |
 | 41 | [A Song for Rose \(Will You Remember Me\)](https://open.spotify.com/track/0UdTAY5ogRVxuten1vcBBs) | [Heidi Talbot](https://open.spotify.com/artist/3aQzmN6t6h7hpWAjN1L0pJ) | [Here We Go 1, 2, 3](https://open.spotify.com/album/4Qi8NNjsdtDUIQYY2xzCKS) | 5:00 |
-| 42 | [Silver Lining](https://open.spotify.com/track/6lI6ygpmnhxiVWc2pqsYUq) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Bywater Call](https://open.spotify.com/album/4RshexUVMhQgKZFuLi9GMG) | 4:56 |
+| 42 | [Silver Lining](https://open.spotify.com/track/3y2ThkLdQlID0gFvopwnkm) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Bywater Call](https://open.spotify.com/album/0hEimpHPAWWfWs4v55F0Kz) | 4:56 |
 | 43 | [As the River Flows](https://open.spotify.com/track/5ulmigTF4psOkLhwToBkAK) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Woman](https://open.spotify.com/album/6PKfvEiC1FXhm0ylnBRsya) | 3:46 |
 | 44 | [No Ambition](https://open.spotify.com/track/2boeCV3GC9vppcMxPxapdB) | [Stillhouse Junkies](https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj) | [No Ambition](https://open.spotify.com/album/3jSrbvQPsCIPDDIJMMcn6w) | 7:26 |
 | 45 | [Difyrrwch](https://open.spotify.com/track/1qSmdST7sFwE7bYs7WboBK) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/4tzSvK1Mo2GsW9jcIXrBd0) | 3:01 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 152 | [Colorblind](https://open.spotify.com/track/1XdZWeMVsFrzso8pd77g7E) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Colorblind](https://open.spotify.com/album/5Ptnky6pcPheTjCPrBsR1t) | 2:58 |
 | 153 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 |
 
-Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGVjY2UxNGZmNjIwZWM2ZDNhOWFkMzllZDgwMDJhZmYx`
+Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGJjMWZmMzkwMWU5YzQxYjRmZmRiYTAxZDEyNTFkZTg1`

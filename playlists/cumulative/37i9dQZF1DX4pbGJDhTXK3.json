@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 426575,
       "name": "Bommelom",
       "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
@@ -661,7 +661,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 493597,
-      "name": "Games - Prins Thomas Diskomiks",
+      "name": "Games (Prins Thomas Diskomiks)",
       "url": "https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG"
     },
     {
@@ -1119,6 +1119,28 @@
       "duration_ms": 127524,
       "name": "Low",
       "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
+    },
+    {
+      "album": {
+        "name": "Maskindans",
+        "url": "https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        },
+        {
+          "name": "Det Gylne Triangel",
+          "url": "https://open.spotify.com/artist/4Rkaxisnihy39c7B45junc"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214404,
+      "name": "Maskindans - Radio Edit",
+      "url": "https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,759 likes - 177 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,144 likes - 177 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

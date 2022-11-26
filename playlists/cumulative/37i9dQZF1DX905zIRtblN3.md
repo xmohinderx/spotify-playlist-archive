@@ -2,9 +2,9 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Julión Álvarez y Su Norteño Banda, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Banda MS, al millón con La Reina.
 
-197 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
+198 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Maldita Faja](https://open.spotify.com/track/0D7TQL76NafKk8xg5xC28a) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/3HJiHhFjeqes3qEvEVYMR8) | 2:33 | 2022-11-11 | 2022-11-16 |
 | [Maldita Faja](https://open.spotify.com/track/3wn456xCRhD8NAVAl7O1U2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:33 | 2022-11-11 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-01-03 | 2022-02-23 |
+| [Me Dejé Ir Con Todo](https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 2:32 | 2022-11-25 |  |
 | [Me Extraño](https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Extraño](https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1) | 3:11 | 2022-09-02 |  |
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-07-08 | 2022-09-17 |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2021-12-17 | 2022-04-02 |

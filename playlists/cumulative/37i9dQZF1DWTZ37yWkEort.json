@@ -558,6 +558,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5zmS7dWEZRqX980VsitUsI"
+      },
+      "artists": [
+        {
+          "name": "Cliff Beach",
+          "url": "https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132493,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/7wC6PVdB1uxCR3IVBk2p9E"
+    },
+    {
+      "album": {
         "name": "Life Is Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/7spOTs7ChtP9bOU3rlkT5a"
       },

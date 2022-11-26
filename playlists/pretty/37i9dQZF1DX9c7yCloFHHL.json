@@ -1,12 +1,12 @@
 {
   "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Daniel Avery on cover.",
-  "num_followers": 109667,
+  "num_followers": 109767,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzODk4NCwwMDAwMDAwMGYzODkxOGM3NjQ3MjdjNzBjMDk1NjE2NWNlM2UwZTgz",
+  "snapshot_id": "MTY2OTMzODk4NCwwMDAwMDAwMDg4MDAzYWFiYWNiMWY2NzA3MTQwNzBiMDdiMjgwZjk1",
   "tracks": [
     {
       "added_at": "2022-11-25 01:16:24",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Antarctican Dream Machine",
-        "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Elegy",
-      "url": "https://open.spotify.com/track/1kXAT5Y0fIBw1vVbTgoS3i"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "The Invisible EP",
         "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 163861,
       "name": "Respite",
       "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Antarctican Dream Machine",
+        "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/1kXAT5Y0fIBw1vVbTgoS3i"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/16BSYdWcO54eHEgIHsFGrR"
     },
     {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
-    },
-    {
       "added_at": "2022-11-11 06:22:45",
       "album": {
         "name": "Then",
@@ -795,6 +779,22 @@
       "duration_ms": 207000,
       "name": "Then",
       "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
+      "added_at": "2022-11-11 06:22:45",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
       "added_at": "2022-10-04 11:13:14",
       "album": {
         "name": "Our Hands Against the Dusk",
@@ -955,22 +971,6 @@
       "duration_ms": 312000,
       "name": "Mt Baker",
       "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
-    },
-    {
-      "added_at": "2022-11-11 06:22:45",
-      "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Space 1.8",
-        "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 101298,
-      "name": "Space 7",
-      "url": "https://open.spotify.com/track/2f1LQcJU8fLITbrCmZBrW2"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "Margin",
         "url": "https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 101298,
+      "name": "Space 7",
+      "url": "https://open.spotify.com/track/2f1LQcJU8fLITbrCmZBrW2"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "Music for Animals",
         "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
       },
@@ -1063,62 +1063,6 @@
       "duration_ms": 445980,
       "name": "Right Right Right",
       "url": "https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl"
-    },
-    {
-      "added_at": "2022-11-11 06:22:45",
-      "album": {
-        "name": "Kizuna",
-        "url": "https://open.spotify.com/album/7JzP4xRIXlG24pT6dqZmbG"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        },
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 342145,
-      "name": "Kizuna",
-      "url": "https://open.spotify.com/track/7jdH3x7Ab9IlgukamWuHRS"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zjgCJFnTh4wYx0BHhV7uh"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 164383,
-      "name": "I Wanna Dance With Somebody - Spotify Singles",
-      "url": "https://open.spotify.com/track/3RfbYuIRk9fk4ZjpYv7dej"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "A Gathering Of The Tribe",
-        "url": "https://open.spotify.com/album/6Du66cvAKHGkq4DHnwgEFX"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Vylana",
-          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
-        }
-      ],
-      "duration_ms": 537732,
-      "name": "A Gathering Of The Tribe",
-      "url": "https://open.spotify.com/track/0TjhUnp64Xo4MpPeLXFd9W"
     },
     {
       "added_at": "2022-11-11 06:22:45",
@@ -1143,6 +1087,46 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "A Gathering Of The Tribe",
+        "url": "https://open.spotify.com/album/6Du66cvAKHGkq4DHnwgEFX"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Vylana",
+          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
+        }
+      ],
+      "duration_ms": 537732,
+      "name": "A Gathering Of The Tribe",
+      "url": "https://open.spotify.com/track/0TjhUnp64Xo4MpPeLXFd9W"
+    },
+    {
+      "added_at": "2022-11-11 06:22:45",
+      "album": {
+        "name": "Kizuna",
+        "url": "https://open.spotify.com/album/7JzP4xRIXlG24pT6dqZmbG"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 342145,
+      "name": "Kizuna",
+      "url": "https://open.spotify.com/track/7jdH3x7Ab9IlgukamWuHRS"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "We Wave From Our Boats",
         "url": "https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zjgCJFnTh4wYx0BHhV7uh"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 164383,
+      "name": "I Wanna Dance With Somebody - Spotify Singles",
+      "url": "https://open.spotify.com/track/3RfbYuIRk9fk4ZjpYv7dej"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
-        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        },
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
-      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "In Light Of Blues",
         "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
       },
@@ -1355,34 +1335,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Patterns Of Consciousness",
-        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
+        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
+        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
       "artists": [
         {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 570000,
-      "name": "SOTRS",
-      "url": "https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "Sleep Better",
-        "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
-      },
-      "artists": [
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
         {
-          "name": "Tom Middleton",
-          "url": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 599000,
-      "name": "Relax 6 (Awakening)",
-      "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
+      "duration_ms": 147000,
+      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
+      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
     },
     {
       "added_at": "2022-11-11 06:22:45",
@@ -1411,6 +1379,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "Patterns Of Consciousness",
+        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 570000,
+      "name": "SOTRS",
+      "url": "https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
@@ -1435,6 +1419,38 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2022-11-11 06:22:45",
+      "album": {
+        "name": "Myfanwy (Ambient Mix)",
+        "url": "https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "duration_ms": 243818,
+      "name": "Myfanwy - Ambient Mix",
+      "url": "https://open.spotify.com/track/0eVZZGq7eM6VlkRJSeSmY5"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Sleep Better",
+        "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
+      },
+      "artists": [
+        {
+          "name": "Tom Middleton",
+          "url": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
+        }
+      ],
+      "duration_ms": 599000,
+      "name": "Relax 6 (Awakening)",
+      "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1469,42 +1485,6 @@
       "url": "https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4"
     },
     {
-      "added_at": "2022-11-11 06:22:45",
-      "album": {
-        "name": "Myfanwy (Ambient Mix)",
-        "url": "https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p"
-      },
-      "artists": [
-        {
-          "name": "Sheku Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
-        }
-      ],
-      "duration_ms": 243818,
-      "name": "Myfanwy - Ambient Mix",
-      "url": "https://open.spotify.com/track/0eVZZGq7eM6VlkRJSeSmY5"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "March 13 (Zoon Remix)",
-        "url": "https://open.spotify.com/album/1vD359X2yHjI6aOb2w0cK6"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        },
-        {
-          "name": "Zoon",
-          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "March 13 - Zoon Remix",
-      "url": "https://open.spotify.com/track/4aayAMzedeWHfKkQwPRixz"
-    },
-    {
       "added_at": "2022-10-04 11:13:14",
       "album": {
         "name": "Sounds of Fischer Vol. 1",
@@ -1535,18 +1515,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Postcards for the Backyard, Pt. 1",
-        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
+        "name": "March 13 (Zoon Remix)",
+        "url": "https://open.spotify.com/album/1vD359X2yHjI6aOb2w0cK6"
       },
       "artists": [
         {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        },
+        {
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
         }
       ],
-      "duration_ms": 165701,
-      "name": "Like We Were Dreaming All This Time, Pt. 1",
-      "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
+      "duration_ms": 216666,
+      "name": "March 13 - Zoon Remix",
+      "url": "https://open.spotify.com/track/4aayAMzedeWHfKkQwPRixz"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1567,22 +1551,18 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "MK 3.5: In Your Eyes & A Deities Encore | Q & Quartz",
-        "url": "https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb"
+        "name": "Postcards for the Backyard, Pt. 1",
+        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Kai Campos",
-          "url": "https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH"
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
         }
       ],
-      "duration_ms": 122906,
-      "name": "Q",
-      "url": "https://open.spotify.com/track/6DkTpLhAsfsQNxnuZNMtVJ"
+      "duration_ms": 165701,
+      "name": "Like We Were Dreaming All This Time, Pt. 1",
+      "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1599,6 +1579,26 @@
       "duration_ms": 203994,
       "name": "A Light Without Flame",
       "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "MK 3.5: In Your Eyes & A Deities Encore | Q & Quartz",
+        "url": "https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Kai Campos",
+          "url": "https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH"
+        }
+      ],
+      "duration_ms": 122906,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/6DkTpLhAsfsQNxnuZNMtVJ"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 368703,
-      "name": "Music For Growing Flowers - Edit",
-      "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "Bomani",
         "url": "https://open.spotify.com/album/5mplZY05CkadQTzuyGpxXI"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt"
       },
       "artists": [
         {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
         }
       ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+      "duration_ms": 368703,
+      "name": "Music For Growing Flowers - Edit",
+      "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
     },
     {
       "added_at": "2022-11-11 06:22:45",
@@ -1743,6 +1727,22 @@
       "duration_ms": 400846,
       "name": "Nocturne 4 - Alva Noto Remodel",
       "url": "https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2022-11-11 06:22:45",

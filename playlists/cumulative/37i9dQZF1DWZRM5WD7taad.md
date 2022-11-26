@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Mare Advertencia Lirika en portada.
 
-123 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+125 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,11 @@
 | [Arrepentío](https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [Arrepentío](https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp) | 3:30 | 2022-04-18 |  |
 | [Ayuda](https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST) | 3:57 | 2021-12-13 |  |
 | [Bad Bitches Cry Too](https://open.spotify.com/track/46OogDeC6YVI8zvqH8hAkc) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Bad Bitches Cry Too](https://open.spotify.com/album/40PEpgToYvH1VVCzDYbVJy) | 2:25 | 2022-08-01 |  |
+| [Beefsito](https://open.spotify.com/track/0P9sHPhoFbflHX4E71QwfN) | [Plata Shail](https://open.spotify.com/artist/5QIgS0S5tO51LnPTrJeLsl) | [Beefsito](https://open.spotify.com/album/036cMzsW5hypPpnLvvGjzM) | 2:10 | 2022-11-25 |  |
 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-08-01 |  |
 | [Bienvenidx](https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Siempreviva](https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0) | 3:10 | 2022-03-08 |  |
 | [Bilingue](https://open.spotify.com/track/4eFXaYD2is6c6Y645Qyyy1) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Bilingue](https://open.spotify.com/album/3gpDzwcbJyZ9FwW0DrUWZf) | 2:51 | 2021-12-13 |  |
+| [BMW](https://open.spotify.com/track/16tiuDOR53aYCWOioh74cK) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [BMW](https://open.spotify.com/album/0O0bJzAu1uswYmCej2I6Hz) | 2:32 | 2022-11-25 |  |
 | [Boom Bap](https://open.spotify.com/track/2kIXwWsqqkSl16EaBBPHta) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU) | [Boom Bap](https://open.spotify.com/album/1H5CLSWK3L8JDv90crdOMS) | 4:08 | 2021-12-13 |  |
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2021-12-13 |  |
 | [Bounce](https://open.spotify.com/track/5q1wShNQKfniCCv097p00x) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/7yOETWq7Ft6mjRNQxgXyhY) | 2:38 | 2021-12-13 | 2022-07-29 |

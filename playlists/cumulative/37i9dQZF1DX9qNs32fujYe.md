@@ -2,7 +2,7 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Ozzy Osbourne
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Gojira
 
 678 songs - 2 day 2 hr 32 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 

@@ -11154,6 +11154,24 @@
     },
     {
       "album": {
+        "name": "SOS!",
+        "url": "https://open.spotify.com/album/0UtGfbUX6fBUwwWzRC9fT6"
+      },
+      "artists": [
+        {
+          "name": "Rozei",
+          "url": "https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165018,
+      "name": "SOS!",
+      "url": "https://open.spotify.com/track/5N5PENdTH9qAq8dMJFtQym"
+    },
+    {
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/5DGjGDSAtVT3wDvRfgOrWr"
       },

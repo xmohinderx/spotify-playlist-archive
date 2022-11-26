@@ -4,7 +4,7 @@
 
 > When emo and hardcore fell hard for each other.
 
-179 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
+180 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,10 +34,10 @@
 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 | 2021-12-07 |  |
 | [Buried a Lie](https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:59 | 2021-12-07 |  |
 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 | 2021-12-07 |  |
-| [Calling All Cars](https://open.spotify.com/track/4LtUNqSiFZzm70a7kM8hnc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:23 | 2021-12-07 |  |
+| [Calling All Cars](https://open.spotify.com/track/4LtUNqSiFZzm70a7kM8hnc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:23 | 2021-12-07 | 2022-11-26 |
 | [Calling All Cars](https://open.spotify.com/track/6rmTJ9n2KMbvMCjE9Fd5CC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/648NLiNFJhurepyJCjhVmF) | 3:23 | 2021-12-07 | 2022-07-29 |
 | [Can't Be Saved](https://open.spotify.com/track/1yo9liZKrCiuvM9StsWAOm) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/648NLiNFJhurepyJCjhVmF) | 3:07 | 2021-12-07 | 2022-07-29 |
-| [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2021-12-07 |  |
+| [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2021-12-07 | 2022-11-26 |
 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 | 2021-12-07 | 2022-07-21 |
 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 | 2021-12-07 |  |
 | [Caraphernelia](https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:28 | 2021-12-07 |  |
@@ -141,7 +141,7 @@
 | [Such Small Hands](https://open.spotify.com/track/0tksWgMFUovmWxDAnkebtO) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan) | 1:35 | 2021-12-07 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 | 2021-12-07 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 | 2021-12-07 | 2022-07-29 |
-| [The After Dinner Payback](https://open.spotify.com/track/3gBo8grQ7vtZGARZO43MeU) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [The Fiction We Live](https://open.spotify.com/album/4nGaOcWtMYbPfclwah1kHw) | 2:51 | 2021-12-07 | 2022-11-13 |
+| [The After Dinner Payback](https://open.spotify.com/track/3gBo8grQ7vtZGARZO43MeU) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [The Fiction We Live](https://open.spotify.com/album/4nGaOcWtMYbPfclwah1kHw) | 2:51 | 2021-12-07 |  |
 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 | 2021-12-07 |  |
 | [The Bird and the Worm](https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:45 | 2021-12-07 |  |
 | [The Day No One Needed to Know](https://open.spotify.com/track/118Tjo6Lfp8Li2JfYuGAeV) | [Moneen](https://open.spotify.com/artist/4V5SMPpyCIxr6VpvJ5cWpp) | [Red Tree](https://open.spotify.com/album/0XoHsdoupwoiTL0bTMvajH) | 5:50 | 2021-12-07 | 2022-07-13 |
@@ -165,6 +165,7 @@
 | [This Could Be Anywhere in the World](https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 4:03 | 2021-12-07 | 2022-07-29 |
 | [This War Is Ours \(The Guillotine II\)](https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [This War Is Ours \(Deluxe Edition\)](https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai) | 4:26 | 2021-12-07 |  |
 | [To The Stage](https://open.spotify.com/track/1zalQPA3y0Latbiis4motB) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Reckless And Relentless](https://open.spotify.com/album/3aFx7UfKu9KkyPFRGkgyeD) | 3:30 | 2021-12-07 | 2022-11-05 |
+| [To The Stage](https://open.spotify.com/track/3jY2pJZvTHb4E5GeiohGUb) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Reckless And Relentless](https://open.spotify.com/album/3SsE7P6yJI2HxP4BTbCfOT) | 3:30 | 2021-12-07 |  |
 | [Tree Village](https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL) | 3:21 | 2021-12-07 |  |
 | [Two As One](https://open.spotify.com/track/5c8WgLyOX9u4Al1hTP8tzK) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [From First To Last](https://open.spotify.com/album/799TGyJWzmF4THZpj9aCel) | 3:20 | 2021-12-07 | 2022-07-29 |
 | [Two Birds, One Stone](https://open.spotify.com/track/3CG2fXTfGM5XqfoaSboPYF) | [Drop Dead, Gorgeous](https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9) | [The Hot N' Heavy](https://open.spotify.com/album/4MG6jbYGRchamCZJieuKWW) | 3:27 | 2021-12-07 |  |

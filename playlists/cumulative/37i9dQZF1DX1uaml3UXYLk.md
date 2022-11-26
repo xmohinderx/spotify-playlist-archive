@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-505 songs - 1 day 8 hr 43 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+509 songs - 1 day 8 hr 52 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Deep In It](https://open.spotify.com/track/6jDNYiZgolknENBdlJa87J) | [Jo Paciello](https://open.spotify.com/artist/3DEPyHwyKPe3BzyhlXrSlM) | [Deep In It](https://open.spotify.com/album/507bZAKAlavbLLFYmMQbQK) | 6:00 | 2021-01-29 | 2021-03-25 |
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2021-11-10 |  |
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-03-25 |  |
+| [deepsy](https://open.spotify.com/track/7mGxDTe6pQHiRvCoXYzBJf) | [Needy Greedy](https://open.spotify.com/artist/1AihmL4bp8NyeuwuEg2IaP) | [deepsy](https://open.spotify.com/album/3ouLg1Gqmbf7id6JGCortX) | 2:04 | 2022-11-25 |  |
 | [Delphina](https://open.spotify.com/track/7yi2ZzgcknbtVih0sNyBDv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/73xkzFpXSccLAEV59fHhXQ) | 5:14 | 2020-10-20\* | 2021-06-23 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-10-16 | 2022-01-22 |
 | [Descartes](https://open.spotify.com/track/5XKueyuuTWO6Q3QqK47IOt) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 4:49 | 2020-10-20\* | 2021-03-25 |
@@ -244,6 +245,7 @@
 | [Late Dip](https://open.spotify.com/track/0Tk4qgJgj4iurLkTm48iGP) | [Analog Garden](https://open.spotify.com/artist/6KPnQEGaWDVZ4njE0lFNSO) | [Late Dip](https://open.spotify.com/album/7B6rmoWszdsNZqq1g9fR0N) | 2:23 | 2022-06-17 | 2022-07-01 |
 | [Late Night Rewind](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y) | [Reglisse](https://open.spotify.com/artist/5JSk86YHGR6UKHISzJDlp6) | [Late Night Rewind](https://open.spotify.com/album/4YBQ1woEiszGgoWydnWK3A) | 3:00 | 2021-02-12 |  |
 | [Lekkoo](https://open.spotify.com/track/1jSdFS2JKeAfn0xZTEHksx) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 3:10 | 2021-01-21 | 2022-06-24 |
+| [Lemon Chill](https://open.spotify.com/track/68ftFeFDbVK08MUF1NyMAI) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Lemon Chill](https://open.spotify.com/album/0JusNbO9M4ZAvvnmdMoU19) | 2:12 | 2022-11-25 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2021-07-09 |  |
 | [Let Me Be](https://open.spotify.com/track/5l8qKd0YbX0lTY672meWyP) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Let Me Be](https://open.spotify.com/album/0b2BeiQYPBLKxyKJiMg180) | 2:57 | 2020-11-13 | 2021-01-15 |
 | [Life Is So Beautiful](https://open.spotify.com/track/6luAShpeqHTE84A4pY6Zcg) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Life Is So Beautiful](https://open.spotify.com/album/5TDlvVG8byo9mRv80j9Zsg) | 2:02 | 2020-10-20\* | 2020-11-28 |
@@ -251,6 +253,7 @@
 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 | 2022-07-01 |  |
 | [Lofi Nights](https://open.spotify.com/track/1G56aVJLUwhQVO0Ke6QwWD) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Lofi Nights](https://open.spotify.com/album/2dhHvSNxPaA9laI6oyAHaC) | 4:25 | 2020-11-28 | 2021-04-15 |
 | [Lola](https://open.spotify.com/track/7tTL846SbtFK05waG77G0B) | [iugou](https://open.spotify.com/artist/6TcP3000og43MzgtTbIkvv) | [Lola](https://open.spotify.com/album/7EeHCYJmcrBeCM8eKXWeRa) | 6:21 | 2021-06-23 | 2021-08-25 |
+| [Loose Track](https://open.spotify.com/track/2Pb0kFoTW69caBRsiKN4Z8) | [Chilldine](https://open.spotify.com/artist/5iAKjp62cPdw1BgkXruG4O) | [Loose Track](https://open.spotify.com/album/1ujIEH3wOFopsIAKUTHgnX) | 3:11 | 2022-11-25 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-12 | 2022-08-05 |
 | [Love And Bass \- Art Alfie Remix](https://open.spotify.com/track/0oodhkRajpYiV6fwDU4jJS) | [Maneten](https://open.spotify.com/artist/2aHZqoxlKM0bQJEkgUVxhC), [Art Alfie](https://open.spotify.com/artist/7g9ewvDvPJxRVRCofG9xRY) | [Love And Bass \(Art Alfie Remix\)](https://open.spotify.com/album/4BwceKAMTvFX6pH9ak5hiu) | 8:50 | 2021-01-15 | 2021-03-06 |
 | [Love Recycled 1](https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Love Recycled EP](https://open.spotify.com/album/4BH7j7VQwM6V3C45tTRYj6) | 7:29 | 2021-01-29 | 2021-02-20 |
@@ -454,6 +457,7 @@
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2021-01-15 | 2022-05-11 |
 | [The Fix](https://open.spotify.com/track/4yMVp40lyblVSDpenqqFgB) | [Alex Harrington](https://open.spotify.com/artist/7pLUtCU60PW0ZqDUC2ZULh) | [Dangerous EP](https://open.spotify.com/album/0xlNs2p3Q4Asw5hKmmEi0x) | 3:36 | 2021-01-29 | 2021-02-12 |
 | [The Frame](https://open.spotify.com/track/3Aq16kI6C5pCXMfTu5Tp5o) | [Julian Obermann](https://open.spotify.com/artist/30023PFofTb80iVKWpAB9M) | [The Frame](https://open.spotify.com/album/5z5yAosTebigeAMh9Lex5g) | 2:07 | 2021-03-25 | 2022-08-05 |
+| [The Knight](https://open.spotify.com/track/5sbRAQCXRi3BN7SsNMDkoZ) | [SUNSY](https://open.spotify.com/artist/6QTuqSeb1X7zUghAQO8312) | [The Knight](https://open.spotify.com/album/7FKfgliK5MeJ7RZGdcEFGC) | 2:04 | 2022-11-25 |  |
 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 | 2020-10-20\* | 2021-05-13 |
 | [The Mesmerizing Circle](https://open.spotify.com/track/5CQVy5xnf7gb4J093YQkDg) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Dreamer](https://open.spotify.com/album/2O1yshzp8iyZFq1lhThaUg) | 6:57 | 2020-10-20\* | 2021-01-29 |
 | [The Rhythm Section](https://open.spotify.com/track/728uaKQI7UyB6q1f1A4jdH) | [Here we go!](https://open.spotify.com/artist/58X3mn1Nur7Oo4XHdCYHnl) | [The Rhythm Section](https://open.spotify.com/album/0eYmfB2FzX9LbkqcvevxSW) | 3:55 | 2021-11-10 | 2022-02-11 |

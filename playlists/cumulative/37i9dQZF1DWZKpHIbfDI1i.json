@@ -312,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Al Mando",
+        "url": "https://open.spotify.com/album/3KUjFdjVadbFYgQ3Q7Dgz4"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Al Mando",
+      "url": "https://open.spotify.com/track/0uEQGVBz5bCjBoomEm9GNL"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -407,6 +425,24 @@
       "duration_ms": 165428,
       "name": "Amigos \u00bfDe Qui\u00e9n?",
       "url": "https://open.spotify.com/track/472RYrDoNry11jkmJIWeat"
+    },
+    {
+      "album": {
+        "name": "KITSUNE",
+        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169418,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
       "album": {
@@ -569,7 +605,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 196352,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
@@ -585,7 +621,7 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "date_added": "2022-11-24",
+      "date_added": "2022-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159579,
@@ -711,6 +747,24 @@
       "duration_ms": 162832,
       "name": "B\u00e1jale",
       "url": "https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF"
+    },
+    {
+      "album": {
+        "name": "Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
     },
     {
       "album": {
@@ -911,6 +965,28 @@
       "duration_ms": 201000,
       "name": "Climaxxx",
       "url": "https://open.spotify.com/track/2KGJrjtOxnwfudK2lzVLOn"
+    },
+    {
+      "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "COLOGNE",
+      "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
     },
     {
       "album": {
@@ -1335,7 +1411,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 216208,
       "name": "C\u00f3mo Poder Olvidar - Spotify Singles",
       "url": "https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw"
@@ -1953,7 +2029,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 182684,
       "name": "El Fantasma",
       "url": "https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd"
@@ -2383,7 +2459,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 179799,
       "name": "eScoRpi\u00d3n :)",
       "url": "https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan"
@@ -2757,7 +2833,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 199250,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
@@ -2949,7 +3025,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
@@ -3543,7 +3619,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 153160,
       "name": "Maldita Faja",
       "url": "https://open.spotify.com/track/3wn456xCRhD8NAVAl7O1U2"
@@ -4143,7 +4219,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 174626,
       "name": "M\u00eda Un A\u00f1o",
       "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
@@ -4855,7 +4931,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 206000,
       "name": "Por Ti - Spotify Singles",
       "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
@@ -5290,6 +5366,24 @@
     },
     {
       "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
+    },
+    {
+      "album": {
         "name": "Si Es Cierto Que Te Vas",
         "url": "https://open.spotify.com/album/2gHy7XdAt8pUrtB2mWq2f3"
       },
@@ -5373,7 +5467,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 205226,
       "name": "Si Yo Fuera T\u00fa",
       "url": "https://open.spotify.com/track/7jlCousvJcY7KH5yHgXd2d"
@@ -5519,7 +5613,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 191117,
       "name": "Solo En Navidad",
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
@@ -6129,7 +6223,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 213281,
       "name": "Ultimate (ft. Snow Tha Product)",
       "url": "https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT"
@@ -6209,6 +6303,24 @@
       "duration_ms": 226776,
       "name": "Un Nuevo Amor",
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+    },
+    {
+      "album": {
+        "name": "Un Viaje a Todas Partes (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1BQBLXaMxMEwSsnuxTgdbE"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Un Viaje a Todas Partes - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/12AyVdnjbSyH00nrZXowIl"
     },
     {
       "album": {

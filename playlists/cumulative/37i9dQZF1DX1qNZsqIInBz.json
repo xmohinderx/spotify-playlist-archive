@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 166338,
       "name": "Memories of the Past",
       "url": "https://open.spotify.com/track/5nr2DfL7RtMyNyLLHaYkBo"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 185387,
       "name": "MINDSET",
       "url": "https://open.spotify.com/track/7AopDNQE6cqEydT5zv96MN"
@@ -1460,6 +1460,28 @@
     },
     {
       "album": {
+        "name": "OBLIVION",
+        "url": "https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "HOSPICEMANE",
+          "url": "https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192012,
+      "name": "OBLIVION",
+      "url": "https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9"
+    },
+    {
+      "album": {
         "name": "OCCUPATION",
         "url": "https://open.spotify.com/album/00pHqxRbtuMXzMfbT5AA9z"
       },
@@ -1693,6 +1715,28 @@
       "duration_ms": 192000,
       "name": "South",
       "url": "https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/0qh0hHIeYCqBJaDv7r12uR"
+      },
+      "artists": [
+        {
+          "name": "zetuv",
+          "url": "https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9"
+        },
+        {
+          "name": "Proof Nation",
+          "url": "https://open.spotify.com/artist/7CV2yBOPHytA4ZrSPsjoLA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145050,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/0W0KjUBX70GxtgVXraTcf9"
     },
     {
       "album": {

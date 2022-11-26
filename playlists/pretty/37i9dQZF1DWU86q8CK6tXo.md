@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:1GDbiv3spRmZ1XdM1jQbT7”>Natti Natasha</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,824 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,869 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 29 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 |
 | 30 | [Sin Carné](https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sin Carné](https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc) | 1:57 |
 | 31 | [Surrender My Heart](https://open.spotify.com/track/0Fx3fYbcYx3iDNrduNMlde) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:48 |
-| 32 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 |
-| 33 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
+| 32 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
+| 33 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 |
 | 34 | [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 |
 | 35 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
 | 36 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 |
 | 50 | [Keep The Change](https://open.spotify.com/track/2VlR46jqhpWZKmD8RmZCWl) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Keep The Change](https://open.spotify.com/album/0KePZJdZrkswyYtFmY4ZzC) | 3:07 |
 
-Snapshot ID: `MTY2NzQwNDE5OCwwMDAwMDAwMDJhMTYwZmJlODA4MjdmNDU1NDJhNDU1YzcyNjg3OTEw`
+Snapshot ID: `MTY2NzQwNDE5OCwwMDAwMDAwMGM5MzIwYTEwNjA3OWM5OGI4NzIxMWIwNmFhYjJkMThm`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> Explore the ever\-evolving folk & roots scene\. Cover: Molly Tuttle
+> Explore the ever\-evolving folk & roots scene\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,836,464 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,836,616 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Shine](https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 3:31 |
 | 100 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGFhY2YzZWQzOGUzMzcyZjRlOGRhNDM4YzliYzFmY2Vl`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDUxNmMxZThkZDc1MGI0MmRhNDBlYjU3NTNjOGFiMzdh`

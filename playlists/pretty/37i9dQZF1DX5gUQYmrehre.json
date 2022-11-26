@@ -1,12 +1,12 @@
 {
   "description": "Cutting edge LGBTQQIA+ artists from around the world. Cover: Nakhane",
-  "num_followers": 3605,
+  "num_followers": 3614,
   "original_name": "Pride Beyond Borders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI0MTk2NSwwMDAwMDAwMDJhYzlhN2QyOTI2M2YyZjY4OTlmMTBhYWQ0NjcyOWVi",
+  "snapshot_id": "MTY1ODI0MTk2NSwwMDAwMDAwMGIwZTljNTI2MmJmZjI4Y2U0ZDZjY2VhNzdjY2FiZjFm",
   "tracks": [
     {
       "added_at": "2022-05-31 15:00:52",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "Socadona (feat. Mr. Vegas)",
         "url": "https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 186000,
       "name": "Socadona (feat. Mr. Vegas)",
       "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -563,6 +563,26 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
         "name": "The Line Is A Curve",
         "url": "https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 194208,
       "name": "GET ME OUTTA HERE",
       "url": "https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
-        "name": "Black Girl Magic",
-        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Ramona Renea",
-          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
-      "url": "https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "PLS",
-        "url": "https://open.spotify.com/album/22EjrJkCcqfRJxvpzrYFSi"
-      },
-      "artists": [
-        {
-          "name": "SILVY",
-          "url": "https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA"
-        }
-      ],
-      "duration_ms": 189886,
-      "name": "PLS",
-      "url": "https://open.spotify.com/track/57xPM0jBBOp7veS1iRdhUK"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "All My Love Is Coming Back To Me",
         "url": "https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 209126,
       "name": "All My Love Is Coming Back To Me",
       "url": "https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "PLS",
+        "url": "https://open.spotify.com/album/22EjrJkCcqfRJxvpzrYFSi"
+      },
+      "artists": [
+        {
+          "name": "SILVY",
+          "url": "https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA"
+        }
+      ],
+      "duration_ms": 189886,
+      "name": "PLS",
+      "url": "https://open.spotify.com/track/57xPM0jBBOp7veS1iRdhUK"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
+        "name": "Hauntology",
+        "url": "https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "Hauntology",
+      "url": "https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
         "name": "Night Creature",
         "url": "https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 191369,
       "name": "True Love to the Grave (feat. Claudia Kane)",
       "url": "https://open.spotify.com/track/7fAIvRHDjuIZLK14loAHZn"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
-        "name": "Hauntology",
-        "url": "https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG"
-      },
-      "artists": [
-        {
-          "name": "Lauren Auder",
-          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "Hauntology",
-      "url": "https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "We Can Fall In Love",
-        "url": "https://open.spotify.com/album/6Xl87KkwJzjbfk8Y2Zi03u"
-      },
-      "artists": [
-        {
-          "name": "Mx Blouse",
-          "url": "https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE"
-        }
-      ],
-      "duration_ms": 164675,
-      "name": "We Can Fall In Love",
-      "url": "https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "Ugh!",
         "url": "https://open.spotify.com/album/6Gqz4oULt6kpw2wXnvkZd1"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 170456,
       "name": "Don't Sleep With My Ex",
       "url": "https://open.spotify.com/track/4XsiUNF37jG3h9JXuILJO3"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "We Can Fall In Love",
+        "url": "https://open.spotify.com/album/6Xl87KkwJzjbfk8Y2Zi03u"
+      },
+      "artists": [
+        {
+          "name": "Mx Blouse",
+          "url": "https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE"
+        }
+      ],
+      "duration_ms": 164675,
+      "name": "We Can Fall In Love",
+      "url": "https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh"
     },
     {
       "added_at": "2022-07-19 14:46:05",

@@ -2,7 +2,7 @@
 
 ### [Soft 00s](https://open.spotify.com/playlist/37i9dQZF1DXdGHPXiRsW3u)
 
-> Mellow songs from the 2000s\. Cover: Christina Aguilera.
+> Mellow songs from the 2000s.
 
 280 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/6WzeCAKfLBdNdOPGxWapt7)
 
@@ -67,7 +67,7 @@
 | [Could I Have This Kiss Forever \(with Enrique Iglesias\) \- Metro Mix/Remastered: 2000](https://open.spotify.com/track/3BCqG9GBF7GjJQHwJvlqSv) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 3:55 | 2021-11-18 | 2022-07-28 |
 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 | 2021-11-18 |  |
 | [Cry Me Out](https://open.spotify.com/track/0ksRBx9UdAOdG7LcMmmxkk) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 4:04 | 2021-11-18 | 2022-11-13 |
-| [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 | 2021-11-18 | 2022-07-29 |
+| [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 | 2021-11-18 |  |
 | [Dilemma](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 4:49 | 2021-11-18 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Divine Discontent](https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0) | 4:03 | 2021-11-18 |  |
 | [Don't Forget About Us \- Radio Edit](https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:53 | 2022-05-30 |  |
@@ -153,7 +153,7 @@
 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 | 2021-11-18 |  |
 | [Love Like This \(feat\. Sean Kingston\)](https://open.spotify.com/track/49ppqF73rOz5Nyt1paRxIF) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:42 | 2022-05-30 |  |
 | [Love Like This \(feat\. Sean Kingston\)](https://open.spotify.com/track/2FDXMNnzPstPQgZ1BM4vX0) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Love Like This \(feat\. Sean Kingston\)](https://open.spotify.com/album/2lji7DEs8o3zSzSglRNn5L) | 3:43 | 2021-11-18 | 2022-07-29 |
-| [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2021-11-18 |  |
+| [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2021-11-18 | 2022-11-26 |
 | [Love's Divine](https://open.spotify.com/track/1SyTqslGBzoe45hw3Ov0gp) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal IV](https://open.spotify.com/album/2t5uFPva3HDjT8PqGm73cJ) | 4:33 | 2021-11-18 | 2022-07-12 |
 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 | 2022-05-30 |  |
 | [Lucky](https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 3:09 | 2021-11-18 | 2022-07-29 |

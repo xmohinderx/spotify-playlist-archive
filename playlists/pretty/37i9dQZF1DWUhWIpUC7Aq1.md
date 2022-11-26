@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,131 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,430 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 14 | [The Suburbs](https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:15 |
 | 15 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
 | 16 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
-| 17 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
-| 18 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
+| 17 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
+| 18 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
 | 19 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 20 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
 | 21 | [God Only Knows \- Mono / 1997 Remastered](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 54 | [Somebody That I Used To Know](https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:09 |
 | 55 | [Blue Skies](https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [The First Days Of Spring](https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s) | 4:07 |
 | 56 | [Oh to Be in Love](https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 3:18 |
-| 57 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 |
-| 58 | [The District Sleeps Alone Tonight \- Remastered](https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:43 |
+| 57 | [The District Sleeps Alone Tonight \- Remastered](https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:43 |
+| 58 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 |
 | 59 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
 | 60 | [Cut Your Bangs](https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu) | 2:06 |
 | 61 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 85 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
 | 86 | [Hotel Song](https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:27 |
 | 87 | [Lived In Bars](https://open.spotify.com/track/32mIImwxWx41xGa2ipEbfN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:44 |
-| 88 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
-| 89 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
+| 88 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
+| 89 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
 | 90 | [You Should All Be Murdered](https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 4:38 |
 | 91 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
 | 92 | [Nothing To Be Done](https://open.spotify.com/track/4vReegUzNPc2t06jJKgieU) | [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP) | [Truckload Of Trouble](https://open.spotify.com/album/2ghVoguFTuCBLKSuDeojQ1) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [Let's Talk About Spaceships](https://open.spotify.com/track/19mrtanHo3t9Qa2GaKMEkz) | [Say Hi](https://open.spotify.com/artist/2da7ehIX9lFyIDqmjqVZvS) | [Numbers & Mumbles](https://open.spotify.com/album/75uYCevfxAInfAFSrBUBIa) | 3:03 |
 | 100 | [It's Okay](https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Some Are Lakes](https://open.spotify.com/album/0LcNbby41jxxvg5nrgwsvo) | 4:54 |
 
-Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMGE2YzQzZWJlYjA4ZTZkODUyYjRlZDgyZGY0NGY4YWQ3`
+Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMDhiZTBiNTRlZDE4OTNiODEwMzFkMjQyYTA3NjBhODA4`

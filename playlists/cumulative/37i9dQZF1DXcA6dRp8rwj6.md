@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Stormzy\)
 
-854 songs - 1 day 19 hr 42 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+856 songs - 1 day 19 hr 49 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-02-24 | 2022-03-18 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-02 | 2022-07-22 |
 | [i see london i see france](https://open.spotify.com/track/4wwoTaV7tQmGTshV7aYjBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i see london i see france](https://open.spotify.com/album/4SwqPUwME35rcRv2J30WYx) | 2:32 | 2022-10-13 |  |
+| [I Swear \(feat\. Lul Timm\)](https://open.spotify.com/track/5eTBBqeELbM67DaQ2l5f1Z) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Lul Timm](https://open.spotify.com/artist/4Xar68aJpS6MogtDg8gNiA) | [3860](https://open.spotify.com/album/43cDHyzNftlde27nFt8rhV) | 2:36 | 2022-11-24 |  |
 | [I Used to Dream](https://open.spotify.com/track/0HlCGQAJI7kjRSRisEH0Ed) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [I Used to Dream](https://open.spotify.com/album/1zAyBzF02DgJ6C1rNDWe9B) | 2:59 | 2022-11-10 |  |
 | [I'm Back](https://open.spotify.com/track/2Ia6RwgTNL8vEt3OPDug0Q) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [I'm Back](https://open.spotify.com/album/7CnPUrBLGflfryoy1PRoc6) | 2:08 | 2022-01-20 | 2022-02-04 |
 | [I'm Good](https://open.spotify.com/track/0NERHZ0a3KX3BUPHi88bUj) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [The Heaven Experience, Vol\. 1](https://open.spotify.com/album/0lQUDDBMXBJGaRVeRTXnci) | 3:43 | 2022-08-11 | 2022-09-16 |
@@ -536,6 +537,7 @@
 | [On My Way](https://open.spotify.com/track/1N52PJn3aAJUAafET6LnDD) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [On My Way](https://open.spotify.com/album/5fuxLL2VKGqdOv0qP9jD4u) | 1:59 | 2022-07-14 | 2022-08-26 |
 | [ON TEN](https://open.spotify.com/track/1Hdh6lJUR1WZCiNPVWxLTA) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ON TEN](https://open.spotify.com/album/7dsfBzyi25OojkxXIBbk9q) | 2:17 | 2022-06-23 | 2022-07-29 |
 | [One For The Old School \(feat\. twlv\)](https://open.spotify.com/track/0kTPtHLqy09LxqYwiSsqRV) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [One For The Old School \(feat\. twlv\)](https://open.spotify.com/album/4rs3oxnLGxXGFmDVdootNr) | 2:17 | 2022-02-24 | 2022-03-18 |
+| [One More](https://open.spotify.com/track/0FbUdx3SdNnouUTwDfedrD) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [One More](https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3) | 3:38 | 2022-11-24 |  |
 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 | 2022-01-20 | 2022-02-11 |
 | [One Thing](https://open.spotify.com/track/4KN7Dyp6onDaS5zqgX3reu) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [One Thing](https://open.spotify.com/album/4n2mRyACy9suq6WFquup5k) | 1:37 | 2022-07-01 | 2022-07-15 |
 | [One Time](https://open.spotify.com/track/4Q0HwxjwDAPq7doGaLUxCk) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [One Time](https://open.spotify.com/album/4bSCnj5Mlp6fixSnzYQTmq) | 2:01 | 2022-07-21 | 2022-08-26 |

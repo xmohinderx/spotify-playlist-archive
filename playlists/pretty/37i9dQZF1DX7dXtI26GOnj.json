@@ -1,87 +1,15 @@
 {
-  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Rauw Alejandro",
-  "num_followers": 102052,
+  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Karol G",
+  "num_followers": 102250,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDNjZDYwN2NhYzY2NmM0ZDI4YTA1ZjI5NTA3OWMyOTg2",
+  "snapshot_id": "MTY2OTM5NTQwNCwwMDAwMDAwMDViNDkzZjRhODQyZGJjZDkyNjZhOGQwOGQ1M2I3Mjdk",
   "tracks": [
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "LEJOS DEL CIELO",
-        "url": "https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Monoton\u00eda",
-        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "Monoton\u00eda",
-      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "CAIRO",
         "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
@@ -101,7 +29,83 @@
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "added_at": "2022-11-26 01:30:00",
+      "album": {
+        "name": "A Veces (feat. Feid)",
+        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191555,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
@@ -117,7 +121,31 @@
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
@@ -137,7 +165,7 @@
       "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
@@ -169,47 +197,23 @@
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+        "name": "DISCO VOADOR",
+        "url": "https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+      "duration_ms": 158575,
+      "name": "pSi Lo saBE",
+      "url": "https://open.spotify.com/track/1pIqjlJdi5ubGWfaaCIrh6"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
@@ -225,7 +229,7 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
@@ -245,7 +249,7 @@
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -265,27 +269,43 @@
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 192477,
-      "name": "X \u00daLTIMA VEZ",
-      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-26 01:30:00",
+      "album": {
+        "name": "Ulala",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188009,
+      "name": "Ulala",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "PUNTO 40",
         "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
@@ -305,7 +325,27 @@
       "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
@@ -345,7 +385,7 @@
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
@@ -361,43 +401,7 @@
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "\u00c9xtasis",
-        "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 191606,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Yonaguni",
         "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
@@ -413,7 +417,23 @@
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
@@ -433,23 +453,27 @@
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+        "name": "\u00c9xtasis",
+        "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+      "duration_ms": 191606,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "pa quererte",
         "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
@@ -465,67 +489,39 @@
       "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Nos Comemos (feat. Ozuna)",
-        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 191086,
-      "name": "Nos Comemos (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+      "duration_ms": 201180,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 188106,
-      "name": "LA FAMA",
-      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "D\u00c1KITI",
         "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
@@ -545,43 +541,67 @@
       "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 201180,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "El Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 234706,
-      "name": "El Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
+      "duration_ms": 188106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
@@ -605,10 +625,10 @@
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "La Loto",
-        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
       },
       "artists": [
         {
@@ -616,36 +636,16 @@
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 190666,
-      "name": "La Loto",
-      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+      "duration_ms": 197647,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
@@ -665,7 +665,27 @@
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
@@ -721,7 +741,63 @@
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "La Loto",
+        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "LEJOS DEL CIELO",
+        "url": "https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Nos Comemos Vivos",
         "url": "https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww"
@@ -741,7 +817,7 @@
       "url": "https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
@@ -761,67 +837,7 @@
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "El Que Espera",
-        "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 170396,
-      "name": "El Que Espera",
-      "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Amigos (con Maria Becerra)",
         "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
@@ -841,7 +857,47 @@
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "El Que Espera",
+        "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 170396,
+      "name": "El Que Espera",
+      "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
@@ -861,27 +917,7 @@
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Felices Perdidos",
-      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
@@ -905,7 +941,7 @@
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
@@ -921,7 +957,27 @@
       "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Felices Perdidos",
+      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Sin Novia",
         "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
@@ -937,7 +993,7 @@
       "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
@@ -957,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Sin Fin",
         "url": "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l"
@@ -977,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
@@ -997,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Si Supieras",
         "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
@@ -1017,7 +1073,7 @@
       "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "AMANTES",
         "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
@@ -1037,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "MAL DE AMOR",
         "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
@@ -1057,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
@@ -1077,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "La Ni\u00f1a",
         "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
@@ -1101,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
@@ -1121,7 +1177,7 @@
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Mal Acostumbrao (con Maria Becerra)",
         "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
@@ -1141,7 +1197,7 @@
       "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Envolver Remix",
         "url": "https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY"
@@ -1161,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Te Olvido",
         "url": "https://open.spotify.com/album/670aQBkW0Vvjz8GFVOVRJT"
@@ -1177,7 +1233,7 @@
       "url": "https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
@@ -1197,27 +1253,7 @@
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Una Nota",
-      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
@@ -1237,31 +1273,7 @@
       "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Tic Tac",
-        "url": "https://open.spotify.com/album/4tv1S6EVGUU9NoOnn9tVXF"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Topo La Maskara",
-          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
-        }
-      ],
-      "duration_ms": 176290,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/68xg9tAB603bMnsCg7OD3Z"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Nobody Like Yo",
         "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
@@ -1277,39 +1289,7 @@
       "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "La Ducha Remix (con Becky G, Tini)",
-        "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 274437,
-      "name": "La Ducha Remix (con Becky G, Tini)",
-      "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA"
@@ -1333,7 +1313,27 @@
       "url": "https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Una Nota",
+      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
@@ -1353,7 +1353,7 @@
       "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
@@ -1393,7 +1393,7 @@
       "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Apretaito",
         "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
@@ -1413,7 +1413,7 @@
       "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Wow Wow (feat. Becky G)",
         "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
@@ -1433,7 +1433,7 @@
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "ME PASE (feat. Farruko)",
         "url": "https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ"
@@ -1453,39 +1453,7 @@
       "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
     },
     {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Un Ratito",
-        "url": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
+      "added_at": "2022-11-25 03:00:00",
       "album": {
         "name": "Vacaciones",
         "url": "https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG"

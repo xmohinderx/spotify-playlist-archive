@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-112 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
+113 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Deck The Halls](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2021-12-21 |  |
 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-12-21 |  |
 | [Dig That Crazy Santa Claus](https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k) | [Ralph Marterie](https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38), [Ralph Marterie and His Orchestra](https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:32 | 2021-12-21 |  |
-| [Frosty The Snowman \- Alternate Take](https://open.spotify.com/track/3HAb7X4nme7Ke4heOTwncF) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2021-12-21 |  |
+| [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2022-11-25 |  |
+| [Frosty The Snowman \- Alternate Take](https://open.spotify.com/track/3HAb7X4nme7Ke4heOTwncF) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2021-12-21 | 2022-11-26 |
 | [Hang Your Lights](https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 4:56 | 2021-12-21 |  |
 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:36 | 2021-12-21 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 3:06 | 2021-12-21 |  |

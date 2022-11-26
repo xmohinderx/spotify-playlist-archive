@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439 likes - 38 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442 likes - 38 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 12 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
 | 13 | [Fever Queen](https://open.spotify.com/track/2hWnuDzcKznJvlCxuRgfaA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 2:56 |
 | 14 | [April Ha Ha](https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:20 |
-| 15 | [Bent Nail](https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 2:57 |
+| 15 | [Dig](https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:02 |
 | 16 | [Us/We/are](https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:34 |
 | 17 | [Eaten by Worms](https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 5:00 |
 | 18 | [Bernie Sanders](https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:07 |
-| 19 | [Dig](https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:02 |
+| 19 | [Bent Nail](https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 2:57 |
 | 20 | [You Wind Me Up](https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:59 |
 | 21 | [Nineteen Ninety Heaven](https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:40 |
 | 22 | [In Blueberry Memories](https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 5:18 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 37 | [The Rites of Love and Death](https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:50 |
 | 38 | [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAzNDAzYjY3ZTdlOWFiNzY5MjhkOTk2NjkxZDIwMjcxYQ==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDAyMmNmMGExMDkwY2FlMWNkMGJhNDIwN2Q3N2U2MmIzZg==`

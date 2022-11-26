@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 553689,
+  "num_followers": 554162,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMGY3YjIxOGRjM2FlNzc1Mzc5YWI4ZjM3OWJhZjAyMzM3",
+  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDMwOGMxZTRmODg1ZTUxMjRlMTFiZmY3ZTEzODYzYjFj",
   "tracks": [
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1819,6 +1819,30 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Aroma",
+        "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Cositas de la USA",
         "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
       },
@@ -1911,30 +1935,6 @@
       "duration_ms": 237627,
       "name": "Fragancia (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Aroma",
-        "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb"
     },
     {
       "added_at": "2022-11-21 18:03:24",

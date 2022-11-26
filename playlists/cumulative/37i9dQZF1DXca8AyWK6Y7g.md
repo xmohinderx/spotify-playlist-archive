@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment \- cover: Reneé Rapp
 
-1,413 songs - 3 day 0 hr 24 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,415 songs - 3 day 0 hr 29 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,7 +645,7 @@
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2019-06-15 |
 | [Illusion](https://open.spotify.com/track/53I38TLjBU1cHfXsBGxh6M) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Illusion](https://open.spotify.com/album/5eTmHILPX2VUkrRSbhqMlk) | 2:49 | 2022-11-04 | 2022-11-12 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 | 2022-08-17 |
-| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 |  |
+| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 | 2022-11-26 |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-05-22 | 2022-03-26 |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-20 | 2022-06-06 |
 | [Indecision](https://open.spotify.com/track/0lWGZP8adQnEeLFdvYlL2P) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Indecision](https://open.spotify.com/album/0ZyxNEjTLCcE2bk1PpNpP9) | 2:31 | 2020-09-25 | 2021-01-15 |
@@ -698,6 +698,7 @@
 | [Kiss Face](https://open.spotify.com/track/41dnfaWIa5at38F5ANOZr3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Kiss Face](https://open.spotify.com/album/6fAWKIRjxt4NTIdENraWci) | 2:35 | 2022-08-12 | 2022-09-17 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-20 | 2022-01-08 |
 | [Kiss Me Right Now](https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 4:00 | 2022-05-06 | 2022-07-29 |
+| [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 | 2022-11-25 |  |
 | [Know This Love \(feat\. Litens\)](https://open.spotify.com/track/5miQGFoYZPv5JCNzSoEbWt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Litens](https://open.spotify.com/artist/2UPXaOMAUoDejs8gwvElii) | [Know This Love \(feat\. Litens\)](https://open.spotify.com/album/1qMYj1vvj1qspuBqUmP33o) | 3:45 | 2019-05-26\* | 2019-08-13 |
 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 | 2020-06-12 | 2021-03-22 |
 | [LA COMBI VERSACE \(feat\. Tokischa\)](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 | 2022-03-18 | 2022-04-21 |
@@ -1151,6 +1152,7 @@
 | [Spend Some Money](https://open.spotify.com/track/6ZEy0mLwBQ5KMZgiVi4BFB) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1Yh0SmqjhblyCIsjSM7COY) | 2:14 | 2022-07-15 | 2022-07-22 |
 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 | 2021-06-12 | 2021-11-20 |
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2019-06-27 | 2020-04-18 |
+| [Stacy's Brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Stacy's Brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 | 2022-11-25 |  |
 | [Starlight](https://open.spotify.com/track/3nqVMuqHr47plQkOn4pfu5) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Starlight](https://open.spotify.com/album/3oCkgF8JN5ZsxAKGZU4U1f) | 4:02 | 2019-05-26\* | 2019-08-13 |
 | [Starstruck](https://open.spotify.com/track/2WJVFqVQ3ivhAoAQWzEzeL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Starstruck](https://open.spotify.com/album/6QrZRFMwgFNXV0d5N7ndUW) | 3:27 | 2021-04-23 | 2022-01-08 |
 | [Starstruck \- Vegyn Remix](https://open.spotify.com/track/1DuPTyxPS2oiZMgLAF11gj) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Starstruck \(Vegyn Remix\)](https://open.spotify.com/album/6GJDNkrgXK9vjiJbK9g9qa) | 3:48 | 2021-06-20 | 2021-11-20 |
@@ -1330,7 +1332,7 @@
 | [Used To You](https://open.spotify.com/track/7t3Ldw0z7zS0WyzlV7aJGV) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Used To You](https://open.spotify.com/album/1wsDnm2tdaK86BQs5gth5f) | 3:12 | 2019-05-26\* | 2019-06-15 |
 | [Vertigo](https://open.spotify.com/track/3oPo4NNfp4CZCtV5I6P7Bm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vertigo](https://open.spotify.com/album/2z6ruRHlcugqblwV17FfqA) | 2:50 | 2022-03-11 | 2022-03-26 |
 | [VHS](https://open.spotify.com/track/4qWBvOvvNPxLqUbzlEeP8n) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [VHS](https://open.spotify.com/album/5dpCCx6F2ECsqnrdmwNGCH) | 2:15 | 2019-05-26\* | 2019-08-13 |
-| [Vibe](https://open.spotify.com/track/3BV2uhqrUnHif4ZFI5l8Np) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Vibe](https://open.spotify.com/album/5lg6gTticE7LQBi3EFxXhA) | 2:34 | 2022-09-09 |  |
+| [Vibe](https://open.spotify.com/track/3BV2uhqrUnHif4ZFI5l8Np) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Vibe](https://open.spotify.com/album/5lg6gTticE7LQBi3EFxXhA) | 2:34 | 2022-09-09 | 2022-11-26 |
 | [Vice Versa](https://open.spotify.com/track/69Hc0ZGMFjOhxnFPOpYc29) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Vice Versa](https://open.spotify.com/album/3MQhHWeO9PcFUVaHg3Q719) | 2:56 | 2022-01-07 | 2022-01-10 |
 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 | 2022-09-17 |
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2022-10-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,732 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,755 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 6 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
 | 7 | [Baby Please Don't Go](https://open.spotify.com/track/5FDGmW9TgycCTVwPnKZ4xC) | [The Amboy Dukes](https://open.spotify.com/artist/5cVLuEqb7aOHuzwssXHzWI) | [Journey To The Center Of The Mind](https://open.spotify.com/album/1C7Z6X7m9uxVP9Jtaoyvj5) | 5:38 |
 | 8 | [Unconscious Power](https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Heavy](https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW) | 2:30 |
-| 9 | [Codine](https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf) | 4:32 |
+| 9 | [Leavin' Trunk](https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H) | [Keef Hartley Band](https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2) | [Halfbreed](https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi) | 5:56 |
 | 10 | [Death Sound](https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 4:26 |
-| 11 | [Leavin' Trunk](https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H) | [Keef Hartley Band](https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2) | [Halfbreed](https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi) | 5:56 |
+| 11 | [Codine](https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf) | 4:32 |
 | 12 | [Gold And Silver](https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Quicksilver Messenger Service](https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY) | 6:43 |
 | 13 | [Slip Inside This House \- Stereo LP Version](https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [Easter Everywhere](https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik) | 8:02 |
 | 14 | [A Child of a Few Hours Is Burning to Death](https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [A Child's Guide To Good And Evil](https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF) | 2:41 |
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 26 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
 | 27 | [Miss Evil](https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Hibernated \- Earth Omen](https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F) | 6:24 |
 | 28 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
-| 29 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
-| 30 | [Sometimes I Think About](https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Lollipop](https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX) | 4:10 |
+| 29 | [Sometimes I Think About](https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Lollipop](https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX) | 4:10 |
+| 30 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
 | 31 | [Crystal Blues](https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Here We Are Again](https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH) | 6:23 |
 | 32 | [Good Times Are So Hard To Find](https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [Good Times Are So Hard To Find](https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9) | 3:18 |
 | 33 | [You Shouldn't Do That \- 1996 Remaster](https://open.spotify.com/track/1yC4zXWJuywuVp5Hm5nobQ) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 15:41 |
 | 34 | [The World's On Fire](https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 8:25 |
 | 35 | [a\) Take Me For A Little While b\) RYFI \(Illusions Of My Childhood\-Part Three\)](https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI) | [Vanilla Fudge](https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1) | [Vanilla Fudge](https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh) | 3:55 |
-| 36 | [Get Yourself Home \- Remastered](https://open.spotify.com/track/1I6z0Y0PBQvDPJUmsV8Uk4) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [The Pretty Things \(Remastered\)](https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q) | 2:15 |
-| 37 | [If Not This Time](https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV) | [Fifty Foot Hose](https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM) | [Cauldron](https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz) | 3:38 |
-| 38 | [We Ain't Got Nothin' yet](https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Resurrection](https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ) | 2:17 |
+| 36 | [We Ain't Got Nothin' yet](https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Resurrection](https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ) | 2:17 |
+| 37 | [Get Yourself Home \- Remastered](https://open.spotify.com/track/1I6z0Y0PBQvDPJUmsV8Uk4) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [The Pretty Things \(Remastered\)](https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q) | 2:15 |
+| 38 | [If Not This Time](https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV) | [Fifty Foot Hose](https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM) | [Cauldron](https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz) | 3:38 |
 | 39 | [Mr\. Blues](https://open.spotify.com/track/2ENMAIS4aSOHzqaPIXCHiI) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Listen My Friends! The Best Of Moby Grape](https://open.spotify.com/album/5J7SaPEpEp91QraSb8WkRV) | 1:58 |
 | 40 | [Don't Call Us, We'll Call You \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC) | [Sugarloaf](https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH) | [Don't Call Us, We'll Call You \(Re\-Recorded\)](https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic) | 3:22 |
 | 41 | [Lucille \(1970 BBC Top Gear Radio Broadcast\)](https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP) | [The Pink Fairies](https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE) | [Fuzz Freakout 1970\-1971](https://open.spotify.com/album/2jUV53kqy8Y04JLKXNdZU5) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 | 50 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDZiNTFmMmNhOGUxNjk0YzY4NmI5MjY0ZTY5ZDA3Mzg1`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDZiYjliZDFjODJiNDkwZWE4YWZiYTY3NGYyN2MxNDJm`

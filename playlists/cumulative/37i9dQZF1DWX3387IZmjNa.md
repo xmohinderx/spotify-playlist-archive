@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: A Boogie Wit Da Hoodie
 
-229 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
+230 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Ride For You \(feat\. Kehlani\)](https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:02 | 2021-10-01 | 2022-04-09 |
 | [Round & Round](https://open.spotify.com/track/6CcS9wHavuQD6KjqsrMvdr) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Round & Round](https://open.spotify.com/album/1TdRRrPUGr61rj3UIRI9TO) | 2:30 | 2022-10-21 | 2022-11-12 |
 | [Scorpio](https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3) | 2:45 | 2021-10-22 | 2022-06-11 |
+| [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 3:36 | 2022-11-25 |  |
 | [Self Worth \(feat\. Lil Perco\)](https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [Lil Perco](https://open.spotify.com/artist/1zBajAbkG72h752UzxeUAB) | [Vultures Don't Kry](https://open.spotify.com/album/1ZD7JYrhxigRGhjzpPzEJ3) | 2:52 | 2022-08-19 | 2022-10-22 |
 | [Settled \(feat\. Russ\)](https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [The Blue Hour](https://open.spotify.com/album/4DTVVsFW3Jhi4Jw8flTAGR) | 3:41 | 2022-07-15 | 2022-11-05 |
 | [Shordie \(with Gunna\)](https://open.spotify.com/track/2ZE0OhDfa8xiNAV6Uthbb9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/1fM9bkdf6IqvhnPrUK7WeZ) | 2:56 | 2022-10-07 | 2022-10-29 |

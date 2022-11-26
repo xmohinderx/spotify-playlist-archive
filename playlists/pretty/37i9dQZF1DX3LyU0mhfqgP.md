@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The newest songs from LGBTQIA+ artists\. Cover: Muna
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,547 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,856 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 23 | [Coconuts](https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts](https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC) | 2:48 |
 | 24 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 |
 | 25 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
-| 26 | [FIRST HELLO](https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [FIRST HELLO](https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU) | 3:17 |
-| 27 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
+| 26 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
+| 27 | [FIRST HELLO](https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [FIRST HELLO](https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU) | 3:17 |
 | 28 | [Forever Drunk](https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Forever Drunk](https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7) | 3:10 |
 | 29 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
 | 30 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:10 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 36 | [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:37 |
 | 37 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 |
 | 38 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
-| 39 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 |
-| 40 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 |
+| 39 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 |
+| 40 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 |
 | 41 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 |
 | 42 | [Hold The Girl](https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw) | 4:05 |
 | 43 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
 | 50 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 |
 | 51 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
-| 52 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 |
-| 53 | [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 |
+| 52 | [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 |
+| 53 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 |
 | 54 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
 | 55 | [WET](https://open.spotify.com/track/7q7Pc8oHXldntr7YKN4PFz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [WET](https://open.spotify.com/album/6PmonSZBxYfIpW12oeCV3o) | 2:43 |
 | 56 | [If It's Not God](https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt) | 3:39 |
-| 57 | [day to day](https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:57 |
-| 58 | [I Wanna Be a Boy](https://open.spotify.com/track/4O7UPnI2rePU0JndPCI09d) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/4o84MA22X4ofp4LM9z7U3y) | 3:19 |
+| 57 | [I Wanna Be a Boy](https://open.spotify.com/track/4O7UPnI2rePU0JndPCI09d) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/4o84MA22X4ofp4LM9z7U3y) | 3:19 |
+| 58 | [day to day](https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:57 |
 | 59 | [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 |
 | 60 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 |
 | 61 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 65 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 |
 | 66 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 |
 | 67 | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If) | 2:21 |
-| 68 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 |
-| 69 | [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 |
+| 68 | [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 |
+| 69 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 |
 | 70 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 |
 | 71 | [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 |
 | 72 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 74 | [Disco Heart](https://open.spotify.com/track/29upl5ytUcahfLE8q24SMd) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Heartbreak County, Vol\. 2](https://open.spotify.com/album/7x42x3GG9dviDYgX5HmHTM) | 3:15 |
 | 75 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 |
 
-Snapshot ID: `MTY2OTE1NzcxMywwMDAwMDAwMGViY2VhZjYzMjBmMzJkOWJmNzk0NDg0YjMxMTdjOTE3`
+Snapshot ID: `MTY2OTE1NzcxMywwMDAwMDAwMGRlNmUzZmIzNTA1Y2MxMmU1YTBkMzAzZjM1OWM1YjM1`

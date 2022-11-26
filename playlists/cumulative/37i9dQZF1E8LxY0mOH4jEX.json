@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-08-30",
-  "description": "With Bruno Mars, Mark Ronson, Justin Timberlake, Nevada and more",
+  "description": "With Bruno Mars, Mark Ronson, Justin Timberlake, Dawin and more",
   "name": "24K Magic Radio",
   "published_playlist_ids": [
     "1BhMYZPvWoqkovqn1vMjMs"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 208786,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
@@ -3269,6 +3269,24 @@
     {
       "album": {
         "name": "Cha Cha Slide",
+        "url": "https://open.spotify.com/album/7Hn2C8QRMdpQXcHunLe58K"
+      },
+      "artists": [
+        {
+          "name": "DJ Casper",
+          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464506,
+      "name": "Cha Cha Slide - Club",
+      "url": "https://open.spotify.com/track/3h1jNdqSjjT4UkcNxP0yhw"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Slide",
         "url": "https://open.spotify.com/album/3Ogg26ibNmxL8uIVwZVqsJ"
       },
       "artists": [
@@ -3323,7 +3341,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 387493,
       "name": "Cha Cha Slide - Original Live Platinum Band Mix",
       "url": "https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K"
@@ -3363,7 +3381,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 237733,
       "name": "Chained To The Rhythm",
       "url": "https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD"
@@ -4119,7 +4137,7 @@
       ],
       "date_added": "2020-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
@@ -4673,7 +4691,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 201433,
       "name": "Diggy",
       "url": "https://open.spotify.com/track/6RotBIo70VVzEcOhvgJGPC"
@@ -5045,7 +5063,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 214265,
       "name": "Don't Wanna Know (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/1nueTG77MzNkJTKQ0ZdGzT"
@@ -5463,7 +5481,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 202613,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
@@ -5919,7 +5937,7 @@
       ],
       "date_added": "2020-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
@@ -5993,7 +6011,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 217288,
       "name": "Finesse - Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
@@ -6643,7 +6661,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 178056,
       "name": "Geometry",
       "url": "https://open.spotify.com/track/4Zc7lagND249NPhk8dWJga"
@@ -7483,7 +7501,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 233266,
       "name": "Gotta Be Me",
       "url": "https://open.spotify.com/track/58iuuMeVzgGhCwhnx3zBAP"
@@ -9901,7 +9919,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 144244,
       "name": "Juju on That Beat (TZ Anthem)",
       "url": "https://open.spotify.com/track/1lItf5ZXJc1by9SbPeljFd"
@@ -10141,7 +10159,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
@@ -11317,7 +11335,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -12991,7 +13009,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
@@ -13343,7 +13361,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 268320,
       "name": "Nothin' on You (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
@@ -14531,7 +14549,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/0am001WwFBVGDGLwRh3ixi"
@@ -15419,7 +15437,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 188888,
       "name": "Sexual",
       "url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o"
@@ -15445,7 +15463,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 200892,
       "name": "Sexual - Oliver Nelson Remix / Radio Edit",
       "url": "https://open.spotify.com/track/39zrVbRvAjw1FbKaK64NTZ"
@@ -15601,7 +15619,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 161700,
       "name": "Shake Your Booty - From \"Best Friends Whenever\"",
       "url": "https://open.spotify.com/track/6fG9pxz3dwpHWmRMG7BU38"
@@ -15953,7 +15971,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 189280,
       "name": "Sidekick",
       "url": "https://open.spotify.com/track/0X85L0csrSMt6mt4qgvd20"
@@ -16939,7 +16957,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 202061,
       "name": "Strip That Down (feat. Quavo)",
       "url": "https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw"
@@ -18503,7 +18521,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 235613,
       "name": "Thrift Shop (feat. Wanz)",
       "url": "https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9"
@@ -20067,7 +20085,7 @@
       ],
       "date_added": "2021-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
@@ -20231,7 +20249,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 236373,
       "name": "What Time Is It",
       "url": "https://open.spotify.com/track/0WEH5Ca7GXdabT4W0M7Pw8"
@@ -20563,7 +20581,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 226105,
       "name": "Wobble",
       "url": "https://open.spotify.com/track/1SG18kW0egXcvFS1vmpA62"

@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-58 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
+59 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2021-12-16 |  |
 | [Lo How a Rose](https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3) | [Winter Harp Ensemble](https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw), [Lori Pappajohn](https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL) | [A Night in Winter](https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf) | 4:11 | 2021-12-16 |  |
 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 | 2022-11-18 |  |
+| [Mary's Boychild](https://open.spotify.com/track/5yyxBmvuGEOMZ4DKfhobNx) | [Jester Hairston](https://open.spotify.com/artist/3tgxh3cqdCA5UvqwuNYWWl), [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Mary's Boychild](https://open.spotify.com/album/3DFsEtBtGmseKUD7pm7QGE) | 2:01 | 2022-11-25 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/0wwQHm22k4V0eoqLXLdd8E) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/7EoYR3CpzVLDng5B6hbIbP) | 2:20 | 2022-10-14 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/4WehDMVkpIxLPCltba3JFs) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/6pM5sjp8nekGKbMS6KDJ9i) | 2:20 | 2021-12-16 | 2022-10-17 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/6lNQuXMNa4qdkny0gzgbeV) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [A Cello Christmas](https://open.spotify.com/album/0pciEObXXUDRudyHwJrgj7) | 2:32 | 2021-12-16 |  |

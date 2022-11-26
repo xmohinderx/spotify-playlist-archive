@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-147 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+149 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,8 +74,9 @@
 | [KLK](https://open.spotify.com/track/5An8NQkXTYa5gz8BIWeWk5) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 3:47 | 2020-10-20 | 2022-07-29 |
 | [La Morte Muore \- Part 3](https://open.spotify.com/track/3JHiHqwApntqpWnukIxYHh) | [OvO](https://open.spotify.com/artist/4DBspZAitax26H5f7ay6zg) | [La Morte Muore \(Part 3\)](https://open.spotify.com/album/0a4gYYEd1DDv5bKbTi5wTi) | 4:30 | 2022-08-19 |  |
 | [Le Samouraï](https://open.spotify.com/track/1DFE2U27L7JgQlBL831UGo) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2) | [Still](https://open.spotify.com/album/44xQ4JlxgaSiT8my6ahJhS) | 5:05 | 2022-08-31 |  |
-| [Leilani](https://open.spotify.com/track/5PMFcvLm1IA4lVAQW8FIXY) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Leilani](https://open.spotify.com/album/2YvWLUA9liTFn0a1Y4kGPg) | 2:17 | 2021-07-09 |  |
+| [Leilani](https://open.spotify.com/track/5PMFcvLm1IA4lVAQW8FIXY) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Leilani](https://open.spotify.com/album/2YvWLUA9liTFn0a1Y4kGPg) | 2:17 | 2021-07-09 | 2022-11-26 |
 | [Loba](https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Loba](https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J) | 3:41 | 2022-11-03 |  |
+| [Marco](https://open.spotify.com/track/3cA7sk49Fbtc7mgF2fVuWd) | [Everest Magma](https://open.spotify.com/artist/3NB3jpSQ4F2Ief62BpDCFs) | [Alto//Piano](https://open.spotify.com/album/0szhDIrd23Ck9wiMkQYYts) | 2:16 | 2022-11-25 |  |
 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 | 2020-10-20 |  |
 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 | 2020-10-20 |  |
 | [MONEY CAN'T BUY](https://open.spotify.com/track/43Ti9176DSMC4AvCA5jq5q) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc) | 2:50 | 2020-10-20 | 2022-07-29 |
@@ -134,7 +135,7 @@
 | [Twist](https://open.spotify.com/track/36IJNDHIljR94apizT5Iks) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) | 7:03 | 2020-10-20 | 2022-07-29 |
 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 | 2022-09-03 |  |
 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 | 2022-02-18 |  |
-| [Vizio](https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Lytos](https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 3:53 | 2022-09-02 |  |
+| [Vizio](https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Lytos](https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 3:53 | 2022-09-02 | 2022-11-26 |
 | [Voices](https://open.spotify.com/track/3Xuhi20r1A2FGQHAisL551) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB) | 1:54 | 2020-10-20 |  |
 | [Wasting](https://open.spotify.com/track/24ecRdvvKcZCFdmebEJ1X8) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Deeper](https://open.spotify.com/album/4sdTiKZkufFUNlvtNcIiFh) | 5:50 | 2020-11-20 |  |
 | [Wasting](https://open.spotify.com/track/711LRE7rORixC5AVWIuzg4) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Deeper](https://open.spotify.com/album/7ewlDAUdwJlfgEzz5rj9xl) | 5:50 | 2020-11-20 | 2022-07-29 |
@@ -151,6 +152,7 @@
 | [Плак\-Плак](https://open.spotify.com/track/2dc4D84XqZ9MCD3R2TjXoc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Of4qoSlEZr8GUinc7QxWT) | 3:23 | 2020-10-20 |  |
 | [Плак\-Плак](https://open.spotify.com/track/3haUHC29mCGK6MrREqbONc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Ji9U33Ljqdm4RdlBKXteF) | 3:23 | 2020-10-20 | 2022-09-15 |
 | [Прыгай](https://open.spotify.com/track/7keFTSP0LQMj09887ZCmxJ) | [МОНОНОКЕ](https://open.spotify.com/artist/73EIVLp8UyAWcjLK6Mty8S) | [Прыгай](https://open.spotify.com/album/2ASG6eVHytocsxAxuLrFAV) | 2:42 | 2020-10-20 |  |
+| [СКАЗКА](https://open.spotify.com/track/1yMbPuYkplb5CZsq82cCl7) | [di liberta](https://open.spotify.com/artist/2bwZPyuLpiDOcE3L6pwWys), [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [РОДНОЙ](https://open.spotify.com/album/1lObcezMQtWheQU0OOH1uP) | 3:03 | 2022-11-25 |  |
 | [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 | 2020-10-20 |  |
 | [я больше не кусаюсь](https://open.spotify.com/track/4GPYu9OYnnYTCrp48EWroq) | [New Sylveon](https://open.spotify.com/artist/0Vp4znLLKyTx4GjsgDhNxX), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [я больше не кусаюсь](https://open.spotify.com/album/5G8d32CVqpHwlZX3idylbV) | 2:45 | 2020-10-20 | 2022-11-04 |
 | [埋立地](https://open.spotify.com/track/0rpo0rlGKgl5dMvjsSVI3F) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [埋立地](https://open.spotify.com/album/1HISdd7iujfV5Z2vpXKjkd) | 3:06 | 2022-02-18 | 2022-09-01 |

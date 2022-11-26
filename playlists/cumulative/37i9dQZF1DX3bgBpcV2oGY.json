@@ -2118,6 +2118,24 @@
     },
     {
       "album": {
+        "name": "Savage Silhouettes",
+        "url": "https://open.spotify.com/album/2eYTNL3P3wVZA8kdHgnWxa"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Barber",
+          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126148,
+      "name": "Savage Silhouettes",
+      "url": "https://open.spotify.com/track/3Xg0edgHJLSNyfjwtHHcCh"
+    },
+    {
+      "album": {
         "name": "Seerosen Teich",
         "url": "https://open.spotify.com/album/3Tsldk3OSEHytaICuSND55"
       },

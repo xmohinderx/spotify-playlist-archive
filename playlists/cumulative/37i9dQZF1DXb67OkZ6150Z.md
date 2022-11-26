@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-362 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+363 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 | 2021-10-08 | 2022-07-29 |
 | [Bad Romance](https://open.spotify.com/track/4gvspsfveHS7I5Alr2pfp2) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Bad Romance](https://open.spotify.com/album/3l9tsAiTVPtgkSEDBhGHUP) | 4:04 | 2021-03-12 | 2022-04-14 |
 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 | 2021-08-27 |  |
-| [Because The Night](https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 3:36 | 2021-03-19 |  |
+| [Because The Night](https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 3:36 | 2021-03-19 | 2022-11-26 |
 | [Bette Davis Eyes](https://open.spotify.com/track/3l9rl836p8CTjT9y7CgUSC) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/6Wvbmfc8AHycLdjwMPG0Bu) | 3:30 | 2021-07-21 | 2022-11-20 |
+| [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 | 2022-11-11 |  |
 | [Betty](https://open.spotify.com/track/4a47EpkpPOGg385haAvIHD) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [The Version Suicides, Vol\. 1](https://open.spotify.com/album/7ei8Uc7c88OhGdEkbbpKbN) | 5:00 | 2021-03-12 | 2022-07-29 |
 | [Between the Bars](https://open.spotify.com/track/1DSnSVoW5ZC78QCWvb2cHY) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Between the Bars / All Night](https://open.spotify.com/album/0gJncaf7MUMf92GVxxidT0) | 2:35 | 2021-03-12 | 2022-07-29 |
 | [Bittersweet Symphony](https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Melody & Silence](https://open.spotify.com/album/6btmrcBvREYtau5PaPugPy) | 4:40 | 2021-03-19 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Estevie on cover.",
-  "num_followers": 167842,
+  "num_followers": 167846,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMDIyY2U4NGQ4MWFiYmZkMjk1NjdiMjExMDY0YzU0YmQy",
+  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMDFmZTdhZDZlZGExNjQ0MmYyMzlmNzQ2MzQ2NDdiNjdm",
   "tracks": [
     {
       "added_at": "2022-11-10 00:19:53",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "No Me Dejes (Halloween)",
-        "url": "https://open.spotify.com/album/2Y0OOk9SPUmrO4iDPo7omM"
-      },
-      "artists": [
-        {
-          "name": "The Real Antonios",
-          "url": "https://open.spotify.com/artist/539CDHy0e3VlZiZPira98V"
-        }
-      ],
-      "duration_ms": 167516,
-      "name": "No Me Dejes (Halloween)",
-      "url": "https://open.spotify.com/track/4b8H3eaTQm66t3VVFLQL88"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "nublado",
         "url": "https://open.spotify.com/album/1XIcyGupJrLUYtX2JlElVr"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 203520,
       "name": "nublado",
       "url": "https://open.spotify.com/track/5l9D9Uzeba8H3vVbEEoWnd"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "No Me Dejes (Halloween)",
+        "url": "https://open.spotify.com/album/2Y0OOk9SPUmrO4iDPo7omM"
+      },
+      "artists": [
+        {
+          "name": "The Real Antonios",
+          "url": "https://open.spotify.com/artist/539CDHy0e3VlZiZPira98V"
+        }
+      ],
+      "duration_ms": 167516,
+      "name": "No Me Dejes (Halloween)",
+      "url": "https://open.spotify.com/track/4b8H3eaTQm66t3VVFLQL88"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4XwGkazwZ4OsS0HnQjUwy6"
+      },
+      "artists": [
+        {
+          "name": "ADRI",
+          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+        }
+      ],
+      "duration_ms": 171313,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/4CS0ensC1OATktJSD916Nv"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "bend&break",
         "url": "https://open.spotify.com/album/56vYzeAz55MHDICS5jAbwm"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4XwGkazwZ4OsS0HnQjUwy6"
+        "name": "fluye",
+        "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
       },
       "artists": [
         {
-          "name": "ADRI",
-          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+          "name": "Danny Mont",
+          "url": "https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX"
         }
       ],
-      "duration_ms": 171313,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/4CS0ensC1OATktJSD916Nv"
+      "duration_ms": 225230,
+      "name": "lily",
+      "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -367,22 +383,6 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "fluye",
-        "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
-      },
-      "artists": [
-        {
-          "name": "Danny Mont",
-          "url": "https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "lily",
-      "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "El Juego",
+        "url": "https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "duration_ms": 168774,
+      "name": "El Juego",
+      "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "De Todo Lo Que Fui.",
         "url": "https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "El Juego",
-        "url": "https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH"
-      },
-      "artists": [
-        {
-          "name": "Dante Ouvi\u00f1a",
-          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
-        }
-      ],
-      "duration_ms": 168774,
-      "name": "El Juego",
-      "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "1 AM: NE\u00d3N",
         "url": "https://open.spotify.com/album/5EjGQwnfB6lran0Q9HloZR"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 176686,
       "name": "1 AM: NE\u00d3N",
       "url": "https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Se Hizo De Noche",
+        "url": "https://open.spotify.com/album/1rCFKnKPOhco2iSZ1qDWzj"
+      },
+      "artists": [
+        {
+          "name": "Ciudad Mansa",
+          "url": "https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2"
+        }
+      ],
+      "duration_ms": 242602,
+      "name": "Buen Augurio",
+      "url": "https://open.spotify.com/track/6BKs1agUCxFpjTirNDt8zu"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -899,22 +915,6 @@
       "duration_ms": 201000,
       "name": "Es el Final Me Alejo",
       "url": "https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "Se Hizo De Noche",
-        "url": "https://open.spotify.com/album/1rCFKnKPOhco2iSZ1qDWzj"
-      },
-      "artists": [
-        {
-          "name": "Ciudad Mansa",
-          "url": "https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2"
-        }
-      ],
-      "duration_ms": 242602,
-      "name": "Buen Augurio",
-      "url": "https://open.spotify.com/track/6BKs1agUCxFpjTirNDt8zu"
     },
     {
       "added_at": "2022-11-10 00:19:53",

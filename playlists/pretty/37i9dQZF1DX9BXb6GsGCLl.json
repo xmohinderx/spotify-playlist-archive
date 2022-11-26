@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 489794,
+  "num_followers": 489853,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDYwMGY1ZmEzZmE2ZWMyNmY4ZGY2NzU5YWRmMWFlMGY4",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGMwMzdiN2FjNzNkYTRmMDZkNWU1MDQ3M2IxZjZkYWY2",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -327,26 +327,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Wasted Love (feat. Lagique)",
-        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 139563,
-      "name": "Wasted Love (feat. Lagique)",
-      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Wasted Love (feat. Lagique)",
+        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 139563,
+      "name": "Wasted Love (feat. Lagique)",
+      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 181436,
       "name": "Know Your Worth",
       "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "All Around The World (La La La)",
         "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Speechless (feat. Erika Sirola)",
+        "url": "https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        }
+      ],
+      "duration_ms": 214941,
+      "name": "Speechless (feat. Erika Sirola)",
+      "url": "https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Speechless (feat. Erika Sirola)",
-        "url": "https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Erika Sirola",
-          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
-        }
-      ],
-      "duration_ms": 214941,
-      "name": "Speechless (feat. Erika Sirola)",
-      "url": "https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5"
     }
   ],
   "unique_name": "Powerwalk!",

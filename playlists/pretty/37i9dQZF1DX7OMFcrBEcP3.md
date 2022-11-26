@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The Corridos of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,572 likes - 77 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,601 likes - 77 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 57 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 |
 | 58 | [Soy De Rancho](https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Soy De Rancho](https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo) | 3:29 |
 | 59 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
-| 60 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 |
-| 61 | [La Botella \(Dos Botellas De Mescal\)](https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez) | [Los Morros Del Norte](https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG) | [La Cadena](https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3) | 2:54 |
+| 60 | [La Botella \(Dos Botellas De Mescal\)](https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez) | [Los Morros Del Norte](https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG) | [La Cadena](https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3) | 2:54 |
+| 61 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 |
 | 62 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
 | 63 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 |
 | 64 | [El Niño De La Tuna](https://open.spotify.com/track/6FooQEHlzu2d38aZ9SjJvV) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [El Nino De La Tuna](https://open.spotify.com/album/2pga97tsZosoiHW5y9Mtco) | 3:36 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 76 | [La Carretera Hacia Juarez](https://open.spotify.com/track/6drRLQB9x11UXmV0cNTffo) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos Perros Vol.1](https://open.spotify.com/album/6gi63Tzp521cz82jS7ItHA) | 2:30 |
 | 77 | [Pancho Villa](https://open.spotify.com/track/7oIyahcc9zHe1n9FRYh8Ft) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [QUE TOQUE MI BANDA JEREZ](https://open.spotify.com/album/0Egtfs604xlqru5JoXtJv7) | 2:58 |
 
-Snapshot ID: `MTY2NTk4NjkyOSwwMDAwMDAwMDMyYTI1NjM3YTdiY2Y2ZjE2NGVlY2YxZTgxMmY2NDli`
+Snapshot ID: `MTY2NTk4NjkyOSwwMDAwMDAwMGZhNmRlNzFiOTljYTA3MTUxOTc5NzMwNzY0NDlhN2Ew`

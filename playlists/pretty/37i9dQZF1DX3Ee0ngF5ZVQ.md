@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,126 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,197 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 59 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |
 | 60 | [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/1Pgmihwxrgcm4UOqN8Mzom) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 |
 | 61 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 |
-| 62 | [Tell Me It Is](https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs) | 3:05 |
-| 63 | [Baby Don't](https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Baby Don't](https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36) | 3:03 |
-| 64 | [Die Runnin'](https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Die Runnin'](https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5) | 3:11 |
+| 62 | [Baby Don't](https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Baby Don't](https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36) | 3:03 |
+| 63 | [Tell Me It Is](https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs) | 3:05 |
+| 64 | [All It Cost Me Was Everything](https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [All It Cost Me Was Everything](https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC) | 3:50 |
 | 65 | [Shot from the Heart](https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Shot from the Heart](https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8) | 3:03 |
 | 66 | [Texas Moon](https://open.spotify.com/track/3W5rOs2jB7R3H0PEBxIiJ1) | [Caden Gillard](https://open.spotify.com/artist/0Aql1V8loJKhIE3fQuqKdK) | [Love & Heartbreak](https://open.spotify.com/album/7hPYGbGuvnijMDFS70BQHK) | 3:53 |
-| 67 | [All It Cost Me Was Everything](https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [All It Cost Me Was Everything](https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC) | 3:50 |
+| 67 | [Die Runnin'](https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Die Runnin'](https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5) | 3:11 |
 | 68 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 |
-| 69 | [Haunted House](https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Haunted House](https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD) | 4:32 |
-| 70 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
+| 69 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
+| 70 | [Haunted House](https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Haunted House](https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD) | 4:32 |
 | 71 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
 | 72 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 | 73 | [Priorities](https://open.spotify.com/track/6uUehOfuEUy1vQmkL8AwaE) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Priorities](https://open.spotify.com/album/6DFYfdqLixWqjs3JN23YgC) | 3:57 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 89 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 |
 | 90 | [It Wasn’t Love](https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [It Wasn’t Love](https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1) | 4:05 |
 | 91 | [Who Am I to Judge](https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Who Am I to Judge](https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD) | 3:52 |
-| 92 | [Baby Do](https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Baby Do](https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG) | 3:28 |
-| 93 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
-| 94 | [Two Left Feet](https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31) | [Cameron James Smith](https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp) | [Two Left Feet](https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK) | 3:14 |
-| 95 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
-| 96 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 |
-| 97 | [Hang Me Out to Dry](https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Hang Me Out to Dry](https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK) | 3:57 |
+| 92 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
+| 93 | [Baby Do](https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Baby Do](https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG) | 3:28 |
+| 94 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 95 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 |
+| 96 | [Hang Me Out to Dry](https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Hang Me Out to Dry](https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK) | 3:57 |
+| 97 | [Two Left Feet](https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31) | [Cameron James Smith](https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp) | [Two Left Feet](https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK) | 3:14 |
 | 98 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 |
-| 99 | [The Old Man Said \- Radio Edit](https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Old Man Said \(Radio Edit\)](https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb) | 3:14 |
+| 99 | [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 |
 | 100 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDBhNTFlYzliZWVhY2Q3M2Q0YTk0YTgyZjI3YzM0OWQw`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGUwOWRjZTU1YTY2ZjJmNGNiZjlhZDJiYWIyNmVkNTM3`

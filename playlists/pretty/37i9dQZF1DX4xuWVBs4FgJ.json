@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1481082,
+  "num_followers": 1481649,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDQxN2Q1Njc0MzE3YTU3Y2VlNDY3ODI2OWUxZmNiNjU5",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDc5MWQ2YThmY2I4NDJmMTBlZTJjNDFkZTg0NGY3Njcy",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -451,8 +451,8 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211763,
-      "name": "Hold My Girl",
-      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Ten Summoner's Tales",
         "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 222120,
       "name": "Fields Of Gold",
       "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211763,
+      "name": "Hold My Girl",
+      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -595,34 +579,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -643,6 +611,38 @@
       "duration_ms": 190760,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Like Strangers Do",
         "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 160790,
       "name": "Like Strangers Do",
       "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Leaving My Love Behind",
-      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Leaving My Love Behind",
+      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 188323,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Tomorrow EP",
         "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Embers Mixtape",
-        "url": "https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI"
-      },
-      "artists": [
-        {
-          "name": "Blakey",
-          "url": "https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl"
-        }
-      ],
-      "duration_ms": 215239,
-      "name": "Confidant",
-      "url": "https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 192053,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Embers Mixtape",
+        "url": "https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI"
+      },
+      "artists": [
+        {
+          "name": "Blakey",
+          "url": "https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl"
+        }
+      ],
+      "duration_ms": 215239,
+      "name": "Confidant",
+      "url": "https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 183571,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 183571,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY"
     },
     {
       "added_at": "2022-11-11 05:00:00",

@@ -1,29 +1,13 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118192,
+  "num_followers": 118190,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGRhZGI2ZGUzMTIyNjZmMjQyZjM2N2E1NTkyNzczOWZk",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGM1MTdjMTJlNWZhMGVhNTA3MWEwNjI4YTQxN2RlZDVi",
   "tracks": [
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-    },
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Rodeo (feat. Nas)",
-        "url": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 145222,
-      "name": "Rodeo - feat. Nas",
-      "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Top",
         "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 192000,
       "name": "My Window (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Rodeo (feat. Nas)",
+        "url": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 145222,
+      "name": "Rodeo - feat. Nas",
+      "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
     },
     {
       "added_at": "2020-10-20 20:23:39",

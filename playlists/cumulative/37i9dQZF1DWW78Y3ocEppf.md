@@ -2,7 +2,7 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> The feelings you can't put into words...only songs\. Cover: Kaash Paige
+> The feelings you can't put into words...only songs\. Cover: Jessie Reyez
 
 371 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 

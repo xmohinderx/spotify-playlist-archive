@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-216 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
+217 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/5HuA8j4xJi2t3b5nsfoqYH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Botanical](https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Botanical](https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ) | 2:23 | 2022-08-01 |  |
 | [Cadeques](https://open.spotify.com/track/4Be9pGAhN2aR1PTefJJX51) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Cadeques](https://open.spotify.com/album/4mSsoEQzC6aRFjVsjQbC7r) | 2:52 | 2022-08-01 |  |
 | [Camera Obscura](https://open.spotify.com/track/6cbLWx2NlOs3LvpfR44NPg) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [Camera Obscura](https://open.spotify.com/album/5tuhTyI3R9LUbF6EH1p5cU) | 2:11 | 2022-08-01 |  |
-| [Carvoeiro](https://open.spotify.com/track/6VJ0cJWV19lwXzeDb4f35D) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Carvoeiro](https://open.spotify.com/album/1MdhGVfEl3ITet1idA1eFN) | 2:31 | 2022-10-04 |  |
+| [Carvoeiro](https://open.spotify.com/track/1wpifGgn2zC6OPEI6okI67) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Forever Us](https://open.spotify.com/album/19C3NAAdk7JwNDgSXElhHV) | 2:31 | 2022-11-14 |  |
+| [Carvoeiro](https://open.spotify.com/track/6VJ0cJWV19lwXzeDb4f35D) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Carvoeiro](https://open.spotify.com/album/1MdhGVfEl3ITet1idA1eFN) | 2:31 | 2022-10-04 | 2022-11-26 |
 | [cena per due](https://open.spotify.com/track/2eHjBYoLuknpc7cded92QS) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [blú](https://open.spotify.com/album/005QvDJH8fwECJkra6rRYN) | 2:38 | 2022-08-25 |  |
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-08-01 |  |
 | [Chasing Cars](https://open.spotify.com/track/5aXyuXE032sbomMTGxGYig) | [Piano Covers Club Delight](https://open.spotify.com/artist/08ambS3rtVC2BP1H4vtHST) | [Piano Covers](https://open.spotify.com/album/7HzELQCLUpdTlKCVKIJKP9) | 4:19 | 2022-08-01 | 2022-10-25 |

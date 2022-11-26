@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Danny Schiller",
-  "num_followers": 749426,
+  "num_followers": 749428,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIyMzU4NywwMDAwMDAwMGFhMjZlYTY4Zjc2ZGRhMTRkOWMwNzlhNjI3MTI4ZDEz",
+  "snapshot_id": "MTY2OTIyMzU4NywwMDAwMDAwMGE0NTY3NGI3MzY4ZjgwZmVmNDNmN2U0OTRiZTQ2OGEw",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Love Letters From Houston",
-        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 144000,
       "name": "Ella y Yo",
       "url": "https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Love Letters From Houston",
+        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Californication (Feels Like I'm Falling In Love)",
-        "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 180327,
-      "name": "Californication (Feels Like I'm Falling In Love)",
-      "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "La Cumbia Del Cucuy",
         "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
       },
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb"
+        "name": "Californication (Feels Like I'm Falling In Love)",
+        "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
       },
       "artists": [
         {
-          "name": "Jaylon Ashaun",
-          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
         }
       ],
-      "duration_ms": 120106,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef"
+      "duration_ms": 180327,
+      "name": "Californication (Feels Like I'm Falling In Love)",
+      "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb"
       },
       "artists": [
         {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
         }
       ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+      "duration_ms": 120106,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1751,6 +1735,22 @@
       "duration_ms": 131874,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4ERovc94EVMUB0UGVgGNdo"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+      },
+      "artists": [
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     }
   ],
   "unique_name": "Mixto",

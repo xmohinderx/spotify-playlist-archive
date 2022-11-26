@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Limi\-T 21
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,309 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,383 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 39 | [Ay! Mujer](https://open.spotify.com/track/2kChamLTSM0Oxg4o9My5dH) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 4:08 |
 | 40 | [Mi Reina](https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [La Makina..\. A Mil](https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn) | 4:10 |
 | 41 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
-| 42 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 |
-| 43 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
+| 42 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
+| 43 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 |
 | 44 | [Llego El Real Remix](https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Llego El Real Remix](https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8) | 3:41 |
 | 45 | [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 |
 | 46 | [Traigo Fuego](https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:21 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 78 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
 | 79 | [Another Night](https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP), [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Morisoñando, Vol\. 1](https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B) | 3:50 |
 | 80 | [Estás Enamorada](https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Historia](https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H) | 4:03 |
-| 81 | [Mi Forma De Amar](https://open.spotify.com/track/0jkkUpEiaeiDj3GFhLx4nb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Mi Forma De Amar](https://open.spotify.com/album/7yWwYLalSXv8mCogb6UV3k) | 3:42 |
-| 82 | [Bomba](https://open.spotify.com/track/5HBkbQ99IuQgCaxgyEZeYZ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Fuera de Serie](https://open.spotify.com/album/29B8jyk5wcTxQBC2HIKeIR) | 4:39 |
+| 81 | [Bomba](https://open.spotify.com/track/5HBkbQ99IuQgCaxgyEZeYZ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Fuera de Serie](https://open.spotify.com/album/29B8jyk5wcTxQBC2HIKeIR) | 4:39 |
+| 82 | [Mi Forma De Amar](https://open.spotify.com/track/0jkkUpEiaeiDj3GFhLx4nb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Mi Forma De Amar](https://open.spotify.com/album/7yWwYLalSXv8mCogb6UV3k) | 3:42 |
 | 83 | [Enamorame](https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Merengue De hoy](https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo) | 4:24 |
 | 84 | [Carne](https://open.spotify.com/track/5bx7WTctZtLh8Rd7TaPrQu) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Carne](https://open.spotify.com/album/1GWtYmtW8H1h66gb9HDD83) | 3:27 |
 | 85 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 93 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 |
 | 94 | [Dominicano de Pura Cepa](https://open.spotify.com/track/0HNUDkgeq44zX2kPXYyUZz) | [Kalimete](https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw) | [Paso a Paso](https://open.spotify.com/album/5U4bRc3qJu9cK6KtVSVoX7) | 3:58 |
 | 95 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
-| 96 | [No Me Veran Caer](https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M) | [Barbosa](https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG) | [No Me Veran Caer](https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8) | 3:42 |
-| 97 | [Tú Eres Ajena](https://open.spotify.com/track/3y6oIGHyKQg6MZWNlJnRow) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Eddy Herrera](https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM) | [El Disco Del Año Vol\. 53](https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK) | 4:33 |
+| 96 | [Tú Eres Ajena](https://open.spotify.com/track/3y6oIGHyKQg6MZWNlJnRow) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Eddy Herrera](https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM) | [El Disco Del Año Vol\. 53](https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK) | 4:33 |
+| 97 | [No Me Veran Caer](https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M) | [Barbosa](https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG) | [No Me Veran Caer](https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8) | 3:42 |
 | 98 | [El Ñeñeñe](https://open.spotify.com/track/4787qTzGcugYeibCV3AyRV) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [El Mandamás](https://open.spotify.com/album/5YXoMxJWEFmlC4ePKS0nh3) | 4:50 |
 | 99 | [Ñangala Fuangala](https://open.spotify.com/track/2bkIe2K7qMJO7Ai5OVPdBI) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Ñangala Fuangala](https://open.spotify.com/album/0k2ttHsnz3o8Xjt9Fi44sU) | 3:48 |
 | 100 | [Te Gusta Eh](https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 5:27 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDgyMjcxOWJiNThlOGNmNzQ3YTRkOTU3MjFiNDZkZDc5`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGU5Mjg0ZDZkMGI4OTdhYzQzMDUzMGY5NWEwMmEyMzEz`

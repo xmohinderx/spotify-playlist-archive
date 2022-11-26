@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 15991,
+  "num_followers": 16003,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMzAzMiwwMDAwMDAwMDlhMzQ0ZDc5NzQwMGJlOWNkZjg2Yzk0M2NlNjg3OTdh",
+  "snapshot_id": "MTY2ODIwMzAzMiwwMDAwMDAwMDc3MTNiOGUwZDY1OWMxZGFjNzgwMzMyZjRjMWI3MWE2",
   "tracks": [
     {
       "added_at": "2022-11-11 21:43:52",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Unas Vacaciones Raras",
-        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "La Otra Ciudad",
-      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Puedo Con Esto (Fuera de Foco)",
         "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "La Otra Ciudad",
+      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 213898,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/2JyuCXnaPdo4vNOVbuClkZ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 241078,
       "name": "Sola",
       "url": "https://open.spotify.com/track/7oIT0iV7XScuix6hKOvank"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 213898,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Casi Extra\u00f1os",
-        "url": "https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 227988,
-      "name": "Casi Extra\u00f1os",
-      "url": "https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "El Pr\u00f3ximo Verano",
         "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 269705,
       "name": "El Pr\u00f3ximo Verano",
       "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Casi Extra\u00f1os",
+        "url": "https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 227988,
+      "name": "Casi Extra\u00f1os",
+      "url": "https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "El Disparo",
-        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 209241,
-      "name": "El Disparo",
-      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Doble de Riesgo",
         "url": "https://open.spotify.com/album/3AldHEpT3we5tF068rm14O"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 227979,
       "name": "Tus Amigos de la Cia",
       "url": "https://open.spotify.com/track/7HAiG8HPZWEUYy23xi2Hvu"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "El Disparo",
+        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 209241,
+      "name": "El Disparo",
+      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Igual",
         "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 250770,
       "name": "Igual",
       "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -927,6 +927,22 @@
       "duration_ms": 182045,
       "name": "Verano En Espiral",
       "url": "https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Solomias",
+        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Solomias",
+      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Solomias",
-        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Solomias",
-      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Berl\u00edn",
         "url": "https://open.spotify.com/album/4yajrPmBYJYZ4V2zpZVaVx"
       },
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "Savia Roja",
         "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
       },
@@ -1043,6 +1059,22 @@
       "duration_ms": 153710,
       "name": "Toxi",
       "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Ochocientos Envolventes al Sol",
         "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Jungla de Metal 2",
-        "url": "https://open.spotify.com/album/5rhIm1StffJUTXTmpKuEOY"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Fiesta en el Barrio",
-      "url": "https://open.spotify.com/track/6M2RoXQsms5qijA92zlDLW"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Batalla Naval",
         "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 203186,
       "name": "Batalla Naval",
       "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Jungla de Metal 2",
+        "url": "https://open.spotify.com/album/5rhIm1StffJUTXTmpKuEOY"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Fiesta en el Barrio",
+      "url": "https://open.spotify.com/track/6M2RoXQsms5qijA92zlDLW"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Ultravioleta",
+        "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
+      },
+      "artists": [
+        {
+          "name": "mitimitis",
+          "url": "https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F"
+        },
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Ultravioleta",
+      "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -1279,46 +1299,6 @@
       "duration_ms": 224031,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "no s\u00e9 qui\u00e9n soy",
-        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
-      },
-      "artists": [
-        {
-          "name": "K4",
-          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
-        }
-      ],
-      "duration_ms": 128047,
-      "name": "no s\u00e9 qui\u00e9n soy",
-      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Gracias Por Nada",
-        "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        },
-        {
-          "name": "Mora S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 225833,
-      "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
-      "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1355,6 +1335,46 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Gracias Por Nada",
+        "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Mora S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 225833,
+      "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
+      "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "no s\u00e9 qui\u00e9n soy",
+        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
+      },
+      "artists": [
+        {
+          "name": "K4",
+          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
+        }
+      ],
+      "duration_ms": 128047,
+      "name": "no s\u00e9 qui\u00e9n soy",
+      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "Bronce",
         "url": "https://open.spotify.com/album/4IEK2cahs8y3gr2lKWz2pU"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 127676,
       "name": "Cara de Mapa",
       "url": "https://open.spotify.com/track/3ooLJyyIaxgdy9w7seHCBk"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Ultravioleta",
-        "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
-      },
-      "artists": [
-        {
-          "name": "mitimitis",
-          "url": "https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F"
-        },
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Ultravioleta",
-      "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Mejor Sin Miedo",
-        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "Mejor Sin Miedo",
-      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Simona",
         "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Mejor Sin Miedo",
+        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "Mejor Sin Miedo",
+      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "Somos 2",
         "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 152264,
       "name": "Somos 2",
       "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Cicuta",
+        "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 149950,
+      "name": "Cicuta",
+      "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Cicuta",
-        "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
+        "name": "No Es Culpa del Fr\u00edo",
+        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
       },
       "artists": [
         {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
         }
       ],
-      "duration_ms": 149950,
-      "name": "Cicuta",
-      "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
+      "duration_ms": 225001,
+      "name": "No Es Culpa del Fr\u00edo",
+      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "No Es Culpa del Fr\u00edo",
-        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
-      },
-      "artists": [
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 225001,
-      "name": "No Es Culpa del Fr\u00edo",
-      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Recopilatorio",
         "url": "https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 186013,
       "name": "Cu\u00e1ntas Veces",
       "url": "https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Huele amarillo",
-        "url": "https://open.spotify.com/album/4XH65quBLvAln0tbp265qx"
-      },
-      "artists": [
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 274498,
-      "name": "Huele amarillo",
-      "url": "https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Fuego Artificial",
-        "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
+        "name": "Huele amarillo",
+        "url": "https://open.spotify.com/album/4XH65quBLvAln0tbp265qx"
       },
       "artists": [
         {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
         }
       ],
-      "duration_ms": 157106,
-      "name": "Fin de A\u00f1o",
-      "url": "https://open.spotify.com/track/0HzbErlnjg2RlYi7Nr9NEU"
+      "duration_ms": 274498,
+      "name": "Huele amarillo",
+      "url": "https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1643,6 +1627,22 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Fuego Artificial",
+        "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 157106,
+      "name": "Fin de A\u00f1o",
+      "url": "https://open.spotify.com/track/0HzbErlnjg2RlYi7Nr9NEU"
     },
     {
       "added_at": "2022-11-11 21:43:52",

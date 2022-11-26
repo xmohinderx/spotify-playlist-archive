@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,380 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,595 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 10 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
 | 11 | [The Wizard \- 2014 Remaster](https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 4:22 |
 | 12 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 |
-| 13 | [Dragonaut](https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 5:43 |
-| 14 | [Crucifire](https://open.spotify.com/track/65pViNCJx3iVQBmi28FNqi) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 1:44 |
+| 13 | [Crucifire](https://open.spotify.com/track/65pViNCJx3iVQBmi28FNqi) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 1:44 |
+| 14 | [Dragonaut](https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 5:43 |
 | 15 | [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 |
 | 16 | [Freya](https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I) | 4:34 |
 | 17 | [The Lost Art Of Keeping A Secret](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R \- Deluxe Edition](https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto) | 3:36 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 33 | [Enemy of My Enemy](https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 3:29 |
 | 34 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
 | 35 | [Hurricane](https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [...And the Circus Leaves Town](https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9) | 2:32 |
-| 36 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 |
-| 37 | [Eatin' Dust](https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Godzilla's / Eatin' Dust](https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF) | 3:10 |
+| 36 | [Eatin' Dust](https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Godzilla's / Eatin' Dust](https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF) | 3:10 |
+| 37 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 |
 | 38 | [Funeralopolis](https://open.spotify.com/track/6DU1WKdUnR7OZkw7BZl9P0) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 8:43 |
 | 39 | [Stray Bullit Woman](https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z) | 3:05 |
 | 40 | [Strong Reflection](https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Mars Red Sky](https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0) | 5:29 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 50 | [The Dead Won't Sleep](https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3) | 4:42 |
 | 51 | [Automatic Fantastic](https://open.spotify.com/track/3CNVaHOEJiktEnC3POAVN8) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Jalamanta](https://open.spotify.com/album/1ryZqUZiY09DvOO7Fht9Lu) | 6:55 |
 | 52 | [Death's Door](https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 7:15 |
-| 53 | [Holy Mountain](https://open.spotify.com/track/1G7rpMjaBTqczxxzJdHToF) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 8:44 |
-| 54 | [Let the Devil In](https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro) | 5:00 |
+| 53 | [Let the Devil In](https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro) | 5:00 |
+| 54 | [Holy Mountain](https://open.spotify.com/track/1G7rpMjaBTqczxxzJdHToF) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 8:44 |
 | 55 | [Dead Rock Commandos](https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK) | 3:16 |
 | 56 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
 | 57 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 60 | [What Needs Must Be](https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT) | 4:16 |
 | 61 | [Bosses Hang, Pt\. I](https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 4:39 |
 | 62 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 |
-| 63 | [Marijuanaut's Theme](https://open.spotify.com/track/6zIcwUvXpw1cTJWYGYdpX4) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [The Sciences](https://open.spotify.com/album/6X0ErPKlQAxQDhWKNprz7u) | 6:40 |
-| 64 | [Ages Move the Earth](https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh) | [High Priest of Saturn](https://open.spotify.com/artist/4oiMZnQMj43kMUA41Q1H1x) | [Son of Earth and Sky](https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu) | 9:09 |
+| 63 | [Ages Move the Earth](https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh) | [High Priest of Saturn](https://open.spotify.com/artist/4oiMZnQMj43kMUA41Q1H1x) | [Son of Earth and Sky](https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu) | 9:09 |
+| 64 | [Marijuanaut's Theme](https://open.spotify.com/track/6zIcwUvXpw1cTJWYGYdpX4) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [The Sciences](https://open.spotify.com/album/6X0ErPKlQAxQDhWKNprz7u) | 6:40 |
 | 65 | [Echoes](https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG) | [Elephant Tree](https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm) | [Elephant Tree](https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt) | 6:07 |
-| 66 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
-| 67 | [Big Sky Theory](https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc) | 8:28 |
+| 66 | [Big Sky Theory](https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc) | 8:28 |
+| 67 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
 | 68 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
 | 69 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
 | 70 | [Mississippi King](https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J) | 3:34 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 88 | [Acid Roulette](https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn) | 5:49 |
 | 89 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
 | 90 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
-| 91 | [Palomino](https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Mobile Babylon](https://open.spotify.com/album/26RaBDkrbF2tZkn3eojKmO) | 3:45 |
-| 92 | [The Ghosts of Charlie Barracuda](https://open.spotify.com/track/2CeY0S8kVprPlCO4r5ffzx) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 7:46 |
+| 91 | [The Ghosts of Charlie Barracuda](https://open.spotify.com/track/2CeY0S8kVprPlCO4r5ffzx) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 7:46 |
+| 92 | [Palomino](https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Mobile Babylon](https://open.spotify.com/album/26RaBDkrbF2tZkn3eojKmO) | 3:45 |
 | 93 | [Old Gods](https://open.spotify.com/track/4buxOh1uX0TNEtbFL8muft) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Black Harvest](https://open.spotify.com/album/6EwCQb8IyVWHX1l2u4v1kY) | 3:58 |
 | 94 | [Cactus](https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I) | 5:49 |
 | 95 | [Vakuum](https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Feberdröm](https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Homage](https://open.spotify.com/track/7ztFsRXXKrkUjMaLn1siHJ) | [Causa Sui](https://open.spotify.com/artist/1TAcaMoUlvLpTUzh18TzDY) | [Euporie Tide](https://open.spotify.com/album/5Ylo2MVt7UMcv7gPGyC3hu) | 10:08 |
 | 100 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
 
-Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDhjNjE0MzA5YzdjYmI2ZmZkYjU4MzIzODliZTgyZDZi`
+Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDYxYzkzMTE0MmUzNDQwNGNhZjAxZTI2OTQ5NGExNGU4`

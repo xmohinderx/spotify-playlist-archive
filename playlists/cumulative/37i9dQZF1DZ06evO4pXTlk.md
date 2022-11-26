@@ -4,12 +4,13 @@
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4HQ8jbRFH0oLg7Xqm9c9uw)
+67 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4HQ8jbRFH0oLg7Xqm9c9uw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aberdeen 1987](https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:52 | 2022-09-16 |  |
-| [Bored](https://open.spotify.com/track/21cE8fzpFkT96SvHV4dxdT) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/0VttQpVxESGG6kV0yml1Xh) | 3:50 | 2022-09-16 |  |
+| [Bored](https://open.spotify.com/track/21cE8fzpFkT96SvHV4dxdT) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/0VttQpVxESGG6kV0yml1Xh) | 3:50 | 2022-09-16 | 2022-11-26 |
+| [Bored](https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd) | 3:50 | 2022-11-25 |  |
 | [Complicated](https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Complicated \(feat\. Heights\)](https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01) | 3:32 | 2022-09-16 |  |
 | [Cool Ethan](https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 5:16 | 2022-09-16 |  |
 | [Crazy](https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:32 | 2022-09-16 |  |

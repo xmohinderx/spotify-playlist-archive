@@ -1,12 +1,12 @@
 {
   "description": "se acab\u00f3 todo \ud83d\udc94",
-  "num_followers": 33852,
+  "num_followers": 33937,
   "original_name": "pov: te rompi\u00f3 el coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3MzI1NywwMDAwMDAwMDE4NGQ2MTY0MThiY2I2NzFmZGUzZGJlYTAwZjRlMGQ5",
+  "snapshot_id": "MTY1OTQ3MzI1NywwMDAwMDAwMGM4ZDIzZTVhZmYzYmM4YzQ2YzVmOTI4MGQwNGY0YTRi",
   "tracks": [
     {
       "added_at": "2022-08-02 20:47:37",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "In My Place",
-      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 213666,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw"
     },
     {
       "added_at": "2022-08-02 20:47:37",

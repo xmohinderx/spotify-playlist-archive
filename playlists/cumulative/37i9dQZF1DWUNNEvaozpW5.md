@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Fito.
 
-202 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+203 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 | 2022-09-02 |
 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 | 2022-05-26 | 2022-11-25 |
 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 | 2022-11-24 |  |
-| [Cuéntame Otra Vez](https://open.spotify.com/track/577HROYvw3EjGwsXMvyw4H) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Cuéntame Otra Vez](https://open.spotify.com/album/6g7yZxF3Z0Zla2tyQyLCSP) | 3:16 | 2022-11-24 |  |
+| [Cuéntame Otra Vez](https://open.spotify.com/track/1b6WPcxprk5UnOQMjG53VU) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Cuéntame Otra Vez](https://open.spotify.com/album/6imnCRWhFPjlYtMOifh0a6) | 3:16 | 2022-11-24 |  |
+| [Cuéntame Otra Vez](https://open.spotify.com/track/577HROYvw3EjGwsXMvyw4H) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Cuéntame Otra Vez](https://open.spotify.com/album/6g7yZxF3Z0Zla2tyQyLCSP) | 3:16 | 2022-11-24 | 2022-11-26 |
 | [Dentro De La Ley](https://open.spotify.com/track/113AF9qdjqcBHaOABYca6S) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [A Todo Que Sí](https://open.spotify.com/album/7LXLPz8rJAGS1fxWVBSQjS) | 2:48 | 2022-05-19 | 2022-07-25 |
 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 | 2022-07-21 |  |
 | [Devil Came To Me \- 2007 Remastered Version](https://open.spotify.com/track/7oycM5ZYxqampQrp1z5Zsk) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [2](https://open.spotify.com/album/1wDgA9FEC7ITE6OTbt6KOC) | 4:36 | 2022-05-26 | 2022-07-27 |

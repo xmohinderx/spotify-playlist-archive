@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,679 likes - 80 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,716 likes - 80 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 21 | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc) | 6:29 |
 | 22 | [Bocuma](https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:35 |
 | 23 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
-| 24 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
-| 25 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 |
+| 24 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 |
+| 25 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
 | 26 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
 | 27 | [Letters \- NTO Remix](https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [A Magic World \(Remixes\)](https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS) | 6:05 |
 | 28 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 50 | [Pill Collins](https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS) | [Trickski](https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm) | [After & Before EP](https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf) | 7:35 |
 | 51 | [Warped](https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Warped](https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG) | 7:30 |
 | 52 | [Opal Waltz](https://open.spotify.com/track/058bYtysQS0bnt7KtEnZsg) | [Supernaive](https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq) | [Dazed & Confused](https://open.spotify.com/album/15egQXR5QFe5oyqH0U4rlE) | 3:43 |
-| 53 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
-| 54 | [Loop No 1](https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Minor Thought](https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA) | 6:12 |
+| 53 | [Loop No 1](https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Minor Thought](https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA) | 6:12 |
+| 54 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
 | 55 | [Vanilla](https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Vanilla](https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj) | 6:47 |
 | 56 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
 | 57 | [Bonder](https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR) | [Rocket Empire](https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82), [Amber Sparks](https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf) | [Sky Float Sun](https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb) | 5:31 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 77 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 |
 | 78 | [Shift II \- Original Mix](https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Shift I \- II](https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX) | 5:56 |
 | 79 | [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 |
-| 80 | [Ars Vivendi](https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm) | [Eisket](https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK) | [Ars Vivendi](https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F) | 6:21 |
+| 80 | [Epoch](https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch \(Deluxe Version\)](https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg) | 5:45 |
 
-Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMGQ0NjkzZDcwYTE3ZDgwNzlhY2VjNzI4MmRkYWYzNTU5`
+Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMGMyMDE0MGI0YjNjNDk5MmUyZTZhNDk5NGNmNmVlNjRl`

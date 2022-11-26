@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Kiyu
 
-317 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+318 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [MISTRESS](https://open.spotify.com/track/4iDwZYGMHF30Nh12OUHtcD) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [MISTRESS](https://open.spotify.com/album/5Z11m001u3WTHH5sDxLXFC) | 3:01 | 2022-11-03 |  |
 | [MK Nose](https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [Qqbbg](https://open.spotify.com/artist/6ZmrXLpXLuqQRvZNvgHg1O) | [MK Nose](https://open.spotify.com/album/7aprLIUrc6j6iq3jtaveA4) | 2:29 | 2022-09-08 |  |
 | [Monsoon](https://open.spotify.com/track/4fKsTs4EEVirWN9NNswks8) | [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v), [黃浩琳](https://open.spotify.com/artist/4gEBX9EZfO1axr12JUzJwH) | [Monsoon](https://open.spotify.com/album/0ctCyFo8GsF9mXbc9EehCg) | 3:24 | 2022-10-13 |  |
+| [Naive](https://open.spotify.com/track/0pPsYNkqfeCLz8tU7pml67) | [Art Is Not Limited](https://open.spotify.com/artist/5BpVkT2p2dszJSb9MVVpBI) | [Naive](https://open.spotify.com/album/50BsGgKq2VSOGZdCiyTFSi) | 3:28 | 2022-11-24 |  |
 | [NEARLY GOD](https://open.spotify.com/track/6zb92zD4k9u5KdZOhxoxas) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [NEARLY GOD](https://open.spotify.com/album/4XuDUYzFzs6Zlrq1YYI7DR) | 4:36 | 2022-05-26 | 2022-09-09 |
 | [Neon City](https://open.spotify.com/track/7B90DgRulySmb1w7mWvrs4) | [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo) | [Missing Narrative](https://open.spotify.com/album/648NUDHrn7UYzmAWS1AYMO) | 4:28 | 2022-05-26 | 2022-07-29 |
 | [never back down \(feat\. Matt Force\)](https://open.spotify.com/track/3FNHrjP74rza1IkwT1QlB7) | [hirsk](https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N) | [never back down](https://open.spotify.com/album/6eVjRbkOGwqcniNm732ZBD) | 2:55 | 2022-11-03 |  |

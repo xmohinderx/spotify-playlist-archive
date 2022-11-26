@@ -4,7 +4,7 @@
 
 > X\-Tense entra na zona.
 
-158 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+159 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 | 2022-07-16 |  |
 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 | 2022-07-16 | 2022-11-18 |
 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 | 2022-07-16 |  |
+| [Man Down](https://open.spotify.com/track/6J6DcdqOLCCA3VZ9mr6VPD) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Fumaxa](https://open.spotify.com/artist/1qMTgrvxRRHO3rflIONsCP) | [Man Down](https://open.spotify.com/album/1S5w4wJZoMPoacHqBWWTwF) | 3:12 | 2022-11-25 |  |
 | [Many Men](https://open.spotify.com/track/2FWGa7ifIbKNxDvgfhPIir) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/5tIZgTkR5MAt3bX0NzzDlc), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men](https://open.spotify.com/album/5oPtD5FZsI36L1FVqUC6Rj) | 3:07 | 2022-09-22 | 2022-10-20 |
 | [Many Men \- Special Version](https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC) | [DJ Cirofox](https://open.spotify.com/artist/0w6M4MwOc9BCULOgqeNl4p), [Lz XROOTZ](https://open.spotify.com/artist/02bFLZcUEYAiFawaiPgD5V), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men \(Special Version\)](https://open.spotify.com/album/40hk62MfatGW1mdy7GLn4R) | 3:07 | 2022-10-13 | 2022-11-10 |
 | [Mar Azul](https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Mar Azul](https://open.spotify.com/album/0pDADbq5FFUMkls9VeYW9g) | 3:13 | 2022-09-01 |  |

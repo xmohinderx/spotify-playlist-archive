@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Poppy, Kilo Kish, Eartheater and more",
+  "description": "With Poppy, Eartheater, Kilo Kish and more",
   "name": "Grimes Radio",
   "published_playlist_ids": [
     "18KhvyGVGWgFiASCWVYL67"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 201946,
       "name": "Ain\u2019t Your Right",
       "url": "https://open.spotify.com/track/2bunWQerOZ16R4iWR4PGMt"
@@ -675,6 +675,24 @@
       "duration_ms": 225000,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/0hG89hvnS0Bjuhw9BoeAEL"
+    },
+    {
+      "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/0BZZv92pfmEUukZMhoMfpl"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238808,
+      "name": "Airsick",
+      "url": "https://open.spotify.com/track/4yJN7H5h6VSKsM2H19unaB"
     },
     {
       "album": {
@@ -3055,7 +3073,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 205026,
       "name": "BLOODY FUTURE",
       "url": "https://open.spotify.com/track/012FvZSHmM8j1G1j6KmzNE"
@@ -3359,7 +3377,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 279880,
       "name": "Boys",
       "url": "https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO"
@@ -4157,7 +4175,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 188333,
       "name": "Char",
       "url": "https://open.spotify.com/track/0jhxxEBzlvuDqAqV9i9Iuc"
@@ -4291,7 +4309,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 174219,
       "name": "Chic Chick",
       "url": "https://open.spotify.com/track/7fNNmMAgvOyQi4WHIOSM8A"
@@ -4385,7 +4403,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 173840,
       "name": "CHOICE COWBOY",
       "url": "https://open.spotify.com/track/7BjbkbWJrPfRp0Z4NUvYhp"
@@ -4403,7 +4421,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 242091,
       "name": "Choke",
       "url": "https://open.spotify.com/track/7BWyFa7hnm2D31CVydyUMl"
@@ -5347,7 +5365,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 176640,
       "name": "Crushcrushcrush",
       "url": "https://open.spotify.com/track/6ZCGKyXcGbYc6tdP6unPVY"
@@ -6503,7 +6521,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 228711,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
@@ -6741,7 +6759,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 211266,
       "name": "Driving",
       "url": "https://open.spotify.com/track/7H3kTo0jteso2kExMZH7f4"
@@ -7333,7 +7351,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 249906,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
@@ -7983,7 +8001,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 209760,
       "name": "fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
@@ -8077,7 +8095,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 155106,
       "name": "Fleece",
       "url": "https://open.spotify.com/track/505X13lc9zufVvKKeZ7Ow9"
@@ -9503,7 +9521,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 229323,
       "name": "Hands All Over Me",
       "url": "https://open.spotify.com/track/6SUDCYjesC8aFI0Lic0m3T"
@@ -10489,7 +10507,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 157078,
       "name": "Hot Girl (Bodies Bodies Bodies)",
       "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
@@ -10651,7 +10669,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 281577,
       "name": "Humble Bones",
       "url": "https://open.spotify.com/track/3bQ3g7uap3wJyU0Pp02C54"
@@ -10853,7 +10871,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 192001,
       "name": "I Felt Love",
       "url": "https://open.spotify.com/track/3m04gMIUG6HgYHn65fy5Xt"
@@ -11131,6 +11149,24 @@
       "duration_ms": 186220,
       "name": "I'm Poppy",
       "url": "https://open.spotify.com/track/0Im84bX7LT7FLt8reDr9ck"
+    },
+    {
+      "album": {
+        "name": "I'm Your Empress Of",
+        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105506,
+      "name": "I'm Your Empress Of",
+      "url": "https://open.spotify.com/track/5QBDPkDWZBynCBLqxzUObG"
     },
     {
       "album": {
@@ -12389,7 +12425,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 186875,
       "name": "Last Day / \u041d\u043e\u0432\u044b\u0439 \u0414\u0435\u043d\u044c",
       "url": "https://open.spotify.com/track/5qJGMk3QL3hEYI4a7GuQsh"
@@ -13021,7 +13057,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 206266,
       "name": "Lips Apart",
       "url": "https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD"
@@ -13111,7 +13147,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
@@ -13237,7 +13273,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 239613,
       "name": "lofticries",
       "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
@@ -14495,7 +14531,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 268538,
       "name": "Miss Amor",
       "url": "https://open.spotify.com/track/7fn9QWaW8X8BmHmII1mHsB"
@@ -15503,7 +15539,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 238293,
       "name": "Nightmusic",
       "url": "https://open.spotify.com/track/1KIb20Sgqg4XiRIPaEBwDv"
@@ -15655,7 +15691,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 245866,
       "name": "Nobody Asked Me (If I Was Okay)",
       "url": "https://open.spotify.com/track/0UOQdxiWOMJDAw8AHSslDr"
@@ -16577,7 +16613,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 221093,
       "name": "Pap Smear",
       "url": "https://open.spotify.com/track/2RuNFmIS9tzrEMRBeVFt5c"
@@ -17187,7 +17223,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 241388,
       "name": "Pocky Boy",
       "url": "https://open.spotify.com/track/6Ts2TyVBF6Osom4IV88JNr"
@@ -18033,7 +18069,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 306532,
       "name": "Realiti",
       "url": "https://open.spotify.com/track/7eXFZCiP9GqdMUashk96UF"
@@ -18785,7 +18821,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 183423,
       "name": "Satanic Slumber Party",
       "url": "https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz"
@@ -19661,7 +19697,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194622,
       "name": "Sims 2",
       "url": "https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI"
@@ -19989,7 +20025,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 178105,
       "name": "Smokescreen",
       "url": "https://open.spotify.com/track/3BI3yIp1aa5yzMNpyTmNyX"
@@ -20917,7 +20953,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 168230,
       "name": "Starfall",
       "url": "https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv"
@@ -21247,7 +21283,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 240626,
       "name": "Suffocation",
       "url": "https://open.spotify.com/track/33ZJkoSI4m9RzT4rZUthGn"
@@ -22071,7 +22107,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 234500,
       "name": "The Loneliest Girl",
       "url": "https://open.spotify.com/track/1Db2LhWkYWsGiuayU9wnfE"
@@ -22609,7 +22645,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 205774,
       "name": "Too Dead Inside",
       "url": "https://open.spotify.com/track/3xpjud2OuXqfbzLve7j0OV"
@@ -23385,7 +23421,7 @@
       ],
       "date_added": "2021-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 242960,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f"
@@ -23677,7 +23713,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 261653,
       "name": "Violent Youth",
       "url": "https://open.spotify.com/track/67cdrrKC32SfLTcYMPDfcK"
@@ -23789,7 +23825,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 183641,
       "name": "Void",
       "url": "https://open.spotify.com/track/09hFzxySPHV6PMWUiW91Di"
@@ -24251,7 +24287,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 231906,
       "name": "White Gold",
       "url": "https://open.spotify.com/track/7dZ51w8RIzFVzU46L4weYa"

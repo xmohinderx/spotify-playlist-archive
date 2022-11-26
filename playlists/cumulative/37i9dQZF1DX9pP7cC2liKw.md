@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-227 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+228 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Baianá](https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [O Seguinte é Esse](https://open.spotify.com/album/5dEA3Zh45vQKgrmJJuFV9p) | 4:39 | 2022-01-04 |  |
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2022-01-04 | 2022-07-24 |
 | [Baile Fodongo](https://open.spotify.com/track/6lJ3bXlW58cRjVm28Lej6A) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Baile Fodongo](https://open.spotify.com/album/0CoY38MAJSKeLOlqbEnXxC) | 5:06 | 2022-01-04 | 2022-07-03 |
+| [Basta Parlare](https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Basta Parlare](https://open.spotify.com/album/0jaWU8aTVbgCkA5DFDQyGN) | 3:14 | 2022-11-25 |  |
 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 | 2022-04-07 |  |
 | [Cabina Forestal](https://open.spotify.com/track/5kyI7igBLCm2ghs3ItwVyW) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Jasmine Alkari](https://open.spotify.com/artist/6aBZKa0guKloY7cRlvONVj) | [Tulum \- SACBE 2018](https://open.spotify.com/album/4bMWegc81v2ThZKpUpB6en) | 6:38 | 2022-04-17 | 2022-07-28 |
 | [Café Com Leite \- Boogát Remix](https://open.spotify.com/track/4sNz50CxrExnsoeELpGoIk) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Café Com Leite \(Boogát Remix\)](https://open.spotify.com/album/56GcmWbtGrwlJPmh8DCkpo) | 4:15 | 2022-04-17 | 2022-07-29 |
@@ -104,7 +105,7 @@
 | [Je Pense à Toi](https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Je Pense à Toi](https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz) | 4:32 | 2022-01-04 | 2022-07-24 |
 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 | 2022-02-25 | 2022-07-29 |
 | [Komorebi](https://open.spotify.com/track/05C1jOzbVwgBk7QIblRtIS) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Komorebi](https://open.spotify.com/album/4mc84YGqjBp90AnPB1XfkA) | 3:33 | 2022-08-13 | 2022-09-13 |
-| [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2022-01-04 |  |
+| [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2022-01-04 | 2022-11-26 |
 | [La Frontera](https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Jallalla](https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c) | 5:40 | 2022-01-04 | 2022-10-14 |
 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 | 2022-09-02 |  |
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2022-09-02 | 2022-11-13 |

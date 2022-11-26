@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,440 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,453 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 65 | [Green Grass](https://open.spotify.com/track/7kIDMuaQ1JNJuEWjKLMLhM) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Green Grass](https://open.spotify.com/album/7aCF5YOCtZYyiJOnrK4ESH) | 3:05 |
 | 66 | [Grow](https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3) | 2:51 |
 | 67 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 |
-| 68 | [Sister Ray](https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Sister Ray](https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ) | 3:39 |
-| 69 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 |
+| 68 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 |
+| 69 | [Sister Ray](https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Sister Ray](https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ) | 3:39 |
 | 70 | [The Sun’s Gonna Rise](https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [The Sun’s Gonna Rise](https://open.spotify.com/album/0E6xJ4XfgiqiassmXiS7IK) | 3:28 |
 | 71 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
 | 72 | [unbreak ur heart](https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [unbreak ur heart](https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
 | 80 | [Cloudy Day \- Acoustic](https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day \(Acoustic\)](https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ) | 3:05 |
 
-Snapshot ID: `MTY2Njk5MDY4OCwwMDAwMDAwMDNhOGQ5NDQ5Yzk1N2M2ZmI3MWJmZGUzNWNjYmZhZDJm`
+Snapshot ID: `MTY2Njk5MDY4OCwwMDAwMDAwMDJlY2I3YWIzNzU5Mzk1MTk3ZTQ1YmY4ODI4Nzc2YWJk`

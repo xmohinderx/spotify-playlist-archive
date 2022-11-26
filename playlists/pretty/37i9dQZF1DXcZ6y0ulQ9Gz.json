@@ -1,12 +1,12 @@
 {
   "description": "The best of Indie in one place. Cover: Steve Lacy",
-  "num_followers": 26158,
+  "num_followers": 26165,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDdmZDY2NjMyZGUwNWJjMjVmNjlhOTQ0YmE3YTkwMTA2",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDUwZGVlMDA2YWQwNzk0Mjc4MTRiOTMxNTI3NGYwY2E4",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Run Away to Mars",
-        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 237800,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -559,22 +559,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -595,18 +591,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Kerosene!",
-      "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Kerosene!",
+      "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Once Twice Melody",
-      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "La vita nuova",
         "url": "https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 260876,
       "name": "People, I've been sad",
       "url": "https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Once Twice Melody",
+      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 325828,
       "name": "Love Proceeding",
       "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "feel away (feat. James Blake & Mount Kimbie)",
         "url": "https://open.spotify.com/album/3dkB97Zw0sisRWTn0Wokjg"
       },
@@ -1623,6 +1607,42 @@
       "duration_ms": 203572,
       "name": "feel away (feat. James Blake & Mount Kimbie)",
       "url": "https://open.spotify.com/track/20wMPnqHdNdBWaKRaMM7fD"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 220332,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1655,26 +1675,6 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 220332,
-      "name": "Bound",
-      "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
     },
     {
       "added_at": "2022-11-11 05:00:00",

@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: GALE
+> Fresh Latin pop on the rise\. Cover: Polimá Westcoast, Quevedo & Mora
 
-241 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
+247 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,9 @@
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-15 | 2022-05-21 |
 | [ATRÉVETE \- Afro Version](https://open.spotify.com/track/7ygxApodlwQufjiR4n1poP) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [SMTO](https://open.spotify.com/album/6LDbYYP5GFO7Y0iTerv4n2) | 2:31 | 2022-03-21 | 2022-06-13 |
 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 | 2022-04-01 | 2022-05-14 |
+| [BAILAR CONTIGO](https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:43 | 2022-11-25 |  |
 | [Barranquilla Bajo Cero](https://open.spotify.com/track/02mhtclidb7Jpf1gwEasJh) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Barranquilla Bajo Cero](https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf) | 4:06 | 2022-06-28 | 2022-07-26 |
+| [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2022-11-25 |  |
 | [BB](https://open.spotify.com/track/4OoDeRIb0xo5DfQQ9RligQ) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [BB](https://open.spotify.com/album/11cTDFSZsSCaktbjK6TOZi) | 2:14 | 2022-03-21 | 2022-07-26 |
 | [BBB](https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [BBB](https://open.spotify.com/album/5RHyPiHNjAGcCq3KraVSYf) | 2:34 | 2022-05-06 | 2022-07-26 |
 | [Beirut](https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Beirut](https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH) | 2:31 | 2022-03-21 | 2022-05-07 |
@@ -73,6 +75,7 @@
 | [De Frente](https://open.spotify.com/track/5T0DhxjhBrdrG1H6JTsLpA) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De Frente](https://open.spotify.com/album/4Rztmpw4IDbZcTLzcCgxY0) | 3:29 | 2022-03-21 | 2022-05-07 |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana Velasquez](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-03-21 | 2022-04-02 |
 | [descomplicados](https://open.spotify.com/track/6LAU7C4wP7JKX2ejdoD4Jm) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [descomplicados](https://open.spotify.com/album/1TYlMgA9p6MDchfnrkvJ3t) | 2:44 | 2022-09-09 | 2022-10-29 |
+| [Desorden](https://open.spotify.com/track/3ZAhE8dEwutVtjaOIUwQuS) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [Desorden](https://open.spotify.com/album/3HPJuawRm4v79x8ukWIca4) | 2:24 | 2022-11-25 |  |
 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 | 2022-03-21 | 2022-04-16 |
 | [Dile](https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Dile](https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE) | 3:00 | 2022-10-04 |  |
 | [DIME QUIÉN????](https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DIME QUIÉN????](https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV) | 2:44 | 2022-10-28 |  |
@@ -101,6 +104,7 @@
 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 | 2022-04-01 | 2022-07-09 |
 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 | 2022-10-28 |  |
 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 | 2022-10-04 |  |
+| [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2022-11-25 |  |
 | [Fuckin' Cupido </3](https://open.spotify.com/track/0LsoBe7x8VCHCdgPFxe7db) | [Jean Kala](https://open.spotify.com/artist/4fHIspqJ3qTfWvK3UAbOl9), [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Ndrey Botto](https://open.spotify.com/artist/5iOU7GvWyx3JiaxjJxesd9) | [Fuckin' Cupido </3](https://open.spotify.com/album/7kybS1WpOJk8MBniNTzjVK) | 3:46 | 2022-07-01 | 2022-10-29 |
 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 | 2022-07-25 | 2022-10-29 |
 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 | 2022-06-28 | 2022-10-29 |
@@ -128,6 +132,7 @@
 | [La Equivocada](https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Equivocada](https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l) | 3:18 | 2022-04-14 | 2022-06-18 |
 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 | 2022-10-07 |  |
 | [La Única \- Sprite Limelight](https://open.spotify.com/track/1VAYxguLGwy4NpnLMSh8R9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Única \(Sprite Limelight\)](https://open.spotify.com/album/7MUPz6QaXyT6CBZCHoQcjX) | 2:29 | 2022-10-07 |  |
+| [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 | 2022-11-25 |  |
 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 | 2022-07-08 | 2022-10-29 |
 | [Llorar En La Ducha](https://open.spotify.com/track/1eXn4omRJkqVqUynAcp7dR) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Llorar En La Ducha](https://open.spotify.com/album/7vdPp2sx8qDWDKdQx9BA0O) | 3:15 | 2022-05-06 | 2022-07-29 |
 | [Loco](https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Loco](https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0) | 2:30 | 2022-09-09 | 2022-10-29 |
@@ -143,6 +148,7 @@
 | [Mentiroso](https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde) | [NATYASH](https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mentiroso](https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9) | 3:39 | 2022-10-04 |  |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-03-21 | 2022-05-07 |
 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-07-25 | 2022-10-29 |
+| [Mil Maneras de Morir](https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Mil Maneras de Morir](https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba) | 2:55 | 2022-11-25 |  |
 | [Mira Loco](https://open.spotify.com/track/4U3m6mG7gzJR38lNyzoZa5) | [Valeria Scolari](https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ) | [Mira Loco](https://open.spotify.com/album/1GSKwQEp4LaOnXST8H9Oi8) | 2:58 | 2022-06-12 | 2022-07-29 |
 | [Moka](https://open.spotify.com/track/0YWNYdhTHfWkXw4fiWRbJH) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Moka](https://open.spotify.com/album/1ePn83tNOKrljAeDRekgTE) | 3:07 | 2022-05-20 | 2022-08-09 |
 | [Money](https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Money](https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P) | 2:33 | 2022-03-21 | 2022-07-09 |

@@ -908,6 +908,42 @@
     },
     {
       "album": {
+        "name": "Cruisin",
+        "url": "https://open.spotify.com/album/7tPX59Ir4f3TlYxAHabC4V"
+      },
+      "artists": [
+        {
+          "name": "4TB",
+          "url": "https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145361,
+      "name": "Cruisin",
+      "url": "https://open.spotify.com/track/05IEDJVQnFPggjAD0o0vB4"
+    },
+    {
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/00jgyv6zuR4TrBNJubM84f"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grape",
+          "url": "https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139581,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/02o4X4FcJr6YeDxsNypNrY"
+    },
+    {
+      "album": {
         "name": "detour",
         "url": "https://open.spotify.com/album/3W42O1LosXXhBD1d5N5TQH"
       },

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Keisuke Kuwata\(桑田佳祐\)
 
-414 songs - 1 day 3 hr 20 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+415 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 | 2022-07-28 | 2022-09-24 |
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-05-10 | 2022-07-29 |
 | [September](https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [September](https://open.spotify.com/album/3skQf6NwdlQXH0OvOfH4Rg) | 3:14 | 2022-09-06 | 2022-10-12 |
+| [Shiroi Koibitotachi \[2022 Remaster\]](https://open.spotify.com/track/3lVj9Znb5F2BpHMZmp1Id2) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:42 | 2022-11-22 |  |
 | [shuttle way](https://open.spotify.com/track/1AuES2HPRFzcZZbbUbXxGz) | [Strobolights](https://open.spotify.com/artist/3h0GJ51Ax2cxu6m5PflkWZ) | [shuttle way](https://open.spotify.com/album/6m0hIIxkOsAhXSchfiCkIm) | 3:03 | 2022-11-03 | 2022-11-09 |
 | [Silhouette](https://open.spotify.com/track/1QdGtH513X4JGGjuLKsUl1) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Silhouette](https://open.spotify.com/album/4y8XGDlXX8HNqaEZrPNIaW) | 3:37 | 2022-05-19 | 2022-06-22 |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 |  |
@@ -399,7 +400,7 @@
 | [物語のように](https://open.spotify.com/track/1B3x3AMvyCR1Ce5pjl56hM) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [物語のように](https://open.spotify.com/album/5nCrvokzQ6dm6NhPLHZEAG) | 4:30 | 2022-05-19 | 2022-05-25 |
 | [疾風怒濤](https://open.spotify.com/track/4JYrIuBfx1G0PjkMgapzsj) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [疾風怒濤](https://open.spotify.com/album/4dTOxbXSDpVGs4tR6ByCZQ) | 3:56 | 2022-05-10 | 2022-07-28 |
 | [白](https://open.spotify.com/track/6v8y2xwJ1fEWfwYzO2BMeu) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [白](https://open.spotify.com/album/5CWAEKiWrNq2lvQ87R4TcD) | 5:03 | 2022-05-22 | 2022-07-27 |
-| [白い恋人達](https://open.spotify.com/track/5wfKPYODAr3aCGpOAopNZK) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [白い恋人達](https://open.spotify.com/album/0eJgpR774HEMougzO27KpC) | 4:44 | 2022-11-22 |  |
+| [白い恋人達](https://open.spotify.com/track/5wfKPYODAr3aCGpOAopNZK) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [白い恋人達](https://open.spotify.com/album/0eJgpR774HEMougzO27KpC) | 4:44 | 2022-11-22 | 2022-11-26 |
 | [白い紙飛行機](https://open.spotify.com/track/4jzo48ABs5PnEeQFoCVmtx) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [白い紙飛行機](https://open.spotify.com/album/17YgrMGjan9sj159UUXWRO) | 3:40 | 2022-09-13 | 2022-09-28 |
 | [真夏のスキャット \- 2022version](https://open.spotify.com/track/05ua1KAx7AcW7NUNd3F9He) | [Gomes The Hitman](https://open.spotify.com/artist/3PBXjLwd5K3SfNgKcX1I2X) | [slo\-mo replay](https://open.spotify.com/album/5xLIXu1M862sXdSj3VI0ny) | 3:29 | 2022-06-21 | 2022-07-24 |
 | [眠れない](https://open.spotify.com/track/3wGXqwM5r5b3UY2upNZ0RZ) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [眠れない](https://open.spotify.com/album/0P6SfXlvQdEfCS0s9jdLi7) | 4:14 | 2022-05-17 | 2022-07-28 |

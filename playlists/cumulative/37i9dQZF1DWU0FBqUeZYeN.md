@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-245 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/2RmAlQJbxH7kxDRlcWNF45)
+246 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/2RmAlQJbxH7kxDRlcWNF45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Rip It Up](https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:21 | 2015-07-23 |  |
 | [Rip It Up](https://open.spotify.com/track/2KWMOA4quebUqWesMwFxcn) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Directly From My Heart: The Best Of The Specialty & Vee\-Jay Years](https://open.spotify.com/album/0YXxGLHMFDhINorOcUFCRX) | 2:21 | 2015-07-23 | 2022-11-13 |
 | [Rip It Up](https://open.spotify.com/track/2YPkxN780ffjJFXGIPdROg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard \(Remastered\)](https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0) | 2:22 | 2015-07-23 | 2022-07-29 |
-| [Roadrunner \(Once\)](https://open.spotify.com/track/48iefvWUrp8dYGciSt4oz5) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Jonathan Richman & The Modern Lovers \(Expanded Edition\)](https://open.spotify.com/album/58yLg31JUVwWoaiqD727YX) | 4:44 | 2015-07-23 |  |
+| [Roadrunner \(Once\)](https://open.spotify.com/track/48iefvWUrp8dYGciSt4oz5) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Jonathan Richman & The Modern Lovers \(Expanded Edition\)](https://open.spotify.com/album/58yLg31JUVwWoaiqD727YX) | 4:44 | 2015-07-23 | 2022-11-26 |
+| [Roadrunner \(Once\)](https://open.spotify.com/track/63HEBa4dQwNFCjNYpykbXE) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Jonathan Richman & The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5vWDsBdGpZRDdpw1tDwagy) | 4:44 | 2015-07-23 |  |
 | [Roadrunner \(Once\)](https://open.spotify.com/track/4m8Uj8yu78liS57VosLtr1) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Roadrunner: The Beserkley Collection](https://open.spotify.com/album/5iKbwJTf8URd3TSR3xlsuH) | 4:43 | 2015-07-23 | 2022-07-29 |
 | [Rough Kids](https://open.spotify.com/track/5GXTkATEoM4XyCX1KLluMj) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Ultimate Dad](https://open.spotify.com/album/3PRhYrUJIpOcA7u6LNHNCS) | 2:23 | 2015-07-23 | 2022-11-13 |
 | [Rough Kids](https://open.spotify.com/track/5jRDGBWqxIQJ3jTE5kxwWO) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Handsome \(Bonus Track Edition\)](https://open.spotify.com/album/1IFkPHKS3pUgGJYPfzzqLv) | 2:26 | 2015-07-23 | 2022-07-29 |

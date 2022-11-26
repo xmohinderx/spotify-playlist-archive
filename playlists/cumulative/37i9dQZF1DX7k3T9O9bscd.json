@@ -176,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/7qCoXlzYUSkTNP6q5qkh8l"
+      },
+      "artists": [
+        {
+          "name": "Andreotti",
+          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417777,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL"
+    },
+    {
+      "album": {
         "name": "You Will Know Nothing",
         "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
       },
@@ -583,7 +601,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 364048,
       "name": "Burial",
       "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
@@ -4591,6 +4609,24 @@
       "duration_ms": 138623,
       "name": "\u00c7ar\u015fambay\u0131 Sel Ald\u0131",
       "url": "https://open.spotify.com/track/4Rvx92J5G9D840uqgZiLvD"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u5e38\u614b",
+        "url": "https://open.spotify.com/album/0gJn9nbQwbyKyRTQ7mrFN5"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u9daf\u774d\u7746(uguisu-naku)",
+          "url": "https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169539,
+      "name": "\u65b0\u5e38\u614b",
+      "url": "https://open.spotify.com/track/1MEWYQi6lFbpsvwrFrAGSn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7k3T9O9bscd"

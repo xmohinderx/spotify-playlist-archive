@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 218815,
+  "num_followers": 219470,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGYyNjQxMzUyNjc3MjRjN2U0MDE3YjIxMGJmMjNiNWE4",
+  "snapshot_id": "MTY2OTM1NDgwMCwwMDAwMDAwMDA5ZThhN2MyNDI5OTI2Y2FmZDNlZjAzMzIzMzhlZmM0",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
     },
     {
+      "added_at": "2022-11-25 05:40:00",
+      "album": {
+        "name": "Doomscrollers",
+        "url": "https://open.spotify.com/album/0i9pDfwACtlX4kkXd9tE6I"
+      },
+      "artists": [
+        {
+          "name": "Quasi",
+          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
+        }
+      ],
+      "duration_ms": 263551,
+      "name": "Doomscrollers",
+      "url": "https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8"
+    },
+    {
       "added_at": "2022-10-21 23:40:01",
       "album": {
         "name": "I've Had Enough",
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "Campus",
-      "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
         "name": "Inarticulation",
         "url": "https://open.spotify.com/album/4EEIHZ5NSNBBJG2RhLYdBW"
       },
@@ -677,20 +677,20 @@
       "url": "https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ"
     },
     {
-      "added_at": "2022-10-21 23:40:01",
+      "added_at": "2022-11-25 05:40:00",
       "album": {
-        "name": "Stone Cold Classics",
-        "url": "https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9"
+        "name": "what depression feels like",
+        "url": "https://open.spotify.com/album/1gjAVS3FRPAckKGKprCRnb"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Ethan Jewell",
+          "url": "https://open.spotify.com/artist/17Cit7wNuKM6q67MwLH6gD"
         }
       ],
-      "duration_ms": 355400,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w"
+      "duration_ms": 195636,
+      "name": "what depression feels like",
+      "url": "https://open.spotify.com/track/2nKxy7J1FyNAjkHtpJ7g3j"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -939,42 +939,6 @@
       "duration_ms": 256625,
       "name": "putting a spin on somebody that i used to know",
       "url": "https://open.spotify.com/track/7oG6YAqkuBHBZ0qgtDhOAm"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "INSIDE",
-        "url": "https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a"
-      },
-      "artists": [
-        {
-          "name": "Bo Burnham",
-          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
-        }
-      ],
-      "duration_ms": 249428,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/2ySaltE2swk0QsimILPK05"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "Black Sheep (Brie Larson Vocal Version)",
-        "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "Brie Larson",
-          "url": "https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy"
-        }
-      ],
-      "duration_ms": 294065,
-      "name": "Black Sheep - Brie Larson Vocal Version",
-      "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -1291,22 +1255,6 @@
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
         "name": "What Could Be Better",
         "url": "https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c"
       },
@@ -1451,22 +1399,6 @@
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 207297,
-      "name": "Viva Las Vengeance",
-      "url": "https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
         "name": "Let Live & Let Ghosts",
         "url": "https://open.spotify.com/album/0zQxOFhjixRmW1w6LftIyX"
       },
@@ -1495,22 +1427,6 @@
       "duration_ms": 136683,
       "name": "reaching",
       "url": "https://open.spotify.com/track/3dQzkQ4fsMV0iCHLB3hfDk"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2022-10-21 23:40:01",

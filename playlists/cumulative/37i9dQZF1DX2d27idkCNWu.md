@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-126 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
+127 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 | 2021-11-05 |  |
 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me \(Acoustic\)](https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME) | 3:34 | 2022-10-07 |  |
 | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH) | 3:08 | 2022-09-09 |  |
-| [Die Of A Broken Heart \- Acoustic](https://open.spotify.com/track/1RVq89LvXQYuEDurokDRvO) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Die Of A Broken Heart \(Acoustic\)](https://open.spotify.com/album/4pGufWAK66P4G7QyuaW2Db) | 3:08 | 2022-11-04 |  |
+| [Die Of A Broken Heart \- Acoustic](https://open.spotify.com/track/1RVq89LvXQYuEDurokDRvO) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Die Of A Broken Heart \(Acoustic\)](https://open.spotify.com/album/4pGufWAK66P4G7QyuaW2Db) | 3:08 | 2022-11-04 | 2022-11-26 |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-11-05 |  |
 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 | 2021-11-05 |  |
+| [Entrelace](https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Entrelace](https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF) | 3:49 | 2022-11-25 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-11-05 |  |
 | [Exist for Love](https://open.spotify.com/track/09fAL7YwPV3YzVmQDzLY8d) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 4:12 | 2022-09-09 |  |
 | [Exist For Love](https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Exist For Love](https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV) | 4:12 | 2021-11-05 | 2022-10-03 |

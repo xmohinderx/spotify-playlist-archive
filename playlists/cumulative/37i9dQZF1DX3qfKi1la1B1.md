@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-83 songs - 5 hr 19 min - not published yet
+84 songs - 5 hr 25 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/2CwCFiP0e7pMifbg8LwYkr) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/0G4dt3QAptKXnpru2yEioj) | 3:17 | 2022-10-20 |  |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-10-20 |  |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-10-20 |  |
-| [Highway](https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9) | 5:28 | 2022-11-24 |  |
+| [Highway](https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g) | 5:28 | 2022-11-24 |  |
+| [Highway](https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9) | 5:28 | 2022-11-24 | 2022-11-26 |
 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-10-20 |  |
 | [inthemourning](https://open.spotify.com/track/53H91ncq2kL9SReFqTkm5t) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [inthemourning](https://open.spotify.com/album/0Hlea23CFRzVX7kgpId0x2) | 3:56 | 2022-10-20 |  |
 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 | 2022-10-20 |  |

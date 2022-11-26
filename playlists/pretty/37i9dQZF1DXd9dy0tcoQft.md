@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,640 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,655 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 57 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
 | 58 | [Loving You](https://open.spotify.com/track/1ba8Fr5ro68P3dLal3DhIe) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/74eFO86CCuo4y6W3k7dPvP) | 3:48 |
 | 59 | [Can't Stop Loving \(What Your Heart Still Loves\)](https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:23 |
-| 60 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 |
-| 61 | [Listen](https://open.spotify.com/track/62Ra9M5ggvltjHNNsJsegh) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen](https://open.spotify.com/album/6kspx9Uql5uXOIjQzy2gXL) | 3:55 |
+| 60 | [Listen](https://open.spotify.com/track/62Ra9M5ggvltjHNNsJsegh) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen](https://open.spotify.com/album/6kspx9Uql5uXOIjQzy2gXL) | 3:55 |
+| 61 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 |
 | 62 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 |
 | 63 | [Start over Again](https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Start over Again](https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V) | 3:39 |
 | 64 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 |
 | 65 | [Suitcase \(Add The Weight\)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [GR€Y](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 |
 
-Snapshot ID: `MTY2ODc3MDU2NiwwMDAwMDAwMGE1ZGRjY2UzZmNlN2FiYjAwZjM2ODY5ZDM1M2FhYzY3`
+Snapshot ID: `MTY2ODc3MDU2NiwwMDAwMDAwMDRkYzRmODRlMmQ3ODY0ZDUyNjQ1ODU2ODEzYTk5ZDI3`

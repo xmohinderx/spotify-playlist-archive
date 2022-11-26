@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: Trueno.",
+  "description": "Argentina en la casa! Foto: Nicki Nicole.",
   "name": "Reggaet\u00f3n Argentino",
   "published_playlist_ids": [
     "6tDUGVVPmoQw2RkVQfmtJk"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 169866,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/4HDJzMYiqYxbON1CGa19x4"
@@ -886,6 +886,24 @@
     },
     {
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
+    },
+    {
+      "album": {
         "name": "GABBANA",
         "url": "https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF"
       },
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 177360,
       "name": "Location",
       "url": "https://open.spotify.com/track/6DMbR6JnaJRQR9TZCq0fvu"
@@ -2033,6 +2051,24 @@
       "duration_ms": 142285,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/1upN12BuuI00PtPX5RwWQA"
+    },
+    {
+      "album": {
+        "name": "Perreando",
+        "url": "https://open.spotify.com/album/4RUqdOBF49MwSDwRhQMMRy"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137341,
+      "name": "Perreando",
+      "url": "https://open.spotify.com/track/338MIWSfnsOx5RVZWzq1GW"
     },
     {
       "album": {

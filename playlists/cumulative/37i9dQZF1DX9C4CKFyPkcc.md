@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-100 songs - 5 hr 52 min - not published yet
+101 songs - 5 hr 55 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Still Can’t Sleep On Christmas Eve](https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [A Family Christmas](https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5) | 3:20 | 2021-12-24 |  |
 | [Thank You](https://open.spotify.com/track/7w3nVvNQ2bIgK2iQ84MyOs) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:53 | 2021-12-24 |  |
 | [The Best Is Yet To Come \- A Song For The New Year](https://open.spotify.com/track/700BSt1v8IerFK91QUaSF4) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Best Is Yet To Come \(A Song For The New Year\)](https://open.spotify.com/album/4cvTdhtYabOff37JVeUF40) | 3:55 | 2021-12-24 |  |
+| [The Christmas Song](https://open.spotify.com/track/00fDNOdlo68hQZkFFCr0Q4) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 2:38 | 2021-12-24 |  |
 | [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 | 2021-12-24 |  |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-24 |  |
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-24 |  |
@@ -101,7 +102,7 @@
 | [We Need A Little Christmas](https://open.spotify.com/track/0tuY26eUFAtEWxVrj5fojS) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:26 | 2021-12-24 |  |
 | [What Child Is This?](https://open.spotify.com/track/5rM3dXlmgy5BtkamHPxdQl) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Morgan Ranney](https://open.spotify.com/artist/4NAuhahng7kSZqvfIXHFR9) | [What Child Is This?](https://open.spotify.com/album/2ZbATgq2AqrhhftlpkC0eb) | 2:16 | 2021-12-24 |  |
 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 | 2021-12-24 |  |
-| [What Child Is This?](https://open.spotify.com/track/1KoCiVRq9zGMdRsjkOCQ8K) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Birth Of A King](https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz) | 3:34 | 2021-12-24 |  |
+| [What Child Is This?](https://open.spotify.com/track/1KoCiVRq9zGMdRsjkOCQ8K) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Birth Of A King](https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz) | 3:34 | 2021-12-24 | 2022-11-26 |
 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 |  |

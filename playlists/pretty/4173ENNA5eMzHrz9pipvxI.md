@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Leftwing : Kody x Goodboys
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,569 likes - 21 songs - 1 hr 0 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,572 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 20 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 |
 | 21 | [Tempo](https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Tempo](https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa) | 3:18 |
 
-Snapshot ID: `NjMzMiw1ZjE0NDExMTBlZTVlYWYzNjkxNThiN2ZkZjM4MzdhYWQ5ZGM4YzI3`
+Snapshot ID: `NjMzMyw1MzI2MmI1OGYwODBjZjNhOWE1N2JjMzI3MWNiMjEyMjVjZTA1NDI2`

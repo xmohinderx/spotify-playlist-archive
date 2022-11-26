@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Jack Moves
 
-137 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
+138 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Blessings](https://open.spotify.com/track/420lSvUacrPEbvkgz8q0zk) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Blessings](https://open.spotify.com/album/2nghY2vP2Muiv2moRoLdpf) | 2:27 | 2022-07-29 |  |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 |  |
 | [Blutooth](https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Blutooth / enough 4 u](https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN) | 2:58 | 2022-05-20 |  |
-| [Boyfriend](https://open.spotify.com/track/2WXOEBgNo7OkkJ6HMoMnIg) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Boyfriend](https://open.spotify.com/album/6HqP7UpBF5HRGwZZzOwJHU) | 2:44 | 2021-11-26 |  |
+| [Boyfriend](https://open.spotify.com/track/2WXOEBgNo7OkkJ6HMoMnIg) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Boyfriend](https://open.spotify.com/album/6HqP7UpBF5HRGwZZzOwJHU) | 2:44 | 2021-11-26 | 2022-11-26 |
 | [Bring On The Rain \(feat\. Joss Stone\) \- 7" Version](https://open.spotify.com/track/4epSfucEoDLkUuYe1uU27b) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Bring On The Rain \(feat\. Joss Stone\)](https://open.spotify.com/album/25XlWNUBId69n12NQSzk7U) | 3:09 | 2022-04-01 | 2022-11-12 |
 | [By the River](https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf) | [Bomel](https://open.spotify.com/artist/3Y2UFS2qa5dYTZ0CRKsPZ7), [Jullyh](https://open.spotify.com/artist/3SHhwCP9HUkfFLoXa2CTRD) | [By The River](https://open.spotify.com/album/1noFa2oAOfTNilEv8CMtzM) | 3:27 | 2022-07-29 |  |
 | [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 | 2022-10-21 |  |
@@ -86,6 +86,7 @@
 | [Like You Do](https://open.spotify.com/track/63QhzuRjv4CwRiS5S2jbnd) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Like You Do](https://open.spotify.com/album/0C6DTs2pX6d1DOV4OS6a9g) | 5:23 | 2022-11-18 |  |
 | [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 |  |
 | [Living the Fantasy \- Edit](https://open.spotify.com/track/1YpxUaqkz9YOscGXTjkd5i) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Living the Fantasy](https://open.spotify.com/album/3CcdvFekEwCCuFAuIF683D) | 4:42 | 2022-04-29 |  |
+| [Lost & Found](https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl) | 3:59 | 2022-11-25 |  |
 | [Lost Tonight](https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Lost Tonight](https://open.spotify.com/album/40EL8JYJETe50ES1GN39Kp) | 2:51 | 2022-05-20 |  |
 | [Love And Appreciation \- Radio Edit](https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Love And Appreciation \(Radio Edit\)](https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558) | 3:08 | 2022-08-26 |  |
 | [Lucid](https://open.spotify.com/track/55P4JZd6AIy0uw7Idyod5e) | [Leif](https://open.spotify.com/artist/18Hmt48JdoqU1aNfFjlXEN), [J Matty](https://open.spotify.com/artist/1TNhcMWtFXnVTeBHyVQkfw) | [Lucid](https://open.spotify.com/album/3nCkMF4a6k4y53S5esgacG) | 2:46 | 2022-09-30 |  |

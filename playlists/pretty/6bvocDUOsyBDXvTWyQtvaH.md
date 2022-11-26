@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > Lo\-Fi, Beats, for Study and Focus..\. but around the Holidays.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,821 likes - 30 songs - 1 hr 17 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,823 likes - 30 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 | 29 | [The Little Drummer Boy \- LOUALLDAY Lofi Flip](https://open.spotify.com/track/6sufXyokCJgkXKeySyfolN) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [LOUALLDAY](https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Christmas In Lofi](https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ) | 1:43 |
 | 30 | [White Christmas \- LOUALLDAY Lofi Flip](https://open.spotify.com/track/4XYKwuLc6ycLXdVXuZCd7c) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [LOUALLDAY](https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Christmas In Lofi](https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ) | 1:57 |
 
-Snapshot ID: `MTA5MSw2YTY4MGI3NDYzNzYxYTljYmU4OGFkNjFmOTY3NmUyZGRjYjcwZWY1`
+Snapshot ID: `MTA5MyxhMTU1OWE2Nzc0MzBiN2VmNmIyYmYzZWFiNGJlZThkMTY0ZWIzZGU2`

@@ -4,11 +4,12 @@
 
 > Tracks popping off in the global Afro scene\. Cover: Ayra Starr
 
-99 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
+100 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-10 |  |
+| [911](https://open.spotify.com/track/6MGgw0sosO2pciVM56JB7g) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Mélange des genres](https://open.spotify.com/album/3FRGCpysHMtNdKsg7f8yVy) | 2:49 | 2022-11-25 |  |
 | [Agenda](https://open.spotify.com/track/6lnCVR1HeGL7c55x8A29xX) | [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Agenda](https://open.spotify.com/album/4xnnaBJnbYUGtupWT7jwek) | 2:07 | 2022-07-13 |  |
 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-17 |  |
 | [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-16 | 2022-11-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=0FitoAV0TlikCEZmOSnlsg\" > Ayra Starr </a>  and <a href=\"https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB?si=3UjT-tueQkqS39KEoK6dGA\" > Kelly Rowland</a> ",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=nKrIAInNTeSpQZnRMZGaLw\" > Naira Marley </a>  and <a href=\"https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL?si=QYs1j5iLSJaNsetulQjllA\" > BackRoad Gee</a> ",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 143291,
       "name": "Believe Us",
       "url": "https://open.spotify.com/track/7cvF9qkXEYNrLveiUVX3qs"
@@ -1093,6 +1093,28 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/5L6VbQiCxri3Nc34RvNUon"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206286,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/2TRVQlpDjhej74USx0RMF1"
     },
     {
       "album": {
@@ -1969,7 +1991,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 163908,
       "name": "Help (feat. Pheelz)",
       "url": "https://open.spotify.com/track/288aAe5WOx05x67lDxvuTE"
@@ -2281,7 +2303,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 258320,
       "name": "In Da Car",
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
@@ -3491,7 +3513,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 214280,
       "name": "Nyash (Current & Savings)",
       "url": "https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p"
@@ -3999,6 +4021,32 @@
       "duration_ms": 178064,
       "name": "Pray 2 The East (feat. BNXN fka Buju)",
       "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
+    },
+    {
+      "album": {
+        "name": "Propeller (feat. BNXN & Pajel) [Remix]",
+        "url": "https://open.spotify.com/album/2UhHDTS4zYq8Xua2xFLytW"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Propeller (feat. BNXN & Pajel) - Remix",
+      "url": "https://open.spotify.com/track/07hlCKUyt1TxgKDSaqlxfh"
     },
     {
       "album": {
@@ -5514,6 +5562,28 @@
     },
     {
       "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
+    },
+    {
+      "album": {
         "name": "Verde",
         "url": "https://open.spotify.com/album/1njFnBtBmPTLGAxx02MqJD"
       },
@@ -5959,7 +6029,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194115,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/0jJD1bkgMc3XkBtRShAkAv"

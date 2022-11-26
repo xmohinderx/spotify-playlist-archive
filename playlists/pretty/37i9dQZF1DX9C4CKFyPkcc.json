@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the holidays with this fresh mix of new and classic Christmas songs!",
-  "num_followers": 40622,
+  "num_followers": 41928,
   "original_name": "Merry & Bright",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjMwMCwwMDAwMDAwMDRlOGJjMmQwNmYyMGQ3NTQzZWU5Y2EwNDNhNzM4MjZj",
+  "snapshot_id": "MTY0MDMyMjMwMCwwMDAwMDAwMGIyNmU0ZDUzOTVmZWU2NWE5NjA1OTk4OWY1YWFkMjBj",
   "tracks": [
     {
       "added_at": "2021-12-24 05:05:00",
@@ -791,22 +791,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Miracle Of Love: Christmas Songs Of Worship",
-        "url": "https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8"
+        "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
+        "url": "https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 263266,
-      "name": "Christmas Day",
-      "url": "https://open.spotify.com/track/58ePGDlx3W3o9sh8N1HLh3"
+      "duration_ms": 224527,
+      "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -843,18 +839,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
-        "url": "https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha"
+        "name": "Miracle Of Love: Christmas Songs Of Worship",
+        "url": "https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 224527,
-      "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg"
+      "duration_ms": 263266,
+      "name": "Christmas Day",
+      "url": "https://open.spotify.com/track/58ePGDlx3W3o9sh8N1HLh3"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "A Drummer Boy Christmas",
-        "url": "https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Heavenly Hosts",
-      "url": "https://open.spotify.com/track/73qkqix6nJuYUZQ44raWXs"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
         "name": "O Holy Night (feat. The Tenors)",
         "url": "https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 219880,
       "name": "Go Tell It on the Mountain",
       "url": "https://open.spotify.com/track/2MCi8fqRWip329C03pPwM6"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "A Drummer Boy Christmas",
+        "url": "https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Heavenly Hosts",
+      "url": "https://open.spotify.com/track/73qkqix6nJuYUZQ44raWXs"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Home for Christmas",
-        "url": "https://open.spotify.com/album/60AfMfaRKCmu1EqLIib6Td"
-      },
-      "artists": [
-        {
-          "name": "BarlowGirl",
-          "url": "https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Carol of the Bells / Sing We Now of Christmas",
-      "url": "https://open.spotify.com/track/7hHVcFvJn0DQXxzl1RTPdB"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
         "name": "A Christmas Album",
         "url": "https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 214280,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/0fQegvfhv9bLCLM662r9pa"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "Home for Christmas",
+        "url": "https://open.spotify.com/album/60AfMfaRKCmu1EqLIib6Td"
+      },
+      "artists": [
+        {
+          "name": "BarlowGirl",
+          "url": "https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Carol of the Bells / Sing We Now of Christmas",
+      "url": "https://open.spotify.com/track/7hHVcFvJn0DQXxzl1RTPdB"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "All I Need For Christmas",
-        "url": "https://open.spotify.com/album/1Ks288qIuyt8sSvFLdlyqU"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 181764,
-      "name": "All I Need For Christmas",
-      "url": "https://open.spotify.com/track/4meVKX0ubgfnqeucwixAt4"
+      "duration_ms": 287426,
+      "name": "I Can Hardly Wait 'Til Christmas",
+      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1247,6 +1243,26 @@
       "duration_ms": 261281,
       "name": "Noel (He Is Born)",
       "url": "https://open.spotify.com/track/0pBqDA7NC9zZZ9JbDRUQTA"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "All I Need For Christmas",
+        "url": "https://open.spotify.com/album/1Ks288qIuyt8sSvFLdlyqU"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "All I Need For Christmas",
+      "url": "https://open.spotify.com/track/4meVKX0ubgfnqeucwixAt4"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 174280,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/49H7RzdbKiIob64vinzhGz"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "I Can Hardly Wait 'Til Christmas",
-      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "A Very Maverick Christmas",
-        "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
-        }
-      ],
-      "duration_ms": 379055,
-      "name": "O Holy Night (feat. Melvin Crispell III & Mav City Gospel Choir)",
-      "url": "https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP"
       },
@@ -1423,22 +1399,6 @@
       "duration_ms": 212306,
       "name": "Home",
       "url": "https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Go Tell It On The Mountain",
-        "url": "https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 140464,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1463,6 +1423,46 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
+        "name": "A Very Maverick Christmas",
+        "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 379055,
+      "name": "O Holy Night (feat. Melvin Crispell III & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "Go Tell It On The Mountain",
+        "url": "https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 140464,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/3uO3DabVkqTyf5fwlKobt1"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 191440,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/1xixLkAu4Q7fo7MGlxOp8B"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/3gndDjG0Lxsm2b1eH5nA0Z"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
       "artists": [
         {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 257026,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/3gndDjG0Lxsm2b1eH5nA0Z"
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1531,22 +1547,18 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Jesus You Come (Acoustic)",
-        "url": "https://open.spotify.com/album/5mGAL4sMvLRUEVjGMQ4ImI"
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 278825,
-      "name": "Jesus You Come - Acoustic",
-      "url": "https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp"
+      "duration_ms": 251040,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1571,18 +1583,38 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+        "name": "Jesus You Come (Acoustic)",
+        "url": "https://open.spotify.com/album/5mGAL4sMvLRUEVjGMQ4ImI"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
+      "duration_ms": 278825,
+      "name": "Jesus You Come - Acoustic",
+      "url": "https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp"
+    },
+    {
+      "added_at": "2021-12-24 05:05:00",
+      "album": {
+        "name": "Miracle in a Manger",
+        "url": "https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "duration_ms": 256107,
+      "name": "Being Home for Christmas",
+      "url": "https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1603,34 +1635,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Snowflakes",
-        "url": "https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
       },
       "artists": [
         {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "Miracle in a Manger",
-        "url": "https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY"
-      },
-      "artists": [
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
         {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
         }
       ],
-      "duration_ms": 256107,
-      "name": "Being Home for Christmas",
-      "url": "https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5"
+      "duration_ms": 318400,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/4Ck4Qah5oq4a8hyVROESHj"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1667,22 +1687,22 @@
     {
       "added_at": "2021-12-24 05:05:00",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
+        "name": "Motown Christmas",
+        "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         },
         {
-          "name": "The Family",
-          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 318400,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/4Ck4Qah5oq4a8hyVROESHj"
+      "duration_ms": 158266,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/00fDNOdlo68hQZkFFCr0Q4"
     },
     {
       "added_at": "2021-12-24 05:05:00",
@@ -1699,26 +1719,6 @@
       "duration_ms": 249173,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/6RVYDDcu8qfcGgCPNPDJBS"
-    },
-    {
-      "added_at": "2021-12-24 05:05:00",
-      "album": {
-        "name": "The Birth Of A King",
-        "url": "https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 214956,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/1KoCiVRq9zGMdRsjkOCQ8K"
     }
   ],
   "unique_name": "Merry & Bright",

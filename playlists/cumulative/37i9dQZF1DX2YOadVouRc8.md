@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-114 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
+115 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-08-18 |  |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 |  |
 | [History](https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [History](https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0) | 2:57 | 2022-06-09 |  |
+| [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 | 2022-11-26 |  |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-06-09 | 2022-10-01 |
 | [Imagine](https://open.spotify.com/track/3W9O4vJXIbD4CwfJJg7uoO) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Imagine](https://open.spotify.com/album/4T2bNnsrgOuqtfLSIODbin) | 3:12 | 2022-06-09 | 2022-10-06 |
 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 | 2022-06-09 |  |
@@ -71,7 +72,7 @@
 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 | 2022-06-09 |  |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-06-09 |  |
 | [Love You Better](https://open.spotify.com/track/47Ktfsy8HVbU7bGZik0ASR) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Love You Better](https://open.spotify.com/album/7e0FseqTvBVNXw8Dicc6Xr) | 2:32 | 2022-06-09 | 2022-11-04 |
-| [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 | 2022-06-09 |  |
+| [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 | 2022-06-09 | 2022-11-26 |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-06-09 | 2022-10-01 |
 | [Maria](https://open.spotify.com/track/31vGsbC3mF1BQN2yoAIbwM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Saturn](https://open.spotify.com/album/4RIkecgp5BwhKiYTt9tmwB) | 2:43 | 2022-06-09 |  |
 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2022-06-09 |  |

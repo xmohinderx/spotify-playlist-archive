@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 273362,
       "name": "Cad\u00ea o Amor",
       "url": "https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 185457,
       "name": "Chega",
       "url": "https://open.spotify.com/track/34Ibxcbi3VvdgkJT6fDIA6"
@@ -950,6 +950,28 @@
     },
     {
       "album": {
+        "name": "O Que Me Espera",
+        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221805,
+      "name": "O Que Me Espera",
+      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
+    },
+    {
+      "album": {
         "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
         "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
@@ -1491,6 +1513,28 @@
       "duration_ms": 274005,
       "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+    },
+    {
+      "album": {
+        "name": "\u00danica Paz",
+        "url": "https://open.spotify.com/album/5nkSbqUiUnqxU6WGN0BHI3"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        },
+        {
+          "name": "Fruto Sagrado",
+          "url": "https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279914,
+      "name": "\u00danica Paz",
+      "url": "https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN"

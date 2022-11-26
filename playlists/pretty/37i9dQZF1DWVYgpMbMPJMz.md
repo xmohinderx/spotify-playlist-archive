@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Brooke Ligertwood
+> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Hope Darst
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,745 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,934 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Kingdom Come](https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO) | 3:58 |
 | 100 | [Holy Spirit Come](https://open.spotify.com/track/6sqw1SCU34sDEYXlIMeSq8) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Holy Spirit Come](https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq) | 4:18 |
 
-Snapshot ID: `MTY2ODc2MTA5NiwwMDAwMDAwMDI2OGIxOWRkNDI3YWYzOGYxOTcwOTFiODc1MGZjMzZi`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGM3N2IzOTZhNzNiZGYzZjUzODBkMTQyMGVhMDM4NjBi`

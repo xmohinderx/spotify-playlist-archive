@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1331987,
+  "num_followers": 1331974,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDk2NWEzNGU0Njg0YmY0NDIwOGRmMWEyNWQ2NDBlYmUw",
+  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMGQ2MWE0NjAyZjA3YzFjNmY5ZjAyZDI1OTQ1MTlmOTk4",
   "tracks": [
     {
       "added_at": "2022-04-15 16:56:49",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Gloria Duplex",
-        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Ether Garden",
-      "url": "https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Slow Tide",
         "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 191916,
       "name": "Now You Don't",
       "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Gloria Duplex",
+        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Ether Garden",
+      "url": "https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Siren Song",
         "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Witness Trees",
-        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 160821,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Witness Trees",
+        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 160821,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Song For The Thankful",
         "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 234799,
       "name": "Song For The Thankful",
       "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Joy of Nothing",
         "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "La Lune",
-        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "the death of you & i - EP",
         "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 224812,
       "name": "love (ain\u0092t always so good)",
       "url": "https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "La Lune",
+        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Famous Men",
         "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 250399,
       "name": "The Bride & The Bachelor",
       "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "In My Garden",
-        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
-      },
-      "artists": [
-        {
-          "name": "Isobel Anderson",
-          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "God I Hope This Year Is Better Than the Last",
         "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 236849,
       "name": "God I Hope This Year Is Better Than The Last",
       "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "In My Garden",
+        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
+      },
+      "artists": [
+        {
+          "name": "Isobel Anderson",
+          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Gems and Bones",
-        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
-      },
-      "artists": [
-        {
-          "name": "The Woodlands",
-          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Long Lost Century",
-      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Patchwork Heart",
         "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 239152,
       "name": "Patchwork Heart",
       "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Gems and Bones",
+        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
+      },
+      "artists": [
+        {
+          "name": "The Woodlands",
+          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Long Lost Century",
+      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
     },
     {
       "added_at": "2022-04-15 16:56:49",

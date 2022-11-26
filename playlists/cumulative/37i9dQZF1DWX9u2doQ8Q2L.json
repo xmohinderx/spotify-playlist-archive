@@ -2253,7 +2253,7 @@
     {
       "album": {
         "name": "Highway",
-        "url": "https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9"
+        "url": "https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g"
       },
       "artists": [
         {
@@ -2264,6 +2264,24 @@
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 328434,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16"
+    },
+    {
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9"
+      },
+      "artists": [
+        {
+          "name": "yahyel",
+          "url": "https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
       "duration_ms": 328434,
       "name": "Highway",
       "url": "https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1"
@@ -3403,6 +3421,14 @@
         {
           "name": "STUTS",
           "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "butaji",
+          "url": "https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I"
+        },
+        {
+          "name": "YONCE (Suchmos)",
+          "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
         }
       ],
       "date_added": "2022-10-25",
@@ -3447,6 +3473,14 @@
         {
           "name": "STUTS",
           "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "butaji",
+          "url": "https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I"
+        },
+        {
+          "name": "YONCE (Suchmos)",
+          "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
         }
       ],
       "date_added": "2022-11-22",
@@ -4577,10 +4611,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195319,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/0bIgcfjpIsjFIpEXKd2BiM"
+    },
+    {
+      "album": {
+        "name": "Save Me Tonight",
+        "url": "https://open.spotify.com/album/384puu2XE2cjWNL66vcOhm"
+      },
+      "artists": [
+        {
+          "name": "Def Tech",
+          "url": "https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195319,
+      "name": "Save Me Tonight",
+      "url": "https://open.spotify.com/track/6BbiAm2kP8ZSVuba0oMvBl"
     },
     {
       "album": {

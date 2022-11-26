@@ -338,6 +338,28 @@
     },
     {
       "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
+    },
+    {
+      "album": {
         "name": "A Veces (feat. Feid)",
         "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
       },
@@ -353,7 +375,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 191555,
       "name": "A Veces (feat. Feid)",
       "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
@@ -1805,7 +1827,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 156295,
       "name": "Caras Vemos",
       "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
@@ -7285,7 +7307,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -7621,7 +7643,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 181333,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/4qGr8HmRjhdRoUCnLf82eM"
@@ -9147,7 +9169,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 171152,
       "name": "Si la Calle Llama",
       "url": "https://open.spotify.com/track/32nYQxfwMslxlbhgm48B3o"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,539 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,955 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

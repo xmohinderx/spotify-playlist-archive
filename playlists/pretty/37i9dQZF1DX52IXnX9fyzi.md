@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,889 likes - 181 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,016 likes - 181 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 78 | [Biome](https://open.spotify.com/track/6Wtd6dFjXuB0wVzu6EJB5Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Biome](https://open.spotify.com/album/0mYnBgs22mBPxRySWw6VNd) | 2:18 |
 | 79 | [Waltz in F minor](https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Waltz in F minor](https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi) | 2:24 |
 | 80 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
-| 81 | [Coastal](https://open.spotify.com/track/4qY01pTRNtpqB9vAYXipiy) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg), [Eric Lawrence](https://open.spotify.com/artist/6UgJu34MLxR5sbUI4Ng2OT) | [Coastal](https://open.spotify.com/album/4cPNJMnDJFmPJR9aHhbe4h) | 2:19 |
+| 81 | [Coastal](https://open.spotify.com/track/4qY01pTRNtpqB9vAYXipiy) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [Coastal](https://open.spotify.com/album/4cPNJMnDJFmPJR9aHhbe4h) | 2:19 |
 | 82 | [La grille de l’école](https://open.spotify.com/track/48KKRtnLi4wCHRvpHZv2N8) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Réminiscence](https://open.spotify.com/album/7CrynEMirXsEVcGWDQyUzS) | 2:44 |
 | 83 | [Eftertanke](https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Eftertanke](https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J) | 2:41 |
 | 84 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 |

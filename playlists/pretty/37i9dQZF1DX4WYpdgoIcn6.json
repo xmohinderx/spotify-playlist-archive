@@ -1,12 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 7572176,
+  "num_followers": 7574417,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA5NzkxNiwwMDAwMDAwMDdiMWJiY2ZjM2QzNDc1NTlhYWE2ZjgxYjk1Njg4NDhl",
+  "snapshot_id": "MTY2ODA5NzkxNiwwMDAwMDAwMDRkYjRhYmQxODBiMDFmYjUyMzgxN2U1MGU4ZGNiZDVk",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-11-25 01:26:06",
+      "added_at": "2022-11-26 01:23:47",
       "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "brent ii",
+        "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "How Could You",
         "url": "https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "brent ii",
-        "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "this is how you fall in love",
-      "url": "https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Remember (Acoustic)",
-        "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Remember - Acoustic",
-      "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "The Prelude",
         "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "WYD Now?",
-        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
+        "name": "Remember (Acoustic)",
+        "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
       },
       "artists": [
         {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 144666,
-      "name": "WYD Now?",
-      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
+      "duration_ms": 178626,
+      "name": "Remember - Acoustic",
+      "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "WYD Now?",
+        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "WYD Now?",
+      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "love is not dying",
-        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "always, i'll care",
-      "url": "https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "always, i'll care",
+      "url": "https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "WFM",
+      "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -2019,34 +2019,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "colorblind",
-        "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 193976,
-      "name": "colorblind",
-      "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -2071,22 +2055,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
+        "name": "colorblind",
+        "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
+      "duration_ms": 193976,
+      "name": "colorblind",
+      "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -2107,22 +2087,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "What Other People Say",
-        "url": "https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW"
+        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         },
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 194890,
-      "name": "What Other People Say",
-      "url": "https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9"
+      "duration_ms": 150320,
+      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -2147,6 +2127,26 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "What Other People Say",
+        "url": "https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "What Other People Say",
+      "url": "https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -2159,22 +2159,6 @@
       "duration_ms": 210213,
       "name": "Leaving My Love Behind",
       "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -2215,6 +2199,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Dear August",
         "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
       },
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "To Die For",
+        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 193795,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "working",
         "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 210219,
       "name": "working",
       "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "To Die For",
-        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "To Die For",
-      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
     }
   ],
   "unique_name": "Chill Hits",

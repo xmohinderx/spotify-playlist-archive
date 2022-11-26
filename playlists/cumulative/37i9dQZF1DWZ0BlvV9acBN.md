@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Brunão Morada
 
-77 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/7oTc2fOi3oZW5UpwamTP2u)
+79 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/7oTc2fOi3oZW5UpwamTP2u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,10 @@
 | [Assume a Responsa](https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Assume a Responsa](https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8) | 4:19 | 2022-09-02 |  |
 | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE) | [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63) | 9:25 | 2022-09-02 |  |
 | [Baile das Máscaras](https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Baile das Máscaras](https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t) | 3:35 | 2022-09-02 |  |
-| [Cadê o Amor](https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y) | [Rozeniltton](https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Cadê o Amor](https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3) | 4:33 | 2022-10-14 |  |
+| [Cadê o Amor](https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y) | [Rozeniltton](https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Cadê o Amor](https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3) | 4:33 | 2022-10-14 | 2022-11-26 |
 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 | 2022-09-02 |  |
 | [Canta Minha'alma \(Behold\) \- Live Session](https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro Henrique: Live Session {Lado B}](https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu) | 6:42 | 2022-09-02 |  |
-| [Chega](https://open.spotify.com/track/34Ibxcbi3VvdgkJT6fDIA6) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Chega](https://open.spotify.com/album/4L3ZfTeBbooQhaYvG36rmQ) | 3:05 | 2022-09-02 |  |
+| [Chega](https://open.spotify.com/track/34Ibxcbi3VvdgkJT6fDIA6) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Chega](https://open.spotify.com/album/4L3ZfTeBbooQhaYvG36rmQ) | 3:05 | 2022-09-02 | 2022-11-26 |
 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 | 2022-09-02 |  |
 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 | 2022-09-02 |  |
 | [De Malas Prontas](https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [De Malas Prontas](https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng) | 6:34 | 2022-09-02 |  |
@@ -57,6 +57,7 @@
 | [Náufrago](https://open.spotify.com/track/4S59qX21KI984gd80DhHCx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Hoje](https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z) | 4:04 | 2022-09-02 |  |
 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 | 2022-09-02 |  |
 | [O Mundo ao Seu Redor](https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [O Mundo ao Seu Redor](https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K) | 3:08 | 2022-09-02 |  |
+| [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 | 2022-11-25 |  |
 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 | 2022-09-02 |  |
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/2DdXmwABkeRvYEwAttO5Gk) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [OH! Se Fendesses \(Ao Vivo\)](https://open.spotify.com/album/23W9YrV5f32i4boR90nsmj) | 6:22 | 2022-10-14 | 2022-11-13 |
 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:22 | 2022-09-02 |  |
@@ -85,5 +86,6 @@
 | [Uma Carta de Amanhã](https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX) | [Uma Carta de Amanhã](https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ) | 3:51 | 2022-09-02 |  |
 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 | 2022-09-02 |  |
 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 | 2022-09-02 |  |
+| [Única Paz](https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k), [Fruto Sagrado](https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K) | [Única Paz](https://open.spotify.com/album/5nkSbqUiUnqxU6WGN0BHI3) | 4:39 | 2022-11-25 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

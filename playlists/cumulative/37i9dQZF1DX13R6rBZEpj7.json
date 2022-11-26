@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195558,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 198882,
       "name": "Feel So Free",
       "url": "https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 271602,
       "name": "Got A Groove",
       "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
@@ -1523,6 +1523,28 @@
       "duration_ms": 252000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6y83sAg5Mx81YSzKSUw36j"
+    },
+    {
+      "album": {
+        "name": "Feel So Free Mixtape",
+        "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219687,
+      "name": "It's Just This Thing",
+      "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
     },
     {
       "album": {
@@ -1968,6 +1990,24 @@
     },
     {
       "album": {
+        "name": "No Clip",
+        "url": "https://open.spotify.com/album/12spfrxeApDAVNV3ul5DmF"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "No Clip",
+      "url": "https://open.spotify.com/track/19djX580zpwpDHDAbGnaul"
+    },
+    {
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/7KQ1QH0fvvbSoOZhgELddK"
       },
@@ -2113,6 +2153,28 @@
       "duration_ms": 234703,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
+    },
+    {
+      "album": {
+        "name": "Over / Holding On",
+        "url": "https://open.spotify.com/album/6JsTt3BENeBQSdVhEfj5TH"
+      },
+      "artists": [
+        {
+          "name": "Penfld",
+          "url": "https://open.spotify.com/artist/0ZcCXqoqA3t1pJiK3kiFbZ"
+        },
+        {
+          "name": "Joshua Blu",
+          "url": "https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273245,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-228 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+231 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Agricola Pamtillan](https://open.spotify.com/track/6oespGB8uH8MnFMPncsOiQ) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Agricola Pamtillan](https://open.spotify.com/album/1n0hHrMp1GmcW02jCTeGMJ) | 2:07 | 2022-06-17 | 2022-09-09 |
 | [Aguado Study in E Minor](https://open.spotify.com/track/0AekdP1XOJxU4a7zMt290r) | [Dionisio Aguado](https://open.spotify.com/artist/15q3kA3H1abSb5saHZuqeN), [Bill Russell](https://open.spotify.com/artist/7ilKUFoBWbdNujwb6t0PKe) | [Aguado Study in E Minor](https://open.spotify.com/album/5kIrekj3gTeKdDNj5CZ56c) | 2:43 | 2022-09-09 |  |
 | [Air on the G String \- Arr\. for Guitar](https://open.spotify.com/track/6OQxG5XYAuSb5Pn0rZDlcV) | [Martin Statham](https://open.spotify.com/artist/2syH3uHsABXUXdl3DCJDUy) | [Air on the G String \(Arr\. for Guitar\)](https://open.spotify.com/album/10TMvL2gfIRut012LqWH6Z) | 2:59 | 2022-09-16 |  |
+| [Al Final Del Camino](https://open.spotify.com/track/0rtEFDsmOs9sZYZ6wEZ8Al) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Al Final Del Camino](https://open.spotify.com/album/3DFKaYFInRa8c8afBeefYv) | 1:54 | 2022-11-25 |  |
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-12 |  |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-06-17 |  |
 | [Aria Amore](https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Aria Amore](https://open.spotify.com/album/0dZ1cH2oc1byH1xvEMkwhE) | 2:36 | 2022-06-17 | 2022-10-07 |
@@ -69,6 +70,7 @@
 | [Entwined In Time](https://open.spotify.com/track/0CFbpv9WulwdXB8rC2iqMC) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Entwined In Time](https://open.spotify.com/album/38GoFbry09VPVpnckYyNCa) | 2:51 | 2022-06-17 | 2022-09-03 |
 | [Epilogue](https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Believe](https://open.spotify.com/album/0Iutlc6WCFQ64TZrdQUECo) | 2:49 | 2022-09-16 |  |
 | [Equinox](https://open.spotify.com/track/1RzcnkPzR9MTeBl58XXw1I) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Equinox](https://open.spotify.com/album/1ij3V4AE7Vnogsxb3kNTlc) | 2:30 | 2022-06-17 |  |
+| [Erwachen der Berge](https://open.spotify.com/track/05VGUOV68jMyJEc2iTRId8) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Salzburger Winter](https://open.spotify.com/album/5vYvjK1qarprGS6dmqb8xr) | 3:04 | 2022-11-25 |  |
 | [Etude in E Minor](https://open.spotify.com/track/3u45JX41lqnh8WzV8ikoTG) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC), [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t) | [Etude in E Minor](https://open.spotify.com/album/28eDubaBkCUwj6Q78b6F20) | 1:12 | 2022-06-17 |  |
 | [eye of the beholder](https://open.spotify.com/track/5qj92VufB9JpS83gJh73up) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [eye of the beholder](https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn) | 3:01 | 2022-07-15 |  |
 | [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 2:04 | 2022-06-17 |  |
@@ -218,6 +220,7 @@
 | [Traveling Home](https://open.spotify.com/track/6UpA9GfzGPuny8IzZHu3ce) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Traveling Home](https://open.spotify.com/album/42UuqeNyhpaG8Le833PpRX) | 3:13 | 2022-10-07 |  |
 | [Traveling Sunset](https://open.spotify.com/track/5yf5lrd0n9SUGyrEDoGb1I) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Traveling Sunset](https://open.spotify.com/album/63vO3TWmFFBV1nNhNhbsPR) | 2:13 | 2022-10-14 |  |
 | [Triste](https://open.spotify.com/track/1sz5nK8klruuA3wyUilEKB) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Triste](https://open.spotify.com/album/7FGCrHscT6y5OwLDIYKj3O) | 4:03 | 2022-07-15 |  |
+| [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 |  |
 | [Two Years of Solitude](https://open.spotify.com/track/5xjHdFsOlRgdnu6RJTqpwV) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:25 | 2022-06-17 |  |
 | [Una Nueva Frontera](https://open.spotify.com/track/6pMVwNAVEW1zABrAAKY5sD) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Una Nueva Frontera](https://open.spotify.com/album/7BXWsrOKF9NG5HNerJ8MpB) | 1:57 | 2022-07-01 |  |
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2022-06-17 | 2022-09-09 |

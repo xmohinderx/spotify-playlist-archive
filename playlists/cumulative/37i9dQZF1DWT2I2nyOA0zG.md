@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-153 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+156 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Logba Logba](https://open.spotify.com/track/2FOtCZz3B6OM4BogE6mavN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:02 | 2022-06-03 |  |
 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 | 2021-10-11 |  |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2021-10-11 |  |
+| [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-25 |  |
 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 | 2022-02-24 |  |
 | [Make it right](https://open.spotify.com/track/3zZE20LzzHwQzY5KLx7qgf) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp), [Onyinye](https://open.spotify.com/artist/1WATmtsaEqQoF9Kjkzk2w0) | [Make it right](https://open.spotify.com/album/7xHAbZPPPe4RYh5KCZEutz) | 2:40 | 2022-03-11 |  |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 |  |
@@ -114,6 +115,7 @@
 | [Oshe \(feat\. The Cavemen.\)](https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:38 | 2021-11-18 |  |
 | [Overthinking](https://open.spotify.com/track/0PhhA3xoYyhUQEMsUaJSsW) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Overthinking](https://open.spotify.com/album/7omcOY3k8mqGaaoW3gUELy) | 2:38 | 2022-11-14 |  |
 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 | 2021-10-11 |  |
+| [Paradise](https://open.spotify.com/track/0zZi6rdBuRClBsbSWmeHC3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Paradise](https://open.spotify.com/album/56YthMPztzSd9nWfFWnqXy) | 3:25 | 2022-11-25 |  |
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 |  |
 | [Pull Up](https://open.spotify.com/track/0h8Nv1NG9K7vAuknah3ODJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Pull Up](https://open.spotify.com/album/4B0u29SVDo8LjBhSPeIQ42) | 3:07 | 2021-10-11 | 2022-07-29 |
 | [Pull Up](https://open.spotify.com/track/3sEcJ4mGZ9srlXdG7G2HK1) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:07 | 2021-10-11 |  |
@@ -144,6 +146,7 @@
 | [Sugar](https://open.spotify.com/track/3FkuwslAokF99ZLHtFRuAv) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Sugar](https://open.spotify.com/album/4zZ2eYh53WkCkY0ixzKZEf) | 3:38 | 2021-12-09 | 2022-07-26 |
 | [Summer Bunny](https://open.spotify.com/track/725WKeorPfCOA52X6QE4Uw) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Summer Bunny](https://open.spotify.com/album/488FJXx0HPDnNvNlOB1sAA) | 3:00 | 2021-11-25 | 2022-02-25 |
 | [Sunset In Batumi](https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands](https://open.spotify.com/album/71QcV4UVTjh0FBLehkuDKF) | 5:27 | 2022-02-11 | 2022-02-25 |
+| [Superwoman](https://open.spotify.com/track/6YyUMeQUw12vjfgaDoQE8x) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Superwoman](https://open.spotify.com/album/5mAMflnIgAKMi2IV4VDx06) | 3:12 | 2022-11-25 |  |
 | [Sweet Adetola](https://open.spotify.com/track/50DVJK20wORh3uG8Y8IDZe) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo) | 3:46 | 2021-10-15 |  |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2021-10-15 | 2022-10-16 |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-10-11 |  |

@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Madeline Edwards
 
-953 songs - 2 day 2 hr 58 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+956 songs - 2 day 3 hr 9 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [Mama, Dolly, Jesus](https://open.spotify.com/track/7zggetlqMBzNpdCM0mdfzS) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 2:45 | 2022-11-11 |  |
 | [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-04-22 | 2022-05-28 |
 | [Man Made](https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Man Made](https://open.spotify.com/album/6DIfNNLkwspcD82lM2yaU8) | 3:05 | 2022-04-29 | 2022-05-20 |
+| [Marlboro Man](https://open.spotify.com/track/1kxqCDV9KkkuI7cOgBOmkJ) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Marlboro Man](https://open.spotify.com/album/1NXlQvwy2Tb7H41KyIEeeB) | 3:20 | 2022-11-25 |  |
 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-03-04 | 2022-04-29 |
 | [Marry You](https://open.spotify.com/track/6XMD3tkYTDzdU6FJxlbsVa) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Kat & Alex Side A](https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY) | 3:19 | 2022-09-16 |  |
 | [Maybe](https://open.spotify.com/track/3wcnGwfvhH2ov3iCp7kk0K) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Maybe](https://open.spotify.com/album/1HOkGg1ntGDgCHEhf27YR2) | 3:41 | 2022-09-23 |  |
@@ -783,6 +784,7 @@
 | [Tattoos](https://open.spotify.com/track/0UdJfoOARM5t1WKrDvuSwd) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Tattoos](https://open.spotify.com/album/1QJuB45zhTY4u9X73TPJo0) | 3:02 | 2022-04-01 | 2022-09-17 |
 | [Tears Into Diamonds](https://open.spotify.com/track/5dtXowL59yX3eM4UU9ueIn) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Tears Into Diamonds](https://open.spotify.com/album/2E4CVxbLU09uSaVS2GtjuQ) | 3:15 | 2022-09-09 | 2022-11-12 |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-07-29 | 2022-10-01 |
+| [Technicolor](https://open.spotify.com/track/11orsLkrZLjShGAVLPigUl) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Technicolor](https://open.spotify.com/album/0Ly50Ytu9I3dhZVTImitvi) | 4:09 | 2022-11-25 |  |
 | [Technicolor](https://open.spotify.com/track/7knQOE5ngVJihhXEyqngwL) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Technicolor](https://open.spotify.com/album/4ISfLs7kp2y3E6B0j3QjDN) | 3:00 | 2022-10-07 |  |
 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 | 2022-03-25 | 2022-07-02 |
 | [Tell Me Twice](https://open.spotify.com/track/4o93bIPbyYeJDdk8GI03UA) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Tell Me Twice](https://open.spotify.com/album/4WSiPhyOPmeDME2hAjHpps) | 4:26 | 2022-03-25 | 2022-04-16 |
@@ -864,6 +866,7 @@
 | [Used to Love That Song](https://open.spotify.com/track/6uSKxEhO9JKYkrPUhPBSa9) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/1CI87J6036yNvbzyksedMH) | 2:59 | 2022-08-12 | 2022-11-19 |
 | [Wait Up For Me](https://open.spotify.com/track/4nWxvrDx0r63f35Zp2zAVd) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Wait Up For Me](https://open.spotify.com/album/5CMJ2eVHmA0kcURIgbkxuQ) | 2:59 | 2022-05-13 | 2022-05-28 |
 | [Waiting](https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:37 | 2022-10-14 |  |
+| [Waiting on You](https://open.spotify.com/track/2CIEEJ1DUNkoBNUfS9KVEz) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Waiting on You](https://open.spotify.com/album/7A2kZUivRCpO89BnHVCf96) | 3:10 | 2022-11-25 |  |
 | [Wannabes](https://open.spotify.com/track/0LPWpFkwINMkAoTNdlqXsD) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Wannabes](https://open.spotify.com/album/2Fxo9yZ5NBDFpm5XxavAbJ) | 3:27 | 2021-12-31 | 2022-03-05 |
 | [Want It Back](https://open.spotify.com/track/5lTC01Cf6H6wf2jawT644D) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Want It Back](https://open.spotify.com/album/2ZT3mt6I5bRiFbxijKim7f) | 2:57 | 2021-12-31 | 2022-02-26 |
 | [Want That Back](https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Want That Back](https://open.spotify.com/album/6AOh6aXLoWxFlbfh9xPvZ2) | 3:13 | 2022-01-14 | 2022-01-22 |

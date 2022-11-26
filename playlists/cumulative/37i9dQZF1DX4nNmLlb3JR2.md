@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-132 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
+133 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Killing Me Softly](https://open.spotify.com/track/4kXpvrCczkZ11zHR9wFR88) | [ombinate](https://open.spotify.com/artist/6KuoBtG1drbXBIdkbloqEP) | [Killing Me Softly](https://open.spotify.com/album/3M0jCVqUviBEgWe1XyK3pE) | 2:24 | 2022-10-28 |  |
 | [leave the door open](https://open.spotify.com/track/2bNqkCkkkFBQZYIW8WtjPq) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [leave the door open](https://open.spotify.com/album/7ndC4fkH7GALSEjwQXpJic) | 2:28 | 2022-11-11 |  |
 | [Let Somebody Go \- Lofi Piano](https://open.spotify.com/track/1tX675Hvb2epDvicGiwP1N) | [Chilled Teddy](https://open.spotify.com/artist/5pxrX6T3917cmZHYGqyAHy) | [Let Somebody Go \(Lofi Piano\)](https://open.spotify.com/album/2sAe4Frsp2o6rlOLB4nVuM) | 2:35 | 2022-09-02 |  |
+| [Levitating](https://open.spotify.com/track/2VRKuZ26DfWIrzFObvJcMU) | [Lazarus best for us](https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH) | [Levitating](https://open.spotify.com/album/3JjbiMHjQPwkE8XfpzhFPU) | 3:29 | 2022-11-25 |  |
 | [Lost](https://open.spotify.com/track/2rsG3qVHOsXAIW1Qj7sdWt) | [lokash](https://open.spotify.com/artist/3TenU6iPLdqp8732iFSVQj) | [Lost](https://open.spotify.com/album/1x0vLnePrBCJOGS42E0FTY) | 3:02 | 2022-09-02 |  |
 | [Love Yourself](https://open.spotify.com/track/3ZTOe4igHH1Di0taZWXJh7) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Love Yourself](https://open.spotify.com/album/5w0HSHiP2Dzfq9W4kOTO10) | 1:50 | 2022-09-16 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/4zbDddvck9LUqoh1nojkVh) | [Dab Rosser](https://open.spotify.com/artist/1rIG28M0NJsbl5DDp6x8GA) | [Meet Me At Our Spot](https://open.spotify.com/album/5zu8UTGoKBr1NiJyfuJdGR) | 1:57 | 2022-10-28 |  |

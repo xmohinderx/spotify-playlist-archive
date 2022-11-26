@@ -1,29 +1,13 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=MXl2ELIYSK2NPKxOWIxTFw\" >Elaine</a> ",
-  "num_followers": 133354,
+  "num_followers": 133649,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc2OTc3MywwMDAwMDAwMDA2NTU0NGM5ZjM5NTE3MGI0MzUzOTUxMDJkZmNlMDcy",
+  "snapshot_id": "MTY2OTM2MDQyOCwwMDAwMDAwMGViMWNhZTEyMjFlYmZhM2Q5NGE0YTUwMzI4ZWZjNTg2",
   "tracks": [
-    {
-      "added_at": "2022-09-23 00:35:05",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ"
-    },
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 168275,
       "name": "Pour Me a Drink",
       "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
+    },
+    {
+      "added_at": "2022-07-22 04:35:32",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
       "added_at": "2022-11-04 07:55:20",
@@ -57,20 +57,44 @@
       "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
     },
     {
-      "added_at": "2022-07-22 04:35:32",
+      "added_at": "2022-09-23 00:35:05",
       "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
         }
       ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+      "duration_ms": 169600,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "For Good Reasons",
+        "url": "https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Merry-Lynn",
+          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
+        },
+        {
+          "name": "SUTRA",
+          "url": "https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM"
+        }
+      ],
+      "duration_ms": 188860,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW"
     },
     {
       "added_at": "2022-11-11 12:33:12",
@@ -109,6 +133,26 @@
       "url": "https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0"
     },
     {
+      "added_at": "2022-11-25 07:13:48",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 205601,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
+    },
+    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Eye to Eye",
@@ -123,6 +167,22 @@
       "duration_ms": 156771,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/0q7P39Z2s5LFSrhhaB7dM4"
+      },
+      "artists": [
+        {
+          "name": "Ally Jordan",
+          "url": "https://open.spotify.com/artist/3E38IZrADn8V282z6ydx8S"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x"
     },
     {
       "added_at": "2022-11-14 10:47:08",
@@ -143,6 +203,26 @@
       "duration_ms": 203026,
       "name": "Special (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6MtFM9kbhhuN04rwDxPvn4"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
       "added_at": "2022-10-28 12:18:37",
@@ -181,20 +261,20 @@
       "url": "https://open.spotify.com/track/6yzoGCk37lkUPvf16ZvInu"
     },
     {
-      "added_at": "2022-11-18 11:09:33",
+      "added_at": "2022-11-25 07:13:48",
       "album": {
-        "name": "Amina",
-        "url": "https://open.spotify.com/album/4xFICOtw9q9WFUqXwouoLG"
+        "name": "Lil Mama",
+        "url": "https://open.spotify.com/album/1uW6l7lFd88GtgYglei0ZR"
       },
       "artists": [
         {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
         }
       ],
-      "duration_ms": 157736,
-      "name": "Amina",
-      "url": "https://open.spotify.com/track/3wIkraTZGQtljsayKCj1oS"
+      "duration_ms": 224444,
+      "name": "Lil Mama",
+      "url": "https://open.spotify.com/track/0TdQ54hT5S5racTQAwdW3U"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -253,6 +333,46 @@
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN"
+      },
+      "artists": [
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "duration_ms": 168675,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK"
+    },
+    {
       "added_at": "2022-11-18 11:09:33",
       "album": {
         "name": "flora + fana (deluxe)",
@@ -271,18 +391,42 @@
     {
       "added_at": "2022-06-08 08:17:06",
       "album": {
-        "name": "Give Me Love",
-        "url": "https://open.spotify.com/album/0q7P39Z2s5LFSrhhaB7dM4"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E"
       },
       "artists": [
         {
-          "name": "Ally Jordan",
-          "url": "https://open.spotify.com/artist/3E38IZrADn8V282z6ydx8S"
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x"
+      "duration_ms": 164837,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Catch A Vibe",
+        "url": "https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Higo",
+          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
+        }
+      ],
+      "duration_ms": 197828,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/3zTObKcN6vfo9teWsKCU34"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -333,20 +477,40 @@
       "url": "https://open.spotify.com/track/7l3TCgaa7no82h2jc4jML5"
     },
     {
-      "added_at": "2022-11-18 11:09:33",
+      "added_at": "2022-11-25 07:13:48",
       "album": {
-        "name": "Becoming Adomaa",
-        "url": "https://open.spotify.com/album/5FDB8xeWw2e1Av5yiKOX4D"
+        "name": "King of Hearts",
+        "url": "https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ"
       },
       "artists": [
         {
-          "name": "Adomaa",
-          "url": "https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e"
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
         }
       ],
-      "duration_ms": 207529,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/4XTMzpqNfLTdo4Jt7jQ1t0"
+      "duration_ms": 240000,
+      "name": "Lucky Now",
+      "url": "https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN"
+    },
+    {
+      "added_at": "2022-06-08 08:17:06",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 192596,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -363,22 +527,6 @@
       "duration_ms": 204000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
-    },
-    {
-      "added_at": "2022-11-14 10:47:08",
-      "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/6z5bs7EEmeUoiJqdPJw0PP"
-      },
-      "artists": [
-        {
-          "name": "Rowlene",
-          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
-        }
-      ],
-      "duration_ms": 216659,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/3nfSYUd63s78rudVQuTrqk"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -923,26 +1071,6 @@
     {
       "added_at": "2022-06-08 08:17:06",
       "album": {
-        "name": "Catch A Vibe",
-        "url": "https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        },
-        {
-          "name": "Higo",
-          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
-        }
-      ],
-      "duration_ms": 197828,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/3zTObKcN6vfo9teWsKCU34"
-    },
-    {
-      "added_at": "2022-06-08 08:17:06",
-      "album": {
         "name": "Mayana",
         "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
       },
@@ -955,30 +1083,6 @@
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
-    },
-    {
-      "added_at": "2022-06-08 08:17:06",
-      "album": {
-        "name": "Beauty In The Madness",
-        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 223668,
-      "name": "Beauty In The Madness",
-      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -1011,26 +1115,6 @@
       "duration_ms": 166642,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
-    },
-    {
-      "added_at": "2022-06-08 08:17:06",
-      "album": {
-        "name": "Shakara",
-        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -1071,30 +1155,6 @@
       "duration_ms": 172621,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5pGbQzcWqT5HarQDNpgVfa"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "For Good Reasons",
-        "url": "https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Merry-Lynn",
-          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
-        },
-        {
-          "name": "SUTRA",
-          "url": "https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM"
-        }
-      ],
-      "duration_ms": 188860,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -1163,22 +1223,6 @@
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
-    },
-    {
-      "added_at": "2022-06-08 08:17:06",
-      "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN"
-      },
-      "artists": [
-        {
-          "name": "TOME",
-          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
-        }
-      ],
-      "duration_ms": 168675,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK"
     },
     {
       "added_at": "2022-06-08 08:17:06",
@@ -1299,42 +1343,6 @@
       "duration_ms": 171666,
       "name": "Effects Of Thoughts",
       "url": "https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg"
-    },
-    {
-      "added_at": "2022-06-08 08:17:06",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 192596,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju"
-    },
-    {
-      "added_at": "2022-06-08 08:17:06",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 164837,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
     },
     {
       "added_at": "2022-06-08 08:17:06",

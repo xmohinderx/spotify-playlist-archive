@@ -2911,7 +2911,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 228693,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/2Or2xCQrCtsu5Pkg8DuAvz"
@@ -6355,7 +6355,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 249186,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/1XcXLeFN4JNpUTeGnUPCWj"
@@ -7623,6 +7623,24 @@
     {
       "album": {
         "name": "Lovely",
+        "url": "https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176542,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
+    },
+    {
+      "album": {
+        "name": "Lovely",
         "url": "https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ"
       },
       "artists": [
@@ -8087,6 +8105,24 @@
       "duration_ms": 249600,
       "name": "Monsters in My Mind",
       "url": "https://open.spotify.com/track/0EvGTXrk4HaxNpzwN6yqZJ"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211514,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
     },
     {
       "album": {
@@ -9677,6 +9713,24 @@
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+    },
+    {
+      "album": {
+        "name": "Planets",
+        "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
+      },
+      "artists": [
+        {
+          "name": "Nicklas Sahl",
+          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208585,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/5vWJQjfADFuIeAxqOyllaK"
     },
     {
       "album": {
@@ -11287,7 +11341,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 250453,
       "name": "Splintered",
       "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-96 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+97 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-05 | 2022-11-25 |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2021-12-09 | 2022-02-08 |
 | [Wahrani](https://open.spotify.com/track/5gTsNTIQ17LSYHvkqXHwwO) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Wahrani](https://open.spotify.com/album/3OTzJwXAHgnBasbmvb2Zep) | 2:43 | 2022-08-05 |  |
+| [Walefna](https://open.spotify.com/track/5DbQGkf9ekZY9NZdo895Jg) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Walefna](https://open.spotify.com/album/1zHsQono8sAl5QC3RCeHh2) | 3:18 | 2022-11-25 |  |
 | [Welili](https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Welili](https://open.spotify.com/album/7xUBj6AnlQlJOznWSrZ9wp) | 4:16 | 2021-12-09 | 2022-05-05 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-05-26 |  |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-12-09 | 2022-07-29 |

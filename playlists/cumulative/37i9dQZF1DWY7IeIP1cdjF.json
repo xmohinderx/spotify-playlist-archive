@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from KAROL G, Bad Bunny, Rauw Alejandro and more.\ud83d\udd25\ud83e\udd75",
+  "description": "Reggaeton hits from Myke Towers, Daddy Yankee, KAROL G and more.\ud83d\udd25\ud83e\udd75",
   "name": "Baila Reggaeton",
   "published_playlist_ids": [
     "0HEXy6qoPJDhzDX63XfHmx"
@@ -2419,7 +2419,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195348,
       "name": "Mercedes Tintia",
       "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
@@ -2571,7 +2571,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 160311,
       "name": "Nadie Nos Vio - Spotify Singles",
       "url": "https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX"
@@ -3558,6 +3558,28 @@
     },
     {
       "album": {
+        "name": "Si Yo Me Muero",
+        "url": "https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "MVSIS",
+          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Si Yo Me Muero",
+      "url": "https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8"
+    },
+    {
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -3973,6 +3995,28 @@
       "duration_ms": 174482,
       "name": "TUS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+    },
+    {
+      "album": {
+        "name": "Ulala",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188009,
+      "name": "Ulala",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
     },
     {
       "album": {

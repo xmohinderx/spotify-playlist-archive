@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-87 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/3zmU4gkPj0G6pq0uLvvBh3)
+88 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/3zmU4gkPj0G6pq0uLvvBh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [El Camión de la Basura](https://open.spotify.com/track/7rAeQfVOdfAIWqHgk28x0A) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx) | [El Camión de la Basura](https://open.spotify.com/album/5aAhr5816Tn3pkLSHZwefN) | 3:59 | 2022-02-25 |  |
 | [El Mismo de Siempre](https://open.spotify.com/track/10AjYRkbsAdhnLXrGjGoAg) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [El Mismo de Siempre](https://open.spotify.com/album/5nQ70m6yy4Cc6stPUXSsc9) | 3:23 | 2022-02-25 |  |
 | [Emancipación](https://open.spotify.com/track/5fjn3TvnD6LLcpaoeWyXVK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/063QkpNBYOnOfjVOxmKGsb) | 3:54 | 2022-02-25 |  |
+| [Esperar](https://open.spotify.com/track/1ZxNzA5MUmoOWdJfcG30L7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Gloria Lara](https://open.spotify.com/album/5Kigef3dPtMD3jWFMHJU4b) | 3:23 | 2022-11-25 |  |
 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 | 2022-02-25 |  |
 | [Flaca](https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/1rGB0EkQQ96tB4iYTklDIy) | 3:24 | 2022-02-25 |  |
 | [From The Barrio](https://open.spotify.com/track/6xkzTDLquDbRQcqVXRQVby) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Inmortal](https://open.spotify.com/album/48mbjAcpTZU7QWVHXlSiJj) | 3:23 | 2022-07-15 |  |
@@ -88,7 +89,7 @@
 | [Todo el Tiempo](https://open.spotify.com/track/4ltvep768r5VSEJYISG1YE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo el Tiempo](https://open.spotify.com/album/06PiZBxNVFgkm1DKv634wb) | 2:43 | 2022-02-25 |  |
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2022-02-25 |  |
 | [Trampa](https://open.spotify.com/track/2WzGc3rGEXcu7TkDn4b9kh) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Trampa](https://open.spotify.com/album/3MhfOgqJ1ivusF4YDSjXeM) | 3:30 | 2022-02-25 |  |
-| [Tú Lo Vales](https://open.spotify.com/track/5agos0Wcgkg8w7EnUcfdTm) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Tú Lo Vales](https://open.spotify.com/album/7EJWvQDJnrfmeHwfCK6Sc3) | 3:15 | 2022-07-15 |  |
+| [Tú Lo Vales](https://open.spotify.com/track/5agos0Wcgkg8w7EnUcfdTm) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Tú Lo Vales](https://open.spotify.com/album/7EJWvQDJnrfmeHwfCK6Sc3) | 3:15 | 2022-07-15 | 2022-11-26 |
 | [Tú Lo Vales](https://open.spotify.com/track/7FjAS7pngOfQgzr2FzKR0w) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Tú Lo Vales](https://open.spotify.com/album/5JVGILI9648bPgiDzk8q3X) | 3:15 | 2022-02-25 | 2022-07-29 |
 | [Uno](https://open.spotify.com/track/0KS5pkZsWwnJdQJtwFE1UE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Uno](https://open.spotify.com/album/1wg1rRJToAGEXNRS6r24Ma) | 3:21 | 2022-02-25 |  |
 | [Untados](https://open.spotify.com/track/2M8n47Y5xnsOhwHo0R7cCc) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7), [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Untados](https://open.spotify.com/album/4zcLKTcEePMkAfWHOrLvFm) | 3:53 | 2022-02-25 |  |

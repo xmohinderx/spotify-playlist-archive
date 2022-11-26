@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-316 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+323 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Ember Rain](https://open.spotify.com/track/0MPolw4BurmMtHi9JHcdHV) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Land of the Lotus](https://open.spotify.com/album/7x9evXYxD8kQjneL4fVTba) | 2:02 | 2021-06-18 | 2021-11-11 |
 | [Embrace It](https://open.spotify.com/track/5cQhJOmfuGGdAps95VYjEp) | [Nuven](https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34) | [Sumidouro](https://open.spotify.com/album/0Jf5TVjIeoRjkZwEatW3w9) | 3:26 | 2021-10-14 | 2022-07-22 |
 | [Emotions](https://open.spotify.com/track/5Zi5DxoLD9LObzCuCDqOFQ) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 2:32 | 2021-05-07 | 2022-05-20 |
+| [Energy](https://open.spotify.com/track/3Fjmxpr6hDQ2gTZ4oQjfqC) | [Inmune Beats](https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz) | [Energy](https://open.spotify.com/album/3aOGkNmNp1NVGn7oAPc4UF) | 3:12 | 2022-11-25 |  |
 | [Entropy](https://open.spotify.com/track/441YIkP32be2LQ2Ol6LMmT) | [BassEQ](https://open.spotify.com/artist/4w4B079eb5jukk7o2nvL49) | [BassEQ Beats](https://open.spotify.com/album/147Elkn8P9wvep6M4kqsf0) | 5:03 | 2021-04-26\* | 2021-09-10 |
 | [Escape](https://open.spotify.com/track/7loBMJPuSrISlENdY3nuVR) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [Escape](https://open.spotify.com/album/32du4LBKI5WrU6VImj5kIB) | 3:42 | 2021-04-26\* | 2022-08-19 |
 | [Espionage](https://open.spotify.com/track/1mFmFZRC6mMSeMioZ5MfRh) | [Inteus](https://open.spotify.com/artist/19NNBW45HcAOPkYzJMeMNN) | [Espionage](https://open.spotify.com/album/6D7XC9r5x45DXCUDfjS0m1) | 5:29 | 2022-04-08 | 2022-07-29 |
@@ -114,6 +115,7 @@
 | [Flow Killer](https://open.spotify.com/track/6bcVS1yb7iKMaKGZeNhOnI) | [Cris Luke](https://open.spotify.com/artist/3rWSBTTVA1lFOu9hKrLaCp) | [Freestyle Beats, Vol.2](https://open.spotify.com/album/03MPyUrOpCGRdxtsy0WBzJ) | 3:20 | 2022-07-29 |  |
 | [Floweristic](https://open.spotify.com/track/6pKRvIqBqR11TwVeHQLfcH) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:57 | 2021-04-26\* | 2022-05-14 |
 | [Flowersong](https://open.spotify.com/track/7c43qz8M78sEZ7MFSUKYSg) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Flowersong](https://open.spotify.com/album/2m6M5yr2JesrlRW0EVv5IZ) | 2:40 | 2021-04-26\* | 2022-05-14 |
+| [Flying The Nest](https://open.spotify.com/track/65NcrTShh2IiHs4MRTHIZn) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Dumio](https://open.spotify.com/album/5s0hqQijcap6MCa5geFZOM) | 3:34 | 2022-11-25 |  |
 | [Focus talk](https://open.spotify.com/track/0ml00YeQKaWnQ7Ngtu3nwX) | [BY ROD](https://open.spotify.com/artist/54u0XV6MmFvj9tAPCJ1XY0) | [Focus talk](https://open.spotify.com/album/3AOGtXoUYFsMXGwbFXpKny) | 1:22 | 2022-06-17 | 2022-08-19 |
 | [Free Agent](https://open.spotify.com/track/3Ogn2JXSjOodULGB2zKIl4) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Courtside](https://open.spotify.com/album/71cnbiiBI4oKmxlM26zSUV) | 3:07 | 2021-04-26\* | 2021-08-26 |
 | [Free Sample](https://open.spotify.com/track/7N1Vq4WmB9xKtYC7ErkNKJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:08 | 2021-04-26\* | 2021-06-04 |
@@ -215,6 +217,7 @@
 | [paint](https://open.spotify.com/track/28p37blBJxXtnAtl9ndjC0) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [tile & error](https://open.spotify.com/album/1kMqljBJ3CMhls6972lJ8H) | 2:32 | 2021-04-26\* | 2022-05-27 |
 | [Peace Police](https://open.spotify.com/track/2qHaXryEN56zBsYEG4j5Sj) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Peace Police](https://open.spotify.com/album/5UcnhXhnPxol0KORBDsW6L) | 2:16 | 2021-11-10 |  |
 | [Peaceful End](https://open.spotify.com/track/2BsiCSZgCSNJbghOyUrJ5F) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 2:12 | 2021-04-26\* | 2021-06-18 |
+| [Peer Pressure](https://open.spotify.com/track/30PDbNjIAYsxmh5z0gdJUN) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Peer Pressure](https://open.spotify.com/album/6FGjZ4GxmrGCr89TRLwk19) | 3:24 | 2022-11-25 |  |
 | [Perfection](https://open.spotify.com/track/3cgmk4PnyagSVS0snpSHBf) | [Carl Down](https://open.spotify.com/artist/3SUWaiyM09qqsnBkfm6lPv) | [Perfection](https://open.spotify.com/album/6DO8231AhivEuWarU7JeJz) | 1:32 | 2021-04-26\* | 2022-04-22 |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2021-11-10 |  |
 | [Powerwalk](https://open.spotify.com/track/2ph6ScN92MMhfJQfRrU1nJ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Wheel of Life](https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg) | 2:56 | 2021-04-26\* | 2021-06-18 |
@@ -251,6 +254,7 @@
 | [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2021-09-10 |  |
 | [Silver Lining](https://open.spotify.com/track/49hqLCrBX4CnAkEM0iclaO) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Silver Lining](https://open.spotify.com/album/1rCa089W6ZFhIcpVzw4tCJ) | 2:29 | 2021-04-26\* | 2022-05-20 |
 | [Sink Or Swim](https://open.spotify.com/track/6iKOQlbQaP1ml7Rcnz40mL) | [Heater Fanz](https://open.spotify.com/artist/4Uytcl5jKXgZcHVIiOzqQH) | [Sink Or Swim](https://open.spotify.com/album/50U2GR6RFdlpW1vQRArcx5) | 2:54 | 2022-01-27 |  |
+| [Sinking ships](https://open.spotify.com/track/0rnI5wlgmeUF2iFI2d1WEx) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Arrest that man](https://open.spotify.com/album/21XcINkyFBW3xswH4R3mNl) | 2:25 | 2022-11-25 |  |
 | [Smooth](https://open.spotify.com/track/6yTTo3X7zgYStEn6PDrWlr) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/1SYa5Vd1APzOiSiOQREnkW) | 2:36 | 2021-05-07 | 2021-09-10 |
 | [Snack Bar](https://open.spotify.com/track/3NaAiO0oBCWkRVFtSQ6j0F) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Don’t Be Afraid to Fly](https://open.spotify.com/album/1mEhFmt5gqiD1s0CLw0sKL) | 3:02 | 2021-04-26\* | 2022-05-27 |
 | [Snap Back](https://open.spotify.com/track/2wuy9zI3HVkbTIahNnjnKt) | [Simhakutty](https://open.spotify.com/artist/33FgImhYqZmZQDNQvToXqQ) | [Roar](https://open.spotify.com/album/7AttJyROeo9tZDL1LkTilc) | 3:20 | 2021-07-09 | 2022-05-14 |
@@ -263,9 +267,12 @@
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2021-04-26\* | 2022-05-14 |
 | [Stargazing](https://open.spotify.com/track/4cIsmISX8R4S6NDvmqXUDR) | [Bungus](https://open.spotify.com/artist/6G5hyAD5WnCvkW9CeUMsJA) | [Stargazing](https://open.spotify.com/album/3dLYFdh6latSJWKJK0FBDH) | 2:59 | 2022-04-08 | 2022-07-29 |
 | [Starter](https://open.spotify.com/track/5ibGmOVcugAFDiDGn3RL6u) | [Alex Froot](https://open.spotify.com/artist/34IlI3sD4HQouKqpy02h42) | [Starter](https://open.spotify.com/album/2PPoZCz0OM5XegZBpWanXQ) | 2:26 | 2021-08-26 | 2021-10-14 |
+| [stating the obvious](https://open.spotify.com/track/6v7devbeCi08pDiP1zwRmQ) | [Snake Pila](https://open.spotify.com/artist/345Ge7p3aRxLcZ7q6lf7BT) | [stating the obvious](https://open.spotify.com/album/0EtIyPTxbTK6yzcr1wbFzy) | 1:49 | 2022-11-25 |  |
 | [Step on Soil](https://open.spotify.com/track/3bhXsjM1vXQyEmePGDOSeT) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:45 | 2022-06-10 |  |
 | [Stories](https://open.spotify.com/track/3vPR3IuSWlGH7KbdFoY2N6) | [Decto](https://open.spotify.com/artist/7tovP8BnEWcis29zWFlEO9) | [Odyssey](https://open.spotify.com/album/7FE98zZhyJxjZtR4oJVYvr) | 3:04 | 2022-04-08 | 2022-07-22 |
+| [STREET TALK](https://open.spotify.com/track/0iwPNg7PCrsJ98tA3asgt1) | [Bloostar](https://open.spotify.com/artist/3Abv7gPn3kAVIYhWtMX00o) | [Bloostar](https://open.spotify.com/album/3Ya6OArBJ5tYV7vtJTHLxe) | 1:49 | 2022-11-25 |  |
 | [Summertimes](https://open.spotify.com/track/1t8fB7vpw6WY82MzzSu5EC) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:44 | 2021-04-26\* | 2022-09-09 |
+| [Sunday](https://open.spotify.com/track/4EhPkSCSZ7p2wawSzJAjLh) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Sunday](https://open.spotify.com/album/0oRhu0c7zQf7dd2HnrCoHC) | 2:26 | 2022-11-25 |  |
 | [Superhero Theme](https://open.spotify.com/track/2sDSg8rCbar5NAUwjwqZi2) | [Inteus](https://open.spotify.com/artist/19NNBW45HcAOPkYzJMeMNN) | [Superhero Theme](https://open.spotify.com/album/6RZsn0BYGAQ2yBgtsqG5ns) | 2:01 | 2022-06-24 |  |
 | [Sus](https://open.spotify.com/track/16gVNJoxte9CR8Tc16QkjU) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [BROOKLYN](https://open.spotify.com/album/3YSri8vnihJfhMmLohwEhJ) | 1:38 | 2022-04-22 |  |
 | [Sweeping Grounds](https://open.spotify.com/track/2xkdCkb2yZAjvj8YlIF3bs) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Sweeping Grounds](https://open.spotify.com/album/4c9pGOnqLMtXZ3aMgTCNZk) | 2:40 | 2022-05-13 |  |

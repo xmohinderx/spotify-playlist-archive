@@ -1,12 +1,12 @@
 {
   "description": "it's ok not to be ok :'( ",
-  "num_followers": 94136,
+  "num_followers": 94174,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDMyMTU3NjM3ZDljMDE0NjEyYmE1M2EyODI4NGJhMmIx",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGJkMjM2ZjkxN2M2NmM2NGE1ZWZmMTYzMjYzMmU0M2Jk",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "if this is the last time",
+      "url": "https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 140571,
       "name": "Wish I Was Better",
       "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "mama's boy",
-        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "if this is the last time",
-      "url": "https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc"
     },
     {
       "added_at": "2022-10-27 22:01:00",

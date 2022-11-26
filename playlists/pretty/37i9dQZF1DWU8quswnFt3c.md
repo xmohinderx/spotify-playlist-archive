@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,686 likes - 72 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,708 likes - 72 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 29 | [Motinha](https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 3:14 |
 | 30 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
 | 31 | [Fragile](https://open.spotify.com/track/2AaXBwfmZahVmPitxP1zFE) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Fragile](https://open.spotify.com/album/1mFALEv1ffKshIAb5T3Db0) | 3:01 |
-| 32 | [passo a passo](https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [passo a passo](https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj) | 3:39 |
-| 33 | [Rikse Me](https://open.spotify.com/track/3ZrWzr32QXVkMfXwf1Ds8w) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Rikse Me](https://open.spotify.com/album/1CQfLsDYWc63Br02KsOgE6) | 3:15 |
+| 32 | [Rikse Me](https://open.spotify.com/track/3ZrWzr32QXVkMfXwf1Ds8w) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Rikse Me](https://open.spotify.com/album/1CQfLsDYWc63Br02KsOgE6) | 3:15 |
+| 33 | [passo a passo](https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [passo a passo](https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj) | 3:39 |
 | 34 | [B\-D\-BUB\-BA](https://open.spotify.com/track/3wm2mQ6sErJO3ldO3wcz89) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [B\-D\-BUB\-BA](https://open.spotify.com/album/2DOcNrStpZ8uQ1h3PICjy3) | 3:48 |
 | 35 | [Todo Se Mantiene en Su Lugar](https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Todo Se Mantiene en Su Lugar](https://open.spotify.com/album/29CXlnmN2XPtAGBMb2nGT0) | 2:48 |
 | 36 | [Raincloud](https://open.spotify.com/track/5LAMww4MkUMihbOlKPFr09) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Raincloud](https://open.spotify.com/album/3kCzqoleAPWwg2sSd5YXEA) | 2:52 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 46 | [So Stunning](https://open.spotify.com/track/7yDLec0kIWD2xra7is4q7l) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner \(Side A\)](https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84) | 3:02 |
 | 47 | [Time to Let Go \(feat\. Luna Is A Bep\)](https://open.spotify.com/track/3o4JJ3laC0xZnVvOCrDa36) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Time to Let Go \(feat\. Luna Is A Bep\)](https://open.spotify.com/album/5WS85NSCkBrCxQQaGkNddk) | 3:36 |
 | 48 | [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 |
-| 49 | [Hard Feelings](https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:19 |
-| 50 | [La Lune](https://open.spotify.com/track/5r3i5CyyUnqz4wejDxgxNJ) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [La Lune](https://open.spotify.com/album/6xFa7nj9xqU5YUL5ivUGPz) | 4:27 |
+| 49 | [La Lune](https://open.spotify.com/track/5r3i5CyyUnqz4wejDxgxNJ) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [La Lune](https://open.spotify.com/album/6xFa7nj9xqU5YUL5ivUGPz) | 4:27 |
+| 50 | [Hard Feelings](https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:19 |
 | 51 | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv) | 3:11 |
 | 52 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 | 53 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 57 | [Spell Me Free](https://open.spotify.com/track/5HqwIMsJYJclEzCuiVMjEh) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Spell Me Free](https://open.spotify.com/album/1sxmGb4ycn0jhoHCLNPm0h) | 6:15 |
 | 58 | [WATER](https://open.spotify.com/track/4mdv4NsCL6nw4VG6U9YXMZ) | [Clara](https://open.spotify.com/artist/5w0sAq7EzeETFpmOe0EkHc) | [WATER](https://open.spotify.com/album/6hJLiDi7hCSuLcYhB8cavR) | 3:08 |
 | 59 | [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 |
-| 60 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 |
-| 61 | [Sen Benim Mağaramsın](https://open.spotify.com/track/6w8wCVir8mfPfNGzB6Ap3j) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Sen Benim Mağaramsın](https://open.spotify.com/album/6yWmxGqxfeUDMDM3mPOHVc) | 3:46 |
+| 60 | [Sen Benim Mağaramsın](https://open.spotify.com/track/6w8wCVir8mfPfNGzB6Ap3j) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Sen Benim Mağaramsın](https://open.spotify.com/album/6yWmxGqxfeUDMDM3mPOHVc) | 3:46 |
+| 61 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 |
 | 62 | [An kapou kapou m' agapas](https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [An kapou kapou m' agapas](https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J) | 3:12 |
 | 63 | [Déconstruction](https://open.spotify.com/track/08TCJTR4MrhByX6prkVZ2A) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:47 |
 | 64 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 71 | [Tudo bem](https://open.spotify.com/track/2L8uyJZ2NfpapRrtDtzs8m) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt) | [Tudo bem](https://open.spotify.com/album/0RN7qf63m2AKqU2NZX6Ikh) | 3:15 |
 | 72 | [MY CREW](https://open.spotify.com/track/7rCQ2IUc15BI83NkvxHoIC) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [MY CREW \(Friendless x Hugh Lake Remix\)](https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W) | 2:32 |
 
-Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMDIwZTlmMjBlOWQ1OTgwZGZkNmQ4NmVhNTZhNGNjMjIx`
+Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMGE4Y2ZjZjEyMjhmOTgxMDJlOGM5ZDAwOGJmYjJkY2Qx`

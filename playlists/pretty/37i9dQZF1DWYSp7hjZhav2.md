@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,352 likes - 53 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,552 likes - 53 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 37 | [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 |
 | 38 | [Leaving Earth](https://open.spotify.com/track/6koq1DWY1e6JVFy7wQgYCo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Ki Bae](https://open.spotify.com/artist/1t636zbkoWqKePDarVVk21) | [Leaving Earth](https://open.spotify.com/album/751Dn5vH2f5uLyjUB5cYje) | 5:03 |
 | 39 | [Blinded \- Colyn Remix](https://open.spotify.com/track/2B0Mt9mDdiL7F267kY7PCS) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded \(Colyn Remix\)](https://open.spotify.com/album/2ohmjRcbnmP2cmCAyXTb72) | 5:43 |
-| 40 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 |
+| 40 | [Cherry](https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 5:55 |
 | 41 | [System Failure](https://open.spotify.com/track/4wqODsXdZXMykBJ8xLfZO4) | [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:58 |
 | 42 | [The Witness](https://open.spotify.com/track/6eSP8lYRRCx7IgxdwDCEd6) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 7:03 |
 | 43 | [Carte Blanche \- Alternative Dub Version](https://open.spotify.com/track/47EQgnnkKHkLh6igAw5bmD) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Carte Blanche](https://open.spotify.com/album/2OC1mqKWM8vMUAe8rZpQCU) | 5:03 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 52 | [Monomono](https://open.spotify.com/track/2eS5Q1hbmRM3cNOSplrQuY) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Monomono](https://open.spotify.com/album/7sYaH5Eu79f8NRR8ikBtYZ) | 6:19 |
 | 53 | [Hope Song](https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Hope Song](https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw) | 5:39 |
 
-Snapshot ID: `MTY2Nzg1NzA3NiwwMDAwMDAwMGQxY2Y3NGQ4ODIzNjIzMGIwMjk1MzBiNTkwOWU2Nzc1`
+Snapshot ID: `MTY2Nzg1NzA3NiwwMDAwMDAwMDVjMjkxMGZkNGNjZDE0N2I3MTgyOTVlODZmNzgwMDlk`

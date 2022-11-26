@@ -1272,6 +1272,28 @@
     },
     {
       "album": {
+        "name": "I Still",
+        "url": "https://open.spotify.com/album/4eV9uFMNWicgEMeIyUrkS6"
+      },
+      "artists": [
+        {
+          "name": "DJ Gomi",
+          "url": "https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz"
+        },
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421473,
+      "name": "I Still",
+      "url": "https://open.spotify.com/track/38U70XapOx0kexSOsX03gC"
+    },
+    {
+      "album": {
         "name": "Buddy System Remixed",
         "url": "https://open.spotify.com/album/6Gf49JLKqif309cvHlTOe2"
       },

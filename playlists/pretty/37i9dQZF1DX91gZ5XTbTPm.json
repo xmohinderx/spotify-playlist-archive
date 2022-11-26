@@ -1,13 +1,113 @@
 {
   "description": "The Midwest is always on time. Cover: SleazyWorld Go",
-  "num_followers": 96063,
+  "num_followers": 96114,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGYzNDI2OGY3MTFkOTI4NTVhMDM0ZDhlMjMzM2ZjYThh",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDYwNGU1ZDExM2VhZDYwNGE4NGQ5YzU5OGViY2VjMWIw",
   "tracks": [
+    {
+      "added_at": "2022-10-07 04:15:29",
+      "album": {
+        "name": "Creepers",
+        "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 111020,
+      "name": "Creepers",
+      "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 131115,
+      "name": "Aye (feat. Offset)",
+      "url": "https://open.spotify.com/track/7w5l6GTKE2SghmVdNgXng6"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "It's Not Me It's You",
+        "url": "https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "9 Lives (feat. Polo G & NLE Choppa)",
+      "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Ain\u2019t Safe (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 166514,
+      "name": "Ain\u2019t Safe (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
+    },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
@@ -53,26 +153,6 @@
       "url": "https://open.spotify.com/track/7t165yCy9QZoB50CxVLQ8A"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Survivor\u2019s Remorse: A Side",
-        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 176588,
-      "name": "Shordie (with Gunna)",
-      "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Where The Shooters Be",
@@ -87,30 +167,6 @@
       "duration_ms": 117481,
       "name": "Vanish Mode",
       "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "It's Not Me It's You",
-        "url": "https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "9 Lives (feat. Polo G & NLE Choppa)",
-      "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -131,26 +187,6 @@
       "duration_ms": 117000,
       "name": "KAPITOL DENIM",
       "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -193,26 +229,46 @@
       "url": "https://open.spotify.com/track/2qmGNxyjEmdOAZB0dLPMMf"
     },
     {
-      "added_at": "2022-10-07 04:15:29",
+      "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Creepers",
-        "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
+        "name": "Last Week",
+        "url": "https://open.spotify.com/album/0CkMou5uaVWlcgUlbyNLL5"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
         }
       ],
-      "duration_ms": 111020,
-      "name": "Creepers",
-      "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
+      "duration_ms": 110343,
+      "name": "Last Week",
+      "url": "https://open.spotify.com/track/08OYnbJZtfdyAg1QNF1hdY"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Money Counter Music Vol. 2: Born In It",
+        "url": "https://open.spotify.com/album/2S2xBS9OFTqMQS1b2Ydjl0"
+      },
+      "artists": [
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 140040,
+      "name": "Motion Gang / Wavy Gang (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/5ZQHLsSkSAQbw75IhtdEMi"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Survivor\u2019s Remorse: A Side",
-        "url": "https://open.spotify.com/album/1fM9bkdf6IqvhnPrUK7WeZ"
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
       },
       "artists": [
         {
@@ -220,33 +276,13 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 131115,
-      "name": "Aye (feat. Offset)",
-      "url": "https://open.spotify.com/track/7lgvHYbCxOle5HJJcfJzrS"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Ain\u2019t Safe (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 166514,
-      "name": "Ain\u2019t Safe (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
+      "duration_ms": 176588,
+      "name": "Shordie (with Gunna)",
+      "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -285,6 +321,26 @@
       "url": "https://open.spotify.com/track/4chjloVr9wD7lxtCR2L4ac"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 157639,
+      "name": "Pain & Strife (feat. Offset)",
+      "url": "https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Luv 4 Rent",
@@ -307,26 +363,6 @@
       "duration_ms": 268667,
       "name": "Pro Freak (with Doechii, Fatman Scoop)",
       "url": "https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Money Counter Music Vol. 2: Born In It",
-        "url": "https://open.spotify.com/album/2S2xBS9OFTqMQS1b2Ydjl0"
-      },
-      "artists": [
-        {
-          "name": "G.T.",
-          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "Motion Gang / Wavy Gang (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/5ZQHLsSkSAQbw75IhtdEMi"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -537,6 +573,26 @@
       "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "How TF",
+        "url": "https://open.spotify.com/album/7uFrgDWyKZZb4KHYORcqQt"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 182941,
+      "name": "How TF (with SleazyWorld Go)",
+      "url": "https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "90 Proof (with J. Cole)",
@@ -555,26 +611,6 @@
       "duration_ms": 208269,
       "name": "90 Proof (with J. Cole)",
       "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "$oul $old $eparately",
-        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 157639,
-      "name": "Pain & Strife (feat. Offset)",
-      "url": "https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -813,22 +849,6 @@
       "url": "https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "FLAWLESS LIKE ME",
@@ -923,26 +943,6 @@
       "duration_ms": 228484,
       "name": "All Hustle (feat. Jeezy)",
       "url": "https://open.spotify.com/track/4bN2qHcGAwLbvbakbi6W5L"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "How TF",
-        "url": "https://open.spotify.com/album/7uFrgDWyKZZb4KHYORcqQt"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        },
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 182941,
-      "name": "How TF (with SleazyWorld Go)",
-      "url": "https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm"
     }
   ],
   "unique_name": "CST",

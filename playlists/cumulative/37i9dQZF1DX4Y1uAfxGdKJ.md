@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-92 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
+102 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [banana split](https://open.spotify.com/track/7u1tLb1LntsHDFhJ94AGlz) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [banana split](https://open.spotify.com/album/6SUdl3Z0bLceeTfQZLDU73) | 2:58 | 2022-10-07 |  |
 | [Beautiful House](https://open.spotify.com/track/16QQGyu1UFkfQREErhvyvf) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful House / Aqualogico](https://open.spotify.com/album/6a4pT5HdiimlPYlzDgriOq) | 4:36 | 2022-09-23 |  |
 | [Beautiful Symmetry](https://open.spotify.com/track/5MaIAkTbRIDxH1Eit4WTwM) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful Symmetry / Inner Life](https://open.spotify.com/album/7KDwizgKEqbPomuX6ICql1) | 4:41 | 2022-09-23 |  |
+| [Bells of Home](https://open.spotify.com/track/1m826VTZiW3BmevRJEfuh8) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Bells of Home](https://open.spotify.com/album/0r9SeqcahpJNnBgFtrAhcq) | 2:57 | 2022-11-25 |  |
 | [Beyond](https://open.spotify.com/track/79cOXogBTBDiF91jhr9ih6) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [Beyond](https://open.spotify.com/album/4xbkWiqzlcupDVAWbGb0RA) | 2:40 | 2022-10-28 |  |
 | [Bloom](https://open.spotify.com/track/18giPJITeabMO6IB2pp45x) | [Wilborn](https://open.spotify.com/artist/73bYcf4jRS1co8vAERIbJW) | [Bloom](https://open.spotify.com/album/2OtEMRK0aS7xrnrrLtr44T) | 4:20 | 2022-09-23 |  |
 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 | 2022-09-23 |  |
@@ -41,8 +42,10 @@
 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2022-09-23 |  |
 | [Fall](https://open.spotify.com/track/7HnJXWqcZGCjcMQX29lkqq) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Fall](https://open.spotify.com/album/2YGKlK0R82VtrqZXYqKjWG) | 2:18 | 2022-10-28 |  |
 | [Feelings](https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Feelings](https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J) | 2:48 | 2022-09-23 |  |
+| [Flex Complex](https://open.spotify.com/track/6HfFO4JqpSirwM5EVYpQZw) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Flex Complex](https://open.spotify.com/album/3XqkFPylvMnidsf3KMDDEA) | 6:06 | 2022-11-25 |  |
 | [Fondue](https://open.spotify.com/track/1pZldGjxSdpj7762vA8K2M) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Fondue](https://open.spotify.com/album/4vXCNj1pri5Rh1RyplbD25) | 7:17 | 2022-10-07 |  |
 | [Forever Moving](https://open.spotify.com/track/4yVDSZslGasus5bSI1GOUH) | [Wai](https://open.spotify.com/artist/2naLLiIUfTp0IxAN6JM3hn) | [Party On The Block](https://open.spotify.com/album/5Kxpj5sNgDOgARuquZO2jD) | 2:59 | 2022-09-23 |  |
+| [Foundations](https://open.spotify.com/track/1KqRI4mAyLW1mpFJQnJCAM) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Foundations](https://open.spotify.com/album/2HBKB3dd2w35aDG7Y17JyA) | 2:11 | 2022-11-25 |  |
 | [Fourth Great Year](https://open.spotify.com/track/4Dc8vlnTDInfrPrHgBC4HS) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Fourth Great Year](https://open.spotify.com/album/5G8WnxsQ0KdNPKl9PArltd) | 2:25 | 2022-10-28 |  |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-09-23 |  |
 | [From Here To Eternity](https://open.spotify.com/track/0CVApUBXDYlSnqFtAl7E1S) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [From Here To Eternity](https://open.spotify.com/album/5yvourEPzugOQ0Z4RkrFf7) | 4:41 | 2022-09-23 |  |
@@ -61,6 +64,7 @@
 | [Mistwalker](https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Mistwalker](https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg) | 4:50 | 2022-09-23 |  |
 | [Momentum](https://open.spotify.com/track/0dwUqHfuKGhtYCChyeLyxX) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Momentum](https://open.spotify.com/album/1QsITkVjzy1Rx4AqYNUAsZ) | 2:42 | 2022-09-23 |  |
 | [Moves](https://open.spotify.com/track/4fPv168u1RcMv7EvXpjhm2) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:47 | 2022-09-23 |  |
+| [narrow club](https://open.spotify.com/track/6hMCmAzbsXyzcfcR11429z) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [narrow club](https://open.spotify.com/album/6bDsCQR9bY1Q0Jvk06Js1j) | 2:26 | 2022-11-25 |  |
 | [Naymara](https://open.spotify.com/track/30cOun7g2v2GO6fLin6gPy) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Naymara](https://open.spotify.com/album/43ECTj9mRWwpMr5ehDBHzT) | 2:20 | 2022-09-23 |  |
 | [Night Riding](https://open.spotify.com/track/1lzBu9GwCyWPieEWTrqtnI) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Night Riding](https://open.spotify.com/album/6fGErE6z1bpMnu6Qm2qRXP) | 5:05 | 2022-09-23 |  |
 | [Nigiro](https://open.spotify.com/track/2aGpPdS5daiW8vQrTI3SgC) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Nigiro](https://open.spotify.com/album/3VNO5vtzrLIbN9IVlBNVO8) | 2:30 | 2022-09-23 |  |
@@ -68,12 +72,15 @@
 | [ocean walk](https://open.spotify.com/track/34WwE20Cawvpowutt29ieG) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [ocean walk](https://open.spotify.com/album/6IxeXdhmaOPk66JJcWDVur) | 3:20 | 2022-09-23 |  |
 | [Off the radar](https://open.spotify.com/track/6LpCOSM7ti0RkktlPHPBbK) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [Off the radar](https://open.spotify.com/album/1KmL8xWaFnWAWMbistk5L6) | 2:12 | 2022-09-23 |  |
 | [Once Upon A World](https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Once Upon A World](https://open.spotify.com/album/4mw0Q07pxSpQEmS7QuOBRy) | 3:27 | 2022-09-23 |  |
+| [Osmosis](https://open.spotify.com/track/6GgPl2EbOG69cvo59kETdw) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Osmosis](https://open.spotify.com/album/7gIZQbcjtE5edqwBu9DwMQ) | 3:21 | 2022-11-25 |  |
 | [Our Time Now](https://open.spotify.com/track/2aZuFiKKYc1nA9ASa2ymwq) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Our Time Now](https://open.spotify.com/album/6KtMeqAX5259a1x3E2i1RS) | 2:15 | 2022-09-23 |  |
 | [Palm Springs](https://open.spotify.com/track/33Qvtl9E5ARA8HOxgEBX4v) | [Mason Madris](https://open.spotify.com/artist/4fJWxGIcLWTW9BGjDBy7Yo) | [Palm Springs](https://open.spotify.com/album/6LxmhD0Jkhbt8r8CcYcxBf) | 3:50 | 2022-09-23 |  |
 | [Paper Hearts](https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Paper Hearts](https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL) | 2:40 | 2022-09-23 |  |
 | [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |
 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-09-23 |  |
+| [Projectile](https://open.spotify.com/track/4ODWE5SOUACS8xu6aV9ORL) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Projectile](https://open.spotify.com/album/2AmwppTukWbE4BmVGlM6zo) | 2:24 | 2022-11-25 |  |
 | [Pós Sol](https://open.spotify.com/track/2bbPnvi0OaViwKNEG0DnPC) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb) | [Pós Sol](https://open.spotify.com/album/7h2mvg8UNNs3TPl0hxgPBj) | 2:30 | 2022-09-23 |  |
+| [Quick Sand](https://open.spotify.com/track/6htTBHUpAE9VFfbCrR5rQH) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Quick Sand](https://open.spotify.com/album/6lEvyBtEpcKbzZUr4ONKBX) | 3:53 | 2022-11-25 |  |
 | [Reactor 7](https://open.spotify.com/track/0KEd7iWaVQLQgDOv4uZhci) | [Martin Spiske](https://open.spotify.com/artist/10ERqJV744ZtavyVoA7bIO) | [Reactor 7](https://open.spotify.com/album/0zzYTZxje2FEO9ta0ZvygS) | 2:56 | 2022-09-23 |  |
 | [Roma Routine](https://open.spotify.com/track/6tRdbsDBn6BQ4Pk9fz2JAl) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Roma Routine](https://open.spotify.com/album/7DVuxMwQTHvRi2l6Vra5Ce) | 3:30 | 2022-10-28 |  |
 | [Rooftop Prelude](https://open.spotify.com/track/5ghSf2DY96iGYoB4vQePpE) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Rooftop Prelude](https://open.spotify.com/album/04mVbv0JlznRDcTBneKQQw) | 3:00 | 2022-10-28 |  |
@@ -92,13 +99,16 @@
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-09-23 |  |
 | [The Eclipse](https://open.spotify.com/track/71wKe7nLKqkaq3JYAFEdna) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Eclipse](https://open.spotify.com/album/12mh93J0d59nHpqkWUEeqJ) | 2:34 | 2022-09-23 |  |
 | [The Life of an Empath](https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:26 | 2022-09-23 |  |
+| [Type 1](https://open.spotify.com/track/2Z515QtI12xintnkboGQZw) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Type 1](https://open.spotify.com/album/7w6fHYrIaKbqXDN96dbEJf) | 3:47 | 2022-11-25 |  |
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
 | [We Are the Stars](https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y) | [Lady DJ](https://open.spotify.com/artist/3luz91ywJZl3n8zqhqNTLP) | [We Are the Stars](https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl) | 2:19 | 2022-09-23 |  |
 | [Where Have U Been?](https://open.spotify.com/track/3bCnwmJwBob222khzVUrcN) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Where Have U Been?](https://open.spotify.com/album/3gmS7R3fNWUNN8Ewwy6URY) | 2:16 | 2022-09-23 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 | 2022-09-23 |  |
+| [Wrath](https://open.spotify.com/track/0nxEpiRh6ja8YxKTR8kCkO) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wrath / Envy](https://open.spotify.com/album/1dCtDbppPhPtiIl3ZCkfFu) | 3:21 | 2022-11-25 |  |
 | [Wut](https://open.spotify.com/track/1dlNlopZwjwqb6orJH1MKC) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [Wut](https://open.spotify.com/album/1D9FIFbNkvp0dPN8CuKLKB) | 4:03 | 2022-10-07 |  |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2022-09-23 |  |
 | [Yonder](https://open.spotify.com/track/5MIMRwC9I4SP48zoMhAbwh) | [Siebensachen](https://open.spotify.com/artist/1LysQsO6Eq11YuvI300Imv) | [Yonder](https://open.spotify.com/album/7yHZPzZKRtYgTBxNP71Eg1) | 3:34 | 2022-10-28 |  |
 | [young forever](https://open.spotify.com/track/6rZZ516aVPn9QslltPSXNj) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [young forever](https://open.spotify.com/album/1OMIXz6JW4f6YARoyd1guV) | 2:14 | 2022-10-14 |  |
+| [Éphémère](https://open.spotify.com/track/6lOFuDrXRewSFfQ4JyImyS) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Éphémère](https://open.spotify.com/album/2CL8hRsWQV8RL64UQFFjEu) | 3:30 | 2022-11-25 |  |
 
 \*This playlist was first scraped on 2022-09-23. Prior content cannot be recovered.

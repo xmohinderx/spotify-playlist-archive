@@ -2290,6 +2290,24 @@
     },
     {
       "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh"
+      },
+      "artists": [
+        {
+          "name": "Zach Len",
+          "url": "https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145624,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/7FOICAmy6YkVum07rk5tNJ"
       },

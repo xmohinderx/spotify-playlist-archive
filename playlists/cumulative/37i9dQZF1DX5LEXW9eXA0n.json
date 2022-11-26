@@ -2726,6 +2726,24 @@
     },
     {
       "album": {
+        "name": "Even When I Smile",
+        "url": "https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Even When I Smile",
+      "url": "https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq"
+    },
+    {
+      "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
       },

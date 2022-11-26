@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Monaleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,892 likes - 62 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,893 likes - 62 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

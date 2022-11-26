@@ -1,12 +1,12 @@
 {
   "description": "Turn up for the big game!",
-  "num_followers": 574009,
+  "num_followers": 574137,
   "original_name": "Gameday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGUyZmQzMDNlYzViZDg3ZWNhYzlmOTZhZDcwOTAxMDM0",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDJlODVmMTY4Yzg0ZjAzM2M4Zjc3YTNhNDFlMDk4YzM1",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 171319,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "The Forever Story",
-        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Dance Now (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Back In Blood (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 184489,
-      "name": "Back In Blood (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
         "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Back In Blood (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "Back In Blood (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Over The Top (feat. Drake)",
+        "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Over The Top (feat. Drake)",
-        "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "Over The Top (feat. Drake)",
-      "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
     },
     {
       "added_at": "2022-09-02 04:01:00",

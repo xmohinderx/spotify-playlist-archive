@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,084 likes - 80 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,138 likes - 80 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 35 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 |
 | 36 | [Ka Anyi Bulie \(feat\. Don Moen\)](https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Frankincense](https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh) | 3:29 |
 | 37 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 |
-| 38 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
+| 38 | [Wonder \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 4:03 |
 | 39 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 |
-| 40 | [Wonder \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 4:03 |
+| 40 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
 | 41 | [Open Up](https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Open Up](https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi) | 10:30 |
 | 42 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
 | 43 | [Be Lifted \(Live\)](https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 8:25 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 56 | [Always Win \(Solo Version\)](https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Always Win \(Solo Version\)](https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU) | 5:00 |
 | 57 | [Confidence \- Live](https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:14 |
 | 58 | [Your Name](https://open.spotify.com/track/50OdYCrgXjemzCDZ110bQn) | [M'ViTim](https://open.spotify.com/artist/5Yfi09XNJW2XCdbFZZhLMO), [GRACELYNE](https://open.spotify.com/artist/2moloLNsTmL1NPphDdgIsS) | [Your Name](https://open.spotify.com/album/2LxSXk05DNpcYZfJzBF1y3) | 8:26 |
-| 59 | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 |
-| 60 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 |
+| 59 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 |
+| 60 | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 |
 | 61 | [Your Majesty \- Live](https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ) | [Muyiwa & Riversongz](https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb) | [Declaring His Power \(Live\)](https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw) | 5:17 |
 | 62 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 |
 | 63 | [King of Glory](https://open.spotify.com/track/27E4LObyzj6OiszOv221pI) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Greatest Lord](https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r) | 5:40 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 65 | [Who Else \(Single Mix\)](https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Who Else](https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO) | 3:28 |
 | 66 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
 | 67 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 |
-| 68 | [Won't Let Go](https://open.spotify.com/track/2AOk4SEj1TYDbdTwewUQgq) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [The Soul Seekers](https://open.spotify.com/artist/5c2B3jO7ovPd0YuSD3x1ig) | [A Great Work](https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp) | 4:11 |
-| 69 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 |
+| 68 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 |
+| 69 | [Won't Let Go](https://open.spotify.com/track/2AOk4SEj1TYDbdTwewUQgq) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [The Soul Seekers](https://open.spotify.com/artist/5c2B3jO7ovPd0YuSD3x1ig) | [A Great Work](https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp) | 4:11 |
 | 70 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 |
 | 71 | [Jesus](https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Jesus](https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H) | 7:34 |
 | 72 | [Nailed \- Live](https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Nailed \(Live\)](https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC) | 6:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Messengers](https://open.spotify.com/track/16QyjYsEnTcPhmpjqTg1Ad) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Messengers](https://open.spotify.com/album/0upBIxCFfX69fL1uB0NhTO) | 4:48 |
 | 80 | [Nara Testimony](https://open.spotify.com/track/4XNERMODQosvkyZwRh0rNg) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 6:55 |
 
-Snapshot ID: `MTY2NzU0MzMyMSwwMDAwMDAwMGE4N2I1NzlmZDI4ODI3NDNlMmJjZDAyYTliY2I4MDM0`
+Snapshot ID: `MTY2OTM2MjU0NSwwMDAwMDAwMDRlZTlkNjFkOGU0Nzc2OWFiODMyOGYwMWIzYzU3MjM4`

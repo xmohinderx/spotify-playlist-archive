@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 61864,
+  "num_followers": 61880,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDAxYTkwODdmNTA2MjdiOWM5NWQ5ODFhOTAxN2YwZTU1",
+  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDk3MGRjNTA4YWM2MDVkYzc4NDBkNjBhZDE1YmU5NTFl",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Daba",
-        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
-      },
-      "artists": [
-        {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
-        }
-      ],
-      "duration_ms": 46800,
-      "name": "Jnan (Interlude)",
-      "url": "https://open.spotify.com/track/5eIBJPx2AAeB4CzQOoViJ5"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Dorouj",
         "url": "https://open.spotify.com/album/60II2iJkFzrfi5E5b2Mfrj"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 352642,
       "name": "Ordibehesht",
       "url": "https://open.spotify.com/track/3wiiMG6DzG3B88FFfjpNbA"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Daba",
+        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
+      },
+      "artists": [
+        {
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+        }
+      ],
+      "duration_ms": 46800,
+      "name": "Jnan (Interlude)",
+      "url": "https://open.spotify.com/track/5eIBJPx2AAeB4CzQOoViJ5"
     },
     {
       "added_at": "2021-02-15 11:04:36",

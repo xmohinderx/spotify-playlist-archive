@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,007 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,365 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 42 | [El H \(En Vivo\)](https://open.spotify.com/track/6053Is00EA36bQRzjvairQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Pisteando Con Amigos \(En Vivo\)](https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU) | 3:00 |
 | 43 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 |
 | 44 | [El Primito \(En Vivo\)](https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Primito \(En Vivo\)](https://open.spotify.com/album/7sGozLOnXBrjgjocsW14ih) | 3:05 |
-| 45 | [Yo Fui El Choki](https://open.spotify.com/track/1k7BcLftj6rmgBDRuK3bpc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 3:22 |
-| 46 | [Equipo RR](https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:56 |
+| 45 | [Equipo RR](https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:56 |
+| 46 | [Yo Fui El Choki](https://open.spotify.com/track/1k7BcLftj6rmgBDRuK3bpc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 3:22 |
 | 47 | [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 |
 | 48 | [El Comandante](https://open.spotify.com/track/5ZZIduUosHfi5GQQsbhGGu) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comandante](https://open.spotify.com/album/0vumH1IfChTf4mBo9iJtOM) | 2:14 |
-| 49 | [El 8](https://open.spotify.com/track/3MlwQd4W9ySCi505CK5N26) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El 8](https://open.spotify.com/album/7qfb8kvm6smyCu5HXefnME) | 2:45 |
-| 50 | [Por Clave 9\-1](https://open.spotify.com/track/0TnUV2vPKYf0TSgKuchTXU) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:17 |
+| 49 | [Por Clave 9\-1](https://open.spotify.com/track/0TnUV2vPKYf0TSgKuchTXU) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:17 |
+| 50 | [El 8](https://open.spotify.com/track/3MlwQd4W9ySCi505CK5N26) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El 8](https://open.spotify.com/album/7qfb8kvm6smyCu5HXefnME) | 2:45 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA2YTRmMzdkODI1ZGFiMzU5NDhhMGMzMjU1ZjRmYzg2OQ==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDA2ZmMzZWJhMDc0ZmE1Yzk2YTg5ZGVkNmMyMjc4MjZjNg==`

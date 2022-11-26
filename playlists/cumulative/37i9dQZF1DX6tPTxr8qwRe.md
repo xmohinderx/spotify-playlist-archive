@@ -4,7 +4,7 @@
 
 > Extra vicious, hard hitting pop\. This is SALT\. Cover: Dove Cameron
 
-306 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+308 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-24 | 2022-10-29 |
 | [Breakup Sex](https://open.spotify.com/track/5qy7Tp0aeBNEuAbV3mo3Xq) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Breakup Sex](https://open.spotify.com/album/2Tjdq0ZoX7pIoTbfsRxbyb) | 2:33 | 2022-07-22 | 2022-09-24 |
 | [Broken](https://open.spotify.com/track/6yFuexjIGUagtt3fyLgJgb) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Broken](https://open.spotify.com/album/7o1htT58cH7mxL1ow9QOB8) | 3:02 | 2022-02-11 | 2022-03-26 |
+| [BROKEN HEARTS](https://open.spotify.com/track/4bDVNFNYFVQFOglZIcmuAP) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BROKEN HEARTS](https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7) | 3:06 | 2022-11-25 |  |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-12-24 | 2022-03-18 |
 | [Bury Me Alive](https://open.spotify.com/track/6vCsRxJAyCB75JQKZc8MHb) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [Bury Me Alive](https://open.spotify.com/album/7JwAaRcuWbdfqkfGX2VbA5) | 1:57 | 2022-09-02 | 2022-11-19 |
 | [But I Don'T](https://open.spotify.com/track/1BZ8ne2p76ugVsn5TBjeuL) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [How Are You?](https://open.spotify.com/album/6JCn8Tk6OGj3t0YYG55zy7) | 2:17 | 2022-03-18 | 2022-08-13 |
@@ -177,7 +178,7 @@
 | [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 | 2022-07-01 | 2022-07-29 |
 | [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 | 2022-07-01 | 2022-09-24 |
 | [Losing Sleep](https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Losing Sleep](https://open.spotify.com/album/7J7FNt2SsRtvs294XWmTPd) | 2:42 | 2022-10-14 | 2022-11-12 |
-| [LOVE AND WAR](https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [LOVE AND WAR](https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok) | 2:40 | 2022-09-02 |  |
+| [LOVE AND WAR](https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [LOVE AND WAR](https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok) | 2:40 | 2022-09-02 | 2022-11-26 |
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-13 | 2022-11-19 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-20 |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 | 2022-10-29 |
@@ -239,10 +240,11 @@
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 |  |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-03-18 |
+| [SHUT UP](https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [SHUT UP](https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV) | 2:33 | 2022-11-25 |  |
 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 | 2022-07-08 | 2022-09-17 |
 | [Sink Or Swim](https://open.spotify.com/track/2X0hSfFCaunosj2mcLU4Y4) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Sink Or Swim](https://open.spotify.com/album/4L15oA6HAW5cywuJjNBc44) | 3:04 | 2022-01-14 | 2022-04-02 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2021-09-10 | 2022-03-18 |
-| [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-21 |  |
+| [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-21 | 2022-11-26 |
 | [so far it just sucked](https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [so far it just sucked](https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT) | 2:00 | 2022-09-09 | 2022-11-12 |
 | [Sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 | 2022-11-11 |  |
 | [Somebody I Fucked Once](https://open.spotify.com/track/1TLgTsRiX4P55KUOOGjYHu) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe\)](https://open.spotify.com/album/7JpzGCHmVPWG9zvBdexIqd) | 3:04 | 2021-09-28 | 2022-05-28 |

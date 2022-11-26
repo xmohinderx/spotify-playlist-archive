@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,432 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,462 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 20 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 |
 | 21 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
 | 22 | [دبرها](https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [دبرها](https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs) | 4:49 |
-| 23 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
-| 24 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
+| 23 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
+| 24 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 25 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
 | 26 | [Tol Alena Ya Ghali](https://open.spotify.com/track/766qbzDoCwddrG7rCqeqgD) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30), [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Tol Alena Ya Ghali](https://open.spotify.com/album/1XuiuBXF2vjJycFz4SfGJH) | 3:02 |
 | 27 | [Overdose \- From the Netflix Series "Mo"](https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Overdose \(From the Netflix Series "Mo"\)](https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI) | 2:54 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 44 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
 | 45 | [Take me to Palestine](https://open.spotify.com/track/5uVfYfPcRNWeEDoTQytLWi) | [El\-Funoun Palestinian Popular Dance Troupe](https://open.spotify.com/artist/6VH1HRNwtjHE2txVKksXtm) | [Zajel](https://open.spotify.com/album/7n96wcZ7T4BfLEq3IK7ONq) | 4:10 |
 | 46 | [Maskhara](https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Maskhara](https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9) | 3:06 |
-| 47 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
-| 48 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
+| 47 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 |
+| 48 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
 | 49 | [Ya Samti](https://open.spotify.com/track/2RCq9cXZOb9CCO016lHuem) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Ya Samti](https://open.spotify.com/album/0I1DrBlH1G7tg0tbU7ux99) | 3:52 |
 | 50 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |
 | 51 | [Nada](https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Nada](https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5) | 2:16 |
-| 52 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
-| 53 | [Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo](https://open.spotify.com/track/6EYOa2WdT7XEEOb376DSoV) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Nai 1](https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6) | 5:28 |
+| 52 | [Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo](https://open.spotify.com/track/6EYOa2WdT7XEEOb376DSoV) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Nai 1](https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6) | 5:28 |
+| 53 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
 | 54 | [Touchdown Palestine](https://open.spotify.com/track/1r9z2zRrmqjPMuPGRTINlN) | [Waheeb Nasan](https://open.spotify.com/artist/3GVRwasZpvEfVLvmFK4N8g), [Jae Deen](https://open.spotify.com/artist/5v4XF6KX5pdMJmiBVqK8z9) | [The Come Up](https://open.spotify.com/album/4h5ZJZkVZX5u8D2aNwj4Kr) | 3:01 |
 | 55 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 |
 | 56 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 69 | [BEL7AFLI](https://open.spotify.com/track/0YI7Z8BjqsYsySjD3qpOkK) | [EL X الإكس](https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP), [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz) | [BEL7AFLI](https://open.spotify.com/album/1e2VKrq3Pt8TLflBCJLeEs) | 2:46 |
 | 70 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
 
-Snapshot ID: `MTY2MjcyNjAxMSwwMDAwMDAwMDYzZTI4OWJmZGMwNjY1YWFhYmIxOTUyYWI0NWIwZjdk`
+Snapshot ID: `MTY2MjcyNjAxMSwwMDAwMDAwMDcwZDU4ODA3YjUxNDNmYzRkNDZlY2RhOTZmODBkYjJl`

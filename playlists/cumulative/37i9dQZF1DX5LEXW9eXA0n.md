@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: GOMAK BOYS\(고막소년단\)\) \(당신의 감성에 발라드, 려요\)
 
-598 songs - 1 day 14 hr 46 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+599 songs - 1 day 14 hr 50 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Even if fate separates us](https://open.spotify.com/track/3EJJObwczdPZlWvD8lk94t) | [Song Ha Yea](https://open.spotify.com/artist/28swpgrq4Fmfayz13dWrJi) | [Even if fate separates us](https://open.spotify.com/album/1aM0VqxuVamCdVAhbfiMVq) | 3:49 | 2022-06-18 | 2022-09-06 |
 | [Even if nobody cares for you](https://open.spotify.com/track/3wDgRdUelv4VWol7FlPlTu) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Nobody Knows \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/7pVx21fpVF6hh4mG8cbANz) | 3:20 | 2022-01-27 | 2022-06-24 |
 | [Even Then, I](https://open.spotify.com/track/3aATak00Bg68cyJwMyIgrS) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [Even Then, I](https://open.spotify.com/album/3PXL79oceHp1bAMpGVknD4) | 4:31 | 2022-05-03 | 2022-05-12 |
+| [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 | 2022-11-25 |  |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2021-12-20 | 2022-07-05 |
 | [Everybody Has](https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Everybody Has](https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C) | 3:42 | 2022-01-17 | 2022-06-25 |
 | [Everyday Christmas](https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Everyday Christmas](https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2) | 3:08 | 2022-02-17 | 2022-04-19 |

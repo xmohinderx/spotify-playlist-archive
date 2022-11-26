@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Grace Kelly",
+  "description": "New jazz for open minds. Cover: Brian Blade & Life Cycles",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -3885,7 +3885,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 294888,
       "name": "First Impression",
       "url": "https://open.spotify.com/track/7eNo1j7YOW1yUL5CjZrAB9"
@@ -4177,7 +4177,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 257124,
       "name": "GET DOWN!",
       "url": "https://open.spotify.com/track/7Gz9d5NoDGlTKr5L7rEMVd"
@@ -4661,6 +4661,24 @@
       "duration_ms": 222493,
       "name": "Head in the Clouds",
       "url": "https://open.spotify.com/track/0q6gOQqr5KcC2RUmXlh2pl"
+    },
+    {
+      "album": {
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/5UYFLZHT30xbqPup8ypkTD"
+      },
+      "artists": [
+        {
+          "name": "Vooo",
+          "url": "https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139824,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/3cJWrW8nLx1bq1CGKF2QTC"
     },
     {
       "album": {
@@ -6529,7 +6547,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 193846,
       "name": "Little Rock",
       "url": "https://open.spotify.com/track/2q21Zlz0eG3Uy60r75y5WB"
@@ -7146,6 +7164,24 @@
     },
     {
       "album": {
+        "name": "Mellow D",
+        "url": "https://open.spotify.com/album/68X7GSqcU0rRDF737X94w5"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "Mellow D",
+      "url": "https://open.spotify.com/track/4cyKMZoxryulVelRY8Fj4G"
+    },
+    {
+      "album": {
         "name": "Radio Live Stream",
         "url": "https://open.spotify.com/album/0RuDQmcuq6knk2TXz8ZJET"
       },
@@ -7509,7 +7545,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 389173,
       "name": "Mute",
       "url": "https://open.spotify.com/track/28D4fX9Dzthhe6KnRFzaLF"
@@ -7935,7 +7971,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 343219,
       "name": "Night Bird",
       "url": "https://open.spotify.com/track/62ufBtxbDCupKZaXwiLEiB"
@@ -8357,6 +8393,44 @@
       "duration_ms": 347377,
       "name": "Other Jewels",
       "url": "https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6"
+    },
+    {
+      "album": {
+        "name": "One Day, Forever",
+        "url": "https://open.spotify.com/album/1GhbfG1CSNsrbngRHITu6H"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        },
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        },
+        {
+          "name": "Curtis Fuller",
+          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
+        },
+        {
+          "name": "Geoff Keezer",
+          "url": "https://open.spotify.com/artist/5rlMzX0jL0ENT9XEVPJMnu"
+        },
+        {
+          "name": "Dwayne Burno",
+          "url": "https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT"
+        },
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558080,
+      "name": "Out of the Past",
+      "url": "https://open.spotify.com/track/5GrUxudlbub9174u8xDeJr"
     },
     {
       "album": {
@@ -9474,6 +9548,24 @@
     },
     {
       "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/1YuxPKVxPa6nFrnTiGg9m1"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143777,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/5VfXnShYlySzT3XezkvwZM"
+    },
+    {
+      "album": {
         "name": "Sais (Egypt)",
         "url": "https://open.spotify.com/album/7BgYo9YPlQ6sk3BVX9K2Ys"
       },
@@ -9907,7 +9999,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 450666,
       "name": "Silverdust",
       "url": "https://open.spotify.com/track/21lWK01keyw5boPtU10UF3"
@@ -9963,6 +10055,48 @@
       "duration_ms": 421960,
       "name": "Slosetta",
       "url": "https://open.spotify.com/track/6auCocFF7c6B5gWAMesI7w"
+    },
+    {
+      "album": {
+        "name": "Slow Change",
+        "url": "https://open.spotify.com/album/1IcqX9UmiHqNNH9wH5w6Zk"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Jon Cowherd",
+          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
+        },
+        {
+          "name": "Myron Walden",
+          "url": "https://open.spotify.com/artist/5wTziSHywk2CtCL463tSNR"
+        },
+        {
+          "name": "Monte Croft",
+          "url": "https://open.spotify.com/artist/2lJS048alI10juGK1Z9J49"
+        },
+        {
+          "name": "Doug Weiss",
+          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
+        },
+        {
+          "name": "Rogerio Boccato",
+          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
+        },
+        {
+          "name": "John Hart",
+          "url": "https://open.spotify.com/artist/3ndHyLdOcwpsVn1FCxIrLV"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459809,
+      "name": "Slow Change",
+      "url": "https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0"
     },
     {
       "album": {
@@ -11737,6 +11871,28 @@
       "duration_ms": 400311,
       "name": "The Night Before She Passed",
       "url": "https://open.spotify.com/track/6ojMeFvEymHqrWcSmSWSJv"
+    },
+    {
+      "album": {
+        "name": "The Path of Most Resistance",
+        "url": "https://open.spotify.com/album/2TnQd8ft8eUGGBUoPWMhUq"
+      },
+      "artists": [
+        {
+          "name": "Marek Konarski",
+          "url": "https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339781,
+      "name": "The Path of Most Resistance",
+      "url": "https://open.spotify.com/track/65qXRjqb5xYRIr5AcSeFPm"
     },
     {
       "album": {

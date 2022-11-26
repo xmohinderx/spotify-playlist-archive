@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(image for) drawing on canvas",
+        "url": "https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg"
+      },
+      "artists": [
+        {
+          "name": "SPOOL",
+          "url": "https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273085,
+      "name": "(image for) drawing on canvas",
+      "url": "https://open.spotify.com/track/6h0YR0kt5KfVlT6N9HTLkQ"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
@@ -867,7 +885,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 240678,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
@@ -3387,7 +3405,7 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "date_added": "2022-10-28",
+      "date_added": "2022-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187654,

@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover\- Ranbir & Alia.
 
-213 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+214 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Kyon](https://open.spotify.com/track/1sYC1fG7s4p0pTykrJqmgW) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 4:26 | 2021-04-06 | 2021-04-12 |
 | [La Ilaaj](https://open.spotify.com/track/5uYHDSKVHfHxBLgYf4H6SH) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Darlings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2CC7SjZUz7ua9SwvwBJBmy) | 4:24 | 2022-08-19 |  |
 | [Lae Dooba](https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary](https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz) | 3:49 | 2021-04-06 | 2021-04-12 |
+| [Lagan Lagi](https://open.spotify.com/track/3VrW0js3lDsZyqNa3kNcUa) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Kya Kariye](https://open.spotify.com/album/6I7ukO1gNwBiDHxIqjXdDV) | 2:52 | 2022-11-25 |  |
 | [Lagdi Lahore Di \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5I2wbDvSI98HLVB42YO9sU) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Lagdi Lahore Di \(From "Street Dancer 3D"\)](https://open.spotify.com/album/1PQ8K9syD1KiKORuiRWF1w) | 3:35 | 2021-01-25\* | 2022-03-01 |
 | [Lamha \- Revisited](https://open.spotify.com/track/4yc7si4jZuDO9YTxe3tJRt) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 3:39 | 2021-04-06 | 2021-04-12 |
 | [Liggi](https://open.spotify.com/track/66Nmp3ztIMqX1j8yYtWl1X) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/5r9bLIpSpE5ddweubUjw0t) | 3:01 | 2021-01-25\* | 2021-04-06 |

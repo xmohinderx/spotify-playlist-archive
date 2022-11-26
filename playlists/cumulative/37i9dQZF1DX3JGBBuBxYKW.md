@@ -4,10 +4,11 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Soledad, Lali & Natalia Oreiro.
 
-109 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
+110 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 |  |
 | [Ahora Se](https://open.spotify.com/track/2UDu0jl1GzixhEbjYGLxGO) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/72jiJ0q3ODcjFJn0iioy4w) | 3:54 | 2022-01-14 | 2022-07-29 |
 | [Ahora Se](https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO) | 3:54 | 2022-07-08 |  |
 | [Amor a Primera Vista](https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Amor a Primera Vista](https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY) | 3:40 | 2022-01-14 | 2022-07-29 |
@@ -18,7 +19,7 @@
 | [Amor Tóxico](https://open.spotify.com/track/7hxfaH77Qepfk8ARHzSp2z) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor Tóxico](https://open.spotify.com/album/0wGToLsV8vdaavtTQiPcUF) | 4:07 | 2022-11-18 |  |
 | [Aunque Llore Por Ti](https://open.spotify.com/track/3fgV5QfzVALAB0ZnHzP0gA) | [Stefany Aguilar](https://open.spotify.com/artist/552lG3laizimxVJ8Ml1Xct) | [Aunque Llore Por Ti](https://open.spotify.com/album/0sIaH3QfWVBY8cMJeqX8aJ) | 3:32 | 2022-01-14 | 2022-07-29 |
 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 | 2022-01-14 |  |
-| [Ayer Pedi](https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Ayer Pedi](https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o) | 3:25 | 2022-01-14 |  |
+| [Ayer Pedi](https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Ayer Pedi](https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o) | 3:25 | 2022-01-14 | 2022-11-26 |
 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 | 2022-01-14 |  |
 | [Bien Warrior \(feat\. DJ Krass\)](https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [DJ Krass](https://open.spotify.com/artist/0Ft52aTdmeD5N2ncuniI0d) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:42 | 2022-01-14 |  |
 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 | 2022-01-14 |  |

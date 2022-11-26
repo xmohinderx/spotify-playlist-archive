@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-409 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+412 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 | 2022-09-23 | 2022-10-08 |
 | [Latency](https://open.spotify.com/track/24bcu7IGNipuid5nU7oqgU) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Latency](https://open.spotify.com/album/4cOomZu7ZP0IZdcuSy15sh) | 2:52 | 2022-06-03 | 2022-11-22 |
 | [lead me on](https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [lead me on](https://open.spotify.com/album/3X368boMWsdwZGW8ByzNU9) | 2:07 | 2021-11-16 | 2022-02-26 |
+| [League](https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [League](https://open.spotify.com/album/3salXEA3cRs0wZT3VLEWyf) | 2:43 | 2022-11-25 |  |
 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-26 |  |
 | [ledge](https://open.spotify.com/track/4qahEWQ9T4MlTFnDqbWtQU) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [ledge](https://open.spotify.com/album/4ucXenIHafaLWozWJhLp6y) | 2:36 | 2022-06-17 | 2022-07-12 |
 | [let you](https://open.spotify.com/track/5OJmt1xiOHZJGx8wTUAjEC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [let you](https://open.spotify.com/album/34GdjbBv0ZQYwmoYrfVM2O) | 2:31 | 2021-11-16 | 2022-02-26 |
@@ -330,6 +331,7 @@
 | [Selfish](https://open.spotify.com/track/1MKJZ4b0UKqjKQoCZUznbH) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Underrated](https://open.spotify.com/album/1dJeb9jpVfg88wurDkPQAQ) | 2:51 | 2022-01-14 | 2022-03-26 |
 | [Shalotto](https://open.spotify.com/track/0bPl4vRtF2gJlIUQ6revK1) | [Josue Janv'ier](https://open.spotify.com/artist/4xSGCBuWuAg2sZPLC02j9U), [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Shalotto](https://open.spotify.com/album/7hPxFQOn0hi6a1E3EoU433) | 2:40 | 2022-07-01 | 2022-07-13 |
 | [Shania Twain](https://open.spotify.com/track/7EwTWFcQCOfXGyu5suJOXC) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Shania Twain](https://open.spotify.com/album/16QW96rEtlT2Z4ecuDGA9Q) | 2:32 | 2021-12-03 | 2022-02-26 |
+| [She Loves Me Not](https://open.spotify.com/track/5OGs76lkPNEcoSgoj3gUFK) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [She Loves Me Not](https://open.spotify.com/album/7FcTfHu4oJn91APGixkK4o) | 3:30 | 2022-11-25 |  |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-07-12 |  |
 | [Skin like summer](https://open.spotify.com/track/3BMjaR4kVrlefsdlcMJteK) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Skin like summer](https://open.spotify.com/album/609HfWohVgTcur5W1e9SYM) | 1:57 | 2022-05-20 | 2022-07-07 |
 | [slip](https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [slip](https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g) | 3:03 | 2021-11-16 | 2022-02-26 |
@@ -352,6 +354,7 @@
 | [Stars In The Sky \- From Sonic The Hedgehog 2](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky \(From Sonic The Hedgehog 2\)](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 | 2022-03-25 | 2022-04-23 |
 | [starstruck](https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 7](https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q) | 2:03 | 2022-08-05 | 2022-10-15 |
 | [STATUS](https://open.spotify.com/track/6GeknxD68osCT7BusMmzVF) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [STATUS](https://open.spotify.com/album/37ChAtjm7LncBjMoffeFvn) | 2:23 | 2021-11-16 | 2022-02-26 |
+| [Stay In Bed](https://open.spotify.com/track/55Q0OpbUmbqg6cSwRbOG2O) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stay In Bed](https://open.spotify.com/album/2GZ26dBt4GANEBgeV5oXFV) | 2:30 | 2022-11-25 |  |
 | [Sticky Fingers](https://open.spotify.com/track/1wXVyDRq58n4MHrlhYjBdB) | [Pick Patek](https://open.spotify.com/artist/0S9cudS88S3BH35w2sWFaN) | [MODERN ART](https://open.spotify.com/album/1lN0WvKqJyFYVeuC71Leit) | 2:46 | 2021-11-16 | 2022-02-26 |
 | [Still Young](https://open.spotify.com/track/5qOg2p4SrnSXDk1LF5bSIc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Still Young](https://open.spotify.com/album/5cYxzZsx7uto7TFV7X7G2q) | 2:32 | 2021-11-16 | 2022-02-26 |
 | [Stop it](https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Stop it](https://open.spotify.com/album/3us1VOBUhYMEdUcHVeoM71) | 3:48 | 2022-04-08 | 2022-05-20 |

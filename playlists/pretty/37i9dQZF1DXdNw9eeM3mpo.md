@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,759 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,838 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 40 | [Párate Y Mira](https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 4:07 |
 | 41 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
 | 42 | [Todos Locos](https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:22 |
-| 43 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 |
+| 43 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
 | 44 | [Sol de Medianoche](https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI) | 4:10 |
-| 45 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
+| 45 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 |
 | 46 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 |
 | 47 | [Aquí No Hay Playa](https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [The Refrescos](https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L) | 3:37 |
 | 48 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 52 | [Canto a la Rebelión](https://open.spotify.com/track/3Omx1tugYI03ULA1zcLCj6) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [99%](https://open.spotify.com/album/4XqbCTI7eyQUZ4pnya9hOo) | 4:38 |
 | 53 | [Adiós adiós](https://open.spotify.com/track/0ykwpOJjcAa6qKkK8P9TLF) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Terc3ra Llamada](https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG) | 3:44 |
 | 54 | [Dormir Soñando](https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Serie Verde \- El Gran Silencio](https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG) | 3:09 |
-| 55 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 |
-| 56 | [War 4 Peace](https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Diego Benlliure](https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF), [José Grela](https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:26 |
+| 55 | [War 4 Peace](https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Diego Benlliure](https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF), [José Grela](https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:26 |
+| 56 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 |
 | 57 | [Tu Alma Mía & Adelita](https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:49 |
 | 58 | [Close To You](https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [20 Minutos](https://open.spotify.com/album/2PQBj0ptx0kRiSFO4xrdSq) | 5:29 |
 | 59 | [Tanto amor me marea](https://open.spotify.com/track/4jGSfblxObklndcGJprEoa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:59 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 79 | [Sanguchito](https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena \(Deluxe\)](https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG) | 3:39 |
 | 80 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 |
 | 81 | [Allá Cayó](https://open.spotify.com/track/6F7uqfzvcdl5Y42mJBVc9V) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Plomo Revienta](https://open.spotify.com/album/5LIVxzLRdrJowxmLayI3uc) | 4:12 |
-| 82 | [Confesión](https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [King Changó](https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ) | 5:40 |
-| 83 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
+| 82 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
+| 83 | [Confesión](https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [King Changó](https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ) | 5:40 |
 | 84 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 |
 | 85 | [Song Bomb](https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Super Riddim Internacional Volumen 1](https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r) | 3:42 |
 | 86 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Pachuco \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), ["Sax" Maldita Vecindad](https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq) | [Pachuco \(feat\. "Sax" Maldita Vecindad \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC) | 3:56 |
 | 100 | [Morocha](https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Morocha](https://open.spotify.com/album/09e12okaJoA5p30Cj18XMP) | 2:36 |
 
-Snapshot ID: `MTY2NDU1MTk3MiwwMDAwMDAwMGM0NDllNTJmOTdjZjU0N2U5NmVmMDk2YzVlYjc4ODQw`
+Snapshot ID: `MTY2NDU1MTk3MiwwMDAwMDAwMDAwZDNkYTA4NzM3MGE0ZTc1NTliOGM0ZjVhZDI1YzRi`

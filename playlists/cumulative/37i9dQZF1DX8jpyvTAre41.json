@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Nickelback",
+  "description": "The hottest tunes in rock. Crank it up! Cover: Avril Lavigne, YUNGBLUD",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -2294,6 +2294,24 @@
     },
     {
       "album": {
+        "name": "Eventually",
+        "url": "https://open.spotify.com/album/60tbFyjRRbVb9oRn4UtEn4"
+      },
+      "artists": [
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168004,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/2fFpU6lEu15a0dL97rJ6a8"
+    },
+    {
+      "album": {
         "name": "Everything Is Fine",
         "url": "https://open.spotify.com/album/3zYaR1FlE4TVzWTfLFGkNX"
       },
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 206975,
       "name": "Fever Pitch",
       "url": "https://open.spotify.com/track/3hUIWeIiRr12i4afab6fcX"
@@ -2875,7 +2893,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 180585,
       "name": "Frenzy",
       "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
@@ -3107,6 +3125,24 @@
     {
       "album": {
         "name": "Grow Up Tomorrow",
+        "url": "https://open.spotify.com/album/3rm9AdtOaIPkWNfSQoIcvI"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192451,
+      "name": "Grow Up Tomorrow",
+      "url": "https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9"
+    },
+    {
+      "album": {
+        "name": "Grow Up Tomorrow",
         "url": "https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A"
       },
       "artists": [
@@ -3243,7 +3279,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/4Y4ldFPbe39m81tRLOcIWd"
@@ -3405,7 +3441,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 218990,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
@@ -3593,7 +3629,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on"
@@ -4175,7 +4211,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 150509,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5Lzgqi5hbNZx4GJUkrPFZM"
@@ -4421,7 +4457,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 176226,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e"
@@ -4678,6 +4714,24 @@
     },
     {
       "album": {
+        "name": "Love Abuser (Save Me)",
+        "url": "https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa"
+    },
+    {
+      "album": {
         "name": "Love Brand New",
         "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
       },
@@ -4689,7 +4743,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
@@ -4813,7 +4867,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 233266,
       "name": "Lustre Parfait",
       "url": "https://open.spotify.com/track/2InlQJPPUWByvRzK3LCmUQ"
@@ -4857,6 +4911,24 @@
       "duration_ms": 122570,
       "name": "make up sex (feat. blackbear)",
       "url": "https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1"
+    },
+    {
+      "album": {
+        "name": "Makeshift Paradise",
+        "url": "https://open.spotify.com/album/4sRT6Ay4AtKae9mW6amj7A"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "Makeshift Paradise",
+      "url": "https://open.spotify.com/track/1S8oQurfhmDFyzmWODOF1d"
     },
     {
       "album": {
@@ -4973,6 +5045,24 @@
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
+    },
+    {
+      "album": {
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257906,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED"
     },
     {
       "album": {
@@ -5321,7 +5411,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 192755,
       "name": "My People",
       "url": "https://open.spotify.com/track/7LI7D9mKjw5nadfq41LkRr"
@@ -5361,6 +5451,24 @@
       "duration_ms": 192756,
       "name": "My People",
       "url": "https://open.spotify.com/track/4Pk97ozk0daarAv8agqOlZ"
+    },
+    {
+      "album": {
+        "name": "Natural Born Killer/Pink Lullabye",
+        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
     },
     {
       "album": {
@@ -5811,6 +5919,24 @@
       "duration_ms": 197790,
       "name": "Only Time Will Tell",
       "url": "https://open.spotify.com/track/6zGwq7NwBJySXdA6y6bVI5"
+    },
+    {
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3jQM8I4XJIFIvQPxBX1gHy"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/7r6IKrSrxElm4CONGUhlv5"
     },
     {
       "album": {
@@ -6429,6 +6555,24 @@
       "duration_ms": 156574,
       "name": "Rich Kids Ruin Everything",
       "url": "https://open.spotify.com/track/4ANzvISz338P5mRff2m63x"
+    },
+    {
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ"
+      },
+      "artists": [
+        {
+          "name": "New Friends",
+          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177229,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW"
     },
     {
       "album": {
@@ -7327,6 +7471,24 @@
       "duration_ms": 151432,
       "name": "Spend the Day",
       "url": "https://open.spotify.com/track/1s7qm9rLMu1YBeYF7HSVfY"
+    },
+    {
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
     },
     {
       "album": {
@@ -8817,7 +8979,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 256741,
       "name": "Welcome To The Circus",
       "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"

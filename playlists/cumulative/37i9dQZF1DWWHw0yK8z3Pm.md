@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Serena Ryder, William Prince
 
-213 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+214 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [California](https://open.spotify.com/track/3Gug0Nn8OMxSKE3QhWsgB4) | [Bob Sumner](https://open.spotify.com/artist/6vgVIpaKWcjKvu8nqe5iBg) | [California](https://open.spotify.com/album/2hD5r1M47yZkRtBwlgzegB) | 4:08 | 2022-05-13 |  |
 | [CAMPFIRE](https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [CAMPFIRE](https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA) | 3:00 | 2022-07-29 |  |
 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 | 2022-05-13 | 2022-09-24 |
-| [Caroline](https://open.spotify.com/track/3ME0oA0PvhyIabL6ZiDOea) | [Willie Stratton](https://open.spotify.com/artist/1vEiaSJR9xF1T2Ckp4oZwT) | [Caroline](https://open.spotify.com/album/2OyX6YzNKwM7C8dX6NOI5I) | 4:08 | 2022-05-13 |  |
+| [Caroline](https://open.spotify.com/track/3ME0oA0PvhyIabL6ZiDOea) | [Willie Stratton](https://open.spotify.com/artist/1vEiaSJR9xF1T2Ckp4oZwT) | [Caroline](https://open.spotify.com/album/2OyX6YzNKwM7C8dX6NOI5I) | 4:08 | 2022-05-13 | 2022-11-26 |
 | [casseroles & flowers](https://open.spotify.com/track/49T8KmZWJsWLq2pjxlBPDS) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI), [Cumulus](https://open.spotify.com/artist/5kO4scXJTa1QzbxqG55xFK) | [casseroles & flowers](https://open.spotify.com/album/0B4gPGqSJ207G3GFUNoB8z) | 3:37 | 2022-05-13 |  |
 | [Causeway Road](https://open.spotify.com/track/3JfkqesP2oc7Vo5VVkhWdu) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Causeway Road](https://open.spotify.com/album/2Wi2PwZQqS4ZFj2bDArGBE) | 4:51 | 2022-07-22 | 2022-09-24 |
 | [Causeway Road](https://open.spotify.com/track/4FFgPfRziFe3X8IycsBvgy) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Causeway Road](https://open.spotify.com/album/6ocdE1SBF3dVvhluIl46B6) | 4:51 | 2022-07-19 | 2022-07-29 |
@@ -95,6 +95,7 @@
 | [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 | 2022-08-13 |
 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 | 2022-10-28 |  |
 | [Hey Who's Counting?](https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Palace Waiting](https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR) | 2:57 | 2022-09-16 |  |
+| [Higher \(feat\. David Rawlings\)](https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Higher](https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8) | 3:23 | 2022-11-25 |  |
 | [Hot Sun](https://open.spotify.com/track/7boU5TwZT4PNnBFKvj64i0) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Hot Sun](https://open.spotify.com/album/5zsMjaSXlfETTQhVwDHnMj) | 3:01 | 2022-06-27 |  |
 | [How Do You Love with a Broken Heart?](https://open.spotify.com/track/5VFIPHbkvSyVp2kANgpSVg) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Dystopian Weekends](https://open.spotify.com/album/6nA8bcaAUOF4iTEtIPWjk2) | 3:48 | 2022-05-13 | 2022-08-27 |
 | [I Want My Soul Back](https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Midnight Blues](https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK) | 3:35 | 2022-09-30 |  |

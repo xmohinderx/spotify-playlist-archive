@@ -1144,6 +1144,28 @@
     },
     {
       "album": {
+        "name": "Fire and Water",
+        "url": "https://open.spotify.com/album/5r0UCyB1w3akg1Yi435M2N"
+      },
+      "artists": [
+        {
+          "name": "Bbanner",
+          "url": "https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG"
+        },
+        {
+          "name": "S.P.L",
+          "url": "https://open.spotify.com/artist/3EzmUqD79Wn7ksLY6DPxjT"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175199,
+      "name": "Fire and Water",
+      "url": "https://open.spotify.com/track/3y5txnuMV6qTEU9owJnEje"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/2tQp7yltog7HsOGuKlvMxE"
       },

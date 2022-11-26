@@ -2052,6 +2052,24 @@
     },
     {
       "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/50BsGgKq2VSOGZdCiyTFSi"
+      },
+      "artists": [
+        {
+          "name": "Art Is Not Limited",
+          "url": "https://open.spotify.com/artist/5BpVkT2p2dszJSb9MVVpBI"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208028,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/0pPsYNkqfeCLz8tU7pml67"
+    },
+    {
+      "album": {
         "name": "NEARLY GOD",
         "url": "https://open.spotify.com/album/4XuDUYzFzs6Zlrq1YYI7DR"
       },

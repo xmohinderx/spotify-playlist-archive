@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,651 likes - 78 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,671 likes - 78 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 35 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
 | 36 | [Sea Of Love](https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Sea Of Love](https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg) | 3:23 |
 | 37 | [Wolves](https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 6:14 |
-| 38 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
-| 39 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 38 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 39 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
 | 40 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
-| 41 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
-| 42 | [Had To Hear](https://open.spotify.com/track/4IAE7M8Qw88f59W0uqNujJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 4:50 |
+| 41 | [Had To Hear](https://open.spotify.com/track/4IAE7M8Qw88f59W0uqNujJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 4:50 |
+| 42 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
 | 43 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
 | 44 | [Museum of Flight](https://open.spotify.com/track/66FQj8xV0Jv082kNhzKdGi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Maraqopa \(Deluxe Edition\)](https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4) | 2:50 |
 | 45 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 54 | [Line Of Fire](https://open.spotify.com/track/1t6zwEOPQUz9QIjlwZ5UGF) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Junip](https://open.spotify.com/album/4fsnz213jt84aF3obRP8jO) | 5:39 |
 | 55 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 |
 | 56 | [1904](https://open.spotify.com/track/4TNs34s6oqGlWr9EByFXR3) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [There's No Leaving Now](https://open.spotify.com/album/6Voznuxp5917IwIlLxSAik) | 3:59 |
-| 57 | [You're Out Wasting](https://open.spotify.com/track/3mnZ0JehmgDBzG0vHScCRH) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Bearer of Bad News](https://open.spotify.com/album/1bKpcuXtsV2l6ybVUJMRAl) | 3:46 |
-| 58 | [I’d Be Waiting](https://open.spotify.com/track/4CjaRUe5Yt3WEXREIK9iOj) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:40 |
+| 57 | [I’d Be Waiting](https://open.spotify.com/track/4CjaRUe5Yt3WEXREIK9iOj) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:40 |
+| 58 | [You're Out Wasting](https://open.spotify.com/track/3mnZ0JehmgDBzG0vHScCRH) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Bearer of Bad News](https://open.spotify.com/album/1bKpcuXtsV2l6ybVUJMRAl) | 3:46 |
 | 59 | [Lady On the Water](https://open.spotify.com/track/4l9jbpaoqY2GLSGkwiWgzm) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 2:26 |
 | 60 | [Wood](https://open.spotify.com/track/4zH4Cya0eAs9vFYKFNEUrH) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Half\-Light](https://open.spotify.com/album/2eVtqdI1qU02LHrPH72Omq) | 5:42 |
 | 61 | [Mightiest of Guns](https://open.spotify.com/track/0JIx11Ysmmmy0VnV0KwP19) | [A.A\. Bondy](https://open.spotify.com/artist/4l8UbJGiXxbfyDJPvcVH23) | [When the Devil's Loose](https://open.spotify.com/album/3mUX3hUieJOQxmaJLWTuwq) | 3:47 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 77 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
 | 78 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDFhNWRhYWQ2OWE1YzRmM2JjMTlhZWVjMjhlNTFlNTBm`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDFiYjJiZWUyZmRlZjk2YTQ5YzgwYmJlYWU1NDY0ZjY4`

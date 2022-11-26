@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,819 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,828 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 7 | [Baby Scratch My Back \- Single Version](https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:53 |
 | 8 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
 | 9 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 |
-| 10 | [Baby What You Want Me to Do](https://open.spotify.com/track/4vSYWhfcmqeQpwpGMaRKh7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:18 |
+| 10 | [I'm A King Bee](https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:51 |
 | 11 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
-| 12 | [I'm A King Bee](https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:51 |
+| 12 | [Baby What You Want Me to Do](https://open.spotify.com/track/4vSYWhfcmqeQpwpGMaRKh7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:18 |
 | 13 | [The "Ella B" \- Remastered](https://open.spotify.com/track/0JSZG6AcdclLI8yeEEAe8n) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 4:33 |
 | 14 | [Yonder Wall](https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:22 |
 | 15 | [C.C\. Rider](https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:52 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 23 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
 | 24 | [Country Child](https://open.spotify.com/track/30PKqHQREud0qvvSjBi4HU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 5:29 |
 | 25 | [Dust My Broom](https://open.spotify.com/track/3EaFV7yFZiTlaJrxDTVTfh) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 2:36 |
-| 26 | [Who Drank My Beer While I Was In The Rear \- Remastered](https://open.spotify.com/track/5J6Pe8az9hdBuOGairgVYH) | [Dave Bartholomew](https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:50 |
-| 27 | [I Asked For Water](https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:52 |
+| 26 | [I Asked For Water](https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:52 |
+| 27 | [Who Drank My Beer While I Was In The Rear \- Remastered](https://open.spotify.com/track/5J6Pe8az9hdBuOGairgVYH) | [Dave Bartholomew](https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:50 |
 | 28 | [Route 66](https://open.spotify.com/track/7cZmWjebbtSMIxN2MkJWuv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:45 |
 | 29 | [Red Beans \- Remastered](https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 4:10 |
 | 30 | [The Sun Is Shining](https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDJjNWEzODY4ZTgxNjgyOTQ0ZDdiY2IxNjZkMTBlOWM3`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDIxYWI4NzJkMjRlMmRiM2VlY2I1MTY2NzI1NWNjNmNj`

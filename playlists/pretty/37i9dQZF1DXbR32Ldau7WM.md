@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: Keisuke Kuwata\(桑田佳祐\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,054 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,153 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 17 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 18 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
 | 19 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
-| 20 | [白い恋人達](https://open.spotify.com/track/5wfKPYODAr3aCGpOAopNZK) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [白い恋人達](https://open.spotify.com/album/0eJgpR774HEMougzO27KpC) | 4:44 |
+| 20 | [Shiroi Koibitotachi \[2022 Remaster\]](https://open.spotify.com/track/3lVj9Znb5F2BpHMZmp1Id2) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:42 |
 | 21 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
 | 22 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 |
 | 23 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 25 | [In My Hurts Again](https://open.spotify.com/track/4x5dcwacdIW5aIrKCBAHtp) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 5:09 |
 | 26 | [Hands Up to the Sky](https://open.spotify.com/track/7kiWVIA95A2H7TMYSrA0b5) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [Avid / Hands Up to the Sky](https://open.spotify.com/album/4Uyvexhl7bPlTTrYX5YPAp) | 3:32 |
 | 27 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
-| 28 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
-| 29 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
+| 28 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
+| 29 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
 | 30 | [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/6u0171YtwplrmpXqsWOWGb) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:41 |
 | 31 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 |
 | 32 | [Dreaming of you](https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dreaming of you](https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S) | 2:33 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 36 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
 | 37 | [MERRY X'MAS IN SUMMER](https://open.spotify.com/track/2U99CkOaKJ000EV8GqMS1E) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [MERRY X'MAS IN SUMMER](https://open.spotify.com/album/60iBZ6OLMcN1CU11E3MNzw) | 5:05 |
 | 38 | [なないろ](https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e) | 4:22 |
-| 39 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 |
+| 39 | [いつか何処かで\(I FEEL THE ECHO\)](https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Keisuke Kuwata](https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c) | 5:20 |
 | 40 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 |
-| 41 | [いつか何処かで\(I FEEL THE ECHO\)](https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Keisuke Kuwata](https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c) | 5:20 |
-| 42 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
+| 41 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
+| 42 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 |
 | 43 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 |
 | 44 | [Don't Think Twice \(It's not over\)](https://open.spotify.com/track/0T3axpUT39q4DJ7aIzxYFN) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:09 |
 | 45 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
 | 46 | [DADADADA!!](https://open.spotify.com/track/5GKUID6YTAM4ps2u5Urw6t) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [キミボク](https://open.spotify.com/album/1DhaAjt9xfSjJP8juoYf0t) | 4:22 |
-| 47 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
+| 47 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 48 | [魔法](https://open.spotify.com/track/5kxL7DfGUkUuGxaocTqMeG) | [LACCO TOWER](https://open.spotify.com/artist/47VpPVgXyjyV2pIShGpUud) | [魔法](https://open.spotify.com/album/4fCHFQoHBE7NOJ5l3s9c0i) | 4:19 |
-| 49 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
+| 49 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
 | 50 | [深緑の Morning glow](https://open.spotify.com/track/4nHZgxPtYZHW2julZsOs5V) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:13 |
 
-Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDdjYjNkNGY0MmM4NTNlMGY0YmIzOTJmNzhiNjIxOTli`
+Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDUzOTFmMjJkZDY2ZmVlNDlmOGQ4NDE4NDkwYTI3MDFi`

@@ -4,10 +4,11 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
 
-210 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+211 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(image for\) drawing on canvas](https://open.spotify.com/track/6h0YR0kt5KfVlT6N9HTLkQ) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:33 | 2022-11-25 |  |
 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-19 |  |
 | [23](https://open.spotify.com/track/4h9pwQbHEz9HSGeOE8UMf4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 5:18 | 2021-10-19 | 2022-07-29 |
 | [A Heavy Abacus](https://open.spotify.com/track/18bMfoScYmenFKMristSDI) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 3:40 | 2021-10-19 |  |
@@ -54,7 +55,7 @@
 | [Chinatown](https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W) | 3:18 | 2021-10-19 |  |
 | [Chocolate Bar](https://open.spotify.com/track/2P9opsrW3poOvG355tyCpo) | [Infinite Siennas](https://open.spotify.com/artist/6yWPwEnWb3v7gro5aUz8Gi) | [Chocolate Bar](https://open.spotify.com/album/0bMm5M7yVy7s14ksxUYRUg) | 4:12 | 2021-10-19 | 2022-07-01 |
 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 | 2021-11-25 |  |
-| [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-15 |  |
+| [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-15 | 2022-11-26 |
 | [Crasher](https://open.spotify.com/track/3WQ0VxgZ1yy1bO4GuPsieu) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/60ikpGF6cPz302ZG0kqk4s) | 4:07 | 2021-10-19 | 2022-07-29 |
 | [crasher](https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 4:07 | 2021-10-19 |  |
 | [Culto](https://open.spotify.com/track/6Ow58pNK9dPNKLLxrfKX9z) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Culto](https://open.spotify.com/album/6Jl1jLK4buw7Mo8XoYX8Uy) | 4:14 | 2022-04-01 | 2022-07-29 |
@@ -193,7 +194,7 @@
 | [sueños pasajeros](https://open.spotify.com/track/5qkh3OCdhzDFLLkLDyzQ3I) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [sueños pasajeros](https://open.spotify.com/album/5raH91QppDfJ87H19rHjcv) | 1:33 | 2022-08-04 | 2022-08-14 |
 | [Suficiente](https://open.spotify.com/track/6Gzt3wNcTpZMV9wA97IvdB) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Suficiente](https://open.spotify.com/album/3A8kSYi3x2IZwKaxGGAFVZ) | 3:58 | 2022-05-04 | 2022-07-24 |
 | [Surprise](https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Surprise](https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS) | 3:31 | 2022-09-03 |  |
-| [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 | 2022-10-28 |  |
+| [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 | 2022-10-27 |  |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 |  |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 |  |
 | [The Rhythm](https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:30 | 2022-04-22 |  |

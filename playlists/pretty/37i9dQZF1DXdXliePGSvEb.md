@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic tracks of 2021\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,295 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,308 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 95 | [Running Like That](https://open.spotify.com/track/3iXkfLhzG46Iaej2KQxLnU) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [Reflection](https://open.spotify.com/album/2z5JAOOwIIWog5UDQydquq) | 4:19 |
 | 96 | [Skyscrapers \- Radio Edit](https://open.spotify.com/track/5FCgroYZWzNKp3bfWutIQo) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Skyscrapers](https://open.spotify.com/album/6sGXaF5iJeuKlOgyPmMu03) | 3:27 |
 | 97 | [Be My](https://open.spotify.com/track/1WNhiyuCWcpz86TRFokUFN) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Be My](https://open.spotify.com/album/78iGGZ4qdRvH9R5DT2WGM7) | 6:03 |
-| 98 | [The Princess and the Clock](https://open.spotify.com/track/1o1aFykyi3d4qQPxDcPCJ7) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation II](https://open.spotify.com/album/1IcnToegRv641JAVAR8IqS) | 3:49 |
+| 98 | [The Princess and the Clock](https://open.spotify.com/track/0jPoMzAErw4Exk2vbwQRHC) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation](https://open.spotify.com/album/4tywc61wWZwHDEBEDG4Cq1) | 3:49 |
 | 99 | [Jour 3](https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 3:06 |
 | 100 | [Clean](https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Jade](https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL) | 3:08 |
 
-Snapshot ID: `MTYzODM2NjQyMCwwMDAwMDAwMDk3ZGMzMjY4MTAzNzlhMzU5ZGY0Y2Y0ODZlMzY5Yjdi`
+Snapshot ID: `MTYzODM2NjQyMCwwMDAwMDAwMGEzMzFlZTExOGJkMzljZDA0ODFjMjI1YTgxZGVlODFi`

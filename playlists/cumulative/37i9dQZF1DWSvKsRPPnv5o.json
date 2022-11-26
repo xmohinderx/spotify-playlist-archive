@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 98037,
       "name": "..... Realest Nigga Eva",
       "url": "https://open.spotify.com/track/08DKx4vVFuSfsHXsa2k5hB"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 168018,
       "name": "4 The Real",
       "url": "https://open.spotify.com/track/2TAXaIr65WqsK4FrQ2I4n6"
@@ -916,6 +916,28 @@
     },
     {
       "album": {
+        "name": "Burpees",
+        "url": "https://open.spotify.com/album/61JX6PxXt6rQ1UzluiHXNv"
+      },
+      "artists": [
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165756,
+      "name": "Burpees",
+      "url": "https://open.spotify.com/track/5WD5g7tYyq19mRgyFRtSUv"
+    },
+    {
+      "album": {
         "name": "Cali Lovin",
         "url": "https://open.spotify.com/album/3p39OOJTQ79L1dmC4HmQbW"
       },
@@ -1369,7 +1391,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 106374,
       "name": "Dawg House",
       "url": "https://open.spotify.com/track/4OWhcwHOnB7ZLGJI0Fo4oN"
@@ -2137,6 +2159,40 @@
       "duration_ms": 122733,
       "name": "Fire Proof",
       "url": "https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY"
+    },
+    {
+      "album": {
+        "name": "Free Game",
+        "url": "https://open.spotify.com/album/1YEI2r0hrO4Td3gBJKLSqd"
+      },
+      "artists": [
+        {
+          "name": "MOUNT WESTMORE",
+          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231683,
+      "name": "Free Game",
+      "url": "https://open.spotify.com/track/4a5J9U353e52exFOFPcMaZ"
     },
     {
       "album": {
@@ -6513,6 +6569,28 @@
       "duration_ms": 156674,
       "name": "What's Luv",
       "url": "https://open.spotify.com/track/5S65yNSBJyZL4pAMtz0XG8"
+    },
+    {
+      "album": {
+        "name": "What's What (feat. BabyTron)",
+        "url": "https://open.spotify.com/album/510YBlMFmve5xLrB4YzQc1"
+      },
+      "artists": [
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150865,
+      "name": "What's What (feat. BabyTron)",
+      "url": "https://open.spotify.com/track/7DWrnxiwVJ87Kdhzg9IxOx"
     },
     {
       "album": {

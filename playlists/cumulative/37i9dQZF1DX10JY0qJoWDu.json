@@ -912,6 +912,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas (From \"The Santa Clauses\")",
+        "url": "https://open.spotify.com/album/0gCWN3e105Yl2K9v4Su8OD"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Last Christmas - From \"The Santa Clauses\"",
+      "url": "https://open.spotify.com/track/4X1briUG2VKKO1oP582NRT"
+    },
+    {
+      "album": {
         "name": "Let It Glow (From \"Frozen Northern Lights\")",
         "url": "https://open.spotify.com/album/4dPtBNViH8bSO5Xe6MRsfF"
       },

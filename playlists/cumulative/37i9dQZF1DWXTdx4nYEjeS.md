@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-910 songs - 2 day 7 hr 43 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
+911 songs - 2 day 7 hr 47 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Dime Quién Me Lo Robó](https://open.spotify.com/track/2Iu1PNxGImKU2zP9e4QYeV) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 6:40 | 2022-03-24 | 2022-04-20 |
 | [Domador de Sombras \(En Directo\)](https://open.spotify.com/track/0QCVY0jGbjElFXcNGPXu8w) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Enlace en Estado Vivo, Vol\. 1 \(En Directo\)](https://open.spotify.com/album/3t8KmV5ReT7gZpnhUZwp5M) | 3:25 | 2022-04-08 | 2022-04-14 |
 | [Domingo Con las Pibas](https://open.spotify.com/track/4uZsgoYI7ekFxQCcZ9QGkE) | [Negra Chavez](https://open.spotify.com/artist/0I5kEgYYTLupe5XJk3q0t7) | [Domingo Con las Pibas](https://open.spotify.com/album/6XSzfAGzzVI5soaBCD7Aix) | 3:11 | 2022-03-24 | 2022-03-28 |
+| [Don](https://open.spotify.com/track/1SSQb10Z0XcP8pln4GkjQj) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Don](https://open.spotify.com/album/2XgZX9qMIQzYuXrXrbZLql) | 3:09 | 2022-11-25 |  |
 | [Don't Speak](https://open.spotify.com/track/53EWpo23oiJ5gvO8KI7JMR) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Don't Speak](https://open.spotify.com/album/2XYnl9lZPDC1wO2WOKxX7d) | 2:13 | 2022-04-01 | 2022-04-18 |
 | [Donde Vamos](https://open.spotify.com/track/5h6BXdnXh4IWFhHeUxgbrr) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:30 | 2022-01-07 | 2022-06-30 |
 | [DOS CARAS](https://open.spotify.com/track/5JWp6sBzICEmBKAAx2Vxih) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [DOS CARAS](https://open.spotify.com/album/0P0y0bvq8o0Bmrg4ixsBC4) | 3:45 | 2022-04-01 | 2022-04-18 |
@@ -648,7 +649,7 @@
 | [pero qué cosa](https://open.spotify.com/track/6geXsAjM8bTLrBs6zSyJfn) | [Fer Perozo](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/5JIuuUoRZYi10dR6B6IBDB) | 2:45 | 2022-04-13 | 2022-04-17 |
 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 | 2021-12-24 |  |
 | [Pesca Nocturna](https://open.spotify.com/track/6VxlvdTQ6GYef2NigsfA0t) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Pesca Nocturna](https://open.spotify.com/album/3QWJ1PRocduP5KO2y64FWv) | 4:51 | 2022-04-01 | 2022-04-14 |
-| [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-13 |  |
+| [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-13 | 2022-11-26 |
 | [Piedra Libre](https://open.spotify.com/track/2pmPEc4SBWSRgfjSBiV0yQ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Piedra Libre](https://open.spotify.com/album/5Oz7N3jmujEG7rXMMPp4cZ) | 3:41 | 2021-12-24 | 2022-07-29 |
 | [Pinandi \(Pies Descalzos\)](https://open.spotify.com/track/4SAJKuGgYEXlLaNVtoNasa) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Después de Todo](https://open.spotify.com/album/0Ls7WejsVVwd2Qkxn4TVsa) | 3:51 | 2022-04-13 | 2022-04-19 |
 | [Pisteando](https://open.spotify.com/track/5P7mZRTMySmENUDsF5XkYB) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Pisteando](https://open.spotify.com/album/2Oexya8VXIAXVHiuVcDXvE) | 2:13 | 2022-04-01 | 2022-04-18 |

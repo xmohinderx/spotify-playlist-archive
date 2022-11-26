@@ -710,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Care At All",
+        "url": "https://open.spotify.com/album/4COfdRQVZja6TCPyrV5xM4"
+      },
+      "artists": [
+        {
+          "name": "Zac Samuel",
+          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176798,
+      "name": "Care At All",
+      "url": "https://open.spotify.com/track/2TewnOsUmffMzv4kL3AoO7"
+    },
+    {
+      "album": {
         "name": "Caught in a Dream",
         "url": "https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x"
       },

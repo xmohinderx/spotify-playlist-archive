@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 168521,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/2jldQxck8ZUKv1BLxqVt4b"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 153027,
       "name": "Curvature",
       "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
@@ -1398,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g"
+      },
+      "artists": [
+        {
+          "name": "Sunmoon",
+          "url": "https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY"
+    },
+    {
+      "album": {
         "name": "Fall Again",
         "url": "https://open.spotify.com/album/669HtfPdwIVB2sCpdF0bbU"
       },
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 244285,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
@@ -3174,6 +3192,32 @@
     },
     {
       "album": {
+        "name": "Stay by My Side",
+        "url": "https://open.spotify.com/album/2cWi7kzQZpOCdnoMLUf6GD"
+      },
+      "artists": [
+        {
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        },
+        {
+          "name": "nourii",
+          "url": "https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf"
+        },
+        {
+          "name": "CLOSR",
+          "url": "https://open.spotify.com/artist/1QIjx8SUfvxycTLJGoxww3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111166,
+      "name": "Stay by My Side",
+      "url": "https://open.spotify.com/track/2wk7mBr6JlorYMwESY7lyi"
+    },
+    {
+      "album": {
         "name": "Step By Step",
         "url": "https://open.spotify.com/album/488BJzweFOikT4WEI2PD0N"
       },
@@ -3722,6 +3766,24 @@
     },
     {
       "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+    },
+    {
+      "album": {
         "name": "Vanishing",
         "url": "https://open.spotify.com/album/75VTXKhMgwXqBz7fyU8XYJ"
       },
@@ -3996,6 +4058,24 @@
     },
     {
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/2hAiAbZpvHQpi012pPizS2"
+      },
+      "artists": [
+        {
+          "name": "7and5",
+          "url": "https://open.spotify.com/artist/0PxqaZXFW167XSUiha9eEi"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274208,
+      "name": "Wingspan",
+      "url": "https://open.spotify.com/track/3MIMhAWM5nEAzMtGn81ZYm"
+    },
+    {
+      "album": {
         "name": "Wishes",
         "url": "https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS"
       },
@@ -4061,7 +4141,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 201000,
       "name": "You and You",
       "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"

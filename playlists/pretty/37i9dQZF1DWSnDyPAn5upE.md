@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,539 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,666 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 15 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
 | 16 | [Labyrinthine](https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 4:32 |
 | 17 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 |
-| 18 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
-| 19 | [ahead](https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [ahead](https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ) | 2:04 |
+| 18 | [ahead](https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [ahead](https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ) | 2:04 |
+| 19 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 20 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
 | 21 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 22 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 29 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
 | 30 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 |
 | 31 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
-| 32 | [Morning Room I](https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:16 |
-| 33 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [guest](https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 |
+| 32 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [guest](https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 |
+| 33 | [Morning Room I](https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:16 |
 | 34 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
 | 35 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 |
 | 36 | [Drømmefanger \(Extended\)](https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Kingdom Two Crowns: Norse Lands Soundtrack \(Extended\)](https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry) | 3:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 47 | [Strong, Calm, Slow](https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Cliodynamics](https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6) | 3:58 |
 | 48 | [Fantas Variation for Voices](https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Annie Garlid](https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V), [Stine Janvin](https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 7:40 |
 | 49 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 |
-| 50 | [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 |
+| 50 | [The Tides Do That with Me](https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9) | [Jonnine](https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ) | [Blue Hills](https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8) | 2:40 |
 
-Snapshot ID: `MTY2ODE3MTg3MCwwMDAwMDAwMDQ4ZjFiNjZiZDdmNzA0NmRlNjM5OTgzNmM2OTcwMzI4`
+Snapshot ID: `MTY2ODE3MTg3MCwwMDAwMDAwMGE3NWU1Y2U4YTRmMzZkMGRlMmMyMzliMGNmNjZhZjY2`

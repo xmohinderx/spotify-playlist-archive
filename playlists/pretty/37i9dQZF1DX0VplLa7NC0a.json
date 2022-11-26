@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 27309,
+  "num_followers": 27327,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMDIxZjQxZTViYzM3NGZkMTg1NmE5Y2Y0OTBjMDA4YjJm",
+  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMGY1OGU4N2ZjMzIyYWQ2MGUyOTlkNjdhYzU2NTYwYjFl",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -415,34 +415,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
-        "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Javier Camarena",
-          "url": "https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED"
-        },
-        {
-          "name": "Les Musiciens du Prince-Monaco",
-          "url": "https://open.spotify.com/artist/6vrSw7bfBpO2M9Ws9EBYAk"
-        },
-        {
-          "name": "Gianluca Capuano",
-          "url": "https://open.spotify.com/artist/6UkKvedfOGG4IlpiWSAbU1"
-        }
-      ],
-      "duration_ms": 356106,
-      "name": "La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
-      "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -499,6 +471,34 @@
       "duration_ms": 185560,
       "name": "Duetto buffo di due gatti",
       "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
+        "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Javier Camarena",
+          "url": "https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED"
+        },
+        {
+          "name": "Les Musiciens du Prince-Monaco",
+          "url": "https://open.spotify.com/artist/6vrSw7bfBpO2M9Ws9EBYAk"
+        },
+        {
+          "name": "Gianluca Capuano",
+          "url": "https://open.spotify.com/artist/6UkKvedfOGG4IlpiWSAbU1"
+        }
+      ],
+      "duration_ms": 356106,
+      "name": "La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
+      "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 3",
-        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
-      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Complete Overtures, Vol. 4",
         "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
       },
@@ -1039,6 +1019,50 @@
       "duration_ms": 367306,
       "name": "Armida, Act I: Sinfonia",
       "url": "https://open.spotify.com/track/5czLSRyPx1vfpxzvnJUqzU"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
+      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 358600,
+      "name": "Stabat Mater: Amen. In sempiterna saecula",
+      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1107,30 +1131,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        }
-      ],
-      "duration_ms": 358600,
-      "name": "Stabat Mater: Amen. In sempiterna saecula",
-      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -1179,66 +1179,6 @@
       "duration_ms": 429160,
       "name": "Serenata in E flat",
       "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Beverly Sills",
-          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
-        },
-        {
-          "name": "Nicolai Gedda",
-          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
-        },
-        {
-          "name": "Sherrill Milnes",
-          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
-        },
-        {
-          "name": "Renato Capecchi",
-          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
-        },
-        {
-          "name": "Ruggero Raimondi",
-          "url": "https://open.spotify.com/artist/6anJ9yWyrJuZ21vZATPnXI"
-        },
-        {
-          "name": "Michael Rippon",
-          "url": "https://open.spotify.com/artist/3oOqqpEAo2WJ14e6007MW9"
-        },
-        {
-          "name": "John Alldis Choir",
-          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
-        },
-        {
-          "name": "Joseph Galiano",
-          "url": "https://open.spotify.com/artist/3nJpgZaNtp2sFLc4aOm6yl"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Fedora Barbieri",
-          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
-        }
-      ],
-      "duration_ms": 141933,
-      "name": "Il Barbiere di Siviglia (1996 Digital Remaster): Se il mio nome saper voi bramate (Conte/Rosina/Figaro)",
-      "url": "https://open.spotify.com/track/7F9mkgZ8QsJkzzBwfjLApg"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1303,6 +1243,66 @@
       "duration_ms": 410120,
       "name": "Otello, ossia Il moro di Venezia: Act I: Cavatina: Ah si, per voi gia sento (Otello, Jago, Choir)",
       "url": "https://open.spotify.com/track/4OSwqWEcJRHyxne4K0vk5m"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Beverly Sills",
+          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
+        },
+        {
+          "name": "Nicolai Gedda",
+          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "Renato Capecchi",
+          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
+        },
+        {
+          "name": "Ruggero Raimondi",
+          "url": "https://open.spotify.com/artist/6anJ9yWyrJuZ21vZATPnXI"
+        },
+        {
+          "name": "Michael Rippon",
+          "url": "https://open.spotify.com/artist/3oOqqpEAo2WJ14e6007MW9"
+        },
+        {
+          "name": "John Alldis Choir",
+          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+        },
+        {
+          "name": "Joseph Galiano",
+          "url": "https://open.spotify.com/artist/3nJpgZaNtp2sFLc4aOm6yl"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Fedora Barbieri",
+          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
+        }
+      ],
+      "duration_ms": 141933,
+      "name": "Il Barbiere di Siviglia (1996 Digital Remaster): Se il mio nome saper voi bramate (Conte/Rosina/Figaro)",
+      "url": "https://open.spotify.com/track/7F9mkgZ8QsJkzzBwfjLApg"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1543,6 +1543,34 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 308200,
+      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
+      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Il viaggio a Reims (Live)",
         "url": "https://open.spotify.com/album/0RyJFGQC2NUpRSvw4k3yOX"
       },
@@ -1571,34 +1599,6 @@
       "duration_ms": 199706,
       "name": "Il viaggio a Reims: Scene 12: Dell'alma diva (Sidney, Chorus)",
       "url": "https://open.spotify.com/track/3ESfBgceeLaN3s38s5MPAt"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 308200,
-      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
-      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
     },
     {
       "added_at": "2022-06-28 08:38:32",

@@ -2,7 +2,7 @@
 
 ### [Hot Hits USA](https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl)
 
-> The hottest tracks in the United States\. Cover: Taylor Swift
+> The hottest tracks in the United States\. Cover: Drake & 21 Savage
 
 208 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/2brDS0QQWX5e1U2TwG3JDB)
 

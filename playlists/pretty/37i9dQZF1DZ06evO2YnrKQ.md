@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,871 likes - 39 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,880 likes - 39 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 38 | [Dogs Blood](https://open.spotify.com/track/1WHDPx1Vzgg9i8jobSl44d) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Dogs Blood](https://open.spotify.com/album/3Rxr8MhJ34TS5LPK8aBJPv) | 5:58 |
 | 39 | [Tonight, I'm Going to Wash the Hippy](https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 5:47 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA4NDk3M2Q4OWQ0NTI4MDhlMWQxNTQzNjkyM2FjOThkZQ==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDA1NjkzY2Q5NDc1NDgxZTk5ZTQyYjE2ZDM0NGM1MjcyNQ==`

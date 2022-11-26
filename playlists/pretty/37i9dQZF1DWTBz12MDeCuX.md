@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,519 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,598 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 21 | [ELFBAR \(feat\. Skrt Cobain\)](https://open.spotify.com/track/0NmfatHH0v8U3uyvubURs0) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx), [skrt cobain](https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV) | [ELFBAR \(feat\. Skrt Cobain\)](https://open.spotify.com/album/7b8bCy1LmqmdFYJZ9mOGfw) | 2:04 |
 | 22 | [Party Sahne](https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Party Sahne](https://open.spotify.com/album/6vcV95HX3EIghNFsoOgbDC) | 2:17 |
 | 23 | [UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [UGG BOOTS](https://open.spotify.com/album/4wBDoWAXFkchW4zuTbEUhH) | 1:32 |
-| 24 | [CHASE THE SUN](https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv) | 3:31 |
+| 24 | [CHASE THE SUN](https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc) | 3:31 |
 | 25 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 |
 | 26 | [Can't Sleep](https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [Can't Sleep](https://open.spotify.com/album/7ocoPpbZ6ekA6c6ybzWVDj) | 3:01 |
 | 27 | [AUS MEIN KOPF \(SLOWED\)](https://open.spotify.com/track/6CLKlJ1sCnH2J7A9XISMAU) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [AUS MEIN KOPF \(SLOWED\)](https://open.spotify.com/album/3pa8NpXZkR9nqPpKakdRjm) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Keine Zeit](https://open.spotify.com/track/6iefKfSK9HhdlmWYmlDYxd) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 2:15 |
 | 100 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 |
 
-Snapshot ID: `MTY2OTMzMDgwMCwwMDAwMDAwMDEwOTk5Y2NjMTMyOTlmZTljOWQ1M2Q3NzUzMmRmMDFl`
+Snapshot ID: `MTY2OTMzMDgwMCwwMDAwMDAwMGJmNDNkOWI2MzY5Njk3NTNkYWNlY2VkNWE1Njc2NTNk`

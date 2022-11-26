@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 165621,
+  "num_followers": 165673,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDg0MGQzMTUzNDE0OWJmZTc4OTEyODIzODBiOGQ3YmE4",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGUyYWVlYjBhMTNlNjJmMGExY2EyY2QwMThhYjgyYjE5",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -463,18 +463,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+        "name": "Obey (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 124880,
-      "name": "I Don't Wanna Be Blind",
-      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -495,22 +499,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Obey (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+      "duration_ms": 124880,
+      "name": "I Don't Wanna Be Blind",
+      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
     },
     {
       "added_at": "2022-11-04 04:00:00",

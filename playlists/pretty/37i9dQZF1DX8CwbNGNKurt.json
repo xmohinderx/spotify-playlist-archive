@@ -1,12 +1,12 @@
 {
   "description": "Throw it back to the biggest, best hits of the 2000's.",
-  "num_followers": 1296208,
+  "num_followers": 1297231,
   "original_name": "Throwback Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU4MTU3OSwwMDAwMDAwMGJhYjg5MjZiN2E0NzgxNDg3YTc2ZWRjYWIzZGFmYTc4",
+  "snapshot_id": "MTY2MjU4MTU3OSwwMDAwMDAwMDc0NThmN2MxOGMxZjhlNDUyNzAwMzM3MDVmNGQyOGY3",
   "tracks": [
     {
       "added_at": "2022-01-28 04:45:53",
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Disturbia",
-      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -623,18 +623,22 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "City Spud",
+          "url": "https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
+      "duration_ms": 291781,
+      "name": "Ride Wit Me",
+      "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -655,22 +659,18 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+        "name": "The Time Of Our Lives",
+        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "City Spud",
-          "url": "https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 291781,
-      "name": "Ride Wit Me",
-      "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
+      "duration_ms": 202066,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2022-01-28 04:45:53",
-      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
+    },
+    {
+      "added_at": "2022-01-28 04:45:53",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Hypnotize - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
-    },
-    {
-      "added_at": "2022-01-28 04:45:53",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 369573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+    },
+    {
+      "added_at": "2022-01-28 04:45:53",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Hypnotize - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 263226,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2022-01-28 04:45:53",

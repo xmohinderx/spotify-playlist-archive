@@ -634,6 +634,28 @@
     },
     {
       "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Clara Ward",
+          "url": "https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Clara (the night is dark)",
+      "url": "https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI"
+    },
+    {
+      "album": {
         "name": "Clarion (Kiasmos Remix)",
         "url": "https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD"
       },
@@ -856,6 +878,24 @@
     },
     {
       "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
+    },
+    {
+      "album": {
         "name": "Dreamt",
         "url": "https://open.spotify.com/album/76iC9ZgbeKEP83nEtMYVbD"
       },
@@ -1055,7 +1095,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 257500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
@@ -1073,7 +1113,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 365069,
       "name": "Eyes Alive",
       "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
@@ -1359,7 +1399,7 @@
           "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
         }
       ],
-      "date_added": "2022-11-17",
+      "date_added": "2022-11-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192972,
@@ -1967,6 +2007,24 @@
       "duration_ms": 462560,
       "name": "I'm Fallin'",
       "url": "https://open.spotify.com/track/4MDkxQH2Dzwt4p4KOI4Cuk"
+    },
+    {
+      "album": {
+        "name": "Immersion / Distance",
+        "url": "https://open.spotify.com/album/2gBcnYz9kcl370rUijue7r"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279130,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/41XnQQ4khqTurlAYXcuRqV"
     },
     {
       "album": {
@@ -3693,7 +3751,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 223873,
       "name": "Sky Is the Limit - Edit",
       "url": "https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7"
@@ -4116,6 +4174,28 @@
     },
     {
       "album": {
+        "name": "Watergate 20 Years (Pt. 8/8)",
+        "url": "https://open.spotify.com/album/5M9eVeNI6mG35HD3OvaPoc"
+      },
+      "artists": [
+        {
+          "name": "Marco Resmann",
+          "url": "https://open.spotify.com/artist/2fC8GMMVIAVPBX2O50Lijm"
+        },
+        {
+          "name": "Lee Jones",
+          "url": "https://open.spotify.com/artist/5auQPeqrOncPRuutwAyjSz"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357047,
+      "name": "Tone Trails",
+      "url": "https://open.spotify.com/track/0uOGkzG2BOp8QvxSB22Wmo"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/0JEFqZZmeqlnAFOoY2Ye0y"
       },
@@ -4357,7 +4437,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 228818,
       "name": "Vaal",
       "url": "https://open.spotify.com/track/1VwrgkMDeccLvOdX9q5QJs"
@@ -4415,7 +4495,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 217159,
       "name": "Verdammt - Radio Edit",
       "url": "https://open.spotify.com/track/6B8hCZtANfdTrU4y9P9R5i"
@@ -4597,6 +4677,28 @@
       "duration_ms": 460000,
       "name": "Wolfgang",
       "url": "https://open.spotify.com/track/7fKQzhjitdrzOeJh43aydQ"
+    },
+    {
+      "album": {
+        "name": "Wolkenblau",
+        "url": "https://open.spotify.com/album/2cntCEOxHrwMa08SlkxPa0"
+      },
+      "artists": [
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/2ZFLmj6YjzSWSMdic3fqCS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Wolkenblau",
+      "url": "https://open.spotify.com/track/3CmYPKgC1nilHePu9EQbwg"
     },
     {
       "album": {

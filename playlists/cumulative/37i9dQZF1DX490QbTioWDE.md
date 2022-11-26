@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-270 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
+271 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Cuento Breve](https://open.spotify.com/track/06tzhAN6FRlL4HbR1X0ODE) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Cuento Breve](https://open.spotify.com/album/5mrJl1caIWSIpwLHXzeSX7) | 3:20 | 2022-02-11 | 2022-04-29 |
 | [Dame el Aire](https://open.spotify.com/track/7kcvu6EbKIOD2VefjNKGGD) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Al Máximo Late](https://open.spotify.com/album/5BoaBnzIipQvH6vHYQPlii) | 3:24 | 2021-12-24 | 2022-06-03 |
 | [Dame un Poco Mas](https://open.spotify.com/track/118nYRgA9iNCv5aiUO5B8K) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/7v1XJK0ehRER8L2PezbOzH) | 3:47 | 2021-12-24 | 2022-07-26 |
-| [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 | 2022-07-22 |  |
+| [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 | 2022-07-22 | 2022-11-26 |
 | [Dame una Razón](https://open.spotify.com/track/1auGDpDg9HqMjrYG7tjcPB) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Dame una Razón](https://open.spotify.com/album/5qSBL4XLxjWHd4Y9y1HJlk) | 2:48 | 2022-11-11 |  |
 | [De Enero a Enero](https://open.spotify.com/track/1UQw9rjhed1P8vNxNWJ0tR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Sabroso](https://open.spotify.com/album/7Bw4f5B4VlYURukRFjBov0) | 3:10 | 2021-12-24 | 2022-07-29 |
 | [De Quien Es la Culpa / Como Lo Hacias Con El](https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Sigan Bailando](https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe) | 6:27 | 2021-12-24 |  |
@@ -166,6 +166,7 @@
 | [No Es Cierto](https://open.spotify.com/track/5iMQjwcMNYQYUxTIZSa2u7) | [CÓMO DICE](https://open.spotify.com/artist/0kKSgKccwCUSqdNr4ovJDz) | [No Es Cierto](https://open.spotify.com/album/4csALsYcKamfcEsMl1xGNd) | 3:23 | 2022-06-03 | 2022-08-18 |
 | [No Me Dejas Verla](https://open.spotify.com/track/2ENXszqOKxtExOhIkzxqYk) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Pasión Cuartetera](https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs) | 3:24 | 2022-01-21 | 2022-07-27 |
 | [No Me Mientas](https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Snagre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:59 | 2021-12-24 |  |
+| [No Seas Cruel](https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Seas Cruel](https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg) | 3:56 | 2022-11-25 |  |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Para Rato!](https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ) | 3:47 | 2021-12-24 |  |
 | [No Te Veo](https://open.spotify.com/track/0lQTFVq596D7L1F7lskXHx) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [No Te Veo](https://open.spotify.com/album/4TSncY2d4AieDobAx7xGIM) | 4:27 | 2022-02-18 | 2022-06-02 |
 | [Noche Con Arte](https://open.spotify.com/track/4hUkPGHP86mERlxYzZXF6o) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Noche Con Arte](https://open.spotify.com/album/6LFsRjX8LfBWzKcFj29xUf) | 4:07 | 2021-12-24 |  |

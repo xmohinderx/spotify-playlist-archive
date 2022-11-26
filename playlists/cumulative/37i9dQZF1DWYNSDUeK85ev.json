@@ -4524,6 +4524,28 @@
     },
     {
       "album": {
+        "name": "PA' QUE BAILE | E8",
+        "url": "https://open.spotify.com/album/3wh602i26zmVempfRiWV9s"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147446,
+      "name": "PA' QUE BAILE | E8",
+      "url": "https://open.spotify.com/track/7LmjI4JFIq88OFF6kbBZJh"
+    },
+    {
+      "album": {
         "name": "Pal Cache",
         "url": "https://open.spotify.com/album/7pgL6UrdHRxCclOu7fZnxb"
       },
@@ -6537,7 +6559,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 201818,
       "name": "Te Robar\u00e9",
       "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"

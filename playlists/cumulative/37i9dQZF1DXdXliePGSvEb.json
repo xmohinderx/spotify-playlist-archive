@@ -2046,6 +2046,24 @@
     },
     {
       "album": {
+        "name": "Civilisation",
+        "url": "https://open.spotify.com/album/4tywc61wWZwHDEBEDG4Cq1"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229189,
+      "name": "The Princess and the Clock",
+      "url": "https://open.spotify.com/track/0jPoMzAErw4Exk2vbwQRHC"
+    },
+    {
+      "album": {
         "name": "Civilisation II",
         "url": "https://open.spotify.com/album/1IcnToegRv641JAVAR8IqS"
       },
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 229189,
       "name": "The Princess and the Clock",
       "url": "https://open.spotify.com/track/1o1aFykyi3d4qQPxDcPCJ7"

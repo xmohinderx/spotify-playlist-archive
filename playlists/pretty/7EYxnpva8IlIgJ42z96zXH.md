@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,535 likes - 60 songs - 3 hr 16 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,532 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 59 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 |
 | 60 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 
-Snapshot ID: `MjQ0Nyw3YWYxZDViMjNmY2Q3MjZiOGIzMTI4NmM2YjE5MDc2Y2Q5MWFmZDhm`
+Snapshot ID: `MjQ0OSwwODA4YWZmZWVlMTExZjcwYmFjNTg2MDIzYTY0MzRjMmZjYTU2MmVk`

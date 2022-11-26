@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de noviembre 2022.",
-  "num_followers": 1504885,
+  "num_followers": 1505076,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODgwNzk3NiwwMDAwMDAwMGJhZGE4ZDY2NmMzYThlZjJmODE2NGQ1NDFhYTdiN2Vi",
+  "snapshot_id": "MTY2ODgwNzk3NiwwMDAwMDAwMDUzMGUyMDYyN2Y2NmNhYzYwZTljMmE2MjVjNTUxYjIw",
   "tracks": [
     {
       "added_at": "2022-11-18 21:45:37",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-11-18 21:45:37",
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
+    },
+    {
+      "added_at": "2022-11-18 21:45:37",
+      "album": {
         "name": "La Esquina del Mall",
         "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 174946,
       "name": "Foto En Panty",
       "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
-    },
-    {
-      "added_at": "2022-11-18 21:45:37",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
     },
     {
       "added_at": "2022-11-18 21:45:37",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-11-18 21:45:37",
       "album": {
+        "name": "DIME QUI\u00c9N????",
+        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164727,
+      "name": "DIME QUI\u00c9N????",
+      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
+    },
+    {
+      "added_at": "2022-11-18 21:45:37",
+      "album": {
         "name": "Doxxis",
         "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 186601,
       "name": "Doxxis",
       "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
-    },
-    {
-      "added_at": "2022-11-18 21:45:37",
-      "album": {
-        "name": "DIME QUI\u00c9N????",
-        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164727,
-      "name": "DIME QUI\u00c9N????",
-      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
     },
     {
       "added_at": "2022-11-18 21:45:37",
@@ -631,26 +631,6 @@
     {
       "added_at": "2022-11-18 21:45:37",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
-        }
-      ],
-      "duration_ms": 226772,
-      "name": "CAZADORES",
-      "url": "https://open.spotify.com/track/29A2LhTvYXCCkYutVIj3cB"
-    },
-    {
-      "added_at": "2022-11-18 21:45:37",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 207906,
       "name": "Haci\u00e9ndolo",
       "url": "https://open.spotify.com/track/68uBj4QKLHQJwlANkytJxO"
+    },
+    {
+      "added_at": "2022-11-18 21:45:37",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
+        }
+      ],
+      "duration_ms": 226772,
+      "name": "CAZADORES",
+      "url": "https://open.spotify.com/track/29A2LhTvYXCCkYutVIj3cB"
     },
     {
       "added_at": "2022-11-18 21:45:37",

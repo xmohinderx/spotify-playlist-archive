@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 104596,
+  "num_followers": 104649,
   "original_name": "Workday K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA2MTM4NSwwMDAwMDAwMDc4OWU3YTM4NzgwMDYzMWI0MmMzZTg1YzU2MmY1YWRm",
+  "snapshot_id": "MTY2ODA2MTM4NSwwMDAwMDAwMDY0MGY2YjE4MzNlYjBhYzY1MDBlNjFjM2FiYmQwNTEz",
   "tracks": [
     {
       "added_at": "2022-10-13 04:57:32",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 193593,
       "name": "Yet To Come",
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 204939,
-      "name": "Run BTS",
-      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -163,22 +147,6 @@
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -199,6 +167,38 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 204939,
+      "name": "Run BTS",
+      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -211,22 +211,6 @@
       "duration_ms": 168106,
       "name": "POP!",
       "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -251,6 +235,22 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "ENTWURF",
-        "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 165746,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 164952,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164952,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 182956,
-      "name": "How You Like That",
-      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "As If It's Your Last",
-        "url": "https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 213264,
-      "name": "As If It's Your Last",
-      "url": "https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "As If It's Your Last",
+        "url": "https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 213264,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -639,8 +639,8 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+      "duration_ms": 208240,
+      "name": "What is Love",
+      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "SQUARE ONE",
-        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 240793,
-      "name": "BOOMBAYAH",
-      "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },
@@ -735,34 +719,18 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "AD MARE",
-        "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 172936,
-      "name": "O.O",
-      "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "What is Love",
-      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
+      "duration_ms": 240793,
+      "name": "BOOMBAYAH",
+      "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -779,6 +747,38 @@
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 172936,
+      "name": "O.O",
+      "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "STEREOTYPE",
-        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 191695,
-      "name": "STEREOTYPE",
-      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
         "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 203426,
       "name": "Don't Wanna Cry",
       "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 191695,
+      "name": "STEREOTYPE",
+      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -1353,7 +1353,7 @@
       "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
     },
     {
-      "added_at": "2022-11-25 01:29:06",
+      "added_at": "2022-11-26 01:26:34",
       "album": {
         "name": "2 Baddies - The 4th Album",
         "url": "https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ"
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "STAYDOM",
-        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "ASAP",
-      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "ZERO : FEVER Part.3",
         "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 196670,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "STAYDOM",
+        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "instagram",
-        "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 255728,
-      "name": "instagram",
-      "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "The Dream Chapter: MAGIC",
         "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 211866,
       "name": "9 and Three Quarters (Run Away)",
       "url": "https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "instagram",
+        "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 255728,
+      "name": "instagram",
+      "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "1+1=1",
-        "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
+        "name": "COLOR*IZ",
+        "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
       },
       "artists": [
         {
-          "name": "HyunA&DAWN",
-          "url": "https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 158253,
-      "name": "PING PONG",
-      "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
+      "duration_ms": 218993,
+      "name": "La Vie en Rose",
+      "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "COLOR*IZ",
-        "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
       },
       "artists": [
         {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+          "name": "HyunA&DAWN",
+          "url": "https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4"
         }
       ],
-      "duration_ms": 218993,
-      "name": "La Vie en Rose",
-      "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
+      "duration_ms": 158253,
+      "name": "PING PONG",
+      "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 229989,
       "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
       "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "FATE NUMBER FOR",
-        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 203056,
-      "name": "REALLY REALLY",
-      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "Descendants Of The Sun Pt.3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 225171,
       "name": "This Love",
       "url": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -2563,38 +2563,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "KARD 5th Mini Album 'Re:'",
-        "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Ring The Alarm",
-      "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
-        "name": "HUSH",
-        "url": "https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Adios",
-      "url": "https://open.spotify.com/track/0sq2QUCf3ykmfYxjCDWcir"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "We don\u2019t talk together",
         "url": "https://open.spotify.com/album/0s8dKFltKr9FiUoG1QNKaN"
       },
@@ -2615,18 +2583,34 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "Favorite - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX"
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2"
       },
       "artists": [
         {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
         }
       ],
-      "duration_ms": 215586,
-      "name": "Favorite (Vampire)",
-      "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
+      "duration_ms": 189146,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/0sq2QUCf3ykmfYxjCDWcir"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "KARD 5th Mini Album 'Re:'",
+        "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Ring The Alarm",
+      "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -2647,6 +2631,22 @@
       "duration_ms": 192536,
       "name": "Waste It On Me",
       "url": "https://open.spotify.com/track/66XDf77gBcfQKi4I2vIbTj"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "Favorite - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Favorite (Vampire)",
+      "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 207650,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
       },
@@ -2791,6 +2775,22 @@
       "duration_ms": 220745,
       "name": "Me Gustas Tu",
       "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 207650,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "from our Memento Box",
-        "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Stay This Way",
-      "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
       },
@@ -2935,18 +2919,18 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "Summer Special [Flip That]",
-        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+        "name": "from our Memento Box",
+        "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
       },
       "artists": [
         {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 177373,
-      "name": "Flip That",
-      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
+      "duration_ms": 195653,
+      "name": "Stay This Way",
+      "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -2963,6 +2947,22 @@
       "duration_ms": 207600,
       "name": "Uh-Oh",
       "url": "https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Flip That",
+      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
     },
     {
       "added_at": "2022-10-13 04:57:32",
@@ -3227,22 +3227,6 @@
     {
       "added_at": "2022-10-13 04:57:32",
       "album": {
-        "name": "[X X]",
-        "url": "https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 237707,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV"
-    },
-    {
-      "added_at": "2022-10-13 04:57:32",
-      "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
       },
@@ -3263,6 +3247,22 @@
       "duration_ms": 169506,
       "name": "Going Dumb (with Stray Kids)",
       "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
+    },
+    {
+      "added_at": "2022-10-13 04:57:32",
+      "album": {
+        "name": "[X X]",
+        "url": "https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 237707,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV"
     },
     {
       "added_at": "2022-10-13 04:57:32",

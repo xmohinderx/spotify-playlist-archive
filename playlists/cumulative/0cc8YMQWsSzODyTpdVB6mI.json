@@ -1076,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/53QtBB62XZEkvGVoazcE4f"
+      },
+      "artists": [
+        {
+          "name": "Karl Meyer",
+          "url": "https://open.spotify.com/artist/2f9bz0POgpM78PM6Mbarjo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188362,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3xg2H9VTF8uW046sq1Grto"
+    },
+    {
+      "album": {
         "name": "TALES_FOR_NIGHTCLUBS_III",
         "url": "https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7"
       },
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 220714,
       "name": "The Way You Move It - Radio Edit",
       "url": "https://open.spotify.com/track/50wq9ALHIyympgfiXUiHfq"

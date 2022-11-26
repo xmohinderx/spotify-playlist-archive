@@ -1792,6 +1792,24 @@
     },
     {
       "album": {
+        "name": "Tellicherry",
+        "url": "https://open.spotify.com/album/3P2MhHAKj7iZfdHEzInBdM"
+      },
+      "artists": [
+        {
+          "name": "St. Barbe",
+          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290409,
+      "name": "Tellicherry",
+      "url": "https://open.spotify.com/track/16rsNa8Olqgyo6ALWgySLo"
+    },
+    {
+      "album": {
         "name": "Wheelhouse",
         "url": "https://open.spotify.com/album/1JkBVjeznFK9Bb3xasp6un"
       },
@@ -2097,6 +2115,24 @@
       "duration_ms": 309973,
       "name": "When Words Fail...",
       "url": "https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe"
+    },
+    {
+      "album": {
+        "name": "Onomatomani[a]kus",
+        "url": "https://open.spotify.com/album/674sTwV33EPpt0WC5zlI21"
+      },
+      "artists": [
+        {
+          "name": "Marmalade butcher",
+          "url": "https://open.spotify.com/artist/0NqMZ0EDrPSG9ysXDiWkSi"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "XXXphobia",
+      "url": "https://open.spotify.com/track/6kDHSMUvrnRyiRjo6axbb1"
     },
     {
       "album": {

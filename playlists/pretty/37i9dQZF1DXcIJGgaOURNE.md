@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,819 likes - 86 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,869 likes - 86 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 11 | [Borderline](https://open.spotify.com/track/1pZ5Il3dL7pgcnWr44rMpG) | [Nic Chagall](https://open.spotify.com/artist/6gRdK016pnqmdJs82UrzOb) | [Borderline / Back To San Fran](https://open.spotify.com/album/20ce4Od7AYT31KNZnVDBXC) | 8:23 |
 | 12 | [All I Need](https://open.spotify.com/track/53czolyaW4TPTspZ8YPb4H) | [Megamen](https://open.spotify.com/artist/0FOrIxxJ2HWpzRyv6AxSGB) | [10 Years Of Deep House](https://open.spotify.com/album/67rIe1eXtymRL8hL6Pk6SE) | 8:49 |
 | 13 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 |
-| 14 | [places faces](https://open.spotify.com/track/74liBteAnKWOl7xPc9ZWfJ) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [places faces](https://open.spotify.com/album/3KyFRjXyPY6o46fI8Dvl9d) | 4:42 |
+| 14 | [places faces](https://open.spotify.com/track/4sEijthvXQuwOMn06lpxCH) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [compciter ep](https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR) | 4:42 |
 | 15 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
 | 16 | [Acido](https://open.spotify.com/track/0jyq80GMUC7TH2mFiv1c5H) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Secret Weapons Part 14 VI/VI](https://open.spotify.com/album/2WXfh7YuJUFA5Z19wdZGCi) | 6:44 |
 | 17 | [Aura](https://open.spotify.com/track/6OwXSaMnwy8TfYt5bXL0X5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0) | [Aura](https://open.spotify.com/album/02gm2V70CFoW4FD9EfYXT0) | 4:03 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 85 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 |
 | 86 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 
-Snapshot ID: `MTY2OTAyMjQ4NiwwMDAwMDAwMGU3YWYxNTg2OGMyNzg1YTZjM2E5OWU0ZWVkNGE4ODY0`
+Snapshot ID: `MTY2OTAyMjQ4NiwwMDAwMDAwMGYzMGExMWRkZWIyZWE0OGE1YWUwMTg0YzIzODA3MGZk`

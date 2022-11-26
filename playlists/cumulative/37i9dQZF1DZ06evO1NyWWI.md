@@ -4,7 +4,7 @@
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-51 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/6OyGGI0mByRxUfkjVIHD2W)
+52 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/6OyGGI0mByRxUfkjVIHD2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All My Love \- Remaster](https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 5:53 | 2022-09-17 |  |
 | [Babe I'm Gonna Leave You \- 1990 Remaster](https://open.spotify.com/track/4OMu5a8sFpcRCPCcsoEaov) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:41 | 2022-09-17 |  |
 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 | 2022-09-17 |  |
-| [Bring It on Home \- Remaster](https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 4:19 | 2022-09-17 |  |
+| [Bring It on Home \- Remaster](https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 4:19 | 2022-09-17 | 2022-11-26 |
 | [Bron\-Y\-Aur Stomp \- Remaster](https://open.spotify.com/track/1dK6cNOMYjEP3QGYOfwP6t) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:17 | 2022-09-17 |  |
 | [Bron\-Yr\-Aur \- Remaster](https://open.spotify.com/track/5rgWj8h7lzbSmwpp0wFkXD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 2:06 | 2022-11-21 |  |
 | [Communication Breakdown \- 1990 Remaster](https://open.spotify.com/track/0yVs7eSL8mPnIu2CGKHpUQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:27 | 2022-09-17 |  |
@@ -46,6 +46,7 @@
 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 | 2022-09-17 |  |
 | [Tangerine \- Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:11 | 2022-09-17 |  |
 | [Ten Years Gone \- Remaster](https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 6:34 | 2022-09-17 |  |
+| [Thank You \- 1990 Remaster](https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:49 | 2022-11-25 |  |
 | [That's the Way \- Remaster](https://open.spotify.com/track/1ZUv3ISx2nFaz0JimVdcoT) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 5:37 | 2022-09-17 |  |
 | [The Battle of Evermore \- Remaster](https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 5:51 | 2022-09-17 |  |
 | [The Crunge \- Remaster](https://open.spotify.com/track/7IgBLFklu75pp8Y1vphChS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 3:17 | 2022-10-12 |  |

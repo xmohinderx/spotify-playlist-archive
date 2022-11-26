@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,353 likes - 104 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376 likes - 104 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 30 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
 | 31 | [Simulacra I](https://open.spotify.com/track/3jKFYmkiSh8gvll1mlzuFo) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl), [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon) | [Sólaris](https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9) | 5:35 |
 | 32 | [Before Meaning Comes](https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:12 |
-| 33 | [Luotasi](https://open.spotify.com/track/5AvyV92PXzkpQ6k1ggKME7) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [vantaa](https://open.spotify.com/album/6Sa8QE7vYI9imRgQz8IVzB) | 8:10 |
+| 33 | [Luotasi](https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Vantaa](https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP) | 8:10 |
 | 34 | [Walking in a spiral towards the house: Side C](https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 8:37 |
 | 35 | [Without Motion \- Leandro Fresco Remix](https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Leandro Fresco](https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 7:44 |
 | 36 | [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 103 | [Analog Paralysis, 1978](https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 3:51 |
 | 104 | [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 |
 
-Snapshot ID: `MTY2MzY4OTA2NiwwMDAwMDAwMDUwNTVkMGZmMWZmNmQ0NTg4YmIyZjA0YjE0ODAyNzY2`
+Snapshot ID: `MTY2MzY4OTA2NiwwMDAwMDAwMDBiZmFhZmI5M2JmMTNkNTNiMjYyOTE2NDJkZmQ0ZTI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,870 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,943 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 24 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 |
 | 25 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
 | 26 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 |
-| 27 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 |
-| 28 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 |
+| 27 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 |
+| 28 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 |
 | 29 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 |
 | 30 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 |
 | 31 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 49 | [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 |
 | 50 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDM5YjQ2ZmQ5YWYzMWU0ZDU2YWExYTZkYjYxNTc4YjM3`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDk4NTliYTFiMTM5YWMzYjgzMWViOGU3OTU5MDg0M2Vk`

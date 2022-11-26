@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-89 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/5TTbBHGFjJRX445BkgEwaI)
+90 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/5TTbBHGFjJRX445BkgEwaI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Paténipat](https://open.spotify.com/track/0STU4tz5QWwA46G8QkvtK1) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Paténipat](https://open.spotify.com/album/0hOK8dciK0MuFPOA9MvgMv) | 6:11 | 2022-04-12 |  |
 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 | 2022-11-21 |  |
 | [People Like Us \(feat\. John Goodman\)](https://open.spotify.com/track/6DuKCFG6r87GLHw96FNsDW) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [True Stories, A Film By David Byrne: The Complete Soundtrack](https://open.spotify.com/album/3VJCJNd4lWBFCM1pdmHlBA) | 4:28 | 2022-04-12 |  |
-| [places faces](https://open.spotify.com/track/74liBteAnKWOl7xPc9ZWfJ) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [places faces](https://open.spotify.com/album/3KyFRjXyPY6o46fI8Dvl9d) | 4:42 | 2022-09-26 |  |
+| [places faces](https://open.spotify.com/track/4sEijthvXQuwOMn06lpxCH) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [compciter ep](https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR) | 4:42 | 2022-11-21 |  |
+| [places faces](https://open.spotify.com/track/74liBteAnKWOl7xPc9ZWfJ) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [places faces](https://open.spotify.com/album/3KyFRjXyPY6o46fI8Dvl9d) | 4:42 | 2022-09-26 | 2022-11-26 |
 | [Poème](https://open.spotify.com/track/4YXhMAmpoL26b4sI1PMtc9) | [New World](https://open.spotify.com/artist/1qvooSyrog4MmPeRMADEeD) | [Souvenirs](https://open.spotify.com/album/0BYYRixh7rMvIQ3eUxNPRu) | 5:56 | 2022-04-12 |  |
 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 | 2022-04-12 |  |
 | [Rhythm 2 \- Power Snap Mix](https://open.spotify.com/track/6xCVt9b5AEq0Caf1HN2J1S) | [WK7](https://open.spotify.com/artist/1mYm4Pf6wKtOxySSzKOhoS) | [Rhythm 1](https://open.spotify.com/album/4T4kXaGlrtayzNbKMX4hBn) | 6:19 | 2022-04-12 |  |

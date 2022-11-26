@@ -200,6 +200,28 @@
     },
     {
       "album": {
+        "name": "All My Dreams",
+        "url": "https://open.spotify.com/album/1hMWXMMH24Tp9rPVya04Tc"
+      },
+      "artists": [
+        {
+          "name": "Philth Spector",
+          "url": "https://open.spotify.com/artist/6RHhMMjOiWOWIJpskj0xP3"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78711,
+      "name": "All My Dreams",
+      "url": "https://open.spotify.com/track/1yQu5K4a59paqG1JUAXJm6"
+    },
+    {
+      "album": {
         "name": "Arazonac",
         "url": "https://open.spotify.com/album/7qR5FtJB8efzUbfXOxJcUI"
       },
@@ -527,7 +549,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 85340,
       "name": "Bikes",
       "url": "https://open.spotify.com/track/1xXQc2REQJrIWvpSljejP7"
@@ -597,6 +619,32 @@
       "duration_ms": 113250,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0Ny8qSEbwotqBfbG0TWVPN"
+    },
+    {
+      "album": {
+        "name": "Blue in Beat",
+        "url": "https://open.spotify.com/album/09VnonQgbKNcUsTsisjhhf"
+      },
+      "artists": [
+        {
+          "name": "Modern Station",
+          "url": "https://open.spotify.com/artist/6Ad14T1O6qOJNr5U4IVKcP"
+        },
+        {
+          "name": "gb",
+          "url": "https://open.spotify.com/artist/6E6X72HwmT5KHhi4Os8iV9"
+        },
+        {
+          "name": "Kick a Dope Verse!",
+          "url": "https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101620,
+      "name": "Blue in Beat",
+      "url": "https://open.spotify.com/track/13e9XXZyk48sapCt1dOc7F"
     },
     {
       "album": {
@@ -813,6 +861,28 @@
       "duration_ms": 129882,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/4EZiv5t5MR1nck4tFpKPPZ"
+    },
+    {
+      "album": {
+        "name": "Cassette Sound",
+        "url": "https://open.spotify.com/album/4rvr89nsFSzdMyCrC1rMyg"
+      },
+      "artists": [
+        {
+          "name": "Keytap",
+          "url": "https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW"
+        },
+        {
+          "name": "Kick a Dope Verse!",
+          "url": "https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "Chill Time",
+      "url": "https://open.spotify.com/track/3K3YjTKY3StAiFjc0xDxt7"
     },
     {
       "album": {
@@ -1253,7 +1323,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 188181,
       "name": "Doping",
       "url": "https://open.spotify.com/track/5VyPn7VhYaBlhFJRp4OoLw"
@@ -1404,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "A Bigger Picture",
+        "url": "https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y"
+      },
+      "artists": [
+        {
+          "name": "Lex (de Kalhex)",
+          "url": "https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "Encounters",
+      "url": "https://open.spotify.com/track/1pJL6fy94WpSjGRpGiO2g4"
+    },
+    {
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/3oK9ZFehLi0byPF5PdlLgl"
       },
@@ -1437,6 +1525,24 @@
       "duration_ms": 138788,
       "name": "Fiesta Siesta",
       "url": "https://open.spotify.com/track/4zHwaIFk44nYXCN8tWkIue"
+    },
+    {
+      "album": {
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/6tzBnpGmPtrLp0R6iKQO4T"
+      },
+      "artists": [
+        {
+          "name": "PRGMAT",
+          "url": "https://open.spotify.com/artist/3n36M7jE1JSaZ5OXHdxo37"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "Finders Keepers",
+      "url": "https://open.spotify.com/track/0H6V6TCZ2X0hVz7WLE5nCX"
     },
     {
       "album": {
@@ -2095,7 +2201,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 149333,
       "name": "High Blossom",
       "url": "https://open.spotify.com/track/3P9nPdI80qLU6i4PCu9utx"
@@ -2239,7 +2345,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 210226,
       "name": "Iced Down Medallions [Instrumental]",
       "url": "https://open.spotify.com/track/6agh6N2v8Elw1bWbTZFXP1"
@@ -2261,6 +2367,28 @@
       "duration_ms": 184666,
       "name": "Immersive",
       "url": "https://open.spotify.com/track/5eqdjCfqFcbX4F6GBISrHm"
+    },
+    {
+      "album": {
+        "name": "in a mood",
+        "url": "https://open.spotify.com/album/4C3uHlcnzyXnGtM6jeiaLB"
+      },
+      "artists": [
+        {
+          "name": "lazyymii",
+          "url": "https://open.spotify.com/artist/1KltShvhgVoF8auxETfs2U"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76800,
+      "name": "in a mood",
+      "url": "https://open.spotify.com/track/3k8P1xEYqQeIQeiJbZmQsQ"
     },
     {
       "album": {
@@ -2401,7 +2529,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 96072,
       "name": "Itchy Trigger Finger",
       "url": "https://open.spotify.com/track/5TSkyDqVJqpxPYit0lZqhg"
@@ -2717,7 +2845,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 114681,
       "name": "lemon",
       "url": "https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w"
@@ -2789,7 +2917,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 114626,
       "name": "Lofi Personal Shrinkage",
       "url": "https://open.spotify.com/track/3BSCMoxZcrMjFm7w4F1F2E"
@@ -3135,7 +3263,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 155000,
       "name": "Morning Vibes",
       "url": "https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g"
@@ -3157,6 +3285,24 @@
       "duration_ms": 155000,
       "name": "Morning Vibes",
       "url": "https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz"
+    },
+    {
+      "album": {
+        "name": "Divergenz",
+        "url": "https://open.spotify.com/album/6cQNpcfHxABrVsXkLOMTag"
+      },
+      "artists": [
+        {
+          "name": "Soulmade",
+          "url": "https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121224,
+      "name": "Motion Blur",
+      "url": "https://open.spotify.com/track/41z8AHFPjaRu6PSaj3mTKL"
     },
     {
       "album": {
@@ -3558,6 +3704,28 @@
     },
     {
       "album": {
+        "name": "Old Timer",
+        "url": "https://open.spotify.com/album/5j0aZaA9dJX7jZqMop0Y4A"
+      },
+      "artists": [
+        {
+          "name": "IGR",
+          "url": "https://open.spotify.com/artist/7d4uTX9op53hrHZiFsWU5N"
+        },
+        {
+          "name": "Ogi Feel the Beat",
+          "url": "https://open.spotify.com/artist/03ODvxPFTYW0NS7wnXclYG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "Old Timer",
+      "url": "https://open.spotify.com/track/27UzshglFImvWIQM4StU2z"
+    },
+    {
+      "album": {
         "name": "Old Tram",
         "url": "https://open.spotify.com/album/1o3IAb8iXLdEeUmj6tfbTf"
       },
@@ -3605,7 +3773,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 149831,
       "name": "Painting My Thoughts",
       "url": "https://open.spotify.com/track/6DTKZsmOR9drYUqPqxe48U"
@@ -4040,6 +4208,28 @@
     },
     {
       "album": {
+        "name": "R\u00e9sidus De Vin Rouge",
+        "url": "https://open.spotify.com/album/4OTByvJuNcccaWqiqoJrYv"
+      },
+      "artists": [
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        },
+        {
+          "name": "Figub Brazlevic",
+          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162166,
+      "name": "R\u00e9sidus De Vin Rouge",
+      "url": "https://open.spotify.com/track/1AMPaKJUArIkQXcVTymrI6"
+    },
+    {
+      "album": {
         "name": "Epic Love",
         "url": "https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c"
       },
@@ -4453,6 +4643,46 @@
       "duration_ms": 136992,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1n1WtbBkXFJNhskphoV05W"
+    },
+    {
+      "album": {
+        "name": "Steezer",
+        "url": "https://open.spotify.com/album/3bLmk0dvslsaDhfDihqXI1"
+      },
+      "artists": [
+        {
+          "name": "Headnodic",
+          "url": "https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119167,
+      "name": "Steezer",
+      "url": "https://open.spotify.com/track/6wvovDax8BiJyFyfI2MjpY"
+    },
+    {
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/3qTP5wWIkyY0stdr0FnSqt"
+      },
+      "artists": [
+        {
+          "name": "Juan Rios",
+          "url": "https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG"
+        },
+        {
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156920,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/6a8tAxw8pTk20gWO0PL5y1"
     },
     {
       "album": {
@@ -5324,6 +5554,42 @@
     },
     {
       "album": {
+        "name": "Winning Streak",
+        "url": "https://open.spotify.com/album/5RB6khKXxt3nLn9ZDGksyV"
+      },
+      "artists": [
+        {
+          "name": "Fulton St Brunch Club",
+          "url": "https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/35pK1tKZTKiV5rBrWhJda1"
+    },
+    {
+      "album": {
+        "name": "Word Born",
+        "url": "https://open.spotify.com/album/6BlLOPfri9gnPR9wSzMavf"
+      },
+      "artists": [
+        {
+          "name": "John Da Lemon",
+          "url": "https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139104,
+      "name": "Word Born",
+      "url": "https://open.spotify.com/track/7LMe0nJkQDSearJbMbbOeK"
+    },
+    {
+      "album": {
         "name": "Workitout",
         "url": "https://open.spotify.com/album/3n0ssOLM368uyujZkNkm60"
       },
@@ -5339,6 +5605,28 @@
       "duration_ms": 112173,
       "name": "Workitout",
       "url": "https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A"
+    },
+    {
+      "album": {
+        "name": "Yeaa",
+        "url": "https://open.spotify.com/album/0azEUulFCpoV78LUjnVJiM"
+      },
+      "artists": [
+        {
+          "name": "Chris Cross",
+          "url": "https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn"
+        },
+        {
+          "name": "Lichtboje",
+          "url": "https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145972,
+      "name": "Yeaa",
+      "url": "https://open.spotify.com/track/0lSeldE3HmW7ddfRkZgdhb"
     },
     {
       "album": {

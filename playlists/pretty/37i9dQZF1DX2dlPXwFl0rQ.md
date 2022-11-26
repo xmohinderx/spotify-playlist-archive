@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Dueto Eleval en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,029 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,043 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 71 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 |
 | 72 | [Vida Prestada](https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Vida Prestada](https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK) | 3:14 |
 | 73 | [Maldito](https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Maldito](https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij) | 3:40 |
-| 74 | [Ya Te Olvidé](https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ya Te Olvidé](https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV) | 3:40 |
-| 75 | [Lo Mal Que Me Trataste](https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Cinco Razones](https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ) | 3:40 |
+| 74 | [Lo Mal Que Me Trataste](https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Cinco Razones](https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ) | 3:40 |
+| 75 | [Ya Te Olvidé](https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ya Te Olvidé](https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV) | 3:40 |
 | 76 | [No Te Dejes Engañar](https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Dejes Engañar](https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME) | 3:13 |
 | 77 | [Pa' Dentro \- Versión Banda](https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Pa' Dentro](https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW) | 2:32 |
 | 78 | [JGL \(En Vivo\)](https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [JGL \(En Vivo\)](https://open.spotify.com/album/2DxmuUhMHhmRIgm13TKbE8) | 2:20 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 85 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 |
 | 86 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 |
 | 87 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
-| 88 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 |
-| 89 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
+| 88 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
+| 89 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 |
 | 90 | [Vete Mucho a Donde Quieras](https://open.spotify.com/track/6JifnN1etuBesf7VHbyntA) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Vete Mucho a Donde Quieras](https://open.spotify.com/album/4mYJYqNei4FQxyVxrbX2su) | 2:48 |
 | 91 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
 | 92 | [Me Voy](https://open.spotify.com/track/4EJdS2IlMtkH9GHv9SAcze) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Me Voy](https://open.spotify.com/album/5iIJGuHDAOFUfshFN5kxcN) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 100 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 
-Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMGQ3NmFjZjhkODYzMDU2ODhhNjY5Yzg4M2JmMzQ2ZmQz`
+Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMDkzMTlkZDhlZmNlOTI2YjczMTQ2YzUyYzA5MzM0NTkz`

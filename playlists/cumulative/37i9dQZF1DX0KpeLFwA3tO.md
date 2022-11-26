@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Avril Lavigne
 
-753 songs - 1 day 13 hr 50 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+754 songs - 1 day 13 hr 53 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Sorry](https://open.spotify.com/track/0B6t85byLSGc0j3iCgV6eE) | [Lil Tati](https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v) | [Sorry](https://open.spotify.com/album/3CIzQyoBZNgBsCj59xg6Kg) | 3:03 | 2022-09-01 | 2022-10-14 |
 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 | 2022-05-12 | 2022-06-24 |
 | [Sorte](https://open.spotify.com/track/3hpg0XD5R2XphHCDo5AonG) | [Stormo](https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m) | [Sorte](https://open.spotify.com/album/3fBe9cbGMGY12wSXTT4qQQ) | 2:40 | 2022-11-18 |  |
+| [SOS!](https://open.spotify.com/track/5N5PENdTH9qAq8dMJFtQym) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ) | [SOS!](https://open.spotify.com/album/0UtGfbUX6fBUwwWzRC9fT6) | 2:45 | 2022-11-25 |  |
 | [Souvenir](https://open.spotify.com/track/0KBU3NUksxrPTUnMlxM5Ud) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [Souvenir](https://open.spotify.com/album/5DGjGDSAtVT3wDvRfgOrWr) | 3:22 | 2022-06-23 | 2022-08-05 |
 | [Speed Dial](https://open.spotify.com/track/0LrWMZCmxWegxbZbQccppU) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Speed Dial](https://open.spotify.com/album/7wEZ3uiW1DrNEt51EWcI7l) | 2:15 | 2022-05-12 | 2022-06-24 |
 | [Spit It Out](https://open.spotify.com/track/5o8DTXHIC8OZBBBtHpoQvt) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Spit It Out](https://open.spotify.com/album/3yPSJCm8WoRdsN0A0jtaKq) | 2:38 | 2022-04-28 | 2022-06-03 |

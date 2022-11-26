@@ -1,12 +1,12 @@
 {
   "description": "The best of today's dance hits. Cover: Young Bombs",
-  "num_followers": 303975,
+  "num_followers": 303991,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4NjQzMywwMDAwMDAwMDgxYTNjNDU2NWY5YTAyZDYzOWU1MTBkZDFlM2RlNjk2",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDM5NGQ3MTc5NjVhZDg3ZTMyZDgyYTJlOTI2NzM1NGE1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -89,6 +89,34 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
@@ -111,6 +139,26 @@
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Warehouse Summer",
+        "url": "https://open.spotify.com/album/0feKW6G3IxAn97JhLUKXdJ"
+      },
+      "artists": [
+        {
+          "name": "i_o",
+          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/1PhKKmyFwhnKVLuNpbOtg7"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -215,6 +263,22 @@
       "duration_ms": 177142,
       "name": "Show Me (feat. Hannah Boleyn)",
       "url": "https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "FLUTE",
+        "url": "https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "duration_ms": 197489,
+      "name": "FLUTE",
+      "url": "https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -373,6 +437,22 @@
       "url": "https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Whitney",
@@ -501,6 +581,26 @@
       "url": "https://open.spotify.com/track/23Sr6e5e0JaqQNz1Dfl43h"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Escapism. / The Thrill Is Gone.",
+        "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "You Can\u2019t Change Me (feat. Raye)",
@@ -583,6 +683,22 @@
       "duration_ms": 129024,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/6HMEmqVeDpIeL5DlgFU9Gx"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/4PfxvIOGvyZomFIclSdPhJ"
+      },
+      "artists": [
+        {
+          "name": "Scity",
+          "url": "https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/7Mff36ABo7BQquS3XRCLCA"
     },
     {
       "added_at": "2022-09-16 14:29:16",
@@ -757,6 +873,22 @@
       "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Ticking Clock",
+        "url": "https://open.spotify.com/album/5TyVbXXFXmA2icxXPzUDMQ"
+      },
+      "artists": [
+        {
+          "name": "Hyunji-A",
+          "url": "https://open.spotify.com/artist/6LL2gqtRfPs9VFk8yWc3W6"
+        }
+      ],
+      "duration_ms": 480222,
+      "name": "Ticking Clock",
+      "url": "https://open.spotify.com/track/14fODZduhUPm2b164sNf8Y"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Take You",
@@ -791,6 +923,26 @@
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Aer",
+        "url": "https://open.spotify.com/album/4u5cLiZqch1qjUYWK0D0Aa"
+      },
+      "artists": [
+        {
+          "name": "Jordan Gill",
+          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
+        },
+        {
+          "name": "Oovation",
+          "url": "https://open.spotify.com/artist/4yLaaiM1Upgf59TRaBZBFM"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "Aer",
+      "url": "https://open.spotify.com/track/23MpkruVen6XC42JK5avIG"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1169,22 +1321,6 @@
       "url": "https://open.spotify.com/track/04ruLrAUSx16SHtELY5mqA"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "We Own the Night",
-        "url": "https://open.spotify.com/album/6J9wrP3el3vWEjvajhvswN"
-      },
-      "artists": [
-        {
-          "name": "Young Bombs",
-          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
-        }
-      ],
-      "duration_ms": 160206,
-      "name": "We Own the Night",
-      "url": "https://open.spotify.com/track/4Kqbdm0SgQzdu4OFAWEdUQ"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Grateful",
@@ -1251,30 +1387,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "FAKE",
-        "url": "https://open.spotify.com/album/3lTcywnx2UQabY3DtqSXDz"
-      },
-      "artists": [
-        {
-          "name": "Besomorph",
-          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
-        },
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        },
-        {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/4xZ3gU3bsLUDXkv7xS0phG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/3ld6eLkg5UurwvwSKraSUX"
       },
@@ -1307,22 +1419,6 @@
       "duration_ms": 256898,
       "name": "Water",
       "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"
-    },
-    {
-      "added_at": "2022-09-16 14:29:16",
-      "album": {
-        "name": "When I'm In Need",
-        "url": "https://open.spotify.com/album/2Ypzwsb3hm4ji9G62Tgv49"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        }
-      ],
-      "duration_ms": 238064,
-      "name": "When I'm In Need",
-      "url": "https://open.spotify.com/track/3gGSVo1zwakJkYuJsf0G3V"
     },
     {
       "added_at": "2022-09-16 14:29:16",

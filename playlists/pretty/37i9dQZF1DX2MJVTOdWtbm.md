@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Ramon Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,880 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,907 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 36 | [Algodón](https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Algodón](https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm) | 2:52 |
 | 37 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 |
 | 38 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
-| 39 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
+| 39 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
 | 40 | [Corre](https://open.spotify.com/track/1guHjbt0T9U3p7JfW91ISA) | [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg) | [Corre](https://open.spotify.com/album/3zKO6vZTet1vKtoZDXM1Io) | 2:53 |
-| 41 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
+| 41 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
 | 42 | [Ajá](https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Ajá](https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4) | 2:22 |
 | 43 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 44 | [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 71 | [nostalgia](https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [nostalgia](https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv) | 2:39 |
 | 72 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 |
 | 73 | [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 |
-| 74 | [Dolor](https://open.spotify.com/track/0q1qAGERR453ach2swvAza) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Perdón](https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo) | 3:05 |
-| 75 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
+| 74 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
+| 75 | [Dolor](https://open.spotify.com/track/0q1qAGERR453ach2swvAza) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Perdón](https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo) | 3:05 |
 | 76 | [Sensualidad](https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Sensualidad](https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U) | 2:36 |
 | 77 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
 | 78 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 84 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
 | 85 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
 
-Snapshot ID: `MTY2Mzk0NjgzMiwwMDAwMDAwMDgwNjQ2OWI1YjE5NWE0ZDBjYjUxNTYzMjE5NmI2MGQ0`
+Snapshot ID: `MTY2Mzk0NjgzMiwwMDAwMDAwMDBjZTQ2ZmVjYTQ5NzViMWRlYTg1MzJmZWM3ODhmNzFl`

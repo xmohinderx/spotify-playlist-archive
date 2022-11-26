@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Big Soto, Beéle
 
-98 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+99 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,9 +102,10 @@
 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2022-01-07 |  |
 | [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 3:18 | 2022-02-15 | 2022-08-04 |
 | [Vente \(Como Moctezuma\) \- Remix](https://open.spotify.com/track/6H0Qwk2OdvMGsrrN60bhsP) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Vente \(Como Moctezuma\) \[Remix\]](https://open.spotify.com/album/69IoQ69L6srLfViw4QwEXC) | 2:32 | 2022-01-07 | 2022-05-07 |
+| [Viaje](https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Viaje](https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI) | 3:24 | 2022-11-25 |  |
 | [Viaje](https://open.spotify.com/track/3wkpoLenkZHdgVV4QXG2gT) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0) | [Viaje](https://open.spotify.com/album/2rRowMHqOG5nxwV9W5tSCi) | 3:22 | 2022-01-07 | 2022-03-03 |
 | [Webcam](https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Webcam](https://open.spotify.com/album/0QTW7ygeF5Uoz3r8mCD8z3) | 3:00 | 2022-06-03 |  |
 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2022-01-22 |  |
-| [Última Cena](https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C) | [Bernalú](https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay) | [Última Cena](https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6) | 2:45 | 2022-08-03 |  |
+| [Última Cena](https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C) | [Bernalú](https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay) | [Última Cena](https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6) | 2:45 | 2022-08-03 | 2022-11-26 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

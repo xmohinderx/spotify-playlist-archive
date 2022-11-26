@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Acre",
+        "url": "https://open.spotify.com/album/4i4gjhsfxuQk7wmLhpU4aU"
+      },
+      "artists": [
+        {
+          "name": "Sonic",
+          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146262,
+      "name": "Acre",
+      "url": "https://open.spotify.com/track/7zhJeqcfstD3SUCo3fGDmi"
+    },
+    {
+      "album": {
         "name": "Afterwave",
         "url": "https://open.spotify.com/album/6az6DQdYHWgjuQxtp7eQqK"
       },
@@ -440,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Blurry Stars",
+        "url": "https://open.spotify.com/album/41rRCpIgzmzAFRCdqtWTH1"
+      },
+      "artists": [
+        {
+          "name": "Hibiscus",
+          "url": "https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160064,
+      "name": "Blurry Stars",
+      "url": "https://open.spotify.com/track/2MvYG2MZjHljTK468rBncA"
+    },
+    {
+      "album": {
         "name": "Boarding",
         "url": "https://open.spotify.com/album/58jr54BxPnYRK7MUFBqfSE"
       },
@@ -671,6 +707,28 @@
       "duration_ms": 170727,
       "name": "Chapterhouse",
       "url": "https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv"
+    },
+    {
+      "album": {
+        "name": "Chill Rush (Znoijk Remix)",
+        "url": "https://open.spotify.com/album/3eKnAxoTZ6VrBvj04NLfGd"
+      },
+      "artists": [
+        {
+          "name": "J Pepperwood",
+          "url": "https://open.spotify.com/artist/0rze0pPOmFLjelwEdicfYP"
+        },
+        {
+          "name": "Znoijk",
+          "url": "https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160717,
+      "name": "Chill Rush (Znoijk Remix)",
+      "url": "https://open.spotify.com/track/23qcDAKuwJegiWk42nku4U"
     },
     {
       "album": {
@@ -2565,6 +2623,42 @@
       "duration_ms": 197058,
       "name": "Mope Amok",
       "url": "https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6"
+    },
+    {
+      "album": {
+        "name": "Motenz",
+        "url": "https://open.spotify.com/album/1DWqytI0XE8LbmzIbQjjhw"
+      },
+      "artists": [
+        {
+          "name": "far away mei",
+          "url": "https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149513,
+      "name": "Motenz",
+      "url": "https://open.spotify.com/track/4dKm8ES2gZ9aavQvsc9uaN"
+    },
+    {
+      "album": {
+        "name": "Mousha",
+        "url": "https://open.spotify.com/album/30der8NDHj0j2DpViZT706"
+      },
+      "artists": [
+        {
+          "name": "Logozzi",
+          "url": "https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Mousha",
+      "url": "https://open.spotify.com/track/0Uvr2G0WF4J3jntnkF04MS"
     },
     {
       "album": {

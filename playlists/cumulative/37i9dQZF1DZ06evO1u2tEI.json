@@ -797,10 +797,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
+    },
+    {
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140626,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
     },
     {
       "album": {

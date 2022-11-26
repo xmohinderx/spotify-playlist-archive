@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Maverick City Music",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  CeCe Winans",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 300228,
       "name": "Ancient of Days",
       "url": "https://open.spotify.com/track/2CayDarEZXuUv64Vz9kwKR"
@@ -1291,6 +1291,24 @@
       "duration_ms": 303840,
       "name": "He Is",
       "url": "https://open.spotify.com/track/3s5IZaNKvWHLJE1PFvaPht"
+    },
+    {
+      "album": {
+        "name": "He Kept Me",
+        "url": "https://open.spotify.com/album/0mz123pF6ZHYTFGPfSO0BH"
+      },
+      "artists": [
+        {
+          "name": "Lamont Sanders",
+          "url": "https://open.spotify.com/artist/27ytq9gwMJRBIYv9T14mJA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302577,
+      "name": "He Kept Me - Live",
+      "url": "https://open.spotify.com/track/3q5Btikwq1dKZxNica2gch"
     },
     {
       "album": {
@@ -3104,6 +3122,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221013,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT"
+    },
+    {
+      "album": {
         "name": "One Of These Days",
         "url": "https://open.spotify.com/album/3Md0ysEeu69XhqtvUfVAzN"
       },
@@ -4241,7 +4277,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 283774,
       "name": "Wait for You",
       "url": "https://open.spotify.com/track/6MBhjChN7UI05WgwAZ8weA"

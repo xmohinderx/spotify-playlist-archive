@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Esto es un perreo a lo Rauw Alejandro.",
+  "description": "Esto es un perreo a lo Cris Mj.",
   "name": "Perreo City",
   "published_playlist_ids": [
     "7slpjtiTF4amPLODArmLYt"
@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 162539,
       "name": "11:20",
       "url": "https://open.spotify.com/track/0RnFRJrao9ARrWXWCBnCmf"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
@@ -2117,7 +2117,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 182000,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 222245,
       "name": "EMPELICULADOS - Spotify Singles",
       "url": "https://open.spotify.com/track/3PjY7hNtvJPnFeZxplptne"
@@ -2335,7 +2335,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 189520,
       "name": "EN LA LENTA",
       "url": "https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8"
@@ -2620,6 +2620,32 @@
     },
     {
       "album": {
+        "name": "Fenomenal",
+        "url": "https://open.spotify.com/album/2fFjuvFcpxaUhTDM8zOx3W"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213338,
+      "name": "Fenomenal",
+      "url": "https://open.spotify.com/track/41NSAiKyjasSqJdbGYJ3H3"
+    },
+    {
+      "album": {
         "name": "Fiera",
         "url": "https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1"
       },
@@ -2771,6 +2797,24 @@
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "album": {
@@ -2953,6 +2997,28 @@
       "duration_ms": 209160,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
+    },
+    {
+      "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192862,
+      "name": "Gucci en Paris",
+      "url": "https://open.spotify.com/track/3JUpnvc3AEe7elz8YkgV3M"
     },
     {
       "album": {
@@ -3723,7 +3789,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 253333,
       "name": "La Pelikula - Remix",
       "url": "https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW"
@@ -4281,7 +4347,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 154070,
       "name": "MANIAKA",
       "url": "https://open.spotify.com/track/4sJTFwiiFLa8xtRp3GtDQl"
@@ -4959,7 +5025,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 259090,
       "name": "NO ERES SANTA",
       "url": "https://open.spotify.com/track/3hK7qOPSyva12t0ldBvPqg"
@@ -5445,7 +5511,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 119105,
       "name": "PA QU\u00c9 PUuu",
       "url": "https://open.spotify.com/track/6LieYtwlDRlIusYZsYA4tw"
@@ -5778,6 +5844,24 @@
     },
     {
       "album": {
+        "name": "11/11",
+        "url": "https://open.spotify.com/album/0fTlLpdntkd3vdeCRmGNbg"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136373,
+      "name": "Perrea",
+      "url": "https://open.spotify.com/track/5J6MhWMuRQsZwo9MtLG31T"
+    },
+    {
+      "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
       },
@@ -5805,6 +5889,24 @@
       "duration_ms": 222876,
       "name": "PERREA KTM",
       "url": "https://open.spotify.com/track/5dqsBNMcoZdZSkdtAKmaQz"
+    },
+    {
+      "album": {
+        "name": "Perreando",
+        "url": "https://open.spotify.com/album/7EWwuLIMol1ocUa77sD0L2"
+      },
+      "artists": [
+        {
+          "name": "Dani Torres",
+          "url": "https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Perreando",
+      "url": "https://open.spotify.com/track/0LiImv2Ld6Yz0foJxMmDxe"
     },
     {
       "album": {
@@ -6093,7 +6195,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 250933,
       "name": "PRENDE OTRO",
       "url": "https://open.spotify.com/track/1PNNztcJlNIcThPBs9lKBi"
@@ -6299,6 +6401,24 @@
       "duration_ms": 164000,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/0dDjwXEwklHwPI8hb6MvvT"
+    },
+    {
+      "album": {
+        "name": "QUIEN SI NO",
+        "url": "https://open.spotify.com/album/4ezvxWVA1DiKXSKROoN93a"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121429,
+      "name": "QUIEN SI NO",
+      "url": "https://open.spotify.com/track/1ozzc5mFL2UMOAcM14GBXp"
     },
     {
       "album": {
@@ -7074,6 +7194,28 @@
     },
     {
       "album": {
+        "name": "Si Yo Me Muero",
+        "url": "https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "MVSIS",
+          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Si Yo Me Muero",
+      "url": "https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8"
+    },
+    {
+      "album": {
         "name": "SIN GOTEO",
         "url": "https://open.spotify.com/album/4TntxQrt5dfhnYhrrvPoUo"
       },
@@ -7173,6 +7315,28 @@
       "duration_ms": 372318,
       "name": "Sin Ropa - Remix",
       "url": "https://open.spotify.com/track/3UcOOU9tyT7ymLzlIr8ACI"
+    },
+    {
+      "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207835,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
     },
     {
       "album": {
@@ -7992,6 +8156,28 @@
     },
     {
       "album": {
+        "name": "VICTORIA",
+        "url": "https://open.spotify.com/album/5daYTq0BH5WgD6U4ClOX62"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "VICTORIA",
+      "url": "https://open.spotify.com/track/0YmXeRxv4o6LrsDaGpLqdg"
+    },
+    {
+      "album": {
         "name": "VIP Feat. Totoy El Frio",
         "url": "https://open.spotify.com/album/3gLMROXvvqfEly0VFvYQcB"
       },
@@ -8041,6 +8227,28 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197434,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
     },
     {
       "album": {

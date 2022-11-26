@@ -1,15 +1,15 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 65222,
+  "num_followers": 65233,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA1MjE0MCwwMDAwMDAwMGQ0MWY4MzVkNWNkMGExYTVjNmE5OTRkNmFmNGVlMzU5",
+  "snapshot_id": "MTY2NTA1MjE0MCwwMDAwMDAwMDVkMzNkZGFmMGY0YTI3ZjA4ZjYxYzFmNGQ5M2JiMmYy",
   "tracks": [
     {
-      "added_at": "2022-11-25 01:31:08",
+      "added_at": "2022-11-26 01:27:06",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2022-11-25 01:31:08",
+      "added_at": "2022-11-26 01:27:06",
       "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
@@ -743,22 +743,18 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/5zA6sCY6TFsPBi2ZdMy58w"
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
       "artists": [
         {
-          "name": "T\u00f3mas Welding",
-          "url": "https://open.spotify.com/artist/5A03saeTY76fYsuWrzUXqr"
-        },
-        {
-          "name": "ELVA",
-          "url": "https://open.spotify.com/artist/1RyxB2ZzW51PHFrjNio8nL"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 200347,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI"
+      "duration_ms": 189906,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -779,6 +775,26 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/5zA6sCY6TFsPBi2ZdMy58w"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3mas Welding",
+          "url": "https://open.spotify.com/artist/5A03saeTY76fYsuWrzUXqr"
+        },
+        {
+          "name": "ELVA",
+          "url": "https://open.spotify.com/artist/1RyxB2ZzW51PHFrjNio8nL"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 201086,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "barcelona",
-        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 175222,
-      "name": "barcelona",
-      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Stay Awake with Me (acoustic)",
         "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 207866,
       "name": "Made to Love You",
       "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "barcelona",
+        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 175222,
+      "name": "barcelona",
+      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Wild Enough",
-        "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 186658,
-      "name": "Wild Enough",
-      "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Vincent",
         "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 223560,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "Wild Enough",
+        "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 186658,
+      "name": "Wild Enough",
+      "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Back in the Water",
+      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Something American",
         "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 203262,
       "name": "Need You Now - Acoustic",
       "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Back in the Water",
-      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 202346,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2022-09-09 08:53:28",

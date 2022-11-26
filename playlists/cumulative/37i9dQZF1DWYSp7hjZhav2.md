@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-57 songs - 5 hr 39 min - not published yet
+58 songs - 5 hr 45 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Blinded \- Colyn Remix](https://open.spotify.com/track/2B0Mt9mDdiL7F267kY7PCS) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded \(Colyn Remix\)](https://open.spotify.com/album/2ohmjRcbnmP2cmCAyXTb72) | 5:43 | 2022-10-05 |  |
 | [Carte Blanche \- Alternative Dub Version](https://open.spotify.com/track/47EQgnnkKHkLh6igAw5bmD) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Carte Blanche](https://open.spotify.com/album/2OC1mqKWM8vMUAe8rZpQCU) | 5:03 | 2022-10-05 |  |
 | [Charly Charly](https://open.spotify.com/track/4t8qKTT7CW4DguACF8x6YW) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE) | [Ellum Sampler Volume 2](https://open.spotify.com/album/2OmhjTixPTCtdlVMCuQB2c) | 7:22 | 2022-10-05 |  |
-| [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-10-05 |  |
+| [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-10-05 | 2022-11-26 |
+| [Cherry](https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 5:55 | 2022-11-07 |  |
 | [Claire](https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Claire](https://open.spotify.com/album/7cCOKtUAAyXgCa8oIdqU34) | 4:47 | 2022-10-05 |  |
 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 | 2022-11-07 |  |
 | [Cold Summer](https://open.spotify.com/track/3xw4y324PlGHGGNVwKmJXZ) | [Paride Saraceni](https://open.spotify.com/artist/4QoLfjVJzb5qdQaXQFxlri) | [Burning](https://open.spotify.com/album/5GV9uzUxVHYMuTT02ZX2s8) | 5:58 | 2022-10-05 |  |

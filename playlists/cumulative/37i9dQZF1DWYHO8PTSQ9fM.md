@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : ElGrandeToto
 
-122 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
+123 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4 chiffres](https://open.spotify.com/track/5kV9rjO5C8ekF9vFGZdbcw) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Flou](https://open.spotify.com/album/67cpbnbv3A8dewZVqfHams) | 2:44 | 2022-05-12 | 2022-08-10 |
 | [Adios](https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Adios](https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5) | 3:06 | 2022-05-12 | 2022-07-14 |
 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 | 2022-06-03 |  |
+| [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-25 |  |
 | [Arahmini](https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:48 | 2022-10-27 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-07-04 | 2022-07-07 |
 | [Ayay](https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [R&B KINGZ](https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh) | 3:05 | 2022-05-12 | 2022-06-07 |

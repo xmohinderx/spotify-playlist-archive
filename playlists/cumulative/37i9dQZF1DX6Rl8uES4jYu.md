@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-329 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+330 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 | 2022-05-20 |  |
 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/68j5DYmCikBzcp60Sv6xWO) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/album/4vSD7Y3Ob3H5nhfgWX8OPf) | 4:03 | 2020-11-13 | 2022-03-26 |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-08-08 |  |
-| [All That I Need](https://open.spotify.com/track/46FmoDcQxTdgJnqqTppblI) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [All That I Need](https://open.spotify.com/album/4F5Furcx1SnH2PGX0YbKPM) | 3:20 | 2022-11-18 |  |
+| [All That I Need](https://open.spotify.com/track/46FmoDcQxTdgJnqqTppblI) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [All That I Need](https://open.spotify.com/album/4F5Furcx1SnH2PGX0YbKPM) | 3:20 | 2022-11-18 | 2022-11-26 |
 | [All This Life](https://open.spotify.com/track/1hjcNJETMy5NYuQkRtsKpC) | [Three Star Revival](https://open.spotify.com/artist/3evSkyfftD6Q8mjTIeJSVg) | [Reset](https://open.spotify.com/album/55T6adDVIBHPel2i9Ei5to) | 2:39 | 2020-11-13 | 2022-03-17 |
 | [All Together Now](https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Jamz](https://open.spotify.com/album/0iXMyDCLh5QNIvZV36cO8C) | 2:42 | 2021-07-16 | 2022-07-29 |
 | [All Yours](https://open.spotify.com/track/3YUeUS5imOjS9wqj0xhGYV) | [Jane Holiday](https://open.spotify.com/artist/05GeUxBiQ1aq6VYnODnPbD) | [All Yours](https://open.spotify.com/album/20ejRbhmfw3JUbXuCDeV4v) | 3:10 | 2020-11-13 | 2022-03-26 |
@@ -155,6 +155,7 @@
 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 | 2022-02-04 | 2022-07-29 |
 | [Keep Her](https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Keep Her](https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW) | 2:51 | 2022-08-12 | 2022-11-13 |
 | [Keepin' Me Under](https://open.spotify.com/track/4OvTmsRwU5YH9dRqC6rojB) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Keepin' Me Under](https://open.spotify.com/album/4HnrcjFmT4V7MzB1YiscPt) | 3:58 | 2020-11-13 | 2022-03-26 |
+| [Keeping You](https://open.spotify.com/track/7rgbpvuPWpy0o3fyvb3Sop) | [Mindy](https://open.spotify.com/artist/4IVRW82OzrZZ4qZSf0xYJF), [whereisluna](https://open.spotify.com/artist/4eWPaOqG36uS4H7uTuPnFn), [Whensday](https://open.spotify.com/artist/5kGJj49tILjz1N5FHt77fm) | [Keeping You](https://open.spotify.com/album/2QV8qGa4SbBkCWWjmZWWmg) | 3:03 | 2022-11-25 |  |
 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-07-01 |  |
 | [Kind of Freak](https://open.spotify.com/track/6Z0VYYq9f7iDDRtPUiShrS) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Bless You](https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr) | 3:45 | 2021-05-14 | 2022-10-01 |
 | [Kind Of Freak](https://open.spotify.com/track/6pskPJ0O1dr5ziM9Oyo4Ui) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Kind of Freak](https://open.spotify.com/album/48zZsra0i4FCVPAbTRAEkg) | 3:45 | 2021-05-14 | 2022-07-28 |

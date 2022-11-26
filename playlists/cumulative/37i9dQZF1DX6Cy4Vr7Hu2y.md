@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: \(G\)I\-DLE\(\(여자\)아이들\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-291 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
+292 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Fever](https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:34 | 2022-03-22 | 2022-07-28 |
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-10-01 |  |
 | [FLASH](https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [FLASH](https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA) | 3:20 | 2022-08-31 | 2022-09-07 |
-| [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 |  |
+| [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 | 2022-11-26 |
 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 | 2021-11-21 |  |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2021-11-21 | 2022-07-18 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-18 |  |
@@ -137,6 +137,7 @@
 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 | 2022-10-07 |  |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-11-21 |  |
 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 | 2021-11-21 | 2022-02-09 |
+| [LIMBO!](https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [THE 3rd MINI ALBUM NATURE WORLD : CODE W](https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt) | 3:16 | 2022-11-10 |  |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-07 |  |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-11-21 | 2022-07-29 |
 | [Love Bug](https://open.spotify.com/track/1Cltj3xauZ9gnoW8541Vki) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Yuna](https://open.spotify.com/artist/2grY2oKz3VLMeVaJIG7828) | [Love Bug](https://open.spotify.com/album/3nWqDP9Sz8AESze6AVeDhH) | 3:24 | 2022-01-19 | 2022-06-03 |

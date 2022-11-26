@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Witch Fever
+> Heavy new bands you need to have an eye on\. Cover: alt.
 
-116 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+119 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,12 @@
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-07-29 | 2022-09-03 |
 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 | 2022-11-18 |  |
 | [Felt Like Home](https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Felt Like Home](https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE) | 3:30 | 2022-10-28 |  |
+| [Find You Soon](https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Find You Soon](https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L) | 4:23 | 2022-11-25 |  |
 | [FIX THIS](https://open.spotify.com/track/1qoQclrr4nysaJXt9NMQGA) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO) | [FIX THIS](https://open.spotify.com/album/2ABQMw2umOizavA4yPSRZQ) | 2:27 | 2022-10-14 |  |
 | [Flock](https://open.spotify.com/track/3kOCCO9FS1u4fGn7Khcmmt) | [Haunted By Silhouettes](https://open.spotify.com/artist/7cXEMDxakHoQn4QmGMUmGe) | [Flock](https://open.spotify.com/album/5mb26sOcVrRDb0cQOxT4Mf) | 3:01 | 2022-07-29 | 2022-08-20 |
 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 | 2022-10-14 |  |
 | [Forced to Smile](https://open.spotify.com/track/6ugI9vdvlPnYqlDu6uhTdT) | [El Moono](https://open.spotify.com/artist/6JnVIkM76FVcDo5RXEwXTS) | [Temple Corrupted](https://open.spotify.com/album/1H7XITXYXGXytAUlXolo2P) | 3:58 | 2022-08-19 | 2022-10-29 |
+| [Fortified by Bloodshed](https://open.spotify.com/track/3A54tdbCgDX2vYzjjqGMlv) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Fortified by Bloodshed](https://open.spotify.com/album/0l7KbR4AxPTAVs9R22MrIM) | 5:52 | 2022-11-25 |  |
 | [FUCKYOU!](https://open.spotify.com/track/6BtDU1nkjCcc1Ko8ADERxM) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [FUCKYOU!](https://open.spotify.com/album/4Vdf6QbH9pCruj1FEfE7rc) | 1:17 | 2022-07-29 | 2022-09-10 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-30 | 2022-10-15 |
 | [Gaddaar](https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Rakshak](https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q) | 4:44 | 2022-08-19 |  |
@@ -109,6 +111,7 @@
 | [Tiny Disappointments](https://open.spotify.com/track/1pfAi5l2hIvVoBN13s1Gbj) | [The Offering](https://open.spotify.com/artist/69gpxGPOo7OguSCeHSlO9C) | [Tiny Disappointments](https://open.spotify.com/album/4itHsRrDzMue3SKuVcIoCw) | 6:36 | 2022-09-02 |  |
 | [Toxic](https://open.spotify.com/track/5yPoXFHbffwThUvx0ssfFZ) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Toxic](https://open.spotify.com/album/1o7TaQ4EMPhF8wHpUFv08z) | 3:10 | 2022-09-02 |  |
 | [Trench](https://open.spotify.com/track/3AGnINkl4SvfDoXIDfnR2f) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/5XfEUtLHyx1mcHQ9bwWLZN) | 2:36 | 2022-07-29 | 2022-09-17 |
+| [U L C E R](https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 3:06 | 2022-11-25 |  |
 | [UGLY](https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [UGLY](https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS) | 3:33 | 2022-07-29 | 2022-08-20 |
 | [Uncoil](https://open.spotify.com/track/092FbNQy7oYEtBbDA60xO3) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Promo '22](https://open.spotify.com/album/6AwFi41H9UQFWNffFh1Fo3) | 2:49 | 2022-07-29 | 2022-08-20 |
 | [Until Falling](https://open.spotify.com/track/1oQc7ebfr4unGdUTlad9of) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Until Falling](https://open.spotify.com/album/4zGPzMSMUwxcYJRuN5twAc) | 4:22 | 2022-11-04 |  |

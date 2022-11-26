@@ -1,12 +1,12 @@
 {
   "description": "Timeless tunes served over easy for all your brunching needs!",
-  "num_followers": 59451,
+  "num_followers": 59553,
   "original_name": "Sunny Side Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMDdjNDUwNjA0ZjlmOGQxZTMyMTRmZjllMzQyNTdjYzVm",
+  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMGU0YjkxYzc0MDEyOWE1ZTIzMDFjMzMwMzc1MWU2ZmI0",
   "tracks": [
     {
       "added_at": "2022-09-23 19:17:07",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 273173,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "Menagerie",
         "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -203,22 +219,6 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "What You Won't Do for Love",
         "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 178400,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 193573,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 199640,
       "name": "Follow Your Arrow",
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 179491,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
       "artists": [
         {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
         }
       ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -911,6 +895,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Hotter Than July",
         "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 306666,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Between the Lines (Remastered)",
-        "url": "https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO"
-      },
-      "artists": [
-        {
-          "name": "Janis Ian",
-          "url": "https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp"
-        }
-      ],
-      "duration_ms": 283880,
-      "name": "At Seventeen - Remastered",
-      "url": "https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "George McCrae - Disco Pioneer",
         "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Between the Lines (Remastered)",
+        "url": "https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO"
+      },
+      "artists": [
+        {
+          "name": "Janis Ian",
+          "url": "https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp"
+        }
+      ],
+      "duration_ms": 283880,
+      "name": "At Seventeen - Remastered",
+      "url": "https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY"
     },
     {
       "added_at": "2022-09-23 19:17:07",

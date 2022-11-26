@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-134 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
+135 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Day Ones](https://open.spotify.com/track/0C9mcWEFjyXKv9UrOGMgkh) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Bloom](https://open.spotify.com/album/1ECCPWsEdrHUYlkNhibbAc) | 2:59 | 2022-09-14 |  |
 | [Describe](https://open.spotify.com/track/7zZpX1EByY0CLdDFqjSEZs) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 4:44 | 2022-09-14 |  |
 | [Dogfight](https://open.spotify.com/track/3KHfFqv1aTXnY4P0GWIEUw) | [Sevy](https://open.spotify.com/artist/1JWlma0hnqcELOIFZVl03u), [Bayang](https://open.spotify.com/artist/4zqh1joAEjSqCZ182ncGqI) | [notfromhere](https://open.spotify.com/album/1r4wtsu7r3KUa1sMFmNnUI) | 3:56 | 2022-09-14 |  |
-| [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 | 2022-09-14 |  |
+| [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 | 2022-09-14 | 2022-11-26 |
+| [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2022-09-15 |  |
 | [Double Dip](https://open.spotify.com/track/2qLM9dbsAbjCE9N3fPagG2) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Double Dip](https://open.spotify.com/album/5FID5KjP1a0xptUHQZkIVL) | 3:18 | 2022-09-14 |  |
 | [Downtown](https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB) | 4:09 | 2022-09-14 |  |
 | [Dribble](https://open.spotify.com/track/1mQmVfIUWi6Yx50l59TpKU) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Dribble](https://open.spotify.com/album/3irvKBxgn7l3j49OqRLwx1) | 4:00 | 2022-09-14 |  |

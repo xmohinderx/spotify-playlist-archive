@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
-  "num_followers": 90691,
+  "num_followers": 90733,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDQ2YTkzZTUyYTNiZTEzZmExZjBmNDg3OGM3MGYwYzVk",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGIwMzZiNmE4ZGEyNGYyOGZjNTZmZTA0MTZjOTA1MjMy",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Eventyr",
-        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Eventyr",
-      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "S\u00e6la P\u00e5",
         "url": "https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 179016,
       "name": "S\u00e6la P\u00e5",
       "url": "https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Eventyr",
+        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Eventyr",
+      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 129375,
       "name": "Hej sk\u00e5l!",
       "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "JAG T\u00c5L INTE ET NEI",
-        "url": "https://open.spotify.com/album/4nCFt93iPSH7OMUOgMDavO"
-      },
-      "artists": [
-        {
-          "name": "Studavig\u00e5",
-          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
-        }
-      ],
-      "duration_ms": 117589,
-      "name": "JAG T\u00c5L INTE ET NEI",
-      "url": "https://open.spotify.com/track/1T3Amb9ELrHxGoo4U5BYce"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Helt Sykt VOL2",
         "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 185884,
       "name": "En Siste Gang",
       "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "JAG T\u00c5L INTE ET NEI",
+        "url": "https://open.spotify.com/album/4nCFt93iPSH7OMUOgMDavO"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "duration_ms": 117589,
+      "name": "JAG T\u00c5L INTE ET NEI",
+      "url": "https://open.spotify.com/track/1T3Amb9ELrHxGoo4U5BYce"
     },
     {
       "added_at": "2022-11-24 23:00:00",

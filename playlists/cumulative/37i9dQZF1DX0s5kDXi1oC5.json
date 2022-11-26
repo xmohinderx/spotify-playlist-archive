@@ -1201,6 +1201,24 @@
     {
       "album": {
         "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
+    },
+    {
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
       },
       "artists": [
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 217946,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"

@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 41701,
+  "num_followers": 41710,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI2NTMwMywwMDAwMDAwMGM4MDQxYTI5NTYwZWQ2MzljNDVlMmQ4ZGYwYzExZTU0",
+  "snapshot_id": "MTY2OTI2NTMwMywwMDAwMDAwMGY4ZjM5NTExZTg5YTkzZmY3ZjAzZjdmZThhMzc1OTAy",
   "tracks": [
     {
       "added_at": "2022-11-22 15:00:00",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt"
     },
     {
-      "added_at": "2022-11-25 01:18:27",
+      "added_at": "2022-11-26 01:15:18",
       "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 204712,
       "name": "Paris in the Rain",
       "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "WFM",
+      "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+        "name": "Miserable Man",
+        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
+      "duration_ms": 232991,
+      "name": "Miserable Man",
+      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "someone will love you better",
-        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "someone will love you better",
-      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 176974,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
+        "name": "someone will love you better",
+        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "someone will love you better",
+      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
     },
     {
       "added_at": "2022-11-22 15:00:00",

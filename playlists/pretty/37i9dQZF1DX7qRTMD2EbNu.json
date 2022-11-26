@@ -1,12 +1,12 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=byhHllSOSqScaQ5PEWOpPg\"> Sarkodie </a> ",
-  "num_followers": 8614,
+  "num_followers": 8644,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MTY1OSwwMDAwMDAwMGFjZWEwMGE0YTRiZDRiZGU0YzFkZDIzYmIwNWNkNmI0",
+  "snapshot_id": "MTY2OTM2MjEyNiwwMDAwMDAwMGUyZDUwYmM3ODllYjhkNmJkMWMwOTMyOGU1YmQyMzJm",
   "tracks": [
     {
       "added_at": "2022-11-15 09:45:18",
@@ -233,6 +233,38 @@
       "url": "https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD"
     },
     {
+      "added_at": "2022-11-25 07:42:06",
+      "album": {
+        "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
+        "url": "https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp"
+      },
+      "artists": [
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
+      "url": "https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2"
+    },
+    {
       "added_at": "2022-07-21 23:00:00",
       "album": {
         "name": "Nirvana",
@@ -347,6 +379,26 @@
       "duration_ms": 195482,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
+    },
+    {
+      "added_at": "2022-11-25 07:42:06",
+      "album": {
+        "name": "Dup\u0117",
+        "url": "https://open.spotify.com/album/6hqyFPUXzElJTaIlsIcXP1"
+      },
+      "artists": [
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 191055,
+      "name": "Dup\u0117",
+      "url": "https://open.spotify.com/track/5zJYfys6I9qA2WrXserMUm"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -473,6 +525,22 @@
       "url": "https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI"
     },
     {
+      "added_at": "2022-11-25 07:42:06",
+      "album": {
+        "name": "Buokrom Boy",
+        "url": "https://open.spotify.com/album/6LwAZ6V7j3mTEaO9upZl11"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "duration_ms": 240337,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/098BS1HCypwZZdX2phJk9L"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "Time",
@@ -529,6 +597,26 @@
       "url": "https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p"
     },
     {
+      "added_at": "2022-11-25 07:42:06",
+      "album": {
+        "name": "MOBB (feat. Le Juiice)",
+        "url": "https://open.spotify.com/album/27XavddsYmGmvQmBRwXEzC"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "MOBB (feat. Le Juiice)",
+      "url": "https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY"
+    },
+    {
       "added_at": "2022-11-15 09:45:18",
       "album": {
         "name": "B.B.B.B",
@@ -567,30 +655,6 @@
       "duration_ms": 205085,
       "name": "Don't Shout",
       "url": "https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO"
-    },
-    {
-      "added_at": "2022-10-28 13:00:16",
-      "album": {
-        "name": "Scary",
-        "url": "https://open.spotify.com/album/5LLwIc70eeUjHynOpd1CH9"
-      },
-      "artists": [
-        {
-          "name": "DJ Semtex",
-          "url": "https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt"
-        },
-        {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
-        },
-        {
-          "name": "Twitch 4EVA",
-          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Scary",
-      "url": "https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu"
     },
     {
       "added_at": "2022-06-24 06:18:14",
@@ -633,56 +697,44 @@
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
     },
     {
-      "added_at": "2022-09-30 06:36:39",
+      "added_at": "2022-11-25 07:42:06",
       "album": {
-        "name": "Yenda",
-        "url": "https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp"
+        "name": "Trenches Babies; Lalid - The Big Fish",
+        "url": "https://open.spotify.com/album/7w0dha98O5MiKp51tUlMyg"
       },
       "artists": [
         {
-          "name": "Kay T",
-          "url": "https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr"
+          "name": "Ground Up Chale",
+          "url": "https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh"
         },
         {
-          "name": "MEDIKAL",
-          "url": "https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE"
-        },
-        {
-          "name": "Qv",
-          "url": "https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8"
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/6gWvtdIeRmIE7175RmDJ81"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Yenda",
-      "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"
+      "duration_ms": 124898,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/2l2euV6MEINdOvBHp5yr7N"
     },
     {
-      "added_at": "2022-10-28 13:00:16",
+      "added_at": "2022-11-25 07:42:06",
       "album": {
-        "name": "Happily Ever After",
-        "url": "https://open.spotify.com/album/1CyOpQIKz9ScoXOgEQUQaf"
+        "name": "Mona Mobre",
+        "url": "https://open.spotify.com/album/2F4l42nbeEJN12pMz2TZMk"
       },
       "artists": [
         {
-          "name": "M3dal",
-          "url": "https://open.spotify.com/artist/2djlkuPiXmdN2kTGSuX9Qq"
+          "name": "Matino",
+          "url": "https://open.spotify.com/artist/6Lh8Pbf1GRE9NI58rnaTpY"
         },
         {
-          "name": "GIDI",
-          "url": "https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI"
-        },
-        {
-          "name": "Brenya",
-          "url": "https://open.spotify.com/artist/2MTCgcnZ7XfN5Xbkzeuswe"
-        },
-        {
-          "name": "Yung6ix",
-          "url": "https://open.spotify.com/artist/1q2U0RJo12z8YmBfb1RwOt"
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Governor",
-      "url": "https://open.spotify.com/track/5u3K16NYnDR8llAqKIcdYF"
+      "duration_ms": 236571,
+      "name": "Mona Mobre",
+      "url": "https://open.spotify.com/track/5BZCvuHKfFf3RCnHz5EAxR"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -759,22 +811,6 @@
       "duration_ms": 217165,
       "name": "Badman",
       "url": "https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn"
-    },
-    {
-      "added_at": "2022-10-28 13:00:16",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/16kupk4EciOXUkGKb72v3O"
-      },
-      "artists": [
-        {
-          "name": "Sean Lifer",
-          "url": "https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/1wdXNMo95BlitTNEZQFx5U"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -927,26 +963,6 @@
     {
       "added_at": "2022-06-24 06:18:14",
       "album": {
-        "name": "ROAD TO THE JUNGLE",
-        "url": "https://open.spotify.com/album/5s7pSKaTNmf40gOn7tGodS"
-      },
-      "artists": [
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        },
-        {
-          "name": "Suspect OTB",
-          "url": "https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE"
-        }
-      ],
-      "duration_ms": 194939,
-      "name": "Akatafo Party",
-      "url": "https://open.spotify.com/track/2dErHn9K3ajwPmKeTO2o6s"
-    },
-    {
-      "added_at": "2022-06-24 06:18:14",
-      "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
       },
@@ -979,34 +995,6 @@
       "duration_ms": 171135,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8"
-    },
-    {
-      "added_at": "2022-09-30 06:36:39",
-      "album": {
-        "name": "Road To DND (The Prelude)",
-        "url": "https://open.spotify.com/album/71zMrlUTmx1ABRfh7kbc7p"
-      },
-      "artists": [
-        {
-          "name": "Supa Gaeta",
-          "url": "https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz"
-        },
-        {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
-        },
-        {
-          "name": "Marince Omario",
-          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
-        },
-        {
-          "name": "Moor Sound",
-          "url": "https://open.spotify.com/artist/3n5yjt02sJrVGF3mPfEUh4"
-        }
-      ],
-      "duration_ms": 284868,
-      "name": "FED UP",
-      "url": "https://open.spotify.com/track/0hdRhRacQ3gyrt8rxODkoS"
     },
     {
       "added_at": "2022-06-24 06:18:14",

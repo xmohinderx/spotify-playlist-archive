@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 174893,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 210693,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9"
@@ -1260,6 +1260,28 @@
     },
     {
       "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147861,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0DdRiJLOcekwfwLlAT79wU"
+    },
+    {
+      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/4HoV7ZFqbjZe52GE9P1ESg"
       },
@@ -1401,6 +1423,24 @@
       "duration_ms": 195173,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
+    },
+    {
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/0NvuVQK17mnmE4hzALEuDZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180919,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/1YrVIuRdDYU9eWBBzw1QUC"
     },
     {
       "album": {
@@ -1760,6 +1800,24 @@
     },
     {
       "album": {
+        "name": "What Are You Doing New Year's Eve?",
+        "url": "https://open.spotify.com/album/6spVlRmap6agzx74iGSxao"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278947,
+      "name": "What Are You Doing New Year's Eve?",
+      "url": "https://open.spotify.com/track/7j1XQuI82j3ui6ERkKgwdI"
+    },
+    {
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -1847,7 +1905,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 286533,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"

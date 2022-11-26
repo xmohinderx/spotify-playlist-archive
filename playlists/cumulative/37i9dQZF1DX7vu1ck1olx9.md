@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-140 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
+141 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blossom](https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Blossom](https://open.spotify.com/album/3uaI4KOw8ZLAOxuHMEdk8F) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [blue haze](https://open.spotify.com/track/5465onzVgsFEbvIylMC0Cc) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/58CozCODSGKsDCPzjO0rw5) | 2:37 | 2020-11-12 | 2022-11-20 |
 | [blueberry](https://open.spotify.com/track/4yMZBub2nvvB75dKx6W259) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6F4qw9nq5wORLwe729uJkG) | 1:56 | 2020-11-12 | 2022-11-19 |
+| [blueberry](https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY) | 1:56 | 2020-11-12 |  |
 | [Bopatron](https://open.spotify.com/track/0nyKpt36pWK435Sa7LKk6P) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/4ElIeFUepcchZx9vj6HCzO) | 3:16 | 2020-11-12 |  |
 | [Bopatron](https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/5C43Ud4wj7T3TYbS7LpKh2) | 3:16 | 2020-11-12 | 2022-07-29 |
 | [bouquet of balloons](https://open.spotify.com/track/3m3IcXx0tjp9tgkisn60YE) | [biosphere](https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D) | [Rekindle the Past](https://open.spotify.com/album/07sS8e5gtXTt70It4bKe7M) | 3:03 | 2020-11-12 |  |
@@ -118,7 +119,7 @@
 | [Solstånd](https://open.spotify.com/track/28zf41FR9YbGLN2sXnl0S9) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Solstånd](https://open.spotify.com/album/4KoyVhHi6YflFzXwanmrlD) | 2:21 | 2022-06-03 | 2022-10-19 |
 | [something easy](https://open.spotify.com/track/3ERiZbndVXtCGXIREDHKgD) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [gay story](https://open.spotify.com/album/6wNgoamY7ZcZA1mEVXAuZV) | 1:02 | 2020-11-12 |  |
 | [Somewhere Else](https://open.spotify.com/track/5djyaDp1Antker31qnLCiv) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Somewhere Else](https://open.spotify.com/album/04prMufgRpnNLxCev5elzo) | 2:33 | 2022-01-28 | 2022-07-29 |
-| [Sonar](https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Sonar](https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U) | 1:58 | 2020-11-12 |  |
+| [Sonar](https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Sonar](https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U) | 1:58 | 2020-11-12 | 2022-11-26 |
 | [Soul Finding](https://open.spotify.com/track/27fX7qVg3MCQ6DEqgB4Rro) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Soul Finding](https://open.spotify.com/album/5ryb80Ksf3SBCw4OzA5Pun) | 1:41 | 2020-11-12 | 2022-07-29 |
 | [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 | 2022-07-08 |  |
 | [Spirited](https://open.spotify.com/track/1UcvLQLOEY12MLaTHigbfo) | [Ninjoi.](https://open.spotify.com/artist/5L2CHkxMyK5JxdWzjKcI6K) | [Benkyou](https://open.spotify.com/album/2RBCfGDmRd88hyRBwNBQ6c) | 2:19 | 2020-11-12 |  |

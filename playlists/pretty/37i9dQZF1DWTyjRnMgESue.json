@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 38232,
+  "num_followers": 38343,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDQzZjMxMDFiYTU5MzdlMDNkZWIyNTA0ZDJjZDZhMjJh",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGQyZWJkN2FjMGU5NTkyN2YyOWUyOTcxYzQ5MmUwYzNm",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Matin\u00e9e",
-        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "So Are We",
-      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "October Sky",
         "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 195065,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
       "added_at": "2022-08-12 04:00:00",

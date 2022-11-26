@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,345 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,359 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 54 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
 | 55 | [Juvenescence](https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 3:50 |
 | 56 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
-| 57 | [Seven Words](https://open.spotify.com/track/3UpZZWAFQlWTQM8xl4UlOW) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Front Row Seat to Earth](https://open.spotify.com/album/7ia3sdSdfdSeew9n4IEEnP) | 4:37 |
-| 58 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
+| 57 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
+| 58 | [Seven Words](https://open.spotify.com/track/3UpZZWAFQlWTQM8xl4UlOW) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Front Row Seat to Earth](https://open.spotify.com/album/7ia3sdSdfdSeew9n4IEEnP) | 4:37 |
 | 59 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 |
 | 60 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
 | 61 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 62 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
-| 63 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
+| 62 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
+| 63 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
 | 64 | [Eleanor Rigby](https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [L'air de rien](https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW) | 4:24 |
 | 65 | [Endless Running Out of Time](https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Quicksand EP](https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK) | 3:58 |
 | 66 | [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 92 | [Money Is King](https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 2:54 |
 | 93 | [If I Could Only Fly](https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [If I Could Only Fly / True Love's Flame](https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di) | 4:29 |
 | 94 | [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 |
-| 95 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 |
-| 96 | [Over That Road I'm Bound To Go](https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s) | [Joachim Cooder](https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF) | [Over That Road I'm Bound](https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb) | 3:44 |
+| 95 | [Over That Road I'm Bound To Go](https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s) | [Joachim Cooder](https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF) | [Over That Road I'm Bound](https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb) | 3:44 |
+| 96 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 |
 | 97 | [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 |
 | 98 | [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 |
 | 99 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
 | 100 | [Heart to Ride](https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:09 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGUzMjM0MmZkMzQxODdhODhhZjA2MmEzMTc2M2IyY2Yz`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDEwOThlZmI2MDljYjE0ODU3Mjg4MDNjZGE4YWY0NGYy`

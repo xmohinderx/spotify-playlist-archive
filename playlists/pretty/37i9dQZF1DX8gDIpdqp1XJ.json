@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 812490,
+  "num_followers": 812972,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGVlMTQzOTQ4YzRhNzU2MzIzZGYxOTA0MGVjYTYxM2Q1",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDRiMjc2MmE0NWJjZTViNWFmZGYxYjg0ZDAwYzU4YTBj",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Keep On Dreamin'",
-        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Keep On Dreamin'",
-      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 222920,
       "name": "Part III",
       "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Keep On Dreamin'",
+        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Hi-Fidelity",
         "url": "https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "jams EP",
+        "url": "https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 63214,
+      "name": "cloud castle",
+      "url": "https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Savanne",
         "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 316093,
       "name": "Savanne",
       "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "jams EP",
-        "url": "https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 63214,
-      "name": "cloud castle",
-      "url": "https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Table for Two",
         "url": "https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi"
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
       },
       "artists": [
         {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 196964,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1291,6 +1275,22 @@
       "duration_ms": 276453,
       "name": "California",
       "url": "https://open.spotify.com/track/5vZWYzEZ14cPcsdAXezdQY"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "duration_ms": 196964,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 229595,
-      "name": "America's Cup",
-      "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Ripe",
         "url": "https://open.spotify.com/album/6lzMFHsL3YcFKKasZacA9u"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 229595,
+      "name": "America's Cup",
+      "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Blacklight Shine",
         "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 175657,
       "name": "Blacklight Shine",
       "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Where I Live",
+        "url": "https://open.spotify.com/album/5G0IeQv7O6GjLYTcDDuEpM"
+      },
+      "artists": [
+        {
+          "name": "Das Kope",
+          "url": "https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j"
+        }
+      ],
+      "duration_ms": 180931,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1411,22 +1427,6 @@
       "duration_ms": 187131,
       "name": "Steal This Mug",
       "url": "https://open.spotify.com/track/5AQ7urDH36Z0NobmIIlc2x"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Where I Live",
-        "url": "https://open.spotify.com/album/5G0IeQv7O6GjLYTcDDuEpM"
-      },
-      "artists": [
-        {
-          "name": "Das Kope",
-          "url": "https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j"
-        }
-      ],
-      "duration_ms": 180931,
-      "name": "Tiger",
-      "url": "https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1595,18 +1595,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Don't Come Back",
-        "url": "https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt"
+        "name": "Protean Threat",
+        "url": "https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        },
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
         }
       ],
-      "duration_ms": 217918,
-      "name": "Don't Come Back",
-      "url": "https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj"
+      "duration_ms": 167573,
+      "name": "If I Had My Way",
+      "url": "https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1627,22 +1631,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Protean Threat",
-        "url": "https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI"
+        "name": "Don't Come Back",
+        "url": "https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt"
       },
       "artists": [
         {
-          "name": "Osees",
-          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
-        },
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
         }
       ],
-      "duration_ms": 167573,
-      "name": "If I Had My Way",
-      "url": "https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7"
+      "duration_ms": 217918,
+      "name": "Don't Come Back",
+      "url": "https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj"
     },
     {
       "added_at": "2022-10-24 21:28:36",

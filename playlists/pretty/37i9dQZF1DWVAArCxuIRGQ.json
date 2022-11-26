@@ -1,12 +1,12 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 576167,
+  "num_followers": 576129,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5NTM5MCwwMDAwMDAwMGNjMjA5ODkwZjViZWFiODEwMzM4NzQ0OTA2NTEwOTFi",
+  "snapshot_id": "MTY1NzI5NTM5MCwwMDAwMDAwMGRkODY1MGFiZDAyNzk0YzY3YjQ0ODlmNGFmNzMxZTM4",
   "tracks": [
     {
       "added_at": "2022-07-08 15:49:50",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 185733,
       "name": "Here Comes The Sun - Remastered 2009",
       "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
       },
       "artists": [
         {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Jump Around - 30 Years Remaster",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -403,6 +387,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
+      },
+      "artists": [
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Jump Around - 30 Years Remaster",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Little Lies - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Elvis 30 #1 Hits (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 213240,
       "name": "A Little Less Conversation - JXL Radio Edit Remix",
       "url": "https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2022-07-08 15:49:50",

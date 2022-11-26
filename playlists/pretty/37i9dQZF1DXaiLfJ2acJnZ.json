@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35440,
+  "num_followers": 35453,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDNhOGQ5NDQ5Yzk1N2M2ZmI3MWJmZGUzNWNjYmZhZDJm",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDJlY2I3YWIzNzU5Mzk1MTk3ZTQ1YmY4ODI4Nzc2YWJk",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Sister Ray",
-        "url": "https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ"
-      },
-      "artists": [
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 219865,
-      "name": "Sister Ray",
-      "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Favourite Song",
         "url": "https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 219455,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Sister Ray",
+        "url": "https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ"
+      },
+      "artists": [
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 219865,
+      "name": "Sister Ray",
+      "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
     },
     {
       "added_at": "2022-10-28 20:58:08",

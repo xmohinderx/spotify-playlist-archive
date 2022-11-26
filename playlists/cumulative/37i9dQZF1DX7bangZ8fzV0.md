@@ -4,7 +4,7 @@
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=0IyWnw1PSRCm3TShrrq6Xg">Barto</a>
 
-77 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3e1GdHUgFT8NgWwl0UpVff)
+78 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/3e1GdHUgFT8NgWwl0UpVff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Bietjie Benoni](https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Bietjie Benoni](https://open.spotify.com/album/2ulADrlXBpiPp6fTeI9pl4) | 3:23 | 2022-04-28 |  |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 |  |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 |  |
-| [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 | 2022-09-22 |  |
+| [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 | 2022-09-22 | 2022-11-26 |
+| [Braaibroodjies](https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/4YoNjsXDZjPPlo4WqaNKT2) | 3:23 | 2022-09-22 |  |
 | [Brannewynlippe](https://open.spotify.com/track/1gdBisAst3pplEuOS4xUhP) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Brannewynlippe](https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk) | 3:06 | 2021-10-14 |  |
 | [Bring Dit](https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Bring Dit](https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku) | 2:52 | 2021-09-09 |  |
 | [Dogter](https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dogter](https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i) | 4:03 | 2022-11-17 |  |

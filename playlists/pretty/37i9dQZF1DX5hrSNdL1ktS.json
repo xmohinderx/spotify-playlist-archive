@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55186,
+  "num_followers": 55183,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzNjczMSwwMDAwMDAwMDExNTUxZWY2ZDliYTM0YzE2NjAxNTA2ZjIxZTNlMTNm",
+  "snapshot_id": "MTY2OTM0MzMwOSwwMDAwMDAwMDMxOTdjZWU3ZWY1MmYxZWFlYmM1N2E1ZGYwZGM5MjRl",
   "tracks": [
     {
       "added_at": "2022-09-29 23:31:37",
@@ -185,6 +185,30 @@
       "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
     },
     {
+      "added_at": "2022-11-25 02:28:29",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI"
+      },
+      "artists": [
+        {
+          "name": "Dani Torres",
+          "url": "https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5"
+        },
+        {
+          "name": "Gotex",
+          "url": "https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl"
+        },
+        {
+          "name": "Elvis de Yongol",
+          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW"
+    },
+    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "BORRACHA",
@@ -223,22 +247,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Imperio",
-        "url": "https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Imperio",
-      "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "INESTABLE",
         "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
       },
@@ -255,22 +263,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Bien Beb\u00e9",
-        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
+        "name": "Imperio",
+        "url": "https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 163469,
-      "name": "Bien Beb\u00e9",
-      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
+      "duration_ms": 222000,
+      "name": "Imperio",
+      "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -295,6 +299,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 163469,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Mal Mal Mal",
         "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
       },
@@ -311,6 +335,22 @@
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -343,18 +383,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -375,26 +419,6 @@
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -475,22 +499,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "LA PUERTA",
-        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
-      },
-      "artists": [
-        {
-          "name": "Steff",
-          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
-        }
-      ],
-      "duration_ms": 183225,
-      "name": "LA PUERTA",
-      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Las Gatas",
         "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
       },
@@ -507,22 +515,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "ICE BLUE",
-        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
+        "name": "LA PUERTA",
+        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
       },
       "artists": [
         {
-          "name": "Opium G",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
         }
       ],
-      "duration_ms": 174000,
-      "name": "GYAL",
-      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+      "duration_ms": 183225,
+      "name": "LA PUERTA",
+      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -543,6 +547,26 @@
       "duration_ms": 177570,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "ICE BLUE",
+        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
+      },
+      "artists": [
+        {
+          "name": "Opium G",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "GYAL",
+      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -939,6 +963,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Shot de Tequila",
+        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 211809,
+      "name": "Shot de Tequila",
+      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
       },
@@ -959,22 +999,6 @@
       "duration_ms": 171690,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Shot de Tequila",
-        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 211809,
-      "name": "Shot de Tequila",
-      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1031,22 +1055,6 @@
       "duration_ms": 174629,
       "name": "Termin\u00e9 Contigo",
       "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "\u00daltima Cena",
-        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
-      },
-      "artists": [
-        {
-          "name": "Bernal\u00fa",
-          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "\u00daltima Cena",
-      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
     }
   ],
   "unique_name": "Urbano Fresh",

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 8284,
+  "num_followers": 8313,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEwNzUyNSwwMDAwMDAwMDdkNTA4OGY4M2QyNTJjZGNlNDNhNzhiYTVmN2I4MGEy",
+  "snapshot_id": "MTY2OTM0MjQ5MCwwMDAwMDAwMDFiZmE2YmE3YWUwZTc2M2JlYTY2MWE0NGI3ZWI3NmI2",
   "tracks": [
     {
       "added_at": "2022-11-22 08:58:45",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
       "added_at": "2022-11-22 08:58:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 195042,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
         "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 195042,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
     },
     {
       "added_at": "2022-11-22 08:58:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
-        "name": "Some Day in the 21century",
-        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Some Day in the 21century",
-      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 214560,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
+        "name": "Some Day in the 21century",
+        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Some Day in the 21century",
+      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
     },
     {
       "added_at": "2022-11-22 08:58:45",

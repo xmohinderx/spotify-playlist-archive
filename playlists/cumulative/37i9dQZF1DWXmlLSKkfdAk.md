@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-285 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
+286 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 | 2022-07-27 |  |
 | [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 | 2021-11-12 |  |
 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 | 2021-11-12 |  |
+| [When U Love Somebody](https://open.spotify.com/track/399jCSLjZlWdJ7fFGe1iHr) | [Said The Whale](https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe) | [B\-Sides & Rarities](https://open.spotify.com/album/46B44Qrb9ygNblwoVAbktf) | 2:43 | 2022-11-25 |  |
 | [Why Georgia \(RAWsession\) \[originally by John Mayer\]](https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [Jess Delgado RAWsession \- 5.25.10](https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV) | 4:26 | 2021-11-12 | 2022-07-29 |
 | [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 | 2022-07-27 |  |
 | [Wicked Game \- Live At Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/5Lbi5aI8aLOGjO7A8vhbUv) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/03PET5SB0u5YLHrROp1WsL) | 4:31 | 2021-11-12 | 2022-07-29 |

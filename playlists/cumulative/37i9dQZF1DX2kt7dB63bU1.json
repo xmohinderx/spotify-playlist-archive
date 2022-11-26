@@ -1958,6 +1958,40 @@
     },
     {
       "album": {
+        "name": "Conjuring",
+        "url": "https://open.spotify.com/album/3BvUXumKFy7jRApJfpUwFC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216463,
+      "name": "Conjuring",
+      "url": "https://open.spotify.com/track/460DdHZlDKjYbEorrwBzw8"
+    },
+    {
+      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/0lQsSPBHSYHcYTaIzBOkCU"
       },
@@ -6307,7 +6341,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 104998,
       "name": "My Parade",
       "url": "https://open.spotify.com/track/72C3qcVhTWmaN8K2ijM3I5"
@@ -7423,6 +7457,24 @@
       "duration_ms": 237728,
       "name": "Si tu vois ma m\u00e8re",
       "url": "https://open.spotify.com/track/6KnkNyo795dy3IgMoC8YMe"
+    },
+    {
+      "album": {
+        "name": "Simply Falling",
+        "url": "https://open.spotify.com/album/74T1wuXtwHkyRKt9rprUDA"
+      },
+      "artists": [
+        {
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218679,
+      "name": "Simply Falling",
+      "url": "https://open.spotify.com/track/1ssJNXZibBxgDu9uIJ2ZQC"
     },
     {
       "album": {
@@ -10059,7 +10111,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 283377,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"

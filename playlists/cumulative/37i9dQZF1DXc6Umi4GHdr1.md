@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc6Umi4GHdr1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc6Umi4GHdr1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc6Umi4GHdr1)
 
-### [Focus Guitar](https://open.spotify.com/playlist/37i9dQZF1DXc6Umi4GHdr1)
+### [Study Guitar](https://open.spotify.com/playlist/37i9dQZF1DXc6Umi4GHdr1)
 
-> Free your mind and let your thoughts flow to the sounds of guitar.
+> Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-140 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+147 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 | 2022-05-27 |  |
 | [Cadaqués](https://open.spotify.com/track/4It0oWesPCt0G0h7HtaUca) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Cadaqués](https://open.spotify.com/album/6fdgn796SWB1DhUvDHU9wq) | 1:58 | 2022-05-27 | 2022-07-22 |
 | [Canopy](https://open.spotify.com/track/0jHu8QbSuwABUWnf1nQxFd) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Moriah Wolfe](https://open.spotify.com/artist/0CYYj8G2owqzuC8Ysa8u2t), [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [A Place To Call Home](https://open.spotify.com/album/1cMd7URSyipZLbHSxiXM5G) | 1:12 | 2022-10-14 |  |
+| [Cavatina](https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [John Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [Classic Williams \-\- Romance of the Guitar](https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b) | 3:08 | 2022-11-25 |  |
 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 | 2021-12-10 | 2022-07-08 |
 | [Cheese and Wine](https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Cheese and Wine](https://open.spotify.com/album/19Cbc4r3BvAIrk8wk51yGW) | 2:31 | 2022-09-02 |  |
 | [Chimes](https://open.spotify.com/track/5SUEH5VIVUmIDyynFsjFgb) | [Anona Helene](https://open.spotify.com/artist/489KvuYBhHiNJYYnb2d2l2) | [Chimes](https://open.spotify.com/album/0FVTcnV3vxODYuvgviCTaU) | 2:47 | 2021-12-10 |  |
@@ -35,16 +36,19 @@
 | [Contemplacion](https://open.spotify.com/track/5VwqDvZOyX2MVPlfr0jLmd) | [Classical Guitar Masters](https://open.spotify.com/artist/7ctJVvTo1OFEHP1YgNAKzm) | [Simple Guitar Classics](https://open.spotify.com/album/67AHA6cXLgJRX7WgLbp1Ma) | 3:43 | 2022-06-24 |  |
 | [Costa Brava](https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S) | [Brian Brohn](https://open.spotify.com/artist/4IvSlgyUcZU9Ru7rEAVtAQ) | [Tree Runner](https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo) | 3:05 | 2021-12-10 |  |
 | [Cradle](https://open.spotify.com/track/6cEC34q3A0RQNSthy6UtwK) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Cradle](https://open.spotify.com/album/6L684rP3Pe8ChjjYQJTUTu) | 2:22 | 2022-10-28 |  |
+| [Currer Bell](https://open.spotify.com/track/2FhRsngrjvqDFGT94BX7vu) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Currer Bell](https://open.spotify.com/album/7Fes7QyLJptB1xdfzTJmPK) | 2:31 | 2022-11-25 |  |
 | [Cuyutlan](https://open.spotify.com/track/451zGCNVAnPGS9Nv7PI8yQ) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:53 | 2021-12-10 |  |
 | [Das Gebirge](https://open.spotify.com/track/12gTq55jChsH7RIFX6LoBP) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Das Gebirge](https://open.spotify.com/album/6CraOjno7t4Lr9buQoXOIw) | 2:34 | 2022-05-27 |  |
 | [Depending on who?](https://open.spotify.com/track/6HdiridEw4dd3ry3YIi8bW) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Depending on who?](https://open.spotify.com/album/0Qd0NaMIJwAdJcjLFpEBCX) | 2:35 | 2021-12-10 |  |
 | [Diamante](https://open.spotify.com/track/5fW1NupjNhGjwoEQwlh9FU) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Diamante](https://open.spotify.com/album/12SQTw5KsmzIa8BENXP98Y) | 2:30 | 2022-05-27 | 2022-07-08 |
 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 | 2021-12-10 | 2022-07-22 |
 | [die Tulpe](https://open.spotify.com/track/2lxdP9tH5uCkKXJi8MfxpK) | [Frederick Fried](https://open.spotify.com/artist/4c38lToOvTzqQJCfS1uNtx) | [Kona](https://open.spotify.com/album/2qaqZMgv6yVLC6XOO5hka9) | 4:01 | 2021-12-10 |  |
+| [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2022-11-25 |  |
 | [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 | 2022-05-27 | 2022-07-22 |
 | [East](https://open.spotify.com/track/0EXR9AfcquwLS4yksMql29) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:38 | 2022-04-05 |  |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2021-12-10 | 2022-07-22 |
 | [Enrejado](https://open.spotify.com/track/30qtyIShVMKBJ2BzHdHOpz) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Enrejado](https://open.spotify.com/album/7qlWfiqgc8galnEyU9AFO1) | 3:37 | 2021-12-10 | 2022-07-08 |
+| [Erwachen der Berge](https://open.spotify.com/track/05VGUOV68jMyJEc2iTRId8) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Salzburger Winter](https://open.spotify.com/album/5vYvjK1qarprGS6dmqb8xr) | 3:04 | 2022-11-25 |  |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2021-12-10 | 2022-07-08 |
 | [Eventide](https://open.spotify.com/track/63Zw5WXjM3OWMu0m6wRtk8) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Eventide](https://open.spotify.com/album/0KLP3M9mwfduSGbhX1ypyB) | 2:34 | 2022-11-18 |  |
 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 | 2021-12-10 |  |
@@ -100,10 +104,13 @@
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-10 |  |
 | [Pinus Halepensis](https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 2:35 | 2021-12-10 | 2022-05-27 |
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2022-10-07 |  |
+| [Prelude 1 by Heitor Villa\-Lobos](https://open.spotify.com/track/2ps8YRrepQ0SIDk9iVEnPu) | [Brad Rau](https://open.spotify.com/artist/6Xjsd6nZrHRWQawUbGpkgZ) | [Guitar Night](https://open.spotify.com/album/4f1TGN1XlNUFsB6jLPmvvy) | 5:20 | 2022-11-25 |  |
+| [Preludio Saudade: La Catedral](https://open.spotify.com/track/3IvSvGAOVVMFwjdvnaNC7n) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Georg Gulyás](https://open.spotify.com/artist/2lh2SgZKvD8KiJxZ2vomJC) | [Georg Gulyás Plays Barrios](https://open.spotify.com/album/1mYz7NymOSukKdtbhOrw6V) | 2:23 | 2022-11-25 |  |
 | [Primrose](https://open.spotify.com/track/0LQs4d7gVIBlqKCbWuF2R1) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [Primrose](https://open.spotify.com/album/5Gh7vqOzgceuNfyFBzR4nT) | 2:48 | 2021-12-10 |  |
 | [Purungeo](https://open.spotify.com/track/602kc4KIpZZ0D3wHRgfhEt) | [Moon Guitar](https://open.spotify.com/artist/2nvKK4Tioprvfztd0hbEQz) | [El Potrero](https://open.spotify.com/album/72dgfdG0wp3V71Tp15Mx5E) | 2:29 | 2021-12-10 |  |
 | [Quadratus](https://open.spotify.com/track/4fLFwoT3vSS0T91CoM3ret) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Quadratus](https://open.spotify.com/album/3grqGdMjTua4nwiGXKc7GB) | 2:43 | 2021-12-10 | 2022-07-29 |
 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 | 2022-05-27 |  |
+| [Recuerdos De La Alhambra](https://open.spotify.com/track/7Ahed5NrDuiMeq16Y7LxvI) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Christopher Parkening](https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96) | [In The Spanish Style](https://open.spotify.com/album/2ylRlmfvJD3TZ3t6kt9Rkw) | 3:56 | 2022-11-25 |  |
 | [Red Fir](https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Esperanza](https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT) | 2:41 | 2022-03-03 |  |
 | [Rickover's Dream](https://open.spotify.com/track/3rbanyAxECNBbFFi2IM0S2) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Aerial Boundaries](https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH) | 4:50 | 2021-12-10 |  |
 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 | 2021-12-23 |  |

@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-129 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+130 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Lost Love of the Rabab](https://open.spotify.com/track/7ulAelTJXZwz75syvdVx4V) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Lost Love of the Rabab](https://open.spotify.com/album/3baiVoyNz2OCXGE69Iyo1I) | 4:34 | 2022-11-11 |  |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2022-04-04 |  |
 | [Magnetic](https://open.spotify.com/track/31Wui18tjMUSmIig5fvf6o) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 7:43 | 2022-04-04 | 2022-09-07 |
+| [Manali Sunrise](https://open.spotify.com/track/4m0KL4ZBlLnhwXWGm3FvyX) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Manali Sunrise](https://open.spotify.com/album/1YrIS5BqUiTHZMo8PhOyZc) | 3:27 | 2022-11-25 |  |
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-05-16 |  |
 | [Meditation Mornings](https://open.spotify.com/track/5W4ANWiWKDqXSnAy5OMY7f) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 | 2022-04-04 |  |
 | [Meeting of Two Oceans](https://open.spotify.com/track/76PToF9tQlklwSUbt4RNbk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:14 | 2022-04-04 |  |

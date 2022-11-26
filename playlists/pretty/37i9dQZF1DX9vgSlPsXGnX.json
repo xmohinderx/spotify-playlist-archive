@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 40984,
+  "num_followers": 41054,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMGY3MDhhZGJiZDI5MjAwOTljOGQ1ZGM3YjI0OGQ0Mzcw",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMGM3NTdhNDc3ODQxZDFmMzc3ZWU4MjFmMGEwOGM0YmRh",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Contigo Aprend\u00ed",
-      "url": "https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 180626,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 118933,
+      "name": "Contigo Aprend\u00ed",
+      "url": "https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu"
     },
     {
       "added_at": "2021-12-26 12:28:38",

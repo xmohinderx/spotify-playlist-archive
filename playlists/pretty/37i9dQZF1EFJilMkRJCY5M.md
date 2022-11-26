@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 73 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 73 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 52 | [die 4 u](https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9) | 2:53 |
 | 53 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
 | 54 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
-| 55 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
-| 56 | [Feel Free](https://open.spotify.com/track/7mQECZHQmEBEdXbpaBZNSH) | [Bandēs](https://open.spotify.com/artist/7vcT2s2G1IlCiIP3OBA8Af), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Feel Free](https://open.spotify.com/album/5UjIjX0L2nzxLJdTl12TD2) | 3:22 |
+| 55 | [Feel Free](https://open.spotify.com/track/7mQECZHQmEBEdXbpaBZNSH) | [Bandēs](https://open.spotify.com/artist/7vcT2s2G1IlCiIP3OBA8Af), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Feel Free](https://open.spotify.com/album/5UjIjX0L2nzxLJdTl12TD2) | 3:22 |
+| 56 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 57 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
 | 58 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
 | 59 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 72 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 73 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Mjc4MjIzMjAsMDAwMDAwMDAwN2JkZTk0NzBkOTJiMzJhMWM5ODAwMzAxNWQ4NDdlMA==`
+Snapshot ID: `Mjc4MjM3NjAsMDAwMDAwMDA2YzRkMzIzMTE5ZWIwODY0MDUxYmFiYzk2Y2Q4NzkxZg==`

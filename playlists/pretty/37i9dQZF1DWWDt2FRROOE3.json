@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 4276,
+  "num_followers": 4288,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMGM0ZDVlYWQ3Y2FmOGVjYzIyMmY5YWJmZDU3NjllMzhm",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMGM5MWU1MjY5NzYwNmQyMWI2YzIzZWQyODBkYWU5OTM3",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -127,8 +127,8 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mexipop",
-        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
+        "name": "Mexican Fiesta",
+        "url": "https://open.spotify.com/album/4ew6gZSo0k4PBTRYyydx3G"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 203021,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/3SsKXdUXlrXy4A83TcUZYS"
+      "duration_ms": 198533,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/2LKet8MxLq0FY6PWvBIJFh"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -207,8 +207,8 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mexican Fiesta",
-        "url": "https://open.spotify.com/album/4ew6gZSo0k4PBTRYyydx3G"
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/2LKet8MxLq0FY6PWvBIJFh"
+      "duration_ms": 203021,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/3SsKXdUXlrXy4A83TcUZYS"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
       },
       "artists": [
         {
-          "name": "Mariachi Entertainment System",
-          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 192947,
-      "name": "Guardia Millenial Fair (from \"Chrono Trigger\")",
-      "url": "https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx"
+      "duration_ms": 198243,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
         }
       ],
-      "duration_ms": 104500,
-      "name": "The Moon (from \"Duck Tales\")",
-      "url": "https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD"
+      "duration_ms": 192947,
+      "name": "Guardia Millenial Fair (from \"Chrono Trigger\")",
+      "url": "https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx"
     }
   ],
   "unique_name": "Mariachi Covers",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "Heavy new bands you need to have an eye on. Cover: Witch Fever",
+  "description": "Heavy new bands you need to have an eye on. Cover: alt.",
   "name": "New Blood",
   "published_playlist_ids": [
     "0gTCJ5PNCODVC0yVCIKhB7"
@@ -632,6 +632,24 @@
     },
     {
       "album": {
+        "name": "Find You Soon",
+        "url": "https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L"
+      },
+      "artists": [
+        {
+          "name": "Cowboys & Aliens",
+          "url": "https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263333,
+      "name": "Find You Soon",
+      "url": "https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI"
+    },
+    {
+      "album": {
         "name": "FIX THIS",
         "url": "https://open.spotify.com/album/2ABQMw2umOizavA4yPSRZQ"
       },
@@ -701,6 +719,24 @@
       "duration_ms": 238332,
       "name": "Forced to Smile",
       "url": "https://open.spotify.com/track/6ugI9vdvlPnYqlDu6uhTdT"
+    },
+    {
+      "album": {
+        "name": "Fortified by Bloodshed",
+        "url": "https://open.spotify.com/album/0l7KbR4AxPTAVs9R22MrIM"
+      },
+      "artists": [
+        {
+          "name": "High Command",
+          "url": "https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352042,
+      "name": "Fortified by Bloodshed",
+      "url": "https://open.spotify.com/track/3A54tdbCgDX2vYzjjqGMlv"
     },
     {
       "album": {
@@ -1859,6 +1895,24 @@
       "duration_ms": 156347,
       "name": "Trench",
       "url": "https://open.spotify.com/track/3AGnINkl4SvfDoXIDfnR2f"
+    },
+    {
+      "album": {
+        "name": "DEATHWESTERN",
+        "url": "https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY"
+      },
+      "artists": [
+        {
+          "name": "Spiritworld",
+          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "U L C E R",
+      "url": "https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e"
     },
     {
       "album": {

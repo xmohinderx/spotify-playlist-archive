@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,183 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,204 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 41 | [聽見下雨的聲音](https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦 不錯哦](https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH) | 4:39 |
 | 42 | [將故事寫成我們](https://open.spotify.com/track/3Vl7IqSQsAsfScssywTDny) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [將故事寫成我們](https://open.spotify.com/album/1HfahU2Hx8p8jq9IHkD4Mq) | 5:35 |
 | 43 | [云与海](https://open.spotify.com/track/391EmQt63uXH2dkY5ji3Q9) | [阿YueYue](https://open.spotify.com/artist/1QLBXKM5GCpyQQSVMNZqrZ) | [云与海](https://open.spotify.com/album/2MZWFjLhnd8FiRPxkgKeTk) | 4:18 |
-| 44 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
-| 45 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 |
-| 46 | [如果我沒有傷口](https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 5:01 |
+| 44 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 |
+| 45 | [如果我沒有傷口](https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 5:01 |
+| 46 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
 | 47 | [恰似你的溫柔](https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/5T8kukxNxN2tEucny5xt66) | 5:17 |
 | 48 | [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 |
 | 49 | [台北某個地方](https://open.spotify.com/track/3LQ0RDsFVMYrUfPYOgncCh) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [沙發海](https://open.spotify.com/album/47gZvbKIMWIHFLOXnxhUZA) | 4:16 |
 | 50 | [交換餘生](https://open.spotify.com/track/4daA20tBusVX29bUWgd8Dw) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [交換餘生](https://open.spotify.com/album/01m6dzbrm0kl8SmEqWoac6) | 4:36 |
 | 51 | [白鸽](https://open.spotify.com/track/0qrzbXs43YrxdaSAhLUA5v) | [你的上好佳](https://open.spotify.com/artist/1k06YlN2x0BDLE7EeBpGap) | [白鸽](https://open.spotify.com/album/2xtp5cx9nv9lJ4r6xhDLgV) | 3:28 |
 | 52 | [错季](https://open.spotify.com/track/32x37nnNt5wydXcWPmk1BC) | [秋原依](https://open.spotify.com/artist/7pCF52SusLNHi4n0cKlaMB) | [错季](https://open.spotify.com/album/5MeSqQUVQBstvgrpOLiUbX) | 4:35 |
-| 53 | [當我們不在一起](https://open.spotify.com/track/2IrxQL5LAsqdXNOkDP4sAP) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [當我們不在一起](https://open.spotify.com/album/2aodkqwQyt6hPuMDMwL3Cd) | 4:24 |
-| 54 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 |
+| 53 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 |
+| 54 | [當我們不在一起](https://open.spotify.com/track/2IrxQL5LAsqdXNOkDP4sAP) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [當我們不在一起](https://open.spotify.com/album/2aodkqwQyt6hPuMDMwL3Cd) | 4:24 |
 | 55 | [You Better Not Think About Me](https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [Insignificance](https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj) | 4:40 |
 | 56 | [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 |
 | 57 | [偽裝](https://open.spotify.com/track/53455JJQIRhArHbF2XA7s9) | [Da Zhuang](https://open.spotify.com/artist/0JvihWUI0PyC4sEJGVwrAg) | [偽裝](https://open.spotify.com/album/1LkriYhUsulFbEL8t2fBc3) | 5:00 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 70 | [在你不知道的时间里爱你很久 \- 电影《我在时间尽头等你》片尾曲](https://open.spotify.com/track/103IeGsEatrmA2Q4Vb1RpM) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [在你不知道的时间里爱你很久 \(电影《我在时间尽头等你》片尾曲\)](https://open.spotify.com/album/3XPJqAQ3az7bQg3H5Ohr9y) | 4:18 |
 | 71 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
 | 72 | [也可以](https://open.spotify.com/track/3dAi45j46EoBEd0UVoalcf) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [我有我自己](https://open.spotify.com/album/38NZBdDb6cgyMrYPsF8sSt) | 4:33 |
-| 73 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 |
-| 74 | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/track/72kP6AJqsEeSLkO640Tu7F) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/album/5ksD6oRRGRd1zr4vW7bB7g) | 4:42 |
-| 75 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 |
+| 73 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 |
+| 74 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 |
+| 75 | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/track/72kP6AJqsEeSLkO640Tu7F) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/album/5ksD6oRRGRd1zr4vW7bB7g) | 4:42 |
 
-Snapshot ID: `MTY2OTA0NjYwMiwwMDAwMDAwMDViZDQ2ZDQ0Zjg5YmU5MmEzNzdmYTk4YzExNTVkMjU1`
+Snapshot ID: `MTY2OTA0NjYwMiwwMDAwMDAwMGVlZjgwZDU4OTQ0OWM3OWI2NWM0YjkzMmZhYzM5NWMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,025 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,316 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 17 | [Es Por Tu Gracia](https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 3:22 |
 | 18 | [No Estoy Solo](https://open.spotify.com/track/5a3l8FTXaRGFkUn9jdvqKa) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Lo Que el Viento Me Enseño](https://open.spotify.com/album/4yu6vGUgF13tbPSO4Pysy5) | 4:34 |
 | 19 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
-| 20 | [10.000 Razones](https://open.spotify.com/track/3tovofu1VVmE3fXKKmTapY) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Himnos](https://open.spotify.com/album/5kjjUMt0GGhCEl9uiVB6c0) | 4:50 |
-| 21 | [No Me Soltarás](https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Con El Corazón En La Mano](https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV) | 5:01 |
+| 20 | [No Me Soltarás](https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Con El Corazón En La Mano](https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV) | 5:01 |
+| 21 | [10.000 Razones](https://open.spotify.com/track/3tovofu1VVmE3fXKKmTapY) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Himnos](https://open.spotify.com/album/5kjjUMt0GGhCEl9uiVB6c0) | 4:50 |
 | 22 | [Tu Poeta](https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Te Puedo Sentir](https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8) | 4:34 |
 | 23 | [Promesas](https://open.spotify.com/track/4fCR5COPBAKXUJAhuUl5W7) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Promesas](https://open.spotify.com/album/6AhZUgRb9ONblfzevQACl8) | 4:01 |
 | 24 | [Increíble \(En Vivo\)](https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
 | 75 | [Él Es Vida](https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [No Puedo Callar](https://open.spotify.com/album/2ebN5IUSFeey8NJ2MQACla) | 4:31 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDExM2Y3Y2Q3ZWQ0MTQwZWJiYzFiZWM5NzVmOTViYjcz`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMGZkOGE1Zjk3NTg4NGQ3MTMzZjUzMGMzZTY0YTAzMjM1`

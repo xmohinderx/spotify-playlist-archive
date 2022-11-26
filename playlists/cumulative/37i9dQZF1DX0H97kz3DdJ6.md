@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-105 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+106 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Mentiras](https://open.spotify.com/track/3Spub8dfTQ7ctrWjW1PlQ1) | [Jade Olie](https://open.spotify.com/artist/4pDmJqugegEQyqRepTEQE0) | [Mentiras](https://open.spotify.com/album/5gJVCufz4RmRfD9jKuFMUv) | 3:04 | 2022-05-20 |  |
 | [MERCEDES](https://open.spotify.com/track/0cq8MDW1cDoCFUah8J9dzZ) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [MERCEDES](https://open.spotify.com/album/4XTrNXx57PEHtRvQG9Zk3J) | 2:00 | 2022-07-15 |  |
 | [Meu Caos](https://open.spotify.com/track/0y2YZTZeGNwnYITMsXwZSw) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Atlas Oficial](https://open.spotify.com/artist/43PE2zF3EaEl4yhXXdY3Og) | [Meu Caos](https://open.spotify.com/album/5AWgyZNiqRoK1WoRAW3ZXK) | 3:25 | 2022-05-20 |  |
+| [Momentos](https://open.spotify.com/track/5MQjqn2KqcgagmbJ8G6Yhf) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ) | [Momentos](https://open.spotify.com/album/55mOten3xNecJHknhTe5jX) | 1:49 | 2022-11-25 |  |
 | [Monstro](https://open.spotify.com/track/0TGN193dpJ5dg9YOk1oCAR) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/6ejBYCdgc2II7gwAmFKxnW) | 3:36 | 2022-05-20 | 2022-11-24 |
 | [Monstro](https://open.spotify.com/track/4EH1497hGrC9rDdok3qQ4N) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/2aKAOqDAK1jZegtyIiVO16) | 3:36 | 2022-11-17 |  |
 | [Movimento](https://open.spotify.com/track/58UHu0BkydzUIOcp1Gru3H) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Movimento](https://open.spotify.com/album/3CsfvJspB9VavWbHTdeB8f) | 2:53 | 2022-10-07 |  |

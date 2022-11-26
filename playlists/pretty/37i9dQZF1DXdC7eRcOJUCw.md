@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Majo Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,970 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,012 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 72 | [Uno Y Uno](https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:53 |
 | 73 | [El Herradero](https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA) | [Angeles Ochoa](https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu) | [Divas Rancheras](https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM) | 3:26 |
 | 74 | [Échame a Mí la Culpa](https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [Los Exitos De Amalia Mendoza](https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl) | 3:11 |
-| 75 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
+| 75 | [El Puente Roto \- Tema Remasterizado](https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 2:37 |
 | 76 | [Te Solté La Rienda](https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Interpreta a José Alfredo Jimenez](https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF) | 2:53 |
 | 77 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 |
-| 78 | [El Puente Roto \- Tema Remasterizado](https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 2:37 |
+| 78 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 79 | [Cielito Lindo](https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:48 |
 | 80 | [Paloma Sin Nido](https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [La Tariácuri](https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU) | 2:56 |
 | 81 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Un Mundo Raro](https://open.spotify.com/track/3zVKulPXU2MxM6UPItu1Ri) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Un Mundo Raro](https://open.spotify.com/album/56LrNumPVbrJ5Vqnuor0mb) | 2:41 |
 | 100 | [Amor de un Rato](https://open.spotify.com/track/6VenhGZLU1sw7I4qkh30ln) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 4:32 |
 
-Snapshot ID: `MTY2ODE0NjQwMCwwMDAwMDAwMDA4OGEzZDg0ZTg2Nzc2OTk2NDFhZDMyNDYzODY0ZWYy`
+Snapshot ID: `MTY2ODE0NjQwMCwwMDAwMDAwMGJjMGMyOTkyYzY3N2M1MmM0MjFlOTQxNWNhMmQwZjc1`

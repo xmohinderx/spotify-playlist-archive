@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more!
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,121 likes - 156 songs - 8 hr 11 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,129 likes - 156 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 155 | [Are You With Me](https://open.spotify.com/track/4255amV4enzl28KAn16rUO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:18 |
 | 156 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 |
 
-Snapshot ID: `NTIyNDksYmQ0Mzc1NDJhNjhmMTEzNzEwMGEwNTZkYmE5NjBlZTdjNGNkY2E5NQ==`
+Snapshot ID: `NTIyNTAsMTI5YWYwNGU0NmM4MDQ4Nzk3YjVjMjExYzY4MDEwNmZkYTkxMWYwMA==`

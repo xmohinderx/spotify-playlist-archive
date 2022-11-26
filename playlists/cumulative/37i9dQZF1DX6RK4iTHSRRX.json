@@ -466,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3jCdodm7JBGES6ztXNXnEk"
+      },
+      "artists": [
+        {
+          "name": "Phillipe Goldman",
+          "url": "https://open.spotify.com/artist/2kSOIyf9QXEISbCLOgy7rW"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119341,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/6jiUV0bFYCMOygje0qBFOc"
+    },
+    {
+      "album": {
         "name": "A Winter's Solstice V",
         "url": "https://open.spotify.com/album/075qeZ7zIqoYjL3IGXsAql"
       },
@@ -1534,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "We Three Kings",
+        "url": "https://open.spotify.com/album/5GWb074SFDFXSq8ONiBHMV"
+      },
+      "artists": [
+        {
+          "name": "Beau Hayes",
+          "url": "https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/2XNEx58l69F0XYNXN61OYS"
+    },
+    {
+      "album": {
         "name": "Christmas Guitar",
         "url": "https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR"
       },
@@ -1567,6 +1603,42 @@
       "duration_ms": 88260,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT"
+    },
+    {
+      "album": {
+        "name": "We Wish You a Merry Christmas",
+        "url": "https://open.spotify.com/album/2Vn9h8YEmkKtFtOq1sd1dl"
+      },
+      "artists": [
+        {
+          "name": "Nylah Read",
+          "url": "https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78698,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/6Mb7k64S5fykoR1KGzUnHk"
+    },
+    {
+      "album": {
+        "name": "What Child Is This",
+        "url": "https://open.spotify.com/album/0sk4T3ouaTKWNGb8dTNNOP"
+      },
+      "artists": [
+        {
+          "name": "Las Verdes",
+          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111690,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/7JSUY7ep1Um9ykMCu2632M"
     },
     {
       "album": {

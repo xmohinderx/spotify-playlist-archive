@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,807 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,174 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 78 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 |
 | 79 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 |
 | 80 | [Desvelo](https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Desvelo](https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU) | 3:31 |
-| 81 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |
-| 82 | [El Llanto de los Luceros \- El Llanto de los Sapos](https://open.spotify.com/track/0jBgtBnsHtxhp6SywuTfrc) | [Grupo Mijez](https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF) | [El Sabor de la Cumbia Mexicana](https://open.spotify.com/album/2MivNgaOLUJ6AiscB6WpvM) | 3:49 |
+| 81 | [El Llanto de los Luceros \- El Llanto de los Sapos](https://open.spotify.com/track/0jBgtBnsHtxhp6SywuTfrc) | [Grupo Mijez](https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF) | [El Sabor de la Cumbia Mexicana](https://open.spotify.com/album/2MivNgaOLUJ6AiscB6WpvM) | 3:49 |
+| 82 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |
 | 83 | [Palabras No](https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Palabras No](https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av) | 4:09 |
 | 84 | [Cumbia De Los Estados](https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia \- Auténticos Embajadores De La Cumbia](https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg) | 4:01 |
 | 85 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 99 | [No te pertenece \- Radio Edit](https://open.spotify.com/track/61d67uSTg6cBHopUve5hsS) | [Klazykeroz](https://open.spotify.com/artist/1scdd3RHOCWx72TOGGEBHs) | [No te pertenece \(Radio Edit\)](https://open.spotify.com/album/4OHH9wtBsz0yqCEpIzQHUo) | 4:01 |
 | 100 | [Mi Corazon Es un Vagabundo](https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Solo Exitos](https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg) | 3:56 |
 
-Snapshot ID: `MTY1NDY0MzQ5MiwwMDAwMDAwMDIzYTEzZTgyNmMxNTVmNGZkZDY5YTAzNDBlYWZmYmNk`
+Snapshot ID: `MTY1NDY0MzQ5MiwwMDAwMDAwMDUwMmQzMTAxMTc5ZjA1MjJhZDBkZTE5NzVkYjY5ZTkz`

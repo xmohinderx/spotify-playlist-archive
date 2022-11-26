@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-544 songs - 1 day 23 hr 40 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+545 songs - 1 day 23 hr 46 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Astrosat](https://open.spotify.com/track/6sfLKBnf6ZogXdpViAxEJP) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf) | 5:00 | 2021-10-20 |  |
 | [Astrosat](https://open.spotify.com/track/7Bp6FeyuwmUlM7atMBag1A) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1) | 5:00 | 2021-10-20 | 2022-10-21 |
 | [Atelier](https://open.spotify.com/track/0reQqPRkPgYvKfMQR7Nfin) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/5l69NsahjgyhPCZNzVVGls) | 6:47 | 2021-10-20 | 2022-05-30 |
-| [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 | 2022-11-18 |  |
+| [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 | 2022-11-17 |  |
 | [Aura Show](https://open.spotify.com/track/709Tz6gMwBFkAxzMlcwYbj) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Annual Flowers in Color](https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX) | 10:18 | 2021-10-20 | 2022-07-28 |
 | [Autowave](https://open.spotify.com/track/2o66yBPuBDNKm2tB0q5MNI) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 3:09 | 2021-10-20 | 2022-06-02 |
 | [ava\_](https://open.spotify.com/track/40PBYI3cLbrKRwZMaH1TlM) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [ava\_](https://open.spotify.com/album/4EuCr6DMm2zyS2gX5uelmA) | 3:06 | 2021-10-20 | 2022-11-21 |
@@ -187,7 +187,7 @@
 | [Fervedouro Dois](https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Fervedouro Dois](https://open.spotify.com/album/0OTWp01TdoAAqh6md5vOYz) | 4:01 | 2022-09-30 |  |
 | [Fiction Of A Sea](https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 3:29 | 2022-01-14 | 2022-07-29 |
 | [Ficus II](https://open.spotify.com/track/0gSMfmDg40ayq9jAMj779s) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Mokragora](https://open.spotify.com/album/4IfHDBllVvLfuVpxFvG19D) | 2:46 | 2021-10-20 |  |
-| [Fire Flys](https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Yunomi](https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu) | [Amaryllis Dream](https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ) | 3:58 | 2021-11-12 |  |
+| [Fire Flys](https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Yunomi](https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu) | [Amaryllis Dream](https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ) | 3:58 | 2021-11-12 | 2022-11-26 |
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-20 |  |
 | [First Snow](https://open.spotify.com/track/2tlkgeydIqJnYpXleB9b3i) | [Ripperton](https://open.spotify.com/artist/3fdTyhMVXu3X3zErrj0sNm) | [Contrails](https://open.spotify.com/album/6GafgizmMcSo2OLpOZyz7g) | 5:33 | 2021-10-20 | 2022-07-29 |
 | [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains, Vol\. 1](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-20 | 2022-11-13 |
@@ -280,6 +280,7 @@
 | [Limbo](https://open.spotify.com/track/5VPo4IXOerHSXbxfq1w4wL) | [The Monotone Droner](https://open.spotify.com/artist/4vUxpIpa1nlrpDaowdVqiQ) | [Meditation Binaural](https://open.spotify.com/album/1CcKoxeTXPm5DQDLWI3Dy1) | 3:24 | 2021-10-20 | 2022-07-28 |
 | [Limit at Sendai](https://open.spotify.com/track/5rWs0KXmSRghQyBKfo7NyL) | [Leviticus Orion](https://open.spotify.com/artist/51fbzRiBO68g0TAVdw9B50) | [Limit at Sendai](https://open.spotify.com/album/1xOdsskwTDmQ236zS52IzV) | 3:38 | 2021-10-20 | 2022-11-18 |
 | [Liquid Planta Seeds](https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Cosmic Planta](https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard) | 3:24 | 2022-09-27 |  |
+| [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 | 2022-11-26 |  |
 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2022-07-15 |  |
 | [Los sueños solo son sueños](https://open.spotify.com/track/37DfrttkmBXL3P2B0VWI4X) | [Alec Sai](https://open.spotify.com/artist/0eHgtPi2edUfP4JcdIe2Su), [Kotanna](https://open.spotify.com/artist/19mnXxAd9JmGbpuZzPsDED) | [Los sueños solo son sueños](https://open.spotify.com/album/62URfSIsekcl7zpm2UFFjY) | 4:01 | 2022-04-12 | 2022-07-29 |
 | [Losing Too Is Still Ours](https://open.spotify.com/track/4zZYAcXi89kdtUsqtIuUeu) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ), [YATTA](https://open.spotify.com/artist/111QPtbpDlO2bvIFI51bVD) | [Losing Too Is Still Ours](https://open.spotify.com/album/0ncryeoGcIJtYx5xyrjRwi) | 6:58 | 2021-10-20 | 2022-07-28 |

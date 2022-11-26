@@ -1290,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Les Yeux Noisette",
+        "url": "https://open.spotify.com/album/4L3J11sHAt33LIzhGMyuCU"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Les Yeux Noisette",
+      "url": "https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio"
+    },
+    {
+      "album": {
         "name": "Liljekonvalj",
         "url": "https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB"
       },

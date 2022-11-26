@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-168 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+170 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 | 2022-07-15 | 2022-07-29 |
 | [El Viaje](https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [El Viaje](https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv) | 2:48 | 2022-07-15 | 2022-07-29 |
 | [En el Último Trago](https://open.spotify.com/track/26ZLo3OE6vf6NK56YRn1I4) | [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Nosotros](https://open.spotify.com/album/6SVKwaelrNUm99Fo0992kJ) | 2:57 | 2022-07-15 | 2022-07-29 |
+| [En Mis Brazos](https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [En Mis Brazos](https://open.spotify.com/album/3wd6e9BvUxKEVZf0LCj56t) | 2:02 | 2022-11-25 |  |
 | [Enrejado](https://open.spotify.com/track/30qtyIShVMKBJ2BzHdHOpz) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Enrejado](https://open.spotify.com/album/7qlWfiqgc8galnEyU9AFO1) | 3:37 | 2022-07-15 | 2022-10-07 |
 | [Eranthis](https://open.spotify.com/track/5U1L9QJucR95sSZZUqKOoi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Eranthis](https://open.spotify.com/album/1AN5NyjT7pUu6rj5yEIWmD) | 2:53 | 2022-07-15 |  |
 | [Estrella](https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Estrella](https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE) | 2:33 | 2022-11-18 |  |
@@ -90,6 +91,7 @@
 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 | 2022-07-29 |  |
 | [La Nostalgia](https://open.spotify.com/track/0LPw0eHj4ZzgFoWBNkKMPM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [La Nostalgia](https://open.spotify.com/album/7qt3oe7jbO84iozNWFpb4e) | 3:38 | 2022-08-19 |  |
 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2022-07-15 | 2022-09-23 |
+| [la Vigilia del búho](https://open.spotify.com/track/42WlKjbT3ZtIZItjBH3ZkF) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [la Vigilia del búho](https://open.spotify.com/album/0Tmhf4JVqsy6vvfY6hZjfZ) | 2:17 | 2022-11-25 |  |
 | [Laguna](https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Laguna](https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF) | 3:11 | 2022-11-18 |  |
 | [Lake District](https://open.spotify.com/track/2xrNBiMKQ8Waq8Yfk3SILh) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Lake District](https://open.spotify.com/album/2D3X3S42HBWPbhWL9nE7YE) | 2:49 | 2022-07-15 | 2022-10-29 |
 | [Lavender Fields](https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Lavender Fields](https://open.spotify.com/album/5ZWhg4hM263s5Mb21HicFg) | 3:29 | 2022-07-15 | 2022-10-07 |

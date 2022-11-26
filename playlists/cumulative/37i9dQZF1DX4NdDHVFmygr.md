@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-186 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+188 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 | 2022-03-10 |  |
 | [Hyati Ana](https://open.spotify.com/track/0UvW5kLHvjzN4YsHGM0oai) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Hyati Ana](https://open.spotify.com/album/3ATnydBE42x10NtDiXe4mt) | 2:51 | 2021-12-25 | 2022-02-25 |
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2022-10-25 | 2022-11-22 |
+| [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2022-11-25 |  |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2021-12-25 | 2022-04-08 |
 | [Jabha Fraso](https://open.spotify.com/track/5lS1g9BokChTZaLbymsxbz) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Jabha Fraso](https://open.spotify.com/album/6vUgmqUiOCNQT7HBGJt859) | 3:19 | 2022-05-10 | 2022-06-25 |
 | [Jamais de la vie](https://open.spotify.com/track/6RzXRaw6AnyIvK7tDLppd4) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Jamais de la vie](https://open.spotify.com/album/2PcSVRu7i7SCeEJl6iDXTy) | 3:49 | 2022-11-07 |  |
@@ -93,7 +94,7 @@
 | [Khalliha](https://open.spotify.com/track/6F6Nwb6sShRSRxJCr3XDsI) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Khalliha](https://open.spotify.com/album/2nJ1cTZcJxzAbjZXcnkHNJ) | 2:56 | 2022-06-08 |  |
 | [Kida](https://open.spotify.com/track/5kWDoxO6nZWPTaTEEXPcQW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [Kida](https://open.spotify.com/album/3mEltufWAiHRCDI2WvplCK) | 3:15 | 2022-03-03 | 2022-04-12 |
 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 | 2021-12-25 | 2022-06-23 |
-| [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2022-11-10 |  |
+| [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2022-11-10 | 2022-11-26 |
 | [L'Étranger](https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [L'Étranger](https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO) | 3:29 | 2022-10-07 |  |
 | [L3achrane](https://open.spotify.com/track/6KIFae9YNanPnknAvvvBeC) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [L3achrane](https://open.spotify.com/album/0EiCPSG40eNfA4DHZDN3nl) | 3:32 | 2022-01-07 | 2022-03-03 |
 | [La vie](https://open.spotify.com/track/6aI2dHYNpvnm4sNfVs4Bum) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [La vie](https://open.spotify.com/album/3Jip0bL2i2bNwT7CKq2HZE) | 3:18 | 2022-02-28 | 2022-06-17 |
@@ -104,7 +105,7 @@
 | [Lalla Laaroussa](https://open.spotify.com/track/2K1ua085l6TZjOlHidTadV) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Lalla Laaroussa](https://open.spotify.com/album/3D5kTPcdeB92udLWaLVPM9) | 3:32 | 2022-06-17 |  |
 | [Layli](https://open.spotify.com/track/0NEzzI7b58J8FVIk80VNgh) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:18 | 2021-12-25 | 2022-02-27 |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2021-12-25 | 2022-02-04 |
-| [Lbechra](https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Milo Häfliger](https://open.spotify.com/artist/6dmIQsOoChrgOZc6hveoHT), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:55 | 2022-11-23 |  |
+| [Lbechra](https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:55 | 2022-11-23 |  |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-09-12 |  |
 | [Li fate](https://open.spotify.com/track/1J2zExGwx6NLQVG47KExDK) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Li fate](https://open.spotify.com/album/6buA2U8XHPKRsut3IDiBki) | 3:50 | 2022-02-02 | 2022-06-10 |
 | [Lina](https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lina](https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo) | 2:15 | 2022-09-18 |  |
@@ -162,6 +163,7 @@
 | [Souwlo Dmou3i](https://open.spotify.com/track/5vQJ4pwYSJfbGvM0BT9VwL) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Souwlo Dmou3i](https://open.spotify.com/album/57fGQC1ZgxfQQdBEGPllJH) | 3:43 | 2021-12-25 | 2022-01-04 |
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2021-12-25 |  |
 | [Sunshine](https://open.spotify.com/track/4lYaOQtP4QO6ysz5o8SfrR) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Sunshine](https://open.spotify.com/album/6aZJlU67NdC6pWLcLBcXE5) | 3:53 | 2022-10-25 | 2022-11-10 |
+| [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-25 |  |
 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 | 2021-12-25 | 2022-02-15 |
 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 | 2021-12-25 | 2022-05-20 |
 | [WAHYA](https://open.spotify.com/track/1pJD9zWCzBBVZsGlv9UGo8) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [WAHYA](https://open.spotify.com/album/5SmEFZhrh7PTkDhNhM6zTP) | 2:22 | 2022-02-26 | 2022-03-18 |

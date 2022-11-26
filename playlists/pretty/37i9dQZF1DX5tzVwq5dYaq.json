@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55822,
+  "num_followers": 55820,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGE3YTA3YmIwZTkwODRhMzFmMWVhOGNjZjNjNzI4N2Rl",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGZhYzc3YmM2YWZhZDFlYTU4NWIwNWIyNzcwYjE5NTk2",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 170826,
       "name": "Galway Girl",
       "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -187,22 +187,18 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -223,18 +219,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "1.22.03 Acoustic",
-        "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "Sunday Morning - Acoustic",
-      "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "1.22.03 Acoustic",
+        "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "Sunday Morning - Acoustic",
+      "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "It's All Right",
-      "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "7 Layers",
         "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 268466,
       "name": "Home",
       "url": "https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "It's All Right",
+      "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Yael Na\u00efm",
-        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
-      },
-      "artists": [
-        {
-          "name": "Yael Naim",
-          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "New Soul",
-      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 200391,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Yael Na\u00efm",
+        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "New Soul",
+      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Diari Aperti",
         "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 220604,
       "name": "Vivere Tutte Le Vite - con Carl Brave",
       "url": "https://open.spotify.com/track/7l56nY7NMP1QDdWvRdJmmg"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
     },
     {
       "added_at": "2022-09-21 10:12:07",

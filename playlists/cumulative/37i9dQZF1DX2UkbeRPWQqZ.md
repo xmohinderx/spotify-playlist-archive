@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-138 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+144 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Baby Mine](https://open.spotify.com/track/3fslKNdkLriDaaAWPIUEiI) | [Dream Catch Band](https://open.spotify.com/artist/121TV3ynAWC4ZCnn2Szt0y) | [Baby Mine](https://open.spotify.com/album/6uH8gcAUOBcxcUR4ibk4dP) | 2:11 | 2022-10-14 |  |
 | [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 2:17 | 2021-11-11 | 2022-10-15 |
 | [Beautiful Dreamer](https://open.spotify.com/track/5CrrwOZ04sFgbpugWUVcQR) | [Jacks Box](https://open.spotify.com/artist/3TtwJYv05v0xwTnQAB5Zi0) | [Beautiful Dreamer](https://open.spotify.com/album/35vQOcP4r0KwpwsAJ3bh9T) | 1:38 | 2022-10-14 |  |
+| [Bedtime for Julie \- Guitar Version](https://open.spotify.com/track/26OXunNuaPYR2nW3GMeA9Z) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Bedtime for Julie \(Guitar Version\)](https://open.spotify.com/album/0KT0iv8VpEY45gsBUii8zM) | 2:03 | 2022-11-25 |  |
 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 | 2021-11-11 |  |
 | [Bedtimes Poems](https://open.spotify.com/track/6YpPCYMFLD5jU4lPptIRFF) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Bedtimes Poems](https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS) | 3:20 | 2022-06-10 |  |
 | [Bing Bong Song](https://open.spotify.com/track/7FNjRbEVcYgKVAtvGWeKjV) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Bing Bong Song](https://open.spotify.com/album/1ZJU0UL1r1yLihBg17hqq5) | 2:37 | 2022-08-11 |  |
@@ -50,6 +51,7 @@
 | [Doodle Day I Say Hey](https://open.spotify.com/track/2lCbRburWRvoWoJ7ax2hI4) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Doodle Day I Say Hey](https://open.spotify.com/album/1ksilsIko18Ctjf6iEvfy5) | 3:22 | 2021-11-11 |  |
 | [Down by the Salley Gardens \- Guitar Instrumental](https://open.spotify.com/track/4Snme5oNjpZp0IujKRtodX) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Guitar Lullabies: Music for Babies](https://open.spotify.com/album/1gW0NUlwmxK7YKNAF1TpDj) | 2:02 | 2021-11-11 | 2022-01-22 |
 | [Edelweiss](https://open.spotify.com/track/7aa9kUH7qZonH3URpYBZ5k) | [Sleepy Puppies](https://open.spotify.com/artist/2jAIiERKgjiqD2qRpAtii3) | [Edelweiss](https://open.spotify.com/album/4rjTw6MmyKd847DGoO36Pj) | 1:53 | 2022-10-14 |  |
+| [Every Day I Feel Your Blessing](https://open.spotify.com/track/7lWAjstkWLgI1EzGHz7gvB) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [Every Day I Feel Your Blessing](https://open.spotify.com/album/44oGQWPj4UIJeAv20o5ouE) | 2:55 | 2022-11-25 |  |
 | [Fade In To Dreams](https://open.spotify.com/track/4OB6kC727SMiIxVlN8iGQI) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [Fade In To Dreams](https://open.spotify.com/album/5w8IVZyRXJayO37WcljsvO) | 2:56 | 2021-11-11 |  |
 | [Farmer in the Dell](https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7) | [Olga Reus](https://open.spotify.com/artist/2vbW8tMHXQpmhNiNsazxMq) | [Farmer in the Dell](https://open.spotify.com/album/6UPoPdeZSzSzshXq6MySPV) | 1:17 | 2021-11-11 |  |
 | [Feathers](https://open.spotify.com/track/1e1Mm7eqfM9gUphsLADBDj) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Feathers](https://open.spotify.com/album/6VQ4YVvFlaavpopygw9eqz) | 1:17 | 2021-11-11 |  |
@@ -72,6 +74,7 @@
 | [Hush Little Baby](https://open.spotify.com/track/6dugEik4VDbYV5TNRIElnj) | [Celeste Knight](https://open.spotify.com/artist/1UgS4sDHUIYMiwbzV2LkXl) | [Hush Little Baby](https://open.spotify.com/album/5TKlJrkT8ZN64kGMWx7SSm) | 1:38 | 2021-11-11 |  |
 | [Hust Little Baby](https://open.spotify.com/track/2zaWE5lNjsZzJEoD3yWGeH) | [Troll Woods](https://open.spotify.com/artist/5KXlJyBOkWpXv4lO68O0CA) | [Hush Little Baby](https://open.spotify.com/album/4mlJZVv6tIvpv8Ct09i2nM) | 2:09 | 2021-11-11 |  |
 | [I Stay Until You Sleep](https://open.spotify.com/track/4RbBxl2t2gLPcs465yX4pP) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [I Stay Until You Sleep](https://open.spotify.com/album/137c1tSYODEXlIFdAOebp3) | 4:02 | 2021-11-11 |  |
+| [I trollskogen](https://open.spotify.com/track/5kz2PDCQ8kTkSyT3jhZdn8) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [I trollskogen](https://open.spotify.com/album/1vC9LVXA3ifzigFY332i0q) | 1:37 | 2022-11-25 |  |
 | [I'm Just Happy You Are Here](https://open.spotify.com/track/5THYwLZSyxQmriI7TQiXG7) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [I'm Just Happy You Are Here](https://open.spotify.com/album/1FnVNnpr8Cdl7iFODCWoc4) | 2:25 | 2021-11-11 |  |
 | [If You're Happy and You Know It](https://open.spotify.com/track/5r9A6XkKEjazT4A0PhXgiy) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [If You're Happy and You Know It](https://open.spotify.com/album/2SYzk7ikiP4f2hPLtnnafR) | 2:06 | 2021-11-11 |  |
 | [Imse vimse spindel](https://open.spotify.com/track/4QNvxfmjIWKhNR5MEIMow2) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Bedtime Lullabies](https://open.spotify.com/album/0VLjmHAqOa6R1pv7MttzLL) | 1:29 | 2021-11-11 |  |
@@ -89,6 +92,7 @@
 | [Lovely Nights](https://open.spotify.com/track/5j0DGm5INBjsEAAFKq8zHd) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Bedtimes Poems](https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS) | 3:14 | 2022-06-10 |  |
 | [Lullaby For My Baby](https://open.spotify.com/track/3YBI07hmxDM28KhbFne2L0) | [Leo Sen](https://open.spotify.com/artist/1oLjdeWKZatIatSZaWwnHr) | [Lullaby For My Baby](https://open.spotify.com/album/4qHIcljCu2PnqRIZf9UYBI) | 2:14 | 2021-11-11 |  |
 | [Lullabye and Goodnight](https://open.spotify.com/track/37c65lzhL7mlZanbzgo1eY) | [Jeremy Weber](https://open.spotify.com/artist/5kG2I7kJM2vgorcUBEmdQX) | [Guitar Lullabies](https://open.spotify.com/album/1RYmiB1F57bwA1CYhOctwu) | 1:58 | 2021-11-11 | 2022-01-22 |
+| [Mandy's Song \- Guitar Version](https://open.spotify.com/track/0KomfDHKjVqexfCnVfiu07) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Mandy's Song \(Guitar Version\)](https://open.spotify.com/album/2Td1CuNdeqzmma0FNTjM1f) | 1:50 | 2022-11-25 |  |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/27kM35PshaBwZOIydcAX2v) | [The Singing Guitar](https://open.spotify.com/artist/4HuZFgsc8Y4blxFSzwNTWF) | [Lullabies](https://open.spotify.com/album/6Mk6zRNF5DNBoUo1b8lxpW) | 1:28 | 2021-11-11 |  |
 | [Måne och sol](https://open.spotify.com/track/581iZrDptObqVHR5Yo5nFp) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 1:55 | 2021-11-11 |  |
 | [Me and Teddy](https://open.spotify.com/track/4pLSsRwuJetD2G3H480CqZ) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Me and Teddy](https://open.spotify.com/album/1OwCOuuu7KRLbsA9h1AHtx) | 2:34 | 2022-09-02 |  |
@@ -117,6 +121,7 @@
 | [Sleep Birdie Sleep](https://open.spotify.com/track/42zVKfVVXZpW9cFkNUAsi1) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleep Birdie Sleep](https://open.spotify.com/album/2Pu9LPjvHdG5BxArbqZLNe) | 2:08 | 2022-09-02 |  |
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2021-11-11 |  |
 | [Sleep You Little Videyoung](https://open.spotify.com/track/6AmhUIvNyevwaoy2D73OxJ) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Musica Di Bambino](https://open.spotify.com/album/6sTdjqRsLtroU8vM8CswYg) | 2:57 | 2021-11-11 |  |
+| [Sleepy times](https://open.spotify.com/track/4e1OHtiK4WiYF3P4yIqWye) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Sleepy times](https://open.spotify.com/album/3mk8LC5Nh8TicpfM5N69K0) | 1:13 | 2022-11-25 |  |
 | [So Many Stars](https://open.spotify.com/track/54Mmafmblu61obktO4hibb) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 2:55 | 2022-06-10 |  |
 | [Sov godt trollet mitt](https://open.spotify.com/track/5n03A1PL8EYrVwGmtG9glK) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sov godt trollet mitt](https://open.spotify.com/album/5xO1UYpDwxtRkanELdS61x) | 1:30 | 2021-11-11 |  |
 | [Stars at Night](https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF) | [3rd Street Guitar](https://open.spotify.com/artist/2A7EWzNXsSbpTOpw8NvUhF) | [Stars at Night](https://open.spotify.com/album/3MQuWn9w5Vqv0AjrLNnsCP) | 1:42 | 2021-11-11 |  |
@@ -124,6 +129,7 @@
 | [Take Me Out to the Ballgame](https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 2:17 | 2021-11-11 |  |
 | [Tell Me That Fairytale](https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Tell Me That Fairytale](https://open.spotify.com/album/2eUgSKZJ3FbJwdWn9VVHoj) | 3:24 | 2021-11-11 |  |
 | [The Alphabet Song](https://open.spotify.com/track/4jC3Br8424Yo1osvBFz2Uk) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [The Alphabet Song](https://open.spotify.com/album/6D9RadQxBDICkOjjMq8Mf3) | 1:42 | 2021-11-11 |  |
+| [The Happy Cow](https://open.spotify.com/track/776scT1OUEP6QU4y12h2I9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [The Happy Cow](https://open.spotify.com/album/4k0299IUMcTh6dxgAKKDmO) | 2:37 | 2022-11-25 |  |
 | [The More We Get Together](https://open.spotify.com/track/7wGPXZCuXokL9AsePKRgSk) | [Selena Hyman](https://open.spotify.com/artist/3bO3gS583licdyam4CyuyU) | [Star Light, Star Bright](https://open.spotify.com/album/3Jzemp5ff1ZqK4oCNmb7ov) | 1:45 | 2021-11-11 |  |
 | [The Mulberry Bush](https://open.spotify.com/track/65ZQlJKi1oIDqqwSIwx1Jj) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 1:48 | 2021-11-11 |  |
 | [The Priest's Little Crow](https://open.spotify.com/track/6YWfwQi9Hh8LDi8zAurFdk) | [Stina\-Liv Nilsson](https://open.spotify.com/artist/7tbXwiB9QwEyTcuc8vSDrV) | [The Priest's Little Crow](https://open.spotify.com/album/5Df0YMOxZOIoqJdv9tQIN1) | 3:00 | 2022-09-22 |  |

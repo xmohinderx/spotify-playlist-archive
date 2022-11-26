@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,905 likes - 80 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,120 likes - 80 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 23 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
 | 24 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 |
 | 25 | [The Safety Dance \- Extended Dance Version](https://open.spotify.com/track/2IqPRjJAcLvPqAEbnB2VJz) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm Of Youth \(Expanded Edition\)](https://open.spotify.com/album/7EpYnc9mbn4dwQE7B9nnfz) | 4:38 |
-| 26 | [Something About You](https://open.spotify.com/track/77NwdlKUIMS3gvvJeO5KK1) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [World Machine](https://open.spotify.com/album/7E05Yq9NLJ6XtmTSI34qkN) | 4:25 |
-| 27 | [Music and Lights](https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 5:22 |
+| 26 | [Music and Lights](https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 5:22 |
+| 27 | [Something About You](https://open.spotify.com/track/77NwdlKUIMS3gvvJeO5KK1) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [World Machine](https://open.spotify.com/album/7E05Yq9NLJ6XtmTSI34qkN) | 4:25 |
 | 28 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 | 29 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
 | 30 | [Japanese Boy](https://open.spotify.com/track/4VmmNHz5nigftA0B3GR0M5) | [Aneka](https://open.spotify.com/artist/2IGQyVitQXADoOSROGLNJy) | [Aneka](https://open.spotify.com/album/6lEiLRQ83Fqmk9QstZIOW0) | 3:57 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 38 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 |
 | 39 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |
 | 40 | [I Can Lose My Heart Tonight \- Maxi\-Version](https://open.spotify.com/track/1QdAjfmZ41ObR6cnacTIXh) | [C.C\. Catch](https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq) | [The 80's Album](https://open.spotify.com/album/0w7QO2jTbvXsNQC18EZLQZ) | 5:52 |
-| 41 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 |
-| 42 | [Heart Of Glass \- Remix](https://open.spotify.com/track/5Q8SPijJts3lV4fcmCrZXp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Once More Into The Bleach](https://open.spotify.com/album/3KqhlIxtnXfWJfi445kI8X) | 5:51 |
+| 41 | [Heart Of Glass \- Remix](https://open.spotify.com/track/5Q8SPijJts3lV4fcmCrZXp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Once More Into The Bleach](https://open.spotify.com/album/3KqhlIxtnXfWJfi445kI8X) | 5:51 |
+| 42 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 |
 | 43 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
 | 44 | [Domino Dancing \- 2018 Remaster](https://open.spotify.com/track/6ZT1v8YUeFN8n587DvzZXl) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 7:40 |
 | 45 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Pulstar](https://open.spotify.com/track/617Q6rtyEGRhWGCPRYFs1x) | [Hypnosis](https://open.spotify.com/artist/7GlFV8o2NCkvCu29FMZkUb) | [80s Hit News](https://open.spotify.com/album/5nROXEanX68PMIOLdAw91D) | 3:49 |
 | 80 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
 
-Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMDQ2MDllMmMyMDZiNWVjNDFmODBlMWRlY2YxZWQ0ODE3`
+Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMDM0YTFjYzJjYmU0ZjdmNmFmMjM0NjNkYjMzZTMyMGRk`

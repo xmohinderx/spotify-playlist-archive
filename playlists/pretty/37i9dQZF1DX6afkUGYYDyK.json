@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 14359,
+  "num_followers": 14411,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDEyNDdhZmUxOThkOWU4OTU0ZDM1ZjEwZTVhMTgxN2Q3",
+  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMGZkMDY2YzNmYWY2NWI0ZjRiMGZiYWRhOThmODE5MmIw",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Give Thanks & Praises",
+      "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "The Essential Hezekiah Walker",
         "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 415640,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Be Glad",
-        "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 299658,
-      "name": "Be Glad",
-      "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -179,34 +179,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+        "name": "Be Glad",
+        "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Give Thanks & Praises",
-      "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "How Good of God",
-        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 164632,
-      "name": "How Good of God",
-      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
+      "duration_ms": 299658,
+      "name": "Be Glad",
+      "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -231,6 +215,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "How Good of God",
+        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 164632,
+      "name": "How Good of God",
+      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "I Need You Now",
-        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "Still Say Thank You",
-      "url": "https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "I Need You Now",
+        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "Still Say Thank You",
+      "url": "https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 221173,
       "name": "And You Don't Stop",
       "url": "https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -367,6 +383,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thank You (Famine Or Feast)",
         "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
       },
@@ -407,22 +439,6 @@
       "duration_ms": 256437,
       "name": "God of the Ages - Single Version - Live",
       "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -483,18 +499,34 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+        "name": "Give Thanks (Live)",
+        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+      "duration_ms": 254426,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thank You Lord (Live)",
+        "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 296179,
+      "name": "Thank You Lord - Live",
+      "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -527,38 +559,6 @@
       "duration_ms": 239932,
       "name": "At This Table",
       "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Give Thanks (Live)",
-        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        }
-      ],
-      "duration_ms": 254426,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thank You Lord (Live)",
-        "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 296179,
-      "name": "Thank You Lord - Live",
-      "url": "https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq"
       },
@@ -643,6 +659,22 @@
       "duration_ms": 327000,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
+        "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "My Tribute",
+      "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -679,22 +711,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
-        "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 217786,
-      "name": "My Tribute",
-      "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thank God!",
         "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 142151,
       "name": "Thank God!",
       "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Live in Chicago",
-        "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
-      },
-      "artists": [
-        {
-          "name": "Vincent Bohanan & SOV",
-          "url": "https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk"
-        }
-      ],
-      "duration_ms": 329824,
-      "name": "Oh Give Thanks - Live",
-      "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Spirit Of David",
         "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 295306,
       "name": "Oh Give Thanks (Psalm 136)",
       "url": "https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Live in Chicago",
+        "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
+      },
+      "artists": [
+        {
+          "name": "Vincent Bohanan & SOV",
+          "url": "https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk"
+        }
+      ],
+      "duration_ms": 329824,
+      "name": "Oh Give Thanks - Live",
+      "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Words & Music: John Mellencamp's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "I Won't Forget",
         "url": "https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 521973,
       "name": "I Won't Forget (Live)",
       "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Words & Music: John Mellencamp's Greatest Hits",
-        "url": "https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG"
     },
     {
       "added_at": "2022-11-23 15:01:23",

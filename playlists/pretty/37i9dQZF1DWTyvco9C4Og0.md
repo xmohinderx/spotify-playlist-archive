@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,628 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,010 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 93 | [Ases y Tercia de Reyes](https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 1:54 |
 | 94 | [Ya Lo Superé](https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Lo Superé](https://open.spotify.com/album/2N2i8N1tAzeghEYR0Shgbp) | 3:24 |
 | 95 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
-| 96 | [Otra Borrachera \- Versión Mariachi](https://open.spotify.com/track/5ow3HQPqKlD3UdqNslfU9T) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd) | 2:17 |
-| 97 | [Media Vuelta](https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Mexicanisimo](https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj) | 2:11 |
+| 96 | [Media Vuelta](https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Mexicanisimo](https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj) | 2:11 |
+| 97 | [Otra Borrachera \- Versión Mariachi](https://open.spotify.com/track/5ow3HQPqKlD3UdqNslfU9T) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd) | 2:17 |
 | 98 | [Cucurrucucu Paloma](https://open.spotify.com/track/5VTlMAQ0x9EdDyehNQor8D) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p), [Mariachi Guadalajara De Silvestre Vargas](https://open.spotify.com/artist/4nAScEAjSATCbdeccIftls) | [Canciones Populares](https://open.spotify.com/album/6mTzA7zGzLhmYSQycC8f09) | 3:15 |
 | 99 | [Desde Que Llegaste](https://open.spotify.com/track/2Eg0Cg1vWx6URPbEAuUJIh) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Desde Que Llegaste](https://open.spotify.com/album/2pj6a8DjAlEYpndmS85YVa) | 3:21 |
 | 100 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 
-Snapshot ID: `MTY2ODU0NzgxOSwwMDAwMDAwMDYzYzVkMGU2NDRlYWVjYzgxOTJhMjAwNGIzZDIzYmY1`
+Snapshot ID: `MTY2ODU0NzgxOSwwMDAwMDAwMDJhNzQwYmMyZDhiOTZjYzk4ZjBhMGE1YTg0ZWRjODBm`

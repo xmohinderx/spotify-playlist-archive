@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 263652,
+  "num_followers": 263638,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDMwYmUzODMxMzQzZDkyZjM3YTllNWRjYjU3ZGZhM2E4",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGQ3NDFmMDcyNjNhNDFkOTYyMGE5MDE5MjRmNjlhZDg3",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "Cigarette Daydreams",
-      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The New Abnormal",
         "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
       },
@@ -155,18 +139,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
       "artists": [
         {
-          "name": "Grouplove",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 208760,
+      "name": "Cigarette Daydreams",
+      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -183,6 +167,22 @@
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "ARIZONA BABY",
         "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 323253,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Here Comes Everybody",
+        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Lots of Nothing",
+      "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Canary Islands",
         "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Here Comes Everybody",
-        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Lots of Nothing",
-      "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "The Yearbook",
         "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Foolish Loving Spaces (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 161293,
       "name": "Your Girlfriend",
       "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 160257,
       "name": "Your Life Your Time",
       "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 170386,
-      "name": "Alpha Zulu",
-      "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 170386,
+      "name": "Alpha Zulu",
+      "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 137307,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Acting My Age",
         "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 222312,
       "name": "Acting My Age",
       "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 137307,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Taking Over The Sun",
-        "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 229113,
-      "name": "Taking Over The Sun",
-      "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Hi-Fidelity",
         "url": "https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Taking Over The Sun",
+        "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 229113,
+      "name": "Taking Over The Sun",
+      "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Young Chasers",
-        "url": "https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 196562,
       "name": "Woo!",
       "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Young Chasers",
+        "url": "https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "You Lose!",
-      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Sending Me Ur Loving",
         "url": "https://open.spotify.com/album/4JUcT1r5eSr0B8jhuibVJ1"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 253940,
       "name": "Sending Me Ur Loving",
       "url": "https://open.spotify.com/track/1QwhWld3yDy65MJCeBelCp"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "You Lose!",
+      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
     },
     {
       "added_at": "2022-08-25 23:00:00",

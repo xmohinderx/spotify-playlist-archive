@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,874 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,876 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 7 | [Cuatro Caminos](https://open.spotify.com/track/5e6sA4oUXLg7RDAgzMrpxr) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Cuatro Caminos](https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE) | 4:00 |
 | 8 | [Que Mentira](https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L) | [Zenzio](https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg) | [Historias](https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI) | 2:55 |
 | 9 | [Tú Y Yo](https://open.spotify.com/track/36TiDvL5RmBeUs3W7Hh8Pr) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC), [Roxane Perez](https://open.spotify.com/artist/35fvVqewj6umjnkCVNzV6V) | [El Maestro](https://open.spotify.com/album/6mqGvKuHLqYoAoCSMLkHj2) | 3:58 |
-| 10 | [Me AventaronTus Brazos](https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6) | [Magnifico 7](https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm) | [Me AventaronTus Brazos](https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U) | 3:08 |
-| 11 | [El Amuleto](https://open.spotify.com/track/686Fy8OcDeIuLSrojeDRdB) | [Stevie D](https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc) | [Estamos Unidos](https://open.spotify.com/album/7bNQ2cpz0PmfR7lQLskJrE) | 3:12 |
+| 10 | [El Amuleto](https://open.spotify.com/track/686Fy8OcDeIuLSrojeDRdB) | [Stevie D](https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc) | [Estamos Unidos](https://open.spotify.com/album/7bNQ2cpz0PmfR7lQLskJrE) | 3:12 |
+| 11 | [Me AventaronTus Brazos](https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6) | [Magnifico 7](https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm) | [Me AventaronTus Brazos](https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U) | 3:08 |
 | 12 | [No Me Mires Así](https://open.spotify.com/track/0gikv397tFOxDdS3LvniqN) | [Isabel Marie](https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89) | [No Me Mires Así](https://open.spotify.com/album/56XSJKrTtu8k5SfKTlHI2z) | 3:05 |
 | 13 | [Completamente Enamorados](https://open.spotify.com/track/1BlB8hz7J2RWgfyfPb56IH) | [Texas Latino](https://open.spotify.com/artist/4kPRMVSvX8w6G8bNIOLDaa) | [Fe](https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4) | 2:21 |
 | 14 | [Y Sigues Siendo Tu](https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa) | [Adrian Gutierrez](https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic) | [Y Sigues Siendo Tu](https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ) | 3:10 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 18 | [Nunca Voy A Olvidarte \- Radio Mix](https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW) | [Los Lost Boyz](https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K) | [Nunca Voy A Olvidarte \(Radio Mix\)](https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9) | 3:18 |
 | 19 | [Paloma Sin Nido](https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW) | [Nightlife](https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8) | [On the Same Track](https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K) | 3:31 |
 | 20 | [Por Fin Decidí](https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL) | [South TX Homies](https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq) | [Por Fin Decidí](https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl) | 3:14 |
-| 21 | [Soñar Contigo](https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ) | [Cris Medina](https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx) | [Soñar Contigo](https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab) | 2:56 |
-| 22 | [Así Fue](https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Así Fue](https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf) | 4:43 |
+| 21 | [Así Fue](https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Así Fue](https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf) | 4:43 |
+| 22 | [Soñar Contigo](https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ) | [Cris Medina](https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx) | [Soñar Contigo](https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab) | 2:56 |
 | 23 | [Quedate](https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7) | [Frankie Caballero Jr](https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR) | [Quedate](https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb) | 2:59 |
 | 24 | [After Party](https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts) | [Sunny Sauceda Y Todo Eso](https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP) | [After Party](https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW) | 3:51 |
 | 25 | [Me Decías](https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov) | [Sonja De La Paz](https://open.spotify.com/artist/4Z8RA77GGwuKlmpv5pLhR3), [Veno Mona](https://open.spotify.com/artist/37IPrPpo8zMf7SZ0qpMJpL) | [Me Decías](https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ) | 3:17 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 34 | [Me Enamoré de un Ángel](https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Me Enamoré de un Ángel](https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3) | 4:11 |
 | 35 | [Nunca Fuiste Mio](https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50) | [Girls Night](https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM) | 3:28 |
 | 36 | [Escapate](https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq) | [Mia](https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5) | [Escapate](https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c) | 3:05 |
-| 37 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 |
-| 38 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
-| 39 | [No Quiero Nada](https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq) | [Número Dos](https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07) | 3:12 |
-| 40 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 |
+| 37 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
+| 38 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 |
+| 39 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 |
+| 40 | [No Quiero Nada](https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq) | [Número Dos](https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07) | 3:12 |
 | 41 | [No Soy La Misma](https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ) | [Magali Delarosa](https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc) | [No Soy La Misma](https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8) | 3:44 |
-| 42 | [Mentiras](https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6) | [Lydia Castillo](https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs) | [Mentiras](https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu) | 3:40 |
-| 43 | [Porque Sera](https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Porque Sera](https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L) | 3:47 |
+| 42 | [Porque Sera](https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Porque Sera](https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L) | 3:47 |
+| 43 | [Mentiras](https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6) | [Lydia Castillo](https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs) | [Mentiras](https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu) | 3:40 |
 | 44 | [Entre El Frio Y El Calor](https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e) | [Andie](https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT) | [Entre El Frio Y El Calor](https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb) | 3:35 |
 | 45 | [Mentias](https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK) | [Brooke T](https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ) | [Mentias](https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv) | 3:19 |
 | 46 | [Desastre Natural](https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ) | [Nacido](https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5) | [Desastre Natural](https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 49 | [El Besito](https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24) | [Laura Linda](https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K) | [El Besito](https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK) | 3:00 |
 | 50 | [Un Día Veras](https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV) | [Grupo Daño](https://open.spotify.com/artist/1MB82Th55brI9PDoanCs9k), [Rene De la Cerda](https://open.spotify.com/artist/1U5bYBgPSlRchxFEWTtlAl) | [Un Día Veras](https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9) | 3:47 |
 
-Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMDM2NjU1MGY0ZjkzZmEzYzNkNWUzMzY4MmY4OTcyNmQ3`
+Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMGJhZmU0OGQzYzQ1MThkZGY0ZmQ2NjA2MGNhMmRmMjQ5`

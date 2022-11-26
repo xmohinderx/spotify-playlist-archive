@@ -4,7 +4,7 @@
 
 > Prendete con tu lista favorita de Dembow\. Foto: El Alfa
 
-310 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
+311 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Guayabu](https://open.spotify.com/track/4ham8pWNaq8hCNtBXcQSiB) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Guayabu](https://open.spotify.com/album/28jJ2OiH7kFlUU2ILwDCmH) | 3:02 | 2021-12-10 | 2022-07-28 |
 | [Guayabu](https://open.spotify.com/track/44od1fdb17U2rdvfGYJY68) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Guayabu](https://open.spotify.com/album/0ir4DHfH1beyncktC1fS9F) | 3:02 | 2022-11-21 |  |
 | [Hablo](https://open.spotify.com/track/0yoWG7P5ViDLDcT5RjfEFR) | [Atuedad Va Segui](https://open.spotify.com/artist/2gmxjDsylLO5gWBeOBuO16), [Choco el Artista](https://open.spotify.com/artist/3S8gReptl7Q0T0f9ODyNZk) | [Hablo](https://open.spotify.com/album/202rIIguv3yFFpj9Hnkm8V) | 2:00 | 2022-01-04 | 2022-07-20 |
-| [Hoy Amanecemos](https://open.spotify.com/track/5puUDk4F0Kn0pAK9Y00X3j) | [Jaudy](https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Hoy Amanecemos](https://open.spotify.com/album/5rPuiSwNfnvnpo17RamHcI) | 2:43 | 2022-05-28 |  |
+| [Hoy Amanecemos](https://open.spotify.com/track/5puUDk4F0Kn0pAK9Y00X3j) | [Jaudy](https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Hoy Amanecemos](https://open.spotify.com/album/5rPuiSwNfnvnpo17RamHcI) | 2:43 | 2022-05-28 | 2022-11-26 |
 | [Hoy Me Desacato](https://open.spotify.com/track/7AjhX1xGxAaaogwOchMGU0) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Hoy Me Desacato](https://open.spotify.com/album/6ekcchj3Ew41C1Szv3rJE5) | 2:42 | 2021-12-10 | 2022-07-29 |
 | [Hoy Me Desacato Dale Pipo](https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Hoy Me Desacato Dale Pipo](https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn) | 2:42 | 2022-11-21 |  |
 | [Humo \- Remix](https://open.spotify.com/track/0uwmNfJDOgKoCm6xZGijhh) | [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [La Libreta](https://open.spotify.com/album/09g0zjpbw9hYlpZPLDrXzj) | 3:40 | 2021-12-10 | 2022-07-26 |
@@ -180,6 +180,7 @@
 | [Me Desacate & Prendi](https://open.spotify.com/track/7rbm01DKKYOustL7IJK7F8) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Me Desacate & Prendi](https://open.spotify.com/album/2tat3WQKWA5Wb7ZcUsGSEr) | 2:47 | 2021-12-10 | 2022-07-22 |
 | [Me Hace Falta](https://open.spotify.com/track/2vxzGIhlnYI01Crj22uTdA) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Hace Falta](https://open.spotify.com/album/51VSHnV0c3CxMBbK4E92dc) | 3:01 | 2021-12-10 | 2022-07-27 |
 | [Me Hace Falta](https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Hace Falta](https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO) | 3:01 | 2022-05-28 |  |
+| [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 | 2022-11-25 |  |
 | [Me Subo Arriba](https://open.spotify.com/track/0rmJCeOoTH673NPxw4CiqM) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu) | [Me Subo Arriba](https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT) | 3:28 | 2021-12-10 |  |
 | [Me Tienen Dema \(Golo Golo\)](https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru) | [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc) | [Exitos](https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ) | 3:19 | 2021-12-10 |  |
 | [melacomo](https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [melacomo](https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK) | 3:48 | 2022-08-19 |  |

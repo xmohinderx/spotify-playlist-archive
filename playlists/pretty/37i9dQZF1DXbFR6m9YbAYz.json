@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 12431,
+  "num_followers": 12571,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDhiY2E5NDQ2Zjc5ZWI2ZjRmOTk4ZTMxNDJkZmYxNGY2",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDczZjIyNTI2NzMyMmNmYTFjMThiYjFmMzE1MjY3OTMy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Dirt Road Anthem",
-      "url": "https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 203173,
       "name": "Knee Deep (feat. Jimmy Buffett)",
       "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Dirt Road Anthem",
+      "url": "https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+      "duration_ms": 262773,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Cowboy Like Me",
-        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 156200,
-      "name": "Me and My Kind",
-      "url": "https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z"
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -823,6 +823,22 @@
       "duration_ms": 208960,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Cowboy Like Me",
+        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Me and My Kind",
+      "url": "https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -855,22 +871,6 @@
       "duration_ms": 167426,
       "name": "Barefoot Blue Jean Night",
       "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "JEKYLL + HYDE",
         "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 205000,
       "name": "Homegrown",
       "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
     },
     {
       "added_at": "2022-08-12 04:01:00",

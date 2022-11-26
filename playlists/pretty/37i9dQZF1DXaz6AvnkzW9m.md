@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 LOS MUCHACHOS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,230 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,329 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 43 | [La Purga](https://open.spotify.com/track/6kWuL8LVGdTpFLBAdzlnvl) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [La Purga](https://open.spotify.com/album/1YSZYtX0wvEtI6Duhjl75V) | 3:51 |
 | 44 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
 | 45 | [18 Libras](https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 3:05 |
-| 46 | [De Periódico Un Gallito](https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:17 |
+| 46 | [El Afro \(En Vivo\)](https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes \(En Vivo\)](https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r) | 2:52 |
 | 47 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 |
 | 48 | [Si Respetan, Respeto](https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si Respetan, Respeto](https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi) | 3:36 |
 | 49 | [Culon y Medio](https://open.spotify.com/track/77eIFriAVgrCYshgQMYXC1) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Culon y Medio](https://open.spotify.com/album/0Ss8cCDMszxtrvcozbvgQ9) | 2:39 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 52 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 |
 | 53 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 |
 | 54 | [Mi Última Venganza](https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Mi Última Venganza](https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm) | 3:33 |
-| 55 | [El Afro \(En Vivo\)](https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes \(En Vivo\)](https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r) | 2:52 |
+| 55 | [De Periódico Un Gallito](https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:17 |
 | 56 | [Seguimos Más Fuertes](https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:20 |
 | 57 | [Bien Motivados](https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Bien Motivados](https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd) | 2:52 |
 | 58 | [Maryjane y Blancanieves](https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [Modo Vuelo](https://open.spotify.com/track/0uqNJ3WdaFNHt4KOsK5o5k) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Modo Vuelo](https://open.spotify.com/album/7CVOUsa2OugJkofhEFQUw6) | 3:11 |
 | 75 | [De A De Veras](https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De A De Veras](https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV) | 3:42 |
 
-Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMGRhZjkxZmM0ZmQ4ZDU0YzMzMmI4ODEzZDgyODUyYzdh`
+Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMDcwM2Q1N2M5YTcyYmE2MGQxY2U2MDJjZjEwZDU3MDM0`

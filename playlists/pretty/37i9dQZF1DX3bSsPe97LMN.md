@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Beto Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,970 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,028 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 44 | [Sombrero Vaquero](https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA) | [GOHN](https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W) | [Sombrero Vaquero](https://open.spotify.com/album/5tvRh6JRYFbFauFFDiSz67) | 3:29 |
 | 45 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 |
 | 46 | [Era Mia](https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Era Mia](https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI) | 3:46 |
-| 47 | [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 |
+| 47 | [2A](https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Niño De Oro \(Deluxe Version\)](https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz) | 3:17 |
 | 48 | [El Gallo Fino](https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Gallo Fino](https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V) | 3:06 |
-| 49 | [2A](https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Niño De Oro \(Deluxe Version\)](https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz) | 3:17 |
+| 49 | [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 |
 | 50 | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU) | 2:58 |
 | 51 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
 | 52 | [Fuga](https://open.spotify.com/track/7EPYXn0AsffG3qcjCohHit) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Fuga](https://open.spotify.com/album/4eky7dCgnmnMB5qsfnX2JB) | 2:44 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 59 | [Otra Oportunidad](https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Otra Oportunidad](https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK) | 2:23 |
 | 60 | [Santa Mota](https://open.spotify.com/track/3nUoQgpEy0q2e01FvVa7IW) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5) | [Santa Mota \(En Vivo\)](https://open.spotify.com/album/4gZDZx4fVRYgUCnpJVBl9o) | 4:13 |
 | 61 | [1942](https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [1942](https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb) | 2:18 |
-| 62 | [Y Sigo Ciendo el Perro](https://open.spotify.com/track/57nfgIlZNskOJezJBPKAEw) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Y Sigo Ciendo el Perro](https://open.spotify.com/album/5rmqwYeEouXAu6QWffDbex) | 3:09 |
-| 63 | [Tiro Veneno](https://open.spotify.com/track/6NQOzi65xjcVERfKrMec9k) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Tiro Veneno](https://open.spotify.com/album/5rtWkKgMUeAHiBtYU14B9L) | 2:41 |
-| 64 | [Sueño Americano](https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Sueño Americano](https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq) | 2:14 |
-| 65 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 |
+| 62 | [Tiro Veneno](https://open.spotify.com/track/6NQOzi65xjcVERfKrMec9k) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Tiro Veneno](https://open.spotify.com/album/5rtWkKgMUeAHiBtYU14B9L) | 2:41 |
+| 63 | [Y Sigo Ciendo el Perro](https://open.spotify.com/track/57nfgIlZNskOJezJBPKAEw) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Y Sigo Ciendo el Perro](https://open.spotify.com/album/5rmqwYeEouXAu6QWffDbex) | 3:09 |
+| 64 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 |
+| 65 | [Sueño Americano](https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Sueño Americano](https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq) | 2:14 |
 | 66 | [Quién Como Ella](https://open.spotify.com/track/34IPKpDvkxraMK2roBo2O7) | [Elebier Lopez](https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r) | [Quién Como Ella](https://open.spotify.com/album/4dpn4WmpnHdo68TfbZaQsA) | 1:59 |
 | 67 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 |
 | 68 | [Otra Ronda](https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Otra Ronda](https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Bloqueado](https://open.spotify.com/track/31u0xddM70KxFebPyLawpR) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Bloqueado](https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb) | 3:01 |
 | 75 | [Bella Mujer](https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Bella Mujer](https://open.spotify.com/album/7AyFGqdzc3zqoW68XI8SA3) | 2:26 |
 
-Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMDJmNGI5YTcwODFkODg5NmU4YjgwNTk2NDBjN2NhMGQ1`
+Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMDNmYTFiMDUzZThkOTljZWVjNTYzZGJhOGMyNjEyYjNh`

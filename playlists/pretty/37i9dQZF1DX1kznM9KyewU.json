@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1990s.",
-  "num_followers": 59293,
+  "num_followers": 59328,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMTU2MSwwMDAwMDAwMGFjOTFmMDZiNWE0ZWRhMWJmNjY0OGE0NjBhMGE3NTMy",
+  "snapshot_id": "MTY2ODcwMTU2MSwwMDAwMDAwMDI4NzM4ZmE0MjBhMTkxODg4ZjIwNGExNDE3ODUyYTAz",
   "tracks": [
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "You Learn - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Gorgeous George",
         "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
       },
@@ -1055,18 +1039,34 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Adore (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz"
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Ava Adore",
-      "url": "https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6"
+      "duration_ms": 239640,
+      "name": "You Learn - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+        "name": "Adore (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
+      "duration_ms": 270893,
+      "name": "Ava Adore",
+      "url": "https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6"
     },
     {
       "added_at": "2022-11-17 16:12:41",

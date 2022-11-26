@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Cassiane, Midian Lima
 
-98 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/2TO2MpzJje9bKw3Lpv5pLG)
+99 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/2TO2MpzJje9bKw3Lpv5pLG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt) | 4:17 | 2022-09-09 |  |
 | [Quem é Você](https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Quem é Você](https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX) | 4:00 | 2022-09-09 |  |
 | [Quero\-Quero](https://open.spotify.com/track/3qPQ2dkC5GQDAd2QoMHDTj) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Quero\-Quero](https://open.spotify.com/album/3sILMSaEy2PrXPhwAwizTf) | 5:37 | 2022-09-09 | 2022-10-08 |
-| [Respire Fundo](https://open.spotify.com/track/1tWh1QYyjOE1du04qRuM4n) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Respire Fundo](https://open.spotify.com/album/7LXBZsXpFrJVEzeLfMFYmW) | 5:04 | 2022-09-09 |  |
+| [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 | 2022-11-26 |  |
+| [Respire Fundo](https://open.spotify.com/track/1tWh1QYyjOE1du04qRuM4n) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Respire Fundo](https://open.spotify.com/album/7LXBZsXpFrJVEzeLfMFYmW) | 5:04 | 2022-09-09 | 2022-11-26 |
 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 | 2022-10-28 |  |
 | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7) | 4:27 | 2022-09-09 |  |
 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 | 2022-10-15 |  |

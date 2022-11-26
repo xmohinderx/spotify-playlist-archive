@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 14834,
+  "num_followers": 14870,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDdiODk3NDhhYmE4NDAyNDRiNDZiZjAzNmE5Y2NmOTg3",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDZmYmE2ODA2OTNkZGVjMTM1MjgxODAzN2Y2ODcwZjMx",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 250182,
+      "name": "Brown Gatton",
+      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Bottleneck Stomp",
@@ -471,22 +487,6 @@
       "duration_ms": 201859,
       "name": "Bottleneck Stomp",
       "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 250182,
-      "name": "Brown Gatton",
-      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -553,6 +553,54 @@
       "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Roll With the Punches",
+        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
+      },
+      "artists": [
+        {
+          "name": "Martin Harley",
+          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "Roll With the Punches",
+      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
+    },
+    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Surfing",
@@ -573,52 +621,20 @@
       "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
+      "added_at": "2022-02-23 14:50:27",
       "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+        "name": "Devil May Care",
+        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
       },
       "artists": [
         {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
         }
       ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Roll With the Punches",
-        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
-      },
-      "artists": [
-        {
-          "name": "Martin Harley",
-          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "Roll With the Punches",
-      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
+      "duration_ms": 240173,
+      "name": "28 Days",
+      "url": "https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -643,22 +659,6 @@
       "duration_ms": 174106,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/0AaIPTctizQbkpg2e1MCh4"
-    },
-    {
-      "added_at": "2022-02-23 14:50:27",
-      "album": {
-        "name": "Devil May Care",
-        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "28 Days",
-      "url": "https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG"
     },
     {
       "added_at": "2020-10-21 17:37:12",

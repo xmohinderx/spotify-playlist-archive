@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,397 likes - 62 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,449 likes - 62 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [إستثنائي](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 |
+| 1 | [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 |
 | 2 | [غايب](https://open.spotify.com/track/3KntmeYoXY9wFr0vMslHnM) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [غايب](https://open.spotify.com/album/7jmeyI1M0wAXHXC4TQJERP) | 3:58 |
 | 3 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 |
 | 4 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 |

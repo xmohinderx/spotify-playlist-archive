@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 531533,
       "name": "A Message From The Inner City",
       "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 332586,
       "name": "Fight Harder",
       "url": "https://open.spotify.com/track/302NRQpcU7xP1GzXMn5zOV"
@@ -2850,6 +2850,24 @@
     },
     {
       "album": {
+        "name": "Old World Monkeys",
+        "url": "https://open.spotify.com/album/2TlwXYcBe0y2jUl0FMMjhM"
+      },
+      "artists": [
+        {
+          "name": "The Seven Ups",
+          "url": "https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283220,
+      "name": "Old World Monkeys",
+      "url": "https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3"
+    },
+    {
+      "album": {
         "name": "On The Avenue",
         "url": "https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp"
       },
@@ -3627,6 +3645,48 @@
       "duration_ms": 385000,
       "name": "Sky View",
       "url": "https://open.spotify.com/track/58IGukkmCJqIlTrrb4g4xO"
+    },
+    {
+      "album": {
+        "name": "Slow Change",
+        "url": "https://open.spotify.com/album/1IcqX9UmiHqNNH9wH5w6Zk"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Jon Cowherd",
+          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
+        },
+        {
+          "name": "Myron Walden",
+          "url": "https://open.spotify.com/artist/5wTziSHywk2CtCL463tSNR"
+        },
+        {
+          "name": "Monte Croft",
+          "url": "https://open.spotify.com/artist/2lJS048alI10juGK1Z9J49"
+        },
+        {
+          "name": "Doug Weiss",
+          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
+        },
+        {
+          "name": "Rogerio Boccato",
+          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
+        },
+        {
+          "name": "John Hart",
+          "url": "https://open.spotify.com/artist/3ndHyLdOcwpsVn1FCxIrLV"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459809,
+      "name": "Slow Change",
+      "url": "https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0"
     },
     {
       "album": {

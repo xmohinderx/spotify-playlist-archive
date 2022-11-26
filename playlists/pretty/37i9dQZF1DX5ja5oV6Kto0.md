@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U?si=dEPHlGBlSXSTh3UhxIfsTQ"> Somadina</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,949 likes - 85 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,999 likes - 85 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

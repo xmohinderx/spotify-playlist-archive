@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Elana Dara",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Rashid, Liniker",
   "name": "brisa",
   "published_playlist_ids": [
     "6jQhl9g0LTyG58hELgK7FX"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 292122,
       "name": "Brigas",
       "url": "https://open.spotify.com/track/5kv8oFqP33vlEbfrtiTb8M"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 115545,
       "name": "Ca\u00f3tico",
       "url": "https://open.spotify.com/track/4fxeVtur2DaXvvHOk5hUh0"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 217533,
       "name": "Faminta",
       "url": "https://open.spotify.com/track/49LBlTClQWmunnBtadpzGI"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Incompreens\u00edvel",
       "url": "https://open.spotify.com/track/7kAuO29y7qOGyviJqxl0xi"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 158076,
       "name": "Movimento - Spotify Singles",
       "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
@@ -2888,6 +2888,28 @@
     },
     {
       "album": {
+        "name": "Quando",
+        "url": "https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194620,
+      "name": "Quando",
+      "url": "https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120"
+    },
+    {
+      "album": {
         "name": "Quando A Gente Briga",
         "url": "https://open.spotify.com/album/36SoFfcNNZyNFYaPJuh9yF"
       },
@@ -3313,7 +3335,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 177909,
       "name": "Seu Dia",
       "url": "https://open.spotify.com/track/1Pikvtc3HOtqLeij6AVDGz"
@@ -3671,7 +3693,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "T\u00e3o Linda (feat. Gabr\u00e1)",
       "url": "https://open.spotify.com/track/2OHDTihV2aN7BRVfec9eVO"

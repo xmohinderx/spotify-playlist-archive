@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-411 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
+412 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 | 2022-01-21 | 2022-08-06 |
 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 | 2022-09-09 |  |
 | [FOR A NUT \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/7HCX1Ch3mklJyEdpwPZBFW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:27 | 2022-05-06 | 2022-07-02 |
+| [Free Game](https://open.spotify.com/track/4a5J9U353e52exFOFPcMaZ) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Free Game](https://open.spotify.com/album/1YEI2r0hrO4Td3gBJKLSqd) | 3:51 | 2022-11-25 |  |
 | [From The Garden \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ONKRd9fnjK2olJ3VTFf9G) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [From the Garden \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/3GVpSgrP5SW6TkUEUnadYp) | 3:09 | 2021-09-03 | 2022-01-15 |
 | [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 | 2022-04-29 | 2022-10-15 |
 | [FWMGAB](https://open.spotify.com/track/52ekzF7DfQBszZq87MIbPY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [FWMGAB](https://open.spotify.com/album/58zbc1nYIQmLd4rxnH1Blt) | 3:07 | 2021-11-03\* | 2021-11-20 |
@@ -169,7 +170,7 @@
 | [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-10 |  |
 | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12) | 3:41 | 2022-04-22 |  |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-02-18 | 2022-04-29 |
-| [HOME \- Remix](https://open.spotify.com/track/3K2bwOFxBVT4oMGQrj2nho) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [HOME \(Remix\)](https://open.spotify.com/album/1XICstMIOhkW04lNgZ1QuD) | 3:15 | 2022-10-21 |  |
+| [HOME \- Remix](https://open.spotify.com/track/3K2bwOFxBVT4oMGQrj2nho) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [HOME \(Remix\)](https://open.spotify.com/album/1XICstMIOhkW04lNgZ1QuD) | 3:15 | 2022-10-21 | 2022-11-26 |
 | [HOME \- Remix](https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [HOME \(Remix\)](https://open.spotify.com/album/3DQqcMjcI066eFySU4whoW) | 3:15 | 2022-06-10 | 2022-10-23 |
 | [Home Alone](https://open.spotify.com/track/1AOFIqezViAzT4EahxhRAd) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Home Alone](https://open.spotify.com/album/2PkeFYM57aVrVXKqKy0BWa) | 2:53 | 2022-01-21 | 2022-07-29 |
 | [Home Alone](https://open.spotify.com/track/3x8Act9pKmxjHqt3zexER4) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:53 | 2022-07-22 | 2022-08-13 |

@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Manal
 
-358 songs - 20 hr 59 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+359 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [3ARI](https://open.spotify.com/track/4lyUy5RvVYTQAYWOGcehGA) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/0bOC0hLjsOTpfKEkWrNEFv) | 3:09 | 2022-03-10 | 2022-07-28 |
 | [7alti 7ala](https://open.spotify.com/track/4LWhfDV6erIgAPKDTFsWbZ) | [Tara Salah Moneka](https://open.spotify.com/artist/0Sw2vMYAGpfSHYhYVB5fcZ) | [7alti 7ala](https://open.spotify.com/album/1l9sj2T7Rx4bJxZtykaDQE) | 3:20 | 2021-12-23 | 2022-03-02 |
 | [966](https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [966](https://open.spotify.com/album/2ktaCKF0w3JBw3De5yzbq0) | 3:29 | 2021-12-23 | 2022-10-21 |
-| [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-03-03 |  |
+| [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-03-03 | 2022-11-26 |
 | [A la vie a la mort](https://open.spotify.com/track/0vuc98OKwnmkAlbWuVqxzS) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A la vie a la mort](https://open.spotify.com/album/77wvNtDg6gy715Cm8CKaiP) | 2:49 | 2022-03-01 |  |
 | [A Rose](https://open.spotify.com/track/47HR7czICxN3fYcKaxA58D) | [Terez Sliman](https://open.spotify.com/artist/2iFhXkgGLdF1mLQKvWVbm4) | [When the Waves](https://open.spotify.com/album/2d5Hg07xtKifotQbKTz7Fa) | 3:45 | 2021-12-23 | 2022-02-28 |
 | [Aam Lamehlak](https://open.spotify.com/track/4H5TawRBzjTtnLUTLuOKx4) | [Rola Kadri](https://open.spotify.com/artist/16hd7FTdRn4rC2GoOoajDn) | [Aam Lamehlak](https://open.spotify.com/album/4X12JI0ML6Gu006TonDGRc) | 3:20 | 2021-12-23 | 2022-03-02 |
@@ -266,6 +266,7 @@
 | [Toxic Romance](https://open.spotify.com/track/4gkdmBV68a59NBnLiuPwWV) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Toxic Romance](https://open.spotify.com/album/5iLqP2S6uge7BABvzyaBjV) | 6:55 | 2021-12-30 | 2022-02-10 |
 | [Unfollow Me Yalla](https://open.spotify.com/track/29Tzkn37Bf5w2yV8kpR3bz) | [Remie Akl](https://open.spotify.com/artist/0yKnrHyeDfAEr5XHuwA9xK) | [Unfollow Me Yalla](https://open.spotify.com/album/7wL1YGOMAxpLrwnlpCYmZA) | 2:39 | 2021-12-23 | 2022-03-02 |
 | [Wadaony](https://open.spotify.com/track/2JB69hEsD1T9ETH81LkYOb) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Wadaony](https://open.spotify.com/album/6LcL6dVWSd33614lHCwcQw) | 4:02 | 2021-12-23 | 2022-02-27 |
+| [Wahshany Ayamak](https://open.spotify.com/track/3c87CyEFhWPyHoXxvbSBEx) | [Marwa Amin](https://open.spotify.com/artist/7JL7Tu7197ZW87a4yBZhyd) | [Wahshany Ayamak](https://open.spotify.com/album/38OTa1G1FvSC1kROPGajQo) | 4:12 | 2022-11-19 |  |
 | [Walo](https://open.spotify.com/track/2AdPThXwkFigPti9gjp7Ro) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Walo](https://open.spotify.com/album/0R6jvhG8YgqrkDNI2HyWiJ) | 2:42 | 2021-12-23 | 2022-03-02 |
 | [Wana](https://open.spotify.com/track/0JggYhzdak2vD47gkP9K4U) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Wana](https://open.spotify.com/album/0bY1O5psyu1iG4NtHqQqZn) | 2:36 | 2021-12-23 | 2022-03-02 |
 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2021-12-23 | 2022-03-02 |

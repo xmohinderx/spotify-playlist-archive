@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Karina y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 22352,
+  "num_followers": 22381,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgyOTA2OCwwMDAwMDAwMDU5NzRjMjlkNjhmZGI5YTNmZGMyMGQyNTJlMjg4OGU2",
+  "snapshot_id": "MTY2NzgyOTA2OCwwMDAwMDAwMDYwNTRkYWUzNjkxM2U1NjQ5NDFhM2FiMTFkYTY4NmFk",
   "tracks": [
     {
       "added_at": "2022-11-07 13:51:08",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-11-07 13:51:08",
       "album": {
-        "name": "Lo Que Tenias Conmigo",
-        "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 232838,
-      "name": "Lo Que Tenias Conmigo",
-      "url": "https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1"
-    },
-    {
-      "added_at": "2022-11-07 13:51:08",
-      "album": {
         "name": "Pirata",
         "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 170192,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
+    },
+    {
+      "added_at": "2022-11-07 13:51:08",
+      "album": {
+        "name": "Lo Que Tenias Conmigo",
+        "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 232838,
+      "name": "Lo Que Tenias Conmigo",
+      "url": "https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1"
     },
     {
       "added_at": "2022-11-07 13:51:08",
@@ -579,22 +579,18 @@
     {
       "added_at": "2022-11-07 13:51:08",
       "album": {
-        "name": "No Va Mas",
-        "url": "https://open.spotify.com/album/1GEQlN1pNvTSi9U4cNi2Fr"
+        "name": "Amor Entre Mujeres",
+        "url": "https://open.spotify.com/album/01obGlmjh6uqqP7yTcLXYh"
       },
       "artists": [
         {
-          "name": "Dani La Chepi",
-          "url": "https://open.spotify.com/artist/1pLLfmio0DjpkwVZT91tXZ"
-        },
-        {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/1k6NZ9P78E78k78S9BDw6m"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 137926,
-      "name": "No Va Mas",
-      "url": "https://open.spotify.com/track/4YF2pSGwib3FL2e9WgpVXh"
+      "duration_ms": 166746,
+      "name": "Amor Entre Mujeres",
+      "url": "https://open.spotify.com/track/0xjpwkkj1ttlWdldDmjBaC"
     },
     {
       "added_at": "2022-11-07 13:51:08",
@@ -615,6 +611,26 @@
     {
       "added_at": "2022-11-07 13:51:08",
       "album": {
+        "name": "No Va Mas",
+        "url": "https://open.spotify.com/album/1GEQlN1pNvTSi9U4cNi2Fr"
+      },
+      "artists": [
+        {
+          "name": "Dani La Chepi",
+          "url": "https://open.spotify.com/artist/1pLLfmio0DjpkwVZT91tXZ"
+        },
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/1k6NZ9P78E78k78S9BDw6m"
+        }
+      ],
+      "duration_ms": 137926,
+      "name": "No Va Mas",
+      "url": "https://open.spotify.com/track/4YF2pSGwib3FL2e9WgpVXh"
+    },
+    {
+      "added_at": "2022-11-07 13:51:08",
+      "album": {
         "name": "Ella Es Como Vos",
         "url": "https://open.spotify.com/album/4C2lbsiWvZAVxNB9tN4bOn"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 235728,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/3Z0Plr8i9EQDCRtJry97Ps"
-    },
-    {
-      "added_at": "2022-11-07 13:51:08",
-      "album": {
-        "name": "Amor Entre Mujeres",
-        "url": "https://open.spotify.com/album/01obGlmjh6uqqP7yTcLXYh"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 166746,
-      "name": "Amor Entre Mujeres",
-      "url": "https://open.spotify.com/track/0xjpwkkj1ttlWdldDmjBaC"
     },
     {
       "added_at": "2022-11-07 13:51:08",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-11-07 13:51:08",
       "album": {
+        "name": "Evidencias",
+        "url": "https://open.spotify.com/album/3uV0DAuyOAGJ9YlbXIPoQF"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 252046,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/2BjE7xVdzHIPfq3FwUiVx4"
+    },
+    {
+      "added_at": "2022-11-07 13:51:08",
+      "album": {
         "name": "Si Me Dejas Ahora",
         "url": "https://open.spotify.com/album/0mymutAlcCDQu44HS8ZzSs"
       },
@@ -727,38 +743,6 @@
     {
       "added_at": "2022-11-07 13:51:08",
       "album": {
-        "name": "Popular",
-        "url": "https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "La Mariposa",
-      "url": "https://open.spotify.com/track/0M7o4YFo6qEY9rDjb34kZ9"
-    },
-    {
-      "added_at": "2022-11-07 13:51:08",
-      "album": {
-        "name": "Evidencias",
-        "url": "https://open.spotify.com/album/3uV0DAuyOAGJ9YlbXIPoQF"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 252046,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/2BjE7xVdzHIPfq3FwUiVx4"
-    },
-    {
-      "added_at": "2022-11-07 13:51:08",
-      "album": {
         "name": "Supe Que Me Amabas",
         "url": "https://open.spotify.com/album/0WcC3WFfQKjK2V5czeyUU3"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 203368,
       "name": "Supe Que Me Amabas",
       "url": "https://open.spotify.com/track/6MaTna8KTEchLEYmdzwgs5"
+    },
+    {
+      "added_at": "2022-11-07 13:51:08",
+      "album": {
+        "name": "Popular",
+        "url": "https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "La Mariposa",
+      "url": "https://open.spotify.com/track/0M7o4YFo6qEY9rDjb34kZ9"
     },
     {
       "added_at": "2022-11-07 13:51:08",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-07 13:51:08",
       "album": {
-        "name": "Quieto",
-        "url": "https://open.spotify.com/album/5sC1aAiKcRC1skXRrpJCbt"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Nena",
-          "url": "https://open.spotify.com/artist/5BNVbfGIjyuFgjnZbnUJrx"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "Quieto",
-      "url": "https://open.spotify.com/track/47rSF9GA84zIB5Kn9SCfDC"
-    },
-    {
-      "added_at": "2022-11-07 13:51:08",
-      "album": {
         "name": "Por Que Te Fuiste",
         "url": "https://open.spotify.com/album/32HCgHv0snLINBaUGmJt4h"
       },
@@ -839,22 +823,6 @@
     {
       "added_at": "2022-11-07 13:51:08",
       "album": {
-        "name": "Dos Infieles",
-        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
-      },
-      "artists": [
-        {
-          "name": "Lumila",
-          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "La Tonta",
-      "url": "https://open.spotify.com/track/2wCmrZhSwo7QmrXL65gyaq"
-    },
-    {
-      "added_at": "2022-11-07 13:51:08",
-      "album": {
         "name": "Las Pibas Tomamos El Control",
         "url": "https://open.spotify.com/album/2ZEOce8bG7DiokOGkzp3Wc"
       },
@@ -867,6 +835,38 @@
       "duration_ms": 168475,
       "name": "Las Pibas Tomamos El Control",
       "url": "https://open.spotify.com/track/1ymM4VsasYpO2CK0R7ebiM"
+    },
+    {
+      "added_at": "2022-11-07 13:51:08",
+      "album": {
+        "name": "Quieto",
+        "url": "https://open.spotify.com/album/5sC1aAiKcRC1skXRrpJCbt"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Nena",
+          "url": "https://open.spotify.com/artist/5BNVbfGIjyuFgjnZbnUJrx"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "Quieto",
+      "url": "https://open.spotify.com/track/47rSF9GA84zIB5Kn9SCfDC"
+    },
+    {
+      "added_at": "2022-11-07 13:51:08",
+      "album": {
+        "name": "Dos Infieles",
+        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
+      },
+      "artists": [
+        {
+          "name": "Lumila",
+          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "La Tonta",
+      "url": "https://open.spotify.com/track/2wCmrZhSwo7QmrXL65gyaq"
     }
   ],
   "unique_name": "EQUAL Argentina",

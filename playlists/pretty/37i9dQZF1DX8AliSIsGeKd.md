@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Effemar
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,002 likes - 80 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,149 likes - 80 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 18 | [Shadow](https://open.spotify.com/track/3Eo7yNOP9l0Cb0ZGXpjpQZ) | [Bastet](https://open.spotify.com/artist/02Xwu1VHleFBI3MZ73qyyz), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Shadow](https://open.spotify.com/album/3BN9uYcLSlwUgjVmyqgQvL) | 4:11 |
 | 19 | [Better Together](https://open.spotify.com/track/0NJRskEVmAdgBXq9LVuHPs) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Watergate 20 Years \(Pt\. 2/8\)](https://open.spotify.com/album/5wnaw4TaaogpSllYqt2Mix) | 3:21 |
 | 20 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 |
-| 21 | [Cloud 7](https://open.spotify.com/track/33VZXqabSNn7xX6oROB0DF) | [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4) | [Watergate 20 Years \(Pt\. 6/8\)](https://open.spotify.com/album/75wNWLsCMr5iHA6bzVtYgH) | 7:17 |
-| 22 | [Me Monkey \(Mi Manchi\)](https://open.spotify.com/track/6vE9CHuqiiQ7wG9KfeoDwA) | [CIOZ](https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp) | [Me Monkey \(Mi Manchi\)](https://open.spotify.com/album/7zAKeJZ0oqUHEwqpEaUp6y) | 6:27 |
-| 23 | [Crazy Amazing](https://open.spotify.com/track/3XgRUkqQ3WVxyPSjItJLW6) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR) | [Crazy Amazing](https://open.spotify.com/album/79q7kxe8YGiILp1RUDFRD8) | 5:55 |
-| 24 | [Lima](https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Watergate 20 Years \(Pt\. 1/8\)](https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5) | 6:56 |
-| 25 | [Moments](https://open.spotify.com/track/2EJHMcrYaAAFxIPOmq1tCU) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn) | [Moments](https://open.spotify.com/album/6zrHj0k6Cftf30Z0iX2tJP) | 6:49 |
-| 26 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
-| 27 | [Power of Universe](https://open.spotify.com/track/5U7LGWuifQ0agJ8kWoJ0ra) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Power of Universe](https://open.spotify.com/album/1Dx8Mh4vL259V4ENQOnYal) | 6:04 |
-| 28 | [Dingir](https://open.spotify.com/track/1RiB12ow9q9fimQYL2doxg) | [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n) | [Dingir](https://open.spotify.com/album/344K61ADdwAqODR9dBvC09) | 4:56 |
-| 29 | [Arrival](https://open.spotify.com/track/3YDBOFmBEk19AS4t4gwpXq) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Arrival](https://open.spotify.com/album/6a2Wi6vpQBQhexNJTLGgCX) | 7:15 |
+| 21 | [Me Monkey \(Mi Manchi\)](https://open.spotify.com/track/6vE9CHuqiiQ7wG9KfeoDwA) | [CIOZ](https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp) | [Me Monkey \(Mi Manchi\)](https://open.spotify.com/album/7zAKeJZ0oqUHEwqpEaUp6y) | 6:27 |
+| 22 | [Crazy Amazing](https://open.spotify.com/track/3XgRUkqQ3WVxyPSjItJLW6) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR) | [Crazy Amazing](https://open.spotify.com/album/79q7kxe8YGiILp1RUDFRD8) | 5:55 |
+| 23 | [Lima](https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Watergate 20 Years \(Pt\. 1/8\)](https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5) | 6:56 |
+| 24 | [Moments](https://open.spotify.com/track/2EJHMcrYaAAFxIPOmq1tCU) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn) | [Moments](https://open.spotify.com/album/6zrHj0k6Cftf30Z0iX2tJP) | 6:49 |
+| 25 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
+| 26 | [Power of Universe](https://open.spotify.com/track/5U7LGWuifQ0agJ8kWoJ0ra) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Power of Universe](https://open.spotify.com/album/1Dx8Mh4vL259V4ENQOnYal) | 6:04 |
+| 27 | [Dingir](https://open.spotify.com/track/1RiB12ow9q9fimQYL2doxg) | [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n) | [Dingir](https://open.spotify.com/album/344K61ADdwAqODR9dBvC09) | 4:56 |
+| 28 | [Arrival](https://open.spotify.com/track/3YDBOFmBEk19AS4t4gwpXq) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Arrival](https://open.spotify.com/album/6a2Wi6vpQBQhexNJTLGgCX) | 7:15 |
+| 29 | [Cloud 7](https://open.spotify.com/track/33VZXqabSNn7xX6oROB0DF) | [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4) | [Watergate 20 Years \(Pt\. 6/8\)](https://open.spotify.com/album/75wNWLsCMr5iHA6bzVtYgH) | 7:17 |
 | 30 | [California \- Jonas Saalbach & Guzy Remix](https://open.spotify.com/track/0oMRDZYS9KN1bcdXJV6v5O) | [Ten Systems](https://open.spotify.com/artist/73Qkhhr876Oji5wnbSslA0), [Angus Powell](https://open.spotify.com/artist/2SWjKSdvZK4SKu0m6LcMtl), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB) | [California](https://open.spotify.com/album/1f9GNuwgCGDeFkmEs6yU4D) | 3:52 |
 | 31 | [Imagine \- Alexey Union Remix](https://open.spotify.com/track/6lwmS7A5VPZLM9aYgQwjZC) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Armaja](https://open.spotify.com/artist/1sy5nsw7tuj8b209rZP5ke), [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G) | [Imagine](https://open.spotify.com/album/41oTneQVC4Gop4Xb1I4vZy) | 6:26 |
 | 32 | [Paramount](https://open.spotify.com/track/6rZwwCyYy4lDhGVmb18U76) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Paramount](https://open.spotify.com/album/7j31wncbwWEFndVrrWWX5L) | 4:15 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 |
 | 78 | [Inside Out](https://open.spotify.com/track/5IYqlkbtNCzymw3tAQsiVj) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Long Way Home](https://open.spotify.com/album/1KKVWZHhfIJ86BYFsro40P) | 4:04 |
 | 79 | [Apart](https://open.spotify.com/track/2HHMIfV2ALtRxsIk0MK4b0) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Apart](https://open.spotify.com/album/1vKvFGLFMwINQnxl5Fruhu) | 3:59 |
-| 80 | [Learning to Fly \- Bonus Track](https://open.spotify.com/track/6k4yXDGfo2cgRE5fMsAJnw) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Night](https://open.spotify.com/album/1icETboYWcv7eEkd0dHc2n) | 4:46 |
+| 80 | [Learning to Fly \- Bonus Track](https://open.spotify.com/track/0tKT5LrEldMTYJw3Ov9eAS) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Night](https://open.spotify.com/album/7f0bkf8n6AeLyDf8pI2bnT) | 4:46 |
 
-Snapshot ID: `MTY2OTMzNjIxOSwwMDAwMDAwMDE4N2VhZDczYzFkMjU5OWNiNDIwN2Y1YjNmNWE3MjRk`
+Snapshot ID: `MTY2OTM4MTA4MywwMDAwMDAwMDg4YmY5N2FkNDc5Nzc3YWI5Y2JlOTZkOWRmYTRhN2Uz`

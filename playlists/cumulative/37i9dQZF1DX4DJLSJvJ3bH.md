@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-159 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
+160 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/2wWlECRmZiILJSgT5KCmxi) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 3:57 | 2021-12-21 | 2022-07-29 |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/2paaoDgVuvkYSUG2tObf7j) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Work From Home with Billie Holiday](https://open.spotify.com/album/1JRiObzH0EaNSUzOOrhPXX) | 3:58 | 2022-11-10 | 2022-11-13 |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/5jZBn6jnhdZUGnpooAMnwF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Stay With Me](https://open.spotify.com/album/7bYdTH2MYBFnyyispVgYNS) | 3:58 | 2022-01-03 | 2022-11-25 |
+| [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 | 2022-11-25 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 | 2022-11-17 |  |
 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:52 | 2021-12-21 |  |
 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 | 2022-11-17 |  |
@@ -100,7 +101,7 @@
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2022-09-27 |  |
 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 | 2021-12-21 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Mary's Boy Child](https://open.spotify.com/album/5e0Z0zZAOlCB8u8RiXklfR) | 2:06 | 2022-11-17 |  |
-| [Merry Christmas Baby](https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:23 | 2022-01-03 |  |
+| [Merry Christmas Baby](https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:23 | 2022-01-03 | 2022-11-26 |
 | [Merry Christmas Baby](https://open.spotify.com/track/6koO2ZIVo02KlCcsWonkxj) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Christmas Dinner Party](https://open.spotify.com/album/3DHkMDDJ9idaUq5yQVyg0y) | 3:25 | 2022-11-10 | 2022-11-13 |
 | [Merry Christmas Baby](https://open.spotify.com/track/3tbH5WsNoiK1pC95Nd8kWw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Christmas Jazz Millennium Collection Vol\. 1 Eco](https://open.spotify.com/album/64tZFVp68PJouG0p03ZcJy) | 3:25 | 2021-12-21 | 2022-07-29 |
 | [Mistletoe And Holly](https://open.spotify.com/track/5SEjKY2Q0hQTmSfd8lHnGJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Mistletoe And Holly](https://open.spotify.com/album/0GQGvFHYPbLc3jZR11f8Hu) | 2:26 | 2022-11-17 |  |

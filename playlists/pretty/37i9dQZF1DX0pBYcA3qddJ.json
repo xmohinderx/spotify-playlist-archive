@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 43285,
+  "num_followers": 43309,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMTQzNiwwMDAwMDAwMDI0MTI5Mjc1ZTQxODc1Y2U0YTViOTczMWM3NzY1YWNj",
+  "snapshot_id": "MTY2OTMzMTQzNiwwMDAwMDAwMDIwM2IyNzk5ZDBlMzUzNWMyYzM4ZmE3NTEwZjMwZTBi",
   "tracks": [
     {
       "added_at": "2022-11-24 19:44:35",
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/19tAqV4F3ffuE6yMipwDn9"
     },
     {
-      "added_at": "2022-11-25 01:18:58",
+      "added_at": "2022-11-26 01:14:48",
       "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
@@ -975,18 +975,22 @@
     {
       "added_at": "2022-11-24 19:44:35",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 423346,
-      "name": "Love On The Run",
-      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
+      "duration_ms": 140040,
+      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
+      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
     },
     {
       "added_at": "2022-11-24 19:44:35",
@@ -1011,18 +1015,18 @@
     {
       "added_at": "2022-11-24 19:44:35",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 184532,
-      "name": "Lonely Bones",
-      "url": "https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL"
+      "duration_ms": 423346,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
     },
     {
       "added_at": "2022-11-24 19:44:35",
@@ -1083,18 +1087,18 @@
     {
       "added_at": "2022-11-24 19:44:35",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 184532,
+      "name": "Lonely Bones",
+      "url": "https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL"
     },
     {
       "added_at": "2022-11-24 19:44:35",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2022-11-24 19:44:35",
       "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2022-11-24 19:44:35",
@@ -1155,26 +1155,22 @@
     {
       "added_at": "2022-11-24 19:44:35",
       "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
-        "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
       },
       "artists": [
         {
-          "name": "Alexander Borodin",
-          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "George Szell",
-          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
-        },
-        {
-          "name": "Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 136960,
-      "name": "Polovetsian Dances from Prince Igor: Introduzione",
-      "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2022-11-24 19:44:35",
@@ -1203,22 +1199,26 @@
     {
       "added_at": "2022-11-24 19:44:35",
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+        "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
+        "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
         },
         {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+          "name": "George Szell",
+          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
         }
       ],
-      "duration_ms": 140040,
-      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
-      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+      "duration_ms": 136960,
+      "name": "Polovetsian Dances from Prince Igor: Introduzione",
+      "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
     },
     {
       "added_at": "2022-11-24 19:44:35",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-11-24 19:44:35",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 180057,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2022-11-24 19:44:35",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-11-24 19:44:35",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 180057,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
     },
     {
       "added_at": "2022-11-24 19:44:35",

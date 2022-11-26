@@ -1,12 +1,12 @@
 {
   "description": "Viral classics. Yep, we're at that stage.",
-  "num_followers": 792976,
+  "num_followers": 794388,
   "original_name": "internet rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2MTExNiwwMDAwMDAwMGM1MDE2Zjc2MTk2ZTM3MTU4MTczNGQ5ODY2NWY0MzVj",
+  "snapshot_id": "MTY2NDQ2MTExNiwwMDAwMDAwMDAxYzc5MzU0YTk2NWFiOTE0YmFjMDVhY2UwMGY5ZTE5",
   "tracks": [
     {
       "added_at": "2022-09-19 23:51:27",
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
-      "added_at": "2022-11-25 01:00:10",
+      "added_at": "2022-11-26 00:56:58",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
-      "added_at": "2022-11-25 01:00:10",
+      "added_at": "2022-11-26 00:56:58",
       "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2022-11-25 01:00:10",
+      "added_at": "2022-11-26 00:56:58",
       "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
-      "added_at": "2022-11-25 01:00:10",
+      "added_at": "2022-11-26 00:56:58",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-19 23:51:27",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Little Dark Age",
-      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
-    },
-    {
-      "added_at": "2022-09-19 23:51:27",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2022-09-19 23:51:27",
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Little Dark Age",
+      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
     },
     {
       "added_at": "2022-09-19 23:51:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-09-19 23:51:27",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "added_at": "2022-09-19 23:51:27",
-      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "added_at": "2022-09-19 23:51:27",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "added_at": "2022-09-19 23:51:27",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-19 23:51:27",
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 193234,
-      "name": "Sky",
-      "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
-    },
-    {
-      "added_at": "2022-09-19 23:51:27",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2022-09-19 23:51:27",
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 193234,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
     },
     {
       "added_at": "2022-09-19 23:51:27",
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
     },
     {
-      "added_at": "2022-11-25 01:00:10",
+      "added_at": "2022-11-26 00:56:58",
       "album": {
         "name": "Happier Than Ever (Edit)",
         "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
-      "added_at": "2022-11-25 01:00:10",
+      "added_at": "2022-11-26 00:56:58",
       "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
@@ -1013,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
     },
     {
-      "added_at": "2022-11-25 01:00:10",
+      "added_at": "2022-11-26 00:56:58",
       "album": {
         "name": "Tek It (I Watch the Moon)",
         "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-19 23:51:27",
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 168489,
-      "name": "...And to Those I Love, Thanks for Sticking Around",
-      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
-    },
-    {
-      "added_at": "2022-09-19 23:51:27",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+    },
+    {
+      "added_at": "2022-09-19 23:51:27",
+      "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 168489,
+      "name": "...And to Those I Love, Thanks for Sticking Around",
+      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
     },
     {
       "added_at": "2022-09-19 23:51:27",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-19 23:51:27",
       "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
-      },
-      "artists": [
-        {
-          "name": "Vierre Cloud",
-          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
-        }
-      ],
-      "duration_ms": 129543,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
-    },
-    {
-      "added_at": "2022-09-19 23:51:27",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 173710,
       "name": "34+35",
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+    },
+    {
+      "added_at": "2022-09-19 23:51:27",
+      "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
+      },
+      "artists": [
+        {
+          "name": "Vierre Cloud",
+          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
+        }
+      ],
+      "duration_ms": 129543,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
     },
     {
       "added_at": "2022-09-19 23:51:27",
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
-      "added_at": "2022-11-25 01:00:10",
+      "added_at": "2022-11-26 00:56:58",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"

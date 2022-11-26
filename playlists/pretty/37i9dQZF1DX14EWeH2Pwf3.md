@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia\. Cover: Ernia
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,345 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,159 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 9 | [Vorrei \(feat\. Lazza\)](https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:11 |
 | 10 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 |
 | 11 | [Tchikita](https://open.spotify.com/track/3ztWRav85xIq8FUmBDr3cu) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Tchikita](https://open.spotify.com/album/4bCnf6PzUd47Wrhfz3OrUE) | 2:36 |
-| 12 | [EGO](https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 |
+| 12 | [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 |
 | 13 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
 | 14 | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/track/6ACIFlukKJSlmOHCypNppR) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:50 |
 | 15 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Téléphone](https://open.spotify.com/track/76YfUp0DTnERvtZokyU6jm) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Téléphone](https://open.spotify.com/album/7Ma1ztWIbhK1vX1Fu24WEt) | 3:32 |
 | 50 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGI1YWMyNzhmYTk4MjI5ZTEwYTRkNDllYTBhZTU5ZTQ0`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGE5YTA5ZDY3MzBjMDYwMmVlN2IxYjhhOWEwMGM5NGJm`

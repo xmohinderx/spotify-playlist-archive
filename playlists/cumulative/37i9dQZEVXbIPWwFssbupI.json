@@ -7568,6 +7568,24 @@
     },
     {
       "album": {
+        "name": "Genkidama",
+        "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Genkidama",
+      "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
+    },
+    {
+      "album": {
         "name": "Geronimo",
         "url": "https://open.spotify.com/album/7ck2Cibgjw4kEAx9jfVhpN"
       },
@@ -14099,7 +14117,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 218520,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/7FSBBwk1A5N9dlm0zMnAEM"

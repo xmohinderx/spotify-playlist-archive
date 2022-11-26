@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "El Camale\u00f3n",
+        "url": "https://open.spotify.com/album/3Z6UXc4IMKuTBfJeBjWoM2"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "El Camale\u00f3n",
+      "url": "https://open.spotify.com/track/4dmVjDzryo2ybwFZhUb1bS"
+    },
+    {
+      "album": {
         "name": "El Primer Lugar",
         "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
       },
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 152213,
       "name": "Pero Yo No Lo Conozco (feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga)",
       "url": "https://open.spotify.com/track/7DroPZbnPTJZSZtax3swP8"

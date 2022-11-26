@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: TEMPEST\(템페스트\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-509 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
+510 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [DON'T TOUCH ME](https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC) | [REFUND SISTERS](https://open.spotify.com/artist/28Nk9B0LudPoufVThERUDi) | [DON'T TOUCH ME](https://open.spotify.com/album/6SEAMFqNh1pzaPqLMaAydK) | 3:43 | 2021-12-29 | 2022-04-19 |
 | [DOOM DOOM TA](https://open.spotify.com/track/4OoIilBA6IsqLpTDCZmKQc) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [TRI.BE Da Loca](https://open.spotify.com/album/20WVSzeVrTvZlmpta9q0Pi) | 3:15 | 2022-03-02 | 2022-05-10 |
 | [Door](https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:19 | 2022-01-03 | 2022-07-25 |
-| [Dragon](https://open.spotify.com/track/1OvrBLaAmzKqSlA84RdiFy) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [ON and ON](https://open.spotify.com/album/6ZQ6oaMujx039E41fzWdnX) | 3:34 | 2022-11-23 |  |
+| [Dragon](https://open.spotify.com/track/1OvrBLaAmzKqSlA84RdiFy) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [ON and ON](https://open.spotify.com/album/6ZQ6oaMujx039E41fzWdnX) | 3:34 | 2022-11-22 |  |
 | [Dream of You \(with R3HAB\)](https://open.spotify.com/track/5SEvxpu5ImOFOcXyeM8fbx) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Dream of You \(with R3HAB\)](https://open.spotify.com/album/7v5VyW176u5m9aNcnvs2Cv) | 3:12 | 2021-12-21 | 2022-06-27 |
 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-21 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 | 2022-04-28 | 2022-07-29 |
@@ -185,6 +185,7 @@
 | [Forbidden Island](https://open.spotify.com/track/5YFIlLHse7UplUd36BYGSm) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Mirage](https://open.spotify.com/album/3IluPLhGQ9kKlIQp4C11P3) | 3:19 | 2022-04-12 | 2022-04-17 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-08 |  |
 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 | 2022-01-18 | 2022-06-10 |
+| [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-26 |  |
 | [Free Pass](https://open.spotify.com/track/5z0EvFqwl5fqJ2dDdwQRfs) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 1st Single Album \[Free Pass\]](https://open.spotify.com/album/6bTEGLbyWMOVvZc7MexlgS) | 3:11 | 2022-04-12 | 2022-04-15 |
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2022-03-29 | 2022-04-10 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 |  |
@@ -323,7 +324,7 @@
 | [Naughty \- Demicat Remix](https://open.spotify.com/track/45g8e6lIciCHoaEDNbY7nA) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.3 : Naughty Remix](https://open.spotify.com/album/5LU3bwPyZz69FfMR7e71SU) | 3:53 | 2022-04-05 | 2022-04-16 |
 | [NEON](https://open.spotify.com/track/1RG6AWB4CovVQcIztseNw5) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:14 | 2022-03-31 | 2022-04-16 |
 | [NEW HERO](https://open.spotify.com/track/6OTsinrSCfxmwcr5wLy2as) | [Choi suhwan](https://open.spotify.com/artist/5if8p7T2O2QHhIKZiwSWvD), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [NEW HERO](https://open.spotify.com/album/602H8kYZQMFOEVGGdjH82r) | 3:22 | 2022-03-24 | 2022-04-13 |
-| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-21 |  |
+| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-21 | 2022-11-26 |
 | [NINETEEN](https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/6XnFMmVnbFEDnFjc6xRw2g) | 3:03 | 2022-03-31 | 2022-04-18 |
 | [No Air](https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd MINI ALBUM \[THE ONLY\]](https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK) | 4:04 | 2022-02-09 | 2022-07-05 |
 | [No Love](https://open.spotify.com/track/5mMqlFlWJNAApggUOEfYDn) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD LIAR \- The 4th Mini Special Album](https://open.spotify.com/album/0ExK4LxhnukLaSgbmwITmj) | 3:19 | 2022-03-24 | 2022-04-21 |

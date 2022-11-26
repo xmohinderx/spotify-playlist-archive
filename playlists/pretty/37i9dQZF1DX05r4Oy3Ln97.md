@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,643 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,676 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 30 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 |
 | 31 | [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 |
 | 32 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 |
-| 33 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 |
-| 34 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 |
+| 33 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 |
+| 34 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 |
 | 35 | [Ibiza](https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/55UbwPK8mr7bSv1Qm0X1uC) | 2:25 |
 | 36 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 |
 | 37 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 |
 | 60 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGRkZjljZmYwMDJjOTdhNDQ1MjY1OTNiNjcyYzA1Y2Rj`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDExZjAzMTYwOTliNjIwMmMyNzQxNTAzNWFhMDgwZDky`

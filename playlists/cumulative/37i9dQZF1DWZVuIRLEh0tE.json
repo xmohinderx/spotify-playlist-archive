@@ -80,6 +80,28 @@
     },
     {
       "album": {
+        "name": "A Nivel Cien",
+        "url": "https://open.spotify.com/album/0Yk4tbx0Mra50d2WX8qoid"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "A Nivel Cien",
+      "url": "https://open.spotify.com/track/5e63LqFp9ITnnwKUT09wGY"
+    },
+    {
+      "album": {
         "name": "Acuetate",
         "url": "https://open.spotify.com/album/2yzn76Jz0OhnP5VqwRb426"
       },
@@ -361,7 +383,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 138870,
       "name": "Calle Romo Teteo Discoteca",
       "url": "https://open.spotify.com/track/4JBY54iFqdft7yMNOVvzo1"
@@ -601,6 +623,32 @@
       "duration_ms": 160000,
       "name": "Dime",
       "url": "https://open.spotify.com/track/03WvboIAz8l4bemwpW4r99"
+    },
+    {
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180048,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
     },
     {
       "album": {
@@ -997,10 +1045,32 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 129332,
       "name": "JEFE",
       "url": "https://open.spotify.com/track/7oXh6q6b258IofNFNri24n"
+    },
+    {
+      "album": {
+        "name": "LA 63",
+        "url": "https://open.spotify.com/album/6VU9qBUtTXsjHaEACIxFVt"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157884,
+      "name": "LA 63",
+      "url": "https://open.spotify.com/track/3oxuB1r6rZbKMJzxkbahuG"
     },
     {
       "album": {
@@ -1236,6 +1306,40 @@
     },
     {
       "album": {
+        "name": "SAGITARIO",
+        "url": "https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341578,
+      "name": "Ma Nigga",
+      "url": "https://open.spotify.com/track/6gaYwLlIaRUjFGRXOe4NYP"
+    },
+    {
+      "album": {
         "name": "MALA",
         "url": "https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ"
       },
@@ -1295,6 +1399,32 @@
       "duration_ms": 212170,
       "name": "Marichal",
       "url": "https://open.spotify.com/track/3PEFEsH3UIElep67B4HRto"
+    },
+    {
+      "album": {
+        "name": "Me la Subi\u00f3",
+        "url": "https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq"
+      },
+      "artists": [
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100704,
+      "name": "Me la Subi\u00f3",
+      "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
     },
     {
       "album": {
@@ -1437,6 +1567,24 @@
       "duration_ms": 130307,
       "name": "Mio De Que",
       "url": "https://open.spotify.com/track/4ZznoNbEbgNXN8wPHq7nvq"
+    },
+    {
+      "album": {
+        "name": "Mira el 30",
+        "url": "https://open.spotify.com/album/6JvPGRhspJ4MqBXBIIEE6D"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129973,
+      "name": "Mira el 30",
+      "url": "https://open.spotify.com/track/0jMDFipJeGgbXP36vh4l08"
     },
     {
       "album": {
@@ -1901,6 +2049,28 @@
       "duration_ms": 180808,
       "name": "Se Me Nota (Agarrame) - Prod by B-One",
       "url": "https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS"
+    },
+    {
+      "album": {
+        "name": "Singadera Y Rapadera",
+        "url": "https://open.spotify.com/album/2BvHf5D1I1ddxYroeer7q6"
+      },
+      "artists": [
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "Aleica",
+          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139365,
+      "name": "Singadera Y Rapadera",
+      "url": "https://open.spotify.com/track/4h00mDHNeosjAE98LLgGs9"
     },
     {
       "album": {

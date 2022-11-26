@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Effemar
 
-1,084 songs - 4 day 3 hr 5 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+1,085 songs - 4 day 3 hr 10 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,8 @@
 | [Last Night \- Andrew Becks Remix](https://open.spotify.com/track/0nPXD7OEOBvU3kHksh7PFB) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO), [Andrew Becks](https://open.spotify.com/artist/2D6mkPsBZ8R101RksNcla2) | [Last Night](https://open.spotify.com/album/6wGrhfx1mAWGUzIF9LUiFx) | 7:13 | 2022-11-25 |  |
 | [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 | 2022-08-12 | 2022-09-02 |
 | [Le Rêve](https://open.spotify.com/track/4Y6cZINkRQ8k6r8RqtvKyq) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Le Rêve](https://open.spotify.com/album/2ZPGQQjq29FGoEgvKTJjTA) | 4:15 | 2022-08-04 | 2022-08-19 |
-| [Learning to Fly \- Bonus Track](https://open.spotify.com/track/6k4yXDGfo2cgRE5fMsAJnw) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Night](https://open.spotify.com/album/1icETboYWcv7eEkd0dHc2n) | 4:46 | 2022-11-25 |  |
+| [Learning to Fly \- Bonus Track](https://open.spotify.com/track/0tKT5LrEldMTYJw3Ov9eAS) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Night](https://open.spotify.com/album/7f0bkf8n6AeLyDf8pI2bnT) | 4:46 | 2022-11-25 |  |
+| [Learning to Fly \- Bonus Track](https://open.spotify.com/track/6k4yXDGfo2cgRE5fMsAJnw) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Night](https://open.spotify.com/album/1icETboYWcv7eEkd0dHc2n) | 4:46 | 2022-11-25 | 2022-11-26 |
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-16 | 2022-09-30 |
 | [Lele](https://open.spotify.com/track/6XuwwtSoPzEsQQQpwIsUpD) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Love or Nothing](https://open.spotify.com/artist/6ZSoTBkU2gS9evF3jncopT) | [Lele](https://open.spotify.com/album/207HUz7goXfcassusuQ8sZ) | 3:46 | 2022-09-22 | 2022-10-07 |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-08 | 2022-09-30 |

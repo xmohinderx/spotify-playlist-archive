@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Above the time",
+        "url": "https://open.spotify.com/album/6899JCGBYPw0iFQAhUsQ1C"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163860,
+      "name": "Above the time",
+      "url": "https://open.spotify.com/track/42sQpZwEqmeQODfNbhbfnA"
+    },
+    {
+      "album": {
         "name": "Voy Pa All\u00e1",
         "url": "https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4"
       },
@@ -3541,6 +3559,24 @@
       "duration_ms": 208166,
       "name": "Do You Wanna Come Over?",
       "url": "https://open.spotify.com/track/2u6E1ABC69zacOnr0qVGRi"
+    },
+    {
+      "album": {
+        "name": "do//die",
+        "url": "https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv"
+      },
+      "artists": [
+        {
+          "name": "kiyu",
+          "url": "https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144277,
+      "name": "do//die",
+      "url": "https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV"
     },
     {
       "album": {
@@ -7565,7 +7601,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 196376,
       "name": "Les gens qui doutent",
       "url": "https://open.spotify.com/track/7fsnHdB8abooTvR7bkhWXh"
@@ -8602,6 +8638,24 @@
     },
     {
       "album": {
+        "name": "Monstres",
+        "url": "https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228120,
+      "name": "Monstres",
+      "url": "https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs"
+    },
+    {
+      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -9303,6 +9357,24 @@
       "duration_ms": 162421,
       "name": "Ni\u00f1a de Mis Ojos",
       "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
+    },
+    {
+      "album": {
+        "name": "No Good 4 U",
+        "url": "https://open.spotify.com/album/4haWEqgtjW3G4DXXJBnNn4"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135188,
+      "name": "No Good 4 U",
+      "url": "https://open.spotify.com/track/65j80EkeL7HYYOtJ4waZyT"
     },
     {
       "album": {
@@ -11517,7 +11589,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 175675,
       "name": "saturday night",
       "url": "https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2"
@@ -11977,6 +12049,24 @@
       "duration_ms": 208361,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/0uzwUF369gO2Gui3veixZi"
+    },
+    {
+      "album": {
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/3b2Q5PiQpzTaRpIfJFiGBd"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/7gviLGYxPwuAQqkvQKFOmX"
     },
     {
       "album": {
@@ -14329,7 +14419,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 132378,
       "name": "Winter Summer",
       "url": "https://open.spotify.com/track/5m38Gw5jWEsaWGLi6ogSmF"
@@ -16525,7 +16615,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 144000,
       "name": "\u7f8e",
       "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"

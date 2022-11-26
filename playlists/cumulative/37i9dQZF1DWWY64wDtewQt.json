@@ -420,6 +420,24 @@
     },
     {
       "album": {
+        "name": "BANKAI",
+        "url": "https://open.spotify.com/album/0M5a69FH1OBRpDXVZKPiCd"
+      },
+      "artists": [
+        {
+          "name": "DXNT L13",
+          "url": "https://open.spotify.com/artist/24NDY4ShaX2L5g3LEkr9hL"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "BANKAI",
+      "url": "https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ"
+    },
+    {
+      "album": {
         "name": "BLACKHOUSE",
         "url": "https://open.spotify.com/album/6G88Z2l55DAAS4krrjxiFj"
       },
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 116129,
       "name": "COURAGE",
       "url": "https://open.spotify.com/track/6Yh78OTsqdERLpivX8hcN5"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 113186,
       "name": "DEVIL SOUL",
       "url": "https://open.spotify.com/track/7t0OaHwReZjPuEBImsRwvX"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 208780,
       "name": "FALLING",
       "url": "https://open.spotify.com/track/5dyVAQsk62nVJK1fazdd1k"
@@ -2632,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "Haunted !",
+        "url": "https://open.spotify.com/album/3acjd8HQntU7d3KQZEbQAM"
+      },
+      "artists": [
+        {
+          "name": "DEDLINE",
+          "url": "https://open.spotify.com/artist/75nE6Q3wOe3nB5aUrrzwvw"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171154,
+      "name": "Haunted !",
+      "url": "https://open.spotify.com/track/5brjho1oApJ6qrzYVXF9vu"
+    },
+    {
+      "album": {
         "name": "Haunted House",
         "url": "https://open.spotify.com/album/4x2d1efX1kkpv3et6FvBiu"
       },
@@ -2770,6 +2806,24 @@
     },
     {
       "album": {
+        "name": "HIT LIST",
+        "url": "https://open.spotify.com/album/0QD1OSzq5j8dkw9uffNUUz"
+      },
+      "artists": [
+        {
+          "name": "Pharmacist",
+          "url": "https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130294,
+      "name": "HIT LIST",
+      "url": "https://open.spotify.com/track/3OFXmZLpbpBpFZt5VrVeGp"
+    },
+    {
+      "album": {
         "name": "HIT THE GAS",
         "url": "https://open.spotify.com/album/5aEuFp7TWiZT88x3LNNRlw"
       },
@@ -2803,7 +2857,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 250894,
       "name": "Hollowpoint",
       "url": "https://open.spotify.com/track/16vs5ern5G91otRs5kPy2G"
@@ -3165,7 +3219,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 106666,
       "name": "KILLA!",
       "url": "https://open.spotify.com/track/16uh5QAnJ6ixHHSIa1I3Vt"
@@ -5280,6 +5334,28 @@
     },
     {
       "album": {
+        "name": "ROGUE!",
+        "url": "https://open.spotify.com/album/0duKirYgihhKCEGnzXnPQm"
+      },
+      "artists": [
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126198,
+      "name": "ROGUE!",
+      "url": "https://open.spotify.com/track/5VzcuUMmk1ElMCKQORCkC4"
+    },
+    {
+      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN"
       },
@@ -5367,6 +5443,24 @@
       "duration_ms": 171384,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
+    },
+    {
+      "album": {
+        "name": "SCARFACE",
+        "url": "https://open.spotify.com/album/46IEkRQXYXNZNJCrOQyy0x"
+      },
+      "artists": [
+        {
+          "name": "OBLXKQ",
+          "url": "https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93026,
+      "name": "SCARFACE",
+      "url": "https://open.spotify.com/track/24wHwQ23F2QlC31YGGiejn"
     },
     {
       "album": {
@@ -6205,7 +6299,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 139354,
       "name": "TOKYO KILLER",
       "url": "https://open.spotify.com/track/1unbEE8tHeXtnnhxa117Ww"
@@ -6565,6 +6659,32 @@
       "duration_ms": 190290,
       "name": "UNFORGIVEN",
       "url": "https://open.spotify.com/track/5ihsAWE0y20g8eKyKkIvMb"
+    },
+    {
+      "album": {
+        "name": "Unholy (Dxrk \u30c0\u30fc\u30afRemix)",
+        "url": "https://open.spotify.com/album/7lK6WEgAKqQ4bzSwfpZ7UF"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129642,
+      "name": "Unholy - Dxrk \u30c0\u30fc\u30afRemix",
+      "url": "https://open.spotify.com/track/7ipO6ItNDXUiY9wjo4HvJr"
     },
     {
       "album": {

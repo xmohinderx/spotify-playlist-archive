@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Drake, Stormzy, DJ Khaled, and more
 
-96 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/14bEBF0XIXvpomoPm6muAO)
+97 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/14bEBF0XIXvpomoPm6muAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-27 |  |
 | [BIG TIME \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:53 | 2022-08-26 | 2022-09-02 |
 | [BLICKY](https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:55 | 2022-06-16 | 2022-07-08 |
-| [Blue Ticks \(feat\. Femi One\)](https://open.spotify.com/track/4idmyddVB7baddyWJWDnEF) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Blue Ticks \(feat\. Femi One\)](https://open.spotify.com/album/2TNxPFOTblCkmnndT4Z3Ki) | 4:55 | 2022-06-16 |  |
+| [Blue Ticks \(feat\. Femi One\)](https://open.spotify.com/track/4idmyddVB7baddyWJWDnEF) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Blue Ticks \(feat\. Femi One\)](https://open.spotify.com/album/2TNxPFOTblCkmnndT4Z3Ki) | 4:55 | 2022-06-16 | 2022-11-26 |
 | [Borrow](https://open.spotify.com/track/5Fy8z5xuJHsd6Id0DYRxZN) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Borrow](https://open.spotify.com/album/5KPBYQCbDjDW1depOwv61k) | 2:06 | 2022-06-16 | 2022-09-30 |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-13 |  |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-07-07 |  |
@@ -48,6 +48,7 @@
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-06-16 |  |
 | [Inaweza Haiwezi](https://open.spotify.com/track/6GbZgCtkDVQnuavXk6T3LG) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Inaweza Haiwezi](https://open.spotify.com/album/4XtK3cyU5InSf6792CqTjM) | 3:14 | 2022-11-03 |  |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-23 |  |
+| [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-25 |  |
 | [Kalesa na Leather](https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Kalesa na Leather](https://open.spotify.com/album/2BmdCBVfeopAna7jznaQOM) | 2:42 | 2022-06-16 | 2022-09-09 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2022-06-16 | 2022-09-23 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-06-16 |  |

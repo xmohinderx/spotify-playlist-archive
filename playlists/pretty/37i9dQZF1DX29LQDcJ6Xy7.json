@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 241499,
+  "num_followers": 241665,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDMxZWQzMTlmYjFmNWM1YzA2ZGJjMmY2MjQ4ZWY1ZGQy",
+  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDhiMWY3MGMzNDNkZGJiMTU3MGUyN2E2N2UwYTI5YjRm",
   "tracks": [
     {
       "added_at": "2022-10-21 07:00:00",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
-      "added_at": "2022-11-25 01:21:22",
+      "added_at": "2022-11-26 01:17:46",
       "album": {
         "name": "Vivien",
         "url": "https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh"
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "ANTI-ICON",
-        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 147181,
-      "name": "Hydrochloride",
-      "url": "https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "F & M (Deluxe)",
         "url": "https://open.spotify.com/album/7vTIPNCT9nCHw8hhskPYj1"
       },
@@ -465,7 +449,23 @@
       "url": "https://open.spotify.com/track/4kF5GADt85FeD8Y26RRyLY"
     },
     {
-      "added_at": "2022-11-25 01:21:22",
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "ANTI-ICON",
+        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 147181,
+      "name": "Hydrochloride",
+      "url": "https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy"
+    },
+    {
+      "added_at": "2022-11-26 01:17:46",
       "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "A Drug Against War",
-      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Global Warning",
         "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 251200,
       "name": "Naitu",
       "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "A Drug Against War",
+      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Lust (Special Remastered Band Edition)",
-        "url": "https://open.spotify.com/album/568RScapveqsGN0tCmoUKu"
-      },
-      "artists": [
-        {
-          "name": "Lords Of Acid",
-          "url": "https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w"
-        }
-      ],
-      "duration_ms": 352586,
-      "name": "I Sit on Acid",
-      "url": "https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Hengit\u00e4",
         "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 190327,
       "name": "Hengit\u00e4",
       "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Lust (Special Remastered Band Edition)",
+        "url": "https://open.spotify.com/album/568RScapveqsGN0tCmoUKu"
+      },
+      "artists": [
+        {
+          "name": "Lords Of Acid",
+          "url": "https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w"
+        }
+      ],
+      "duration_ms": 352586,
+      "name": "I Sit on Acid",
+      "url": "https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "FullBlackHabit",
-        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
+        "name": "PUMPED UP KICKS",
+        "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
       },
       "artists": [
         {
-          "name": "16Volt",
-          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
         }
       ],
-      "duration_ms": 187520,
-      "name": "Suffering You",
-      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
+      "duration_ms": 271666,
+      "name": "PUMPED UP KICKS",
+      "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "PUMPED UP KICKS",
-        "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
+        "name": "FullBlackHabit",
+        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
       },
       "artists": [
         {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+          "name": "16Volt",
+          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
         }
       ],
-      "duration_ms": 271666,
-      "name": "PUMPED UP KICKS",
-      "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
+      "duration_ms": 187520,
+      "name": "Suffering You",
+      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Out For Blood",
-        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
-      },
-      "artists": [
-        {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Don't Question Me",
         "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
     },
     {
       "added_at": "2022-10-21 07:00:00",

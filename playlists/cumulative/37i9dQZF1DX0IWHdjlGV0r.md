@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Luchè
 
-100 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
+101 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Faraway](https://open.spotify.com/track/0wUgl8594IkO3YtjHM1nd4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:19 | 2022-05-03 | 2022-06-04 |
 | [Ferma A Guardare](https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn) | 3:13 | 2022-05-03 |  |
 | [FINCHÉ FA GIORNO](https://open.spotify.com/track/5yYsbDBAflTr31aksx8BHS) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [FINCHÉ FA GIORNO](https://open.spotify.com/album/5o7p3GN41Aak9jgKTtaX73) | 3:02 | 2022-05-03 |  |
-| [FINISCIMI](https://open.spotify.com/track/1FQFjNMOuOOsCPmnanGRcu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 | 2022-11-07 |  |
+| [FINISCIMI](https://open.spotify.com/track/1FQFjNMOuOOsCPmnanGRcu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 | 2022-11-07 | 2022-11-26 |
+| [FINISCIMI](https://open.spotify.com/track/5ZGteB4F2eZfemc9PHOPS4) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 | 2022-11-24 |  |
 | [Forte](https://open.spotify.com/track/4cC2oSrEm16ddPOCzvPjuY) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [For The Ladies Rap Italiano I GOT 5 ON IT](https://open.spotify.com/album/5sTaHxgOr2e9jKorZ5wq8L) | 3:27 | 2022-07-28 |  |
 | [Forte](https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Nonostante Tutto](https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ) | 3:27 | 2022-05-03 | 2022-07-29 |
 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 | 2022-05-03 |  |

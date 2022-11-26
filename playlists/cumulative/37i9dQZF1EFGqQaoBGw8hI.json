@@ -89,6 +89,28 @@
     {
       "album": {
         "name": "Shock Value",
+        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "2 Man Show",
+      "url": "https://open.spotify.com/track/29Rk4VhqUZXkSDLqVEnLJP"
+    },
+    {
+      "album": {
+        "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
       "artists": [
@@ -103,7 +125,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 265613,
       "name": "2 Man Show",
       "url": "https://open.spotify.com/track/5wsENdyZpOv7w7Jc5ehkUC"
@@ -1219,10 +1241,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 256346,
       "name": "Calling It Christmas - Radio Edit",
       "url": "https://open.spotify.com/track/0XpApJu5havzspIyIVe2ut"
+    },
+    {
+      "album": {
+        "name": "Step Into Christmas",
+        "url": "https://open.spotify.com/album/6qXYjhnacPdM4QT0aYrFuJ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256346,
+      "name": "Calling It Christmas - Radio Edit",
+      "url": "https://open.spotify.com/track/5L8lTSu1qpYvaHQkqzdUGh"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover: \nTy Brasel\n",
+  "description": "The best of Christian Hip Hop today.  Cover:  Aaron Cole",
   "name": "The Flow",
   "published_playlist_ids": [
     "5C9jrTdmQ9Yxn8FPYTBuYY"
@@ -2202,6 +2202,28 @@
     },
     {
       "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+    },
+    {
+      "album": {
         "name": "WINGS OF AN ANGEL",
         "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
       },
@@ -2481,7 +2503,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 144506,
       "name": "Catch These Hands - Remix",
       "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
@@ -8750,6 +8772,24 @@
     },
     {
       "album": {
+        "name": "Nights In Atlanta",
+        "url": "https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE"
+      },
+      "artists": [
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Nights In Atlanta",
+      "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
+    },
+    {
+      "album": {
         "name": "Nino Brown",
         "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
       },
@@ -9489,7 +9529,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 207068,
       "name": "ON THA SEAT",
       "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"

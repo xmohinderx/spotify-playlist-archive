@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ananda",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Supercombo",
   "name": "P\u00e1tria Rock",
   "published_playlist_ids": [
     "0QCUPVPm5DzTYPmApO8yZ5"
@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Aos Poucos",
+        "url": "https://open.spotify.com/album/3T0Wa2f0JfwZHR1vdFGTEI"
+      },
+      "artists": [
+        {
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217237,
+      "name": "Aos Poucos",
+      "url": "https://open.spotify.com/track/0I8Ff9T1SLI7EArBwlAsie"
+    },
+    {
+      "album": {
         "name": "Olho Furta-Cor",
         "url": "https://open.spotify.com/album/29dpVqKyiV7IHzaBdU2ZhK"
       },
@@ -601,6 +619,24 @@
       "duration_ms": 189000,
       "name": "Berrini",
       "url": "https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV"
+    },
+    {
+      "album": {
+        "name": "Billy Dog",
+        "url": "https://open.spotify.com/album/5lYmZUIPKwHfnrsZ9UduIb"
+      },
+      "artists": [
+        {
+          "name": "Lado Brasil",
+          "url": "https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181909,
+      "name": "Billy Dog",
+      "url": "https://open.spotify.com/track/0igu5G376i4B2QQUSaxmjZ"
     },
     {
       "album": {
@@ -2127,7 +2163,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 177571,
       "name": "Lados Opostos",
       "url": "https://open.spotify.com/track/3sAuy4oIB54SODMMFjOFEi"
@@ -2597,7 +2633,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 240186,
       "name": "MERGULHO",
       "url": "https://open.spotify.com/track/5IiXMO5gSehzrwdcYV1IYy"
@@ -3021,6 +3057,24 @@
       "duration_ms": 188638,
       "name": "O Amor Machuca Demais",
       "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
+    },
+    {
+      "album": {
+        "name": "O Ano da Volta",
+        "url": "https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De"
+      },
+      "artists": [
+        {
+          "name": "Sound Bullet",
+          "url": "https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283940,
+      "name": "O Ano da Volta",
+      "url": "https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L"
     },
     {
       "album": {
@@ -4185,7 +4239,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 154158,
       "name": "Supla Zombie",
       "url": "https://open.spotify.com/track/2bSv2939o5oeCJKevJz9PZ"
@@ -4515,6 +4569,24 @@
       "duration_ms": 189794,
       "name": "Tudo Destru\u00eddo",
       "url": "https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB"
+    },
+    {
+      "album": {
+        "name": "Tudo O Que Eu Sempre Quis (Original)",
+        "url": "https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194220,
+      "name": "Tudo O Que Eu Sempre Quis - Original",
+      "url": "https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 10426,
+  "num_followers": 10448,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI4NTg4NCwwMDAwMDAwMGNiODlmNjRmNjMxMzkxMjVkZDQzZWQ1ODQzMjE4NzJj",
+  "snapshot_id": "MTY2OTI4NTg4NCwwMDAwMDAwMDdlYzcwOTRkZjA1MmZlZDQ2NWVkNWM3M2E1ZmMzNjUy",
   "tracks": [
     {
       "added_at": "2022-11-24 10:31:24",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
         "name": "Soular Energy",
         "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
         }
       ],
-      "duration_ms": 322560,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
+      "duration_ms": 287400,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "A Garland Of Red",
-        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
       "artists": [
         {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 287400,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+      "duration_ms": 322560,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -411,6 +411,38 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Pick up Sticks",
+      "url": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -443,54 +475,6 @@
       "duration_ms": 198360,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Pick up Sticks",
-      "url": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -543,6 +527,22 @@
       "duration_ms": 300506,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 370400,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 334866,
-      "name": "Lonely Town",
-      "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "Everybody Gets the Blues",
         "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 229226,
       "name": "Everybody Gets the Blues",
       "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "Lonely Town",
+      "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
+        "name": "Lee Konitz Meets Jimmy Giuffre",
+        "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Uncharted",
+      "url": "https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
         "name": "Rollins Plays For Bird",
         "url": "https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 292426,
       "name": "I've Grown Accustomed To Your Face",
       "url": "https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "Lee Konitz Meets Jimmy Giuffre",
-        "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Uncharted",
-      "url": "https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "The Lionel Hampton Quintet",
         "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 382773,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "On a Slow Boat to China",
-        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "On a Slow Boat to China",
-      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "The Interplay Sessions [2-fer]",
         "url": "https://open.spotify.com/album/64Thgy8vQNwTvX1zbsi2sy"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
+        "name": "On a Slow Boat to China",
+        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "On a Slow Boat to China",
+      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 203000,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/3JKnr1nLxocKNQMpmpAhpt"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Down With It",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "duration_ms": 376333,
+      "name": "March On Selma - Remastered",
+      "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1279,22 +1295,6 @@
       "duration_ms": 402573,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "Down With It",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
-      },
-      "artists": [
-        {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
-        }
-      ],
-      "duration_ms": 376333,
-      "name": "March On Selma - Remastered",
-      "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "The Finest",
-        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 561400,
-      "name": "Silver's Serenade - 20-Bit Remastering/1997",
-      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "The Unforgettable George Shearing",
         "url": "https://open.spotify.com/album/5qU8e6quy0VHFaTS1S104j"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 140880,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/6aBJprxtSLncRLIT8FJi28"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 561400,
+      "name": "Silver's Serenade - 20-Bit Remastering/1997",
+      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Laughin' to Keep From Cryin'",
-        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 512266,
-      "name": "Salute To Benny",
-      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "First Place Again",
         "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 518733,
       "name": "I Get a Kick out of You",
       "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Laughin' to Keep From Cryin'",
+        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 512266,
+      "name": "Salute To Benny",
+      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
     },
     {
       "added_at": "2022-11-24 10:31:24",

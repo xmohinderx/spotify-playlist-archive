@@ -602,6 +602,58 @@
     },
     {
       "album": {
+        "name": "Bradrill",
+        "url": "https://open.spotify.com/album/5tcAJ0FsUQ5CZfXe2HAXcV"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Bradrill",
+      "url": "https://open.spotify.com/track/68zTD2aPvre87UHlJkBRqA"
+    },
+    {
+      "album": {
+        "name": "BRAZIL",
+        "url": "https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "DJ Ery",
+          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124564,
+      "name": "BRAZIL",
+      "url": "https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM"
+    },
+    {
+      "album": {
         "name": "Esculpido a Machado",
         "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
       },
@@ -1091,7 +1143,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 178045,
       "name": "Dois Gumes",
       "url": "https://open.spotify.com/track/4sTvkSCc5tmVhECVOcM37h"
@@ -1731,7 +1783,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 150857,
       "name": "Liga\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/2bReNJyh7gPwVvoEXfZNBh"
@@ -2980,6 +3032,32 @@
     },
     {
       "album": {
+        "name": "Tudo Mec",
+        "url": "https://open.spotify.com/album/3SJbnzuqTSl3pZAMV0xf5Z"
+      },
+      "artists": [
+        {
+          "name": "Pete Mcee",
+          "url": "https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB"
+        },
+        {
+          "name": "Rodrigo Zin",
+          "url": "https://open.spotify.com/artist/71s3pi3yFhYB1P40dmRm1J"
+        },
+        {
+          "name": "Caco",
+          "url": "https://open.spotify.com/artist/4ooTDZgSDcUCsSJLHTe740"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182186,
+      "name": "Tudo Mec",
+      "url": "https://open.spotify.com/track/3Ky4MJEskLIRQ42fKsUtJT"
+    },
+    {
+      "album": {
         "name": "Tudo Por Nois",
         "url": "https://open.spotify.com/album/2aVM9JOjQ1ok3g0MLpYenz"
       },
@@ -3043,7 +3121,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 219428,
       "name": "Vit\u00f3ria",
       "url": "https://open.spotify.com/track/3EkbbOZjhnXlL9hc26GmPc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,293 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,378 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 22 | [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 |
 | 23 | [The Sniper](https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR), [Luca Scarpa](https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG) | [Still](https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU) | 4:32 |
 | 24 | [Classical Thump](https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 4:39 |
-| 25 | [Cosmic Underground](https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:37 |
-| 26 | [Purple Interlude](https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 1:36 |
+| 25 | [Purple Interlude](https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 1:36 |
+| 26 | [Cosmic Underground](https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:37 |
 | 27 | [Cosmic Joke](https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:25 |
 | 28 | [World Go Round](https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 4:28 |
 | 29 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [P.A.C\. Man](https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Play](https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3) | 4:21 |
 | 50 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDQwZWY5ZjBiYzU2MmFlMmM1ZjI1N2Y3ZDE1OTI1ZTc2`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDg2ODU4Yjc2ZTg1M2NlNzRiN2UwMjc3MGEwNmRiZTYy`

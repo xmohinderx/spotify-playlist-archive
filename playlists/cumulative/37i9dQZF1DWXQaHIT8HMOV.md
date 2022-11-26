@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-83 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
+85 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,13 +58,13 @@
 | [MAJJE](https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:30 | 2022-05-12 |  |
 | [Mama I Made It \(feat\. Lagum the Rapper\)](https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 2:17 | 2022-11-10 |  |
 | [Mbipambana](https://open.spotify.com/track/03Oa6GiBpDJSpazfZixZKy) | [Heather Nanteza](https://open.spotify.com/artist/0sA6V5qSFuTnAFaNdo4pHJ), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Mbipambana](https://open.spotify.com/album/6agyrH6gmk3uz1JAAj7MIR) | 3:05 | 2022-05-12 | 2022-10-26 |
-| [Medalli](https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Medalli](https://open.spotify.com/album/34OoUv85ylvOjGKKdFVi5I) | 2:18 | 2022-07-22 |  |
+| [Medalli](https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Medalli](https://open.spotify.com/album/34OoUv85ylvOjGKKdFVi5I) | 2:18 | 2022-07-22 | 2022-11-26 |
 | [Melody](https://open.spotify.com/track/170CNdSxk5vIQNinTIl9XH) | [Josh Buxton](https://open.spotify.com/artist/4Guu0ZYrcI2naNVmQVje5n) | [Mperekera](https://open.spotify.com/album/3JVNzLhSAPBmJpmbBy5Ivb) | 2:59 | 2022-05-12 | 2022-10-07 |
 | [Mpakasa](https://open.spotify.com/track/3pwBAkk0rCwXl2nDmcY9es) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Mpakasa](https://open.spotify.com/album/0IJXotvomhn59wnb0g7u3v) | 3:06 | 2022-09-01 | 2022-09-10 |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2022-11-11 |
 | [Nguwayo](https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Nguwayo](https://open.spotify.com/album/6sea4jShgdOs8oNE4aAl1t) | 3:01 | 2022-05-12 | 2022-08-20 |
 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 | 2022-05-12 |  |
-| [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 | 2022-10-06 |  |
+| [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 | 2022-10-06 | 2022-11-26 |
 | [Nteredde](https://open.spotify.com/track/7obRw7Iy6DbqvyuPyiqzUj) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Nteredde](https://open.spotify.com/album/6JcRkrtxzHACyHQytZ37z1) | 3:14 | 2022-07-08 | 2022-11-18 |
 | [Nyanya Mbisi](https://open.spotify.com/track/4TaavhhwL9c4bcWtD3I96I) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI) | [Nyanya Mbisi](https://open.spotify.com/album/0ZQb5hEq1KKcyoBthJM3kZ) | 2:30 | 2022-09-30 | 2022-10-07 |
 | [Obinkola](https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Recho Ray](https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:26 | 2022-10-06 |  |
@@ -77,6 +77,7 @@
 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 | 2022-05-12 |  |
 | [Pirepe](https://open.spotify.com/track/1c6pBk5cUupGEKuEc8gpgT) | [Suzan Kerunen](https://open.spotify.com/artist/2aNSI0ak2Os9PHD11PdkHr), [Aloysius Migadde](https://open.spotify.com/artist/7rJOWggakrq6vVC3gQ35XY) | [From Ashes We Rise](https://open.spotify.com/album/6qdLGSQgD4Qnl088lO3lgp) | 4:25 | 2022-05-12 | 2022-08-20 |
 | [Raha](https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:32 | 2022-09-22 | 2022-11-11 |
+| [RainFall](https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [RainFall](https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK) | 3:29 | 2022-11-25 |  |
 | [Riri](https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn) | 3:35 | 2022-09-30 |  |
 | [Riri](https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv) | 3:35 | 2022-05-12 | 2022-10-21 |
 | [Sakata](https://open.spotify.com/track/1vOBjsXST8IjLgoUZIwDU6) | [Authentically Plastic](https://open.spotify.com/artist/1Gum664eHo0JeNdHWb4hoY) | [Sakata](https://open.spotify.com/album/7oscxpiTiwjPlcBdqYa4uX) | 3:42 | 2022-07-22 | 2022-10-16 |
@@ -85,6 +86,7 @@
 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 |  |
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2022-05-12 |  |
 | [Thc \( Too High to Concentrate \)](https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9) | [Blaqface](https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78) | [Thc \( Too High to Concentrate \)](https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q) | 2:48 | 2022-07-08 |  |
+| [Toora Love](https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Toora Love](https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE) | 3:06 | 2022-11-26 |  |
 | [Tukimala](https://open.spotify.com/track/3sil5Zxom8p6321FsDM2mn) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh), [Pinky](https://open.spotify.com/artist/7D0HNEvLVsb8ooQmC2MIbD) | [Tukimala](https://open.spotify.com/album/2Eb2bK1a8Bxq11Aw8rCU50) | 2:53 | 2022-08-12 | 2022-09-02 |
 | [Udongo \(Save Soil\)](https://open.spotify.com/track/59BPZ3xZSqL70xUngfRXJf) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Reazyla](https://open.spotify.com/artist/7GtTV6RYcXvgp6mQ0ZQfhG) | [Udongo \(Save Soil\)](https://open.spotify.com/album/4TJhR6aU5qMlMoyntJGSiz) | 2:56 | 2022-05-12 | 2022-09-02 |
 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 | 2022-05-19 |  |

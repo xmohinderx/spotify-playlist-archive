@@ -4,7 +4,7 @@
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/70Ohsc6IHNs6h9xH85dU25)
+57 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/70Ohsc6IHNs6h9xH85dU25)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Pretty \(Ugly Before\)](https://open.spotify.com/track/0VJ0DLSA4d2pYJcTEe2rrV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:45 | 2022-09-16 |  |
 | [Pretty Mary K \(Other Version\)](https://open.spotify.com/track/4McT6LfoHcdF0DaWmBYuau) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:24 | 2022-09-16 |  |
 | [Roman Candle](https://open.spotify.com/track/7GDciQOihRs8nQFEFOrc5K) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:36 | 2022-09-16 |  |
-| [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 | 2022-09-16 |  |
+| [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 | 2022-09-16 | 2022-11-26 |
+| [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 | 2022-11-25 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:09 | 2022-09-16 |  |
 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 | 2022-09-16 |  |
 | [Speed Trials](https://open.spotify.com/track/4ePiNo6s2nZdxP26A0ATau) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 3:01 | 2022-09-16 |  |

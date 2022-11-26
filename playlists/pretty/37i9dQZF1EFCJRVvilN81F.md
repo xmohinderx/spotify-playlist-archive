@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Q4GnDtPDjnD2xTWVQgErL">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,179 likes - 105 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,188 likes - 105 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 13 | [Fall in Love \(feat\. Ciscero\)](https://open.spotify.com/track/2RISD4aJrioDB54exm5WWM) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [Fall in Love \(feat\. Ciscero\)](https://open.spotify.com/album/5ryBqWw69xLn1nLaPCGOev) | 3:04 |
 | 14 | [WEIGHT OFF](https://open.spotify.com/track/12s6FjStmOwWJrh0yalbKC) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:35 |
 | 15 | [VIVID DREAMS](https://open.spotify.com/track/6ZBFJwlj6uJ1Th4m80KlSU) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:36 |
-| 16 | [BUS RIDE](https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:13 |
-| 17 | [LITE SPOTS](https://open.spotify.com/track/3Fc7k96EGOGiJBMZUxbpq7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:50 |
+| 16 | [LITE SPOTS](https://open.spotify.com/track/3Fc7k96EGOGiJBMZUxbpq7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:50 |
+| 17 | [BUS RIDE](https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:13 |
 | 18 | [Meditation \(feat\. Jazmine Sullivan & KAYTRANADA\)](https://open.spotify.com/track/7jaYiqwCFQDdtxfQaSzZuM) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 4:18 |
 | 19 | [DYSFUNCTIONAL](https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [DYSFUNCTIONAL](https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH) | 4:00 |
 | 20 | [Lite Weight \(feat\. The Free Nationals United Fellowship Choir\)](https://open.spotify.com/track/2vJIsdYIthbnWgLaLD9yrj) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [The Free Nationals United Fellowship Choir](https://open.spotify.com/artist/1P5kWHAMCjtV6SzDTq1ijy) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:26 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 68 | [Find Me](https://open.spotify.com/track/6P2cQF9sdnv17czEnI54BR) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Find Me](https://open.spotify.com/album/0lofjJsdra4ZYC6d4v5Pvg) | 3:42 |
 | 69 | [The Code \(feat\. Mike Dimes\)](https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:25 |
 | 70 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 |
-| 71 | [All We Do](https://open.spotify.com/track/5gIJdZ7ZKhhcCqfT7mMMh2) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/5mG6Ful0k8lBjMtrvKsGuF) | 4:12 |
+| 71 | [All We Do](https://open.spotify.com/track/3ruOq5Gd9iZAdU1UP2nDJR) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/14RQlFzqaTt8nB8u3SXBRN) | 4:12 |
 | 72 | [A Lite](https://open.spotify.com/track/3CeI4Ri97C26GxShl4sbdY) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:31 |
 | 73 | [Zipper Bagz](https://open.spotify.com/track/20UFm0JkFTmqpoRjgDYHnk) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:14 |
 | 74 | [Gravity](https://open.spotify.com/track/2HYkeK48Ys2UzYt9kGCwiC) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Illusions](https://open.spotify.com/album/5DRZzDtnYnqvGKiRpRX64T) | 3:14 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 104 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 105 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 
-Snapshot ID: `Mjc4MjIzMTksMDAwMDAwMDBlNzU4YTIwZDQzOGRmYzgyMmM0N2QzZGI5MjdhMzIyYw==`
+Snapshot ID: `Mjc4MjM3NTAsMDAwMDAwMDBiY2NjNDJiNTlmOWZkYmU1ODQ5NDExMzg2N2NhZWQwMw==`

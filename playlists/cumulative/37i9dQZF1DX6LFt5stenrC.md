@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-110 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
+111 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [PAW Patrol on a Roll](https://open.spotify.com/track/2efkanyOeo0Vzkli3HfcuU) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf) | 0:48 | 2022-04-15 | 2022-10-13 |
 | [PAW Patrol on a Roll](https://open.spotify.com/track/5QO4mKGgQOsrqfFkNHNi2Y) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:48 | 2022-04-15 |  |
 | [PAW Patrol on a Roll](https://open.spotify.com/track/5assM1ZJxva5nnj8nT44sa) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1) | 0:48 | 2022-04-15 | 2022-11-24 |
-| [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 | 2022-04-15 |  |
+| [PAW Patrol Opening Theme](https://open.spotify.com/track/1yWYXhJCbiWHH9bLcG1ptK) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp) | 0:40 | 2022-04-15 |  |
+| [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 | 2022-04-15 | 2022-11-26 |
 | [PAW Patrol Opening Theme](https://open.spotify.com/track/6J5tBYqpU2amNkTkIPHCHE) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1) | 0:40 | 2022-04-15 | 2022-11-24 |
 | [PAW Patrol Opening Theme](https://open.spotify.com/track/7n70tzvZDfdAL1j9XqsAbH) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf) | 0:40 | 2022-04-15 | 2022-10-14 |
 | [Peg + Cat Theme Song](https://open.spotify.com/track/6SCFhlq74iw2cWM8uum68K) | [Peg + Cat](https://open.spotify.com/artist/4MP5AtPZsXVLJJUm4wvTdE) | [Really Big Album](https://open.spotify.com/album/5nJQTGCwiqzwe1BeQKqO7s) | 0:41 | 2022-04-15 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 207836,
+  "num_followers": 207858,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDRhZGZhZTkwZDhmYjU0ZGJiZTBlODViMTE1M2ZlOWM2",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDEyYmMxNjQwYzUxM2JmZmMzZjc0MDg4N2RiNzU0Mjc2",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Blood-Rooted",
-        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 107693,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Bajo la Cruz",
         "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Blood-Rooted",
+        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 107693,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Discord",
-        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
-      },
-      "artists": [
-        {
-          "name": "Black Overdrive",
-          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Discord",
-      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "No Anesthesia",
         "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Discord",
+        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
+      },
+      "artists": [
+        {
+          "name": "Black Overdrive",
+          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
     },
     {
       "added_at": "2020-10-24 03:38:51",

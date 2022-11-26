@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-161 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
+162 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Can you stay](https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [Can you stay \(From Semantic Error\)](https://open.spotify.com/album/2RBkeoL7bQvL2Ty0p0Uvhq) | 3:02 | 2022-05-11 |  |
 | [Clear Desk, Reminisce The Past 시험기간 책상정리](https://open.spotify.com/track/5vyoMxPGiaXrYsozWOlRoA) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 3:41 | 2022-05-11 | 2022-07-09 |
 | [Come Close](https://open.spotify.com/track/7nQmQlxomSUbzMK91vLMma) | [A+B](https://open.spotify.com/artist/0fb0qL1tkelypiiXXs2Y3X) | [Come Close](https://open.spotify.com/album/5AjxhleLjnHXeuCsR4IwlX) | 3:23 | 2022-06-20 | 2022-07-28 |
+| [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [Chuu \(LOONA\)](https://open.spotify.com/artist/5cFdpa8OCO9JGIOB7O8ygU) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 | 2022-11-03 |  |
 | [Confuse](https://open.spotify.com/track/3utUtdNPkBhuX3JIHSKC72) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Fade Away](https://open.spotify.com/album/6QKMkubaMBZsiSGaxYd1k1) | 2:37 | 2022-05-11 | 2022-07-27 |
 | [Courtship Song 구애가](https://open.spotify.com/track/306XHqoedXSzJWICCAi1ry) | [Sijm 시즘](https://open.spotify.com/artist/1sFAOMHlzpH19uht6wXdqL) | [Courtship Song 구애가](https://open.spotify.com/album/3uvyOUWH52Dni38OOT5XPE) | 3:14 | 2022-05-11 | 2022-07-24 |
 | [D\-day](https://open.spotify.com/track/21xL4v9Sx7SCChxtSj3Gby) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:22 | 2022-05-11 | 2022-07-26 |
@@ -148,7 +149,7 @@
 | [Type & Delete](https://open.spotify.com/track/0jrc18dt5N6fOJtRUIH9Dv) | [Dalzi](https://open.spotify.com/artist/3itJiDOt0vbIIMkYTy5Dp1), [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp), [LEE IN JUN](https://open.spotify.com/artist/7vNf4Mqk9uJjZNr4Qnwqf7) | [Type & Delete](https://open.spotify.com/album/4V44wdgmFu3rpWT62ernmW) | 3:50 | 2022-05-11 | 2022-07-29 |
 | [U \(feat\. ARIAZ, 시현 & ESON\)](https://open.spotify.com/track/6ezxrPOjX6mOspfdKelSfY) | [CIELOGROOVE](https://open.spotify.com/artist/39Bud6jG9IdSbnZAx9ERUd), [ARIAZ](https://open.spotify.com/artist/7F4X79mifvL5ke5KxaqYFi), [시현](https://open.spotify.com/artist/6cR7tnVNB3blGX4miHEE6t), [ESON](https://open.spotify.com/artist/0VIAKQLmpZM9Hq5ZVo1jXo) | [U](https://open.spotify.com/album/7D49Qp5tHUm2puTI7S3XOd) | 3:41 | 2022-05-11 | 2022-07-29 |
 | [Ugly, Lovely \(feat\. INFP\)](https://open.spotify.com/track/51N5xzPBGodwhO2cKlkT32) | [Flospoon](https://open.spotify.com/artist/1AKNuWhUvKilX2soCIcKDi), [INFP](https://open.spotify.com/artist/0LaVG6zmxdXwzg9VvT88Qq) | [Ugly, Lovely](https://open.spotify.com/album/0tlHvOiBZJAwMjEktwQtF9) | 3:59 | 2022-05-11 | 2022-07-29 |
-| [UH\-RA? \(feat\. dress\)](https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [UH\-RA? with KozyPop](https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib) | 3:37 | 2022-08-12 |  |
+| [UH\-RA? \(feat\. dress\)](https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [UH\-RA? with KozyPop](https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib) | 3:37 | 2022-08-12 | 2022-11-26 |
 | [UTK](https://open.spotify.com/track/5xmdfFyKJQGiA4nglg9s3S) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [UTK](https://open.spotify.com/album/0yNAYvt4NAZxeIiEyVpOhd) | 3:47 | 2022-05-11 | 2022-07-27 |
 | [Waggy](https://open.spotify.com/track/4PaV21Q4jkSvfQ5iAcFJef) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:12 | 2022-05-11 | 2022-06-09 |
 | [Wanna go for a walk?](https://open.spotify.com/track/05aHjamumAJ0m9L24mgGBp) | [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Wanna go for a walk?](https://open.spotify.com/album/3ULtXyAUl3AQ3t6iXvXfIp) | 3:05 | 2022-06-20 | 2022-07-26 |

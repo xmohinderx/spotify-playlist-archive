@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 157736,
       "name": "Amina",
       "url": "https://open.spotify.com/track/3wIkraTZGQtljsayKCj1oS"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 216659,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/3nfSYUd63s78rudVQuTrqk"
@@ -1886,6 +1886,46 @@
     },
     {
       "album": {
+        "name": "Lil Mama",
+        "url": "https://open.spotify.com/album/1uW6l7lFd88GtgYglei0ZR"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "Lil Mama",
+      "url": "https://open.spotify.com/track/0TdQ54hT5S5racTQAwdW3U"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205601,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
+    },
+    {
+      "album": {
         "name": "Love Nwantiti (Acoustic Version)",
         "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
       },
@@ -1923,6 +1963,28 @@
       "duration_ms": 206077,
       "name": "Love, Today",
       "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
+    },
+    {
+      "album": {
+        "name": "King of Hearts",
+        "url": "https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Lucky Now",
+      "url": "https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN"
     },
     {
       "album": {
@@ -2699,7 +2761,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 207529,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/4XTMzpqNfLTdo4Jt7jQ1t0"

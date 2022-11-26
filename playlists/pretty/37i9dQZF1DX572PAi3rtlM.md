@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,474 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,492 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 33 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
 | 34 | [Ba:sen \- Pool Party Dub Mix](https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5) | [In Deep We Trust](https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc) | [The Lost Grooves EP](https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El) | 5:49 |
 | 35 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
-| 36 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 |
-| 37 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
-| 38 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
+| 36 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
+| 37 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 |
+| 38 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
 | 39 | [Chantal](https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Mandar All Day 001](https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk) | 4:38 |
 | 40 | [Figure of Jazz](https://open.spotify.com/track/1B89dglefjYMvJkLOEwfD1) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Figure of Jazz](https://open.spotify.com/album/0HAJNbgqrpShglJNHfzYyw) | 3:32 |
 | 41 | [Calling Out \(feat\. Dames Brown\) \- 12" Mix](https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4) | [Sophie Lloyd](https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF), [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B) | [Calling Out \(feat\. Dames Brown\) \[12" Mix\]](https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x) | 7:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 |
 | 50 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 |
 
-Snapshot ID: `MTY0MjEzNjQwMCwwMDAwMDAwMDEyNTg1NTk1OTNmZjk2OTM5ZDFjYWI5MTU0NGE1ZTdm`
+Snapshot ID: `MTY0MjEzNjQwMCwwMDAwMDAwMDBhNjNiMTUyNTQyNTJkMTMyNDk5MmFkNTRjMzVjNjdi`

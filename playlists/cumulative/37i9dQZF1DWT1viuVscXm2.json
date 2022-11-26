@@ -1156,6 +1156,32 @@
     },
     {
       "album": {
+        "name": "Fues Solo Piel",
+        "url": "https://open.spotify.com/album/4O8LVFTp9vwoQystHNX5Lr"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        },
+        {
+          "name": "Fede Rojas",
+          "url": "https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe"
+        },
+        {
+          "name": "Laguna",
+          "url": "https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159034,
+      "name": "Fues Solo Piel",
+      "url": "https://open.spotify.com/track/1wGlvLMghlLuI0JS0CcpDF"
+    },
+    {
+      "album": {
         "name": "Fugitivo / Aca Llega la Banda / Asi Fue (En Vivo)",
         "url": "https://open.spotify.com/album/4adOZCfSCGTRXBiDdS5tRo"
       },
@@ -2401,7 +2427,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 152195,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/1AadbT8MzoeyI7KGmyQECf"

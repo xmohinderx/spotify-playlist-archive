@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 95270,
+  "num_followers": 95304,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDEwZjlmNTIyYzA2YzAxYzA0OWRmNjY1ZmNiM2IwYzk3",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGM2NGRiNmNhZDM2NWM3Y2JhMTM2ODk3MjE4ZmZhMDkz",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Under the Influence: Holiday Edition",
         "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 160840,
       "name": "Text Me Merry Christmas (feat. Kristen Bell)",
       "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -339,22 +339,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+        "name": "Peter Hollens",
+        "url": "https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku"
       },
       "artists": [
         {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
-        },
-        {
-          "name": "Kay",
-          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Right Round",
-      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
+      "duration_ms": 293920,
+      "name": "I See Fire",
+      "url": "https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -375,22 +371,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Peter Hollens",
-        "url": "https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku"
-      },
-      "artists": [
-        {
-          "name": "Peter Hollens",
-          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
-        }
-      ],
-      "duration_ms": 293920,
-      "name": "I See Fire",
-      "url": "https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Full Coverage",
         "url": "https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ"
       },
@@ -403,6 +383,22 @@
       "duration_ms": 201080,
       "name": "Stacey's Mom",
       "url": "https://open.spotify.com/track/2REesWs353uf4aQz09I2HG"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "We Got You Covered, Vol. 3",
+        "url": "https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 246020,
+      "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
+      "url": "https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -439,6 +435,26 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Right Round",
+      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Six Pack: Volume 2",
         "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 213880,
       "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
       "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "We Got You Covered, Vol. 3",
-        "url": "https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 246020,
-      "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
-      "url": "https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "I Knew You Were Trouble (feat. KRNFX)",
         "url": "https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 194450,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/2YePcRCovlBZ0wIYX7bXAa"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Circle of Life/He Lives in You",
-        "url": "https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27"
+        "name": "Six Pack",
+        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
       },
       "artists": [
         {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
         }
       ],
-      "duration_ms": 218386,
-      "name": "Circle of Life/He Lives in You",
-      "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
+      "duration_ms": 214893,
+      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
+      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Six Pack",
-        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
+        "name": "Circle of Life/He Lives in You",
+        "url": "https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
         }
       ],
-      "duration_ms": 214893,
-      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
-      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
+      "duration_ms": 218386,
+      "name": "Circle of Life/He Lives in You",
+      "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Kiss the Girl",
-        "url": "https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V"
+        "name": "With a Twist (Deluxe)",
+        "url": "https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt"
       },
       "artists": [
         {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
         }
       ],
-      "duration_ms": 131893,
-      "name": "Kiss the Girl",
-      "url": "https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY"
+      "duration_ms": 246706,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "With a Twist (Deluxe)",
-        "url": "https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt"
+        "name": "Kiss the Girl",
+        "url": "https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
         }
       ],
-      "duration_ms": 246706,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
+      "duration_ms": 131893,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Disney's Broadway Is Back Medley",
-        "url": "https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Disney's Broadway Is Back Medley",
-      "url": "https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "The Sing-Off: Season 4, Episode 1- The Sing-Off Is Back",
         "url": "https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 115706,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Disney's Broadway Is Back Medley",
+        "url": "https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Disney's Broadway Is Back Medley",
+      "url": "https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD"
     }
   ],
   "unique_name": "All A Cappella",

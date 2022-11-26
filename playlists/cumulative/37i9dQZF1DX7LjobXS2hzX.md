@@ -2,9 +2,9 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Sam Smith, Kim Petras
+> Voici les hits du moment\. Photo: Imagine Dragons
 
-140 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
+141 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [CNQDL](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [CNQDL](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 | 2022-09-30 |  |
 | [Copilote](https://open.spotify.com/track/4CLktmKM775TQvUTSWvrVI) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Grignotines de Luxe](https://open.spotify.com/album/1YJeAFLaZKEaJ9IJtO3YE6) | 3:32 | 2022-07-09 |  |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-07-09 | 2022-11-12 |
+| [Crépuscule](https://open.spotify.com/track/3SqaQQ3WiaKNO64iZbotqj) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:45 | 2022-11-25 |  |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-07-09 | 2022-11-12 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-08-01 | 2022-08-27 |
 | [Dance With You](https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4) | 3:46 | 2022-07-09 | 2022-07-23 |
@@ -103,7 +104,7 @@
 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 | 2022-08-29 | 2022-09-03 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-09 |  |
 | [On a mis d’la lumière](https://open.spotify.com/track/44q2BOX0z5eN7F1EpCRKjP) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Sous le même toit](https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN) | 3:05 | 2022-07-22 | 2022-07-31 |
-| [On s'aimera toujours](https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:28 | 2022-07-09 |  |
+| [On s'aimera toujours](https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:28 | 2022-07-09 | 2022-11-26 |
 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 | 2022-07-22 |  |
 | [Partout](https://open.spotify.com/track/3oNNorePaplyctqDgvEvSw) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Partout](https://open.spotify.com/album/1fSyIBmSmRDMrmb0udtRRs) | 3:15 | 2022-09-09 |  |
 | [Pas le temps de jouer](https://open.spotify.com/track/6oomlC7rQX4LpTXwXHe3aq) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Pas le temps de jouer](https://open.spotify.com/album/02M6nwxbFdK7DRgB5hxe1I) | 3:00 | 2022-07-09 | 2022-07-23 |

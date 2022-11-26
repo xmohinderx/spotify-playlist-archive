@@ -1,32 +1,136 @@
 {
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=0FitoAV0TlikCEZmOSnlsg\" > Ayra Starr </a>  and <a href=\"https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB?si=3UjT-tueQkqS39KEoK6dGA\" > Kelly Rowland</a> ",
-  "num_followers": 9443,
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=nKrIAInNTeSpQZnRMZGaLw\" > Naira Marley </a>  and <a href=\"https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL?si=QYs1j5iLSJaNsetulQjllA\" > BackRoad Gee</a> ",
+  "num_followers": 9462,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MDc3NiwwMDAwMDAwMDUwMmQ0ODE1NDEyY2Y1OTRiNDc2ZjEwM2E0N2Q5MGVm",
+  "snapshot_id": "MTY2OTM2MDE1NywwMDAwMDAwMDEyOTNmOTRlZmJiM2UxYzdhNzc5YjFmNjNkNjQxMmU2",
   "tracks": [
     {
-      "added_at": "2022-11-14 10:43:13",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Special (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/6MtFM9kbhhuN04rwDxPvn4"
+      "duration_ms": 192417,
+      "name": "Fountains (with Tems)",
+      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+    },
+    {
+      "added_at": "2022-11-25 07:09:17",
+      "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
+    },
+    {
+      "added_at": "2022-08-25 11:00:00",
+      "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -75,6 +179,86 @@
       "duration_ms": 239441,
       "name": "Chale (feat. Clementine Douglas) - Amapiano Remix",
       "url": "https://open.spotify.com/track/12Ribc4xP16sIgFOvMdexc"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Simmer (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Be Honest (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 207030,
+      "name": "Be Honest (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
+    },
+    {
+      "added_at": "2022-11-14 10:43:13",
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Special (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6MtFM9kbhhuN04rwDxPvn4"
     },
     {
       "added_at": "2022-09-29 23:00:00",
@@ -141,26 +325,6 @@
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
     },
     {
-      "added_at": "2022-08-25 11:00:00",
-      "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
-    },
-    {
       "added_at": "2022-11-14 10:43:13",
       "album": {
         "name": "More Love, Less Ego",
@@ -185,44 +349,80 @@
       "url": "https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
+        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+      "duration_ms": 135480,
+      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
+      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Manny Nort\u00e9",
+          "url": "https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
         }
       ],
-      "duration_ms": 248040,
-      "name": "Essence (feat. Tems)",
-      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+      "duration_ms": 225146,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
     },
     {
       "added_at": "2022-10-28 12:36:58",
@@ -249,6 +449,26 @@
       "url": "https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu"
     },
     {
+      "added_at": "2022-11-25 07:09:17",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/5L6VbQiCxri3Nc34RvNUon"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 206286,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/2TRVQlpDjhej74USx0RMF1"
+    },
+    {
       "added_at": "2022-11-18 11:26:16",
       "album": {
         "name": "Namek",
@@ -269,28 +489,24 @@
       "url": "https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy"
     },
     {
-      "added_at": "2022-11-04 00:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/7d81pDqBMRftoYFdi07C8m"
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 194115,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/0jJD1bkgMc3XkBtRShAkAv"
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -307,6 +523,26 @@
       "duration_ms": 208350,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "My Man",
+        "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "My Man",
+      "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -331,6 +567,46 @@
       "duration_ms": 195213,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
+    },
+    {
+      "added_at": "2022-07-08 06:09:58",
+      "album": {
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -373,24 +649,28 @@
       "url": "https://open.spotify.com/track/5shjJZp662loniBOyjqr8h"
     },
     {
-      "added_at": "2022-11-18 11:26:16",
+      "added_at": "2022-11-25 07:09:17",
       "album": {
-        "name": "Help (feat. Pheelz)",
-        "url": "https://open.spotify.com/album/5xKdduUE9fNJW743rjCJib"
+        "name": "Propeller (feat. BNXN & Pajel) [Remix]",
+        "url": "https://open.spotify.com/album/2UhHDTS4zYq8Xua2xFLytW"
       },
       "artists": [
         {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         },
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
         }
       ],
-      "duration_ms": 163908,
-      "name": "Help (feat. Pheelz)",
-      "url": "https://open.spotify.com/track/288aAe5WOx05x67lDxvuTE"
+      "duration_ms": 186947,
+      "name": "Propeller (feat. BNXN & Pajel) - Remix",
+      "url": "https://open.spotify.com/track/07hlCKUyt1TxgKDSaqlxfh"
     },
     {
       "added_at": "2022-11-14 10:43:13",
@@ -437,26 +717,6 @@
       "url": "https://open.spotify.com/track/0w1i8L6LAP4j1wHX7hQ66e"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Nyash (Current & Savings)",
-        "url": "https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 214280,
-      "name": "Nyash (Current & Savings)",
-      "url": "https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p"
-    },
-    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "Live My Life",
@@ -479,26 +739,6 @@
       "duration_ms": 162678,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/0DCy1IBybL5CsrdMT6rUTN"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2022-11-18 11:26:16",
@@ -537,6 +777,34 @@
       "url": "https://open.spotify.com/track/12DkQnpOzB9fuCD88t4UXw"
     },
     {
+      "added_at": "2022-09-02 08:29:29",
+      "album": {
+        "name": "Sugarcane (Latin Remix)",
+        "url": "https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Green Cookie",
+          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+        }
+      ],
+      "duration_ms": 258048,
+      "name": "Sugarcane - Latin Remix",
+      "url": "https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2"
+    },
+    {
       "added_at": "2022-09-29 23:00:00",
       "album": {
         "name": "Palmwine Music 3",
@@ -555,30 +823,6 @@
       "duration_ms": 238815,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/0hM8sp03CyYE0KzFcLd65I"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Beauty In The Madness",
-        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 223668,
-      "name": "Beauty In The Madness",
-      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -651,26 +895,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
-        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
-      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
       },
@@ -715,26 +939,6 @@
       "duration_ms": 159172,
       "name": "Chale (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/7xY4usHueVpDIWU8P9FnkV"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
       "added_at": "2022-11-18 11:26:16",
@@ -953,30 +1157,6 @@
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
-      "added_at": "2022-11-18 11:26:16",
-      "album": {
-        "name": "Believe Us",
-        "url": "https://open.spotify.com/album/7AuUUqbxBxn8QIrQu3YcfY"
-      },
-      "artists": [
-        {
-          "name": "ADH",
-          "url": "https://open.spotify.com/artist/4k99IWQOcwyNhLJMBMU6wh"
-        },
-        {
-          "name": "Re.decay",
-          "url": "https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF"
-        },
-        {
-          "name": "Kirani Ayat",
-          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
-        }
-      ],
-      "duration_ms": 143291,
-      "name": "Believe Us",
-      "url": "https://open.spotify.com/track/7cvF9qkXEYNrLveiUVX3qs"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "blessing me (with Pa Salieu & Skillibeng)",
@@ -1109,30 +1289,6 @@
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Propeller (feat. Dave & BNXN)",
-        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
-      },
-      "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Propeller (feat. Dave & BNXN)",
-      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Sinner",
@@ -1155,26 +1311,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192417,
-      "name": "Fountains (with Tems)",
-      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Bad n Rude (feat. WSTRN)",
         "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
       },
@@ -1191,38 +1327,6 @@
       "duration_ms": 226019,
       "name": "Bad n Rude (feat. WSTRN)",
       "url": "https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
-      },
-      "artists": [
-        {
-          "name": "Manny Nort\u00e9",
-          "url": "https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1343,26 +1447,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 180563,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
@@ -1403,26 +1487,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Simmer (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Simmer (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
@@ -1443,46 +1507,6 @@
       "duration_ms": 216706,
       "name": "Own It (feat. Ed Sheeran & Burna Boy)",
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Be Honest (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207030,
-      "name": "Be Honest (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "My Man",
-        "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "My Man",
-      "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1589,34 +1613,6 @@
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
-      "added_at": "2022-09-02 08:29:29",
-      "album": {
-        "name": "Sugarcane (Latin Remix)",
-        "url": "https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Green Cookie",
-          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
-        }
-      ],
-      "duration_ms": 258048,
-      "name": "Sugarcane - Latin Remix",
-      "url": "https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "OCEAN",
@@ -1671,26 +1667,6 @@
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-07-08 06:09:58",
-      "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1787,26 +1763,6 @@
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
-    },
-    {
-      "added_at": "2022-08-05 07:07:51",
-      "album": {
-        "name": "In Da Car",
-        "url": "https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 258320,
-      "name": "In Da Car",
-      "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
     },
     {
       "added_at": "2022-06-30 23:00:00",

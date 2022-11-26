@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 18538,
+  "num_followers": 18581,
   "original_name": "The Nordic Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1OTc3MSwwMDAwMDAwMGUxODA0MWU1YjY4Y2JmMmUyNWMxM2UxZjFlMTYwODI1",
+  "snapshot_id": "MTY2ODc1OTc3MSwwMDAwMDAwMDExZGJlNTc2YTUwYjU3ODRiMWMwYjMyMWYzNjE5MDU3",
   "tracks": [
     {
       "added_at": "2022-11-18 08:22:51",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
+        "name": "Cirklar",
+        "url": "https://open.spotify.com/album/5TIo91wP9nusWE2LJTKzPM"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "Vulkanen",
+      "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
+    },
+    {
+      "added_at": "2022-11-18 08:22:51",
+      "album": {
         "name": "Bayou",
         "url": "https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 183493,
       "name": "Como",
       "url": "https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM"
-    },
-    {
-      "added_at": "2022-11-18 08:22:51",
-      "album": {
-        "name": "Cirklar",
-        "url": "https://open.spotify.com/album/5TIo91wP9nusWE2LJTKzPM"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 289733,
-      "name": "Vulkanen",
-      "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
     },
     {
       "added_at": "2022-11-18 08:22:51",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
+        "name": "Wood Circles",
+        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+      },
+      "artists": [
+        {
+          "name": "Thommy Andersson",
+          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+        }
+      ],
+      "duration_ms": 323176,
+      "name": "Fanfar",
+      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
+    },
+    {
+      "added_at": "2022-11-18 08:22:51",
+      "album": {
         "name": "Last Spring",
         "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
-        "name": "Wood Circles",
-        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
       },
       "artists": [
         {
-          "name": "Thommy Andersson",
-          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
         }
       ],
-      "duration_ms": 323176,
-      "name": "Fanfar",
-      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
+      "duration_ms": 301840,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
     },
     {
       "added_at": "2022-11-18 08:22:51",
@@ -1059,6 +1075,22 @@
       "duration_ms": 285773,
       "name": "How Could It Be?",
       "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+    },
+    {
+      "added_at": "2022-11-18 08:22:51",
+      "album": {
+        "name": "Meles Meles Revisited",
+        "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "duration_ms": 275474,
+      "name": "Meles Meles Revisited",
+      "url": "https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7"
     },
     {
       "added_at": "2022-11-18 08:22:51",
@@ -1087,54 +1119,6 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
-        "name": "Meles Meles Revisited",
-        "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        }
-      ],
-      "duration_ms": 275474,
-      "name": "Meles Meles Revisited",
-      "url": "https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7"
-    },
-    {
-      "added_at": "2022-11-18 08:22:51",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
-    },
-    {
-      "added_at": "2022-11-18 08:22:51",
-      "album": {
-        "name": "Nearly Invisible Stitches",
-        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 403513,
-      "name": "Nearly Invisible Stitches",
-      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
-    },
-    {
-      "added_at": "2022-11-18 08:22:51",
-      "album": {
         "name": "Perfectly Unhappy",
         "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 336533,
       "name": "Naked Trees",
       "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
+    },
+    {
+      "added_at": "2022-11-18 08:22:51",
+      "album": {
+        "name": "Nearly Invisible Stitches",
+        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 403513,
+      "name": "Nearly Invisible Stitches",
+      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
     },
     {
       "added_at": "2022-11-18 08:22:51",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
-        "name": "Salmesykkel",
-        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
-      },
-      "artists": [
-        {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 169639,
-      "name": "Bibelbeltet",
-      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
-    },
-    {
-      "added_at": "2022-11-18 08:22:51",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2022-11-18 08:22:51",
+      "album": {
+        "name": "Salmesykkel",
+        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
+      },
+      "artists": [
+        {
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+        }
+      ],
+      "duration_ms": 169639,
+      "name": "Bibelbeltet",
+      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
     },
     {
       "added_at": "2022-11-18 08:22:51",
@@ -1327,26 +1327,30 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
-        "name": "Being",
-        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+        "name": "The Height of the Reeds",
+        "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
       },
       "artists": [
         {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
         },
         {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
         },
         {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        },
+        {
+          "name": "Jez Riley French",
+          "url": "https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc"
         }
       ],
-      "duration_ms": 380306,
-      "name": "The Pondering",
-      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
+      "duration_ms": 263137,
+      "name": "Height of the Reeds in the Wetlands",
+      "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
     },
     {
       "added_at": "2022-11-18 08:22:51",
@@ -1375,6 +1379,30 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 380306,
+      "name": "The Pondering",
+      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
+    },
+    {
+      "added_at": "2022-11-18 08:22:51",
+      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1399,34 +1427,6 @@
       "duration_ms": 415186,
       "name": "The Lugubrious Youth Of Lucky Luke",
       "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
-    },
-    {
-      "added_at": "2022-11-18 08:22:51",
-      "album": {
-        "name": "The Height of the Reeds",
-        "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        },
-        {
-          "name": "Jez Riley French",
-          "url": "https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc"
-        }
-      ],
-      "duration_ms": 263137,
-      "name": "Height of the Reeds in the Wetlands",
-      "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
     },
     {
       "added_at": "2022-11-18 08:22:51",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
-        "name": "Both Only",
-        "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
-      },
-      "artists": [
-        {
-          "name": "Joona Toivanen Trio",
-          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
-        }
-      ],
-      "duration_ms": 341248,
-      "name": "Faculties",
-      "url": "https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl"
-    },
-    {
-      "added_at": "2022-11-18 08:22:51",
-      "album": {
         "name": "Trondheim Jazz Orchestra with Sofia Jernberg & Olav Lukseng\u00e5rd Mjelva",
         "url": "https://open.spotify.com/album/0KXmbhHnUtgpaU0x9Xh3gL"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 416240,
       "name": "Pols etter Marta-Johannes",
       "url": "https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b"
+    },
+    {
+      "added_at": "2022-11-18 08:22:51",
+      "album": {
+        "name": "Both Only",
+        "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
+      },
+      "artists": [
+        {
+          "name": "Joona Toivanen Trio",
+          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+        }
+      ],
+      "duration_ms": 341248,
+      "name": "Faculties",
+      "url": "https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl"
     },
     {
       "added_at": "2022-11-18 08:22:51",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2022-11-18 08:22:51",
       "album": {
-        "name": "Kyanos",
-        "url": "https://open.spotify.com/album/05RIraQ3VTPYP7DK3VmFCq"
-      },
-      "artists": [
-        {
-          "name": "Jon Balke",
-          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
-        },
-        {
-          "name": "Magnetic North Orchestra",
-          "url": "https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "Mutatio",
-      "url": "https://open.spotify.com/track/4oCM3JquuXQZhMJzx5O5Jd"
-    },
-    {
-      "added_at": "2022-11-18 08:22:51",
-      "album": {
         "name": "Rica",
         "url": "https://open.spotify.com/album/2P3qOHDL5doBKhulk0xoJX"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 352000,
       "name": "C Moll Maj",
       "url": "https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb"
+    },
+    {
+      "added_at": "2022-11-18 08:22:51",
+      "album": {
+        "name": "Kyanos",
+        "url": "https://open.spotify.com/album/05RIraQ3VTPYP7DK3VmFCq"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Magnetic North Orchestra",
+          "url": "https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Mutatio",
+      "url": "https://open.spotify.com/track/4oCM3JquuXQZhMJzx5O5Jd"
     },
     {
       "added_at": "2022-11-18 08:22:51",

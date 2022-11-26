@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-249 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+251 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Air My Skin](https://open.spotify.com/track/60Rh61lL9Z2YjrZJgUKxKe) | [DTSQ](https://open.spotify.com/artist/3vGeQzeuUCGmnWz8EdeePB) | [Neon\-Coloured Milky Way](https://open.spotify.com/album/66ZaA209fxCAW4A3g77vI9) | 5:19 | 2021-11-12 | 2022-07-13 |
 | [Alquimista](https://open.spotify.com/track/188iyS5xe99axE3wX2pPAD) | [COSMO](https://open.spotify.com/artist/0niuvQnEaBaBVc7nSfyaaT), [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy), [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ), [Will Graefe](https://open.spotify.com/artist/0rivjTqOUngqWm9w5tf5YH), [Jeremy Gustin](https://open.spotify.com/artist/0x3OlNZcrhjvU1nmANdMe5), [Mike Boschen](https://open.spotify.com/artist/0JT6KxolPEsNwijARLjb01), [Benjamin Lazar Davis](https://open.spotify.com/artist/120AN9sqwd6UTkZbnjDPKE) | [Alquimista](https://open.spotify.com/album/1UBCy7CCPsiZQ63hHETUNo) | 3:09 | 2022-03-09 | 2022-07-29 |
 | [Anemone](https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi) | 5:34 | 2022-04-12 |  |
+| [Angel Dust](https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Angel Dust](https://open.spotify.com/album/7qCoXlzYUSkTNP6q5qkh8l) | 6:57 | 2022-11-25 |  |
 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 | 2021-11-12 |  |
 | [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 | 2021-11-12 |  |
 | [At Night in Dreams](https://open.spotify.com/track/6ZeOVOdxz0Sf0o9yf6imUX) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/6BcETfqZtiIw2TmpQGvAGS) | 4:04 | 2021-11-12 | 2022-07-29 |
@@ -38,7 +39,7 @@
 | [Bulls](https://open.spotify.com/track/53wEWsjRb8gjZ7xr8BLzZu) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through the War \(Deluxe Edition\)](https://open.spotify.com/album/1oc26cvGUrojmXC0C4CmYl) | 6:40 | 2021-11-12 | 2022-07-29 |
 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 | 2021-11-12 |  |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-11-12 | 2022-06-18 |
-| [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 |  |
+| [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 | 2022-11-26 |
 | [Caballerango](https://open.spotify.com/track/5k8NaRExvqn0ob1MrvU8Kf) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Caballerango](https://open.spotify.com/album/1X3BkJvSoJehqCpxpb3B6V) | 4:25 | 2021-11-12 | 2022-07-29 |
 | [Cardboard Pile](https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Cardboard Pile](https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x) | 4:06 | 2022-04-12 | 2022-07-29 |
 | [Catatumbo Lightnings](https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey) | [Marie Byrd Land Band](https://open.spotify.com/artist/1qfKVN8ef3WUy7OU08YvYu) | [Lost Lands](https://open.spotify.com/album/00WN8FG1ICNDQlK3kvF1KV) | 4:15 | 2021-11-12 | 2022-07-24 |
@@ -59,7 +60,7 @@
 | [Drunken Leaves](https://open.spotify.com/track/6f5ZBQeO24U6U5iw3cFnj7) | [Assemble Head In Sunburst Sound](https://open.spotify.com/artist/1Nd9wmXkGfM0hTMPlJW2MB) | [When Sweet Sleep Returned](https://open.spotify.com/album/0sDiwLzVhGLE1PC2TIkr2W) | 4:18 | 2021-11-12 | 2022-09-29 |
 | [Döngüm](https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ) | [Journers](https://open.spotify.com/artist/1poI3l63ENJgUiWAKGv2Sp), [Burak Yeşildurak](https://open.spotify.com/artist/3qM6QIAv4X4nCNZd69VFgA), [Metin Akdülger](https://open.spotify.com/artist/0FEcDP4V2l2ktoG1DQL5Qr) | [Döngüm](https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7) | 4:30 | 2021-11-12 |  |
 | [Eat Acid See God](https://open.spotify.com/track/73HwxOOJ6TGAWykzR1Yvav) | [The Gluts](https://open.spotify.com/artist/13WOru4Cg1ZdszgnB1AU17) | [Eat Acid See God](https://open.spotify.com/album/1daapU9if6oenkybF6fTn0) | 7:50 | 2021-11-12 | 2022-05-29 |
-| [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 | 2021-11-12 |  |
+| [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 | 2021-11-12 | 2022-11-26 |
 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 | 2022-04-12 |  |
 | [Ejefjallajökull](https://open.spotify.com/track/4gE0qgEcL3lxiiCnnenhC4) | [Flowers Must Die](https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I) | [Där blommor dör](https://open.spotify.com/album/7jVX2uZskYhrvViAPqEQVq) | 8:49 | 2021-11-12 | 2022-07-23 |
 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 | 2022-08-29 | 2022-10-18 |
@@ -257,5 +258,6 @@
 | [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 | 2021-11-12 |  |
 | [Zeppelin](https://open.spotify.com/track/2pKX8ad4udW2XIbka2P3fe) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Aladin Fox](https://open.spotify.com/album/39ubZMkaMKwvNTnPLkmArp) | 2:33 | 2022-07-01 | 2022-08-04 |
 | [Çarşambayı Sel Aldı](https://open.spotify.com/track/4Rvx92J5G9D840uqgZiLvD) | [Mustafa Özkent](https://open.spotify.com/artist/7AIG5iIr8bQomw1pGrwZZ4) | [Mustafa Özkent Ve Orkestrası Gençlik İle El Ele](https://open.spotify.com/album/3bnqPaNk1lbje5XwhZuPwz) | 2:18 | 2021-11-12 | 2022-07-25 |
+| [新常態](https://open.spotify.com/track/1MEWYQi6lFbpsvwrFrAGSn) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [新常態](https://open.spotify.com/album/0gJn9nbQwbyKyRTQ7mrFN5) | 2:49 | 2022-11-25 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

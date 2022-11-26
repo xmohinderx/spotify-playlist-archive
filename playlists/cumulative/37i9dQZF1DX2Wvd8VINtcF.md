@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-183 songs - 10 hr 21 min - not published yet
+184 songs - 10 hr 23 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Water To The Moon](https://open.spotify.com/track/4OoD2oTiQdH9rQ4pPnIAfT) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Noraa](https://open.spotify.com/artist/3TB54cQWdcg0uDjBoTu6S2) | [Water To The Moon / ok](https://open.spotify.com/album/1q0SuNuVXxZpXdB0YomMBk) | 2:59 | 2022-10-28 |  |
 | [We're Changing](https://open.spotify.com/track/0i3LuvIYhVpXO28GOjojV9) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [We're Changing](https://open.spotify.com/album/70stkQTi9n8LVL8raNSwb4) | 4:08 | 2022-11-24 |  |
 | [What They Call Us](https://open.spotify.com/track/4r7bIvlgghaidRNJghhs3o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What They Call Us](https://open.spotify.com/album/67rERGR5WbUsR5baHR8wIR) | 4:27 | 2022-10-28 | 2022-11-04 |
+| [What’s on Your Mind?](https://open.spotify.com/track/4W2c3LX6S00WBhqUpdTy1A) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [What’s on Your Mind?](https://open.spotify.com/album/5Mb8GVBFQNPoLtiLHBGCTF) | 2:07 | 2022-11-24 |  |
 | [Who Are You](https://open.spotify.com/track/5NIdMH40xs2YIRYRfIV6QP) | [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Who Are You](https://open.spotify.com/album/4CW4C79y9O1GK6Iln645R6) | 2:36 | 2022-11-24 |  |
 | [Who's That Girl](https://open.spotify.com/track/2NpuppKP7KTdlwvSrJ9RZf) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Who's That Girl](https://open.spotify.com/album/3vEoqTGmcaul1mPjPGrmSI) | 2:49 | 2022-11-03 | 2022-11-18 |
 | [Winter Solstice](https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Winter Solstice](https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0) | 3:56 | 2022-10-28 | 2022-11-18 |

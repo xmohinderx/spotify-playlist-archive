@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 31707,
+  "num_followers": 31765,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMDkyZTU1ZWUxMmYwYmNkNWY0MzBmNGZiZjljMmI4Nzgy",
+  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMDI5YmNkN2ZmZWFiY2MxN2FlYTFhNGMzMTU4NGQ3NWNk",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 153871,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 153871,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Remind Me Tomorrow",
         "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 146093,
       "name": "10/10",
       "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Jenny of Oldstones (Game of Thrones)",
-        "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 188638,
-      "name": "Jenny of Oldstones (Game of Thrones)",
-      "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+        "name": "Jenny of Oldstones (Game of Thrones)",
+        "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 273026,
-      "name": "It Might Be Time",
-      "url": "https://open.spotify.com/track/558ubozatFQlweufvHa3Ip"
+      "duration_ms": 188638,
+      "name": "Jenny of Oldstones (Game of Thrones)",
+      "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1107,6 +1091,22 @@
       "duration_ms": 219428,
       "name": "Fuzzybrain",
       "url": "https://open.spotify.com/track/5sVXCez77vrBgDoeJKfv4U"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "It Might Be Time",
+      "url": "https://open.spotify.com/track/558ubozatFQlweufvHa3Ip"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 213173,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG"
+      "duration_ms": 138115,
+      "name": "Doom Days",
+      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 138115,
-      "name": "Doom Days",
-      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
+      "duration_ms": 213173,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": "2022-09-16 04:53:36",

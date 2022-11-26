@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,259 likes - 43 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,273 likes - 43 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

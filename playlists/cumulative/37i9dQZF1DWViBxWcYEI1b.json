@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Shania Twain",
+  "description": "For those with a taste for both the new and the classic. Cover: Billianne",
   "name": "Contemporary Blend",
   "published_playlist_ids": [
     "3C1K5LpRz1NNeHvy2kRwbA"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 163628,
       "name": "Can't Give Up",
       "url": "https://open.spotify.com/track/24bUSn4O0HA8c3Y2mi5NqS"
@@ -2323,7 +2323,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194255,
       "name": "Electric Life",
       "url": "https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj"
@@ -2367,6 +2367,24 @@
       "duration_ms": 261622,
       "name": "Empty Hands",
       "url": "https://open.spotify.com/track/18vqU2qFGKhbtjXLUivJdV"
+    },
+    {
+      "album": {
+        "name": "Manic Party",
+        "url": "https://open.spotify.com/album/2C1HRx9Ao5sfj68lROoKkE"
+      },
+      "artists": [
+        {
+          "name": "Tedy",
+          "url": "https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195619,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/1eg0I4UkEhDgaHYxpXXG26"
     },
     {
       "album": {
@@ -3412,6 +3430,24 @@
     },
     {
       "album": {
+        "name": "Hating On Love",
+        "url": "https://open.spotify.com/album/5FSukIm1LBeKjbNjOneb5k"
+      },
+      "artists": [
+        {
+          "name": "Dustin Bird",
+          "url": "https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166591,
+      "name": "Hating On Love",
+      "url": "https://open.spotify.com/track/2hdTsbDzCiI9mMUXvBgDdB"
+    },
+    {
+      "album": {
         "name": "Haunted by Potential",
         "url": "https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2"
       },
@@ -4235,6 +4271,24 @@
       "duration_ms": 204713,
       "name": "I wanna love you but I don\u2019t",
       "url": "https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl"
+    },
+    {
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/3GwSedcMHVElOaF9Wm5Tqx"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192746,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/66qkBxuwjKxEbvLxo4tY0C"
     },
     {
       "album": {
@@ -5605,7 +5659,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 223473,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0Fu5pDkXgHXk2g7XrfvlLG"
@@ -6043,6 +6097,42 @@
       "duration_ms": 145520,
       "name": "Never Had a Chance",
       "url": "https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc"
+    },
+    {
+      "album": {
+        "name": "No Wonder",
+        "url": "https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201278,
+      "name": "No Wonder",
+      "url": "https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3"
+    },
+    {
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
     },
     {
       "album": {
@@ -7006,6 +7096,24 @@
     },
     {
       "album": {
+        "name": "Scared of Love",
+        "url": "https://open.spotify.com/album/6zxX2rDdkJxtILAlMxHtiM"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169881,
+      "name": "Scared of Love",
+      "url": "https://open.spotify.com/track/3sN0PsHUCr7C2W1G0vOMOY"
+    },
+    {
+      "album": {
         "name": "See The Light",
         "url": "https://open.spotify.com/album/6rRdg4kawkdtaO6Pe1K6aY"
       },
@@ -7147,7 +7255,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 177982,
       "name": "Slow Dance In The Morning",
       "url": "https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa"
@@ -7381,7 +7489,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 224571,
       "name": "someone I don\u2019t know",
       "url": "https://open.spotify.com/track/7EvmiaDeCHRKMfQoyrLkBv"
@@ -7609,7 +7717,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
@@ -7859,6 +7967,28 @@
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274506,
+      "name": "The Loneliest Time (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
     },
     {
       "album": {
@@ -8375,7 +8505,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 207085,
       "name": "Way It Is",
       "url": "https://open.spotify.com/track/0TvcmPpFvMpj88NFnX4FCt"

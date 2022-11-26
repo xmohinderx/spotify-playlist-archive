@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: merrymerryseoul\(메리메리서울\)\)
 
-134 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+136 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-28 | 2022-08-13 |
 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-28 | 2022-08-13 |
 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 | 2022-10-14 |  |
+| [Groove Back \(Feat\. Gaeko\)](https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Groove Missing](https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0) | 3:32 | 2022-11-25 |  |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 | 2022-10-05 |
 | [Hangang](https://open.spotify.com/track/5pp2avKhaaAYKrDJpoTD6e) | [Saebyuk](https://open.spotify.com/artist/3bwmvr8GLrXXyxFtbLTyuV) | [Hangang](https://open.spotify.com/album/6ooXFjQ7yNU66cYeGSBv1r) | 3:13 | 2022-05-28 | 2022-06-10 |
 | [Happy Birthday](https://open.spotify.com/track/0fElururinZektfZMpFFdN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Happy Birthday](https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO) | 3:54 | 2022-06-18 | 2022-07-20 |
@@ -96,6 +97,7 @@
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-05-28 | 2022-07-14 |
 | [Night Air \(With\. g1nger\)](https://open.spotify.com/track/5GHNtt4wq9XjKeLTonZNdd) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [Yellow](https://open.spotify.com/album/6x9ZhTzPQNzzcgCncunY8M) | 3:57 | 2022-05-28 | 2022-07-05 |
 | [No.5](https://open.spotify.com/track/49n3XWprPOrQP8O50Ue9ls) | [MarginChoi](https://open.spotify.com/artist/1jQTEipNOZS8UPk53wxVfB), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [No.5](https://open.spotify.com/album/2Wnge9eiuPNX0EJFzDNfys) | 2:53 | 2022-05-28 | 2022-06-21 |
+| [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl) | 4:13 | 2022-11-25 |  |
 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-09 |  |
 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 | 2022-07-07 | 2022-11-15 |
 | [On Television](https://open.spotify.com/track/3DDxYH9abbGUXUeUwVVluA) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [On Television](https://open.spotify.com/album/2X6AqA8wXcPAVHrxW1mMlF) | 3:06 | 2022-05-28 | 2022-06-15 |

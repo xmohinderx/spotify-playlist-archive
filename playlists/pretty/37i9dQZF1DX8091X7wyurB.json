@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 24281,
+  "num_followers": 24346,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MTgxNywwMDAwMDAwMDVlMmZjYjMxYWE0ZTkwM2RkZTMxNmE0YjFhMTNkOGVl",
+  "snapshot_id": "MTY2OTM2MjUzMSwwMDAwMDAwMDk0Y2Y2NzNiZjQzNjUwOTAwNDI0MzJkNmZhZTY5ZmYz",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
-      "added_at": "2022-11-25 01:34:34",
+      "added_at": "2022-11-18 11:43:37",
       "album": {
         "name": "Mercy (Sho Mo)",
         "url": "https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx"
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
         "name": "Hosanna",
         "url": "https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 197795,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2022-10-21 06:09:31",
@@ -1137,26 +1137,6 @@
       "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
     },
     {
-      "added_at": "2022-09-30 06:46:03",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
-      },
-      "artists": [
-        {
-          "name": "Celebrate Africa",
-          "url": "https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8"
-        },
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 224203,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Greenland",
@@ -1175,6 +1155,26 @@
       "duration_ms": 258893,
       "name": "Green Land",
       "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
+    },
+    {
+      "added_at": "2022-09-30 06:46:03",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
+      },
+      "artists": [
+        {
+          "name": "Celebrate Africa",
+          "url": "https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 224203,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
+        "name": "Mo Ne Yo",
+        "url": "https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 269169,
+      "name": "Mo Ne Yo",
+      "url": "https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/3fxGuECzrTfEaPpQOOHbUh"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 127200,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/6DGi6J7yowxdGkzWBuXa28"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Mo Ne Yo",
-        "url": "https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 269169,
-      "name": "Mo Ne Yo",
-      "url": "https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5"
     }
   ],
   "unique_name": "Praise and Worship",

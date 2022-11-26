@@ -870,6 +870,28 @@
     },
     {
       "album": {
+        "name": "Almanaque",
+        "url": "https://open.spotify.com/album/3ZAKehawQdF1HlKRFJVZ8l"
+      },
+      "artists": [
+        {
+          "name": "Midel",
+          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Almanaque",
+      "url": "https://open.spotify.com/track/5N5E4FH3cNaRV23HvmYNEe"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
       },
@@ -1369,7 +1391,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194400,
       "name": "Bailando Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi"
@@ -2474,6 +2496,32 @@
     },
     {
       "album": {
+        "name": "Chilling",
+        "url": "https://open.spotify.com/album/3KPGam3uCJQyTuy6mDiE0H"
+      },
+      "artists": [
+        {
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
+        },
+        {
+          "name": "Matias Emilio",
+          "url": "https://open.spotify.com/artist/4dMiDoK6A4SUqsHipozmjc"
+        },
+        {
+          "name": "Kuroh",
+          "url": "https://open.spotify.com/artist/1SWKdOrynsD5faJKAoYTPp"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211099,
+      "name": "Chilling",
+      "url": "https://open.spotify.com/track/2MRjMUkk3Grnb4XOgEPLKJ"
+    },
+    {
+      "album": {
         "name": "Chocolate (feat. JeizonTyago)",
         "url": "https://open.spotify.com/album/48oVPEO0r7qJoJ6kI8JQIi"
       },
@@ -3445,7 +3493,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 141702,
       "name": "De Vacaciones",
       "url": "https://open.spotify.com/track/0hRKaSIym7bBRZ5oXLUsfx"
@@ -3643,7 +3691,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 189614,
       "name": "Despu\u00e9s Nos Vemos",
       "url": "https://open.spotify.com/track/5nG0A0k4NIXdfYPWH8Yt5S"
@@ -4352,6 +4400,24 @@
     },
     {
       "album": {
+        "name": "El Cuento",
+        "url": "https://open.spotify.com/album/0T8A6qGrHAzwV1v6WZ8HVO"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "El Cuento",
+      "url": "https://open.spotify.com/track/4GQy8e5Bt0nbrNecrKYJo8"
+    },
+    {
+      "album": {
         "name": "El Maquinon",
         "url": "https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P"
       },
@@ -4723,7 +4789,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 174315,
       "name": "Experimento 01",
       "url": "https://open.spotify.com/track/25yOopxmGC67836N4POHBg"
@@ -4989,7 +5055,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 241224,
       "name": "Flaytiando",
       "url": "https://open.spotify.com/track/7ccoyhNAr3OY5IQsvpQnck"
@@ -5207,6 +5273,24 @@
       "duration_ms": 193793,
       "name": "Fruto",
       "url": "https://open.spotify.com/track/5JaVL4iSDG79vANRbIXRz2"
+    },
+    {
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "album": {
@@ -7609,10 +7693,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "album": {
+        "name": "Los Tibur\u00f3n",
+        "url": "https://open.spotify.com/album/4lyrIK0Q6HYjWK5v4G421L"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Los Tibur\u00f3n",
+      "url": "https://open.spotify.com/track/7tMmITKQvNcDoVlWAckhRx"
     },
     {
       "album": {
@@ -8633,7 +8735,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 218006,
       "name": "Mi Waxita",
       "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
@@ -8777,6 +8879,28 @@
       "duration_ms": 151111,
       "name": "Mil Puertas",
       "url": "https://open.spotify.com/track/3AJT7WVgJGalbwQ5BcSskz"
+    },
+    {
+      "album": {
+        "name": "Milagro",
+        "url": "https://open.spotify.com/album/1xtiQEBXxKwPqbosumCBYH"
+      },
+      "artists": [
+        {
+          "name": "DEFENSA",
+          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199132,
+      "name": "Milagro",
+      "url": "https://open.spotify.com/track/4aaghogCTmN6I3rybbRXAb"
     },
     {
       "album": {
@@ -12787,7 +12911,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 201640,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/0KlXfxDmQqz4ajLc4cksyy"
@@ -13172,6 +13296,28 @@
     },
     {
       "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207835,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
+    },
+    {
+      "album": {
         "name": "Size",
         "url": "https://open.spotify.com/album/2UxYZeQpQXPg8amyi9qSOc"
       },
@@ -13371,6 +13517,28 @@
       "duration_ms": 117559,
       "name": "Subo",
       "url": "https://open.spotify.com/track/4RrutsBwjvenTMHrbtgpkl"
+    },
+    {
+      "album": {
+        "name": "Suelta (feat. Gutta)",
+        "url": "https://open.spotify.com/album/1DcXmIYrKzOoWmDM5zD3ow"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        },
+        {
+          "name": "Gutta",
+          "url": "https://open.spotify.com/artist/5WMVr83rEuJ31GeB9KtnkM"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159706,
+      "name": "Suelta (feat. Gutta)",
+      "url": "https://open.spotify.com/track/4Q2MfONUCXHW4SEDbxucq2"
     },
     {
       "album": {
@@ -15380,6 +15548,28 @@
     },
     {
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197434,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
+    },
+    {
+      "album": {
         "name": "WACHA",
         "url": "https://open.spotify.com/album/6DHfMP3XhSQYlxs5a9l7s4"
       },
@@ -15395,7 +15585,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 206360,
       "name": "WACHA",
       "url": "https://open.spotify.com/track/5RmSunLqeDqNWww8LWhAiK"

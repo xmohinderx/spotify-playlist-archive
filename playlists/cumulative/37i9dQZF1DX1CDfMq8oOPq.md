@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: ABRONCA
 
-96 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
+97 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Malandrona](https://open.spotify.com/track/5CNE1OG4dUufkO8NrKlfxF) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Malandrona](https://open.spotify.com/album/2zMrmtd5uzAjLO83Fr2pVc) | 3:24 | 2022-03-11 | 2022-10-15 |
 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 | 2022-11-21 |  |
 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 | 2022-03-11 |  |
-| [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 |  |
+| [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 | 2022-11-26 |
 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 | 2022-03-11 |  |
 | [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 | 2022-03-11 |  |
 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 | 2022-07-08 |  |
@@ -63,6 +63,7 @@
 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 | 2022-06-17 |  |
 | [Muito Calma](https://open.spotify.com/track/484fU778Jn6fDeULn8idei) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Muito Calma](https://open.spotify.com/album/4VJMzjxx8vs1mJTbpJazrN) | 3:02 | 2022-03-11 | 2022-09-18 |
 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 | 2022-03-11 |  |
+| [Mute](https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Mute](https://open.spotify.com/album/7DWW9bwIeodx2l7VVGXq2R) | 2:33 | 2022-11-25 |  |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-04-29 |  |
 | [Novinha da Lancha](https://open.spotify.com/track/234hlFlKjMokIVGIMakFAN) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Novinha da Lancha](https://open.spotify.com/album/0iRAfyQVKFLQO8ti290R9u) | 2:48 | 2022-11-18 |  |
 | [Não Nega](https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Não Nega](https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP) | 3:04 | 2022-08-26 | 2022-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,032 likes - 60 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,115 likes - 60 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 32 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 6:53 |
 | 33 | [I Wonder Who \- Live At The San Diego Civic Center, CA, USA / 1974](https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Live In San Diego '74](https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT) | 9:31 |
 | 34 | [Judgment Day](https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt) | 7:17 |
-| 35 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 |
+| 35 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 |
 | 36 | [Tip of My Hat \(Live\)](https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N) | [Ghost Town Blues Band](https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK) | [Backstage Pass \(Live\)](https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn) | 4:28 |
 | 37 | [Steamroller / Powerful Thing \- Live](https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol.1 \(Live\)](https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3) | 6:22 |
 | 38 | [Weatherman](https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY) | [Tasha Taylor](https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq) | [Ina Forsman, Layla Zoe, Tasha Taylor](https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3) | 3:38 |
 | 39 | [Woman Like You \- Live](https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:20 |
-| 40 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 |
+| 40 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 |
 | 41 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
 | 42 | [Everyday I Have The Blues \- Live \(San Quentin\)](https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At San Quentin](https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2) | 4:41 |
 | 43 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 55 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
 | 56 | [Night Train \- Live](https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo) | 4:58 |
 | 57 | [Red Light \- Live](https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Live at the Ryman](https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1) | 10:15 |
-| 58 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Liquid Quartet Live](https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X) | 5:20 |
-| 59 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
+| 58 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
+| 59 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Liquid Quartet Live](https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X) | 5:20 |
 | 60 | [True Lies \- Live](https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Live in Chicago](https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa) | 5:54 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDc4MmVjMTJiZDk2YzdhOGI0YjgyYTRhMGE4NmVkMzBm`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGU5NmFmYjAyNmFhZWU0MjFhNDRiYzI4MTcxNmQ0YWJj`

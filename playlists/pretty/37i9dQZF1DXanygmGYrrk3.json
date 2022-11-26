@@ -1,12 +1,12 @@
 {
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Los Dorados",
-  "num_followers": 176066,
+  "num_followers": 176308,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMxMjE3MywwMDAwMDAwMDllNmJkMDhkZGMxODFhMjdlM2RjY2E2ODA5OWFlYjlm",
+  "snapshot_id": "MTY2OTMxMjE3MywwMDAwMDAwMDg3NWFhNGMzMDAzYTQ2NDk0OGI4MWZlNGUxN2Q0ZTIz",
   "tracks": [
     {
       "added_at": "2022-11-24 17:49:33",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 202560,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -659,6 +639,26 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Ha\u0301blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+      "duration_ms": 190773,
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
         "name": "L\u00edricas De Oro",
         "url": "https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 146839,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/0q1H8leLjzZvjHhgNBiVOx"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+      "duration_ms": 234000,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "Tan Bella y Tan Presumida",
-        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida",
-      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -1435,22 +1419,6 @@
       "duration_ms": 183600,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/0Axl0XXpjltt7Hi6mzeAhx"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
-        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -1471,6 +1439,38 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
+        "name": "Tan Bella y Tan Presumida",
+        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida",
+      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
+        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
         "name": "Me Hiciste un Borracho",
         "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "No Paras de Hacerme Feliz",
         "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 338901,
-      "name": "Mi \u00daltima Caravana",
-      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "Agarra Tu Camino",
         "url": "https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 234895,
       "name": "Agarra Tu Camino",
       "url": "https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
+        "name": "Amistad y Pesos",
+        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 338901,
+      "name": "Mi \u00daltima Caravana",
+      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "A Trav\u00e9s del Vaso",
-        "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arranke",
-          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
-        }
-      ],
-      "duration_ms": 188661,
-      "name": "A Trav\u00e9s del Vaso",
-      "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
+        "name": "A Trav\u00e9s del Vaso",
+        "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arranke",
+          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
+        }
+      ],
+      "duration_ms": 188661,
+      "name": "A Trav\u00e9s del Vaso",
+      "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
-        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Radicamos En South Central",
-      "url": "https://open.spotify.com/track/1kHpljP6paUsQyZgwFDfxn"
+      "duration_ms": 188586,
+      "name": "Mi Meta Contigo",
+      "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
+        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 188586,
-      "name": "Mi Meta Contigo",
-      "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
+      "duration_ms": 228853,
+      "name": "Radicamos En South Central",
+      "url": "https://open.spotify.com/track/1kHpljP6paUsQyZgwFDfxn"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "El Dinero Los Cambio",
-        "url": "https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "El Dinero Los Cambio",
-      "url": "https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 182106,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
+        "name": "El Dinero Los Cambio",
+        "url": "https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "El Dinero Los Cambio",
+      "url": "https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz"
     },
     {
       "added_at": "2022-11-24 17:49:33",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
+        "name": "M\u00e1s Especial",
+        "url": "https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
         "name": "Miami Vibe",
         "url": "https://open.spotify.com/album/2yPySu8gh3DE4dTpwSvLBI"
       },
@@ -2439,22 +2455,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "M\u00e1s Especial",
-        "url": "https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2022-11-24 17:49:33",
       "album": {
-        "name": "Todo Va Estar Bien",
-        "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 176403,
-      "name": "El Lujo de Tenerte",
-      "url": "https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z"
-    },
-    {
-      "added_at": "2022-11-24 17:49:33",
-      "album": {
         "name": "Unas M\u00edas y Otras Prestadas",
         "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 218709,
       "name": "Vete",
       "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
+    },
+    {
+      "added_at": "2022-11-24 17:49:33",
+      "album": {
+        "name": "Todo Va Estar Bien",
+        "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 176403,
+      "name": "El Lujo de Tenerte",
+      "url": "https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z"
     },
     {
       "added_at": "2022-11-24 17:49:33",

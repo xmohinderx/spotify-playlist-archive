@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-156 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
+157 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [At the end of the rainbow](https://open.spotify.com/track/2NbeFx2EkyKSBO6FgplMtu) | [Marla Palmer](https://open.spotify.com/artist/0Lb5pc59B3IA8uJj6eDcc1) | [At the end of the rainbow](https://open.spotify.com/album/0xoqZY93uOgFAoj5cgR5D0) | 1:07 | 2021-11-11 |  |
 | [Ave Maria](https://open.spotify.com/track/24ibSZ5jmqphjFRNZNS9QK) | [Dulce de Lago](https://open.spotify.com/artist/4Oi1HzgJuS0O66JmE9ADKd) | [Ave Maria](https://open.spotify.com/album/2wJ3eAgiajdmxhJOasus5a) | 2:12 | 2021-11-11 | 2022-01-22 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/4sivZLx2TJPQJOdSi4JJ9A) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Bells Vol\. 1](https://open.spotify.com/album/3wZWJPLXoP5Yi1tp0F2q4q) | 1:07 | 2022-04-22 |  |
-| [Baby Schlaf](https://open.spotify.com/track/6lPOEtDEp60TrJgsNdsIw5) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby beruhigen mit Babymusik Vol.2](https://open.spotify.com/album/1KQBEv0ESMYIpktbDp6PXI) | 2:55 | 2021-11-11 |  |
+| [Baby Schlaf](https://open.spotify.com/track/6lPOEtDEp60TrJgsNdsIw5) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby beruhigen mit Babymusik Vol.2](https://open.spotify.com/album/1KQBEv0ESMYIpktbDp6PXI) | 2:55 | 2021-11-11 | 2022-11-26 |
 | [Baby Sleep](https://open.spotify.com/track/5WyqPzL5Zq1gNQWyRJYen2) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby Songs For Bedtime And Relaxation](https://open.spotify.com/album/3C2anDtIwBUf0Wfy8JHBEZ) | 1:26 | 2021-11-11 |  |
 | [Bä, bä, vita lamm](https://open.spotify.com/track/6htveJwcC07JoPa71x8ljE) | [Anna\-Lisa Hemming](https://open.spotify.com/artist/5YYU0jVhnwE2PyM0zBiaTw) | [Bä, bä, vita lamm](https://open.spotify.com/album/2vdvrIlyOOvzVoXRWj5jxg) | 1:56 | 2021-11-11 |  |
 | [Bedtime Waltz](https://open.spotify.com/track/4dsaZvjzwm2hG9zD13aMCX) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Bells Vol\. 2](https://open.spotify.com/album/4DL6uFHFlAzCwJy5W3VjQ6) | 1:19 | 2022-07-29 |  |
@@ -125,6 +125,7 @@
 | [Sleepy Cat](https://open.spotify.com/track/7wtMEwqhZYAU4anoE8oiXc) | [Grady Spears](https://open.spotify.com/artist/2GXt9sALXllpAl8Ywqc90Q) | [Sleepy Cat](https://open.spotify.com/album/3wym6bkzRb86E4s1Qi2dIn) | 1:18 | 2022-05-17 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/53mfvorO6wNhT0isp1gbE9) | [Wright Priestley](https://open.spotify.com/artist/0LaG9s5wrLFkfJNSQGwOwp) | [Sleepy Eyes](https://open.spotify.com/album/4YtEguKm1Xv9k39LzmdBP7) | 1:41 | 2022-10-26 |  |
 | [Sleepy Pony](https://open.spotify.com/track/0gcNpnplQquN7kAhIRV94O) | [Quincey Sessions](https://open.spotify.com/artist/16rAx6s1F0u4VRj6IAP08J) | [Sleepy Pony](https://open.spotify.com/album/4ogJez3t6b71R4wetU5UBq) | 1:22 | 2022-07-29 |  |
+| [Squirrels Dancing](https://open.spotify.com/track/7b6hFe41niNm2aUcTcgR60) | [Miss Goleta](https://open.spotify.com/artist/4gSHS9XFrN73A6cBEbhSG8) | [Squirrels Dancing](https://open.spotify.com/album/2QFk3E4Jpl1CyCFOfzIGhU) | 1:39 | 2022-11-25 |  |
 | [Stars Above](https://open.spotify.com/track/4dqmR8MD5E9mMThNG1bXuB) | [Kaiden Hawk](https://open.spotify.com/artist/1YhKED579GDUJbwmCUnkKe) | [Stars Above](https://open.spotify.com/album/4pFvGbhYxFEEU8TziuxVP2) | 1:24 | 2022-06-30 |  |
 | [Sun In My Eyes](https://open.spotify.com/track/1QEiKQbesLEcfCKMvMoyDU) | [Blaire Sparks](https://open.spotify.com/artist/7rnVXAl4bjbUK8Tm8HiUg1) | [Sun In My Eyes](https://open.spotify.com/album/5cq6iJflctdfttzrimdfMm) | 2:00 | 2021-11-11 |  |
 | [Sunbeam](https://open.spotify.com/track/5sN2ztotXMAalZaQmmfMeZ) | [Chiara Almanza](https://open.spotify.com/artist/1moO688fElQ5uMSbixmBya) | [Peace and Quiet](https://open.spotify.com/album/077PeucgkWd6GbZauVg4kL) | 2:11 | 2021-11-11 |  |

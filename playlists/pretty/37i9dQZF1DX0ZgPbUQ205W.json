@@ -1,12 +1,12 @@
 {
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
-  "num_followers": 63117,
+  "num_followers": 63183,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDRlNGZlYmU1ZTFhZDUzOGQxMjU0ZGY0Y2FkYjc2MDRl",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDE3MzNiMzViYzFhZDJjYTcyM2RjYTk4NDk5YjJmMDQ2",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Chances Are",
-        "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
-      },
-      "artists": [
-        {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
-        }
-      ],
-      "duration_ms": 282391,
-      "name": "Chances Are",
-      "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "All the Stars",
         "url": "https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 328810,
       "name": "All the Stars",
       "url": "https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Chances Are",
+        "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 282391,
+      "name": "Chances Are",
+      "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR"
-      },
-      "artists": [
-        {
-          "name": "Tiril Brandt",
-          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
-        }
-      ],
-      "duration_ms": 242399,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Sally Waits",
         "url": "https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 158645,
       "name": "Forget About It, Al",
       "url": "https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR"
+      },
+      "artists": [
+        {
+          "name": "Tiril Brandt",
+          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
+        }
+      ],
+      "duration_ms": 242399,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Almond Joy",
-        "url": "https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 183391,
-      "name": "New Hampshire",
-      "url": "https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Intangible",
         "url": "https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 302645,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Almond Joy",
+        "url": "https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 183391,
+      "name": "New Hampshire",
+      "url": "https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Lonely Dreams",
+        "url": "https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "duration_ms": 217238,
+      "name": "Lonely Dreams",
+      "url": "https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "The Reasons That I Love You",
         "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Lonely Dreams",
-        "url": "https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5"
+        "name": "Forever Promises",
+        "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
       },
       "artists": [
         {
-          "name": "Andy Luma Trio",
-          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
         }
       ],
-      "duration_ms": 217238,
-      "name": "Lonely Dreams",
-      "url": "https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY"
+      "duration_ms": 193237,
+      "name": "Forever Promises",
+      "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -647,22 +663,6 @@
       "duration_ms": 320859,
       "name": "Late Lament",
       "url": "https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Forever Promises",
-        "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "Forever Promises",
-      "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Extended Circle",
-        "url": "https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Quartet",
-          "url": "https://open.spotify.com/artist/0yWGF7B6ZQy6HUg0cEP5lq"
-        }
-      ],
-      "duration_ms": 380293,
-      "name": "The Gift",
-      "url": "https://open.spotify.com/track/7fP3Z0jhBekXWoZL9HsH28"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Over Tage",
         "url": "https://open.spotify.com/album/3d7Q2ztZQOnccU7gJ8y777"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "A Long Story",
-        "url": "https://open.spotify.com/album/4jIyJQ84ajG8EDOZRAd50H"
+        "name": "Extended Circle",
+        "url": "https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ"
       },
       "artists": [
         {
-          "name": "Anat Fort",
-          "url": "https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi"
+          "name": "Tord Gustavsen Quartet",
+          "url": "https://open.spotify.com/artist/0yWGF7B6ZQy6HUg0cEP5lq"
         }
       ],
-      "duration_ms": 134360,
-      "name": "Just Now, Var. III",
-      "url": "https://open.spotify.com/track/2Tox3k9eKRDg0tcsvVIs1a"
+      "duration_ms": 380293,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/7fP3Z0jhBekXWoZL9HsH28"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 146353,
       "name": "Sweet Earth",
       "url": "https://open.spotify.com/track/74zEQOrvwBXDY2omVJrjTL"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "A Long Story",
+        "url": "https://open.spotify.com/album/4jIyJQ84ajG8EDOZRAd50H"
+      },
+      "artists": [
+        {
+          "name": "Anat Fort",
+          "url": "https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi"
+        }
+      ],
+      "duration_ms": 134360,
+      "name": "Just Now, Var. III",
+      "url": "https://open.spotify.com/track/2Tox3k9eKRDg0tcsvVIs1a"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "\u00c1n tillits",
         "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 152234,
       "name": "M\u00f3gr\u00e1",
       "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Komposition VII",
-        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
-      },
-      "artists": [
-        {
-          "name": "Max Agnas",
-          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
-        }
-      ],
-      "duration_ms": 473721,
-      "name": "L\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 215742,
       "name": "Yes to You",
       "url": "https://open.spotify.com/track/59f6KRHixp6XhO0e8LgjmU"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Komposition VII",
+        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
+      },
+      "artists": [
+        {
+          "name": "Max Agnas",
+          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
+        }
+      ],
+      "duration_ms": 473721,
+      "name": "L\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Warp",
-        "url": "https://open.spotify.com/album/32XHiqhjVkOjYz0IHp2Vdv"
-      },
-      "artists": [
-        {
-          "name": "Jon Balke",
-          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Amarinthine",
-      "url": "https://open.spotify.com/track/31c6uaIRRejku8CXA4ms92"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "His Name Is John",
         "url": "https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN"
       },
@@ -1723,30 +1707,38 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "The Door",
-        "url": "https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB"
+        "name": "Warp",
+        "url": "https://open.spotify.com/album/32XHiqhjVkOjYz0IHp2Vdv"
       },
       "artists": [
         {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        },
-        {
           "name": "Jon Balke",
           "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Audun Erlien",
-          "url": "https://open.spotify.com/artist/3PqrFVZBgt9aojin43n6eN"
         }
       ],
-      "duration_ms": 472053,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB"
+      "duration_ms": 183426,
+      "name": "Amarinthine",
+      "url": "https://open.spotify.com/track/31c6uaIRRejku8CXA4ms92"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Good Morning Heartache",
+        "url": "https://open.spotify.com/album/5hViZsJbP1o4f4xAkv2Z5M"
+      },
+      "artists": [
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 325799,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/3Lye44P9cPy94QWjvFRLq4"
     }
   ],
   "unique_name": "Calming Jazz",

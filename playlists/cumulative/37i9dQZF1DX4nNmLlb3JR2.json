@@ -1316,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Levitating",
+        "url": "https://open.spotify.com/album/3JjbiMHjQPwkE8XfpzhFPU"
+      },
+      "artists": [
+        {
+          "name": "Lazarus best for us",
+          "url": "https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209062,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/2VRKuZ26DfWIrzFObvJcMU"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1x0vLnePrBCJOGS42E0FTY"
       },

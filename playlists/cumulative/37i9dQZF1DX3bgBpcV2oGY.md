@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-157 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+158 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Red Fir](https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Esperanza](https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT) | 2:41 | 2022-03-01 |  |
 | [Reflections](https://open.spotify.com/track/0QqRbSMVB8TuRp1mGRwtDU) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Kosmos](https://open.spotify.com/album/4PccTvSaNHUMfjbqaquhSl) | 1:55 | 2021-12-23 | 2022-10-29 |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-03-01 |  |
+| [Savage Silhouettes](https://open.spotify.com/track/3Xg0edgHJLSNyfjwtHHcCh) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Savage Silhouettes](https://open.spotify.com/album/2eYTNL3P3wVZA8kdHgnWxa) | 2:06 | 2022-11-25 |  |
 | [Seerosen Teich](https://open.spotify.com/track/1DOjcrbaQbzU2zyHbBg5KM) | [Marco Tournesol](https://open.spotify.com/artist/1CpSnAYIqeAWZVDyWDqxws) | [Seerosen Teich](https://open.spotify.com/album/3Tsldk3OSEHytaICuSND55) | 2:57 | 2021-12-23 | 2022-10-29 |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-01-07 |  |
 | [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2022-09-23 |  |

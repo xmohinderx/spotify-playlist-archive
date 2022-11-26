@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 112233,
+  "num_followers": 112304,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGUzMGE1MDFmNTcxNGFiNWYxODY0ZmFiZDUxN2I2ZDgz",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDdlODZmNDljMzMzZTRmMzUxNmQ4NzE5MjMyN2U4YTk5",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -105,22 +105,6 @@
       "url": "https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "When It's Time to Go",
-        "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
-      },
-      "artists": [
-        {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "When It's Time to Go",
-      "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Que Mango! Arranged and Conducted by Les Baxter (Remastered from the Original Master Tapes)",
@@ -139,6 +123,22 @@
       "duration_ms": 157077,
       "name": "Tropicando",
       "url": "https://open.spotify.com/track/46SMRZqsnGNdyGPhlcFFWb"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "When It's Time to Go",
+        "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "When It's Time to Go",
+      "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Sacred Idol",
+        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Fruit Of Dreams",
+      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "MGANGA!",
@@ -287,22 +303,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Sacred Idol",
-        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Fruit Of Dreams",
-      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Bossa Novaville",
         "url": "https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 137706,
       "name": "So Nice (Samba De Verao) - Remastered",
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -355,18 +339,18 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Voodoo!",
-        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
       },
       "artists": [
         {
-          "name": "Robert Drasnin",
-          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 165440,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
+        "name": "Voodoo!",
+        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
+      },
+      "artists": [
+        {
+          "name": "Robert Drasnin",
+          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
         "name": "Tiki for the Atomic Age",
         "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 168000,
       "name": "Palace of the Tiger Women",
       "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Primitiva",
+        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 134506,
+      "name": "Llama Serenade",
+      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -467,18 +483,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Primitiva",
-        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+        "name": "On A Magic Carpet",
+        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
       },
       "artists": [
         {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+          "name": "The Three Suns",
+          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
         }
       ],
-      "duration_ms": 134506,
-      "name": "Llama Serenade",
-      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
+      "duration_ms": 198466,
+      "name": "Terry's Theme (From \"Limelight)",
+      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -495,22 +511,6 @@
       "duration_ms": 146733,
       "name": "Kawohikukupulani",
       "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "On A Magic Carpet",
-        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
-      },
-      "artists": [
-        {
-          "name": "The Three Suns",
-          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Terry's Theme (From \"Limelight)",
-      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -579,6 +579,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
+        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
+      },
+      "artists": [
+        {
+          "name": "King Curtis",
+          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Melancholy Serenade - Remastered",
+      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Young Hawaii Plays Old Hawaii",
         "url": "https://open.spotify.com/album/73EtyWy6eklV217lXyE89J"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
-        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
-      },
-      "artists": [
-        {
-          "name": "King Curtis",
-          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Melancholy Serenade - Remastered",
-      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
         "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
-        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
-      },
-      "artists": [
-        {
-          "name": "Jackie Davis",
-          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Glow Worm Cha Cha Cha - Remastered",
-      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Savage And The Sensuous Bongos",
         "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 183573,
       "name": "Head Hunter",
       "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
+        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
+      },
+      "artists": [
+        {
+          "name": "Jackie Davis",
+          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "Glow Worm Cha Cha Cha - Remastered",
+      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -899,6 +899,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 174800,
       "name": "Jivaro",
       "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",

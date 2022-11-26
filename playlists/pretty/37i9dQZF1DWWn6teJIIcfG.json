@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 140592,
+  "num_followers": 141030,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDM5NGM3Y2NlOWM5MWY3ZmRkYzRmZWExNWVkMTEzMTg4",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMGZjNTAxOTY1OTYzZTgzNTkxNTkyMzJjY2EwYmQ4OGI0",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -587,6 +587,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 80280,
+      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
+      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Tchaikovsky: Serenade for Strings - Grieg: Holberg Suite - Mozart: Eine kleine Nachtmusik",
         "url": "https://open.spotify.com/album/6bB2g7YWY6IjetZBzRsWfE"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 209373,
       "name": "Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",
       "url": "https://open.spotify.com/track/7uf3aFC1msj0t5cYImgOWy"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 80280,
-      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
-      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "The Flemish Piano Sonatina in the 20th Century",
-        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
-      },
-      "artists": [
-        {
-          "name": "Georges Lonque",
-          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
-        },
-        {
-          "name": "Daniel Blumenthal",
-          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 292546,
       "name": "Berceuse in D Flat Major, Op. 57",
       "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "The Flemish Piano Sonatina in the 20th Century",
+        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
+      },
+      "artists": [
+        {
+          "name": "Georges Lonque",
+          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
+        },
+        {
+          "name": "Daniel Blumenthal",
+          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
       "artists": [
         {
-          "name": "Emmanuel Pahud",
-          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Christian Rivet",
-          "url": "https://open.spotify.com/artist/4Uz03jdkyGrQHyHepr1Kqk"
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
         }
       ],
-      "duration_ms": 98320,
-      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
-      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Christian Rivet",
+          "url": "https://open.spotify.com/artist/4Uz03jdkyGrQHyHepr1Kqk"
+        }
+      ],
+      "duration_ms": 98320,
+      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
+      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Grieg: Peer Gynt, Suite No. 1, Op. 46 / Suite No. 2, Op. 55 / Holberg Suite, Op. 40",
         "url": "https://open.spotify.com/album/77MuBVRR2QtTckEV4EluCQ"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 202240,
       "name": "Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance",
       "url": "https://open.spotify.com/track/5ebC5YZw56vrVIkIbkbNvP"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -1267,22 +1287,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
         }
       ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1311,26 +1331,6 @@
       "duration_ms": 361493,
       "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
       "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
     }
   ],
   "unique_name": "Creative Focus",

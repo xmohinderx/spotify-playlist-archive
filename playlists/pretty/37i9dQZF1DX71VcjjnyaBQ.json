@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 335990,
+  "num_followers": 336063,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDFmMzY1ODNhZGVkZmFmNzQxODYyZjU5MWNiMjkxZWFh",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGY0MTNlZWFiZGRlN2JjMDg0MjNkMGYwNjI3YjQ2MTBm",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -639,6 +639,34 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Deep in a Dream",
+        "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
+      },
+      "artists": [
+        {
+          "name": "Dmitry Baevsky",
+          "url": "https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq"
+        },
+        {
+          "name": "Clovis Nicolas",
+          "url": "https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh"
+        },
+        {
+          "name": "Jason Brown",
+          "url": "https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY"
+        },
+        {
+          "name": "St\u00e9phane Belmondo",
+          "url": "https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ"
+        }
+      ],
+      "duration_ms": 340760,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Jacob Karlzon Trio: Today",
         "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
       },
@@ -703,6 +731,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -735,50 +779,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Deep in a Dream",
-        "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
-      },
-      "artists": [
-        {
-          "name": "Dmitry Baevsky",
-          "url": "https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq"
-        },
-        {
-          "name": "Clovis Nicolas",
-          "url": "https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh"
-        },
-        {
-          "name": "Jason Brown",
-          "url": "https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY"
-        },
-        {
-          "name": "St\u00e9phane Belmondo",
-          "url": "https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ"
-        }
-      ],
-      "duration_ms": 340760,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Times Revisited",
         "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 265826,
       "name": "Peaceful Paranoia",
       "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "A Ballad Moment",
+        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        }
+      ],
+      "duration_ms": 317545,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -839,22 +859,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "A Ballad Moment",
-        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+        "name": "Cloud 10",
+        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
       "artists": [
         {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        },
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
         }
       ],
-      "duration_ms": 317545,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+      "duration_ms": 329000,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -871,22 +887,6 @@
       "duration_ms": 465306,
       "name": "PRAYER",
       "url": "https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Cloud 10",
-        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "A Drums Comes True",
         "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 353280,
       "name": "Will You Still Be Mine?",
       "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -995,34 +995,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "The Lion Turtle",
-        "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
-      },
-      "artists": [
-        {
-          "name": "Oded Tzur",
-          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
-        },
-        {
-          "name": "Nitai Hershkovits",
-          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
-        },
-        {
-          "name": "Petros Klampanis",
-          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
-        },
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 515253,
-      "name": "The Lion Turtle",
-      "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Cloud 10",
         "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
@@ -1051,6 +1023,34 @@
       "duration_ms": 304880,
       "name": "Grinde",
       "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "The Lion Turtle",
+        "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
+      },
+      "artists": [
+        {
+          "name": "Oded Tzur",
+          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Petros Klampanis",
+          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
+        },
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "duration_ms": 515253,
+      "name": "The Lion Turtle",
+      "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Best of 1965-76",
-        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
-      },
-      "artists": [
-        {
-          "name": "Nathan Davis",
-          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Sconsolato",
-      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Have a Day",
         "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Lead Belly Reimagined",
-        "url": "https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R"
+        "name": "Best of 1965-76",
+        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
       },
       "artists": [
         {
-          "name": "Adam Nussbaum",
-          "url": "https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi"
+          "name": "Nathan Davis",
+          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
         }
       ],
-      "duration_ms": 287666,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r"
+      "duration_ms": 208880,
+      "name": "Sconsolato",
+      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Lead Belly Reimagined",
+        "url": "https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R"
+      },
+      "artists": [
+        {
+          "name": "Adam Nussbaum",
+          "url": "https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Things Happened Here",
         "url": "https://open.spotify.com/album/5GkZUuoBR1DFHtGtv8Q8be"
       },
@@ -1195,18 +1195,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Pannonica",
-        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
       "artists": [
         {
-          "name": "Spike Wilner Trio",
-          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
         }
       ],
-      "duration_ms": 403285,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+      "duration_ms": 496933,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1231,22 +1235,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+        "name": "Pannonica",
+        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
       },
       "artists": [
         {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+          "name": "Spike Wilner Trio",
+          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
         }
       ],
-      "duration_ms": 496933,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+      "duration_ms": 403285,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "42nd Street Shuffle",
+        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "42nd Street Shuffle",
+      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 364741,
       "name": "Jennie",
       "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1527,6 +1527,22 @@
       "duration_ms": 482693,
       "name": "Softly, as in a Morning Sunrise",
       "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1599,38 +1615,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "The Shakedown",
-        "url": "https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q"
-      },
-      "artists": [
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 414649,
-      "name": "Expansions",
-      "url": "https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "42nd Street Shuffle",
-        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "42nd Street Shuffle",
-      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "The Starter",
         "url": "https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 375267,
       "name": "The Starter",
       "url": "https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "The Shakedown",
+        "url": "https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q"
+      },
+      "artists": [
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "duration_ms": 414649,
+      "name": "Expansions",
+      "url": "https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1683,38 +1683,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Trance",
-        "url": "https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl"
-      },
-      "artists": [
-        {
-          "name": "Steve Kuhn",
-          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "A Change Of Face",
-      "url": "https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Time to Swing",
-        "url": "https://open.spotify.com/album/7uc7Ti77VrrqITPsxLR0ue"
-      },
-      "artists": [
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
-        }
-      ],
-      "duration_ms": 450133,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Closeness",
         "url": "https://open.spotify.com/album/50KXmOwyzT5fOWraaR9MKq"
       },
@@ -1739,6 +1707,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Time to Swing",
+        "url": "https://open.spotify.com/album/7uc7Ti77VrrqITPsxLR0ue"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 450133,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Los Bandidos Bogarolles",
         "url": "https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 415106,
       "name": "Los Bandidos Bogarolles",
       "url": "https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Trance",
+        "url": "https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl"
+      },
+      "artists": [
+        {
+          "name": "Steve Kuhn",
+          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "A Change Of Face",
+      "url": "https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "No Problem",
-        "url": "https://open.spotify.com/album/16yLczfC6BVSCaNW8oHTnz"
-      },
-      "artists": [
-        {
-          "name": "Tristan M\u00e9lia Trio",
-          "url": "https://open.spotify.com/artist/53vjuckPtvOJEfvd5gvlqz"
-        }
-      ],
-      "duration_ms": 422634,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/0yFNLTyXf0xln5RBR89LVt"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Don't Ever Leave Me",
         "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 437853,
       "name": "Arise",
       "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "No Problem",
+        "url": "https://open.spotify.com/album/16yLczfC6BVSCaNW8oHTnz"
+      },
+      "artists": [
+        {
+          "name": "Tristan M\u00e9lia Trio",
+          "url": "https://open.spotify.com/artist/53vjuckPtvOJEfvd5gvlqz"
+        }
+      ],
+      "duration_ms": 422634,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/0yFNLTyXf0xln5RBR89LVt"
     },
     {
       "added_at": "2022-11-24 23:00:00",

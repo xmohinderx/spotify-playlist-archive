@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-90 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/6RRs5bEtQw4P8pKlBia6m7)
+94 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6RRs5bEtQw4P8pKlBia6m7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/1vWVGELREX5WZKcjMNZaa6) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 2:29 | 2021-12-22 |  |
 | [Feliz Navidad](https://open.spotify.com/track/3xvRbdVCBPoOD1q0381Hbr) | [Denis Raum](https://open.spotify.com/artist/04326aFqeHuCMcdFVI66EZ) | [Christmas Guitar](https://open.spotify.com/album/7FetKTnSUViylCu4GCi79T) | 2:59 | 2022-11-11 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/2U17MZxMhtb5ZIkJkERSHK) | [Duerme Bebe](https://open.spotify.com/artist/4KaV693MEVrREqsEhM2hKQ) | [Frosty The Snowman](https://open.spotify.com/album/6R9FWl4Gb477Vri7AW5Xr2) | 2:09 | 2021-12-22 |  |
+| [Gloria](https://open.spotify.com/track/6jiUV0bFYCMOygje0qBFOc) | [Phillipe Goldman](https://open.spotify.com/artist/2kSOIyf9QXEISbCLOgy7rW) | [Gloria](https://open.spotify.com/album/3jCdodm7JBGES6ztXNXnEk) | 1:59 | 2022-11-25 |  |
 | [God Rest You Merry, Gentlemen](https://open.spotify.com/track/0a9bBciURUoqdU43YqYxHZ) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [A Winter's Solstice V](https://open.spotify.com/album/075qeZ7zIqoYjL3IGXsAql) | 3:16 | 2021-12-22 |  |
 | [Good Christian Men, Rejoice](https://open.spotify.com/track/2LRzuinretZqxhD3wkvOp9) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [O Little Town of Bethlehem: Christmas Miniatures for Classical Guitar](https://open.spotify.com/album/6qiHGxAMfUzMkqaA9OAvtK) | 1:33 | 2021-12-22 |  |
 | [Greensleeves](https://open.spotify.com/track/2J1S7jDflYwZ34LtFDIPWY) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 4:15 | 2021-12-22 |  |
@@ -91,8 +92,11 @@
 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 | 2021-12-22 |  |
 | [The First Noel](https://open.spotify.com/track/2ijFTJ7XHAbD9sgcVfPy5w) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [The First Noel](https://open.spotify.com/album/66Q3ybskRWvQHk1BMNfsM6) | 1:55 | 2021-12-22 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/2xgdBf1HwP2frbKncjEszh) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 2:59 | 2021-12-22 |  |
+| [We Three Kings](https://open.spotify.com/track/2XNEx58l69F0XYNXN61OYS) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [We Three Kings](https://open.spotify.com/album/5GWb074SFDFXSq8ONiBHMV) | 2:02 | 2022-11-25 |  |
 | [We Three Kings](https://open.spotify.com/track/5NZasCNYJtdb4f7YkoaoeP) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:23 | 2021-12-22 |  |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6wd1lVSwuy1vV5WvrONGGR) | 1:28 | 2021-12-22 |  |
+| [We Wish You a Merry Christmas](https://open.spotify.com/track/6Mb7k64S5fykoR1KGzUnHk) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [We Wish You a Merry Christmas](https://open.spotify.com/album/2Vn9h8YEmkKtFtOq1sd1dl) | 1:18 | 2022-11-25 |  |
+| [What Child Is This](https://open.spotify.com/track/7JSUY7ep1Um9ykMCu2632M) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [What Child Is This](https://open.spotify.com/album/0sk4T3ouaTKWNGb8dTNNOP) | 1:51 | 2022-11-25 |  |
 | [What Child Is This?](https://open.spotify.com/track/2gcvDiGbpfcJWXutp1Ntto) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [O Little Town of Bethlehem: Christmas Miniatures for Classical Guitar](https://open.spotify.com/album/6qiHGxAMfUzMkqaA9OAvtK) | 1:54 | 2021-12-22 |  |
 | [White Christmas](https://open.spotify.com/track/5vIsN7senV9wiMucuxyUOA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [White Christmas](https://open.spotify.com/album/3iBqjJbDNHhf2I6pGlWQyt) | 1:34 | 2021-12-22 |  |
 | [White Christmas](https://open.spotify.com/track/2buEezFY9Ng3J8OKBgrBzF) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/40nvH9bnMRD5lTL8T0kECR) | 2:43 | 2022-11-11 |  |

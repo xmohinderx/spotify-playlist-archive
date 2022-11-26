@@ -532,6 +532,28 @@
     },
     {
       "album": {
+        "name": "Eveningpol",
+        "url": "https://open.spotify.com/album/6UySJRBKHW19DYB8jx9dlY"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        },
+        {
+          "name": "Levingtquatre",
+          "url": "https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Eveningpol",
+      "url": "https://open.spotify.com/track/2etXkxlwIPZyFLfUpfaFHO"
+    },
+    {
+      "album": {
         "name": "Fantasy Special Edition",
         "url": "https://open.spotify.com/album/0WzgtSoa9ktjOCa8DKI3lJ"
       },

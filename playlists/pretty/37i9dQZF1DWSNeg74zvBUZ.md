@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,408 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,412 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 17 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 |
 | 18 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 |
 | 19 | [Chromakey Dreamcoat](https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:47 |
-| 20 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
-| 21 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 |
+| 20 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 |
+| 21 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
 | 22 | [In a Landscape](https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Alexei Lubimov](https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG) | [Der Bote](https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq) | 8:51 |
 | 23 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 24 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 |
 | 50 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 |
 
-Snapshot ID: `MTY2NDUwNTk5OCwwMDAwMDAwMDc5NjhiMDFmZWU3ODI4NGE5MGI1MGE1YzQxODA1ZjNm`
+Snapshot ID: `MTY2NDUwNTk5OCwwMDAwMDAwMDgzYzU4MjViZjIzYzFhNDVjOGIxYzhlNTM1YWNkZDI0`

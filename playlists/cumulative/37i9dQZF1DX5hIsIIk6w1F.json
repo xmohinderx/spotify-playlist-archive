@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Standly",
+  "description": "Este Flow tiene otro Flow. Foto: Cris Mj.",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -41,6 +41,40 @@
       "duration_ms": 200109,
       "name": "28",
       "url": "https://open.spotify.com/track/5jfDBp9jmQ9rfviQZSEGSW"
+    },
+    {
+      "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/3ypLbGC6uOheVbuVtex0I9"
+      },
+      "artists": [
+        {
+          "name": "El Goldo De Las Conec",
+          "url": "https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr"
+        },
+        {
+          "name": "Son Gotten",
+          "url": "https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "Andrehbred",
+          "url": "https://open.spotify.com/artist/3XpIrqVeY0I0kItCCUMuY1"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "6.5",
+      "url": "https://open.spotify.com/track/1hlKuTa1ekJuWcWNKAG5Xv"
     },
     {
       "album": {
@@ -221,7 +255,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 174277,
       "name": "Asikalate",
       "url": "https://open.spotify.com/track/0FvT0m2Z1QqHqsLiNhRwrJ"
@@ -422,6 +456,40 @@
     },
     {
       "album": {
+        "name": "Bambini",
+        "url": "https://open.spotify.com/album/1nzam6bSPMrrNSbQShE5AQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247071,
+      "name": "Bambini",
+      "url": "https://open.spotify.com/track/4qG0BRX5woEZMoAO7K5cGO"
+    },
+    {
+      "album": {
         "name": "Beso de 3",
         "url": "https://open.spotify.com/album/0M7gEqM3GR1wrXvptaHT5D"
       },
@@ -579,7 +647,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 214695,
       "name": "Caminemos de la Mano",
       "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
@@ -702,6 +770,56 @@
     },
     {
       "album": {
+        "name": "Cosas Chanchas (feat. Simon la Letra, Harry Nach, Salastkbron, El Barto, Kidd Samu & Lolo OG)",
+        "url": "https://open.spotify.com/album/642j24NN3uxV4freA9w6OL"
+      },
+      "artists": [
+        {
+          "name": "Zeck1ng",
+          "url": "https://open.spotify.com/artist/5COyKOVp7u7nr6fZYdsWF3"
+        },
+        {
+          "name": "J. Keni",
+          "url": "https://open.spotify.com/artist/74CQeLtbgCLVlpoG7ib9LK"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        },
+        {
+          "name": "Kidd Samu",
+          "url": "https://open.spotify.com/artist/3tEvuet5uSoKTLU2HYPI6V"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380425,
+      "name": "Cosas Chanchas (feat. Simon la Letra, Harry Nach, Salastkbron, El Barto, Kidd Samu & Lolo OG)",
+      "url": "https://open.spotify.com/track/6WPG3NGaKhRSfYw612uvqA"
+    },
+    {
+      "album": {
         "name": "Cu4tro",
         "url": "https://open.spotify.com/album/20Eimnv9BdL7PQ1WGnbQX3"
       },
@@ -725,6 +843,40 @@
       "duration_ms": 249854,
       "name": "Cu4tro",
       "url": "https://open.spotify.com/track/68V31zQa7VOH4P99PMeBna"
+    },
+    {
+      "album": {
+        "name": "CULISUELTA (feat. Lleflight, ITHAN NY)",
+        "url": "https://open.spotify.com/album/7K1jJgCOuMuImsykD11o4S"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268200,
+      "name": "CULISUELTA (feat. Lleflight, ITHAN NY)",
+      "url": "https://open.spotify.com/track/5eKL1kKPxiXn6vJKltebxr"
     },
     {
       "album": {
@@ -957,7 +1109,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 188750,
       "name": "Discotete",
       "url": "https://open.spotify.com/track/5l78PGbrC8CPSIEMlhGNR4"
@@ -1058,6 +1210,28 @@
     },
     {
       "album": {
+        "name": "El Del Error",
+        "url": "https://open.spotify.com/album/6P9takqqEni2BfgmeEQ4Hs"
+      },
+      "artists": [
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187125,
+      "name": "El Del Error",
+      "url": "https://open.spotify.com/track/3VGLXrT7er1kLVgwMNu6OQ"
+    },
+    {
+      "album": {
         "name": "EL D\u00cdA DE MI SUERTE",
         "url": "https://open.spotify.com/album/72A9s3UnASL0IntsA5ofn1"
       },
@@ -1153,7 +1327,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 164542,
       "name": "En El Jacuzzi",
       "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
@@ -1664,6 +1838,28 @@
     },
     {
       "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192862,
+      "name": "Gucci en Paris",
+      "url": "https://open.spotify.com/track/3JUpnvc3AEe7elz8YkgV3M"
+    },
+    {
+      "album": {
         "name": "Guilla",
         "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
       },
@@ -2064,6 +2260,24 @@
     },
     {
       "album": {
+        "name": "La \u00danica",
+        "url": "https://open.spotify.com/album/0hVF3mo33JcCsECB4dM7Ay"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "La \u00danica",
+      "url": "https://open.spotify.com/track/6BziPWYAG689dziudR6lRl"
+    },
+    {
+      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
       },
@@ -2123,7 +2337,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 200000,
       "name": "Locura y Maldad",
       "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
@@ -2361,7 +2575,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 232000,
       "name": "Me Arrepent\u00ed",
       "url": "https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99"
@@ -2779,7 +2993,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 200653,
       "name": "Morena Cachetona",
       "url": "https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk"
@@ -3514,6 +3728,24 @@
     },
     {
       "album": {
+        "name": "11/11",
+        "url": "https://open.spotify.com/album/0fTlLpdntkd3vdeCRmGNbg"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136373,
+      "name": "Perrea",
+      "url": "https://open.spotify.com/track/5J6MhWMuRQsZwo9MtLG31T"
+    },
+    {
+      "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
       },
@@ -3715,7 +3947,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 151200,
       "name": "Positivo",
       "url": "https://open.spotify.com/track/2uZxUPK0CuIc179JtrIDjY"
@@ -3992,6 +4224,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2zwMwKlVHSgdNZuENtSNYc"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187269,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3rM83BGOnHJEzPZivEwmVL"
+    },
+    {
+      "album": {
         "name": "Sakalakashanga",
         "url": "https://open.spotify.com/album/7MAoQ4q3yWzhn0FHWhtpSN"
       },
@@ -4095,7 +4345,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 197792,
       "name": "SEXTIME",
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
@@ -4286,6 +4536,28 @@
     },
     {
       "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207835,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
+    },
+    {
+      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/4OwkPWtn9O1h6KQ2iaLY6K"
       },
@@ -4399,7 +4671,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 182204,
       "name": "Tambores Multicolores",
       "url": "https://open.spotify.com/track/6ljdOfV7W1KGw1RD0kAg1A"
@@ -4771,7 +5043,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 181333,
       "name": "TU ME HACES PENSAR",
       "url": "https://open.spotify.com/track/7eTFkW7ZPiecDkfAifEIGD"
@@ -5043,6 +5315,28 @@
       "duration_ms": 226244,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4x0IsQPJJs0SNp2jy5Njfx"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/0PsRiRXtSXTFC5nZSrDUvi"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Magicenelbeat",
+          "url": "https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197434,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,741 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,761 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [I Have Decided](https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 2:46 |
 | 50 | [Let It Fall \- Live](https://open.spotify.com/track/0Ek4F4tQB91pf5ybGQkBn0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 5:48 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAwNTdkYTdlYzZjMzZmNWM4MDJlZjI3N2I0ZmFkNjE3Mg==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDBlODEyMGMxOTdjOTdjMTNhZTBlZGY5OGIzZTRjYmVjOQ==`

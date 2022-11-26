@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-188 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+189 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 | 2022-05-13 |  |
 | [New Leaf](https://open.spotify.com/track/0lgEKJERZvY8vGgbQMVYGS) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [New Leaf](https://open.spotify.com/album/6xrjggEWZ8tiUtMi0jJJiw) | 2:42 | 2022-07-29 |  |
 | [New Leaf](https://open.spotify.com/track/4DnaXhmVd0W920oXN0hvlW) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [New Leaf](https://open.spotify.com/album/1GgWXmDAZ3hZlF27slvdjj) | 2:42 | 2022-05-13 | 2022-07-29 |
+| [New York](https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd) | [Zach Len](https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR) | [New York](https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh) | 2:25 | 2022-11-25 |  |
 | [Nostalgia](https://open.spotify.com/track/5fFb1wh3iw9mqIuQmKmEwW) | [Sylvain Lowe](https://open.spotify.com/artist/6R5QFCQdTlzmpIq18rRLw7) | [Nostalgia](https://open.spotify.com/album/7FOICAmy6YkVum07rk5tNJ) | 3:35 | 2022-05-13 |  |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-05-13 |  |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-05-13 | 2022-10-07 |

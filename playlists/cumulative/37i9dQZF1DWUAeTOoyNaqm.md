@@ -4,7 +4,7 @@
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-109 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
+112 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Forks on Mic \- Brain Tingles](https://open.spotify.com/track/2ElfolSIm4silLWUdnj6it) | [Alexa ASMR](https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF) | [Asmr Sounds for Intense Tingles and Deep Sleep](https://open.spotify.com/album/4kNuFMvTLoqGASIwy9aTD4) | 2:09 | 2021-11-12 | 2022-07-13 |
 | [Gentle Sounds Assortment For Sleep Pt.4](https://open.spotify.com/track/2lszKRTP9uKqncjBXu1lwF) | [RaffyTaphy ASMR](https://open.spotify.com/artist/3LPeSxsCOzqhTSWALkiXeR) | [Gentle Sounds Assortment For Sleep](https://open.spotify.com/album/5s68qyXTLkFxzhDjSe6acr) | 3:58 | 2022-01-07 |  |
 | [Gently Touching Wood and Hamp](https://open.spotify.com/track/7lNS0kQyNpmr7Hj2noufLc) | [Wave Function](https://open.spotify.com/artist/5TmtTvTKlNSsT3zK9c1swm) | [Gently Touching Wood and Hamp](https://open.spotify.com/album/1ejDjxgpQnmardr0ILEuKz) | 4:37 | 2021-11-12 |  |
+| [Hair Roller on a Microphone](https://open.spotify.com/track/2ckqKYZfT9g1S57ZCctlIt) | [Tabitha Rabiot](https://open.spotify.com/artist/3ViD1ngwr2KyMQNDVhEPrg) | [Hello ASMR](https://open.spotify.com/album/5wlg4JtCYhfonAzbE41gYS) | 4:09 | 2022-11-25 |  |
 | [Hairbrush on Mic ASMR](https://open.spotify.com/track/5GFuI27jIWDN8ZnB0GiHiU) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Sounds for Relaxation](https://open.spotify.com/album/1qRhE2Mt9t4UgBfJh05XmY) | 2:28 | 2022-07-14 |  |
 | [Intense Crinkle Sounds for Sleep](https://open.spotify.com/track/47kEl0e0BGd3Y1afqIPWIM) | [Alexa ASMR](https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF) | [Asmr Sounds for Sleep and Deep Relaxation](https://open.spotify.com/album/5ZV7BLhaGVmaOMUCQdA5jA) | 2:06 | 2021-11-12 | 2022-07-13 |
 | [Intense Ear to Ear Cleaning with Fluffy Ear Picks](https://open.spotify.com/track/3eJxz4EXkrCTe1Tqj2STsT) | [Alexa ASMR 8D Audio](https://open.spotify.com/artist/0GAwykjWZ5scqjOIhzvXnT) | [8D Audio \- Asmr Sleep Sounds](https://open.spotify.com/album/77Nzdv7SYAA04MBQqBMyzA) | 1:25 | 2021-11-12 | 2022-07-11 |
@@ -89,7 +90,9 @@
 | [Rubbing Metro Card](https://open.spotify.com/track/6AbiNnjtODtesXc3VIwzPd) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Triggers, Eating, Tapping](https://open.spotify.com/album/5aBgaE302UMzgip0bz1Ts8) | 1:53 | 2022-07-14 |  |
 | [Rustling with Fabric](https://open.spotify.com/track/5VVoF5oct26FhdrmyDhfB9) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [A Deep Ear Massage](https://open.spotify.com/album/0VChj0yICJTZk7Fer3bqiv) | 3:33 | 2022-05-13 |  |
 | [Scotch Tape](https://open.spotify.com/track/7agAvFih8WVi3rroAqN8s5) | [Ximena ASMR](https://open.spotify.com/artist/767AHUMRiN6uuhJu9xNw8C) | [ASMR Triggers](https://open.spotify.com/album/5K8Ffdpr6gavOMgcJqBAnt) | 2:44 | 2022-07-14 |  |
+| [Scrapper on a Mic](https://open.spotify.com/track/2pJZwcJO1MPcOrFaUHFlo8) | [My ASMR Room](https://open.spotify.com/artist/74ewzpfsEL70CLM2hU9K4B) | [Yummy ASMR](https://open.spotify.com/album/3PKQMXqfzyjCiLr1HdLKZH) | 4:14 | 2022-11-25 |  |
 | [Scratching a Pillow](https://open.spotify.com/track/3JsVbnqmvLOcS2gT9ENlO5) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [Crinkling ASMR Sounds](https://open.spotify.com/album/7MMGOEd854ZMgXcE8Ze0si) | 4:18 | 2022-10-14 |  |
+| [Scratching a Wicker](https://open.spotify.com/track/2NAFsQWqbRbLk8mgRYCeeF) | [ASMR Billy](https://open.spotify.com/artist/7zThNsQGpD1QW6XvXTlEAC) | [Fuzzy ASMR](https://open.spotify.com/album/7ywRVJCqW8bD2w9tfNJuY8) | 4:33 | 2022-11-25 |  |
 | [Scratching the Microphone](https://open.spotify.com/track/1rHiHWJ5mhs12utUo5GvtS) | [Loopy L ASMR](https://open.spotify.com/artist/17K0bjKxdVQtIpcUCQomq2) | [Yummy Yummy ASMR](https://open.spotify.com/album/7lyq6PBepna9gTxmKhRcZV) | 4:31 | 2021-11-12 |  |
 | [Shaking Pills](https://open.spotify.com/track/5JsfzqTAteFYkEwAdzxnD2) | [Soothing ASMR](https://open.spotify.com/artist/5zjsvn0Tl3kKGDYehTUi4x) | [Gentle Triggers 3](https://open.spotify.com/album/59LSQBasIZKk8CZ41NtlE6) | 2:32 | 2021-11-12 |  |
 | [Shuffling Beans on a Plate](https://open.spotify.com/track/5FnaUWc5lWOWgIaqEsjpDz) | [ASMR Universe](https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89) | [Little Triggers](https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y) | 3:41 | 2022-07-14 |  |

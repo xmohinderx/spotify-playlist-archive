@@ -4,7 +4,7 @@
 
 > Back to the golden age of emo\. Cover: Thursday
 
-59 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
+60 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Marigold & Patchwork](https://open.spotify.com/track/2MPndJjBcn555aZQyuvt3S) | [The Appleseed Cast](https://open.spotify.com/artist/0MkAzpDHUZpuDnWGUII4RN) | [The End Of The Ring Wars](https://open.spotify.com/album/46522TAHAMPyA2utw8bo3F) | 5:49 | 2021-06-28 |  |
 | [Mother Mary](https://open.spotify.com/track/37loR0ac9T655PNfPIpHmA) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Soon](https://open.spotify.com/album/2ripjHj9gBOBakmPftt58S) | 2:16 | 2021-06-28 |  |
 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 | 2021-06-28 |  |
-| [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2021-06-28 |  |
+| [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2021-06-28 | 2022-11-26 |
+| [Never Meant](https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp) | 4:28 | 2022-06-09 |  |
 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 | 2021-06-28 |  |
 | [Parking Lot](https://open.spotify.com/track/4kt2HZaV0uMeMK0bG2GXr0) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [The Complete Collection \(1994\-1998\)](https://open.spotify.com/album/4kXgXFJH3Vn7cwHsYsfckI) | 3:51 | 2022-06-09 | 2022-11-13 |
 | [Parking Lot](https://open.spotify.com/track/601akXTJgLQapZEBo23RQy) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [The Power of Failing](https://open.spotify.com/album/48MkEL1tt4TkZdpafXoj5R) | 3:51 | 2022-06-09 |  |

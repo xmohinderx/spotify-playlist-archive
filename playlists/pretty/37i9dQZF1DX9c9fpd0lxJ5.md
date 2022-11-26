@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby:\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,093 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,094 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 26 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
 | 27 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 |
 | 28 | [Moody](https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Moody](https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX) | 3:18 |
-| 29 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 |
+| 29 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 |
 | 30 | [muero x ti](https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4) | 3:57 |
-| 31 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 |
+| 31 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 |
 | 32 | [A la Madrugada](https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 4:21 |
 | 33 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 |
 | 34 | [Story To Tell](https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:15 |
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 73 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 |
 | 74 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 |
 | 75 | [Honeydew](https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3) | 4:12 |
-| 76 | [Arcoíris](https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Arcoíris](https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs) | 3:37 |
+| 76 | [LUV](https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [BLUE 2000](https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2) | 2:23 |
 | 77 | [No Puedo Parar](https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [No Puedo Parar](https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo) | 4:03 |
-| 78 | [New Lane](https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Bowling](https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e) | 1:57 |
-| 79 | [IN MY ROOM!](https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:42 |
-| 80 | [LUV](https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [BLUE 2000](https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2) | 2:23 |
+| 78 | [Arcoíris](https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Arcoíris](https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs) | 3:37 |
+| 79 | [New Lane](https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Bowling](https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e) | 1:57 |
+| 80 | [IN MY ROOM!](https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:42 |
 | 81 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 |
 | 82 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 |
 | 83 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 93 | [Domingo](https://open.spotify.com/track/4CzodxFbkgVXNt7OXiy3Qc) | [Poi mp3](https://open.spotify.com/artist/56SYLoTCr6PLgLAdzuyzz8) | [Domingo](https://open.spotify.com/album/0X5fYJ9gerPTJdq9IbPusv) | 3:26 |
 | 94 | [Dónde estás](https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:24 |
 | 95 | [Dolce Banana](https://open.spotify.com/track/5o1IxDUb9XRCGmrVANbhM9) | [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck), [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y), [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Mil Noches Sin Dormir](https://open.spotify.com/album/50h4K37IirTEjuZJlVn1Rg) | 2:22 |
-| 96 | [Summer Girl](https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:41 |
+| 96 | [Vibras](https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Vibras](https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk) | 2:33 |
 | 97 | [Te Quiero Olvidar \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/40EpFP3HQ0p2W8bwmwN1XZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [CARISMA \*isolation mixes\*](https://open.spotify.com/album/7i8Bh9wJJ8tonDpGfh7uTG) | 3:35 |
-| 98 | [Vibras](https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Vibras](https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk) | 2:33 |
+| 98 | [Summer Girl](https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:41 |
 | 99 | [Si Te Portas Mal \(Be Bad\)](https://open.spotify.com/track/0JtlyKWMGYHxqf0eqI3DM9) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/25UGhYhmmE81CnCdl2UL3v) | 3:37 |
 | 100 | [Incendio](https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm) | [Surfeadores Rosa](https://open.spotify.com/artist/6BecaP398CIWCEHspNCxQh) | [Incendio](https://open.spotify.com/album/1GD7KnMcyOfA4Dk6OQDDWd) | 2:52 |
 
-Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMDQ4MmNlOTI0N2I0ZjY4M2ZkYmU5ZmRmMDVmM2Q5NGZk`
+Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMDhlMjUyMmQzZTNhMzk5Mjg1ZGMwZGJlMzA4YTM5YTM2`

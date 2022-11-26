@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,986 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,073 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 47 | [Pioneers](https://open.spotify.com/track/74TWhwYF9jxmeMgQUVbu7S) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Pioneers](https://open.spotify.com/album/4tU8qKdQPlGm4OIqHddiw2) | 3:19 |
 | 48 | [Quintessence](https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Quintessence](https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI) | 2:24 |
 | 49 | [Breathe](https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Breathe](https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO) | 2:32 |
-| 50 | [Ephemera](https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2) | [Luke Gajdus](https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh) | [In Breath](https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6) | 2:54 |
-| 51 | [Prélude](https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Prélude](https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe) | 2:51 |
-| 52 | [Entropy](https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Entropy](https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS) | 1:50 |
+| 50 | [Entropy](https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Entropy](https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS) | 1:50 |
+| 51 | [Ephemera](https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2) | [Luke Gajdus](https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh) | [In Breath](https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6) | 2:54 |
+| 52 | [Prélude](https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Prélude](https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe) | 2:51 |
 | 53 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 |
 | 54 | [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 |
 | 55 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 57 | [Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 |
 | 58 | [Untouched Rainforest, Pt.3](https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Untouched Rainforest, Pt.3](https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k) | 3:13 |
 | 59 | [Billow Gently](https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Echoes In The Valley](https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS) | 3:22 |
-| 60 | [Song For Katie](https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Song For Katie](https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ) | 2:26 |
-| 61 | [The Void \- I Play Mine version](https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [The Void \(I Play Mine version\)](https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc) | 2:39 |
-| 62 | [Sand and Stars](https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT) | [Charlie J Perry](https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2) | [Sand and Stars](https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ) | 4:29 |
-| 63 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 |
+| 60 | [The Void \- I Play Mine version](https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [The Void \(I Play Mine version\)](https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc) | 2:39 |
+| 61 | [Song For Katie](https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Song For Katie](https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ) | 2:26 |
+| 62 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 |
+| 63 | [Sand and Stars](https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT) | [Charlie J Perry](https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2) | [Sand and Stars](https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ) | 4:29 |
 | 64 | [New Moon](https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Piggott\-Smith](https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 2:55 |
 | 65 | [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 |
-| 66 | [145 \- Revisited](https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [145](https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg) | 2:21 |
+| 66 | [orange sky](https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [orange sky](https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb) | 3:10 |
 | 67 | [The Shards](https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [The Shards](https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR) | 2:18 |
-| 68 | [orange sky](https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [orange sky](https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb) | 3:10 |
+| 68 | [145 \- Revisited](https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [145](https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg) | 2:21 |
 | 69 | [Col](https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8) | [Col](https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP) | 2:22 |
 | 70 | [your sonnet](https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Still Life](https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn) | 4:22 |
 | 71 | [Stay Longer](https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Stay Longer](https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe) | 2:10 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 77 | [night walk](https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [night walk](https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK) | 3:14 |
 | 78 | [Wings](https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Wings](https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz) | 2:31 |
 | 79 | [Satisfaction](https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Satisfaction](https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6) | 2:09 |
-| 80 | [Leo Minor](https://open.spotify.com/track/4PTSguUQ2hpeglvpBNn1qd) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Leo Minor](https://open.spotify.com/album/4hqu9hDEGMbXCQKC8Znlyh) | 2:19 |
+| 80 | [First Steps](https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81) | [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG), [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [First Steps](https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342) | 2:23 |
 
-Snapshot ID: `MTY2MzY4MTE5MywwMDAwMDAwMDdmNzJmOTBlYzg3MmM4OGE2YWViNDRkZTc4NmQ5ODM0`
+Snapshot ID: `MTY2MzY4MTE5MywwMDAwMDAwMDllZDNhYmUwNTZhMzgwZjlhY2FmNTJjMGZiNzYxZTk5`

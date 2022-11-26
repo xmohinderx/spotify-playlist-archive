@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-581 songs - 1 day 8 hr 25 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
+583 songs - 1 day 8 hr 31 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Coin](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:13 | 2021-12-07 | 2022-07-29 |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2021-12-07 |  |
 | [Colors](https://open.spotify.com/track/6Xw8CSd3R6xqCmHHB9pBhb) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt) | 3:38 | 2022-03-24 | 2022-04-16 |
+| [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 | 2022-11-25 |  |
 | [Come N Goes](https://open.spotify.com/track/5FANrx0S8OLZrHiG8OpvVB) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:31 | 2022-02-03 | 2022-05-02 |
 | [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 | 2022-10-07 |  |
 | [Control](https://open.spotify.com/track/4uUqBEXqsx3JJ90aZXPDrs) | [GHOST9](https://open.spotify.com/artist/7f953Uuid7Xrd0nXQ3V3s1) | [NOW : Who we are facing](https://open.spotify.com/album/0yO5og1avvyKG0sf83iZ3M) | 3:13 | 2022-03-24 | 2022-04-21 |
@@ -195,6 +196,7 @@
 | [For you, my sunshine](https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [For you, my sunshine](https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq) | 3:46 | 2022-01-03 | 2022-04-29 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-12 |  |
 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 | 2022-02-23 | 2022-07-20 |
+| [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-25 |  |
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2022-03-24 | 2022-04-19 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-08 |  |
 | [FXXK WIT US](https://open.spotify.com/track/2qWgqPdW1OiAP8KSBH1b93) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh) | 3:37 | 2022-03-24 | 2022-04-17 |
@@ -344,7 +346,7 @@
 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2022-08-12 | 2022-10-29 |
 | [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2021-12-07 | 2022-07-24 |
 | [Masquerade](https://open.spotify.com/track/0AABiBAIYQCMpLI0ODbDDL) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:17 | 2022-01-03 | 2022-04-19 |
-| [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2022-01-03 |  |
+| [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2022-01-03 | 2022-11-26 |
 | [MAYBE](https://open.spotify.com/track/35TArxNhMONAZYlrrsz63r) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:35 | 2022-03-24 | 2022-04-14 |
 | [maybe i do](https://open.spotify.com/track/41x2SLWUNL4MHAD2GiqD0a) | [some:r](https://open.spotify.com/artist/1ZJYvV4f75IHr1RJds1Eit) | [maybe i do](https://open.spotify.com/album/6SzaZdJpgAughSPp8bTxBt) | 3:13 | 2022-03-24 | 2022-04-09 |
 | [Merry\-Go\-Round](https://open.spotify.com/track/6yWQi5Nq9ipDBLBi4kwRl0) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [Oneiric Diary](https://open.spotify.com/album/0Feph4xWbYik7e0oLR08sN) | 3:00 | 2022-03-24 | 2022-04-15 |
@@ -548,7 +550,7 @@
 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 | 2021-12-07 |  |
 | [Way to Go](https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:03 | 2021-12-07 | 2022-07-10 |
 | [We DO](https://open.spotify.com/track/2y3RsLPUpPcMUdzluiJtNE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [We DO](https://open.spotify.com/album/2O4FwZ1cE8PHsP0PAf6Vtr) | 3:41 | 2021-12-07 | 2022-06-02 |
-| [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-12-07 |  |
+| [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-12-07 | 2022-11-26 |
 | [We Go \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/5GhuFbB6NjKzehvws0GGUP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:37 | 2022-08-18 | 2022-10-20 |
 | [We Go \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/6CEeCkgm0C1d0ZnpIvLSCk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0Kp2UZGWRQHa3B5e8t93rI) | 2:37 | 2022-03-24 | 2022-04-14 |
 | [We Ride](https://open.spotify.com/track/6kH1sKkvgN4Yikake52glq) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [We Ride](https://open.spotify.com/album/3iBrnwcIhtRrpRXirqxx8W) | 3:09 | 2021-12-07 | 2022-07-24 |

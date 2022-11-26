@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,416 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,433 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 12 | [이럴거면 그러지말지 Shouldn't Have… \(feat\. Young K\)](https://open.spotify.com/track/4F9EZD74cDuCwqn3neLqJE) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [이럴거면 그러지말지 Shouldn't Have…](https://open.spotify.com/album/4YZRASuAhduD5cAJAsxFvL) | 3:32 |
 | 13 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
 | 14 | [Don’t Like Her](https://open.spotify.com/track/5DZMjcAMca1rT2dD9dYdCg) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:17 |
-| 15 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 |
-| 16 | [구애 \(求愛\) Propose](https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 \(求愛\) Propose](https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ) | 3:33 |
+| 15 | [구애 \(求愛\) Propose](https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 \(求愛\) Propose](https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ) | 3:33 |
+| 16 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 |
 | 17 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 |
 | 18 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 |
 | 19 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 44 | [화분 \- 알렉스 Version](https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS) | 4:30 |
 | 45 | [Zzack sarang](https://open.spotify.com/track/3mvnSG5sJLUTHiyXap5xgo) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/3b7lh3a4DfFxPCCKm7baGT) | 3:14 |
 | 46 | [Unrequited](https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B) | [Swai](https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Unrequited](https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq) | 3:45 |
-| 47 | [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 |
-| 48 | [순이 Sooni \- I'm your fanatic girl](https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [4X4](https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7) | 4:07 |
-| 49 | [Eul \(feat\. Gyeong Je Hwan\)](https://open.spotify.com/track/7d3e2N9vHD1nJc50Q0HAmf) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Seoul Vibes, Pt\. 6](https://open.spotify.com/album/0aQUxppY2FjNgIGJQm8ote) | 3:23 |
-| 50 | [원하기 전에 Falling Out](https://open.spotify.com/track/4TrPfqO7rtWl3YxXUnCYL2) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Night Reminiscin’](https://open.spotify.com/album/6CWt70vxTuufx0Qi0wlntq) | 4:36 |
+| 47 | [순이 Sooni \- I'm your fanatic girl](https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [4X4](https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7) | 4:07 |
+| 48 | [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 |
+| 49 | [원하기 전에 Falling Out](https://open.spotify.com/track/4TrPfqO7rtWl3YxXUnCYL2) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Night Reminiscin’](https://open.spotify.com/album/6CWt70vxTuufx0Qi0wlntq) | 4:36 |
+| 50 | [Eul \(feat\. Gyeong Je Hwan\)](https://open.spotify.com/track/7d3e2N9vHD1nJc50Q0HAmf) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Seoul Vibes, Pt\. 6](https://open.spotify.com/album/0aQUxppY2FjNgIGJQm8ote) | 3:23 |
 
-Snapshot ID: `MTY2MDgzMjczMiwwMDAwMDAwMDlmYWM4NjhkOGUxNjQwMzIwOWViM2FiZjc2ZjUxYzc3`
+Snapshot ID: `MTY2MDgzMjczMiwwMDAwMDAwMGUxODk3YzhlNjJkOTVkZGRmMmJjMmQzMjQ0ZmZlNmY2`

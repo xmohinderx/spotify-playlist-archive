@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano di più\. Cover: Luchè
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,467 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,669 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 29 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 |
 | 30 | [Diamanti \(feat\. Heartman & VillaBanks\) \- Remix](https://open.spotify.com/track/39dekO8ZmqocCrKeBaBFty) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Wave Deluxe](https://open.spotify.com/album/2l7qyKFV7mDoDfZ3xS5luZ) | 2:38 |
 | 31 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
-| 32 | [FINISCIMI](https://open.spotify.com/track/1FQFjNMOuOOsCPmnanGRcu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 |
+| 32 | [FINISCIMI](https://open.spotify.com/track/5ZGteB4F2eZfemc9PHOPS4) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 |
 | 33 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 |
 | 34 | [Tardissimo \(feat\. Mahmood & Marracash\)](https://open.spotify.com/track/1mW7Php2B57dIP0tJzWC3t) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:17 |
 | 35 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 69 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 |
 | 70 | [Un'Altra Notte \(feat\. Priestess\)](https://open.spotify.com/track/5IiE6zhjY9rsXRLhIOyX5h) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Scatola Nera](https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM) | 3:25 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDgwZjg5NGRiYWUxYzM3NTk2MDUwYzFmYTJkY2JiNGM5`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDc3M2E3YTcyYzhiOGM5MWUyZjFkZjdmNDllNTQ1YWMy`

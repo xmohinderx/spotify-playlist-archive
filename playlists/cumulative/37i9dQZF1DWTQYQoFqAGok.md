@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-62 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/15XX6lawI7eg99bVMwOVQB)
+63 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/15XX6lawI7eg99bVMwOVQB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,10 +63,11 @@
 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 | 2021-07-28 |  |
 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 | 2021-07-28 |  |
 | [To Chick](https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 5:35 | 2022-08-16 |  |
+| [Trato De Asimilar](https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [¡Oh! Mi Amor](https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u) | 5:18 | 2021-07-28 |  |
 | [Tu Luz](https://open.spotify.com/track/4g9iO9ga0CveiTQKOeR3W4) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Nuevos Retros](https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL) | 4:08 | 2021-07-28 |  |
 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 | 2022-08-09 |  |
 | [Té de Olvido](https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh) | [Orquídeas Susurrantes](https://open.spotify.com/album/4wgY1NlxUvjbhXFbMPyTwz) | 3:59 | 2021-07-28 |  |
-| [Valor De Volar](https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH) | [Los Dorados](https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE) | [Vientos Del Norte](https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg) | 3:56 | 2021-07-28 |  |
+| [Valor De Volar](https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH) | [Los Dorados](https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE) | [Vientos Del Norte](https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg) | 3:56 | 2021-07-28 | 2022-11-26 |
 | [Ventana espacial](https://open.spotify.com/track/0zLqZgTme9vih80jQP9meo) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/2UYpOUvt3WGqGcf09AN7pG) | 4:14 | 2021-07-28 | 2022-11-07 |
 | [Voy a Apagar la Luz](https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8) | [Julia Vari](https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky) | [Adoro](https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf) | 5:27 | 2021-07-28 |  |
 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 | 2021-07-28 |  |

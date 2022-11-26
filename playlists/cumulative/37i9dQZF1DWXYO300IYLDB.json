@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
       },

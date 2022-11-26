@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Zombic, Influencerz, Danimal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,662,154 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,662,725 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Human Error](https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN) | [Human Error](https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5) | 2:22 |
-| 2 | [CHASE THE SUN](https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv) | 3:31 |
+| 2 | [CHASE THE SUN](https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc) | 3:31 |
 | 3 | [Low \(LUNAX Remix\)](https://open.spotify.com/track/4MUMWxe9088SuTFKpprQ57) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Low \(LUNAX Remix\)](https://open.spotify.com/album/0ZDlbRhsIMedIxxmqOXU0H) | 2:40 |
 | 4 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
 | 5 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
 | 50 | [Havana](https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Havana](https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk) | 2:40 |
 
-Snapshot ID: `MTY2OTIyNjc2NiwwMDAwMDAwMGM1ZjY3NjY1YzFlZjQ4MmRjNWViNTg3NmJjNTNkNmRi`
+Snapshot ID: `MTY2OTIyNjc2NiwwMDAwMDAwMDQ5ZDkxOGVkMzJkNDhkYTcyMDEzNjJmZDAwYzk5YzFk`

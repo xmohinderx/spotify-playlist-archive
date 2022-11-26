@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: Chelsea Grin
+> This is the new Core at its finest\. Cover: Oceans
 
-598 songs - 1 day 13 hr 46 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+600 songs - 1 day 13 hr 53 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Bloodsoaked Symphony](https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Bloodsoaked Symphony](https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X) | 4:28 | 2022-07-13 | 2022-07-23 |
 | [A Cross to Bear](https://open.spotify.com/track/2qqPqcbTiAtpITQswoN3Nv) | [Medeia](https://open.spotify.com/artist/5KNeODkE372TZMRiUB78YN), [Mike Pilat](https://open.spotify.com/artist/0IXMeMkxxTD3eMRMmSCnXg) | [A Cross to Bear](https://open.spotify.com/album/258gwGp8DFqlqwkNm6ehvP) | 4:01 | 2022-07-13 | 2022-07-20 |
 | [A Form of Protest](https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA) | 3:09 | 2022-05-20 | 2022-11-20 |
+| [A Form of Protest](https://open.spotify.com/track/2T87RX4V5PsfnqhBq21Qxm) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7isoz5aQC63C3zWg3yQT06) | 3:09 | 2022-11-25 |  |
 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 | 2022-08-12 |  |
 | [A King To Rise](https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [A King To Rise](https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG) | 3:08 | 2022-06-10 | 2022-09-03 |
 | [A Night in Hell](https://open.spotify.com/track/78dflnXmmb9kBDNk7XIdYn) | [Deathbeds AU](https://open.spotify.com/artist/2CA3NHP7ecfgsgczb2TApg), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [A Night in Hell](https://open.spotify.com/album/1W4QsTaFs8zjnQg2mhizEk) | 3:32 | 2022-07-13 | 2022-07-23 |
@@ -263,6 +264,7 @@
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-20 | 2022-07-23 |
 | [Heir to the Serpent](https://open.spotify.com/track/2kBVTplPtDRx0sqXWtTYOh) | [The Guild](https://open.spotify.com/artist/5BVgUzoX3ui5r5bBWMNGLX) | [Heir to the Serpent](https://open.spotify.com/album/1KkGP91FL5N5zxc9Jb8Fpd) | 4:23 | 2022-07-13 | 2022-07-23 |
 | [Hell is Other People](https://open.spotify.com/track/7q7ZgeTsfhCDewBSb5tIim) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Hell is Other People](https://open.spotify.com/album/4RWvDCNII3onIm2bZvjzdy) | 3:39 | 2022-07-13 | 2022-07-19 |
+| [Hell Is Where The Heart Is](https://open.spotify.com/track/4jZFmBhYpwwiWjuEYmlEYq) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. III: Clarity](https://open.spotify.com/album/7lt5GA2p1R951h7cg6IycG) | 3:53 | 2022-11-25 |  |
 | [Hellmouth](https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Hellmouth](https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD) | 3:41 | 2022-07-13 | 2022-07-22 |
 | [Heretic](https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:22 | 2022-11-18 |  |
 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 | 2022-06-17 | 2022-11-21 |
@@ -278,7 +280,7 @@
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-04-01 | 2022-07-23 |
 | [Hush](https://open.spotify.com/track/65IszYMAcZBZ31WJeMkGx3) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Welcome Home](https://open.spotify.com/album/04O5F58s8VmMEGqJwQRfFu) | 3:37 | 2022-01-21 | 2022-03-18 |
 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 | 2021-12-17 | 2022-03-26 |
-| [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 | 2022-05-06 |  |
+| [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 | 2022-05-06 | 2022-11-26 |
 | [Illusive Obsession](https://open.spotify.com/track/2YkSmJa5jtPuf3QKzQ9K7M) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Illusive Obsession](https://open.spotify.com/album/7GUg5PW2SOoowXQXLarO4G) | 4:47 | 2022-07-13 | 2022-07-16 |
 | [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 | 2022-07-08 | 2022-08-27 |
 | [IMAGO](https://open.spotify.com/track/7JQMRfognfgWlzptQVeUV2) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/4L48CMMHuCpppX0t0IUfu8) | 3:17 | 2022-05-20 | 2022-07-29 |
@@ -550,7 +552,7 @@
 | [Total Protonic Reversal](https://open.spotify.com/track/69lvjewaJxRQloAi5j7hma) | [Killitorous](https://open.spotify.com/artist/0aiK7nPFPKzrpv3R3pWOIw) | [Total Protonic Reversal](https://open.spotify.com/album/5Jf0ykUIAgOPZpSWTzCfOT) | 3:50 | 2022-07-13 | 2022-07-20 |
 | [Toxicant](https://open.spotify.com/track/39OtaFg1VC0Ae5s9QByKH1) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Toxicant](https://open.spotify.com/album/6DhFyCsqxvVJOVvq0cYbiO) | 4:41 | 2022-07-13 | 2022-07-22 |
 | [Transcendent](https://open.spotify.com/track/5oWgLIrSTgqqNRh1AhsiQ1) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Transcendent](https://open.spotify.com/album/3YMpCrGOIp8ZXy0ft4piEA) | 3:37 | 2022-03-11 | 2022-05-14 |
-| [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 | 2022-06-17 |  |
+| [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 | 2022-06-17 | 2022-11-26 |
 | [Trapped](https://open.spotify.com/track/4XbVasB4Gwwgvdua5fmI8l) | [The Amsterdam Red Light District](https://open.spotify.com/artist/1ptorm1HpGuBCrIE5BLijx) | [Trapped](https://open.spotify.com/album/5ACncvxgoQCS5YJpCtuDj1) | 3:20 | 2022-04-08 | 2022-06-24 |
 | [Truly Deprived](https://open.spotify.com/track/2BsTfpWMvFFsCV9RHfdBPJ) | [Amoura](https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh), [Chad Ruhlig](https://open.spotify.com/artist/3nCpQY8lOa5g72k9tA8tUb) | [Truly Deprived](https://open.spotify.com/album/0qLEtJ5xuUazymrEcHCfHL) | 3:34 | 2021-12-17 | 2022-02-18 |
 | [Turning 23](https://open.spotify.com/track/7djUbBYcFHXuTf3psVNBnQ) | [Until the Dead Walk](https://open.spotify.com/artist/4Zr17aIvRu0LjH3Zf8QDRb), [Coldharbour](https://open.spotify.com/artist/7eVTOU3R6iKKMVric5JaUo) | [Untitled](https://open.spotify.com/album/4tModRmtwGx1rjRVbfrhCz) | 3:33 | 2022-07-13 | 2022-07-19 |

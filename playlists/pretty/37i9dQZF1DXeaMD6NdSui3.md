@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,730 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,823 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 22 | [Don't Cha Know](https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Strange Pleasure](https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7) | 4:20 |
 | 23 | [My Way Down](https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J) | [Chris Duarte Group](https://open.spotify.com/artist/4kA3u3oThWqVYQhT47dGyW) | [Texas Sugar Strat Magik](https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p) | 4:36 |
 | 24 | [I Got My Mojo Working](https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:46 |
-| 25 | [Crazy Dream](https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 4:47 |
-| 26 | [Brothers](https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 5:05 |
+| 25 | [Brothers](https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 5:05 |
+| 26 | [Crazy Dream](https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 4:47 |
 | 27 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
 | 28 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
 | 29 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MTY0ODQ5OTYyNCwwMDAwMDAwMDcxOGFlM2Y2ODNmNDhiZDNmODZkNDdhZTY3MmI1MjU0`
+Snapshot ID: `MTY0ODQ5OTYyNCwwMDAwMDAwMDZmMTQxZjU1NTdkNDNlODQxNzFhOWJlOThhNWRkMDYy`

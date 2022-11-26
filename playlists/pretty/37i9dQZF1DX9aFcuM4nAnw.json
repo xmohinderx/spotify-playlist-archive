@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2092,
+  "num_followers": 2102,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDhlNzIyYjc3Zjk3YTc5MWRjYzhhODk0MmU2NmEwM2U0",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMGU1NWU5ZjBhM2ZiYzVjOTBlZDcwZTMyYjMyODM5NDM0",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV"
     },
     {
-      "added_at": "2022-11-25 01:37:39",
+      "added_at": "2022-11-26 01:34:11",
       "album": {
         "name": "Die of The Waters",
         "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes",
-        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 256401,
       "name": "Sick Times",
       "url": "https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Lost Themes",
+        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "The Word as Power",
+        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
+      },
+      "artists": [
+        {
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+        }
+      ],
+      "duration_ms": 601827,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 284132,
       "name": "What the Earth Bore",
       "url": "https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "The Word as Power",
-        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
-      },
-      "artists": [
-        {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        }
-      ],
-      "duration_ms": 601827,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -947,30 +947,6 @@
       "duration_ms": 264127,
       "name": "Prepare the Stage of Night",
       "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
-      },
-      "artists": [
-        {
-          "name": "Apocryphos",
-          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
-        },
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        },
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        }
-      ],
-      "duration_ms": 333803,
-      "name": "Immemorial",
-      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1051,6 +1027,30 @@
       "duration_ms": 430986,
       "name": "The Ruins And The Serene",
       "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
+      },
+      "artists": [
+        {
+          "name": "Apocryphos",
+          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
+        },
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        },
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        }
+      ],
+      "duration_ms": 333803,
+      "name": "Immemorial",
+      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
     },
     {
       "added_at": "2022-07-06 17:58:03",

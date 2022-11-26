@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,198 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,226 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 23 | [Adelita](https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 1:48 |
 | 24 | [Canta la Guitarra](https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o) | [Pepe Habichuela](https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR) | [Habichuela en Rama](https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB) | 3:50 |
 | 25 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
-| 26 | [Morente Habichuela \- Alegrías](https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs) | [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh), [Javier Colina](https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW), [Bandolero](https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN) | [De Cerca](https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A) | 6:43 |
-| 27 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3\. En la mar ay una torre](https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:14 |
+| 26 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3\. En la mar ay una torre](https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:14 |
+| 27 | [Morente Habichuela \- Alegrías](https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs) | [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh), [Javier Colina](https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW), [Bandolero](https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN) | [De Cerca](https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A) | 6:43 |
 | 28 | [Ponte Veccio](https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [Ponte Vecchio](https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc) | 2:28 |
 | 29 | [Train to Rishikesh](https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Luminosity](https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a) | 5:32 |
 | 30 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 47 | [Senior Emilio](https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Senior Emilio](https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda) | 4:38 |
 | 48 | [Monte Gurugú](https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 4:34 |
 | 49 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
-| 50 | [El Cañaveral \- Guajira](https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Recital Flamenco\. 12 de Sus Toques Originales](https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh) | 4:39 |
-| 51 | [Repiqueteos Flamencos \(Zapateado\)](https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH) | [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Fabulous Flamenco!/La Gitarra Flamenca](https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK) | 3:25 |
+| 50 | [Repiqueteos Flamencos \(Zapateado\)](https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH) | [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Fabulous Flamenco!/La Gitarra Flamenca](https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK) | 3:25 |
+| 51 | [El Cañaveral \- Guajira](https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Recital Flamenco\. 12 de Sus Toques Originales](https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh) | 4:39 |
 | 52 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 |
 | 53 | [Me Estas Haciendo Falta](https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:32 |
 | 54 | [Isla de los Bienaventurados \(Bulerías\)](https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt) | [Cañizares](https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP) | [El Mito de la Caverna](https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Tango](https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Romance](https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h) | 2:58 |
 | 75 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMGEwMGQ4ZWUxMWFlMjllNmI2MjA4NzNmM2U4MDE1MDkz`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDIzYWQ1YzVmYjMwMGYxNzRmNTU1N2RjM2QzNDJhNjFk`

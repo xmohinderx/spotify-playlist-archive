@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Lucrecia Dalt Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,707 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,806 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 32 | [The Fifty](https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [The Truth Is](https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8) | 6:42 |
 | 33 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
 | 34 | [deaf](https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg) | [TAKA](https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm) | [Theory](https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy) | 3:58 |
-| 35 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
-| 36 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 |
-| 37 | [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 |
+| 35 | [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 |
+| 36 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
+| 37 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 |
 | 38 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 |
 | 39 | [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 |
 | 40 | [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
 | 50 | [Vertiko](https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Vertiko](https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB) | 4:59 |
 
-Snapshot ID: `MTY2ODAwMTg4MCwwMDAwMDAwMGI5MzFjNGE0OGNjOTAxMzUxN2NkZTRhNjdiY2JkY2M0`
+Snapshot ID: `MTY2ODAwMTg4MCwwMDAwMDAwMDJiZDA1OWI0ODI3M2MwMzRjODYwZGNlMjAyNzJhNGFm`

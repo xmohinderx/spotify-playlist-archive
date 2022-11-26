@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best from the world of acoustic songs right now.",
+  "description": "The best from the world of acoustic songs and pop covers right now.",
   "name": "Hot Acoustics",
   "published_playlist_ids": [
     "4k2X8AujYuVA9s50gTmPB1"
@@ -190,6 +190,24 @@
     },
     {
       "album": {
+        "name": "almost happy",
+        "url": "https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137897,
+      "name": "almost happy",
+      "url": "https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky"
+    },
+    {
+      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
@@ -201,7 +219,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 193779,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
@@ -295,6 +313,24 @@
       "duration_ms": 219378,
       "name": "Angel",
       "url": "https://open.spotify.com/track/30kLC24uAzd0WJCyutcV0t"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm"
+      },
+      "artists": [
+        {
+          "name": "Sighting",
+          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223625,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m"
     },
     {
       "album": {
@@ -493,10 +529,32 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 158069,
       "name": "Beautiful Scars - Acoustic",
       "url": "https://open.spotify.com/track/46zaR58Xb71HqoR5CTbQAX"
+    },
+    {
+      "album": {
+        "name": "Rainy Day Chill",
+        "url": "https://open.spotify.com/album/3vQ94ui6nzPdcN4C1EBOyq"
+      },
+      "artists": [
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        },
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157779,
+      "name": "Beautiful Scars - Acoustic",
+      "url": "https://open.spotify.com/track/2rrkDFLwVL86ZYtiEnYE3H"
     },
     {
       "album": {
@@ -587,7 +645,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/0VsGaRXR5WAzpu51unJTis"
@@ -623,7 +681,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 164350,
       "name": "Better - Acoustic",
       "url": "https://open.spotify.com/track/2CLB1qOBXhCNAfW7PDZlO9"
@@ -713,7 +771,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195657,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/2ty3xfjlNMJZHYHyloUrxV"
@@ -753,7 +811,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 179522,
       "name": "Birthday - Acoustic",
       "url": "https://open.spotify.com/track/6QdGUZpcyH1JZoVKEmfLQH"
@@ -851,7 +909,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 147368,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0cQJGoRki2avKVodXEmr0d"
@@ -877,6 +935,24 @@
       "duration_ms": 196363,
       "name": "Body Back (feat. Maia Wright) - Acoustic",
       "url": "https://open.spotify.com/track/72QN4En2X8QFxqJV6pvxzR"
+    },
+    {
+      "album": {
+        "name": "Body like backroad",
+        "url": "https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO"
+      },
+      "artists": [
+        {
+          "name": "Samuel Pine",
+          "url": "https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168260,
+      "name": "Body like backroad",
+      "url": "https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0"
     },
     {
       "album": {
@@ -949,10 +1025,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 226453,
       "name": "Bruises - Guitar Acoustic",
       "url": "https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk"
+    },
+    {
+      "album": {
+        "name": "Carry It Well (Acoustic)",
+        "url": "https://open.spotify.com/album/2TXE5r0FbzfmOHWYe3xWTX"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226173,
+      "name": "Carry It Well - Acoustic",
+      "url": "https://open.spotify.com/track/5WD2D369riKav4v92rzFjz"
     },
     {
       "album": {
@@ -992,6 +1086,42 @@
     },
     {
       "album": {
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221762,
+      "name": "Chasing Cars (Acoustic)",
+      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132024,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
+    },
+    {
+      "album": {
         "name": "Circles (Acoustic)",
         "url": "https://open.spotify.com/album/3Dofb5tUo55ZbUW5NkusdU"
       },
@@ -1021,7 +1151,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 204000,
       "name": "Circles - Acoustic",
       "url": "https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS"
@@ -1057,7 +1187,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 238080,
       "name": "Cold - Acoustic",
       "url": "https://open.spotify.com/track/7wPFWjk6yXskj1CDyp9a5M"
@@ -1347,7 +1477,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -1365,7 +1495,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 266720,
       "name": "Elastic Heart - Live from The Village",
       "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
@@ -1445,10 +1575,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 196652,
       "name": "Faking In Love - Acoustic",
       "url": "https://open.spotify.com/track/6UjBD8tDFXHDSozQWt5AKq"
+    },
+    {
+      "album": {
+        "name": "Greatest Covers Ever",
+        "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217864,
+      "name": "Fast Car - Acoustic",
+      "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
     },
     {
       "album": {
@@ -1510,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261665,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
+    },
+    {
+      "album": {
         "name": "Flow (Acoustic Version)",
         "url": "https://open.spotify.com/album/1xL0s1ffZ0frJXKwRsLR6M"
       },
@@ -1529,6 +1699,24 @@
       "duration_ms": 190999,
       "name": "Flow (Acoustic Version)",
       "url": "https://open.spotify.com/track/1nQG8NkT0mLo7iZscof0YS"
+    },
+    {
+      "album": {
+        "name": "Fool Again",
+        "url": "https://open.spotify.com/album/15l7FFHuKlgQuvYCzsGf4e"
+      },
+      "artists": [
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171253,
+      "name": "Fool Again",
+      "url": "https://open.spotify.com/track/5ejNnWN2s5skuYYNfthVHT"
     },
     {
       "album": {
@@ -1579,10 +1767,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 199462,
       "name": "Free",
       "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
+    },
+    {
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263573,
+      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
     },
     {
       "album": {
@@ -1615,7 +1821,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 193733,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/0989k5MVeLB4HwEVjLfYM0"
@@ -1705,7 +1911,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 174438,
       "name": "Girls Like Us - Acoustic Version",
       "url": "https://open.spotify.com/track/1jfxr7knjiUEk0us86bRBz"
@@ -1785,7 +1991,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 208437,
       "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
       "url": "https://open.spotify.com/track/4siZLgCKM0IKnD1ek6Bt4d"
@@ -1951,7 +2157,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 238971,
       "name": "Hey Mr. Music Man",
       "url": "https://open.spotify.com/track/47TOrAWRuedFKPdnOOeLqw"
@@ -2041,7 +2247,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 183164,
       "name": "I Can't Sleep - Acoustic Version",
       "url": "https://open.spotify.com/track/6laJcLUfg7c1fyt0oSDJGV"
@@ -2063,10 +2269,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 229968,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/68Vnmq4o96QQ0aVSZm43eK"
+    },
+    {
+      "album": {
+        "name": "I Just Came To Dance (Acoustic)",
+        "url": "https://open.spotify.com/album/3cWFS2rpY7eZpy9l0ynQou"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148733,
+      "name": "I Just Came To Dance - Acoustic",
+      "url": "https://open.spotify.com/track/2uBKT2Q7vsWXTekfdOlTvx"
     },
     {
       "album": {
@@ -2139,6 +2363,24 @@
       "duration_ms": 153093,
       "name": "I'm a Mess - Acoustic",
       "url": "https://open.spotify.com/track/0GU7mjplm8DvhlBPPyB3VP"
+    },
+    {
+      "album": {
+        "name": "Spotify Session",
+        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "I'm Not the Only One - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
     },
     {
       "album": {
@@ -2243,7 +2485,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 209009,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/2QaTtQ3bvllhg2Ot5CpgtC"
@@ -2337,6 +2579,24 @@
       "duration_ms": 249150,
       "name": "if you weren't you",
       "url": "https://open.spotify.com/track/6cMOfQIy91nuaGjQeHVDUG"
+    },
+    {
+      "album": {
+        "name": "Intentions (Acoustic)",
+        "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160611,
+      "name": "Intentions - Acoustic",
+      "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
     },
     {
       "album": {
@@ -2605,7 +2865,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 232919,
       "name": "Lasting Lover - Acoustic",
       "url": "https://open.spotify.com/track/0TGU6ELkO9MRv7aHL3QVrl"
@@ -2641,7 +2901,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 190373,
       "name": "Let Me Down Slow - Acoustic",
       "url": "https://open.spotify.com/track/6TgNJymypzXmSm4YEG19JH"
@@ -2765,7 +3025,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 184900,
       "name": "Look Away - Acoustic",
       "url": "https://open.spotify.com/track/5haEwf9UsvjWq0aovDAofJ"
@@ -2839,6 +3099,28 @@
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/1K4Ly0QhK2HF74PmFhzCxg"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        },
+        {
+          "name": "Citycreed",
+          "url": "https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135801,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/1YpsoESyvBeAoAaNDsvOk5"
     },
     {
       "album": {
@@ -2969,7 +3251,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 191303,
       "name": "Me Without You - Acoustic",
       "url": "https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L"
@@ -3009,7 +3291,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 183337,
       "name": "Memories (Acoustic)",
       "url": "https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd"
@@ -3142,6 +3424,24 @@
     },
     {
       "album": {
+        "name": "I Cry When I Laugh",
+        "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182740,
+      "name": "My Love - Acoustic",
+      "url": "https://open.spotify.com/track/4DFfEiSy8xyYhNkrgAzXx0"
+    },
+    {
+      "album": {
         "name": "Acoustic in Isby",
         "url": "https://open.spotify.com/album/7mWKfFxovOPJfuEk7qGWbq"
       },
@@ -3219,7 +3519,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 173400,
       "name": "New Eyes - Acoustic",
       "url": "https://open.spotify.com/track/4edFT7XYhwdnuRDECPQqGa"
@@ -3281,7 +3581,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 213436,
       "name": "New Rules - Acoustic",
       "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
@@ -3454,6 +3754,28 @@
     },
     {
       "album": {
+        "name": "Cover Sessions, Vol. 4",
+        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260186,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC"
+    },
+    {
+      "album": {
         "name": "Pillow Talk (Acoustic)",
         "url": "https://open.spotify.com/album/3zmJKO6OA2iy1J2ml9nvGz"
       },
@@ -3537,7 +3859,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 309359,
       "name": "re: Stacks - Spotify Singles",
       "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
@@ -3747,7 +4069,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 230500,
       "name": "Savage Love - Acoustic Cover",
       "url": "https://open.spotify.com/track/303GLwk2sGt4TYDomRUogQ"
@@ -3787,6 +4109,24 @@
       "duration_ms": 206301,
       "name": "Say something - Acoustic",
       "url": "https://open.spotify.com/track/3joOiBGjO4ExbXUQNxafN3"
+    },
+    {
+      "album": {
+        "name": "see you soon",
+        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158647,
+      "name": "see you soon",
+      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
     },
     {
       "album": {
@@ -3859,7 +4199,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 261469,
       "name": "September Weather",
       "url": "https://open.spotify.com/track/12MmyqfCmqmqOAJaBL35BF"
@@ -3881,6 +4221,24 @@
       "duration_ms": 261469,
       "name": "September Weather",
       "url": "https://open.spotify.com/track/2KZ3DD0we4RMEhJrWuXun7"
+    },
+    {
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172919,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO"
     },
     {
       "album": {
@@ -3953,7 +4311,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 192475,
       "name": "Simple Days",
       "url": "https://open.spotify.com/track/18hzcFq9jqdTlI3D8WmOdy"
@@ -4047,10 +4405,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 201586,
       "name": "Soon You\u2019ll Get Better (feat. The Chicks)",
       "url": "https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "album": {
@@ -4069,7 +4445,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 227413,
       "name": "Sorry I'm Gone",
       "url": "https://open.spotify.com/track/60r0gseRNjgAfF3EiiRFXL"
@@ -4171,7 +4547,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 215213,
       "name": "spark - Acoustic Version",
       "url": "https://open.spotify.com/track/3t9VNPLPtOSHhdDdTx7VFM"
@@ -4319,7 +4695,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 196533,
       "name": "The Last Time - Acoustic",
       "url": "https://open.spotify.com/track/7CEIn4lDK1nZQRfc6XVTqU"
@@ -4485,7 +4861,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 197055,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs"
@@ -4568,6 +4944,24 @@
     },
     {
       "album": {
+        "name": "Visiting Hours (Acoustic)",
+        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197202,
+      "name": "Visiting Hours (Acoustic)",
+      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
       },
@@ -4597,7 +4991,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
@@ -4813,6 +5207,24 @@
       "duration_ms": 158313,
       "name": "We Used To",
       "url": "https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "What Do You Mean? - Acoustic",
+      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
     },
     {
       "album": {
@@ -5049,7 +5461,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 181907,
       "name": "Your Song - Acoustic",
       "url": "https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5"

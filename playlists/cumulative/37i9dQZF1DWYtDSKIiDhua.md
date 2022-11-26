@@ -2,7 +2,7 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: GEMINI
+> The R&B and good vibe tracks for your current mood\. Cover: slchld
 
 252 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 

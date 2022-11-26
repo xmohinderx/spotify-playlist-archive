@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,171 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,180 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 17 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
 | 18 | [Daughters of Zion](https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Neighbor Songs](https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So) | 4:01 |
 | 19 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 |
-| 20 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp) | 4:23 |
-| 21 | [When the Well Runs Dry](https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8) | [Liv Douglas](https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [When the Well Runs Dry](https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ) | 4:00 |
+| 20 | [When the Well Runs Dry](https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8) | [Liv Douglas](https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [When the Well Runs Dry](https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ) | 4:00 |
+| 21 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp) | 4:23 |
 | 22 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 |
 | 23 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 |
 | 24 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 |
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 34 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
 | 35 | [Held by Your Love](https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK) | [Lion & Bear](https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g) | [Hollows](https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l) | 4:26 |
 | 36 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
-| 37 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 |
-| 38 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 |
+| 37 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 |
+| 38 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 |
 | 39 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 | 40 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 |
 | 41 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 |
 | 42 | [Hiding Lord](https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:04 |
 | 43 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 |
-| 44 | [Tides](https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [High Hopes](https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL) | 3:17 |
-| 45 | [Breathe](https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Breathe](https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3) | 4:52 |
+| 44 | [Breathe](https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Breathe](https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3) | 4:52 |
+| 45 | [Tides](https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [High Hopes](https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL) | 3:17 |
 | 46 | [Magic in the Moment](https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Magic in the Moment](https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2) | 3:13 |
 | 47 | [Know Your Heart](https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 3:59 |
 | 48 | [Salome & Saint Procula](https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 4:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [Found You](https://open.spotify.com/track/0oD3hbtGptcY1R0JeRHAa3) | [Silicone Boone](https://open.spotify.com/artist/35sTROQ10vkOfLtMf1epnr) | [Found You](https://open.spotify.com/album/602LizcSBxLxMxZNjl4V3r) | 4:03 |
 | 60 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDA2YWI2OTljZTk5YjVjNDMwYzcyZjA4YzI1OGIxYjEw`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDdiMzJkY2U0MjNhYjJjNTllZWQ0MTZlZmU2YzlkOWM3`

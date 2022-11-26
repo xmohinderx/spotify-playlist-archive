@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283,141 likes - 41 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,283,909 likes - 41 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 17 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 |
 | 18 | [It's So Easy](https://open.spotify.com/track/63HA3dpnOmdDcazJ9sDfrh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 3:21 |
 | 19 | [Yesterdays](https://open.spotify.com/track/11VGhd5i7deLL0YB0ayicY) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 3:16 |
-| 20 | [Chinese Democracy](https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 4:43 |
-| 21 | [Sympathy For The Devil](https://open.spotify.com/track/4InpYF6IH5bhuHwG0R0faj) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/3Qf4H3NYSp3BMIRe6WOyOA) | 7:35 |
+| 20 | [Sympathy For The Devil](https://open.spotify.com/track/4InpYF6IH5bhuHwG0R0faj) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/3Qf4H3NYSp3BMIRe6WOyOA) | 7:35 |
+| 21 | [Chinese Democracy](https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 4:43 |
 | 22 | [Rocket Queen](https://open.spotify.com/track/6v5VsfCYKdrkQBTMhAlkDr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:13 |
 | 23 | [14 Years](https://open.spotify.com/track/7xki0BmuOllyquWqjhETyr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 4:21 |
 | 24 | [Dust N' Bones](https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:58 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 40 | [Sail Away Sweet Sister \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/0SssEf0vqdVTYLPjgC187j) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 1:48 |
 | 41 | [Raw Power](https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:11 |
 
-Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA2MmMyNzYzNDgxYjhiNjYxNjU4YTRmNmFhMDUzMDQ0Yg==`
+Snapshot ID: `Mjc4MjMxMDcsMDAwMDAwMDAyYjQ2NjAzOTg5ZjQ2NmMyNTg2YTcwYjQ1MWNkMWZjMw==`

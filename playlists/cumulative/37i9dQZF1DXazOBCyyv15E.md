@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Ray Laurél
 
-1,198 songs - 2 day 22 hr 55 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,199 songs - 2 day 23 hr 0 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Cleo](https://open.spotify.com/track/329bGHOHCK2HFuTkrVvJKQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:49 | 2022-03-08 | 2022-03-09 |
 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 | 2022-10-06 |  |
 | [Closet Lunatic \(Edit\)](https://open.spotify.com/track/6sqW7Hph5WO7gAoo3dTCYJ) | [Caro](https://open.spotify.com/artist/7ueeHPtmgwKNTjVh0Sjggw) | [Closet Lunatic \(Edit\)](https://open.spotify.com/album/50tRkt5Pudf7rvBzumivoN) | 3:38 | 2020-11-06 | 2020-12-04 |
-| [Club Country](https://open.spotify.com/track/3pj03IwuUk3OYS29crcwZV) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Always Sickening](https://open.spotify.com/album/0m3BU1wcAApzYq3aVcBb43) | 4:49 | 2022-11-25 |  |
+| [Club Country](https://open.spotify.com/track/3pj03IwuUk3OYS29crcwZV) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Always Sickening](https://open.spotify.com/album/0m3BU1wcAApzYq3aVcBb43) | 4:49 | 2022-11-25 | 2022-11-26 |
+| [Club Country](https://open.spotify.com/track/5sP0ZjiR6HypPDqYjBhArf) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Always Sickening](https://open.spotify.com/album/4slNroUWWHQPWDcXqGtpwA) | 4:49 | 2022-11-25 |  |
 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 | 2022-07-01 | 2022-09-09 |
 | [Cold Hands](https://open.spotify.com/track/3JEcaYJe9aBLvFyEC9nAwa) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Cold Hands / Gotta Get](https://open.spotify.com/album/13hD8TEtF9KymVBQRnIV1l) | 2:24 | 2021-05-28 | 2021-08-13 |
 | [Come In Closer](https://open.spotify.com/track/1DRqfEpJYxBxpymDtkgZG2) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Come In Closer](https://open.spotify.com/album/0Sy9608jISmLUYPozS2iOE) | 3:36 | 2021-01-08 | 2021-01-23 |

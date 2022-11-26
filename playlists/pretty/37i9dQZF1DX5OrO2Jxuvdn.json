@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs.",
-  "num_followers": 87843,
+  "num_followers": 87908,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE5NTE4OSwwMDAwMDAwMGZkNmY0OWE3MGMxZmI5NjIwNzE4ODE3YjY2OGRhMzQy",
+  "snapshot_id": "MTY0MDE5NTE4OSwwMDAwMDAwMDMwMDQxOGMyNjRhM2VjODU4ODRlMzUzZjViMDg2OTE0",
   "tracks": [
     {
       "added_at": "2021-12-22 17:46:06",
@@ -191,18 +191,22 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Dirt Road Anthem",
-      "url": "https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV"
+      "duration_ms": 203173,
+      "name": "Knee Deep (feat. Jimmy Buffett)",
+      "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -243,22 +247,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 203173,
-      "name": "Knee Deep (feat. Jimmy Buffett)",
-      "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
+      "duration_ms": 229400,
+      "name": "Dirt Road Anthem",
+      "url": "https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -395,18 +395,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -427,18 +427,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -659,18 +659,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -695,18 +695,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
-        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Free And Easy (Down The Road I Go)",
-      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 218146,
       "name": "Beer Money",
       "url": "https://open.spotify.com/track/61voPX1C71rhwynuLQyajo"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
+        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Free And Easy (Down The Road I Go)",
+      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
     },
     {
       "added_at": "2021-12-22 17:46:06",

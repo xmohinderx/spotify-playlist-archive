@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 190975,
       "name": "2 France",
       "url": "https://open.spotify.com/track/6eTzbiTlDXQxLMTtq55fyM"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 242067,
       "name": "79th and Stony Island",
       "url": "https://open.spotify.com/track/41t7RkFBjaEFoGvr29QhYL"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 133548,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/4OfCtxWLlzfXcMoZU8JOnT"
@@ -3772,6 +3772,28 @@
     },
     {
       "album": {
+        "name": "Kool Aid (with Dave B.)",
+        "url": "https://open.spotify.com/album/0X9qmf9HWtI4PRMNYGByjR"
+      },
+      "artists": [
+        {
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+        },
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153369,
+      "name": "Kool Aid (with Dave B.)",
+      "url": "https://open.spotify.com/track/1spizWhedqBEs55T7UQghA"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -4085,6 +4107,44 @@
       "duration_ms": 226865,
       "name": "Lock It Up",
       "url": "https://open.spotify.com/track/1GIKDc28Z95bWSIXgkr3y3"
+    },
+    {
+      "album": {
+        "name": "Long Nights",
+        "url": "https://open.spotify.com/album/1Fvn8g8DCw9iy0k7kzTFmX"
+      },
+      "artists": [
+        {
+          "name": "slimelivin",
+          "url": "https://open.spotify.com/artist/4HNxKH80tgLmZjcK6izJIl"
+        },
+        {
+          "name": "MellowHype",
+          "url": "https://open.spotify.com/artist/5CCrgHVEWtg8YTEn1UaYug"
+        },
+        {
+          "name": "Ameer Vann",
+          "url": "https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH"
+        },
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        },
+        {
+          "name": "Injury Reserve",
+          "url": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73"
+        },
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/0RGIYqiyrvRCx18U7x3lXD"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193002,
+      "name": "Long Nights",
+      "url": "https://open.spotify.com/track/21cLeVF4GFixTzhltdCNqr"
     },
     {
       "album": {
@@ -4643,6 +4703,58 @@
       "duration_ms": 236799,
       "name": "Not For Nothing (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
+    },
+    {
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125706,
+      "name": "Odd Ways",
+      "url": "https://open.spotify.com/track/5WUNkJYMnVFVuhnAISp1WC"
+    },
+    {
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/0FbUdx3SdNnouUTwDfedrD"
     },
     {
       "album": {
@@ -5991,7 +6103,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 191990,
       "name": "Stuck in Traffic",
       "url": "https://open.spotify.com/track/6RKVaQhPzmtlDdcysWIV67"

@@ -1,12 +1,12 @@
 {
   "description": "swe x fr connect",
-  "num_followers": 267189,
+  "num_followers": 267283,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGIzNDIyNDQxM2MxMDU4NmM1YjVjMGUwNjcwZDkwYzNm",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDcwZGYzMTdlYWRjZjQxYmMzZTQ1ODRmZDk1ZjVjOGUw",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -79,6 +79,22 @@
       "duration_ms": 140444,
       "name": "HARRAGAS",
       "url": "https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -651,8 +667,8 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Var \u00c4r Du",
-        "url": "https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4"
+        "name": "En Unge",
+        "url": "https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P"
       },
       "artists": [
         {
@@ -662,7 +678,7 @@
       ],
       "duration_ms": 145777,
       "name": "Var \u00c4r Du",
-      "url": "https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED"
+      "url": "https://open.spotify.com/track/2Ohk1b9JT1AbtNOUqMfNSl"
     },
     {
       "added_at": "2022-11-24 23:00:00",

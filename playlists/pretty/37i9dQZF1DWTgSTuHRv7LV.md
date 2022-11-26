@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Flyboiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,594 likes - 161 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,644 likes - 161 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 103 | [Triple H](https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [They Love Us](https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb) | 2:54 |
 | 104 | [Vuelve](https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Vuelve](https://open.spotify.com/album/2eJQaFgNUndmCjFinYg2Nj) | 3:01 |
 | 105 | [Explicita](https://open.spotify.com/track/2E3XW68AKV6tVB5Jr1OQJ9) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp) | [Explicita](https://open.spotify.com/album/3LtFl0dohF761jukARAR5L) | 3:09 |
-| 106 | [La Que Hay](https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [La Que Hay](https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p) | 3:08 |
-| 107 | [THREE](https://open.spotify.com/track/7bAXhOVSGEcUtpg8zza9Kw) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [DISCORDIA](https://open.spotify.com/album/2YZYDm5dakQuKD9RPe7mYx) | 3:04 |
+| 106 | [THREE](https://open.spotify.com/track/7bAXhOVSGEcUtpg8zza9Kw) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [DISCORDIA](https://open.spotify.com/album/2YZYDm5dakQuKD9RPe7mYx) | 3:04 |
+| 107 | [La Que Hay](https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [La Que Hay](https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p) | 3:08 |
 | 108 | [Kevin, Hugo & Jorge](https://open.spotify.com/track/5lSPB2m4NobXOZBXDzWvVR) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi) | [Kevin, Hugo & Jorge](https://open.spotify.com/album/6vYsEJMHyhDGWLsCFB66w3) | 2:26 |
 | 109 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 |
 | 110 | [No Boss](https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Ael](https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o) | [No Boss](https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ) | 2:13 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 160 | [Alright \- The Global Edition](https://open.spotify.com/track/6kuTh44cxqVkEBiy2ykXWJ) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Nefertitti Avani](https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Algorithm Guest List: Camino](https://open.spotify.com/album/5fQEaRgwwo7viMhmcdQ7kr) | 4:21 |
 | 161 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDQzYjdhOGJkM2Y4M2U0ZmU4ZWRlYjQ5NDgxNzEzMmI4`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGNiMjA1MWFlOTk2ZDc4MGY4NGFlODU3YjA3ZmFjZGQy`

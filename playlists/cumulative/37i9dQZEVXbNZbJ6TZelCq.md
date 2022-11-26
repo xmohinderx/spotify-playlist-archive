@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-936 songs - 2 day 1 hr 42 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
+937 songs - 2 day 1 hr 45 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,7 +747,7 @@
 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 | 2021-04-18 | 2021-04-19 |
 | [Skurcircuit](https://open.spotify.com/track/2xJDZ8F2ImFeOMtp9rQD2U) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo](https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV) | 2:29 | 2022-02-21 | 2022-02-26 |
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2021-11-11 | 2022-01-04 |
-| [SL2 Intro](https://open.spotify.com/track/5gs52iMPraJEYz1hgBBlcC) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [SL2 Intro](https://open.spotify.com/album/2SPPH8W9CejSuCbQIOxEDc) | 4:05 | 2022-10-20 |  |
+| [SL2 Intro](https://open.spotify.com/track/5gs52iMPraJEYz1hgBBlcC) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [SL2 Intro](https://open.spotify.com/album/2SPPH8W9CejSuCbQIOxEDc) | 4:05 | 2022-10-20 | 2022-11-26 |
 | [Slatty \(feat\. Yak Gotti & Lil Duke\)](https://open.spotify.com/track/0ky8syPEVEfD7qCxMTW49X) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 4:50 | 2021-04-18 | 2021-04-19 |
 | [Slayer 2](https://open.spotify.com/track/3fUQ92lbWyhEQZMZYK1Qss) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Slayer 2](https://open.spotify.com/album/5yPlewpHdxH4R2lnFYlaNJ) | 3:36 | 2022-07-15 | 2022-09-16 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-19 | 2021-12-27 |
@@ -855,6 +855,7 @@
 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 | 2022-05-16 | 2022-05-30 |
 | [Tropical](https://open.spotify.com/track/0lnwlCqDbaU2p1aVn0K9T8) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ), [Nutu](https://open.spotify.com/artist/2DVHeB86M05t7mBTvvsEVF) | [Tropical](https://open.spotify.com/album/2CWOoMPIegD2EZ2LLjFoy1) | 2:20 | 2022-07-26 | 2022-08-03 |
 | [Tropical](https://open.spotify.com/track/7jDlzn91zWtBINLx1jKmQP) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ), [Nutu](https://open.spotify.com/artist/2DVHeB86M05t7mBTvvsEVF) | [El Dios Del Trap](https://open.spotify.com/album/3YaKO8Onav9mtrTUQE0tjX) | 2:20 | 2022-08-02 | 2022-08-13 |
+| [Trotinete \- From "Romina VTM"](https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Trotinete \(From "Romina VTM"\)](https://open.spotify.com/album/5mUAT2d6j1AAVWdpapiBDg) | 2:49 | 2022-11-25 |  |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-29 | 2022-06-06 |
 | [Trup și Suflet](https://open.spotify.com/track/24yaMbn3M8imV2Nyv7wDQ8) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [De\-ale Mele II](https://open.spotify.com/album/77626BZdB6qrdzctO2Xw0W) | 3:36 | 2022-02-23 | 2022-02-25 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-10 |

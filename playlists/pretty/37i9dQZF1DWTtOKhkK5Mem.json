@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 683337,
+  "num_followers": 683679,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5NDAwOSwwMDAwMDAwMDAwMDI3NDMyMDM0NTM1YTJkYzRiNjZlMGU5ODNjOTgx",
+  "snapshot_id": "MTY2ODU5NDAwOSwwMDAwMDAwMDJjNDRmYTNlMTA5YjgzYTE5ZDMyMzVhNTNhODU5MGU2",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Take Me Home (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Singles (Expanded)",
         "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+        "name": "Take Me Home (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+      "duration_ms": 219040,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -487,6 +471,22 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "20/20",
         "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "I Knew I Loved You",
-      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "3 (The Purple Album)",
         "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
       },
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "I Knew I Loved You",
+      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 202173,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Nilsson Schmilsson",
         "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 201000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Frampton Comes Alive! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3719jlsd41vKAiYWrXNt9o"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Baby, I Love Your Way - Live",
-      "url": "https://open.spotify.com/track/1ksayCHVLH4eKFm43GFokU"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Daytime Friends: The Very Best Of Kenny Rogers",
         "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 231866,
       "name": "Lady",
       "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Frampton Comes Alive! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3719jlsd41vKAiYWrXNt9o"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Baby, I Love Your Way - Live",
+      "url": "https://open.spotify.com/track/1ksayCHVLH4eKFm43GFokU"
     },
     {
       "added_at": "2022-08-26 12:00:00",

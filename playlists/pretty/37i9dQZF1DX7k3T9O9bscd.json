@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 317829,
+  "num_followers": 318030,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUzMDM1MiwwMDAwMDAwMDAyOTZjMGJkNGE2N2ZjMThmOWRhZTU0MWI0NTU4ZTRk",
+  "snapshot_id": "MTY2OTM0NzE2NiwwMDAwMDAwMGFkYmNhZTkwYzA4ZTNjMjM0M2I1MWFhYzIyNGJjZGRk",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
+      "added_at": "2022-11-25 03:31:31",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/7qCoXlzYUSkTNP6q5qkh8l"
+      },
+      "artists": [
+        {
+          "name": "Andreotti",
+          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+        }
+      ],
+      "duration_ms": 417777,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Con Todo El Mundo",
@@ -153,22 +169,6 @@
       "url": "https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Elephant Stone",
-        "url": "https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix"
-      },
-      "artists": [
-        {
-          "name": "Elephant Stone",
-          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
-        }
-      ],
-      "duration_ms": 104786,
-      "name": "Sally Go Round the Sun",
-      "url": "https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV"
-    },
-    {
       "added_at": "2022-03-18 04:49:53",
       "album": {
         "name": "Currents",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
     },
     {
-      "added_at": "2022-01-28 02:59:48",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+        "name": "Elephant Stone",
+        "url": "https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
         }
       ],
-      "duration_ms": 266992,
-      "name": "Fuzz Jam",
-      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+      "duration_ms": 104786,
+      "name": "Sally Go Round the Sun",
+      "url": "https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV"
     },
     {
       "added_at": "2022-04-20 15:08:42",
@@ -215,6 +215,22 @@
       "duration_ms": 192960,
       "name": "Kepler-22b",
       "url": "https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv"
+    },
+    {
+      "added_at": "2022-01-28 02:59:48",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 266992,
+      "name": "Fuzz Jam",
+      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -249,22 +265,6 @@
       "url": "https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Bestiario",
-      "url": "https://open.spotify.com/track/0JOkNtA6xYd1A7H7XTryS5"
-    },
-    {
       "added_at": "2022-04-12 18:03:13",
       "album": {
         "name": "Lonerism",
@@ -283,18 +283,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Corsicana Lemonade",
-        "url": "https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz"
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
       "artists": [
         {
-          "name": "White Denim",
-          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 244346,
-      "name": "At Night In Dreams",
-      "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
+      "duration_ms": 258680,
+      "name": "Bestiario",
+      "url": "https://open.spotify.com/track/0JOkNtA6xYd1A7H7XTryS5"
     },
     {
       "added_at": "2022-09-09 13:28:01",
@@ -311,6 +311,22 @@
       "duration_ms": 615939,
       "name": "Ice V",
       "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Corsicana Lemonade",
+        "url": "https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz"
+      },
+      "artists": [
+        {
+          "name": "White Denim",
+          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "At Night In Dreams",
+      "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -377,6 +393,38 @@
       "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
     },
     {
+      "added_at": "2022-11-25 03:32:46",
+      "album": {
+        "name": "\u65b0\u5e38\u614b",
+        "url": "https://open.spotify.com/album/0gJn9nbQwbyKyRTQ7mrFN5"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u9daf\u774d\u7746(uguisu-naku)",
+          "url": "https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl"
+        }
+      ],
+      "duration_ms": 169539,
+      "name": "\u65b0\u5e38\u614b",
+      "url": "https://open.spotify.com/track/1MEWYQi6lFbpsvwrFrAGSn"
+    },
+    {
+      "added_at": "2022-04-12 18:03:13",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 467586,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Bacchanal",
@@ -409,36 +457,20 @@
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
     },
     {
-      "added_at": "2022-04-12 18:03:13",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 467586,
-      "name": "Let It Happen",
-      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
-    },
-    {
-      "added_at": "2022-09-11 03:25:01",
-      "album": {
-        "name": "The Efferusphere",
-        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Red Sun",
-      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -457,20 +489,20 @@
       "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-09-11 03:25:01",
       "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+        "name": "The Efferusphere",
+        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
         }
       ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
+      "duration_ms": 232444,
+      "name": "Red Sun",
+      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -503,6 +535,22 @@
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "everything's worth it",
+        "url": "https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo"
+      },
+      "artists": [
+        {
+          "name": "iogi",
+          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+        }
+      ],
+      "duration_ms": 219524,
+      "name": "you\\me\\everyone",
+      "url": "https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -539,22 +587,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "everything's worth it",
-        "url": "https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo"
-      },
-      "artists": [
-        {
-          "name": "iogi",
-          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
-        }
-      ],
-      "duration_ms": 219524,
-      "name": "you\\me\\everyone",
-      "url": "https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Sacred Drugs",
         "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
@@ -583,6 +615,22 @@
       "duration_ms": 212203,
       "name": "Spin",
       "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
     },
     {
       "added_at": "2022-04-22 19:38:56",
@@ -619,18 +667,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
         }
       ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -647,22 +695,6 @@
       "duration_ms": 285643,
       "name": "The Blue Marble",
       "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
-      },
-      "artists": [
-        {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -961,20 +993,20 @@
       "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
     },
     {
-      "added_at": "2022-09-03 04:25:40",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "P\u00e5 knivan",
-        "url": "https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5"
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
       "artists": [
         {
-          "name": "Sammal",
-          "url": "https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 209907,
-      "name": "P\u00e5 knivan",
-      "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
+      "duration_ms": 303106,
+      "name": "N\u00e0nnufl\u00e0y",
+      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -993,20 +1025,20 @@
       "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-09-03 04:25:40",
       "album": {
-        "name": "Elwan",
-        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
+        "name": "P\u00e5 knivan",
+        "url": "https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5"
       },
       "artists": [
         {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+          "name": "Sammal",
+          "url": "https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk"
         }
       ],
-      "duration_ms": 303106,
-      "name": "N\u00e0nnufl\u00e0y",
-      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
+      "duration_ms": 209907,
+      "name": "P\u00e5 knivan",
+      "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
     },
     {
       "added_at": "2022-04-06 03:33:39",
@@ -1043,22 +1075,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
-      },
-      "artists": [
-        {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
-        }
-      ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Back to Land",
         "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
       },
@@ -1071,6 +1087,22 @@
       "duration_ms": 317960,
       "name": "Back to Land",
       "url": "https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "You Will Know Nothing",
+        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+      },
+      "artists": [
+        {
+          "name": "Here Lies Man",
+          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+        }
+      ],
+      "duration_ms": 252089,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1199,38 +1231,6 @@
       "duration_ms": 321906,
       "name": "Black Kite",
       "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Ghost Tapes #10",
-        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
-      },
-      "artists": [
-        {
-          "name": "God Is An Astronaut",
-          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
-        }
-      ],
-      "duration_ms": 364048,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

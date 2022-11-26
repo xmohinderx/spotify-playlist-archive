@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > Best Latin Indie tracks right now\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,721 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,743 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 33 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
 | 34 | [Match](https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Match](https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79) | 3:25 |
 | 35 | [There Must Be a Song Like You](https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 4:50 |
-| 36 | [Pastel](https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3) | 2:09 |
-| 37 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
-| 38 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
-| 39 | [Oscuridad](https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll) | 3:30 |
+| 36 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
+| 37 | [Pastel](https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3) | 2:09 |
+| 38 | [Oscuridad](https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll) | 3:30 |
+| 39 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
 | 40 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
 | 41 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |
 | 42 | [Te Guardo](https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:22 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 60 | [Te Espero Aquí](https://open.spotify.com/track/3mreuRI6pOkAXMm0vaBSzx) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 4:11 |
 | 61 | [You Were Bored](https://open.spotify.com/track/4Qghywsxi70o4Kk5D2hoyL) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/25UGhYhmmE81CnCdl2UL3v) | 4:23 |
 | 62 | [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 |
-| 63 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
-| 64 | [Mariposa De Coalcomán](https://open.spotify.com/track/746EOusLLWulE6bWw41iAH) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Mariposa De Coalcomán](https://open.spotify.com/album/37qgqu8z3XbatGZ8X6h40C) | 4:53 |
+| 63 | [Mariposa De Coalcomán](https://open.spotify.com/track/746EOusLLWulE6bWw41iAH) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Mariposa De Coalcomán](https://open.spotify.com/album/37qgqu8z3XbatGZ8X6h40C) | 4:53 |
+| 64 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
 | 65 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
 | 66 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
 | 67 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [Hear Me Out \- Stripped](https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Hear Me Out](https://open.spotify.com/album/0NNKUMVScFPOCdXiFIV2Ev) | 2:17 |
 | 75 | [Flores](https://open.spotify.com/track/5fi7LBIH0j7ZZlHn7Yjrmo) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/6AEvvF0EnuyBbehpsOYUi6) | 3:22 |
 | 76 | [PARIS](https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [PARIS](https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4) | 3:18 |
-| 77 | [Te Quiero](https://open.spotify.com/track/2iAXpWs8ZoP3VOS94pb5lH) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [Te Quiero](https://open.spotify.com/album/0KuyusuKSGW5LkTfiTznNG) | 3:16 |
-| 78 | [Yo Creo en el Amor](https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz) | [REIIINA](https://open.spotify.com/artist/5rMLCHF00RKiN5BQxjUBLT) | [Yo Creo en el Amor](https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ) | 2:51 |
-| 79 | [Drive \- Edit](https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Drive](https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf) | 3:56 |
-| 80 | [ALL THESE INSTRUMENTS](https://open.spotify.com/track/1x6mcBCE9umx4zSzeQM5mo) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [WILL THIS MAKE ME GOOD](https://open.spotify.com/album/5vxofv9WcrZHyA4Ce0PpDI) | 4:09 |
+| 77 | [ALL THESE INSTRUMENTS](https://open.spotify.com/track/1x6mcBCE9umx4zSzeQM5mo) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [WILL THIS MAKE ME GOOD](https://open.spotify.com/album/5vxofv9WcrZHyA4Ce0PpDI) | 4:09 |
+| 78 | [Te Quiero](https://open.spotify.com/track/2iAXpWs8ZoP3VOS94pb5lH) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [Te Quiero](https://open.spotify.com/album/0KuyusuKSGW5LkTfiTznNG) | 3:16 |
+| 79 | [Yo Creo en el Amor](https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz) | [REIIINA](https://open.spotify.com/artist/5rMLCHF00RKiN5BQxjUBLT) | [Yo Creo en el Amor](https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ) | 2:51 |
+| 80 | [Drive \- Edit](https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Drive](https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf) | 3:56 |
 | 81 | [I know It](https://open.spotify.com/track/5AKALt78WWmtF0KLi8B1QR) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p) | 2:31 |
 | 82 | [Este Viaje](https://open.spotify.com/track/2j9QmeOI4giuBYMTE1HTuT) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Este Viaje](https://open.spotify.com/album/2cCwvOMxy19lOjl2mpzxCv) | 2:43 |
 | 83 | [Corazon de Fieltro](https://open.spotify.com/track/3Zlt9VzAa9MBELpZYFd9Ym) | [Ravo](https://open.spotify.com/artist/3xOxSUVQx9oLgljBu8bLVP) | [Corazon de Fieltro](https://open.spotify.com/album/5cK2mGWhh1IO7E4V2G0NB5) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 99 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 |
 | 100 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
 
-Snapshot ID: `MTY2MjQ4MjI5MSwwMDAwMDAwMDgzZjQ4OGM4YzhmNTRjMzZkMmU5M2I3MGViNmViNjc0`
+Snapshot ID: `MTY2MjQ4MjI5MSwwMDAwMDAwMGQ0NzI5Yzk3MTcyMGY5NmQyZGE5ZWFhNTE2MDdiNjEx`

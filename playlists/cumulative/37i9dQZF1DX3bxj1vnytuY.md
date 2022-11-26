@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-139 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+140 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [How long](https://open.spotify.com/track/3b7fskQHs7o1bYYA6ARdZS) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [I AM JAS](https://open.spotify.com/artist/1tWUf08fZUPQYWI5bfPMTM) | [How long](https://open.spotify.com/album/6gMtzCRhctZHbZy4NAIBMr) | 6:44 | 2022-04-13 |  |
 | [Hwel El Wed](https://open.spotify.com/track/33dEnbTEFdh7ucUqN5FcEI) | [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Riyozaki](https://open.spotify.com/artist/7qg9gHUnigBkCn6BdAcJ8v) | [Sunset Camel Ride](https://open.spotify.com/album/0unnaPO0z2hR4CwThvoPfO) | 5:55 | 2022-07-21 |  |
 | [Hwel El Wed](https://open.spotify.com/track/5N3GclOh3EfQR0l5fPwZI6) | [Riyozaki](https://open.spotify.com/artist/7qg9gHUnigBkCn6BdAcJ8v), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sunset Camel Ride](https://open.spotify.com/album/7ycoYy6SuUF7ltb6glLAcX) | 5:55 | 2022-04-13 | 2022-07-29 |
+| [I Still](https://open.spotify.com/track/38U70XapOx0kexSOsX03gC) | [DJ Gomi](https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz), [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [I Still](https://open.spotify.com/album/4eV9uFMNWicgEMeIyUrkS6) | 7:01 | 2022-11-25 |  |
 | [Imagine \- Abel Ray Remix](https://open.spotify.com/track/0mWWFK0slXWNKYdWmkMbDD) | [Métrika](https://open.spotify.com/artist/0JQPhxSOzcPwFTBnpssOMv), [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Abel Ray](https://open.spotify.com/artist/1sdpUqFxXmYaoblguiqh8U) | [Buddy System Remixed](https://open.spotify.com/album/6Gf49JLKqif309cvHlTOe2) | 7:02 | 2022-06-09 |  |
 | [Imagine \- Abel Ray Remix \- Mixed](https://open.spotify.com/track/7cNkTZhYHQyeR5ya1csbvT) | [Métrika](https://open.spotify.com/artist/0JQPhxSOzcPwFTBnpssOMv), [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Abel Ray](https://open.spotify.com/artist/1sdpUqFxXmYaoblguiqh8U) | [Sol Voyage 004 \- Night In The Medina \(DJ Mix\)](https://open.spotify.com/album/717xz0OL00IGZr2vA9mztH) | 5:42 | 2022-06-15 |  |
 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 | 2022-06-27 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-196 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+197 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Arse End Of The Moon](https://open.spotify.com/track/2asSx7tDOvL5vPhkejibr8) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Offworld](https://open.spotify.com/album/63mZzuEVYSZcf3aR0y1x9L) | 7:00 | 2021-10-15 | 2022-01-20 |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-10-15 | 2022-02-17 |
 | [Balani](https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Sequenza](https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t) | 5:44 | 2022-01-13 | 2022-09-01 |
-| [bda creature](https://open.spotify.com/track/7vmEKyVtkUBfrHzu7mRZ0E) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [bda creature](https://open.spotify.com/album/56315GHHnqKTmTWZFaLFhE) | 4:51 | 2022-06-20 |  |
+| [bda creature](https://open.spotify.com/track/6dnZv0EmSwCoBq91rFK0IH) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [compciter ep](https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR) | 4:51 | 2022-06-20 |  |
+| [bda creature](https://open.spotify.com/track/7vmEKyVtkUBfrHzu7mRZ0E) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [bda creature](https://open.spotify.com/album/56315GHHnqKTmTWZFaLFhE) | 4:51 | 2022-06-20 | 2022-11-26 |
 | [Black Rainbow](https://open.spotify.com/track/6j79YyfQV1ZNiQ3Ywqhrhi) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 4:32 | 2021-10-15 | 2022-02-10 |
 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes \[global magic pack\]](https://open.spotify.com/album/35vE6EkWGVKLNqyVp73ud4) | 5:59 | 2022-05-06 |  |
 | [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 | 2021-10-15 | 2022-01-20 |

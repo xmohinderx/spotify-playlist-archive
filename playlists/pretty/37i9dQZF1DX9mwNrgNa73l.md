@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,811 likes - 98 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,894 likes - 98 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 89 | [Rang Le](https://open.spotify.com/track/6AeeDw5Vckef3OD3QtOBu1) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rang Le](https://open.spotify.com/album/2S9oWh8Cws0tGiHxFTe76c) | 3:33 |
 | 90 | [Sakal Ban](https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:46 |
 | 91 | [Dost](https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:35 |
-| 92 | [Alif Allah](https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D) | [Soch](https://open.spotify.com/artist/31y8hJ1vq1z54EPBOFdfRJ), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [Alif Allah](https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH) | 3:21 |
+| 92 | [Alif Allah](https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [Alif Allah](https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH) | 3:21 |
 | 93 | [Sufiya](https://open.spotify.com/track/1bS7VhyB4SkkwumTBSGZpH) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Sufiya](https://open.spotify.com/album/7KOxaD21vaDTeqRC7qGV4i) | 3:58 |
 | 94 | [Tu Hi Ik Tu](https://open.spotify.com/track/4I9GFoZJ0L3GKYC7v5Jlsr) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Vikram Sahney](https://open.spotify.com/artist/5n5qsQrQAeMJUkEptJKQdR) | [Tu Hi Ik Tu](https://open.spotify.com/album/1pj17dHNe6aWIyvjYx9fmI) | 7:49 |
 | 95 | [Rasta Bhool Gaye](https://open.spotify.com/track/0mARMftPGcPABcF5YRF6tj) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [VASL](https://open.spotify.com/album/6OAH2QoJXw1yE4N7sH7v3W) | 4:08 |

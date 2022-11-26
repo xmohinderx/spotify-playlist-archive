@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9lange des genres",
+        "url": "https://open.spotify.com/album/3FRGCpysHMtNdKsg7f8yVy"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169898,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6MGgw0sosO2pciVM56JB7g"
+    },
+    {
+      "album": {
         "name": "Agenda",
         "url": "https://open.spotify.com/album/4xnnaBJnbYUGtupWT7jwek"
       },

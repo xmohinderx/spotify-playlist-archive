@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Disme e Izi, Neima Ezza e tanti altri.",
+  "description": "Sempre aggiornata. Con nuovi brani di Disme e Izi, Shiva, Neima Ezza e tanti altri.",
   "name": "Novit\u00e0 Rap Italiano",
   "published_playlist_ids": [
     "7sfA9EX1ungjA32R4YoNij"
@@ -1139,6 +1139,28 @@
       "duration_ms": 138823,
       "name": "Alexa dimmi quanto ho in banca",
       "url": "https://open.spotify.com/track/3WaowIgoJ5SNKSvxPBPuHD"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160051,
+      "name": "Alleluia (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
       "album": {
@@ -3595,7 +3617,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 187000,
       "name": "Carattere",
       "url": "https://open.spotify.com/track/1fjTchtUOqEz2PhBqgLH5p"
@@ -3869,6 +3891,32 @@
       "duration_ms": 170022,
       "name": "Ce l'hai",
       "url": "https://open.spotify.com/track/4bgqD4wOAm6XqxnpuvPcj7"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212160,
+      "name": "Cellphone (feat. Rhove & Bianca Costa)",
+      "url": "https://open.spotify.com/track/4wijO5YHrGBaf49IEQ2oZ3"
     },
     {
       "album": {
@@ -4393,6 +4441,28 @@
       "duration_ms": 208571,
       "name": "CICATRICI",
       "url": "https://open.spotify.com/track/3Cx3PqPb132cqLAz0i8awR"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193845,
+      "name": "Cicatrici (feat. Tedua)",
+      "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
     },
     {
       "album": {
@@ -7923,6 +7993,24 @@
       "duration_ms": 145846,
       "name": "GASOLINA",
       "url": "https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn"
+    },
+    {
+      "album": {
+        "name": "TUCANO'S PARTY",
+        "url": "https://open.spotify.com/album/5FMbtNZ0q3Z8VYt7eEVh7Z"
+      },
+      "artists": [
+        {
+          "name": "Ombra",
+          "url": "https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175670,
+      "name": "Geisha",
+      "url": "https://open.spotify.com/track/3YvBbdZuOmbM2Q39B4lYbm"
     },
     {
       "album": {
@@ -11898,6 +11986,24 @@
     },
     {
       "album": {
+        "name": "MAY DAY",
+        "url": "https://open.spotify.com/album/6pPcSwD6hsHSkopwnOW46s"
+      },
+      "artists": [
+        {
+          "name": "RVSCIO",
+          "url": "https://open.spotify.com/artist/1wYBB5CL78gOppUYqG8cH3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "MAY DAY",
+      "url": "https://open.spotify.com/track/1JfOjXjzErVjrE1RFIX7UB"
+    },
+    {
+      "album": {
         "name": "McLaren",
         "url": "https://open.spotify.com/album/5fG48pQO2ZG0llt5DMIZ4t"
       },
@@ -12981,6 +13087,24 @@
       "duration_ms": 157826,
       "name": "NLFP (feat. tha Supreme)",
       "url": "https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf"
+    },
+    {
+      "album": {
+        "name": "NO BODYGUARD",
+        "url": "https://open.spotify.com/album/3tXUkUdnsMkOck4lN5ZX6F"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "NO BODYGUARD",
+      "url": "https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4"
     },
     {
       "album": {
@@ -15413,7 +15537,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 200045,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/60MMYnrqdgrDBhzNdRLRJv"
@@ -17977,7 +18101,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 147014,
       "name": "SOS",
       "url": "https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw"
@@ -18287,6 +18411,28 @@
       "duration_ms": 174762,
       "name": "Stanze d'hotel",
       "url": "https://open.spotify.com/track/4VqYtNokFMIOO8gJRtM6fx"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/4bDzed1HsO5V3mOKikv3lk"
+      },
+      "artists": [
+        {
+          "name": "Sir Fernandez",
+          "url": "https://open.spotify.com/artist/6eANGDdsFQJGMu7Msx8zm2"
+        },
+        {
+          "name": "Feral Dafe",
+          "url": "https://open.spotify.com/artist/1ftoTPJ1SjJk7CDuiAVGFD"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7vsHTRzSGus8o64laNw3kM"
     },
     {
       "album": {
@@ -18707,6 +18853,32 @@
       "duration_ms": 157631,
       "name": "SWAG! (Drip Margiela)",
       "url": "https://open.spotify.com/track/4iaC4nwpOz6WXOKcuGzhWr"
+    },
+    {
+      "album": {
+        "name": "SwagMan",
+        "url": "https://open.spotify.com/album/1V3VoS2R6BJHuaKwPvTa49"
+      },
+      "artists": [
+        {
+          "name": "Frostee",
+          "url": "https://open.spotify.com/artist/6xZVjHaQyPmX5XIXqAWfae"
+        },
+        {
+          "name": "Kidhakku",
+          "url": "https://open.spotify.com/artist/0SXyvXgEtR9aXwFJzuBBjU"
+        },
+        {
+          "name": "sewsii",
+          "url": "https://open.spotify.com/artist/3HZOPGjiDcXuemBTQCGlWh"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116445,
+      "name": "SwagMan",
+      "url": "https://open.spotify.com/track/1GVCFh9Jq4EhLtqhqn6X5L"
     },
     {
       "album": {
@@ -19691,7 +19863,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 148786,
       "name": "Tu come fai (feat. Ugo Crepa, Calmo, PeppOh)",
       "url": "https://open.spotify.com/track/0h8h7irYmhLECGFKHzSH4T"
@@ -20605,6 +20777,28 @@
       "duration_ms": 162413,
       "name": "VOLA CON ME",
       "url": "https://open.spotify.com/track/0sUiJTGmueFwAGCeVaJ97S"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191257,
+      "name": "Vorrei (feat. Lazza)",
+      "url": "https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN"
     },
     {
       "album": {

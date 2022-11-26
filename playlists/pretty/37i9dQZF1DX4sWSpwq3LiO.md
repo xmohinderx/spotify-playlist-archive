@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,730,488 likes - 300 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,733,302 likes - 300 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 67 | [As I Dream](https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As I Dream](https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj) | 3:04 |
 | 68 | [Ikigai](https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM) | [Violet Mar](https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh) | [Ikigai](https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi) | 3:00 |
 | 69 | [Rest Peacefully, but I Wish You Were Here](https://open.spotify.com/track/0KaDIuxC0tek01gCKrUNY8) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Rest Peacefully, but I Wish You Were Here](https://open.spotify.com/album/0SpR8nkRhb4XTDumL7MkH1) | 3:47 |
-| 70 | [Carvoeiro](https://open.spotify.com/track/6VJ0cJWV19lwXzeDb4f35D) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Carvoeiro](https://open.spotify.com/album/1MdhGVfEl3ITet1idA1eFN) | 2:31 |
+| 70 | [Carvoeiro](https://open.spotify.com/track/1wpifGgn2zC6OPEI6okI67) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Forever Us](https://open.spotify.com/album/19C3NAAdk7JwNDgSXElhHV) | 2:31 |
 | 71 | [All the Same](https://open.spotify.com/track/5xy2cj5d2WOTjPkkHuVH84) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [All the Same](https://open.spotify.com/album/4l6gpd836O7OwWEj8Pekfo) | 1:53 |
 | 72 | [Almeda \- The Afterstorm](https://open.spotify.com/track/0zFzeFBStkbUw8yLAsfX8z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [The Afterstorm](https://open.spotify.com/album/5jeDCmcLvf8Byf8CF7LpvO) | 2:10 |
 | 73 | [The Last Leaf Falls](https://open.spotify.com/track/79v9cKSakZbCRZI0r0QrV7) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [The Last Leaf Falls](https://open.spotify.com/album/78dDhf9UBUZlGQIExQWYDn) | 2:05 |
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 140 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 |
 | 141 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 |
 | 142 | [Northern Ontario](https://open.spotify.com/track/5Ze2cIMQcXqJQ0QdhX5ZQ1) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Northern Ontario](https://open.spotify.com/album/65MEIufRns3o75svf6bkOu) | 2:41 |
-| 143 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 |
+| 143 | [Tuesday Rain](https://open.spotify.com/track/5qcAFHyLIMPgQseVVE2qGJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Forever Us](https://open.spotify.com/album/19C3NAAdk7JwNDgSXElhHV) | 1:48 |
 | 144 | [Hana, My Love](https://open.spotify.com/track/4OI6jrwpj1xkejfp6R5uj2) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Pale Horizon](https://open.spotify.com/album/4GbaledvjJ39zGpUtwB3pT) | 2:24 |
 | 145 | [Bubbles](https://open.spotify.com/track/0D634fov9hm0Yt2wTyAZ4M) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [Bubbles](https://open.spotify.com/album/2YzqIXyH4Z65yKHvMPVoCf) | 1:54 |
 | 146 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 299 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 |
 | 300 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
 
-Snapshot ID: `MTY2OTAzODY4OSwwMDAwMDAwMDcwY2Y4ZTQyMTI0ODQwYjE3MmIxZWViMzViNzM0ZjMz`
+Snapshot ID: `MTY2OTAzODY4OSwwMDAwMDAwMDI0NTA3Yzk4MDJjMDlmYTU1OGVkZmMxN2ZhN2U2Y2Iy`
