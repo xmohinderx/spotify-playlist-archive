@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-806 songs - 1 day 23 hr 55 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+807 songs - 1 day 23 hr 58 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Say Something](https://open.spotify.com/track/1TztkUc1qFYl61tT85MHU4) | [Kadiatou](https://open.spotify.com/artist/4MvZ0qFh21x4rJ8lqMh5qZ) | [Say Something](https://open.spotify.com/album/3YHusqbp3AQbQK4hpo5I6D) | 3:43 | 2022-03-24 | 2022-04-01 |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2021-12-21 | 2022-05-03 |
 | [say you're done with me](https://open.spotify.com/track/2jAxoral3rOP25IZbr4MME) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [say you're done with me](https://open.spotify.com/album/49akIUqCWFmaKHTy6mNJjK) | 3:49 | 2022-03-24 | 2022-04-02 |
+| [Scared of Love](https://open.spotify.com/track/3sN0PsHUCr7C2W1G0vOMOY) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Scared of Love](https://open.spotify.com/album/6zxX2rDdkJxtILAlMxHtiM) | 2:49 | 2022-11-25 |  |
 | [Seaside](https://open.spotify.com/track/0puUf8o9DMPD3ew6cX7UZt) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 3:26 | 2022-03-24 | 2022-11-14 |
 | [Secret](https://open.spotify.com/track/6QU5K23dgQ6kOca5INWOVB) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:55 | 2022-11-19 |  |
 | [Self Help](https://open.spotify.com/track/63h0JnHUva9HUbBIJTNtzX) | [Perrin Xthona](https://open.spotify.com/artist/1bNx6UhsCYSNuoIeL9LcnD), [Maria Landi](https://open.spotify.com/artist/66okkLiay2Lh07uDjZ8Hcs) | [Self Help](https://open.spotify.com/album/4TZ8HlWTrX9EbVbbPEyRM6) | 2:04 | 2022-04-08 | 2022-04-12 |
@@ -717,7 +718,7 @@
 | [To Let You In](https://open.spotify.com/track/2XgQAAvNEdQUDzGieMJJA5) | [Volcan Peaks](https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD), [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [To Let You In](https://open.spotify.com/album/0IX3ONlaivgIkm1E5rraFH) | 3:16 | 2021-12-21 | 2022-11-13 |
 | [To Stay](https://open.spotify.com/track/5VnPLpSrvvpZ6Z1JgMeli5) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/3FWI9WEOqnQuHxlSNbY10x) | 3:38 | 2022-02-24 | 2022-07-28 |
 | [To Whom It May Concern](https://open.spotify.com/track/05b6SX5DjBpvd5rYIxmwOz) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/2vERrKmV1XeTlGczwqs9ZU) | 3:31 | 2022-03-24 | 2022-04-16 |
-| [To Whom It May Concern](https://open.spotify.com/track/3gpbB4hh2KjY3q8di87TpN) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:31 | 2022-07-08 |  |
+| [To Whom It May Concern](https://open.spotify.com/track/3gpbB4hh2KjY3q8di87TpN) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:31 | 2022-07-08 | 2022-11-27 |
 | [Too Close](https://open.spotify.com/track/4KHSvVJBteqf6XuUDlbltp) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 3:04 | 2022-07-08 |  |
 | [Too Close](https://open.spotify.com/track/67GvvBfumjbeuMzhXVgn02) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Too Close](https://open.spotify.com/album/6GWUTnRWSeXUf3fu45LvwT) | 3:04 | 2021-12-21 | 2022-07-29 |
 | [Too Late](https://open.spotify.com/track/0jJh7G9WoDs08pVwyJOQpP) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Too Late](https://open.spotify.com/album/6RWh5ZExJBlcsyOM3iz5Md) | 2:39 | 2022-03-24 | 2022-04-21 |

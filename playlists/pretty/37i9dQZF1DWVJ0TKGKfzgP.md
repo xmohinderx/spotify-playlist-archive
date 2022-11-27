@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,813 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,007 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 16 | [I Can Make You Feel Good \- 12" Version](https://open.spotify.com/track/34B0tsQ4yAj7YTbsTfZpMB) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 4:21 |
 | 17 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 |
 | 18 | [Shine\-O\-Mite \(Rag Poping\)](https://open.spotify.com/track/2C95qrzuEsW7o9ERQIArXS) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Glory B, Da Funk's On Me! The Bootsy Collins Anthology](https://open.spotify.com/album/1iMTvYmTL0GYXao1hMSz5b) | 4:33 |
-| 19 | [Freaks Come Out at Night](https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:42 |
+| 19 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
 | 20 | [What Have You Done For Me Lately](https://open.spotify.com/track/2SFq0UIiBWkBgky0fkrHP0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:59 |
 | 21 | [Turn It On](https://open.spotify.com/track/7cr6MHjxCKQwqiiCyZrbpo) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [The Early Tapes / Level 42](https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8) | 4:40 |
 | 22 | [Destination](https://open.spotify.com/track/4scgGmqQvlsJsnOOL2tFOL) | [The Warriors](https://open.spotify.com/artist/3SQ9SxVUxmWPEmJcuVvGc1) | [Behind the Mask](https://open.spotify.com/album/5dZJvN5TUDuaXJYaz9bDEH) | 6:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
 | 100 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 |
 
-Snapshot ID: `MTY2NDI4NDg0MCwwMDAwMDAwMDMxZjM1ZmM4NmU5ZmE5MTYwNzQ4Mjk3MzcxNGVkOWM2`
+Snapshot ID: `MTY2NDI4NDg0MCwwMDAwMDAwMGI5MTUwODA5MWM5ZjIzOGVjYWViNzUwMGFmNTczZmE3`

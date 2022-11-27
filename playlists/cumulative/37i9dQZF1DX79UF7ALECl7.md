@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee.
 
-113 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
+114 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Looking Up](https://open.spotify.com/track/46qdT0wtTVMsPvpQnqdzPN) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Looking Up](https://open.spotify.com/album/6DeOvAePc1EgeMd1PuDa6d) | 3:44 | 2022-09-15 | 2022-11-19 |
 | [Lost Again](https://open.spotify.com/track/5avPepcSOLKq4zJsGu4CBV) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Lost Again](https://open.spotify.com/album/4eDfVw4Z5e6nPL61ciprCA) | 3:18 | 2022-09-15 |  |
 | [Lost in the Streets of NYC \- 2020 Remaster](https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Voyage Direct \(2020 Remaster\)](https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7) | 4:37 | 2022-09-15 |  |
-| [Love International Inc.](https://open.spotify.com/track/7lu8PAKaE50FzPOZ9LDXR5) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Love International Inc.](https://open.spotify.com/album/3USYXQTxvRJHiuf1frYiYY) | 3:56 | 2022-09-15 |  |
+| [Love International Inc.](https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fidelity Radio Club](https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb) | 3:56 | 2022-10-13 |  |
+| [Love International Inc.](https://open.spotify.com/track/7lu8PAKaE50FzPOZ9LDXR5) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Love International Inc.](https://open.spotify.com/album/3USYXQTxvRJHiuf1frYiYY) | 3:56 | 2022-09-15 | 2022-11-27 |
 | [Manhattan At Dusk](https://open.spotify.com/track/6LvlfzN3FIx5vYJIyH5X1S) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Manhattan at Dusk](https://open.spotify.com/album/76uUq4SUSmFtQty2xBycYZ) | 3:52 | 2022-09-15 |  |
 | [Mercury Moments](https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Golden Cage EP](https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY) | 3:59 | 2022-09-15 |  |
 | [Messin' Around \- Mogul Remix](https://open.spotify.com/track/2MuVffmR9wAEFbXFyd75W8) | [Berry Juice](https://open.spotify.com/artist/2V5pNnEusCUalcRoeG9uOL), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt), [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz) | [Messin' Around \(Mogul Remix\)](https://open.spotify.com/album/29hveGpUSeZEDiYOw78PdX) | 3:53 | 2022-09-15 |  |

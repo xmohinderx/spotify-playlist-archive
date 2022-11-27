@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 105612,
       "name": "CRYPT",
       "url": "https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU"
@@ -2125,6 +2125,28 @@
       "duration_ms": 123870,
       "name": "Leglock",
       "url": "https://open.spotify.com/track/0erWz20ZejKi8WRNoeNQjJ"
+    },
+    {
+      "album": {
+        "name": "Big Juice tha Sip",
+        "url": "https://open.spotify.com/album/3f5bEgjYmMGvUmXzUv9K2d"
+      },
+      "artists": [
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        },
+        {
+          "name": "Mikey The Magician",
+          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123873,
+      "name": "Leglock",
+      "url": "https://open.spotify.com/track/0hSJiWkzBTvJKrX5yHHBeJ"
     },
     {
       "album": {

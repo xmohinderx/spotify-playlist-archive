@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,202 songs - 2 day 10 hr 15 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,205 songs - 2 day 10 hr 21 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Griffith Park](https://open.spotify.com/track/0fpL5QTlNpU5kAP8U04D33) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Griffith Park](https://open.spotify.com/album/52bxFo2TfszBFVHNRoj1FV) | 3:21 | 2022-09-23 | 2022-10-16 |
 | [Griffith Park](https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Griffith Park](https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel) | 3:21 | 2022-10-25 |  |
 | [Ground Control \(feat\. Jon Z\)](https://open.spotify.com/track/1xhuI73GJoP2zbAIQwMm7i) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Ground Control \(feat\. Jon Z\)](https://open.spotify.com/album/0b2VEQw3A0JNKENN5La8mc) | 2:36 | 2020-10-13\* | 2021-02-13 |
+| [Groupie](https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Groupie](https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ) | 2:00 | 2022-11-26 |  |
 | [Grow](https://open.spotify.com/track/7DBKISsaVfJ9OSZyM3D0eW) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/6hlJXXydweWawIDg2Q6QX0) | 2:08 | 2022-11-11 |  |
 | [Growing Up Is Strange](https://open.spotify.com/track/3nDtcvPySFqMbCjH3GerGb) | [GRANDMA](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Growing Up Is Strange](https://open.spotify.com/album/3YnRaCHbXxVBb0u67Z5ctq) | 2:35 | 2020-12-18 | 2021-05-03 |
 | [GTFO](https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof) | 3:20 | 2022-10-25 |  |
@@ -676,6 +677,7 @@
 | [Metal Wings](https://open.spotify.com/track/2lY7DpTKGfBZQihvvqJ0Pg) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Metal Wings](https://open.spotify.com/album/7pK3uwwn6UwGfSqxLxJWs5) | 2:42 | 2020-10-13\* | 2021-01-23 |
 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 | 2021-05-08 | 2021-10-13 |
 | [Michael](https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:45 | 2022-07-18 | 2022-11-17 |
+| [Millionaire](https://open.spotify.com/track/1n0oysXYURK6UPsfixJY0G) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Millionaire](https://open.spotify.com/album/53xkJLs38Tv8cjekfFHOvC) | 1:38 | 2022-11-26 |  |
 | [MIND ON DRUGS](https://open.spotify.com/track/0OPFDnCPCwHk9O83lqBxzq) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [HOMELESS STAR](https://open.spotify.com/album/1vmk95l8FDuRgVyvplEQqw) | 2:09 | 2021-10-22 | 2021-12-22 |
 | [MISFIT](https://open.spotify.com/track/2273fcPy9vepFyKq8KNQfx) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [MISFIT](https://open.spotify.com/album/0vigFUYhgq7hJQh4Ee9Xk8) | 3:33 | 2021-09-23 | 2022-02-05 |
 | [miss andry](https://open.spotify.com/track/4IxRx6byFf1RuXcbNny5qj) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [miss andry](https://open.spotify.com/album/4BeN8xu9ZEPUIPEFVFHuN6) | 4:23 | 2020-10-13\* | 2021-05-03 |
@@ -1074,6 +1076,7 @@
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-21 | 2022-02-23 |
 | [Think About It](https://open.spotify.com/track/47iwiNOjkzDG4I0dLRcHYr) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 2:22 | 2021-03-06 | 2021-07-20 |
 | [Thinking About You](https://open.spotify.com/track/0iCLx43SpsVplbYGWJlYU2) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 3:41 | 2022-11-11 |  |
+| [This Thing Of Ours](https://open.spotify.com/track/5fasR6LRfES4uLsS0xgKu5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 2:50 | 2022-11-26 |  |
 | [Thoughts](https://open.spotify.com/track/117md6XUEAEck2F0DV2nDY) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Thoughts](https://open.spotify.com/album/2P6n385JAr3vtrGRr6zhgr) | 2:44 | 2020-12-18 | 2021-02-13 |
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
 | [Three Man Weave](https://open.spotify.com/track/7L4AtavGZEEDkVw1E0mDYn) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Injury Reserve](https://open.spotify.com/album/5UWKsRDw3O4BsobmeyRpB9) | 3:26 | 2022-05-09 | 2022-07-19 |

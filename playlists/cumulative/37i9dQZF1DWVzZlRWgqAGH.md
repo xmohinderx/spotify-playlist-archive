@@ -4,7 +4,7 @@
 
 > 🧈 Smooth joints\. Cover: Adi Oasis
 
-766 songs - 1 day 21 hr 18 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+767 songs - 1 day 21 hr 22 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [chestnut street](https://open.spotify.com/track/4cWwnDt86tLQKfsPbfxSkN) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [chestnut street](https://open.spotify.com/album/4WKR5otgFxLVFjrq54VW6Q) | 3:03 | 2021-05-13 | 2022-04-20 |
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-14 | 2021-05-27 |
 | [Climbing Trees](https://open.spotify.com/track/78V23YASIqpSZJbWb8GmNi) | [Takeleave](https://open.spotify.com/artist/3H4357cuK5CEmtrOB5lPv9) | [Climbing Trees](https://open.spotify.com/album/7xmqjjNLFHvbiHtuOpHyTQ) | 2:25 | 2019-12-14 | 2020-01-14 |
+| [Closer](https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL) | 3:21 | 2022-11-25 |  |
 | [Closer](https://open.spotify.com/track/6t33Ao41WgJat1W8hpfEVR) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [Closer](https://open.spotify.com/album/03RCajJmgo1mi2y2g6dIiP) | 3:21 | 2020-11-06 | 2022-07-29 |
 | [Closer](https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY) | 3:21 | 2022-07-22 | 2022-11-20 |
 | [Closer to You](https://open.spotify.com/track/2dZT33UcrNTJLZIDlN89O2) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Closer to You](https://open.spotify.com/album/7rnIcM1mngKdqxbXIYYqG1) | 3:16 | 2020-07-31 | 2021-01-29 |
@@ -185,7 +186,7 @@
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2020-07-24 | 2020-10-21 |
 | [Don't Wanna See You](https://open.spotify.com/track/6qyjr0RjKwLPR1rigpI1HZ) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Don't Wanna See You](https://open.spotify.com/album/1hfCLmpFaBuEt8STQPSpqK) | 3:27 | 2019-11-15 | 2020-02-01 |
 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-09-04 |  |
-| [Doubt Nothing](https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Doubt Nothing](https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK) | 3:00 | 2020-10-23 |  |
+| [Doubt Nothing](https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Doubt Nothing](https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK) | 3:00 | 2020-10-23 | 2022-11-27 |
 | [Down for You \- Remix](https://open.spotify.com/track/2Ucd1gHdGTBc90QgWgcUN5) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Down for You \(Remix\)](https://open.spotify.com/album/4XrzUp8eT1yeWAA4QM32Of) | 2:46 | 2021-10-11 | 2022-04-18 |
 | [Downhill \(7\-Inch\)](https://open.spotify.com/track/1zkjy33RfNhOk0MKi8SLsL) | [Nick Kurosawa](https://open.spotify.com/artist/1KhJeoBHUcDkcc5rudoWlK), [Ohtoro](https://open.spotify.com/artist/6ZZLqFuJgm4rdhWaPuiodW), [Maxmo](https://open.spotify.com/artist/0G2GQqRpPXGMyzbyir24Vp), [Neal Chin](https://open.spotify.com/artist/50ljmcpKFwjgX2vQ0Ux59A) | [Downhill EP](https://open.spotify.com/album/1u9CZjWQujbIwYnF59WNXj) | 2:02 | 2021-06-16 | 2022-07-29 |
 | [Dragonball Durag](https://open.spotify.com/track/62PclpoBFLl50PJpiJA5RT) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Dragonball Durag](https://open.spotify.com/album/63mrxbP4k9oZBR0LCfzZvo) | 3:01 | 2020-02-20 | 2020-03-20 |

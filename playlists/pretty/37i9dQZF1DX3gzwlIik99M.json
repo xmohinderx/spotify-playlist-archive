@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 207858,
+  "num_followers": 207876,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDEyYmMxNjQwYzUxM2JmZmMzZjc0MDg4N2RiNzU0Mjc2",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDMxYzVlNzEzYmZiOWY0OTQxYTU0YWRlMThlNmE4MTAy",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "R\u00edo Extra\u00f1o",
-        "url": "https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL"
-      },
-      "artists": [
-        {
-          "name": "OConnor",
-          "url": "https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN"
-        }
-      ],
-      "duration_ms": 267746,
-      "name": "R\u00edo Extra\u00f1o",
-      "url": "https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "A Toda Madre",
         "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 202647,
       "name": "A Toda Madre",
       "url": "https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "R\u00edo Extra\u00f1o",
+        "url": "https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL"
+      },
+      "artists": [
+        {
+          "name": "OConnor",
+          "url": "https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN"
+        }
+      ],
+      "duration_ms": 267746,
+      "name": "R\u00edo Extra\u00f1o",
+      "url": "https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Sentir Metalero",
-        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
-      },
-      "artists": [
-        {
-          "name": "Aonikenk",
-          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "Cacique Yatel",
-      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Venas De Acero",
         "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 286653,
       "name": "Pueblo Motoquero",
       "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Sentir Metalero",
+        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
+      },
+      "artists": [
+        {
+          "name": "Aonikenk",
+          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
+        }
+      ],
+      "duration_ms": 256360,
+      "name": "Cacique Yatel",
+      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
     },
     {
       "added_at": "2020-10-24 03:38:51",

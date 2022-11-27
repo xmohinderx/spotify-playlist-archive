@@ -1670,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "AUS MEIN KOPF (SLOWED)",
+        "url": "https://open.spotify.com/album/3pa8NpXZkR9nqPpKakdRjm"
+      },
+      "artists": [
+        {
+          "name": "Yung Hurn",
+          "url": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137748,
+      "name": "AUS MEIN KOPF (SLOWED)",
+      "url": "https://open.spotify.com/track/6CLKlJ1sCnH2J7A9XISMAU"
+    },
+    {
+      "album": {
         "name": "AUSMACHT",
         "url": "https://open.spotify.com/album/1l35wpORDxzKGwnsfWQnWv"
       },
@@ -2108,6 +2126,24 @@
     },
     {
       "album": {
+        "name": "Ballerlaika",
+        "url": "https://open.spotify.com/album/11U9Ck9PdGYnMwfETp9Ejg"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142426,
+      "name": "Ballerlaika",
+      "url": "https://open.spotify.com/track/3R45ukT3eOP6QSIm4yyFEc"
+    },
+    {
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -2489,7 +2525,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 174000,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM"
@@ -4827,6 +4863,32 @@
       "duration_ms": 190080,
       "name": "Depressionen im Paradies",
       "url": "https://open.spotify.com/track/6QsKfqbZoy4dtW5aD0A2qd"
+    },
+    {
+      "album": {
+        "name": "Der Berg ruft",
+        "url": "https://open.spotify.com/album/3leCnTtw97kdDi649uKIoW"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        },
+        {
+          "name": "Joshi Mizu",
+          "url": "https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194445,
+      "name": "Der Berg ruft",
+      "url": "https://open.spotify.com/track/2IvrIIvwA3zEPXmJitBlJD"
     },
     {
       "album": {
@@ -11816,6 +11878,24 @@
     },
     {
       "album": {
+        "name": "Licht brennt",
+        "url": "https://open.spotify.com/album/2LBzdqDsf6TfbLwIiy21hG"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Licht brennt",
+      "url": "https://open.spotify.com/track/4gmYeeV53RzyXDxtlVa4jW"
+    },
+    {
+      "album": {
         "name": "Lieben wir",
         "url": "https://open.spotify.com/album/6NkCPaJkMC25FyhmAg2yc6"
       },
@@ -15043,7 +15123,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
@@ -16091,7 +16171,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 192975,
       "name": "PARADISE (MIT DIR)",
       "url": "https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC"
@@ -20127,7 +20207,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Effemar
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,149 likes - 80 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,247 likes - 80 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Cosmic Renaissance](https://open.spotify.com/track/6dYSsbQEUrwpOetgIHy7ys) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7) | [Delusions Are Inexhaustible](https://open.spotify.com/album/5Jn9JgX2HdDG3eGTFBqiH5) | 5:46 |
 | 10 | [Looking In The Sky \- Radio Edit](https://open.spotify.com/track/4o7tMl7CwHMKKCUDgbZCC9) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Looking In The Sky](https://open.spotify.com/album/2On5ucuoSWhuQwU5qZcM2Z) | 4:31 |
 | 11 | [Last Night \- Andrew Becks Remix](https://open.spotify.com/track/0nPXD7OEOBvU3kHksh7PFB) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO), [Andrew Becks](https://open.spotify.com/artist/2D6mkPsBZ8R101RksNcla2) | [Last Night](https://open.spotify.com/album/6wGrhfx1mAWGUzIF9LUiFx) | 7:13 |
-| 12 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
+| 12 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 13 | [Chasing the Light \(Rafael Cerato Remix\)](https://open.spotify.com/track/3sEPTLZ0K33LkBre9wbvZR) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Chasing the Light \(Rafael Cerato Remix\)](https://open.spotify.com/album/1QYsDFHxyz6egd9MtAWt5X) | 7:42 |
 | 14 | [Suffice to Predict](https://open.spotify.com/track/0EqcNEm7mOnTpTyB1N1hIt) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Fear of Programming](https://open.spotify.com/album/49b3cshXjZHfOzN3SfMWzr) | 5:54 |
 | 15 | [Visible](https://open.spotify.com/track/3S0l59bHFSVSQmX506udrm) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Visible](https://open.spotify.com/album/6sDM4N8cpCXWe3G72dTkLA) | 8:50 |

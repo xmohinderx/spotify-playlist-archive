@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-200 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
+201 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [honest](https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [SINTHA](https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU) | 3:53 | 2022-09-09 |  |
 | [Hotel Sorriso](https://open.spotify.com/track/0KPKmqfDgwEB0pDZhromoe) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Hotel Sorriso](https://open.spotify.com/album/1aQbmcO1iAebhWTPuWh3fj) | 4:33 | 2022-09-09 | 2022-10-15 |
 | [I Can't Sleep \- LPACA Remix](https://open.spotify.com/track/6jjtunGp1ilOEUrPIDjfLh) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Michi](https://open.spotify.com/artist/0Qaj2glLB2ykPA3qxiR8Z6), [LPACA](https://open.spotify.com/artist/0VrVe3wy9bP3D51Lo3AxrN) | [I Can't Sleep \(LPACA Remix\)](https://open.spotify.com/album/0q3eTPz8Kbi8g8pi8MaCdc) | 2:33 | 2022-09-09 |  |
-| [I Got Your Back](https://open.spotify.com/track/16s1oTqJSCXz2KELFhnKll) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [I Got Your Back](https://open.spotify.com/album/6CC5BUqncXiqJOSKi1ZCu1) | 3:05 | 2022-09-09 |  |
+| [I Got Your Back](https://open.spotify.com/track/5qPqZ4TMhr3uF1Vv0y3LRf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:05 | 2022-10-30 |  |
+| [I Got Your Back](https://open.spotify.com/track/16s1oTqJSCXz2KELFhnKll) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [I Got Your Back](https://open.spotify.com/album/6CC5BUqncXiqJOSKi1ZCu1) | 3:05 | 2022-09-09 | 2022-11-27 |
 | [I Want](https://open.spotify.com/track/2k9E1OlHPxIKT6y46726Mv) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [I Want](https://open.spotify.com/album/0IQNUnAmWi9KSZEOLjsPHe) | 3:22 | 2022-09-09 | 2022-10-15 |
 | [I Want You \- Underboss Remix](https://open.spotify.com/track/5XglCdjCtfFJpKlIOf1y4I) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [I Want You \(Underboss Remix\)](https://open.spotify.com/album/1d5Aaipwunfid3kaIchL0E) | 5:23 | 2022-09-09 | 2022-10-15 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-09-09 |  |

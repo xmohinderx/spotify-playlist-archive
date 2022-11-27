@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 334356,
+  "num_followers": 334619,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIzNDg5NiwwMDAwMDAwMGQ0NDU3NDM2ZjlhNDc1NGU3NTM5OWM1NThhZDQyMWQx",
+  "snapshot_id": "MTY2OTIzNDg5NiwwMDAwMDAwMGVhZWFlMzUzZmJlNzI2NjljMDMwNDdmZDUxZjQyMDEz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4"
     },
     {
-      "added_at": "2022-11-26 00:57:27",
+      "added_at": "2022-11-27 01:03:57",
       "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0VMZ7bBIr5PxYsgYBBEEdE"
@@ -945,26 +945,6 @@
       "url": "https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Otherside (Fideles Remix Edit)",
-        "url": "https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 270243,
-      "name": "Otherside - Fideles Remix Edit",
-      "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Blinding Lights (Joris Voorn Remix)",
@@ -983,6 +963,26 @@
       "duration_ms": 313748,
       "name": "Blinding Lights - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Otherside (Fideles Remix Edit)",
+        "url": "https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 270243,
+      "name": "Otherside - Fideles Remix Edit",
+      "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Endup",
-        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        }
-      ],
-      "duration_ms": 483824,
-      "name": "Palomita",
-      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Light, West",
         "url": "https://open.spotify.com/album/2942biAKKQFqcATNWMzsFT"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 448529,
       "name": "Night Bell - Arizona",
       "url": "https://open.spotify.com/track/2SN41T7WJfoKkAsGUV11PA"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Endup",
+        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        }
+      ],
+      "duration_ms": 483824,
+      "name": "Palomita",
+      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
     },
     {
-      "added_at": "2022-08-01 18:07:32",
-      "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar"
-      },
-      "artists": [
-        {
-          "name": "Kaz James",
-          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
-        }
-      ],
-      "duration_ms": 348815,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "WAYU Various Artists, Vol. 2",
@@ -1311,6 +1295,22 @@
       "duration_ms": 328089,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
+    },
+    {
+      "added_at": "2022-08-01 18:07:32",
+      "album": {
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar"
+      },
+      "artists": [
+        {
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        }
+      ],
+      "duration_ms": 348815,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Visage 6 (Never Loved)",
-        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 253780,
-      "name": "Never Loved",
-      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
-    },
-    {
       "added_at": "2022-11-18 16:29:16",
       "album": {
         "name": "Looking At Your Pager (Solomun Remix)",
@@ -1421,24 +1405,20 @@
       "url": "https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Duel",
-        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
+        "name": "Visage 6 (Never Loved)",
+        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
       },
       "artists": [
         {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        },
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         }
       ],
-      "duration_ms": 574838,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
+      "duration_ms": 253780,
+      "name": "Never Loved",
+      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1459,6 +1439,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Little Darling",
+        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 220524,
+      "name": "Little Darling",
+      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Upahl",
         "url": "https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl"
       },
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Little Darling",
-        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
+        "name": "Duel",
+        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        },
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
         }
       ],
-      "duration_ms": 220524,
-      "name": "Little Darling",
-      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
+      "duration_ms": 574838,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Waves of the Soul",
-        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Waves of the Soul",
-      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
@@ -1565,6 +1549,22 @@
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Losing Game",
@@ -1581,20 +1581,20 @@
       "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+        "name": "Waves of the Soul",
+        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         }
       ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+      "duration_ms": 212459,
+      "name": "Waves of the Soul",
+      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Niteroi",
+        "url": "https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM"
+      },
+      "artists": [
+        {
+          "name": "Michael Canitrot",
+          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
+        }
+      ],
+      "duration_ms": 317770,
+      "name": "Niteroi",
+      "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Globe Trotter, Vol.1",
         "url": "https://open.spotify.com/album/32kngqUC4ThQAVJGRGUw8T"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 264406,
       "name": "Travelers",
       "url": "https://open.spotify.com/track/7g0E8PZTeRA6NghamzQHfc"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Niteroi",
-        "url": "https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM"
-      },
-      "artists": [
-        {
-          "name": "Michael Canitrot",
-          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
-        }
-      ],
-      "duration_ms": 317770,
-      "name": "Niteroi",
-      "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
     }
   ],
   "unique_name": "Tantra",

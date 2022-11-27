@@ -4,7 +4,7 @@
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-145 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/3yFsbqWfSsFk9WHf1Xsvee)
+146 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/3yFsbqWfSsFk9WHf1Xsvee)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [We Go Hard](https://open.spotify.com/track/4oz0BaBgE5wKbFx5oCofov) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [We Go Hard](https://open.spotify.com/album/7AjWPEjeO3QjG7OVhznBqw) | 3:34 | 2022-11-24 |  |
 | [What They Say](https://open.spotify.com/track/6uIzCToTSO3iMUMpYprG6X) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Samara](https://open.spotify.com/artist/00Xd9N5BzrUq58L4AO1gnP) | [What They Say](https://open.spotify.com/album/4Txd7QBh03ArAvos6ep2QU) | 3:27 | 2022-08-12 | 2022-08-27 |
 | [Wonky Pop](https://open.spotify.com/track/4VrBvEqVuUNKwXo37wUpfJ) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj), [Siberian Express](https://open.spotify.com/artist/45fLfFzIAKudNKuSeD2y2c) | [Wonky Pop](https://open.spotify.com/album/5UOJLzJvGBqa8vog1lH4w9) | 3:25 | 2022-07-01 | 2022-07-20 |
+| [Work](https://open.spotify.com/track/4M18OdtsLfA8s8EUZBDT3j) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Work](https://open.spotify.com/album/4K4c9BLGYDGmNXdlE1VDdN) | 3:35 | 2022-11-26 |  |
 | [WYNEHOUSE](https://open.spotify.com/track/69k2NzbDXG8vFUG5RS3Cqz) | [Yyvng](https://open.spotify.com/artist/4b5QKPBruPFrb84daWolGE) | [WYNEHOUSE](https://open.spotify.com/album/4DiLZsIQ3tQasb9RrlfoOa) | 3:46 | 2022-11-24 |  |
 | [XTC](https://open.spotify.com/track/0I45yWUWcC9fzdbZhiFxhg) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [XTC](https://open.spotify.com/album/1QCktekcgBw3W33RvrrkY4) | 2:36 | 2022-07-29 | 2022-08-13 |
 

@@ -1,12 +1,12 @@
 {
   "description": "Deize Tigrona e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 129807,
+  "num_followers": 129803,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM1ODAwMCwwMDAwMDAwMGM4MzQ2YTJjMTJmYzZkMDQzMGM0NGQ4ZWIwYzZkOTI5",
+  "snapshot_id": "MTY2NzM1ODAwMCwwMDAwMDAwMDM0NzI2Yjk1ZWVlZTExMmRkZDU0ZmFlODUyNGM0ODky",
   "tracks": [
     {
       "added_at": "2022-11-02 03:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-11-02 03:00:00",
       "album": {
+        "name": "\u00c9 o Poder",
+        "url": "https://open.spotify.com/album/0Fdps7yyNESfqZsISQSsOc"
+      },
+      "artists": [
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        }
+      ],
+      "duration_ms": 216441,
+      "name": "\u00c9 o Poder",
+      "url": "https://open.spotify.com/track/2BCiFaDZ3oZdVRxet12Lga"
+    },
+    {
+      "added_at": "2022-11-02 03:00:00",
+      "album": {
         "name": "Tormento",
         "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 198454,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
-    },
-    {
-      "added_at": "2022-11-02 03:00:00",
-      "album": {
-        "name": "\u00c9 o Poder",
-        "url": "https://open.spotify.com/album/0Fdps7yyNESfqZsISQSsOc"
-      },
-      "artists": [
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        }
-      ],
-      "duration_ms": 216441,
-      "name": "\u00c9 o Poder",
-      "url": "https://open.spotify.com/track/2BCiFaDZ3oZdVRxet12Lga"
     },
     {
       "added_at": "2022-11-02 03:00:00",

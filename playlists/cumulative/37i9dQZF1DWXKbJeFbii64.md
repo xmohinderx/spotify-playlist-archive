@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-62 songs - 3 hr 1 min - not published yet
+63 songs - 3 hr 3 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Stormy Evening](https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
 | [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 | 2022-11-25 |
 | [Stormy Nights](https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Tumbling Sky](https://open.spotify.com/album/6CFrtb4oaSVy7o2k8R9la9) | 3:28 | 2022-10-28 |  |
+| [Sturm am Abend](https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Sturm am Abend](https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl) | 2:21 | 2022-11-15 |  |
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2022-11-15 |  |
 | [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 | 2022-11-24 |
 | [Thunder & Streams](https://open.spotify.com/track/3d2loIRK1NH49qP6w7ydDH) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Thunder & Streams](https://open.spotify.com/album/37SSoz3jxhcfdGDvWeEXlg) | 2:42 | 2022-10-28 |  |
@@ -60,7 +61,7 @@
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2022-10-28 |  |
 | [Thunder In Spring](https://open.spotify.com/track/6Gs3SkXflNh1QrTcFVxjtz) | [Peal Of Thunder](https://open.spotify.com/artist/4JNb7YkGnc92m2gIqgeM0F) | [Thunder In Spring](https://open.spotify.com/album/19W4kCGzbmSQBfNmdmkUE8) | 2:33 | 2022-10-28 |  |
 | [Thunder In The Forest \- Seamless](https://open.spotify.com/track/3N96NGKoU8lgJs9ENxRUpc) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Thunder In The Forest](https://open.spotify.com/album/1WAmKL4qkDBnNjeMNt9M3w) | 2:50 | 2022-10-28 |  |
-| [Thunder In The Night](https://open.spotify.com/track/1LbrOh8zHb6VRNJLQi8HmK) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Thunder On The Mountain](https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs) | 3:38 | 2022-10-28 |  |
+| [Thunder In The Night](https://open.spotify.com/track/1LbrOh8zHb6VRNJLQi8HmK) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Thunder On The Mountain](https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs) | 3:38 | 2022-10-28 | 2022-11-27 |
 | [Thunder Meditation](https://open.spotify.com/track/3SeR8lSXT7oZ6MB7YLZqnr) | [Tempest](https://open.spotify.com/artist/6vVLDxFDTld21ezPmiTJZ0) | [Wandering Storm](https://open.spotify.com/album/0raeXON0wVFrZAe4mQn1sm) | 3:28 | 2022-10-28 |  |
 | [Thunder Nap](https://open.spotify.com/track/5QTEWgziJG1uV32tAgYjv7) | [Heatriction](https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:41 | 2022-10-28 |  |
 | [Thunder Rain](https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |

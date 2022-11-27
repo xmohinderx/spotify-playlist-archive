@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 32701,
+  "num_followers": 32769,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGNhMTgzNTVmNWE3MDdhNzc2NTcwYTJlNjAxY2NhNWEz",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDZlOTNkYTZlNmM3YjM3ODNkYThmNTk5OTI2NzhmMTc2",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Slippin' and Dippin' (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
-      },
-      "artists": [
-        {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
-        }
-      ],
-      "duration_ms": 371706,
-      "name": "Casanova - Extended Version",
-      "url": "https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Delusions (Bonus Version)",
         "url": "https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 481506,
       "name": "Let No Man Put Asunder - Shep Pettibone 12\" Mix",
       "url": "https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Slippin' and Dippin' (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
+      },
+      "artists": [
+        {
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
+        }
+      ],
+      "duration_ms": 371706,
+      "name": "Casanova - Extended Version",
+      "url": "https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Essential Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
+        "name": "Cuchi-Cuchi",
+        "url": "https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht"
       },
       "artists": [
         {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+          "name": "Charo",
+          "url": "https://open.spotify.com/artist/0WKIRXNWr6cYlm8ZYVXD1I"
+        },
+        {
+          "name": "The Salsoul Orchestra",
+          "url": "https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4"
         }
       ],
-      "duration_ms": 391693,
-      "name": "Shame - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
+      "duration_ms": 377405,
+      "name": "Dance A Little Bit Closer - 12\" Mix",
+      "url": "https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Cuchi-Cuchi",
-        "url": "https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht"
+        "name": "The Essential Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
       },
       "artists": [
         {
-          "name": "Charo",
-          "url": "https://open.spotify.com/artist/0WKIRXNWr6cYlm8ZYVXD1I"
-        },
-        {
-          "name": "The Salsoul Orchestra",
-          "url": "https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4"
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
         }
       ],
-      "duration_ms": 377405,
-      "name": "Dance A Little Bit Closer - 12\" Mix",
-      "url": "https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn"
+      "duration_ms": 391693,
+      "name": "Shame - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L"
-      },
-      "artists": [
-        {
-          "name": "Viola Wills",
-          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
-        }
-      ],
-      "duration_ms": 723573,
-      "name": "If You Could Read My Mind - The Disconet Re-Edit",
-      "url": "https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 429813,
       "name": "Angel in My Pocket - Extended Version",
       "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L"
+      },
+      "artists": [
+        {
+          "name": "Viola Wills",
+          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
+        }
+      ],
+      "duration_ms": 723573,
+      "name": "If You Could Read My Mind - The Disconet Re-Edit",
+      "url": "https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696"
     },
     {
       "added_at": "2022-09-12 22:27:59",

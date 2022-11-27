@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-360 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/7KF7Evm7HugJ0ZFYg9Yj0E)
+361 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/7KF7Evm7HugJ0ZFYg9Yj0E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/64UJ810pLNwurMLRCPJPoa) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Neil Sedaka Sings The Hits](https://open.spotify.com/album/1ya3SaqV6XPJjeSq7Camb2) | 2:16 | 2020-12-16 | 2022-07-29 |
 | [Brown Eyed Girl](https://open.spotify.com/track/4myBMnNWZlgvVelYeTu55w) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Super Hits](https://open.spotify.com/album/7cQhE9arqGBgQfdLu47zdm) | 3:02 | 2020-12-16 | 2022-07-29 |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2022-03-07 |  |
+| [Build Me Up Buttercup](https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [From the Foundations \(Expanded Edition\)](https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc) | 2:57 | 2022-10-10 |  |
 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2022-03-07 | 2022-11-14 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/3iwujDVtiJQwqbvjVS6LZV) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Very Best Of The Foundations](https://open.spotify.com/album/49uCKJBpnEGdZ7C2JDnkXx) | 3:00 | 2020-12-16 | 2022-07-29 |
 | [Butterfly](https://open.spotify.com/track/2Z4NCkGmgL946nR9tuv7rR) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [16 Most Requested Songs: Encore!](https://open.spotify.com/album/38Y2Jx1WvHE5mB93uFsmCO) | 2:22 | 2022-03-07 | 2022-04-21 |
@@ -60,7 +61,7 @@
 | [Catch a Falling Star \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/1pBJCt9keWDrIQYu51T6py) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [Perry Como's Greatest Hits](https://open.spotify.com/album/1Xn52rnZPmftC6oPyNOTfv) | 2:29 | 2020-12-16 | 2022-07-28 |
 | [Chain Gang](https://open.spotify.com/track/1sK10Me7qS9em2QTx6dYRe) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:40 | 2022-03-07 | 2022-05-08 |
 | [Chantilly Lace](https://open.spotify.com/track/25hrRL7AzlYSLtttKIoY5l) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [The Big Bopper's Greatest Hits](https://open.spotify.com/album/3TQUtTuwtG9vDtRprrifqC) | 2:21 | 2020-12-16 | 2022-07-29 |
-| [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 | 2022-03-07 |  |
+| [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 | 2022-03-07 | 2022-11-27 |
 | [Chapel Of Love](https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:50 | 2022-03-07 |  |
 | [Chapel of Love](https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Chapel of Love](https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin) | 2:50 | 2020-12-16 | 2022-07-29 |
 | [Charlie Brown](https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 2:21 | 2020-12-16 | 2022-07-29 |

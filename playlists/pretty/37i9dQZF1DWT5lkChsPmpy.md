@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,238 likes - 228 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,443 likes - 228 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 72 | [Hopesick](https://open.spotify.com/track/3tjRxbV6oKSawNjDzVngOe) | [GOLDLY](https://open.spotify.com/artist/6XwcbrwFI7iVtqVaAWG6iY), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Hopesick](https://open.spotify.com/album/3tzcLWMDfaPm8KThtQZh8k) | 2:11 |
 | 73 | [Solace](https://open.spotify.com/track/3EepEUpB3aYW3xLN4kkDPb) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb), [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH) | [Solace](https://open.spotify.com/album/3z3V4wtxgmWTEVyQlQTyrV) | 2:26 |
 | 74 | [lost in time](https://open.spotify.com/track/0ttqzykX74Wwyf2aoPkogT) | [bdazzled.](https://open.spotify.com/artist/5AQW8r2NypcnevFfyEAMI5) | [lost in time](https://open.spotify.com/album/1y0qUAKE8wzn30btskUc9O) | 1:53 |
-| 75 | [Lightwheight](https://open.spotify.com/track/75kGb3NugyzVZ2JOyEV6gN) | [Going North](https://open.spotify.com/artist/7inHxv9DhiskK3UJOU3FXA) | [Lightwheight](https://open.spotify.com/album/7FRiFJTmFTnEDbODaZlAZM) | 2:53 |
+| 75 | [Lightweight](https://open.spotify.com/track/75kGb3NugyzVZ2JOyEV6gN) | [Going North](https://open.spotify.com/artist/7inHxv9DhiskK3UJOU3FXA) | [Lightweight](https://open.spotify.com/album/7FRiFJTmFTnEDbODaZlAZM) | 2:53 |
 | 76 | [Nacho Mood](https://open.spotify.com/track/0B8XQw5W2ao2EBLJmMVTPv) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Nacho Mood](https://open.spotify.com/album/6ArCIZSl8U33dboMdtB3t9) | 2:27 |
 | 77 | [20th Century Noise](https://open.spotify.com/track/3RH6fd05g2tiBVfqR2qaET) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [20th Century Noise](https://open.spotify.com/album/7qXGhnID7ljmx3GQagFwdj) | 2:08 |
 | 78 | [Smooth](https://open.spotify.com/track/0BZA9vcgNU7xsGSAHxahuG) | [Happy Soulboy](https://open.spotify.com/artist/1GMd4zizPNAvdnaNojdWER) | [Smooth](https://open.spotify.com/album/5zQpW1QCaC2Ehsx6yVg169) | 2:45 |

@@ -2,7 +2,7 @@
 
 ### [10s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX99DRG9N39X3)
 
-> The biggest rock songs of the last decade\. Cover: Arctic Monkeys
+> The biggest rock songs of the last decade\. Cover: Twenty One Pilots
 
 117 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/71Ge9gWFFaxmVIwGcXczH8)
 

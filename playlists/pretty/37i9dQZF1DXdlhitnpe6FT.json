@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 142815,
+  "num_followers": 142868,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGVmZGFkNjY0YjNkNTQ4MmE4YWUzNTE3OWUzNGQ3NTY3",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDYzN2NkNDA4YWUyN2JhZGY1ZjdjNDg1NjA1NTJlNTU3",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Le Cin\u00e9ma De Francis Lai",
-        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Vivre Pour Vivre",
-      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Music To Watch Girls By",
         "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 111026,
       "name": "Music to Watch Girls By",
       "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Le Cin\u00e9ma De Francis Lai",
+        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Vivre Pour Vivre",
+      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -743,18 +743,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Sting",
-        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
+        "name": "60 Timeless Classics from the Giants of Traditional Jazz",
+        "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
       "artists": [
         {
-          "name": "Marvin Hamlisch",
-          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
+          "name": "Chris Barber",
+          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
+        },
+        {
+          "name": "Monty Sunshine",
+          "url": "https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d"
         }
       ],
-      "duration_ms": 183360,
-      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
-      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
+      "duration_ms": 164360,
+      "name": "Petite Fleur",
+      "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -775,22 +779,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "60 Timeless Classics from the Giants of Traditional Jazz",
-        "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
+        "name": "The Sting",
+        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
       },
       "artists": [
         {
-          "name": "Chris Barber",
-          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
-        },
-        {
-          "name": "Monty Sunshine",
-          "url": "https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d"
+          "name": "Marvin Hamlisch",
+          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Petite Fleur",
-      "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
+      "duration_ms": 183360,
+      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
+      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -995,22 +995,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Temas Prohibidos del Cine",
-        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Romanticos de La Habana",
-          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Amore Grande Amore Libero",
-      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
         "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+        "name": "Temas Prohibidos del Cine",
+        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
       },
       "artists": [
         {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+          "name": "Orquesta Romanticos de La Habana",
+          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
         }
       ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+      "duration_ms": 216800,
+      "name": "Amore Grande Amore Libero",
+      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1055,6 +1039,22 @@
       "duration_ms": 197093,
       "name": "Il",
       "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+      },
+      "artists": [
+        {
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Nadia's Theme (Theme from the Young and Restless)",
-        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
-      },
-      "artists": [
-        {
-          "name": "Barry DeVorzon",
-          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Nadia's Theme (Theme from the Young and Restless)",
-      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Instrumental History, The Best",
         "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 170333,
       "name": "L'Incontro - 1M1",
       "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Nadia's Theme (Theme from the Young and Restless)",
+        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
+      },
+      "artists": [
+        {
+          "name": "Barry DeVorzon",
+          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Nadia's Theme (Theme from the Young and Restless)",
+      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
     },
     {
       "added_at": "2020-12-08 19:02:01",

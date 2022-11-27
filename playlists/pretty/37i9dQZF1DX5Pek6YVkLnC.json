@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Young Miko",
-  "num_followers": 222148,
+  "num_followers": 222161,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMDc3ZTM2YTJiOTI3ZmZjN2UyMGNlNzY4YTZlMWY4MzBm",
+  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMGE5ZDI2YTJmZWQ0ZTIzYjA4N2Y2NTY4YmM0OWZiMjI1",
   "tracks": [
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "ANTI JUDAS",
-        "url": "https://open.spotify.com/album/0BlqUCStGXgKUmB4wQDriv"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 203276,
-      "name": "HOLY SHIT",
-      "url": "https://open.spotify.com/track/134kmpz1I5kIg88qAFgIgk"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
         "name": "Extra\u00f1andote (Remix)",
         "url": "https://open.spotify.com/album/2XKNkQrc7QT9ouEyuk89f8"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 275217,
       "name": "Extra\u00f1andote - Remix",
       "url": "https://open.spotify.com/track/0sNRkMXnwgJgGWEb1ntpHj"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
+        "name": "ANTI JUDAS",
+        "url": "https://open.spotify.com/album/0BlqUCStGXgKUmB4wQDriv"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 203276,
+      "name": "HOLY SHIT",
+      "url": "https://open.spotify.com/track/134kmpz1I5kIg88qAFgIgk"
     },
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 173463,
-      "name": "Chavos y Pistolas",
-      "url": "https://open.spotify.com/track/0lIEIn1GscdfxeWpQKSWHn"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
         "name": "Philliecito",
         "url": "https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D"
       },
@@ -1375,22 +1343,54 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "Finde",
-        "url": "https://open.spotify.com/album/1MNJtSetQcAc4EvyFraxoV"
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
       },
       "artists": [
         {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 201426,
-      "name": "Finde",
-      "url": "https://open.spotify.com/track/0C9s3OmKgCfHioXDnRoKGd"
+      "duration_ms": 173463,
+      "name": "Chavos y Pistolas",
+      "url": "https://open.spotify.com/track/0lIEIn1GscdfxeWpQKSWHn"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
+        "name": "N\u00facleo",
+        "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 197312,
+      "name": "Codigo Secreto",
+      "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
     }
   ],
   "unique_name": "Rompiendo: Puerto Rico",

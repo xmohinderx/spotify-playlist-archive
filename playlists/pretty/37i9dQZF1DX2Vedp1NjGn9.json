@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 64073,
+  "num_followers": 64192,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDg2MWU5Y2ZiZGI0YjQ1N2RlYWM3MTYxN2ZhYmUwNjYz",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDljNjY0YzJkNjc2NjQ2YTNhMjA5ZDA5OTA0MDAxOWU2",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Seven Devils",
-      "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 262079,
       "name": "Perth",
       "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Seven Devils",
+      "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 303386,
-      "name": "Helplessness Blues",
-      "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Days",
         "url": "https://open.spotify.com/album/7e6bDoD8VD0549bu69UTEF"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 168493,
       "name": "It's Real",
       "url": "https://open.spotify.com/track/3JzzyfG0z8rjXqHL6XXLwt"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 303386,
+      "name": "Helplessness Blues",
+      "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 216604,
+      "name": "Montezuma",
+      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 225986,
       "name": "Suck It and See",
       "url": "https://open.spotify.com/track/3UZfvX4ky5C4mblUIR0LE1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 216604,
-      "name": "Montezuma",
-      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Portamento",
-        "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 269081,
-      "name": "Days",
-      "url": "https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "James Blake",
         "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 273840,
       "name": "The Wilhelm Scream",
       "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Portamento",
+        "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 269081,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "We Must Become the Pitiless Censors of Ourselves",
-        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
-      },
-      "artists": [
-        {
-          "name": "John Maus",
-          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Hey Moon",
-      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "SBTRKT",
         "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 201000,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "We Must Become the Pitiless Censors of Ourselves",
+        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
+      },
+      "artists": [
+        {
+          "name": "John Maus",
+          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Hey Moon",
+      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 333466,
-      "name": "What The Water Gave Me",
-      "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Space Is Only Noise",
         "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 235374,
-      "name": "Reunion",
-      "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
+      "duration_ms": 333466,
+      "name": "What The Water Gave Me",
+      "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1515,6 +1499,22 @@
       "duration_ms": 263906,
       "name": "Landfill",
       "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 235374,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
     },
     {
       "added_at": "2021-09-02 08:15:11",

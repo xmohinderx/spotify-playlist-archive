@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-150 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
+151 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All My Love](https://open.spotify.com/track/3RAgAdJt10E68RQj6NcG7p) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/2p3AHorjKMnURWK4apzAYt) | 2:49 | 2022-04-15 | 2022-08-05 |
 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 | 2022-04-15 | 2022-07-26 |
 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 | 2022-04-15 |  |
-| [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 | 2022-04-15 |  |
+| [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 | 2022-04-15 | 2022-11-27 |
 | [Anything](https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Anything](https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy) | 4:43 | 2022-04-15 |  |
 | [Back](https://open.spotify.com/track/54qy9HFmqlgtngpatAAAPp) | [DubbleT](https://open.spotify.com/artist/0qFd9z9Shj28sgoLwKr0Af), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Back](https://open.spotify.com/album/4anFbEJ3IamNPrz66GJZpD) | 3:58 | 2022-07-14 |  |
 | [Banzai VIP](https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Banzai VIP](https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1) | 4:54 | 2022-04-15 | 2022-09-06 |
@@ -86,6 +86,7 @@
 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 | 2022-11-26 |  |
 | [Jazzy Jeff](https://open.spotify.com/track/7cSYO410GCjwQpttuFxvbQ) | [A dot R](https://open.spotify.com/artist/4nmaZUHURKtlh9NbJYNTwF), [Mnt](https://open.spotify.com/artist/5KvTvmWwVmEVmH6dHvHclX) | [Jazzy Jeff](https://open.spotify.com/album/0kZOYHOd52pjGdS3bznGTt) | 4:00 | 2022-06-20 | 2022-07-04 |
 | [Jet Wash](https://open.spotify.com/track/4CUbMRMuSvsVgYhkRuY5lZ) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Jet Wash](https://open.spotify.com/album/78OCtt8QM9B7rKKzhQD5tr) | 3:51 | 2022-04-15 | 2022-08-22 |
+| [Jurgen Kropper \(feat\. Local\)](https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Jurgen Kropper \(feat\. Local\)](https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp) | 2:56 | 2022-11-27 |  |
 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 | 2022-04-15 |  |
 | [Kombat](https://open.spotify.com/track/7ug5Dlrb7MwL8QuddTglKB) | [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ), [Griz\-O](https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ) | [Kombat / 144](https://open.spotify.com/album/0PgR6HhGpJ3jQvkWNNm50n) | 4:30 | 2022-05-13 | 2022-10-02 |
 | [Latch](https://open.spotify.com/track/66jSZ5c1fdfRzQpqMqDSPq) | [Jay Wall](https://open.spotify.com/artist/2MuTX0w1na0pyChGIjHD5r), [Tension](https://open.spotify.com/artist/09wzeOugjkAV1exJjXzbv9) | [Latch](https://open.spotify.com/album/0bVt5pvdGLInGr5cp5JJ6g) | 3:34 | 2022-04-15 | 2022-07-27 |

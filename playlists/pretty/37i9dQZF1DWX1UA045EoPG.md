@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,941 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,934 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 47 | [Confession](https://open.spotify.com/track/1KRoRM6vuzm3TTAMDrQYNK) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Confession](https://open.spotify.com/album/3KrnlFZDvXlRWNnTRR3sxQ) | 3:55 |
 | 48 | [Crumbs](https://open.spotify.com/track/0wgElszsos5fWd2lT8AJGG) | [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Crumbs](https://open.spotify.com/album/5nRCPFk5CcyWduE1zgskS0) | 3:13 |
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
-| 50 | [Left & Right](https://open.spotify.com/track/5N6d8ri3KFmAhVIXGydnLN) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [Left & Right](https://open.spotify.com/album/7ELdoHPpEJ9uOdM02EzBXL) | 3:08 |
+| 50 | [Left & Right](https://open.spotify.com/track/0m9ggRI3M7andaAAwhpyQ0) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/2l9tj36iPJgoGP2hO3VNCj) | 3:08 |
 
-Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDNhODEzZGRkZTA3ZjkxNDRhZjUyMzhiNzE4NjY0ZGQz`
+Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDk4ZjdjMWI2MWY4Y2M5MjQ3YWI0MmZiY2U2YThkNTFh`

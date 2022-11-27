@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Stormzy \(pictured\), Avril Lavigne, Jung Kook of BTS, Machine Gun Kelly, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,679 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,748 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 87 | [Smooth It Out \(feat\. pHoenix Pagliacci\)](https://open.spotify.com/track/2dnFumlUmVOKPd5pbrBQiD) | [Milla Thyme](https://open.spotify.com/artist/2t7K7CuQZ7CD26LPGBm9Ch), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Smooth It Out \(feat\. pHoenix Pagliacci\)](https://open.spotify.com/album/223kSw3sc2fO5RfYwjCdsR) | 3:51 |
 | 88 | [Friends](https://open.spotify.com/track/1ELDBsvBJtXQSoWnW1X562) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM) | [Friends](https://open.spotify.com/album/2vISNXbSlnFFWOt1y0aLGk) | 3:25 |
 | 89 | [A.P.O.W.N.](https://open.spotify.com/track/5G3EHTZxJIOOKtoblbVRd1) | [Tremayne](https://open.spotify.com/artist/0J4lkRbd2f6HwYoQUB34Pl) | [A.P.O.W.N.](https://open.spotify.com/album/3ezPV8UNjWBac7IGNAxeyw) | 2:53 |
-| 90 | [Thriomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 |
+| 90 | [Triomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 |
 | 91 | [CLONES](https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [CLONES](https://open.spotify.com/album/4eAI0f1nna07Mz5v86KgNe) | 2:04 |
 | 92 | [Gallows](https://open.spotify.com/track/3HsH8EwEfvhu151P1erqDX) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Gallows](https://open.spotify.com/album/4rWlTRMZieWj6MJV7KsCJh) | 3:06 |
 | 93 | [Living Proof](https://open.spotify.com/track/5IMEWTYYTUdXjkJzOAz7QZ) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Living Proof](https://open.spotify.com/album/2BLMLPpILfCQ8PbjN8KCSS) | 3:56 |

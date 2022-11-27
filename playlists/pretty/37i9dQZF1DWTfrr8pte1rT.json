@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 284624,
+  "num_followers": 284797,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGE5NmEzMDhiMjk3OTI3YjZjMzc1OTUxOTgzMzZhYWJm",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDgxNjBkOTFiMTU4N2JhYmFmYTA3MDMxMjkwOThjZjEw",
   "tracks": [
     {
       "added_at": "2022-11-11 05:01:00",
@@ -219,6 +219,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Seven Nation Army (The Glitch Mob Remix)",
+        "url": "https://open.spotify.com/album/6XN8b2NIomlwPOoBlILqXv"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        },
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "duration_ms": 257021,
+      "name": "Seven Nation Army - The Glitch Mob Remix",
+      "url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Feel Something (With I Prevail)",
         "url": "https://open.spotify.com/album/0oNatPfTF5GM7KnSQ2hRPG"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 221000,
       "name": "Feel Something (With I Prevail)",
       "url": "https://open.spotify.com/track/5dAtKXyrQoQW054LZqJ5dP"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Seven Nation Army (The Glitch Mob Remix)",
-        "url": "https://open.spotify.com/album/6XN8b2NIomlwPOoBlILqXv"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        },
-        {
-          "name": "The Glitch Mob",
-          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
-        }
-      ],
-      "duration_ms": 257021,
-      "name": "Seven Nation Army - The Glitch Mob Remix",
-      "url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -531,6 +531,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        },
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Miss Anthropocene (Rave Edition)",
         "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        },
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Hearteater",
         "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 217394,
       "name": "Hearteater",
       "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1573,38 +1573,6 @@
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Pretty Melody 70",
-        "url": "https://open.spotify.com/album/5SAson0PsEYspU0G8lcOCF"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Pretty Melody 70",
-      "url": "https://open.spotify.com/track/6IrgD84YhXNQckQFBYJZnL"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "A Change of Perspective (Deluxe)",
@@ -1623,6 +1591,38 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Pretty Melody 70",
+        "url": "https://open.spotify.com/album/5SAson0PsEYspU0G8lcOCF"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Pretty Melody 70",
+      "url": "https://open.spotify.com/track/6IrgD84YhXNQckQFBYJZnL"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1701,6 +1701,26 @@
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
     },
     {
+      "added_at": "2022-07-22 08:57:27",
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Time Isn't Real",
@@ -1743,26 +1763,6 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
-    },
-    {
-      "added_at": "2022-07-22 08:57:27",
-      "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
-      },
-      "artists": [
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        },
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "I'm Just A Monster Underneath, My Darling",
+        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 250344,
+      "name": "I'm Just A Monster Underneath, My Darling",
+      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Flatlined",
         "url": "https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 291200,
       "name": "Flatlined",
       "url": "https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "I'm Just A Monster Underneath, My Darling",
-        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 250344,
-      "name": "I'm Just A Monster Underneath, My Darling",
-      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2137,26 +2137,6 @@
       "url": "https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Hit The Floor",
-        "url": "https://open.spotify.com/album/1qV35eCz8zR0MdO823pMJZ"
-      },
-      "artists": [
-        {
-          "name": "Draeden",
-          "url": "https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Hit The Floor",
-      "url": "https://open.spotify.com/track/2FHa5rOKOAhuKa0p7XfLTo"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Here and Now",
@@ -2179,6 +2159,26 @@
       "duration_ms": 205241,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Hit The Floor",
+        "url": "https://open.spotify.com/album/1qV35eCz8zR0MdO823pMJZ"
+      },
+      "artists": [
+        {
+          "name": "Draeden",
+          "url": "https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Hit The Floor",
+      "url": "https://open.spotify.com/track/2FHa5rOKOAhuKa0p7XfLTo"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2441,6 +2441,22 @@
       "url": "https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb"
     },
     {
+      "added_at": "2022-07-15 11:41:27",
+      "album": {
+        "name": "Electric Eye",
+        "url": "https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 165771,
+      "name": "Electric Eye - Single Edit",
+      "url": "https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Bored To Death (Steve Aoki Remix)",
@@ -2459,22 +2475,6 @@
       "duration_ms": 238500,
       "name": "Bored To Death - Steve Aoki Remix",
       "url": "https://open.spotify.com/track/7xddswKFyyesNjV8wpCGLo"
-    },
-    {
-      "added_at": "2022-07-15 11:41:27",
-      "album": {
-        "name": "Electric Eye",
-        "url": "https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 165771,
-      "name": "Electric Eye - Single Edit",
-      "url": "https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2501,44 +2501,44 @@
       "url": "https://open.spotify.com/track/5GzBDqFoMUrjjfGtHEbGfY"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Enemy VIP (with Shane Told of Silverstein)",
-        "url": "https://open.spotify.com/album/2iwX9yHexLZSn0PtOu3D8G"
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
       },
       "artists": [
         {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Enemy VIP (with Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/0b0vvHAw17DwRllYuEKD9A"
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Subliminal (Even the Ghosts are Laughing)",
-        "url": "https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB"
+        "name": "Walk On Water (with Danni Carra)",
+        "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
       },
       "artists": [
         {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
         },
         {
-          "name": "CRaymak",
-          "url": "https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm"
-        },
-        {
-          "name": "AFTERMYFALL",
-          "url": "https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK"
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
         }
       ],
-      "duration_ms": 318428,
-      "name": "Subliminal (Even the Ghosts are Laughing)",
-      "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"
+      "duration_ms": 182844,
+      "name": "Walk On Water (with Danni Carra)",
+      "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
     }
   ],
   "unique_name": "Rocktronic",

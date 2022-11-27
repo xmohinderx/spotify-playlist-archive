@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/28P9YuJcTLPFyCtcBLEXvl)
+96 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/28P9YuJcTLPFyCtcBLEXvl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Getting It Together](https://open.spotify.com/track/0pzDuoJHPdyanUR95VEm1z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 4:12 | 2022-05-29 | 2022-11-05 |
 | [Gingerbread](https://open.spotify.com/track/4lIVwUYL7ZmTjXs8hUWiab) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:17 | 2022-05-29 |  |
 | [Girl in a Sportscar](https://open.spotify.com/track/3YT4KUgun2us1WLg3f0T9z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:42 | 2022-05-29 |  |
-| [Grange Hill](https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Seventies](https://open.spotify.com/album/6e9IDKC8TqlxvTFGJwFgHm) | 1:23 | 2022-05-29 |  |
+| [Grange Hill](https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Seventies](https://open.spotify.com/album/6e9IDKC8TqlxvTFGJwFgHm) | 1:23 | 2022-05-29 | 2022-11-27 |
+| [Grit Band Reggae](https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 3:48 | 2022-11-26 |  |
 | [Hastle](https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:12 | 2022-06-02 | 2022-09-11 |
 | [High Diver](https://open.spotify.com/track/5YHOWugv9OFLaog6Cst2CS) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [New Blood](https://open.spotify.com/album/2BmJtmwBwF6VMFqYq0A7vn) | 3:42 | 2022-06-01 | 2022-10-09 |
 | [Hot Pants](https://open.spotify.com/track/6cE5GBigwh7Zh7PElZpU7j) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:52 | 2022-05-29 |  |

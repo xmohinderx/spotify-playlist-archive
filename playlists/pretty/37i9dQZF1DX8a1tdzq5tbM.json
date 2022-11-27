@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance radio</a> hits from the 90s and 00s!",
-  "num_followers": 1285539,
+  "num_followers": 1285804,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMGVlNzM2ZWQwYWU2YTMyYjM3MzVlODIzMTYwMTk3ZDdh",
+  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMDYzNTU1NWRhOGM1MzczM2JhOTIyZDc0ZmMyNDMxYjA2",
   "tracks": [
     {
       "added_at": "2022-02-28 22:22:26",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -647,6 +663,22 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -755,22 +787,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "When Love Takes Over (feat. Kelly Rowland)",
-      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Mixed For Feet, Vol. 1",
         "url": "https://open.spotify.com/album/7c2dvQQO2RiQUOLlxUJYrQ"
       },
@@ -827,6 +843,34 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
+      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Toca Me (twoloud Remix)",
         "url": "https://open.spotify.com/album/7KfVcH7IJRyKEBf5JvoKvk"
       },
@@ -847,6 +891,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Move For me",
+      "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -863,22 +923,6 @@
       "duration_ms": 253933,
       "name": "Ready Steady Go - Extended Mix",
       "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Move For me",
-      "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -943,34 +987,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Chris Willis",
-          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
-        },
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
-      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Robyn",
         "url": "https://open.spotify.com/album/5xDz5FY3Hsp2skcOP1IUNU"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 255186,
       "name": "With Every Heartbeat",
       "url": "https://open.spotify.com/track/53SqGkNJAYLss9AgbduTqQ"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/7mIc5Nc6K8kceTSCMeMB0B"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/541lUjNUJ8NIQiduDf4Ue9"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326834,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/1Hi9I8Qwt1ADYYlzDge3Np"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Basement Boys Anthology",
         "url": "https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 181230,
       "name": "It's Too Late - Dirty South Radio Edit",
       "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326834,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/1Hi9I8Qwt1ADYYlzDge3Np"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "L.E.F.",
-        "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        },
-        {
-          "name": "Simon Lebon",
-          "url": "https://open.spotify.com/artist/7pHJTrmyl1pzvdUTMVll6J"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
@@ -1479,6 +1459,26 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "L.E.F.",
+        "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Simon Lebon",
+          "url": "https://open.spotify.com/artist/7pHJTrmyl1pzvdUTMVll6J"
+        }
+      ],
+      "duration_ms": 271586,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/2ERvgVHv284kvtfmYurONA"
       },
@@ -1495,26 +1495,6 @@
       "duration_ms": 220238,
       "name": "Behind - Callea Radio Mix",
       "url": "https://open.spotify.com/track/58ma0p0GQqxfbe5vNFraUs"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Every Word",
-        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
-      },
-      "artists": [
-        {
-          "name": "Ercola",
-          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
-        },
-        {
-          "name": "Daniella",
-          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
-      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1547,22 +1527,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Girlfriend 2008",
-        "url": "https://open.spotify.com/album/6R2jrdecpeVZZLWShXj8SZ"
+        "name": "Every Word",
+        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
       },
       "artists": [
         {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+          "name": "Ercola",
+          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
         },
         {
-          "name": "Keylime",
-          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
+          "name": "Daniella",
+          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
         }
       ],
-      "duration_ms": 437538,
-      "name": "Girlfriend - 2008 Remix",
-      "url": "https://open.spotify.com/track/71kHGcF4NcAqKUopKqdtm7"
+      "duration_ms": 213173,
+      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
+      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1579,6 +1559,26 @@
       "duration_ms": 288053,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Girlfriend 2008",
+        "url": "https://open.spotify.com/album/6R2jrdecpeVZZLWShXj8SZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
+        }
+      ],
+      "duration_ms": 437538,
+      "name": "Girlfriend - 2008 Remix",
+      "url": "https://open.spotify.com/track/71kHGcF4NcAqKUopKqdtm7"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "I Like Your Booty / The Big Fake",
+        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
+      },
+      "artists": [
+        {
+          "name": "Traffic Signs",
+          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+        }
+      ],
+      "duration_ms": 384733,
+      "name": "The Big Fake",
+      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 151621,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "I Like Your Booty / The Big Fake",
-        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
-      },
-      "artists": [
-        {
-          "name": "Traffic Signs",
-          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
-        }
-      ],
-      "duration_ms": 384733,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Put 'Em Up",
-        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
-      },
-      "artists": [
-        {
-          "name": "Edun",
-          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Put `em Up",
-      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "The Girl You Lost To Cocaine",
         "url": "https://open.spotify.com/album/1DkcApyygjUYE3rHPEsWIg"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 180000,
       "name": "The Girl You Lost To Cocaine - Sander van Doorn Edit",
       "url": "https://open.spotify.com/track/1QSTWEdeiR8UbrMjZVSOq4"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Put 'Em Up",
+        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
+      },
+      "artists": [
+        {
+          "name": "Edun",
+          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Put `em Up",
+      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
-      },
-      "artists": [
-        {
-          "name": "Velvet",
-          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chemistry - Radio Edit",
-      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/4sT3LUrP7eehRahyJvexvx"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 264374,
       "name": "Disconnected (Radio Edit Dub Mix)",
       "url": "https://open.spotify.com/track/7sOtNnr0Qv0WN0oWMj64yF"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
+      },
+      "artists": [
+        {
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chemistry - Radio Edit",
+      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
     }
   ],
   "unique_name": "Dance Classics",

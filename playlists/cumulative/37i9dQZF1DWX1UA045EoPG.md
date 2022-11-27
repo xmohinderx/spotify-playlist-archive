@@ -4,7 +4,7 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-66 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
+67 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Keep the Spark Alive](https://open.spotify.com/track/4ortOUyHPtxAmM1T0xXEhZ) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Bonus Points](https://open.spotify.com/artist/3GlCVMFRzrZ3FGtt4apejf) | [Keep the Spark Alive](https://open.spotify.com/album/2pJERUgp7pWBqhEnztIedx) | 3:01 | 2018-09-14 |  |
 | [La Piña](https://open.spotify.com/track/3fmIXrnXgt6ZzXWHewbvSC) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [La Piña](https://open.spotify.com/album/4Ur27mAxzS8CzHr942EuGE) | 3:39 | 2018-09-14 |  |
 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 | 2018-09-14 |  |
-| [Left & Right](https://open.spotify.com/track/5N6d8ri3KFmAhVIXGydnLN) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [Left & Right](https://open.spotify.com/album/7ELdoHPpEJ9uOdM02EzBXL) | 3:08 | 2018-09-14 |  |
+| [Left & Right](https://open.spotify.com/track/0m9ggRI3M7andaAAwhpyQ0) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/2l9tj36iPJgoGP2hO3VNCj) | 3:08 | 2022-09-27 |  |
+| [Left & Right](https://open.spotify.com/track/5N6d8ri3KFmAhVIXGydnLN) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [Left & Right](https://open.spotify.com/album/7ELdoHPpEJ9uOdM02EzBXL) | 3:08 | 2018-09-14 | 2022-11-27 |
 | [Loud](https://open.spotify.com/track/556LJMJMhRJUNb4IggLTMM) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Loud](https://open.spotify.com/album/4esQRJHaiTQycN77tdw8fZ) | 3:19 | 2018-09-14 |  |
 | [Meltaway](https://open.spotify.com/track/3YKQqS7xr8DcXggBwv4I5P) | [Zhao](https://open.spotify.com/artist/5bfw7ydBnntO3NbtHagaQf) | [Meltaway](https://open.spotify.com/album/15tMsoy4cyJgmE77DX1Vnt) | 3:41 | 2018-09-14 |  |
 | [Mona Lisa Bonet](https://open.spotify.com/track/06I2oTgzyWBjw6qJcKGMkk) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Mona Lisa Bonet](https://open.spotify.com/album/6t3OXIO6WN2k24g8xRsam6) | 2:05 | 2018-09-14 |  |

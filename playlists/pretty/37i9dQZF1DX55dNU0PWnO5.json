@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 538112,
+  "num_followers": 538214,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDAxMTk3ODg5NWFlNmFmMTgxODBmNjhkZTY4ZDI2YTFl",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDEzYjY0OGI0ZjYwMzRjNjhkNDk5OWU1NzMyNWJlOGMy",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -737,26 +737,6 @@
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "88' Jason",
-        "url": "https://open.spotify.com/album/5ouV0Mf6x1mMggYSGGOY4S"
-      },
-      "artists": [
-        {
-          "name": "Marcus Alan Ward",
-          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
-        },
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 192364,
-      "name": "88' Jason",
-      "url": "https://open.spotify.com/track/1gTFeBtNXNU0ibIThvm0xc"
-    },
-    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Come Out and Play",
@@ -831,6 +811,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "88' Jason",
+        "url": "https://open.spotify.com/album/5ouV0Mf6x1mMggYSGGOY4S"
+      },
+      "artists": [
+        {
+          "name": "Marcus Alan Ward",
+          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 192364,
+      "name": "88' Jason",
+      "url": "https://open.spotify.com/track/1gTFeBtNXNU0ibIThvm0xc"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/7w4DtwePB3gH9wCayLd6sj"
       },
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/7I8IUJLGoJMupsw4bn9YWe"
     },
     {
-      "added_at": "2022-02-11 19:25:22",
-      "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
-      },
-      "artists": [
-        {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
-        }
-      ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
-    },
-    {
       "added_at": "2022-08-08 13:44:11",
       "album": {
         "name": "Tukumtak",
@@ -899,6 +883,22 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+    },
+    {
+      "added_at": "2022-02-11 19:25:22",
+      "album": {
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+      },
+      "artists": [
+        {
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+        }
+      ],
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -933,24 +933,20 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-08-08 13:44:11",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
       },
       "artists": [
         {
-          "name": "Natty Rico",
-          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
-        },
-        {
-          "name": "Bruce Kirkwood",
-          "url": "https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg"
+          "name": "THREESIXTY",
+          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
         }
       ],
-      "duration_ms": 193182,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
+      "duration_ms": 224399,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -981,22 +977,6 @@
       "url": "https://open.spotify.com/track/7CurxbuwMd0zxu2DOtI94j"
     },
     {
-      "added_at": "2022-08-08 13:44:11",
-      "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
-      },
-      "artists": [
-        {
-          "name": "THREESIXTY",
-          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
-        }
-      ],
-      "duration_ms": 224399,
-      "name": "Dazed",
-      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Deep in the Pocket",
@@ -1011,6 +991,26 @@
       "duration_ms": 224971,
       "name": "Kountdown",
       "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL"
+      },
+      "artists": [
+        {
+          "name": "Natty Rico",
+          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
+        },
+        {
+          "name": "Bruce Kirkwood",
+          "url": "https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg"
+        }
+      ],
+      "duration_ms": 193182,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -1069,6 +1069,22 @@
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
     },
     {
+      "added_at": "2021-02-26 00:47:37",
+      "album": {
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
+    },
+    {
       "added_at": "2022-08-08 13:44:11",
       "album": {
         "name": "Cruiserweight",
@@ -1087,22 +1103,6 @@
       "duration_ms": 131006,
       "name": "Lift Off For AJ",
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
-    },
-    {
-      "added_at": "2021-02-26 00:47:37",
-      "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1237,6 +1237,26 @@
       "url": "https://open.spotify.com/track/6gR5qCiiUszc8ILXzxcpi9"
     },
     {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Blue to Red (Photay Remix)",
+        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "Blue to Red - Photay Remix",
+      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
+    },
+    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "PRNDL.wav",
@@ -1269,26 +1289,6 @@
       "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Blue to Red (Photay Remix)",
-        "url": "https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        },
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "Blue to Red - Photay Remix",
-      "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "RED PILL",
@@ -1303,22 +1303,6 @@
       "duration_ms": 161495,
       "name": "RED PILL",
       "url": "https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "PPL -PingPongLounge-",
-        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
-      },
-      "artists": [
-        {
-          "name": "ddddeeeellllaaa",
-          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
-        }
-      ],
-      "duration_ms": 114078,
-      "name": "PPL -PingPongLounge-",
-      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1337,6 +1321,22 @@
       "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
     },
     {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "PPL -PingPongLounge-",
+        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        }
+      ],
+      "duration_ms": 114078,
+      "name": "PPL -PingPongLounge-",
+      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
+    },
+    {
       "added_at": "2021-05-28 04:00:00",
       "album": {
         "name": "Inner Inference",
@@ -1353,40 +1353,20 @@
       "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Between the Bread",
-        "url": "https://open.spotify.com/album/0F8uPwZqTEdlOSnpns7xoP"
+        "name": "Kosmological Glitches",
+        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
       },
       "artists": [
         {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        },
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        },
-        {
-          "name": "anu",
-          "url": "https://open.spotify.com/artist/6xp40lYtDiJtBYtlJQAyQH"
-        },
-        {
-          "name": "Olly Chalk",
-          "url": "https://open.spotify.com/artist/1jWnsa23cs9PnPGMf9cTNq"
-        },
-        {
-          "name": "Andr\u00e9 Moreira",
-          "url": "https://open.spotify.com/artist/4iL7oKqxkwaWhxTtWj4XiW"
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
         }
       ],
-      "duration_ms": 189344,
-      "name": "Between the Bread",
-      "url": "https://open.spotify.com/track/1qTGY0QXhVVTvMtX33vw7Y"
+      "duration_ms": 89898,
+      "name": "In Touch With The Kosmos",
+      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1427,6 +1407,42 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Between the Bread",
+        "url": "https://open.spotify.com/album/0F8uPwZqTEdlOSnpns7xoP"
+      },
+      "artists": [
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        },
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        },
+        {
+          "name": "anu",
+          "url": "https://open.spotify.com/artist/6xp40lYtDiJtBYtlJQAyQH"
+        },
+        {
+          "name": "Olly Chalk",
+          "url": "https://open.spotify.com/artist/1jWnsa23cs9PnPGMf9cTNq"
+        },
+        {
+          "name": "Andr\u00e9 Moreira",
+          "url": "https://open.spotify.com/artist/4iL7oKqxkwaWhxTtWj4XiW"
+        }
+      ],
+      "duration_ms": 189344,
+      "name": "Between the Bread",
+      "url": "https://open.spotify.com/track/1qTGY0QXhVVTvMtX33vw7Y"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1473,22 +1489,6 @@
       "url": "https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Kosmological Glitches",
-        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 89898,
-      "name": "In Touch With The Kosmos",
-      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Modern Life",
@@ -1503,6 +1503,30 @@
       "duration_ms": 255173,
       "name": "HULO",
       "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "2 FUNKY",
+        "url": "https://open.spotify.com/album/6qag4GDrLrMCGpTDbN8Aha"
+      },
+      "artists": [
+        {
+          "name": "E-SWERVE",
+          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        }
+      ],
+      "duration_ms": 168393,
+      "name": "2 FUNKY",
+      "url": "https://open.spotify.com/track/5YC5hyGD9Mp7GY1Exqufp7"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1539,30 +1563,6 @@
       "duration_ms": 264680,
       "name": "Why Not Jungle",
       "url": "https://open.spotify.com/track/0R7j6lvGVhpcs15ePBLLr7"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "2 FUNKY",
-        "url": "https://open.spotify.com/album/6qag4GDrLrMCGpTDbN8Aha"
-      },
-      "artists": [
-        {
-          "name": "E-SWERVE",
-          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
-        },
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        },
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        }
-      ],
-      "duration_ms": 168393,
-      "name": "2 FUNKY",
-      "url": "https://open.spotify.com/track/5YC5hyGD9Mp7GY1Exqufp7"
     }
   ],
   "unique_name": "Jazztronica",

@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 25086,
+  "num_followers": 25138,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxMTQxOCwwMDAwMDAwMGY1NTEzYjk2NDMxZmM3Y2RmNTc5ZjQ0NTliNjFkMjQx",
+  "snapshot_id": "MTY2ODcxMTQxOCwwMDAwMDAwMGMwMjlmOTc2OGRjZDk2N2I3OGQ0MjU1ZjdiZjk0YTk1",
   "tracks": [
     {
       "added_at": "2022-11-17 18:56:58",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "The Essential Bessie Smith",
-        "url": "https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Nobody Knows You When You're Down and Out - 78rpm Version",
-      "url": "https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 190772,
       "name": "My Journey To The Sky",
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
+        "name": "The Essential Bessie Smith",
+        "url": "https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Nobody Knows You When You're Down and Out - 78rpm Version",
+      "url": "https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Sippie Wallace",
+          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+      "duration_ms": 170173,
+      "name": "I'm a Mighty Tight Woman",
+      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
       "artists": [
         {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 170173,
-      "name": "I'm a Mighty Tight Woman",
-      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "Billie's Blues - Take 1",
-      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
         "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
         "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 195586,
       "name": "It's Tight Like That",
       "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "Billie's Blues - Take 1",
+      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
     },
     {
       "added_at": "2022-11-17 18:56:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,555 likes - 108 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,591 likes - 108 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 17 | [WTF](https://open.spotify.com/track/5icviz5s1QVM5L8x5WRLE1) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [WTF](https://open.spotify.com/album/1aHDb79keEnYyij5TCyttJ) | 2:50 |
 | 18 | [Vivaldi](https://open.spotify.com/track/6tKjm4DQKNhXM3CiuAeu13) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL) | [Vivaldi](https://open.spotify.com/album/4eAFfQE1QGbiSEHw7eFwgw) | 4:19 |
 | 19 | [Taurus \(feat\. Naomi Wild\) \- From The Motion Picture Taurus](https://open.spotify.com/track/6J3Yay84inLJ6b37lpaHFi) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [Taurus \(feat\. Naomi Wild\) \[From The Motion Picture Taurus\]](https://open.spotify.com/album/5g4O8fSfK5bfRiDRV0mYhd) | 3:00 |
-| 20 | [Chanser](https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Chanser](https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j) | 3:03 |
+| 20 | [Chanser](https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Chanser](https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j) | 3:03 |
 | 21 | [SHUT UP](https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [SHUT UP](https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV) | 2:33 |
 | 22 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 |
 | 23 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 43 | [I samma bil](https://open.spotify.com/track/5REh0YgStEjBf9ur8TjW6V) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [I samma bil](https://open.spotify.com/album/1Eqz5ENRdZEibkAKKlYjpq) | 3:23 |
 | 44 | [Lätta steg](https://open.spotify.com/track/3MsN1BOwxYrotycq0JMp0n) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1) | [Lätta steg](https://open.spotify.com/album/2mmJIw8gvu8PCWHLJ6zQeu) | 2:58 |
 | 45 | [6](https://open.spotify.com/track/0FVfxpk1xx0qsW3jH71Qgs) | [BIBC](https://open.spotify.com/artist/1AiXwUUahTvVqdQuVdf1ON) | [6](https://open.spotify.com/album/396vDcBOc2gzjgTkzPyXEb) | 4:18 |
-| 46 | [B&B \(Booze & Bumbum\) \[feat\. Victony, KTIZO\]](https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [B&B \(Booze & Bumbum\) \[feat\. Victony, KTIZO\]](https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl) | 3:01 |
+| 46 | [B&B \(Booze & Bumbum\)](https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [B&B \(Booze & Bumbum\)](https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl) | 3:01 |
 | 47 | [Ulala](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Ulala](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 |
 | 48 | [Same People](https://open.spotify.com/track/3EOEvnYl2v0E899Ov9j0gE) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Same People](https://open.spotify.com/album/4oMlqE0MvhO3yYFHqIvDv6) | 3:07 |
 | 49 | [Feel It in My Bones](https://open.spotify.com/track/25HsTqNFLw8ooWvKi3isMm) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Feel It in My Bones](https://open.spotify.com/album/2Wit8DUqWTtBPTb2F7AjY8) | 2:11 |

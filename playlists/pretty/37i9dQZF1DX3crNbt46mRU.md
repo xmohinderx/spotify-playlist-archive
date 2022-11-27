@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: GIMS, Soolking
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,884 likes - 112 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,893 likes - 112 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 53 | [Mosaik](https://open.spotify.com/track/6rGs9JTlf5sZFUihduhV7w) | [Jamin](https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9) | [Mosaik](https://open.spotify.com/album/7rt0VCq7Mu6H2xKLryMxC1) | 2:29 |
 | 54 | [Wald](https://open.spotify.com/track/68WiGLZ8KKNX6jhVSl6wT2) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl) | [Wald](https://open.spotify.com/album/6BmdDYrjZwErJhgNgN3hem) | 3:23 |
 | 55 | [Pokemon](https://open.spotify.com/track/7dpHC1lhzKT1znVybDhfkK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Enyadres](https://open.spotify.com/artist/5y2YC4pitun0YAKXCJXbzq) | [Pokemon](https://open.spotify.com/album/3KeBsInpHRqccde4C0qw3M) | 3:18 |
-| 56 | [Kunst](https://open.spotify.com/track/5oUcOvGYm4lEl2ZhkFyJUJ) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Brasco](https://open.spotify.com/artist/4qMPc7lyf44akP8e1FMZ4a) | [Kunst](https://open.spotify.com/album/24QxwPpmTqP2uukG6jEwET) | 2:10 |
+| 56 | [Kunst](https://open.spotify.com/track/5oUcOvGYm4lEl2ZhkFyJUJ) | [Brasco](https://open.spotify.com/artist/4qMPc7lyf44akP8e1FMZ4a), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Kunst](https://open.spotify.com/album/24QxwPpmTqP2uukG6jEwET) | 2:10 |
 | 57 | [It’s On](https://open.spotify.com/track/3XF3Baw0evEYgLwD83Xywg) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [It’s On](https://open.spotify.com/album/7JOnteNVrJX6Ozy9JMZK8N) | 2:28 |
 | 58 | [running in circles](https://open.spotify.com/track/2Nek0E8RoW0RshXtE0N3DT) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [running in circles](https://open.spotify.com/album/1wcOSl3AsZc7tXOcVgFKOy) | 3:28 |
 | 59 | [La fille](https://open.spotify.com/track/5vYw89AR9XvZyjc0Z9PSxL) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La fille](https://open.spotify.com/album/2NdqOIaiIEnhasgZCa0KWs) | 3:56 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 61 | [Unstable](https://open.spotify.com/track/7fZTnw3jKYxbMuu2U1XQHp) | [WE ARE AVA](https://open.spotify.com/artist/5jJAPoKkkgYZyPnnoNLTLw) | [B\-Side](https://open.spotify.com/album/6d29vpv85I2IwndJjPeUJN) | 2:36 |
 | 62 | [At Night](https://open.spotify.com/track/5wEtDwrNYl2SH1Oglm1nRT) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [At Night](https://open.spotify.com/album/1jm9zf5mA1X8h50nnAX9xY) | 4:20 |
 | 63 | [HOME RUN](https://open.spotify.com/track/7vt8qddCs1eAnNRu1i6vhs) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [HOME RUN EP](https://open.spotify.com/album/0oACFrQVW1kMTZmVE45YVr) | 2:55 |
-| 64 | [Mit dir sein](https://open.spotify.com/track/4AwOLcu7bW96MjFVv8onXe) | [Terry Joe](https://open.spotify.com/artist/2Npb4qJMwRjjv2ZUHOuP4q), [CHRIS JARBEE](https://open.spotify.com/artist/5aO2Q6QgVJcMOVAXOpyX4P) | [Mit dir sein](https://open.spotify.com/album/2eaLLbrX6KyBN17s2aVUSa) | 2:42 |
+| 64 | [Mit dir sein](https://open.spotify.com/track/4AwOLcu7bW96MjFVv8onXe) | [Terry Joe](https://open.spotify.com/artist/2Npb4qJMwRjjv2ZUHOuP4q) | [Mit dir sein](https://open.spotify.com/album/2eaLLbrX6KyBN17s2aVUSa) | 2:42 |
 | 65 | [Green Feather](https://open.spotify.com/track/6VZBCOu3w6ZDwGpk0ZvGuh) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Green Feather](https://open.spotify.com/album/2yYpDIgMdrHRLu4HkeN1L2) | 3:21 |
 | 66 | [Wall°E](https://open.spotify.com/track/2Nq3WVNRbiB0IwcaeUH5lt) | [STR808 SQUAD](https://open.spotify.com/artist/36hAYz2UaKBcXJe5PA0h63), [Moony](https://open.spotify.com/artist/38DHYfSalpiP9m0Ayhew2C) | [Wall°E](https://open.spotify.com/album/07nA0NQLRugQdXe0DjUcrd) | 2:57 |
 | 67 | [C’est l'amour](https://open.spotify.com/track/7rN6ZfNI2NLO4rDIXU4Gey) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [C'est l'amour](https://open.spotify.com/album/7c3GhsG5ByopG3M8ZlGanx) | 3:23 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 105 | [Krush](https://open.spotify.com/track/6m566uSUziOt0baMXiVyzK) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [just for fun](https://open.spotify.com/album/2bSQVxR4ML7rNqBrso1OcP) | 2:26 |
 | 106 | [tristesse](https://open.spotify.com/track/1m5CNvawNLaWC5YBWF0sXQ) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [tristesse](https://open.spotify.com/album/6POvDmme72sKHApHzRqyzS) | 3:00 |
 | 107 | [4 Quadratmeter](https://open.spotify.com/track/1QJgtuzebQP3OXM95lzp1l) | [Adesse](https://open.spotify.com/artist/7EWemnOZ5SxADQ1z8bf0r9) | [4 Quadratmeter](https://open.spotify.com/album/1cllVR2vLNBQj7QBMFCymy) | 2:50 |
-| 108 | [Vertrauen](https://open.spotify.com/track/5vsUKYif9nlnDHOsBPRfK7) | [Sick & Tired](https://open.spotify.com/artist/2kg0dvxtCnkrfP7vf39w4D), [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [Vertrauen](https://open.spotify.com/album/62DZmEiDwoQen6wXVphqQU) | 2:12 |
+| 108 | [Vertrauen](https://open.spotify.com/track/5vsUKYif9nlnDHOsBPRfK7) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Sick & Tired](https://open.spotify.com/artist/2kg0dvxtCnkrfP7vf39w4D) | [Vertrauen](https://open.spotify.com/album/62DZmEiDwoQen6wXVphqQU) | 2:12 |
 | 109 | [snooze](https://open.spotify.com/track/5dw3rD9OXgK9tL2gEe9Kpm) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [snooze](https://open.spotify.com/album/4ZBU8DB2Ug1mQGtsR6yMEM) | 4:20 |
 | 110 | [Mirror On The Wall](https://open.spotify.com/track/4KqP6HG7ehdCvAbsFCUOsr) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Mirror On The Wall](https://open.spotify.com/album/7sWVqaB937DjZEJ4R8anr4) | 2:46 |
 | 111 | [Der erste Glühwein](https://open.spotify.com/track/2giZK8a0wXsbUPxD63Ihr4) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Chris Cronauer](https://open.spotify.com/artist/7xONmSoH7id3oESqTyHut8) | [Weihnachtsgeschenk](https://open.spotify.com/album/6tuIFNVaY6tFMfZhNpAAnT) | 2:59 |

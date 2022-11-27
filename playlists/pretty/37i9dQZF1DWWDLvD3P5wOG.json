@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 440974,
+  "num_followers": 441335,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1ODMzNSwwMDAwMDAwMDUwNjI5NDZhNjZlYmRmOTEwMGM1OGIxOWE2ZTVhZWU5",
+  "snapshot_id": "MTY0MzE1ODMzNSwwMDAwMDAwMGE1MTY3NmY2ZmUwOGRlYmJmNmRiNDVkMjg5ZDAwNmJj",
   "tracks": [
     {
       "added_at": "2021-02-24 08:50:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Bad Man Forward, Bad Man Pull Up",
-        "url": "https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT"
-      },
-      "artists": [
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Bad Man Forward",
-      "url": "https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "When Mi Party",
         "url": "https://open.spotify.com/album/0tE82B0ff2X8Ss6JSMqpMH"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 230781,
       "name": "Party Shot (Ravin Part. 2)",
       "url": "https://open.spotify.com/track/0rGKPQZZxLlNBPfhYQ2JU1"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Bad Man Forward, Bad Man Pull Up",
+        "url": "https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Bad Man Forward",
+      "url": "https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a"
     },
     {
       "added_at": "2021-02-24 08:50:00",

@@ -348,6 +348,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "3 Stick Freestyle",
+      "url": "https://open.spotify.com/track/5li7KKwWXyHzx30OTnIIZO"
+    },
+    {
+      "album": {
         "name": "3 Stick Freestyle",
         "url": "https://open.spotify.com/album/5gCB3ZfqoJitNde8rQo7L2"
       },
@@ -549,10 +567,28 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 202191,
       "name": "ABISSALE",
       "url": "https://open.spotify.com/track/3LUaoHfEgHY6GxyFqXRcep"
+    },
+    {
+      "album": {
+        "name": "RAVE, ECLISSI",
+        "url": "https://open.spotify.com/album/0eqtPtuyfh2prrAWApMCgK"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202191,
+      "name": "ABISSALE",
+      "url": "https://open.spotify.com/track/5z7JlQ74N2M57PRIEI9oE6"
     },
     {
       "album": {
@@ -903,6 +939,28 @@
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160051,
+      "name": "Alleluia (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
       "album": {
@@ -1715,7 +1773,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 195475,
       "name": "BASTAVA LA MET\u00c0 (feat. Gaia & Gu\u00e8)",
       "url": "https://open.spotify.com/track/4DxKnkE23aDDGeh4F3Zv2B"
@@ -2511,7 +2569,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 205659,
       "name": "BU!",
       "url": "https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd"
@@ -3021,7 +3079,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 198066,
       "name": "CASA",
       "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
@@ -3117,7 +3175,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 168742,
       "name": "CATTIVE INTENZIONI (feat. Salmo)",
       "url": "https://open.spotify.com/track/1qeKaa5Cyw1Xi6PzoNpen5"
@@ -3199,6 +3257,32 @@
       "duration_ms": 143516,
       "name": "Cella 3",
       "url": "https://open.spotify.com/track/0VkRsiJbqTffovcsUYQBFA"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212160,
+      "name": "Cellphone (feat. Rhove & Bianca Costa)",
+      "url": "https://open.spotify.com/track/4wijO5YHrGBaf49IEQ2oZ3"
     },
     {
       "album": {
@@ -3755,6 +3839,28 @@
       "duration_ms": 173075,
       "name": "CICATRICI (feat. Madame)",
       "url": "https://open.spotify.com/track/7FSEYn1LL9UemeYeuXCHRm"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192905,
+      "name": "Cicatrici (feat. Tedua)",
+      "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
     },
     {
       "album": {
@@ -4583,7 +4689,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 194983,
       "name": "COS\u00cc STUPIDI",
       "url": "https://open.spotify.com/track/3tGopsGJijvPLP5aUUyYSV"
@@ -4733,7 +4839,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
@@ -4789,6 +4895,24 @@
       "duration_ms": 142617,
       "name": "CUORE DOLLARI (64 Bars)",
       "url": "https://open.spotify.com/track/2V7EiDaryzD6FP9q9mnJfb"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167804,
+      "name": "Cup",
+      "url": "https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z"
     },
     {
       "album": {
@@ -5250,6 +5374,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179818,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/2ACSqztWqO9sWCFCoGUFvP"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -5321,6 +5463,28 @@
       "duration_ms": 170399,
       "name": "DIECIMILAVOCI (con ARIETE)",
       "url": "https://open.spotify.com/track/2u2ZTMuRZx0UG7g7w4J76R"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Dimenticare (feat. Federica Abbate)",
+      "url": "https://open.spotify.com/track/6rLL6oYxhmjp0TEzmV3llD"
     },
     {
       "album": {
@@ -6343,7 +6507,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 157846,
       "name": "Extasi",
       "url": "https://open.spotify.com/track/6ojrj2NSj3EkMm05yiuaMG"
@@ -8077,7 +8241,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 247384,
       "name": "Hace Calor - Remix",
       "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
@@ -8753,7 +8917,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 198519,
       "name": "IL MIO NOME",
       "url": "https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD"
@@ -11870,6 +12034,24 @@
     },
     {
       "album": {
+        "name": "Margot",
+        "url": "https://open.spotify.com/album/1MD8DNxwUI78DCwJXSz0IV"
+      },
+      "artists": [
+        {
+          "name": "Ascanio",
+          "url": "https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Margot",
+      "url": "https://open.spotify.com/track/33IrvzYCoe0hxtQAk0JTYg"
+    },
+    {
+      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -12232,6 +12414,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155437,
+      "name": "Messaggio in Segreteria (interlude)",
+      "url": "https://open.spotify.com/track/1VzNcuDxUYcFYwVl5CvbM7"
+    },
+    {
+      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/77EYcClmqkA3rWSWvSOHSN"
       },
@@ -12560,6 +12760,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163459,
+      "name": "Milano Demons",
+      "url": "https://open.spotify.com/track/2OOtjHSaaYvKkcaXB2iwhc"
+    },
+    {
+      "album": {
         "name": "MILLE \u2013 feat. Orietta Berti",
         "url": "https://open.spotify.com/album/4hxHffYYs32MfS9C1H5l6q"
       },
@@ -12679,7 +12897,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -12755,7 +12973,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 160204,
       "name": "MOLOTOV",
       "url": "https://open.spotify.com/track/6SQmh0L5icrThwGDTeLkg1"
@@ -13255,6 +13473,24 @@
       "duration_ms": 203493,
       "name": "NADA (feat. Gu\u00e8, Capo Plaza & Pablo Chill-E)",
       "url": "https://open.spotify.com/track/24UR6rd5ovn5jdREtJVHC0"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Naturale",
+      "url": "https://open.spotify.com/track/7jgU5l1KaFmlyKAWZqM11m"
     },
     {
       "album": {
@@ -13831,7 +14067,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 176715,
       "name": "NON HO SONNO",
       "url": "https://open.spotify.com/track/3A1en9Fi73sXExqls5qkxx"
@@ -13874,6 +14110,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
+    },
+    {
+      "album": {
         "name": "Dolce vita",
         "url": "https://open.spotify.com/album/0OLSFLGiMOPSFTZ3oWUj34"
       },
@@ -13893,6 +14147,24 @@
       "duration_ms": 162138,
       "name": "Non sai niente",
       "url": "https://open.spotify.com/track/5fHy3DnkZ3qngoahHovezq"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164657,
+      "name": "Non \u00e8 Easy",
+      "url": "https://open.spotify.com/track/11xSNPqHx56g6C474UBaUo"
     },
     {
       "album": {
@@ -13943,7 +14215,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 182307,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj"
@@ -16490,6 +16762,32 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179438,
+      "name": "Rollie AP (feat. Pyrex & Slings)",
+      "url": "https://open.spotify.com/track/63udU8F2jbjyys9BpVgPdU"
+    },
+    {
+      "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
       },
@@ -17068,6 +17366,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226872,
+      "name": "Se Fosse Per Me",
+      "url": "https://open.spotify.com/track/5ovQyVu6iyR1GFXKgkEqxp"
+    },
+    {
+      "album": {
         "name": "ORO BLU",
         "url": "https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U"
       },
@@ -17305,7 +17621,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 125652,
       "name": "Sharm El Sheikh",
       "url": "https://open.spotify.com/track/4kXxuZIf3xV16KHEn98Jxd"
@@ -17643,7 +17959,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -17815,6 +18131,24 @@
       "duration_ms": 159840,
       "name": "Soldi Puliti",
       "url": "https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Soldi Puliti",
+      "url": "https://open.spotify.com/track/6PvU3vryREEEAe3vQ6EWxe"
     },
     {
       "album": {
@@ -18734,6 +19068,24 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "Take 4",
+      "url": "https://open.spotify.com/track/1cc9BzqfV6aO0EV8c7jGnN"
+    },
+    {
+      "album": {
         "name": "Take 4",
         "url": "https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr"
       },
@@ -18745,7 +19097,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 170571,
       "name": "Take 4",
       "url": "https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6"
@@ -19721,7 +20073,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 212424,
       "name": "TUTTI HANNO PAURA (feat. Marco Mengoni)",
       "url": "https://open.spotify.com/track/09vGzfCHWgs5sh2EmihaNZ"
@@ -19919,6 +20271,28 @@
       "duration_ms": 167719,
       "name": "Un altro ballo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7cJ9H8e0xzC0EBdsUVIBRx"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171702,
+      "name": "Un Altro Show (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
     },
     {
       "album": {
@@ -20413,7 +20787,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 172761,
       "name": "Vieni nel mio cuore",
       "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
@@ -20686,6 +21060,28 @@
     },
     {
       "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191257,
+      "name": "Vorrei (feat. Lazza)",
+      "url": "https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN"
+    },
+    {
+      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
@@ -20881,7 +21277,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 175594,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/6pD6fL8SRMXLtPHdne76w8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,051 likes - 33 songs - 1 hr 59 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,053 likes - 33 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 2 | [BLANDAD SÅS](https://open.spotify.com/track/3zdGn9ATcqloPbNZSkV6yl) | [Grizzly](https://open.spotify.com/artist/17BNApAqvSVoXhWG79LgNy), [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c), [Marke](https://open.spotify.com/artist/2ctqvMSjt2CirZ7y3xqEhd), [Shazaam](https://open.spotify.com/artist/3p1ifyW8vdwiEmVKONePFZ) | [BLANDAD SÅS](https://open.spotify.com/album/1OZ8qbjp2kM0jThOVa0M6C) | 3:01 |
 | 3 | [2 AM](https://open.spotify.com/track/6PKMX2o7DpKxzYzOIe3X2N) | [Scarlett Andrews](https://open.spotify.com/artist/39ky4XqnjvrS5skDUYtY6e) | [2 AM](https://open.spotify.com/album/0f6eQ2noaLlhlNz79OEJNh) | 2:30 |
 | 4 | [Slowmotion](https://open.spotify.com/track/0GInEofWVz8a4SO3SggXM0) | [Kaylo](https://open.spotify.com/artist/7LRCIo7aZ4je1e4DssqBzR) | [Slowmotion](https://open.spotify.com/album/2LY2SOr9LunqUDqfxrIQc4) | 3:17 |
-| 5 | [Hela himlen lyste](https://open.spotify.com/track/4WENggYkDCNwIW59mkMUWm) | [Dan Rosengren](https://open.spotify.com/artist/1NLQv5YylGh7WZj7Ew6lPi) | [Hela himlen lyste \- gott nytt år](https://open.spotify.com/album/3nZiVVD5IiaIMGeL8yesa9) | 3:13 |
+| 5 | [Hela himlen lyste](https://open.spotify.com/track/4WENggYkDCNwIW59mkMUWm) | [Dan Rosengren](https://open.spotify.com/artist/1NLQv5YylGh7WZj7Ew6lPi) | [Hela himlen lyste / Gott nytt år](https://open.spotify.com/album/3nZiVVD5IiaIMGeL8yesa9) | 3:13 |
 | 6 | [Tokarev](https://open.spotify.com/track/31Pa95hZfZ9QItymmIbVjc) | [Bash](https://open.spotify.com/artist/5fENfPNU8mOrF7HY7ldTmw) | [Tokarev](https://open.spotify.com/album/3MKTvZrLm1zPQWDRrXBSjH) | 2:20 |
 | 7 | [Eres Tu](https://open.spotify.com/track/2WvPpSzYHXlzruEoFCxtS2) | [Dany Krastan Sanchez](https://open.spotify.com/artist/1v935Jl9elJfiBGsmw6I4c) | [Eres Tu](https://open.spotify.com/album/6yZja5d54JSdYXgC7itTDw) | 3:58 |
 | 8 | [OnlyFans](https://open.spotify.com/track/6WcxrZYtH1F4h3yUODTqHU) | [Vauvaöljy](https://open.spotify.com/artist/3qb2xvcUHfMRVcKSi8wCH9), [FORRESTER](https://open.spotify.com/artist/4A3v0ZA50EKyGNBtEJLZA8), [Slyrre äS](https://open.spotify.com/artist/2Voska8NpMtjtBRw8UQmtl) | [OnlyFans / Tehään tää](https://open.spotify.com/album/6hn8T3lPndgiodTYioYYNT) | 3:15 |

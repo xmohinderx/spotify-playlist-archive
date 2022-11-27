@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-444 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+445 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Long Way Home](https://open.spotify.com/track/5orLqIYGR3zFg1Y044RFIC) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Kewlie](https://open.spotify.com/artist/3Nu9d1nTBjPHOfI9HccCrZ) | [Long Way Home](https://open.spotify.com/album/1Omky8JC4CVX4ibENhNJDK) | 2:04 | 2022-05-20 | 2022-06-03 |
 | [Loose Waves](https://open.spotify.com/track/1MiNU5skQjRrPIc7WC77PT) | [kanves](https://open.spotify.com/artist/6xICg0uHM8M1I8AXgZcDBy), [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [Loose Waves](https://open.spotify.com/album/4AS0cbIfDe0OKWEUFNglGx) | 2:06 | 2022-11-25 |  |
 | [Lost in Rio](https://open.spotify.com/track/0Zxq7f36EGiRX56FRj64wA) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [Lost in Rio](https://open.spotify.com/album/0cqzGd9WAqOckWYrGjlFBD) | 1:53 | 2022-06-24 | 2022-08-19 |
-| [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 | 2022-05-20 |  |
+| [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 | 2022-05-20 | 2022-11-27 |
+| [Low Key](https://open.spotify.com/track/7C1RaJ1b2WKJZq9Bvrgctj) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Koi Pond, Vol\. 2](https://open.spotify.com/album/4BhevKS4gtXsEUwoyB54ku) | 2:35 | 2022-11-25 |  |
 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 | 2022-05-20 |  |
 | [Lucy Goosey](https://open.spotify.com/track/5Qnot7dFk2OguRXGOzG3rN) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Pink Lemonade](https://open.spotify.com/album/2Hl7QyBwj65cFqpWBhgcSm) | 1:30 | 2022-05-20 |  |
 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 | 2022-05-20 |  |

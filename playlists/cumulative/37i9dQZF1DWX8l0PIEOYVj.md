@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Awakend.
 
-280 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+281 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-08 | 2022-09-05 |
 | [Pseudo Love](https://open.spotify.com/track/4KUIJ07yRdDJ10yIZitoHs) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Pseudo Love](https://open.spotify.com/album/4w5OSMGUJ2HWoOiwtIsjpJ) | 3:04 | 2022-07-08 | 2022-08-30 |
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-07-08 |  |
-| [Reach Across the Sky](https://open.spotify.com/track/6ocYRs6L5GSEOMlveJg5LA) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Reach Across the Sky](https://open.spotify.com/album/3m44f4eq8s3vWty22nJhtB) | 3:22 | 2022-08-12 |  |
+| [Reach Across the Sky](https://open.spotify.com/track/6ocYRs6L5GSEOMlveJg5LA) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Reach Across the Sky](https://open.spotify.com/album/3m44f4eq8s3vWty22nJhtB) | 3:22 | 2022-08-12 | 2022-11-27 |
 | [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 |  |
 | [Remember](https://open.spotify.com/track/3kouAggxGgCP6xqAsztwrA) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Remember](https://open.spotify.com/album/6hbHTPEuTXHAq4eozGLw9y) | 3:07 | 2022-07-08 | 2022-10-01 |
 | [Returning To You \(feat\. Alison May\)](https://open.spotify.com/track/6IzwNz9jjHpvEqWmyLYUXa) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Returning To You \(feat\. Alison May\)](https://open.spotify.com/album/1kgjUVyQE2RmvsT6hRLCHG) | 5:01 | 2022-07-08 | 2022-08-06 |
@@ -260,6 +260,7 @@
 | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O) | 3:52 | 2022-07-08 |  |
 | [This Feeling \(feat\. Britt Lari\)](https://open.spotify.com/track/1eZKh4L2bIPxrWIOf9NUUw) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [This Feeling \(feat\. Britt Lari\)](https://open.spotify.com/album/10VceQKEFDIcUfaIhzxfeG) | 2:56 | 2022-09-02 |  |
 | [Tides](https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Tides](https://open.spotify.com/album/6F39Vxaf4xtK02FL8DQ2Vj) | 4:27 | 2022-07-08 |  |
+| [To Another World](https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [To Another World](https://open.spotify.com/album/4ymZf7MngtqVCgpiaHwu8P) | 4:11 | 2022-11-18 |  |
 | [Treading Water](https://open.spotify.com/track/4cv3Hq71572CK731yfAVB0) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Treading Water](https://open.spotify.com/album/272T5Er6qPGusHv42ZcmEW) | 3:33 | 2022-07-08 | 2022-07-29 |
 | [Treading Water](https://open.spotify.com/track/4iQnJ1nbzIqRirVI1Q2ig8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:33 | 2022-07-29 |  |
 | [Treading Water](https://open.spotify.com/track/7vQb9oBfIo2q8IggQ4Bkjy) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:33 | 2022-07-08 | 2022-08-04 |

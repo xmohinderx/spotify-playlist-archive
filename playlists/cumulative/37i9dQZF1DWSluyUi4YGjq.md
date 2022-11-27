@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
 
-211 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+212 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Autopilot Paradise](https://open.spotify.com/track/0dj2Uv200jKLhbukIVVSqn) | [Lemonade Shoelace](https://open.spotify.com/artist/72gHreLHpaDQdue2ON7snF) | [Autopilot Paradise](https://open.spotify.com/album/6txXTab3aLAy2ypXvXtoDu) | 4:54 | 2022-10-05 | 2022-10-28 |
 | [Avec Lui](https://open.spotify.com/track/4zWpQKHzdbGNkRP00xAIbe) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/61LPJuFRFHtLf0rily6iKz) | [Balloons of Memories](https://open.spotify.com/album/0fUR7LZcSVYO8nDywl12Z9) | 5:14 | 2022-03-03 | 2022-07-26 |
 | [Ayisha Abyss](https://open.spotify.com/track/4372hjN43SwPpKhQWvRuXI) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 7:46 | 2021-10-19 | 2022-07-26 |
-| [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-29 |  |
+| [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 | 2022-09-29 |  |
+| [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-29 | 2022-11-27 |
 | [Billy](https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Billy](https://open.spotify.com/album/17d1NM1uI3Bg9fhijXz7jZ) | 3:48 | 2022-03-04 | 2022-09-10 |
 | [Blank](https://open.spotify.com/track/0GlxeLd0z8FFsTFyIAyB1X) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/1ZMLm0d2t919CO7VnSpyQC) | 3:36 | 2021-10-19 | 2022-07-28 |
 | [Blank](https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2) | 3:36 | 2021-10-19 |  |

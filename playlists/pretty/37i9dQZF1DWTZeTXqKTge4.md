@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Rymz
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,662 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,665 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 3 | [Fruit défendu](https://open.spotify.com/track/4dS3ZuMB8PBN0y5nOdQRKN) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Fruit défendu](https://open.spotify.com/album/46hTeni6rzDZApaurPprXj) | 3:22 |
 | 4 | [Allo c’est qui?](https://open.spotify.com/track/7JvS9AEXvNPsouhhVECNeZ) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Allo c’est qui?](https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz) | 2:49 |
 | 5 | [Parano](https://open.spotify.com/track/2AnTFTKE7QOUr2WjM3pTkv) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Parano](https://open.spotify.com/album/3qb6T7Z6ZaMnm8WLQw9viK) | 2:50 |
-| 6 | [Thriomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 |
+| 6 | [Triomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 |
 | 7 | [Efforts](https://open.spotify.com/track/3ySHy6KrvjBZ6W5IHervID) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Efforts](https://open.spotify.com/album/2325ZxMTjn2qOJjbXmkXjn) | 3:57 |
 | 8 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 |
 | 9 | [3.5](https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:44 |

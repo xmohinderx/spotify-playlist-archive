@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: Anuel AA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,639 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,761 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 94 | [Baby Drip](https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Baby Drip](https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d) | 3:22 |
 | 95 | [Antonio](https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Antonio](https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR) | 2:38 |
 | 96 | [GOTIKA](https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [GOTIKA](https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0) | 3:02 |
-| 97 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 |
-| 98 | [Royal Medellin](https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw), [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj) | [Royal Medellin](https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU) | 3:18 |
-| 99 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 |
-| 100 | [Payaso](https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Los Favoritos 2](https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME) | 3:08 |
+| 97 | [Payaso](https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Los Favoritos 2](https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME) | 3:08 |
+| 98 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 |
+| 99 | [Royal Medellin](https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw), [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj) | [Royal Medellin](https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU) | 3:18 |
+| 100 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMGQ5N2Y4MjIzZjllMDBlMGRmMDM4NDBmOTk5ZjA1ODQ2`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDNlZTY4YTgzYzc5YzdlNjI4MDNhYjc3NTJlMGEwNWMw`

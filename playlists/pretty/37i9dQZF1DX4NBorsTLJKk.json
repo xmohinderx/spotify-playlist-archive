@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 28535,
+  "num_followers": 28543,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM0NzE5NywwMDAwMDAwMGZhZjhiMTc3NmMwMTY0YTdkNmIwODU1YTViZDliYTY1",
+  "snapshot_id": "MTY2MjM0NzE5NywwMDAwMDAwMDJlNTMyNDk5Y2FmZjkzMzAzMjZiMjVmMWFkMTc3Njdl",
   "tracks": [
     {
       "added_at": "2022-09-05 03:06:37",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u6709\u5f62\u7684\u7fc5\u8180",
-        "url": "https://open.spotify.com/album/7mItsCAesKNwqLuO1R7AYM"
-      },
-      "artists": [
-        {
-          "name": "Angela Chang",
-          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "That girl",
-      "url": "https://open.spotify.com/track/0FRq4baOBB6AYt22dxbU3Y"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u98db\u884c\u90e8\u843d",
         "url": "https://open.spotify.com/album/4QUDMVhCj9fDvJSyiXzZNy"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 271640,
       "name": "\u96e8\u6afb\u82b1",
       "url": "https://open.spotify.com/track/3ZxKUt8nudvrJbUvX0haHJ"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u6709\u5f62\u7684\u7fc5\u8180",
+        "url": "https://open.spotify.com/album/7mItsCAesKNwqLuO1R7AYM"
+      },
+      "artists": [
+        {
+          "name": "Angela Chang",
+          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "That girl",
+      "url": "https://open.spotify.com/track/0FRq4baOBB6AYt22dxbU3Y"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u6642\u9593\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 289524,
-      "name": "\u96e8\u6c34\u4e00\u76d2",
-      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u611b\u60c5\u842c\u6b72",
         "url": "https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 222773,
       "name": "\u96e8\u7720",
       "url": "https://open.spotify.com/track/0OHFcsAAtCgTiZTRsFSsQo"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u6642\u9593\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 289524,
+      "name": "\u96e8\u6c34\u4e00\u76d2",
+      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
-        "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
-      },
-      "artists": [
-        {
-          "name": "Dave Wong",
-          "url": "https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
-      "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u96e8\u5929\u3002\u65e5\u8a18",
         "url": "https://open.spotify.com/album/4BxdNZfGVvZsdse48Ieyd8"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 219115,
       "name": "\u540c\u4e00\u500b\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/3hfhrCKA37Rq0wEPR8F8H6"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
+        "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
+      },
+      "artists": [
+        {
+          "name": "Dave Wong",
+          "url": "https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
+      "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
+        "name": "\u96e8\u4f60",
+        "url": "https://open.spotify.com/album/15kyCeWOWRYoO49SUu5SmC"
+      },
+      "artists": [
+        {
+          "name": "PiA",
+          "url": "https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD"
+        },
+        {
+          "name": "Kin Lee",
+          "url": "https://open.spotify.com/artist/0IC9cjThGaA7tg8teGugWN"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "\u96e8\u4f60",
+      "url": "https://open.spotify.com/track/49Wr8GLOfs9lviBkR9rbQH"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
         "name": "\u600e\u6a23",
         "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
       },
@@ -1171,22 +1191,6 @@
       "duration_ms": 200333,
       "name": "\u96e8\u548c\u592a\u967d",
       "url": "https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
-        "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
-      },
-      "artists": [
-        {
-          "name": "\u6642\u5149\u8857\u6a02\u968a",
-          "url": "https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D"
-        }
-      ],
-      "duration_ms": 264834,
-      "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
     },
     {
       "added_at": "2022-09-05 03:06:37",

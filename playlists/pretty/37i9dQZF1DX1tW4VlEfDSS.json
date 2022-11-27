@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 333969,
+  "num_followers": 334024,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDdhZWFjNzFiNzNmZDc0YTA5MTA0ZDcxYWQ3MjcxZjll",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDNlZTNmNWNlYjRhNTJiYTFiNjEzNzAyNjIwNTBiNWE0",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "50//50",
-        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 129059,
-      "name": "50//50 - Edit",
-      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 175413,
       "name": "My House",
       "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "50//50",
+        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 129059,
+      "name": "50//50 - Edit",
+      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
       },
       "artists": [
         {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        },
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
         }
       ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
+      "duration_ms": 240000,
+      "name": "On My Mind - Radio Mix",
+      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1063,22 +1059,6 @@
       "duration_ms": 182950,
       "name": "Ghetto Rock",
       "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
-      },
-      "artists": [
-        {
-          "name": "Sandy's Groove",
-          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "On My Mind - Radio Mix",
-      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1103,22 +1083,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "31 Minutes of Relaxing ASMR",
-        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 275131,
-      "name": "Chilli Heatwave",
-      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Lover 4 Now (feat. Todd Edwards) [Edit]",
         "url": "https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa"
       },
@@ -1135,6 +1099,42 @@
       "duration_ms": 202051,
       "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
       "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "31 Minutes of Relaxing ASMR",
+        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 275131,
+      "name": "Chilli Heatwave",
+      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "What's Your World (feat. Gloria Ann Taylor)",
+        "url": "https://open.spotify.com/album/0B1JIgirhhCL0onK0olkc0"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Gloria Ann Taylor",
+          "url": "https://open.spotify.com/artist/1xpBuU9oUPQIYw2bP0XOu8"
+        }
+      ],
+      "duration_ms": 273230,
+      "name": "What's Your World (feat. Gloria Ann Taylor)",
+      "url": "https://open.spotify.com/track/7ir78RK7dikfhptUV0S6kC"
     }
   ],
   "unique_name": "Groove Theory",

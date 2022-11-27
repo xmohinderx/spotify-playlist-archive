@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 18405,
+  "num_followers": 18452,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDU0OTNjMmViY2JjYmExZGQxYTE0M2E2YmIwN2FkZGRl",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDhlODk4MzQzMTM1MjhhMDVlODFkYzc3OTlmZGU1MmJh",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
         "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 228461,
       "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
       "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "DEL Radio Hits",
-        "url": "https://open.spotify.com/album/6JfZlJcAONas9blriHdP2Z"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/0EjoMMcirolTueVdrvQb5H"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Ya Me Vi",
         "url": "https://open.spotify.com/album/2yj7jiUObCnbAmUZJroe25"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 173466,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/4UtJrHKSZuylqpx5DQlUCb"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "DEL Radio Hits",
+        "url": "https://open.spotify.com/album/6JfZlJcAONas9blriHdP2Z"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/0EjoMMcirolTueVdrvQb5H"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Mi Flaca",
-        "url": "https://open.spotify.com/album/6ER067IaW5l1r0vmvzefpq"
-      },
-      "artists": [
-        {
-          "name": "Elebier Lopez",
-          "url": "https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r"
-        }
-      ],
-      "duration_ms": 147078,
-      "name": "Mi Flaca",
-      "url": "https://open.spotify.com/track/1IZkTeEnEeUHbZDUqN6yOi"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Ya Me Vi",
         "url": "https://open.spotify.com/album/2yj7jiUObCnbAmUZJroe25"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 171586,
       "name": "Ya Me Vi",
       "url": "https://open.spotify.com/track/4KutOSvfb2MFvR0ROX4jtS"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Mi Flaca",
+        "url": "https://open.spotify.com/album/6ER067IaW5l1r0vmvzefpq"
+      },
+      "artists": [
+        {
+          "name": "Elebier Lopez",
+          "url": "https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r"
+        }
+      ],
+      "duration_ms": 147078,
+      "name": "Mi Flaca",
+      "url": "https://open.spotify.com/track/1IZkTeEnEeUHbZDUqN6yOi"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1611,18 +1611,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Busc\u00e1bamos Lo Mismo",
-        "url": "https://open.spotify.com/album/3yQFeFQ1mX2hp7kM6J2SBK"
+        "name": "En Vivo Desde El Rancho San Vicente",
+        "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 169300,
-      "name": "Busc\u00e1bamos Lo Mismo",
-      "url": "https://open.spotify.com/track/17V8HXbGIOST1So1Xsubox"
+      "duration_ms": 225666,
+      "name": "Me Gustas - Live",
+      "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1643,22 +1647,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "En Vivo Desde El Rancho San Vicente",
-        "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
+        "name": "Busc\u00e1bamos Lo Mismo",
+        "url": "https://open.spotify.com/album/3yQFeFQ1mX2hp7kM6J2SBK"
       },
       "artists": [
         {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Me Gustas - Live",
-      "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
+      "duration_ms": 169300,
+      "name": "Busc\u00e1bamos Lo Mismo",
+      "url": "https://open.spotify.com/track/17V8HXbGIOST1So1Xsubox"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6tsoBcgT99Kb4DvjI8Pnlv"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "10+10",
         "url": "https://open.spotify.com/album/6v6mwOBX5lbL9XTPqKFivJ"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 214093,
       "name": "Broche de Oro",
       "url": "https://open.spotify.com/track/1TLyjsg5KO501z8CBgxaHl"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6tsoBcgT99Kb4DvjI8Pnlv"
     },
     {
       "added_at": "2022-02-11 20:24:54",

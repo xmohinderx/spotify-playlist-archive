@@ -4,7 +4,7 @@
 
 > A collection of the biggest soul tracks from the 1970s.
 
-153 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/1U8oAm40hMuZ5aAKe6Zzaz)
+154 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/1U8oAm40hMuZ5aAKe6Zzaz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Rock Your Baby](https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv) | 3:19 | 2021-02-05 | 2022-07-29 |
 | [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 | 2022-02-04 |  |
 | [Rock Your Baby](https://open.spotify.com/track/2RjGcQcwjK8vaEDYG5X1hN) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [70s Power Hits](https://open.spotify.com/album/0DttnmmvDLLg4068gJdIMo) | 3:20 | 2022-02-04 | 2022-11-13 |
-| [Shame, Shame, Shame](https://open.spotify.com/track/1cdRKJlpHp273rwdqMRLOr) | [Linda Fields](https://open.spotify.com/artist/3PKRTSpBoqD2cYZUVLoHHM), [The Funky Boys](https://open.spotify.com/artist/0mwghURWCYzH6aLPH2xqwZ) | [70s Gems](https://open.spotify.com/album/2qlmtkBLyoBDkGRVcKh00D) | 3:58 | 2021-02-05 |  |
+| [Shame, Shame, Shame](https://open.spotify.com/track/1omsOCgn46ZJ2UfK84qheK) | [Linda Fields](https://open.spotify.com/artist/3PKRTSpBoqD2cYZUVLoHHM), [Funky Boys](https://open.spotify.com/artist/028zxw8cFIPpjGg6BEn86e) | [Super 20 \- Discoparty](https://open.spotify.com/album/2pGLHCFQ88rB92jw0pWlz7) | 3:57 | 2022-02-04 |  |
+| [Shame, Shame, Shame](https://open.spotify.com/track/1cdRKJlpHp273rwdqMRLOr) | [Linda Fields](https://open.spotify.com/artist/3PKRTSpBoqD2cYZUVLoHHM), [The Funky Boys](https://open.spotify.com/artist/0mwghURWCYzH6aLPH2xqwZ) | [70s Gems](https://open.spotify.com/album/2qlmtkBLyoBDkGRVcKh00D) | 3:58 | 2021-02-05 | 2022-11-27 |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/3M5eeHXgG4VplKNcsBC8Dj) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed Sealed And Delivered](https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe) | 2:40 | 2021-02-05 | 2022-07-29 |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/0WkCHrW46zgLcI4WBW0fH6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Kids Songs: Family Day!](https://open.spotify.com/album/5s7nQXAAXWUZiIkyniCb2T) | 2:40 | 2022-02-04 | 2022-11-13 |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 | 2022-02-04 |  |

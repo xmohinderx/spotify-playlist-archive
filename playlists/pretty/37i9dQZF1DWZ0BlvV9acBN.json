@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
-  "num_followers": 109209,
+  "num_followers": 109252,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NDkxNywwMDAwMDAwMDg1NmE0ZWJkYzJiMWViMmU3ZTAyYzYxYzI1ZmM1N2Jm",
+  "snapshot_id": "MTY2OTM1NDkxNywwMDAwMDAwMGYxM2RjYWUzMWVlNWQwMmQxNDAwMWRhZWMyZDFlZjlm",
   "tracks": [
     {
       "added_at": "2022-11-25 05:41:57",
@@ -563,6 +563,26 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
+        "name": "O Que Me Espera",
+        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        }
+      ],
+      "duration_ms": 221805,
+      "name": "O Que Me Espera",
+      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
         "name": "A Porta (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
       },
@@ -575,6 +595,22 @@
       "duration_ms": 191569,
       "name": "A Porta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -599,22 +635,6 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -667,22 +687,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Uma Carta de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ramos",
-          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
-        }
-      ],
-      "duration_ms": 231874,
-      "name": "Uma Carta de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
       },
@@ -699,6 +703,22 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
+        "name": "Uma Carta de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ramos",
+          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
+        }
+      ],
+      "duration_ms": 231874,
+      "name": "Uma Carta de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -711,22 +731,6 @@
       "duration_ms": 350664,
       "name": "Sou Teu",
       "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "Sempre Foi Deus",
-        "url": "https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Sempre Foi Deus",
-      "url": "https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -751,18 +755,18 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "LIVE",
-        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
+        "name": "Sempre Foi Deus",
+        "url": "https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX"
       },
       "artists": [
         {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 353791,
-      "name": "Hoje Tem Cor",
-      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
+      "duration_ms": 205479,
+      "name": "Sempre Foi Deus",
+      "url": "https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -795,6 +799,22 @@
       "duration_ms": 244457,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
+      },
+      "artists": [
+        {
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+        }
+      ],
+      "duration_ms": 353791,
+      "name": "Hoje Tem Cor",
+      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -895,6 +915,22 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
+        "name": "Meu Valor",
+        "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Meu Valor",
+      "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
         "name": "Louco (feat. PG)",
         "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
       },
@@ -911,22 +947,6 @@
       "duration_ms": 309383,
       "name": "Louco (feat. PG)",
       "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "Meu Valor",
-        "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Meu Valor",
-      "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -1083,6 +1103,26 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
+        "name": "Trindade",
+        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
+      },
+      "artists": [
+        {
+          "name": "Luzlive",
+          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
+        },
+        {
+          "name": "Arthur Lemos",
+          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
+        }
+      ],
+      "duration_ms": 769852,
+      "name": "Trindade",
+      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
         "name": "Tudo Muda Com Voc\u00ea",
         "url": "https://open.spotify.com/album/72sIaqNgznTJCbLOSXMncf"
       },
@@ -1115,46 +1155,6 @@
       "duration_ms": 279914,
       "name": "\u00danica Paz",
       "url": "https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "O Que Me Espera",
-        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        }
-      ],
-      "duration_ms": 221805,
-      "name": "O Que Me Espera",
-      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "Trindade",
-        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
-      },
-      "artists": [
-        {
-          "name": "Luzlive",
-          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
-        },
-        {
-          "name": "Arthur Lemos",
-          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
-        }
-      ],
-      "duration_ms": 769852,
-      "name": "Trindade",
-      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
     },
     {
       "added_at": "2022-11-25 05:41:57",

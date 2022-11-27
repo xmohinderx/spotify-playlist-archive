@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,499 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,508 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 28 | [Miriam \(Boys Noize Remix\)](https://open.spotify.com/track/0fBsv2OqTtSOLbmERgQplq) | [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1), [Boys Noize](https://open.spotify.com/artist/7tDrdr1lQRGzkEXBJZfOsr) | [Miriam \(Remixes\)](https://open.spotify.com/album/0TiaAbYboWjgIL6sM6UCpt) | 5:46 |
 | 29 | [Reboot Robot](https://open.spotify.com/track/7qAGC7jii13qBOYPjRai5C) | [Endrik Schroeder](https://open.spotify.com/artist/36iWQyhQMf8sGugNrftuxl) | [Reboot Robot](https://open.spotify.com/album/7FQuk7m3CURJxlgQc5zNqq) | 6:44 |
 | 30 | [Hiccups \(Roman Flügel Elektro House Mix\)](https://open.spotify.com/track/35B7ih8h4sSM0ZaasMUc81) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM), [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Hiccups \(Roman Flügel Remixes\)](https://open.spotify.com/album/0nXyRqnt3TG8tBUmFkhgRN) | 4:44 |
-| 31 | [Ride the Night](https://open.spotify.com/track/6QDDTgfMMVfQ49wd2vJ4aR) | [Baldo](https://open.spotify.com/artist/2ulW03wAmCBxG33AbeR4rX) | [Saturdays Come and Gone](https://open.spotify.com/album/7J0wW0yzlWpDxp5eUJSESF) | 5:30 |
+| 31 | [Ride the Night](https://open.spotify.com/track/6QDDTgfMMVfQ49wd2vJ4aR) | [Baldo](https://open.spotify.com/artist/4v335SBw5WxgrqJZCl4VWL) | [Saturdays Come and Gone](https://open.spotify.com/album/7J0wW0yzlWpDxp5eUJSESF) | 5:30 |
 | 32 | [Would You Believe \- Alan Dixon Love Attack Remix](https://open.spotify.com/track/583ejSEjyGEZOGbcWdAToe) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Would You Believe \(Alan Dixon Remixes\)](https://open.spotify.com/album/2mwxtqg1IVFwoNnXIH4sbM) | 7:37 |
 | 33 | [Muzyka](https://open.spotify.com/track/6kfKsypxfUJzqXAI2zHfce) | [Digital Ivan](https://open.spotify.com/artist/66NbLUZCOs9T2Tr47b5mTe) | [Muzyka](https://open.spotify.com/album/5ZNfvvpLGecLxciuEHcUDZ) | 3:48 |
 | 34 | [Blind Vision \- Honey Dijon Remix](https://open.spotify.com/track/7KPKRrgO68c2Zb5e4YPm3V) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Blind Vision \(Honey Dijon Remixes\)](https://open.spotify.com/album/6NrmYAnJz4GHeMDf3mgo2l) | 6:05 |

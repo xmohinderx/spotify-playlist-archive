@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDFmMTc0ZGQ2MmJhNTBlYjNmOGVmYmM0YTNiYWI4MWRl",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDliYTM3NzYzOGJkM2VjNmE2MmRlZGVjOWQ4ODgyYTE2",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Save Tonight",
-        "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
+        "name": "Montrose Ave",
+        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
       },
       "artists": [
         {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
         }
       ],
-      "duration_ms": 198159,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
+      "duration_ms": 173320,
+      "name": "Montrose Ave",
+      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -219,18 +219,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Montrose Ave",
-        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
+        "name": "Save Tonight",
+        "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
       },
       "artists": [
         {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Montrose Ave",
-      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
+      "duration_ms": 198159,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Love Me (Don't Worry)",
         "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 162000,
       "name": "Love Me (Don't Worry)",
       "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
-      },
-      "artists": [
-        {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
-        }
-      ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
-      },
-      "artists": [
-        {
-          "name": "Vivaldi Verdes",
-          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
-        }
-      ],
-      "duration_ms": 235549,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 234510,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
+      },
+      "artists": [
+        {
+          "name": "Vivaldi Verdes",
+          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
+        }
+      ],
+      "duration_ms": 235549,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
     },
     {
       "added_at": "2021-08-05 09:09:59",

@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 197486,
       "name": "BMM (Bo\u017e\u00ed Ml\u00fdny Melou)",
       "url": "https://open.spotify.com/track/2GrTaxwoOtDi9qd4fJ8Ha7"
@@ -3357,7 +3357,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 181523,
       "name": "Co Ty O\u010di??",
       "url": "https://open.spotify.com/track/34glv1y1WLPdKbJK28ky5u"
@@ -4685,7 +4685,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 267306,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/3tAQNhm1o0kzldsI5QkrB1"
@@ -6978,6 +6978,32 @@
     },
     {
       "album": {
+        "name": "Ghetto Maradona",
+        "url": "https://open.spotify.com/album/0EBLG7BBoWm2l80hpbotCo"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Tristan. Hoodrich",
+          "url": "https://open.spotify.com/artist/4r2hba3erBi40QxuwX0sKv"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187012,
+      "name": "Hore Dole",
+      "url": "https://open.spotify.com/track/4oJ81DM4gfFeHhjG9bm5OO"
+    },
+    {
+      "album": {
         "name": "PROTOTYPES",
         "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
       },
@@ -7572,6 +7598,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Maradona",
+        "url": "https://open.spotify.com/album/0EBLG7BBoWm2l80hpbotCo"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Tristan. Hoodrich",
+          "url": "https://open.spotify.com/artist/4r2hba3erBi40QxuwX0sKv"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97500,
+      "name": "Iba Rok (Intro)",
+      "url": "https://open.spotify.com/track/1PkN1lIjFaF0l2XfNcKRZ9"
+    },
+    {
+      "album": {
         "name": "KIDDO",
         "url": "https://open.spotify.com/album/036jbGqJpM86f55jwfNmVp"
       },
@@ -7903,7 +7951,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -13427,7 +13475,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 246317,
       "name": "Pedal To The Metal",
       "url": "https://open.spotify.com/track/2m8hvKGssw23ivGPJtoc2s"
@@ -14359,6 +14407,28 @@
       "duration_ms": 145670,
       "name": "R.G",
       "url": "https://open.spotify.com/track/7H5nBVXlJThYCQyUr7MupZ"
+    },
+    {
+      "album": {
+        "name": "Raise Your Hands High",
+        "url": "https://open.spotify.com/album/7gUtLxGWjeqz4qSEZBeCGZ"
+      },
+      "artists": [
+        {
+          "name": "KACHI88",
+          "url": "https://open.spotify.com/artist/23rSjQQ3FDVVzRLPBiDOnV"
+        },
+        {
+          "name": "Phil Phauler",
+          "url": "https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Raise Your Hands High",
+      "url": "https://open.spotify.com/track/2UKsqNt5CrtO6hbHWFH4p7"
     },
     {
       "album": {
@@ -15347,6 +15417,32 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Ghetto Maradona",
+        "url": "https://open.spotify.com/album/0EBLG7BBoWm2l80hpbotCo"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Tristan. Hoodrich",
+          "url": "https://open.spotify.com/artist/4r2hba3erBi40QxuwX0sKv"
+        },
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228874,
+      "name": "Scam",
+      "url": "https://open.spotify.com/track/6X9wJ7rTc45kAKQjaSb1F4"
     },
     {
       "album": {

@@ -648,6 +648,48 @@
     },
     {
       "album": {
+        "name": "John Cage: Litany for the Whale",
+        "url": "https://open.spotify.com/album/7M1mQHS6iSTph4jEyYupNw"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Theatre Of Voices",
+          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
+        },
+        {
+          "name": "Alan Bennett",
+          "url": "https://open.spotify.com/artist/3D8I281fLMVQyllXYZQ2NV"
+        },
+        {
+          "name": "Andrea Fullington",
+          "url": "https://open.spotify.com/artist/6EJJnZgExJa0WXQ1nqEg92"
+        },
+        {
+          "name": "Paul Eliott",
+          "url": "https://open.spotify.com/artist/41SQcY8GbLRL5qUy6G1OmH"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304040,
+      "name": "Five (Five Voices)",
+      "url": "https://open.spotify.com/track/7CG0K8qonZE6Sl0WFp9CSP"
+    },
+    {
+      "album": {
         "name": "Way Out Yonder",
         "url": "https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7"
       },
@@ -1745,7 +1787,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 214626,
       "name": "Spirit of Peace: Part I.",
       "url": "https://open.spotify.com/track/0hh4neHwvdZK7jB4yobBoX"
@@ -1803,7 +1845,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 150213,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/3aJIumuPZqaew8jF6Fy3vu"
@@ -1931,7 +1973,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 1293666,
       "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
       "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"

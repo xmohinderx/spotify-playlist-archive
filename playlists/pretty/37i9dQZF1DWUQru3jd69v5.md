@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Mikush
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,423 likes - 61 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,439 likes - 61 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 38 | [Pegaso](https://open.spotify.com/track/5nAczxA6dirSZLz2X0YfUK) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [RETINA](https://open.spotify.com/album/4f5Jr2DIoPsQP2K8DCLQhJ) | 2:08 |
 | 39 | [Dejavu](https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Dejavu](https://open.spotify.com/album/5qEPyzaTjIr9HRisws1uFm) | 2:47 |
 | 40 | [Dentro al Bar](https://open.spotify.com/track/6wYWFs2ygLGxV1QtmUHk75) | [Young Rame](https://open.spotify.com/artist/2Nl7TO1yi0ambHrlfQORgv) | [Dentro al Bar](https://open.spotify.com/album/0WDEpncEod2RsyK8It5agI) | 2:43 |
-| 41 | [DMA](https://open.spotify.com/track/0uUxjYjWWbdd6UK164i8zY) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DMA](https://open.spotify.com/album/7lItNMUBNZ7lb0cNvsmlci) | 3:00 |
+| 41 | [DMA](https://open.spotify.com/track/0uUxjYjWWbdd6UK164i8zY) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DMA](https://open.spotify.com/album/7lItNMUBNZ7lb0cNvsmlci) | 2:57 |
 | 42 | [70 Chiamate](https://open.spotify.com/track/17Oog1A2D5j3HEXupcGe5M) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [70 Chiamate](https://open.spotify.com/album/14Wtuq5TjzYRdEj0JAKXtb) | 2:17 |
 | 43 | [DEM \(feat\. Artie 5ive & Tony Boy\)](https://open.spotify.com/track/3jjbcGwL3YqNVbWcmzjMPa) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [DEM \(feat\. Artie 5ive & Tony Boy\)](https://open.spotify.com/album/6badmRXuo59oBsLqrrimT6) | 3:32 |
 | 44 | [Birthday Song](https://open.spotify.com/track/6eYI2bdb4wbw60hYQsFAYg) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [Birthday Song](https://open.spotify.com/album/4hTjDk6RK1rFxF1QS4Nk5l) | 2:07 |

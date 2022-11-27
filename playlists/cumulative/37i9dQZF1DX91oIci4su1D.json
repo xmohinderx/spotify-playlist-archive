@@ -4198,6 +4198,36 @@
     },
     {
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/2ls0TXNifka7qGpGDw4NQk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Robbie Seed",
+          "url": "https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll"
+        },
+        {
+          "name": "Jimmy Chou",
+          "url": "https://open.spotify.com/artist/6btaXnQC9Dn7HpqVderpBh"
+        },
+        {
+          "name": "That Girl",
+          "url": "https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/4AifoTYNwGoMgHsF9ulTiP"
+    },
+    {
+      "album": {
         "name": "I Would Do Anything",
         "url": "https://open.spotify.com/album/3wcIiLt3BYE8vY6y61Irfx"
       },
@@ -7965,7 +7995,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 246956,
       "name": "Seasons Will Change",
       "url": "https://open.spotify.com/track/5Hu4zGdnLQ3sFyqmS1jDq1"

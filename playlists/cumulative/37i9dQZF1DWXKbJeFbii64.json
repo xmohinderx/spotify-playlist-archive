@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Sturm am Abend",
+        "url": "https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl"
+      },
+      "artists": [
+        {
+          "name": "Stormy Zeus",
+          "url": "https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141920,
+      "name": "Sturm am Abend",
+      "url": "https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA"
+    },
+    {
+      "album": {
         "name": "Wilder Regen",
         "url": "https://open.spotify.com/album/0cNgvFON65mdd39nfornb9"
       },
@@ -953,7 +971,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 218000,
       "name": "Thunder In The Night",
       "url": "https://open.spotify.com/track/1LbrOh8zHb6VRNJLQi8HmK"

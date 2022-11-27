@@ -2064,6 +2064,24 @@
     },
     {
       "album": {
+        "name": "Haga Naasany",
+        "url": "https://open.spotify.com/album/0Aq7E0AuGJDU9d5CHnkURs"
+      },
+      "artists": [
+        {
+          "name": "Gohary",
+          "url": "https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Haga Naasany",
+      "url": "https://open.spotify.com/track/7tkZdE2LLr0Fj9a01pDoLE"
+    },
+    {
+      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd"
       },
@@ -3489,7 +3507,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 213616,
       "name": "Mazar",
       "url": "https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP"

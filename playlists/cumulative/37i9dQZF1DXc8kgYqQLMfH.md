@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-752 songs - 1 day 4 hr 19 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+753 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [It's all Happening](https://open.spotify.com/track/7vaLupBut9f0QwJ1tWNl9N) | [Diggy Downs](https://open.spotify.com/artist/30rMHC24zZrcdUcCHUojER) | [It's all Happening](https://open.spotify.com/album/1FXDxQlH8LELRw9S8GWNfW) | 2:10 | 2021-11-10 | 2022-10-08 |
 | [it's messed up right?](https://open.spotify.com/track/5lxMPRkYu1S9q9lbjMBRFU) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [it's messed up right?](https://open.spotify.com/album/3qmUmUngnxffiEzP215rFo) | 2:10 | 2022-01-27 |  |
 | [it\_s less dangerous](https://open.spotify.com/track/0mAlO6oD3KSyJwOQoD11qx) | [glenn.](https://open.spotify.com/artist/1HUH0vZwspa4HklgpxO99o) | [Friday Love](https://open.spotify.com/album/73BMGhkiLcIx71RAVqH7hE) | 1:44 | 2022-04-08 |  |
-| [Jazz Notes](https://open.spotify.com/track/53r5ab959W328twV4P5p9v) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/08I5CwGgfg1AlXgTz19mkd) | 2:29 | 2022-06-03 |  |
+| [Jazz Notes](https://open.spotify.com/track/1586Yd50L4n7EIp3Mhg8mh) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/1Afni32J8Jk4PgeEX0GrJ7) | 2:29 | 2022-11-25 |  |
+| [Jazz Notes](https://open.spotify.com/track/53r5ab959W328twV4P5p9v) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/08I5CwGgfg1AlXgTz19mkd) | 2:29 | 2022-06-03 | 2022-11-27 |
 | [Jenas](https://open.spotify.com/track/0XkQ0VrK0QGOn9wGiHVwi6) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Jenas](https://open.spotify.com/album/2vFTj0brF8oaVUnRt2qeFD) | 3:25 | 2021-11-10 | 2022-11-12 |
 | [Joy](https://open.spotify.com/track/04mMnql6iLjWKZRMQERc6W) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Joy](https://open.spotify.com/album/5EHuwXPclpQFfGqempcyUO) | 3:00 | 2022-04-15 |  |
 | [Joy Fever](https://open.spotify.com/track/75qMg1eAv39k3FOwMcaAsJ) | [Blue Motyl](https://open.spotify.com/artist/0xOHCFbX8RDbK6CHogBjfS) | [Joy Fever](https://open.spotify.com/album/34GqgZ2dZ2ewfyK1kIiNpA) | 1:42 | 2021-11-10 | 2022-06-03 |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-850 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+851 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [Windows](https://open.spotify.com/track/7sTubWWRJiQsGDKhxzRGuB) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Twin](https://open.spotify.com/album/08alG4ZQrDZj6mq77Jj7AJ) | 1:19 | 2022-01-12 |  |
 | [Winter Dreams](https://open.spotify.com/track/7x9qvMCDgjmTP9pbIsmJKj) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Winter Dreams](https://open.spotify.com/album/2QAa1S8RsaQ2GQwBfQPgO7) | 2:26 | 2022-01-12 |  |
 | [Winter Dreamscape](https://open.spotify.com/track/7o01Hme8cCzNcFPqUcFC7K) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:04 | 2022-02-21 |  |
+| [Winter Night Dreaming](https://open.spotify.com/track/1qwNOmRur3omktx18WaMLP) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Night Dreaming](https://open.spotify.com/album/7IARHzklJ27xLT4SanosIv) | 1:01 | 2022-11-26 |  |
 | [Winter Nights](https://open.spotify.com/track/1a66JrFqufh32uT7FGv3D6) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Seasons](https://open.spotify.com/album/336oLXBbHOoXUMlolO0knz) | 2:11 | 2022-01-12 |  |
 | [Winter Stars](https://open.spotify.com/track/3ooGiXWggJaFgHqMTsYb1V) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rising Light](https://open.spotify.com/album/0htQDvvGMdICGa3gM2Z8be) | 1:01 | 2022-04-30 |  |
 | [Winter Sunshine](https://open.spotify.com/track/3jK42lBL023nhRIzsFqIX2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:43 | 2022-01-20 |  |

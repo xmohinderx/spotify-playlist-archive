@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,331 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,410 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 47 | [Visão de Onça \- Spotify Singles](https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Visão de Onça \- Spotify Singles](https://open.spotify.com/album/068AREijgAvQQuZkiAfap3) | 2:21 |
 | 48 | [3 Marias](https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 7:25 |
 | 49 | [Comer de Verdad](https://open.spotify.com/track/0f3RqNf069JXO7UhQeuGd8) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Comer de Verdad](https://open.spotify.com/album/13lLBcDbBKzL73MaaLFYux) | 3:19 |
-| 50 | [Demasiao' Caro](https://open.spotify.com/track/09GPpjFDfjIEZvgAa6ky6d) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Relax Buay](https://open.spotify.com/artist/3BRqgBejceV380iCe3RPAq), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu), [Darnelt](https://open.spotify.com/artist/4LLUyAiSXJwDzoSCDa1q51) | [Horas Doradas](https://open.spotify.com/album/1r5mChh05I788mySNPIiqA) | 3:02 |
+| 50 | [Demasiao' Caro](https://open.spotify.com/track/09GPpjFDfjIEZvgAa6ky6d) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Relax Buay](https://open.spotify.com/artist/3BRqgBejceV380iCe3RPAq), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu), [Darnelt](https://open.spotify.com/artist/4LLUyAiSXJwDzoSCDa1q51) | [Horas Doradas](https://open.spotify.com/album/1r5mChh05I788mySNPIiqA) | 3:07 |
 | 51 | [Fugaz \(Remix\)](https://open.spotify.com/track/0EB7rtbK4bBma4lQ4718yD) | [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Fugaz \(Remix\)](https://open.spotify.com/album/7feltqh30FXYKchx7VwSbh) | 3:39 |
 
 Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDAwZTcwODcwNTRjMmM4YTgyZjEyYTc0NTQxMzQyYjk2`

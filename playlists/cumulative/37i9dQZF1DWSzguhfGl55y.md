@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-107 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
+108 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,14 @@
 | [Alles verloren](https://open.spotify.com/track/3rTyIZehMuV8fZDx3ZevRr) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [7](https://open.spotify.com/album/1Pxhd6AwPog83Ad8kuBgad) | 4:26 | 2022-03-17 | 2022-07-29 |
 | [Alles wird gut](https://open.spotify.com/track/40eME3oaBl3vfDgKDDhSlM) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Zeiten ändern dich](https://open.spotify.com/album/1Oz2G4HlbF8KFwnJ9jBB8I) | 3:38 | 2022-03-17 | 2022-07-29 |
 | [Alles wird gut](https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Zeiten ändern dich](https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF) | 3:38 | 2022-07-21 |  |
+| [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 | 2022-11-21 |  |
 | [An Tagen wie diesen](https://open.spotify.com/track/7jcxm0Ooi09u1LySzkBqm0) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/0BfeBLEou8XkxOoXC7Q9fi) | 4:01 | 2022-03-17 | 2022-11-20 |
 | [Augen auf](https://open.spotify.com/track/0Jdx7iAwxJkx0h32wZlrJ5) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/3NsFn8eVQaA9yhT3rbiqyz) | 3:50 | 2022-03-17 | 2022-07-29 |
 | [Augen auf](https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t) | 3:50 | 2022-07-21 |  |
 | [Authitenzität](https://open.spotify.com/track/0TubqhyX2cofKl4ZI8mBHL) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Yo, Picasso](https://open.spotify.com/album/0MLK80rpqaqJYH6EYp0OyH) | 3:21 | 2022-06-13 | 2022-06-26 |
 | [Bilder im Kopf](https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 3:58 | 2022-03-17 |  |
 | [Bis die Sonne rauskommt](https://open.spotify.com/track/3su7Zc3YwzJuzRRRlxXQYE) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Dis Wo Ich Herkomm](https://open.spotify.com/album/22rhzumalcslUugg4P8oBT) | 3:31 | 2022-03-17 | 2022-07-23 |
-| [Bis zum Schluss \(feat\. Silbermond\)](https://open.spotify.com/track/1MOnXaLoxHq0LESJkrwOFw) | [Curse](https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi), [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Freiheit](https://open.spotify.com/album/7MnOCaNSPVUuTq4Nykn4Pq) | 3:44 | 2022-09-21 |  |
+| [Bis zum Schluss \(feat\. Silbermond\)](https://open.spotify.com/track/1MOnXaLoxHq0LESJkrwOFw) | [Curse](https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi), [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Freiheit](https://open.spotify.com/album/7MnOCaNSPVUuTq4Nykn4Pq) | 3:44 | 2022-09-21 | 2022-11-27 |
 | [Bon Voyage \(feat\. Nina\)](https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte ziehen sie durch](https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW) | 3:24 | 2022-03-17 |  |
 | [Bossaura](https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossaura](https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM) | 6:04 | 2022-07-21 |  |
 | [Chabos wissen wer der Babo ist](https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Chabos wissen wer der Babo ist](https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T) | 2:19 | 2022-03-17 | 2022-07-29 |

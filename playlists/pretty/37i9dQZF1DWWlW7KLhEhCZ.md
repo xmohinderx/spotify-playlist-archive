@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Bielzin, Mc Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,883 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,965 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 25 | [Teto Solar](https://open.spotify.com/track/0LL0f65AL3cYEopGZYPnuC) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Teto Solar](https://open.spotify.com/album/6ft3PwbypxEq9WycNgLRGR) | 3:04 |
 | 26 | [Zoião](https://open.spotify.com/track/6TXZW8Bc3nbg3qscln2gLx) | [Toddy Black](https://open.spotify.com/artist/4enjpyVRYCc83KoTpRfQiH), [Eltinho Beats](https://open.spotify.com/artist/4bgMNPTMQDzdJYyTiulHyr) | [Zoião](https://open.spotify.com/album/03H1lXrwcT0UvtzwOLABXu) | 2:44 |
 | 27 | [Asas](https://open.spotify.com/track/6AIqtpf4qtVWB2470AGEHs) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz) | [Asas](https://open.spotify.com/album/3Tx5GyvCxfXJJgJ0S4Wd7Z) | 3:14 |
-| 28 | [ZERO MANCADA](https://open.spotify.com/track/0bovoHi2a1wyj63PVAY9dj) | [Menezzes](https://open.spotify.com/artist/7dw3nY1FCvYmcL1LTL1lq6) | [ZERO MANCADA](https://open.spotify.com/album/1SE4EjN9qPKpUmqPWsc7og) | 2:25 |
+| 28 | [ZERO MANCADA](https://open.spotify.com/track/0bovoHi2a1wyj63PVAY9dj) | [Menezzes](https://open.spotify.com/artist/7dw3nY1FCvYmcL1LTL1lq6), [Drama 808](https://open.spotify.com/artist/6fNCOhWNXgliXlRJvqYkGm) | [ZERO MANCADA](https://open.spotify.com/album/1SE4EjN9qPKpUmqPWsc7og) | 2:25 |
 | 29 | [Passado](https://open.spotify.com/track/35yTzGZiPJA3CallyJy1Ek) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Passagem](https://open.spotify.com/album/3B6EVijO887Zc17CBTvXBS) | 2:25 |
 | 30 | [Tubo de Lança](https://open.spotify.com/track/3npXPVCw42oIzh701YkM90) | [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [SH1FT](https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD) | [Tubo de Lança](https://open.spotify.com/album/3nP5nxztp0Pye1NzVcWA94) | 2:09 |
 | 31 | [Melhor Dia 9 \- Imprevisível](https://open.spotify.com/track/7hx1k6RDaibeSPPVYHnOai) | [Marcos Baroni](https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [Melhor Dia 9 \- Imprevisível](https://open.spotify.com/album/308uSWisVb98sne2qdrWo5) | 3:36 |

@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2102,
+  "num_followers": 2108,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMGU1NWU5ZjBhM2ZiYzVjOTBlZDcwZTMyYjMyODM5NDM0",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDk5ZWU2Y2YyZDUyOThiOWY1YzA1YzA3N2MzZTFhM2Ez",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV"
     },
     {
-      "added_at": "2022-11-26 01:34:11",
+      "added_at": "2022-11-27 01:34:28",
       "album": {
         "name": "Die of The Waters",
         "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes II",
-        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Utopian Facade",
-      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Cycles \"Cyclic Law's 10th Year Anniversary Label Sampler\"",
         "url": "https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 508630,
       "name": "The Moment Before You Fall Asleep",
       "url": "https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Lost Themes II",
+        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Utopian Facade",
+      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
       "artists": [
         {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 176973,
-      "name": "Mogadon Coffee Morning",
-      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
+      "duration_ms": 242232,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx"
     }
   ],
   "unique_name": "Stranger Ambient",

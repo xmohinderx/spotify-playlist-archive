@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 14411,
+  "num_followers": 14437,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMGZkMDY2YzNmYWY2NWI0ZjRiMGZiYWRhOThmODE5MmIw",
+  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDNiNzQ5MTEyMDRkZGI4MjQ5ZDllOGQ4MDRlNmRlNDU2",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thank You For It All",
-        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 264430,
-      "name": "Thank You For It All",
-      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 194026,
       "name": "Give Thanks & Praises",
       "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thank You For It All",
+        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 264430,
+      "name": "Thank You For It All",
+      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -331,18 +331,34 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "simplicity",
-        "url": "https://open.spotify.com/album/5SuCJyVXZNHggwXo5XKyH9"
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
       },
       "artists": [
         {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 150313,
-      "name": "thank you",
-      "url": "https://open.spotify.com/track/6cf0agH2MqxT8t4ea1FSD7"
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "That Thank You Song!",
+        "url": "https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "That Thank You Song!",
+      "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -367,34 +383,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "That Thank You Song!",
-        "url": "https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR"
+        "name": "simplicity",
+        "url": "https://open.spotify.com/album/5SuCJyVXZNHggwXo5XKyH9"
       },
       "artists": [
         {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
         }
       ],
-      "duration_ms": 186709,
-      "name": "That Thank You Song!",
-      "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
+      "duration_ms": 150313,
+      "name": "thank you",
+      "url": "https://open.spotify.com/track/6cf0agH2MqxT8t4ea1FSD7"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
+        "name": "We Say Yes",
+        "url": "https://open.spotify.com/album/0PST9ylFljP5vGSEU4f3hk"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
         }
       ],
-      "duration_ms": 250360,
-      "name": "We Give Thanks (Psalm 107) - Live",
-      "url": "https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU"
+      "duration_ms": 353769,
+      "name": "Give Thanks to God",
+      "url": "https://open.spotify.com/track/6TifEylXRiTPrGn4NHXd6O"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "We Say Yes",
-        "url": "https://open.spotify.com/album/0PST9ylFljP5vGSEU4f3hk"
+        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
       },
       "artists": [
         {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 353769,
-      "name": "Give Thanks to God",
-      "url": "https://open.spotify.com/track/6TifEylXRiTPrGn4NHXd6O"
+      "duration_ms": 250360,
+      "name": "We Give Thanks (Psalm 107) - Live",
+      "url": "https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Beautiful Day (House of the Lord)",
-        "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
-      },
-      "artists": [
-        {
-          "name": "FRVR FREE",
-          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Beautiful Day (House of the Lord)",
-      "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 193413,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Beautiful Day (House of the Lord)",
+        "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
+      },
+      "artists": [
+        {
+          "name": "FRVR FREE",
+          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Beautiful Day (House of the Lord)",
+      "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Oh Give Thanks (Psalm 107) [Live]",
+        "url": "https://open.spotify.com/album/36LAY52wPfMK172ikMQrha"
+      },
+      "artists": [
+        {
+          "name": "Wendell Kimbrough",
+          "url": "https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B"
+        }
+      ],
+      "duration_ms": 369666,
+      "name": "Oh Give Thanks (Psalm 107) - Live",
+      "url": "https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Live Worship From Vertical Church",
         "url": "https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 237146,
       "name": "Give Thanks To The Lord (Forever)",
       "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Oh Give Thanks (Psalm 107) [Live]",
-        "url": "https://open.spotify.com/album/36LAY52wPfMK172ikMQrha"
-      },
-      "artists": [
-        {
-          "name": "Wendell Kimbrough",
-          "url": "https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B"
-        }
-      ],
-      "duration_ms": 369666,
-      "name": "Oh Give Thanks (Psalm 107) - Live",
-      "url": "https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27"
     },
     {
       "added_at": "2022-11-23 15:01:23",

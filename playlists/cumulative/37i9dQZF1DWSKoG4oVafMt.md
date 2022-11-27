@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-637 songs - 1 day 10 hr 35 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+638 songs - 1 day 10 hr 39 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-03-25 | 2022-05-20 |
 | [Dreams](https://open.spotify.com/track/6Ghvb6ELWbMh3b0G8IMHuV) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Medhavini](https://open.spotify.com/artist/4fGzJLb60423e3BJn1BEJJ) | [Dreams](https://open.spotify.com/album/5AVJ4YMpAWgq9fLtcFdgWd) | 2:43 | 2022-02-15 | 2022-04-06 |
 | [Dreams Unfold](https://open.spotify.com/track/046srpP68Vu1evgrTPEQOU) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Dreams Unfold](https://open.spotify.com/album/6Gqu6tiY8zJPtgaXHBwSwZ) | 3:13 | 2022-02-14 |  |
-| [Dua Karo](https://open.spotify.com/track/4PNmQiHQPKVw0avwQEfbQe) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dua Karo](https://open.spotify.com/album/2WBGvXVpgQUfswXZbxI8t1) | 3:45 | 2022-11-25 |  |
+| [Dua Karo](https://open.spotify.com/track/4PNmQiHQPKVw0avwQEfbQe) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dua Karo](https://open.spotify.com/album/2WBGvXVpgQUfswXZbxI8t1) | 3:45 | 2022-11-25 |  |
 | [Dua Mangdi](https://open.spotify.com/track/0cMx4Mk2g47IvinNJEIWbB) | [Karan Dhillon](https://open.spotify.com/artist/7hmEpCcjK4KFhb7zjEt6LJ), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e) | [Dua Mangdi](https://open.spotify.com/album/4indLUuIZjVgHQ6vtgD5s8) | 3:07 | 2022-02-08 | 2022-02-12 |
 | [Duawan](https://open.spotify.com/track/6B3Ky26cKgdW3bsqarkmX0) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [Duawan](https://open.spotify.com/album/4WVcXIgE0dPcBZIGpiyFQI) | 3:32 | 2022-10-14 |  |
 | [Dupatta Tera Satrang Da \(Cover Version\)](https://open.spotify.com/track/4y7quCfMwPefnExRvymRJZ) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Atul Sharma](https://open.spotify.com/artist/3XogEyWUGyJGPSIjKuR2Qc) | [Dupatta Tera Satrang Da \(Cover Version\)](https://open.spotify.com/album/6bF6K2aCqiPPn7BgMuKOCj) | 3:11 | 2022-05-04 | 2022-05-20 |
@@ -317,7 +317,8 @@
 | [Like Moon](https://open.spotify.com/track/7H0F4B8lh7pG2A1U2H6m2O) | [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3) | [Like Moon](https://open.spotify.com/album/1QKhydtnWNeOD2G3DyP0NJ) | 3:31 | 2022-03-16 | 2022-04-06 |
 | [London Da Lakk](https://open.spotify.com/track/6KFjOVXJR7WC8egwepPJTw) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Meet Sehra](https://open.spotify.com/artist/3yHKjwbYaj7IvSX7qjSI1l) | [London Da Lakk](https://open.spotify.com/album/1HOy4MTSYqJjqyjWdc925z) | 2:53 | 2022-05-06 | 2022-05-20 |
 | [Look](https://open.spotify.com/track/3l7apbfGrFfWqykALnVK2i) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1), [Harman Bal](https://open.spotify.com/artist/3PeTCbGBt4nFsUJZDzLQYk) | [Relatable](https://open.spotify.com/album/1E99WsFwg8Hl7gmYvH3rLr) | 3:45 | 2022-01-27 | 2022-02-01 |
-| [Lost Love](https://open.spotify.com/track/2L1cfBLg1wNI5ZIpAAv6Wc) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Lost Love](https://open.spotify.com/album/1ZNMYg10x172dC5eYfMlEF) | 3:46 | 2021-12-02 |  |
+| [Lost Love](https://open.spotify.com/track/2L1cfBLg1wNI5ZIpAAv6Wc) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Lost Love](https://open.spotify.com/album/1ZNMYg10x172dC5eYfMlEF) | 3:46 | 2021-12-02 | 2022-11-27 |
+| [Lost Love](https://open.spotify.com/track/4TK2I5Z458YfkbCbU0Sid4) | [Prem Dhillon](https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP) | [Lost Love](https://open.spotify.com/album/2sDFY48HjU8HlDxIBbTqCg) | 3:46 | 2022-11-25 |  |
 | [Love Bound](https://open.spotify.com/track/0TuPG4Xdac5mrFYuG4UHYN) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [Love Bound](https://open.spotify.com/album/28m94PF9nKkKV2gUXo94eb) | 3:06 | 2022-08-19 |  |
 | [Love Knot](https://open.spotify.com/track/3uWrpA520Dk9PMmWlq4nsK) | [Raja Game Changerz](https://open.spotify.com/artist/2hUs5obIONKDUDIsCbAi9t) | [Love Knot](https://open.spotify.com/album/3dH60rrSF6kSZNyz3hALvC) | 2:18 | 2022-02-17 | 2022-04-06 |
 | [Love Like Me](https://open.spotify.com/track/5mBR7WfEebvABTN4N69M5M) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 2:40 | 2021-12-02 | 2022-02-01 |

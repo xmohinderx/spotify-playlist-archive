@@ -6177,6 +6177,32 @@
     {
       "album": {
         "name": "Jazz Notes",
+        "url": "https://open.spotify.com/album/1Afni32J8Jk4PgeEX0GrJ7"
+      },
+      "artists": [
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        },
+        {
+          "name": "Tesk",
+          "url": "https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4"
+        },
+        {
+          "name": "OG Nuage",
+          "url": "https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Jazz Notes",
+      "url": "https://open.spotify.com/track/1586Yd50L4n7EIp3Mhg8mh"
+    },
+    {
+      "album": {
+        "name": "Jazz Notes",
         "url": "https://open.spotify.com/album/08I5CwGgfg1AlXgTz19mkd"
       },
       "artists": [
@@ -6195,7 +6221,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 149647,
       "name": "Jazz Notes",
       "url": "https://open.spotify.com/track/53r5ab959W328twV4P5p9v"

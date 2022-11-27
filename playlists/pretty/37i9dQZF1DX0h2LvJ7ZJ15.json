@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 593937,
+  "num_followers": 595869,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0ODg2MCwwMDAwMDAwMGE3ZDMzYjEwYTQ5NDU3MWIyYTE0Yjg5ZjJiMDI3NDNk",
+  "snapshot_id": "MTY2ODE0ODg2MCwwMDAwMDAwMDlmMmQ1NGZmMWM0MGZmYmI1MmVjYWUyM2Q3MWI2ZWE5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:56:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
+        "name": "AVOID ME (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/3WzfkIRlBXBBB5UHHOvIIN"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        }
+      ],
+      "duration_ms": 127547,
+      "name": "AVOID ME - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6D5ahExQvVjiA2PnNtcPCb"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 138646,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
-        "name": "AVOID ME (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/3WzfkIRlBXBBB5UHHOvIIN"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        }
-      ],
-      "duration_ms": 127547,
-      "name": "AVOID ME - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/6D5ahExQvVjiA2PnNtcPCb"
     },
     {
       "added_at": "2022-10-07 04:56:00",

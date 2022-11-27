@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 ### [Metalcore Classics](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r)
 
-> The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
+> The perfect mix between old\-school and modern Metalcore\. Cover: A7X
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,955 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,253 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 59 | [Moral Eclipse](https://open.spotify.com/track/0pcOFA9Nw7QYW8G5sqGIWk) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Until Your Heart Stops](https://open.spotify.com/album/4uEbn5VjsqdbBQoMCI01Pl) | 2:05 |
 | 60 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 |
 
-Snapshot ID: `MTY2OTE1MTQ0NCwwMDAwMDAwMGVlMWEwYzMyOGMyYjI4NWI3ZDliMzliZWFmNzFmMzI4`
+Snapshot ID: `MTY2OTE1MTQ0NCwwMDAwMDAwMDdjYjc5ZjI2ZTYyMTBiZGUxMTBkNDA3Zjk4YmMyODky`

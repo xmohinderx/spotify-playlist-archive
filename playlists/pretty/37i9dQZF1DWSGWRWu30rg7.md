@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Derai\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,335 likes - 98 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,332 likes - 98 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 21 | [Tersenyum Lagi](https://open.spotify.com/track/1N9rpYz37AmBAK6XAdKtH4) | [Tenty Kamal](https://open.spotify.com/artist/2oizaPrBzAj2754qyq20ly) | [Tersenyum Lagi](https://open.spotify.com/album/1ZlGxNhilVNnGUGHwD09fo) | 3:37 |
 | 22 | [Listen](https://open.spotify.com/track/1sC1Qz2fqACArwqRiXgjAE) | [Rahma Putri](https://open.spotify.com/artist/3bJXdfr5q5IIYGqFMfrtdp) | [Listen](https://open.spotify.com/album/0Y9AiciGUfMO0mPwESnbUU) | 2:47 |
 | 23 | [Meretas Kota](https://open.spotify.com/track/5nYRks8CI2gUEcsXJzo2BY) | [Fox Fort](https://open.spotify.com/artist/4jR85VxdW8sHOoc5BbjILt) | [Meretas Kota](https://open.spotify.com/album/3BPEayE3lvDpEm1vLvLpFW) | 3:48 |
-| 24 | [Cukup Sudah](https://open.spotify.com/track/7dQvwTeheduOZTUMWU0MPy) | [Khifnu](https://open.spotify.com/artist/7HCDShhp411XEAG56GcNrf) | [Cukup Sudah](https://open.spotify.com/album/03h35ElsYYhaIdxDszB4IU) | 3:20 |
+| 24 | [Cukup Sudah](https://open.spotify.com/track/7dQvwTeheduOZTUMWU0MPy) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Cukup Sudah](https://open.spotify.com/album/03h35ElsYYhaIdxDszB4IU) | 3:20 |
 | 25 | [sadness](https://open.spotify.com/track/2P75Avp9zaCftxVvTC5rbp) | [Yourboy](https://open.spotify.com/artist/6CXEofaqFpIypvCokRuoW8), [Just Rama](https://open.spotify.com/artist/7Fd7LJI5OCoRMQDAHPPkcu) | [sadness](https://open.spotify.com/album/44XIf6UbUYxIT9TebnmTiv) | 2:57 |
 | 26 | [Never Tired of You](https://open.spotify.com/track/0BJtfe9mL26hyzoM0RgAK2) | [Rendika Rizky](https://open.spotify.com/artist/7K2gErJTsg9xYU9LejBEQG) | [Never Tired of You](https://open.spotify.com/album/6kw62P9CJjUAct6F4RKbDl) | 3:29 |
 | 27 | [Kenangan dan Kesepian](https://open.spotify.com/track/1YbL9mLjiAqjnyw7MvrrVT) | [Melodi Kursi](https://open.spotify.com/artist/3ZcZgvcg7vJsWBuqoNk5GI) | [Kenangan dan Kesepian](https://open.spotify.com/album/1GqKp7lP03yrLw37xUXOAU) | 3:24 |

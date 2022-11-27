@@ -2,9 +2,9 @@
 
 ### [Navidad Cristiana](https://open.spotify.com/playlist/37i9dQZF1DX4bpoWO7sjH5)
 
-> Los sonidos de Belén.
+> Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-151 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+158 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Acaso No Estoy Yo Aquí \(Guadalupe\)](https://open.spotify.com/track/3H35sKzn68od8OmBQFGYXK) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Alfa y Omega](https://open.spotify.com/album/40DddG3lEyrPAdp737kG7B) | 4:40 | 2021-12-24 |  |
 | [Al mundo paz](https://open.spotify.com/track/0iXYn3CZgv5IOKyjy3pFmP) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Navidad Vol\. 1](https://open.spotify.com/album/09CzmGJuKKU1uGQbH0fama) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [Al mundo paz](https://open.spotify.com/track/5rwDCjAAaUSqCs5IjYIaid) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Navidad Vol\. 1](https://open.spotify.com/album/11906jCVhIBhj5s5dBxQYb) | 2:55 | 2021-12-24 |  |
+| [AL MUNDO PAZ](https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20) | [AL MUNDO PAZ](https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3) | 2:59 | 2022-11-26 |  |
 | [Alabanzas Al Rey](https://open.spotify.com/track/6xPQCiesZvH1jIi78UGo4p) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:29 | 2021-12-24 | 2022-07-29 |
 | [Alabanzas Al Rey](https://open.spotify.com/track/6EMDqqZkq4CTs0OwpxipNN) | [Marcela Gándara](https://open.spotify.com/artist/14QeqTDX33AYkxCyEBiDsl) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:29 | 2021-12-24 |  |
 | [Allá En Belén](https://open.spotify.com/track/55mnwnY900HnMPGz2Dj0np) | [Daniel Fraire](https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 3:02 | 2021-12-24 | 2022-07-29 |
@@ -22,12 +23,15 @@
 | [Allá En Belén \- Pista](https://open.spotify.com/track/4tzeOvyRwaQYTLra810GPU) | [Daniel Fraire](https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF) | [Navidad Con Vástago, Vol\. 2](https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2) | 3:04 | 2021-12-24 |  |
 | [Allá en el Pesebre](https://open.spotify.com/track/5Suxa6aEsrt4ejClulSvK7) | [Mas Vida Real](https://open.spotify.com/artist/1E6zJooX4xc8NMCpM2cU6x) | [El Regalo de Jesùs](https://open.spotify.com/album/22N1H1kYux0EHW109AfaYv) | 2:53 | 2021-12-24 |  |
 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 | 2021-12-24 |  |
+| [Blanca Navidad](https://open.spotify.com/track/460i7EzVcjlmNM7fy2N8gk) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Blanca Navidad](https://open.spotify.com/album/3vDRQj8aNwIj3Yjk4SgkhM) | 2:24 | 2022-11-26 |  |
 | [Blanca Navidad](https://open.spotify.com/track/6dLYDxIKy3kMj8Dfx5kqS7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/1KM8kjXX0KdfcGCj3iDgiG) | 4:07 | 2021-12-24 | 2022-07-29 |
 | [Blanca Navidad](https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:07 | 2021-12-24 |  |
-| [Campanas](https://open.spotify.com/track/4fzSIKWnFWN7stZaFf1vE4) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 0:29 | 2021-12-24 |  |
+| [Campanas](https://open.spotify.com/track/4fzSIKWnFWN7stZaFf1vE4) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 0:29 | 2021-12-24 | 2022-11-27 |
+| [Canela y Mantequilla](https://open.spotify.com/track/4dyOc6n181DQc1C4fGzzOz) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Postales Navideñas](https://open.spotify.com/album/4zwAGaYuF7KHNGBbW5LB4v) | 3:53 | 2022-11-26 |  |
 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 | 2021-12-24 | 2022-07-29 |
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2021-12-24 |  |
 | [Creo En Ti \- Live](https://open.spotify.com/track/4iHlCejE0feD1XEXJRxmAI) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Top Música Cristiana](https://open.spotify.com/album/7jugx6QZ4k8hvkeHCiRftl) | 7:03 | 2021-12-24 | 2022-11-13 |
+| [De Belén a Jerusalén](https://open.spotify.com/track/3EZasVLqN6bkIp4xDkUXpT) | [Jesus Worship Center](https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI) | [De Belén a Jerusalén](https://open.spotify.com/album/0Hp4uKftPNw2I1C2hjCWCL) | 4:09 | 2022-11-26 |  |
 | [Desde Que Nació](https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 3:34 | 2021-12-24 |  |
 | [Dios Con Nosotros](https://open.spotify.com/track/1kAgFs3ytaMAE2SMuEucK1) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 4:23 | 2021-12-24 | 2022-07-29 |
 | [Dios Con Nosotros](https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 4:23 | 2021-12-24 |  |
@@ -58,6 +62,7 @@
 | [Es Navidad \(O Holy Night\)](https://open.spotify.com/track/1RVCH1Vml52aqeZUuZPIr6) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Ekos](https://open.spotify.com/artist/1Zr4c9yNeLpBcUZUjfBgQQ), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Es Navidad \(O Holy Night\)](https://open.spotify.com/album/2nkkkt4JVY1gxY9MgIbCiq) | 3:48 | 2021-12-24 |  |
 | [Este Es Mi Año](https://open.spotify.com/track/31ZJhoNjCsN9P7V4NCrH4U) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Es Navidad](https://open.spotify.com/album/45o25qubzUh9i87D7pTjJ9) | 3:17 | 2021-12-24 | 2022-07-29 |
 | [Este Es Mi Año](https://open.spotify.com/track/7iCUX9L2e5kIo0TvOkbeRb) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Es Navidad](https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H) | 3:17 | 2021-12-24 |  |
+| [Feliz Navidad](https://open.spotify.com/track/4h8gC82RmwrIsNYibTbXvs) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas](https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc) | 1:59 | 2022-11-26 |  |
 | [Feliz Navidad](https://open.spotify.com/track/2hdJtqzOWv1nW7rWF0qZfU) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Christmas](https://open.spotify.com/album/645ozutUaH38FjkWojIaFk) | 3:03 | 2021-12-24 | 2022-07-29 |
 | [Feliz Navidad](https://open.spotify.com/track/7jqWEJ1ntANspPX7rgUObr) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Christmas](https://open.spotify.com/album/1WrFOvNRLq3A6NqpL9yfEn) | 3:03 | 2021-12-24 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:18 | 2021-12-24 | 2022-10-21 |
@@ -72,7 +77,7 @@
 | [Jesús Nació](https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Jesús Nació](https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR) | 3:48 | 2021-12-24 |  |
 | [La Estrella](https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Estrella](https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze) | 3:41 | 2021-12-24 |  |
 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 | 2021-12-24 |  |
-| [Llegó La Navidad](https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 4:02 | 2021-12-24 |  |
+| [Llegó La Navidad](https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 4:02 | 2021-12-24 | 2022-11-27 |
 | [Lucecitas](https://open.spotify.com/track/5PbplvTBAlYL6TlAWlY3Jh) | [Banda Montreal](https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym) | [Lucecitas](https://open.spotify.com/album/6yTGTLZ9sMu7Xdn5JSMsQ9) | 3:10 | 2021-12-24 |  |
 | [Lucecitas](https://open.spotify.com/track/6WFoSWIYFSIdgFqeRPPAZg) | [Banda Montreal](https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym) | [Lucecitas](https://open.spotify.com/album/0dX9nxyedJMTSMJV5Cs7Ty) | 3:10 | 2021-12-24 | 2022-07-29 |
 | [Luces De Colores](https://open.spotify.com/track/0Ya6G4t0lUmq8XcpDTryGf) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 3:26 | 2021-12-24 | 2022-07-29 |
@@ -157,6 +162,8 @@
 | [Voy Subiendo \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2KzMozFxhwriwfEU2GQNah) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Navidades Hasta Que Amanezca](https://open.spotify.com/album/16mF2UdEgV0WB0PziDdPhS) | 4:14 | 2021-12-24 |  |
 | [Vístete](https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Pa'que Mi Pueblo Cante](https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR) | 3:29 | 2021-12-24 |  |
 | [Ya Llegó La Navidad](https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 3:12 | 2021-12-24 |  |
+| [Ya Llegó la Navidad](https://open.spotify.com/track/3j3JGGetYI05XwOMWP3MY4) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Ya Llegó la Navidad](https://open.spotify.com/album/3iynS4LSyMrDGTwUJkQnzp) | 2:50 | 2022-11-26 |  |
+| [Ya nació](https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm) | [Moises Cancel](https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd) | [Ya nació](https://open.spotify.com/album/2XY0WMGtFjc10QF669IerI) | 4:00 | 2022-11-26 |  |
 | [¿Qué Dirías?](https://open.spotify.com/track/2gHZj7um0KdIav8ncUCEqE) | [Adrian Romero](https://open.spotify.com/artist/5PbgoupAwL4bLeg5uv9u1O) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:58 | 2021-12-24 | 2022-07-29 |
 | [¿Qué Dirías?](https://open.spotify.com/track/76aOlMuddV95fkblGbs6nv) | [Adrián Romero](https://open.spotify.com/artist/07C86B0m9AJsysuDz8rEgV) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:58 | 2021-12-24 |  |
 

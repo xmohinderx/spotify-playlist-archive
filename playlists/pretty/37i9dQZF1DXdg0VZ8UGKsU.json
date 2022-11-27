@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Whitney Houston",
-  "num_followers": 247535,
+  "num_followers": 247757,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMGYzYTRiY2NlM2M1Yzk4Mzg5ZTc0ZTVkZGE3ODc4YTUy",
+  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMDAzN2E4ZjFjZmQ0MDQwYzVlODg3YjI4YWNhOGU5N2E2",
   "tracks": [
     {
       "added_at": "2022-06-16 04:02:34",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Every Rose Has Its Thorn - Remastered 2003",
-      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Arthur - The Album [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+      "duration_ms": 260173,
+      "name": "Every Rose Has Its Thorn - Remastered 2003",
+      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -507,6 +491,22 @@
       "duration_ms": 232666,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Back To Avalon",
-        "url": "https://open.spotify.com/album/5WtMgGIexFuhipmaqUMi3Z"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Meet Me Half Way - From \"Over The Top\" Soundtrack",
-      "url": "https://open.spotify.com/track/5CdX4HXMRxyldTVxXDrzSA"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 268600,
       "name": "All at Once",
       "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Back To Avalon",
+        "url": "https://open.spotify.com/album/5WtMgGIexFuhipmaqUMi3Z"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Meet Me Half Way - From \"Over The Top\" Soundtrack",
+      "url": "https://open.spotify.com/track/5CdX4HXMRxyldTVxXDrzSA"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 266266,
       "name": "Endless Love - From \"The Endless Love\" Soundtrack",
       "url": "https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Radio Romance",
-        "url": "https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE"
+        "name": "Cafe Bleu",
+        "url": "https://open.spotify.com/album/22OXpzLJTAeZus7DVZmIds"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        },
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "The Style Council",
+          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
         }
       ],
-      "duration_ms": 241040,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW"
+      "duration_ms": 340626,
+      "name": "You're The Best Thing",
+      "url": "https://open.spotify.com/track/0Njh4xmjFcX3f8TO1ocdlb"
     }
   ],
   "unique_name": "80s Ballads",

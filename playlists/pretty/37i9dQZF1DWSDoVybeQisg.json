@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1021335,
+  "num_followers": 1021774,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMDZlMzgyNzNlMTgxZjAyMzI4ZTVmYzkyMmY2NjJlMGIz",
+  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMDdhYzUwMWMzOWM3OTVlODk0NGZkZGY2OTBkN2M3MzNh",
   "tracks": [
     {
       "added_at": "2021-11-10 18:08:33",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Mothership (Remastered)",
-        "url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 422680,
-      "name": "No Quarter - Remaster",
-      "url": "https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "The Who Sell Out (Super Deluxe)",
         "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 247306,
       "name": "I Can See For Miles - Mono Version",
       "url": "https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Mothership (Remastered)",
+        "url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 422680,
+      "name": "No Quarter - Remaster",
+      "url": "https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "The Future Starts Here: The Essential Doors Hits",
-        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 390293,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Deep Purple in Rock",
         "url": "https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 620373,
       "name": "Child in Time",
       "url": "https://open.spotify.com/track/5TrfusgKC1BYic5LaWCoKm"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "The Future Starts Here: The Essential Doors Hits",
+        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 390293,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
     },
     {
       "added_at": "2021-11-10 18:08:33",

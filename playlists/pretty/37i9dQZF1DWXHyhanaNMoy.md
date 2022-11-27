@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > FMG check je in La Vida Loca! Hier alleen maar good vibes en motion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,386 likes - 69 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,486 likes - 69 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

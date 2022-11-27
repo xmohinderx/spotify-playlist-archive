@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2054491,
+  "num_followers": 2055459,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM3ODY5NSwwMDAwMDAwMGI0NTNkMjRiNGYwMGNhMTM2ZDg0MThlOTU2ZTA1NDNm",
+  "snapshot_id": "MTY2NzM3ODY5NSwwMDAwMDAwMDZhMjI5NTk4NmUyM2E3YmRkZmEyMTAyOGQwMmI2YWVl",
   "tracks": [
     {
       "added_at": "2022-11-02 08:44:55",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
+        "name": "Asking Alexandria",
+        "url": "https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        },
-        {
-          "name": "Rob Halford",
-          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Black Wedding (feat. Rob Halford)",
-      "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
+      "duration_ms": 245861,
+      "name": "Alone In A Room",
+      "url": "https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "Asking Alexandria",
-        "url": "https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6"
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
       "artists": [
         {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
         }
       ],
-      "duration_ms": 245861,
-      "name": "Alone In A Room",
-      "url": "https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ"
+      "duration_ms": 247373,
+      "name": "Black Wedding (feat. Rob Halford)",
+      "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -1203,38 +1203,6 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/7b2MbEhzi3TMgbKn5Fkjqb"
-      },
-      "artists": [
-        {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
-        }
-      ],
-      "duration_ms": 170177,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/5PZo9NMyNLxOlpEFoYo611"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
         "name": "Vengeance Falls (Special Edition)",
         "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
@@ -1251,6 +1219,22 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/7b2MbEhzi3TMgbKn5Fkjqb"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 170177,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/5PZo9NMyNLxOlpEFoYo611"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
         "name": "PvP",
         "url": "https://open.spotify.com/album/2NmhrfbIE0otcLsX7rgmJ5"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 179093,
       "name": "PvP",
       "url": "https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "Dark Before Dawn",
-        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/3BFVZvWXK3WW25oO9DjBNj"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
+        "name": "Dark Before Dawn",
+        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
         "name": "STRENGTH IN NUMB333RS",
         "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
       },
@@ -1739,6 +1739,22 @@
       "duration_ms": 232053,
       "name": "BURN IT",
       "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 241034,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -1771,22 +1787,6 @@
       "duration_ms": 210826,
       "name": "That Day",
       "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 241034,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 164990,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
         "name": "The Phantom Tomorrow",
         "url": "https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 217279,
       "name": "Scarlet Cross",
       "url": "https://open.spotify.com/track/098MjOfQMOjxqKkoewErxV"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 164990,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Breaking Skin",
-      "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "La G\u00e1rgola",
-        "url": "https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg"
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
       },
       "artists": [
         {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
         }
       ],
-      "duration_ms": 258946,
-      "name": "Take Out the Gunman",
-      "url": "https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP"
+      "duration_ms": 174546,
+      "name": "Breaking Skin",
+      "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -2139,18 +2123,18 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "Let The Chaos Reign",
-        "url": "https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8"
+        "name": "La G\u00e1rgola",
+        "url": "https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg"
       },
       "artists": [
         {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
         }
       ],
-      "duration_ms": 198552,
-      "name": "Let The Chaos Reign",
-      "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
+      "duration_ms": 258946,
+      "name": "Take Out the Gunman",
+      "url": "https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -2171,6 +2155,22 @@
       "duration_ms": 165891,
       "name": "Warrior (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
+        "name": "Let The Chaos Reign",
+        "url": "https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 198552,
+      "name": "Let The Chaos Reign",
+      "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 257453,
       "name": "Torn in Two",
       "url": "https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "The Black Swan",
-        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/4ucDcX8iPgBKY9zAJyHOjy"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 304493,
       "name": "Rational Gaze",
       "url": "https://open.spotify.com/track/5uqr3lCMWkyQx6yTvoMl4F"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
+        "name": "The Black Swan",
+        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT"
     },
     {
       "added_at": "2022-11-02 08:44:55",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2022-11-02 08:44:55",
       "album": {
-        "name": "The Stories We Tell Ourselves",
-        "url": "https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Do You Really Want It",
-      "url": "https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z"
-    },
-    {
-      "added_at": "2022-11-02 08:44:55",
-      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
+    },
+    {
+      "added_at": "2022-11-02 08:44:55",
+      "album": {
+        "name": "The Stories We Tell Ourselves",
+        "url": "https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Do You Really Want It",
+      "url": "https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z"
     },
     {
       "added_at": "2022-11-02 08:44:55",

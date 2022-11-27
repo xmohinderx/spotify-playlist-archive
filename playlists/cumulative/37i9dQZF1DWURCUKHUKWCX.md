@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-167 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+168 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [United](https://open.spotify.com/track/0CBvwwGhoTFdLCC5NWHvUi) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [United](https://open.spotify.com/album/6dsM7g1KZFLamGuezt9wvs) | 2:22 | 2021-12-10 | 2022-10-21 |
 | [United](https://open.spotify.com/track/0DS8B90joPpSLNrozQvHhe) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [United](https://open.spotify.com/album/4l0P2zDa1oDFYo6HVH2ee7) | 2:22 | 2022-10-14 |  |
 | [Vale](https://open.spotify.com/track/66rQOJEJDAxUUdOBxFE8FM) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Vol 2](https://open.spotify.com/album/5StgabD99z9jFfWMpBlOrY) | 2:20 | 2021-12-10 |  |
-| [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/49s3cG4RJNxpnTcptWjihX) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter \(Music For Theatre\)](https://open.spotify.com/album/4dCJnf1ZWcYOrqdfWEsmL9) | 3:09 | 2021-12-10 |  |
+| [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/49s3cG4RJNxpnTcptWjihX) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter \(Music For Theatre\)](https://open.spotify.com/album/4dCJnf1ZWcYOrqdfWEsmL9) | 3:09 | 2021-12-10 | 2022-11-27 |
+| [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/7AEf1Jc3htMKTWmFZOOGtR) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter](https://open.spotify.com/album/4nxDnLtkNguSlaxTpzetdQ) | 3:09 | 2022-10-28 |  |
 | [Wavering Heart](https://open.spotify.com/track/01Obe4SWMXoUKak13Uue71) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Wavering Heart](https://open.spotify.com/album/6Te7V9eLNY1300KEYrosRk) | 2:21 | 2021-12-10 |  |
 | [When Orange is the Sky](https://open.spotify.com/track/17xaw9sDx8gyw1ZAOUb1Ns) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [When Orange is the Sky](https://open.spotify.com/album/2OCteDOA3yS9yKZqVjxpZv) | 1:39 | 2021-12-10 |  |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-12-10 |  |

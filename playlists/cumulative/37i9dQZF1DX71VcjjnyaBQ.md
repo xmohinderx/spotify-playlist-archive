@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-158 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+159 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 | 2022-02-10 |  |
 | [Laura](https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r) | [Adam Nussbaum](https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi) | [Lead Belly Reimagined](https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R) | 4:47 | 2021-12-21 |  |
 | [Liberated Brother](https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 5:23 | 2021-12-21 | 2022-09-28 |
+| [Little Bird of Passage](https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Little Bird of Passage](https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT) | 5:21 | 2022-11-24 |  |
 | [Loose Caboose](https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [In a Sentimental Mood](https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l) | 3:48 | 2022-06-30 |  |
 | [Loose Caboose](https://open.spotify.com/track/58dK5y8ovl8y2lyaPRzax7) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Loose Caboose](https://open.spotify.com/album/573EOOeUz1MthRowbswtBC) | 3:48 | 2021-12-21 | 2022-07-29 |
 | [Los Bandidos Bogarolles](https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw) | [Judith O'Higgins](https://open.spotify.com/artist/3OJqhnI1ZkG8UD6diD6Q51), [Dave O'Higgins](https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm), [His'n'Hers](https://open.spotify.com/artist/1Lq8xzHmwzSI1wr5UaVg92) | [Los Bandidos Bogarolles](https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu) | 6:55 | 2021-12-21 |  |
@@ -99,7 +100,7 @@
 | [Prelude to a Kiss](https://open.spotify.com/track/5Z9BMdHdZVOX5GXUtzaxr3) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 7:14 | 2022-02-10 |  |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2021-12-21 |  |
 | [På nye eventyr](https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [På nye eventyr](https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6) | 5:22 | 2022-02-24 |  |
-| [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 | 2021-12-21 |  |
+| [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 | 2021-12-21 | 2022-11-27 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-06-30 | 2022-09-28 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/50k9ezYU7sRIO26eZ5ceMr) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/3wGqwnfwZJFTxST28zPARF) | 2:51 | 2021-12-21 | 2022-07-29 |
 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 | 2022-02-10 |  |

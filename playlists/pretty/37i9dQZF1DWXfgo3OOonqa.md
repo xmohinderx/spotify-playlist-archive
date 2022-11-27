@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > swe x fr connect
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,283 likes - 76 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,347 likes - 76 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 11 | [Friendzone](https://open.spotify.com/track/4BJwLOyH7MpJCzEXZoBHYp) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Ofiltrerad](https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK) | 2:28 |
 | 12 | [MANDANA](https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [MANDANA](https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl) | 2:03 |
 | 13 | [Ooh](https://open.spotify.com/track/3E1y2Q6aRmaGT6LM8PxnSz) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Ooh](https://open.spotify.com/album/4mXzNKai3VRQ9HVVJW7T0i) | 2:16 |
-| 14 | [Chanser](https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Chanser](https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j) | 3:03 |
+| 14 | [Chanser](https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Chanser](https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j) | 3:03 |
 | 15 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 |
 | 16 | [AGERA](https://open.spotify.com/track/22PS8HKGq8QpgYERf9dzRZ) | [Rozh](https://open.spotify.com/artist/3SRes7eoE3xRodLopFKXWb) | [Alltid varit här](https://open.spotify.com/album/4NgQrhhZ5a451lLJK47qgv) | 2:56 |
 | 17 | [Smooth](https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [No Borders: European Compilation Project](https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP) | 2:51 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 37 | [KLAR](https://open.spotify.com/track/10FK9EUknv3vnbEodHPPbA) | [ABDIFATAH](https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [KLAR](https://open.spotify.com/album/2fNDH0gjpEaTJJ6140y03X) | 2:37 |
 | 38 | [Var Är Du](https://open.spotify.com/track/2Ohk1b9JT1AbtNOUqMfNSl) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [En Unge](https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P) | 2:25 |
 | 39 | [Kärlek](https://open.spotify.com/track/1Sifod3DxO7JNbHXfOnLnD) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 3:26 |
-| 40 | [Vikt](https://open.spotify.com/track/2Jub86Y9MLipu7R2pmdvcW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Vikt](https://open.spotify.com/album/1C2KUz89AAgHqCf6xqWlHG) | 3:04 |
+| 40 | [Vikt](https://open.spotify.com/track/2Jub86Y9MLipu7R2pmdvcW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Vikt](https://open.spotify.com/album/1C2KUz89AAgHqCf6xqWlHG) | 3:04 |
 | 41 | [Vem](https://open.spotify.com/track/37I1hXdQVga3MAR9dOn0c3) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Vem](https://open.spotify.com/album/6Kb2vhdaj624ZEC18vJCIG) | 2:18 |
 | 42 | [Ohlala](https://open.spotify.com/track/6rDawF724WdHlVa52BGANS) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [UNDER TIDEN 3](https://open.spotify.com/album/2EF6zvkYnHdJF2pEet0vuw) | 1:54 |
 | 43 | [DUBBELT](https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [DUBBELT](https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk) | 2:38 |

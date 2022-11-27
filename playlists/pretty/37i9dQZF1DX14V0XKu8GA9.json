@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 18089,
+  "num_followers": 18113,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDJlYjcwOGQxZDc4ZWEzZTQ4YTg4YTBlNjlhOWM2MjI1",
+  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDY5MmQzZmUyZGM2YzRmNTJmNjZkM2IyNzVmYjJjMjI5",
   "tracks": [
     {
       "added_at": "2022-09-23 15:32:00",
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
     },
     {
-      "added_at": "2022-11-26 01:16:11",
+      "added_at": "2022-11-27 01:19:41",
       "album": {
         "name": "Gahdamn",
         "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Ain't Done",
-        "url": "https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0"
-      },
-      "artists": [
-        {
-          "name": "SpyBoii",
-          "url": "https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4"
-        },
-        {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
-        }
-      ],
-      "duration_ms": 171934,
-      "name": "Ain't Done",
-      "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "SAUCE ME UP PESO",
         "url": "https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 146526,
       "name": "City Playa",
       "url": "https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Ain't Done",
+        "url": "https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0"
+      },
+      "artists": [
+        {
+          "name": "SpyBoii",
+          "url": "https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4"
+        },
+        {
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+        }
+      ],
+      "duration_ms": 171934,
+      "name": "Ain't Done",
+      "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
     },
     {
       "added_at": "2022-09-23 15:32:00",

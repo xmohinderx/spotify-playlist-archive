@@ -391,6 +391,24 @@
     {
       "album": {
         "name": "Yggdrasil",
+        "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "Blizzard",
+      "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
+    },
+    {
+      "album": {
+        "name": "Yggdrasil",
         "url": "https://open.spotify.com/album/2HOo60acwIAeLm81e2B2Xw"
       },
       "artists": [
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 337226,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 243857,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/6JqvqbDADxVZ8Ld9SWt1Ia"
@@ -2085,6 +2103,28 @@
       "duration_ms": 229512,
       "name": "Medicate Me",
       "url": "https://open.spotify.com/track/52ifDA7LHZwLFWnMDkibQv"
+    },
+    {
+      "album": {
+        "name": "Rock Ain't Dead",
+        "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
+      },
+      "artists": [
+        {
+          "name": "Davey Suicide",
+          "url": "https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV"
+        },
+        {
+          "name": "Telle Smith",
+          "url": "https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229512,
+      "name": "Medicate Me",
+      "url": "https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58"
     },
     {
       "album": {

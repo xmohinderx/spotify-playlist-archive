@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,558 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,614 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 33 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 |
 | 34 | [Excuse Me Miss](https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:41 |
 | 35 | [Children's Story](https://open.spotify.com/track/71A6V5dh5Y8ikhm6NGwZ7p) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:02 |
-| 36 | [Stay Real](https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [No Pressure](https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA) | 3:55 |
+| 36 | [Check N' Me Out](https://open.spotify.com/track/6VqQjCxM21kapF2RxdTtYA) | [Def Squad](https://open.spotify.com/artist/52karaTYZPcUZRPr3zy3X4) | [El Nino](https://open.spotify.com/album/1I3hHYnoz7lZsBZN0jZJ1G) | 3:55 |
 | 37 | [The New Style](https://open.spotify.com/track/0Mu1MYdE414HeybYSms5KK) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 4:35 |
 | 38 | [I Need Love](https://open.spotify.com/track/519xI1wfOAJvHeV9kFdXaV) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Bigger And Deffer](https://open.spotify.com/album/5jNxWuqdnchBjdoKykAsY7) | 5:22 |
 | 39 | [Da Joint](https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 3:26 |
 | 40 | [Mona Lisa](https://open.spotify.com/track/5JV45IebgbfO3EylYV49rl) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 4:05 |
-| 41 | [Check N' Me Out](https://open.spotify.com/track/6VqQjCxM21kapF2RxdTtYA) | [Def Squad](https://open.spotify.com/artist/52karaTYZPcUZRPr3zy3X4) | [El Nino](https://open.spotify.com/album/1I3hHYnoz7lZsBZN0jZJ1G) | 3:55 |
+| 41 | [Stay Real](https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [No Pressure](https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA) | 3:55 |
 | 42 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
 | 43 | [Bring The Noise](https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 3:46 |
 | 44 | [It's Yours \(Radio Mix\)](https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe) | [T La Rock](https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp) | [It's Yours](https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 49 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
 | 50 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDFjOWFlMjRjZGVlZTljZDFhZTYzYjBlYWIxNGY2MTRm`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMGEwYjc3ODczYzExZWY4YzUwYTMwYjc1NWU1NjAzMDE5`

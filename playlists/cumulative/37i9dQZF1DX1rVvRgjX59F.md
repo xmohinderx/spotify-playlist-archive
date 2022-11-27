@@ -2,7 +2,7 @@
 
 ### [90s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F)
 
-> These songs rocked the 90s\. Cover: Rage Against The Machine
+> These songs rocked the 90s\. Cover: Nirvana
 
 152 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/3ssq6CMYUOuOSUXgLz3W6D)
 

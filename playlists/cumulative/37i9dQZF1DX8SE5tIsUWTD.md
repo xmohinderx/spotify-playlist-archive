@@ -4,7 +4,7 @@
 
 > A playlist for your Arab hipster starter kit.
 
-109 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
+110 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Al Asafir](https://open.spotify.com/track/0R6cTcF0S4XQWSlegJC4Dg) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 5:20 | 2020-05-01 |  |
 | [Al Asafir](https://open.spotify.com/track/38tuJECMzicYOgIgRbWDYu) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 5:20 | 2020-05-01 | 2022-11-20 |
 | [Al Hadaoui](https://open.spotify.com/track/0uw6c2r6AMkVeqCAhXhD3a) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/6YH3tsqaEFJafm56g8lNpB) | 4:03 | 2020-05-01 | 2022-11-21 |
+| [Al Hadaoui](https://open.spotify.com/track/6mqaAZrhthluQssopSQcNm) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 4:03 | 2020-05-01 |  |
 | [Al Mursal \(The Messenger\)](https://open.spotify.com/track/30QMkmrxQGVuTtPqPOFihu) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 11:35 | 2020-05-01 |  |
 | [Alah alah ya lah \- Polocorp's Slow Disco Edit](https://open.spotify.com/track/7aMGkkJBIynh5fN3QhTApo) | [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Roudani 434](https://open.spotify.com/album/7w9kjCVOmBskNfTUQNpn2z) | 6:58 | 2020-05-01 | 2022-07-28 |
 | [Albaki](https://open.spotify.com/track/4oSHz6Y9HpYcL7svVVg7Vh) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/6YH3tsqaEFJafm56g8lNpB) | 7:06 | 2020-05-01 | 2022-11-20 |
@@ -30,7 +31,7 @@
 | [Argos Farfish](https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:38 | 2020-05-01 | 2022-07-28 |
 | [Argos Farfish](https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 4:38 | 2020-07-13 | 2022-11-20 |
 | [Argos Farfish](https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:38 | 2020-07-13 |  |
-| [Asef Gedan](https://open.spotify.com/track/0a8tkQX6eTRl01NrT9AonE) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 4:05 | 2020-05-01 |  |
+| [Asef Gedan](https://open.spotify.com/track/0a8tkQX6eTRl01NrT9AonE) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 4:05 | 2020-05-01 | 2022-11-27 |
 | [Asef Gedan](https://open.spotify.com/track/3iVDNaS9dEjoYTz5Vlbmt6) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 4:05 | 2020-05-01 | 2022-11-20 |
 | [Asef Gedan](https://open.spotify.com/track/67OWjdysv29UmW5H3L0HY8) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/4etdTKHbGjNPF4AmMMaj6j) | 4:05 | 2020-05-01 | 2022-07-28 |
 | [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 | 2020-05-01 |  |

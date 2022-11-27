@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,996 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,060 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 45 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
 | 46 | [Different Strokes](https://open.spotify.com/track/5QC0qgroozRGGHAJuTsP4c) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Dresses Too Short](https://open.spotify.com/album/4CqGfJ9fUZKbLTHVsPjYmN) | 2:19 |
 | 47 | [Kool & The Gang](https://open.spotify.com/track/3GdvI6fsbGQXkYR2xoMLQ3) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Kool And The Gang](https://open.spotify.com/album/2qLc5mFHx8qH0DkO1FEG3u) | 2:58 |
-| 48 | [I'm Shakin'](https://open.spotify.com/track/0NFLJaA6Pwha8Yd2lGPKzw) | [Little Willie John](https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ) | [Sleep \- The Singles As & Bs, 1955 \- 1961](https://open.spotify.com/album/66NkEqRkwTBmBAf6FlR0IZ) | 2:28 |
+| 48 | [I'm Shakin'](https://open.spotify.com/track/23KiVFFZMMMMV3sAVmhrr6) | [Little Willie John](https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ) | [Walk Slow](https://open.spotify.com/album/05cBWZpaWFHYRFt4mmwAil) | 2:35 |
 | 49 | [A Dance, a Kiss and a Song](https://open.spotify.com/track/08ybbD5OdywKrC0vuFBhRt) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Together](https://open.spotify.com/album/5dlq4IV7malpLfG36zMj6T) | 2:30 |
 | 50 | [Doin' Our Thing](https://open.spotify.com/track/22t9iuxxXPGYuRZ0R0Mgej) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:28 |
 | 51 | [There Was A Time \- Live At The Apollo Theater/1967](https://open.spotify.com/track/1NAIlRHOyqXyXoJfDzVxAM) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Best Of Live At The Apollo: 50th Anniversary](https://open.spotify.com/album/1AopFCAW4rmKm4EyNoYdtL) | 5:27 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGNjZWU5M2I3NjEyZmQwZWY5MTM4ODdlYTY4ZjZjNTdm`
+Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGVlNjVjMDMwZDRlMGJkOWI4NzIzMDdkOTYxMjFhNjE2`

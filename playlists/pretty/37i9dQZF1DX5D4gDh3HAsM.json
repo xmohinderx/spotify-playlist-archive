@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 475198,
+  "num_followers": 476928,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDE1Zjg1ZTVkOTU3YjFhZTc4ZGRkN2Q5YTZiOWQ4MjE5",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGM0MjczZDQ3YjViYzI3YTgyYmI0ZmEzNjMzZmQ3ZWNk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -167,8 +167,8 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Wonderful Christmastime",
-        "url": "https://open.spotify.com/album/3fa8tkY8qCM6rmxp4p2xUd"
+        "name": "European Quartet: A Little Christmas Music",
+        "url": "https://open.spotify.com/album/2KxLBRm5ZqsiiTs6efbZHb"
       },
       "artists": [
         {
@@ -178,7 +178,7 @@
       ],
       "duration_ms": 320000,
       "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/7pDKjFyrECfNrXScLg5MM9"
+      "url": "https://open.spotify.com/track/6qaVpEUBt6tLOrzZkRjhJB"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Three Suites",
-        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
-      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "This is Christmas",
         "url": "https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Three Suites",
+        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Simply Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
       },
@@ -599,26 +599,6 @@
       "duration_ms": 182852,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
-        "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 299040,
-      "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
-      "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -639,6 +619,26 @@
       "duration_ms": 237613,
       "name": "That Holiday Feeling",
       "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
+        "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 299040,
+      "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
+      "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas Blues: Savoy Jazz Christmas Album",
-        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 297200,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Big Band Christmas",
         "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 133893,
       "name": "We Wish You The Merriest",
       "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Christmas Blues: Savoy Jazz Christmas Album",
+        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 297200,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Let's Share Christmas",
-        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
       "artists": [
         {
-          "name": "Don Sebesky",
-          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
+      "duration_ms": 286533,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
     }
   ],
   "unique_name": "Christmas Jazz",

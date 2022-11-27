@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-298 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
+299 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Strange Meadow Lark](https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 7:22 | 2020-06-12 | 2022-04-21 |
 | [Stream](https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Stream](https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde) | 7:03 | 2022-03-10 |  |
 | [Street Of Dreams](https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:20 | 2021-11-14 |  |
-| [Swept Away](https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Swept Away](https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj) | 6:18 | 2020-05-02\* |  |
+| [Swept Away](https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Swept Away](https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj) | 6:18 | 2020-05-02\* | 2022-11-27 |
 | [Tarde](https://open.spotify.com/track/2EXxg3UZwWqMCgs1gUHEgU) | [Ryan Keberle’s Collectiv do Brasil](https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg) | [Sonhos da Esquina](https://open.spotify.com/album/7mKm2xYfdqz3DUzxOVaSAQ) | 5:32 | 2022-03-17 |  |
 | [Teardrop](https://open.spotify.com/track/1o6v06LkvEkYm0H4S12ejd) | [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp), [Big Vicious](https://open.spotify.com/artist/6WZmtYXnkegW8tmk9VpWr4) | [Teardrop](https://open.spotify.com/album/3M460rbozbQFxAPSSavwlD) | 7:24 | 2020-05-02\* | 2021-12-18 |
 | [Tell Me a Bedtime Story](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:01 | 2020-05-02\* | 2020-10-27 |
@@ -287,6 +287,7 @@
 | [Voyageur](https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Le plus longtemps possible](https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8) | 3:28 | 2022-06-02 |  |
 | [Vær sterk, min sjel](https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:03 | 2022-04-07 |  |
 | [What Are You Doing for the Rest of Your Life](https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 6:09 | 2022-09-29 |  |
+| [When October Goes \- Live](https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:19 | 2022-11-24 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2020-05-02\* | 2022-07-29 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2022-07-21 |  |
 | [When Sunny Smiles](https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [When Sunny Smiles](https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl) | 7:44 | 2021-03-10 | 2022-10-26 |

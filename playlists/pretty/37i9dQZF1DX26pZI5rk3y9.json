@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2828,
+  "num_followers": 2850,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDIxYWI4NzJkMjRlMmRiM2VlY2I1MTY2NzI1NWNjNmNj",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMGFiZjU1OThhNmU1NTBhZjQ4NzZhMzZiM2U1NzExZThi",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Route 66",
-      "url": "https://open.spotify.com/track/7cZmWjebbtSMIxN2MkJWuv"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Crawfish Fiesta (Remastered with Bonus Track)",
         "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 250786,
       "name": "Red Beans - Remastered",
       "url": "https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Route 66",
+      "url": "https://open.spotify.com/track/7cZmWjebbtSMIxN2MkJWuv"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Lead Belly: The Smithsonian Folkways Collection",
-        "url": "https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK"
-      },
-      "artists": [
-        {
-          "name": "Lead Belly",
-          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
-        }
-      ],
-      "duration_ms": 152700,
-      "name": "Pigmeat",
-      "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Guitar Women, Vol.4",
         "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Lead Belly: The Smithsonian Folkways Collection",
+        "url": "https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK"
+      },
+      "artists": [
+        {
+          "name": "Lead Belly",
+          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
+        }
+      ],
+      "duration_ms": 152700,
+      "name": "Pigmeat",
+      "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Presenting Smiley Lewis",
+        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
+      },
+      "artists": [
+        {
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Gumbo Blues",
+      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "No Border Blues",
         "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 228826,
       "name": "Old School Player",
       "url": "https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Presenting Smiley Lewis",
-        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
-      },
-      "artists": [
-        {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Gumbo Blues",
-      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
     },
     {
       "added_at": "2022-09-12 16:38:21",

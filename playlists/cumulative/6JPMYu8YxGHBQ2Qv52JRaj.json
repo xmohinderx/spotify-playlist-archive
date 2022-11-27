@@ -2894,6 +2894,24 @@
     },
     {
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4K4c9BLGYDGmNXdlE1VDdN"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/4M18OdtsLfA8s8EUZBDT3j"
+    },
+    {
+      "album": {
         "name": "WYNEHOUSE",
         "url": "https://open.spotify.com/album/4DiLZsIQ3tQasb9RrlfoOa"
       },

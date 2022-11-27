@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-141 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
+143 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,11 @@
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2020-11-12 |  |
 | [belonging](https://open.spotify.com/track/0IQ5aMwoPmBZe33n2ZlY5o) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [belonging](https://open.spotify.com/album/6jI2BzJ5MUgxhvdFzIl8s6) | 2:01 | 2020-11-12 | 2022-07-29 |
 | [belonging](https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [belonging](https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL) | 2:01 | 2020-11-12 |  |
-| [Bing Bong](https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT) | 1:56 | 2022-08-05 |  |
+| [Bing Bong](https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT) | 1:56 | 2022-08-05 | 2022-11-27 |
 | [Blinds](https://open.spotify.com/track/3tSPA3UxoMgm1MgaoYBCVs) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/38Ke6rGw4tcEqOXXpzEDxt) | 2:39 | 2020-11-12 | 2022-07-29 |
 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 | 2020-11-12 |  |
 | [Blossom](https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Blossom](https://open.spotify.com/album/3uaI4KOw8ZLAOxuHMEdk8F) | 2:40 | 2022-03-18 | 2022-07-29 |
+| [Blue Haze](https://open.spotify.com/track/1mxjvX6NeHYGSW7bpgtRfy) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/45VGwNszNhpqKcYgo3dpZg) | 2:37 | 2020-11-12 |  |
 | [blue haze](https://open.spotify.com/track/5465onzVgsFEbvIylMC0Cc) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/58CozCODSGKsDCPzjO0rw5) | 2:37 | 2020-11-12 | 2022-11-20 |
 | [blueberry](https://open.spotify.com/track/4yMZBub2nvvB75dKx6W259) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6F4qw9nq5wORLwe729uJkG) | 1:56 | 2020-11-12 | 2022-11-19 |
 | [blueberry](https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY) | 1:56 | 2020-11-12 |  |
@@ -36,6 +37,7 @@
 | [Cloud Dance](https://open.spotify.com/track/4DIQbr7iqFaHsw8KkKl47l) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/2Y3eYq0lYHd3VdiuFuAUOb) | 2:58 | 2020-11-12 | 2022-07-29 |
 | [Cloud Dance](https://open.spotify.com/track/7cq4lZVXYxv9HsjhF62AZt) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/5wtHowEK9MeJW7dqzGdWrm) | 2:58 | 2020-11-12 |  |
 | [Colorful Skies](https://open.spotify.com/track/61hUoJIBc5m8a1YHu15ln9) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4) | [Colorful Skies](https://open.spotify.com/album/6rk7Y2kVA0Mjk4tYISix4q) | 1:55 | 2022-07-15 | 2022-11-20 |
+| [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 | 2022-07-15 |  |
 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 | 2020-11-12 |  |
 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2020-11-12 | 2022-07-27 |
 | [Devine](https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [Devine](https://open.spotify.com/album/52KSCzrUXBM0seRkCbgtCS) | 2:02 | 2020-11-12 | 2022-08-09 |
@@ -100,7 +102,7 @@
 | [Oracle Night](https://open.spotify.com/track/1tNpRWu5tHylrVuMAhzvNz) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 2:30 | 2020-11-12 | 2022-07-28 |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2020-11-12 |  |
 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 | 2020-11-12 |  |
-| [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 | 2020-11-12 |  |
+| [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 | 2020-11-12 | 2022-11-27 |
 | [Safehouse](https://open.spotify.com/track/7J9DIL1Tzsy1a4TuMowZKM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Safehouse](https://open.spotify.com/album/5ggdPng4hoTNs2ORxSUEA5) | 2:39 | 2020-11-12 | 2022-08-30 |
 | [Sandalwood](https://open.spotify.com/track/1mU5tbLwcCYs64FhTTEQ4U) | [J\. Roosevelt](https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW) | [Meditations on Silence](https://open.spotify.com/album/5x21oAOWxgh2zIg3ORfAdw) | 2:48 | 2020-11-12 |  |
 | [Sandcastle](https://open.spotify.com/track/4uzI5lrZY5XD9D8QpUVESB) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:44 | 2020-11-12 |  |

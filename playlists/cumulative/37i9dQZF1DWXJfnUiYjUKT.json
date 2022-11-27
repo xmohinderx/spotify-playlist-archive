@@ -6050,7 +6050,7 @@
     },
     {
       "album": {
-        "name": "B&B (Booze & Bumbum) [feat. Victony, KTIZO]",
+        "name": "B&B (Booze & Bumbum)",
         "url": "https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl"
       },
       "artists": [
@@ -6071,7 +6071,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181090,
-      "name": "B&B (Booze & Bumbum) [feat. Victony, KTIZO]",
+      "name": "B&B (Booze & Bumbum)",
       "url": "https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8"
     },
     {
@@ -15803,12 +15803,12 @@
           "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         },
         {
-          "name": "Alex Metric",
-          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
-        },
-        {
           "name": "DJ Tennis",
           "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
         }
       ],
       "date_added": "2022-11-25",

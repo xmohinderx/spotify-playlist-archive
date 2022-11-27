@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 106561,
+  "num_followers": 106624,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMDhjOTVkMWI1MWYwMjYzYjVlNzE4YzE4OTNjNDQ5MDcw",
+  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMDYxZTJhN2NkMjM2NjNhNjY4YWNkZGQ1NWZjZWM5NjJl",
   "tracks": [
     {
       "added_at": "2021-12-31 06:28:29",
@@ -967,6 +967,26 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Worship: The Remix Project, Vol. 3",
+        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Skye Reedy",
+          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
+        }
+      ],
+      "duration_ms": 236025,
+      "name": "The Blessing - Reyer Remix",
+      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Motion Worship",
         "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale)",
       "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Worship: The Remix Project, Vol. 3",
-        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Skye Reedy",
-          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
-        }
-      ],
-      "duration_ms": 236025,
-      "name": "The Blessing - Reyer Remix",
-      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
     },
     {
       "added_at": "2021-12-31 06:28:29",

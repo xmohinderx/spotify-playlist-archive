@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "ParadoxLive"! HIPHOPメディアミックスプロジェクト「ParadoxLive（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2021
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,331 likes - 104 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,375 likes - 104 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 103 | [Voice Drama "RAGE" \- Part3](https://open.spotify.com/track/74pSRelGCXekyEbUPFfvAF) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC), [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 20:49 |
 | 104 | [Voice Drama "RAGE" \- Part4](https://open.spotify.com/track/4tWjRebdIp42mtpp4tiCVt) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC), [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 16:50 |
 
-Snapshot ID: `MTY2MTg3NTU2NCwwMDAwMDAwMDQyNGQ0ZTU0NDE5MWEzZTI1MThmYmQxYzNiODc4MzRm`
+Snapshot ID: `MTY2MTg3NTU2NCwwMDAwMDAwMDhkZGRiZWU4MDAyNDU1MzQwY2Q0M2QyZDU2N2IyZTMw`

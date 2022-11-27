@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683,050 likes - 298 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683,162 likes - 298 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 15 | [Motion](https://open.spotify.com/track/1ETktQHotqA5mRLE3ABnin) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Motion](https://open.spotify.com/album/0jyrfxsP4q6BGHSY03TOYw) | 3:17 |
 | 16 | [Julie's Waltz](https://open.spotify.com/track/3JmuMlXX4twb9yJhS8KhIz) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Julie's Waltz](https://open.spotify.com/album/0xMw5der8XOkDxmiLjL95l) | 2:14 |
 | 17 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 |
-| 18 | [Evening](https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no) | [Sakari Kinnunen](https://open.spotify.com/artist/5npl96YDCVWOmIGhjA6WW4) | [Evening](https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A) | 1:37 |
+| 18 | [Evening](https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no) | [Sakkari](https://open.spotify.com/artist/6vdV4uIfIEB62qFn9KqE2I) | [Evening](https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A) | 1:37 |
 | 19 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 |
 | 20 | [Finale](https://open.spotify.com/track/3NT3cMv9qqmIX45fQqwVIU) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Sweet Water](https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG) | 2:34 |
 | 21 | [Into the Clouds](https://open.spotify.com/track/3wOfAFp0qCR8SWsjfSVoev) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Unbound Tales of Serenity](https://open.spotify.com/album/04LqkhrKtzjwbO3vhPE2ji) | 2:35 |

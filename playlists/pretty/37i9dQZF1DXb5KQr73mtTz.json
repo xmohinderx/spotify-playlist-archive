@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 7008,
+  "num_followers": 7022,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEwNzU3MCwwMDAwMDAwMDFhYzhjNWQzZTEwMDMyODBkYmY2OGVhYzE2NGFhZmQ1",
+  "snapshot_id": "MTY2OTEwNzU3MCwwMDAwMDAwMGY4ZTY2MjE3NmJmN2M4N2JhYzdjY2E1NDdhMDM3NmVm",
   "tracks": [
     {
       "added_at": "2022-11-03 09:24:26",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
     },
     {
+      "added_at": "2022-11-27 01:37:51",
+      "album": {
+        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
+        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
+    },
+    {
       "added_at": "2022-11-03 09:24:26",
       "album": {
         "name": "&10",
@@ -515,22 +531,6 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2022-11-26 01:37:07",
-      "album": {
-        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
-        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "You Are The Sea",
-      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
     },
     {
       "added_at": "2022-11-03 09:24:26",

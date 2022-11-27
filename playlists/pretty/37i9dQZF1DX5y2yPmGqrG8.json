@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 293583,
+  "num_followers": 293703,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTgwMCwwMDAwMDAwMDYxMWNlZjFlOTk2MGM4NDM4YjhhOTZhODcwNTg2M2Zh",
+  "snapshot_id": "MTY2OTM0NTgwMCwwMDAwMDAwMDQ2ZTVhMzMyNzc3MmM5ZTY1YTc0ODM4ZjVmNzg1MjM5",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH"
     },
     {
-      "added_at": "2022-11-26 01:26:43",
+      "added_at": "2022-11-27 01:29:08",
       "album": {
         "name": "The Sun is Parallel",
         "url": "https://open.spotify.com/album/3WEskLTX6RJBwSl9e8HTjZ"
@@ -291,6 +291,26 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+        }
+      ],
+      "duration_ms": 204845,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 530894,
       "name": "Movement 6",
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Svalbard",
-        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Andy Barlow",
-          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
-        }
-      ],
-      "duration_ms": 204845,
-      "name": "Duvet",
-      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Falaise",
-      "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Falaise",
+      "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
     },
     {
       "added_at": "2022-10-14 04:40:55",

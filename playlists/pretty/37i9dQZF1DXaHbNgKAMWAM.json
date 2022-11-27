@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 8313,
+  "num_followers": 8331,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MjQ5MCwwMDAwMDAwMDFiZmE2YmE3YWUwZTc2M2JlYTY2MWE0NGI3ZWI3NmI2",
+  "snapshot_id": "MTY2OTM0MjQ5MCwwMDAwMDAwMDQ5ZjM1MDU4NDIyYTFhYWQ4MTZjODM5MTc2NGU4ZTUy",
   "tracks": [
     {
       "added_at": "2022-11-22 08:58:45",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2022-11-22 08:58:45",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
-        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk"
-      },
-      "artists": [
-        {
-          "name": "O.WHEN",
-          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "\uc624\ub298\uc758 \ub108",
-      "url": "https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 182313,
       "name": "First Love",
       "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
+        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "\uc624\ub298\uc758 \ub108",
+      "url": "https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi"
     },
     {
       "added_at": "2022-11-22 08:58:45",

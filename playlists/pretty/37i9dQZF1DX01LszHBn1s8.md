@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i also wanna be BFF with chris and meghan ✨💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,936 likes - 600 songs - 1 day 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,034 likes - 600 songs - 1 day 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

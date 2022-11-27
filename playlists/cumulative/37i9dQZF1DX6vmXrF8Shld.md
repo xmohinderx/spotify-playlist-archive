@@ -4,7 +4,7 @@
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-74 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
+75 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [I Can't Stand Myself \(When You Touch Me\)](https://open.spotify.com/track/2e8ydLYXuH7MEj9eGjqlaz) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [I Can't Stand Myself When You Touch Me](https://open.spotify.com/album/1degrSNPAklT7ypRV2Rc3D) | 3:22 | 2020-12-01 |  |
 | [I Can't Stop Dancing](https://open.spotify.com/track/3evKZi4dI9Nw7Hit26XFN9) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [I Can't Stop Dancing](https://open.spotify.com/album/6EOG2HlsfnM8YDoimOiCyS) | 2:21 | 2020-12-01 |  |
 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 | 2020-12-01 |  |
-| [I'm Shakin'](https://open.spotify.com/track/0NFLJaA6Pwha8Yd2lGPKzw) | [Little Willie John](https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ) | [Sleep \- The Singles As & Bs, 1955 \- 1961](https://open.spotify.com/album/66NkEqRkwTBmBAf6FlR0IZ) | 2:28 | 2020-12-01 |  |
+| [I'm Shakin'](https://open.spotify.com/track/0NFLJaA6Pwha8Yd2lGPKzw) | [Little Willie John](https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ) | [Sleep \- The Singles As & Bs, 1955 \- 1961](https://open.spotify.com/album/66NkEqRkwTBmBAf6FlR0IZ) | 2:28 | 2020-12-01 | 2022-11-27 |
+| [I'm Shakin'](https://open.spotify.com/track/23KiVFFZMMMMV3sAVmhrr6) | [Little Willie John](https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ) | [Walk Slow](https://open.spotify.com/album/05cBWZpaWFHYRFt4mmwAil) | 2:35 | 2020-12-01 |  |
 | [In The Middle \(Parts 1 And 2\)](https://open.spotify.com/track/2JjIeCdqjAlvUqA4FUmjuB) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Popcorn](https://open.spotify.com/album/5LjyPklmoEuSftxKZKV4LZ) | 6:50 | 2020-12-01 |  |
 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 | 2020-12-01 |  |
 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 | 2020-12-01 |  |

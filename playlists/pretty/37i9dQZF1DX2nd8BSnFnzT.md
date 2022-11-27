@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Supercombo
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,997 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,002 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 9 | [Billy Dog](https://open.spotify.com/track/0igu5G376i4B2QQUSaxmjZ) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Billy Dog](https://open.spotify.com/album/5lYmZUIPKwHfnrsZ9UduIb) | 3:01 |
 | 10 | [O Que Estou Fazendo Agora](https://open.spotify.com/track/4fhHfIPTwwbSJfuvsBSAjU) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [O Que Estou Fazendo Agora](https://open.spotify.com/album/26OiVBi7902CsYgfmfZfXe) | 3:21 |
 | 11 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 |
-| 12 | [Tudo O Que Eu Sempre Quis \- Original](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis \(Original\)](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 |
+| 12 | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 |
 | 13 | [Rooster](https://open.spotify.com/track/7ijmX7o4MB06LDVVcuohlI) | [M E R O S](https://open.spotify.com/artist/0R3t9mt5muhJ7qz1GYCI8V), [Mary More](https://open.spotify.com/artist/3dgU4WsBT8vFw7cXp7bJ8j), [Gui Caiaffa](https://open.spotify.com/artist/4daN2VfmiAdcN1qPH29ad3) | [ROOSTER](https://open.spotify.com/album/5G7RZtH50aoKXWrzx8TvPL) | 4:57 |
 | 14 | [Partido](https://open.spotify.com/track/3PJLp4egjTYexNyFbG5doI) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG) | [Partido](https://open.spotify.com/album/5BeuqWG61r5jImQSa34KdA) | 3:49 |
 | 15 | [História de Verão \- Ao Vivo](https://open.spotify.com/track/1Bt9doFN2PjDIeKjYUHdHt) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Ao Vivo Na Fundição](https://open.spotify.com/album/63KFXOVwHt1VBr0labzT4s) | 3:14 |

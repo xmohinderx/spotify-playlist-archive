@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 16843,
+  "num_followers": 16882,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDc2MzQ0NjQ5MzVmMTgyMDc0YTQ0YmZkNjE0ZTIyOGE5",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDFiM2VjZWRkMTFmOTNmYjg4MGZiZjI5NDU2YzllY2E4",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -511,22 +511,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "On Tap",
-        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Watch Me Move",
-      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 288360,
       "name": "Come To Mama",
       "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "On Tap",
+        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Watch Me Move",
+      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
       },
       "artists": [
         {
-          "name": "Samuel Ashton",
-          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
         }
       ],
-      "duration_ms": 199960,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
+      "duration_ms": 193106,
+      "name": "Bad Axe",
+      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -673,20 +673,20 @@
       "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
       },
       "artists": [
         {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+          "name": "Samuel Ashton",
+          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
         }
       ],
-      "duration_ms": 193106,
-      "name": "Bad Axe",
-      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
+      "duration_ms": 199960,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Hoodoo Kings",
-        "url": "https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz"
-      },
-      "artists": [
-        {
-          "name": "The Hoodoo Kings",
-          "url": "https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR"
-        }
-      ],
-      "duration_ms": 266426,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Iceman",
         "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 332560,
       "name": "Put The Shoe On The Other Foot",
       "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Hoodoo Kings",
+        "url": "https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz"
+      },
+      "artists": [
+        {
+          "name": "The Hoodoo Kings",
+          "url": "https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR"
+        }
+      ],
+      "duration_ms": 266426,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Iceman",
+        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 250333,
+      "name": "I'm Beginning To Wonder",
+      "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Alligator Records Years",
         "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 231026,
       "name": "I Smell Smoke",
       "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Bubbles",
-        "url": "https://open.spotify.com/album/6bIs6laKPXv8uQYPRGncif"
-      },
-      "artists": [
-        {
-          "name": "Rick Holmstrom",
-          "url": "https://open.spotify.com/artist/35UiXUhK0DxiIColZzzQ4P"
-        }
-      ],
-      "duration_ms": 143116,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0"
     }
   ],
   "unique_name": "Funky Blues",

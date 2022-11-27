@@ -4,11 +4,12 @@
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4I1tHZ9VgAFZYFBmOwNU7i)
+96 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/4I1tHZ9VgAFZYFBmOwNU7i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abule](https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:19 | 2021-12-28 |  |
+| [After Party](https://open.spotify.com/track/2mgcd1yyXVz0mMvFE9yCGo) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [After Party](https://open.spotify.com/album/7A5sOBdTQwFUlE3D0JbIVB) | 3:11 | 2022-11-26 |  |
 | [Another Level](https://open.spotify.com/track/1wI7Fv20S6Cp26dwIu1aZJ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Another Level](https://open.spotify.com/album/1el7Fb3Dc9L7FRB0bKGkD9) | 4:05 | 2021-12-28 | 2022-09-20 |
 | [Another Level](https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Patoranking](https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm) | 4:05 | 2022-09-19 | 2022-10-13 |
 | [Aunty Lovina](https://open.spotify.com/track/71ijJzLMwiBuUsYTNU5Th9) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Love Drunk](https://open.spotify.com/album/5d0oU10qoxpnSpa4PCaKXo) | 4:00 | 2022-10-12 | 2022-10-14 |
@@ -19,7 +20,7 @@
 | [Black Girl Magic](https://open.spotify.com/track/6CVUbSUCw5SeWk2S7f7vTN) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:21 | 2021-12-28 | 2022-04-18 |
 | [Blessed \- Remix](https://open.spotify.com/track/28CK6XonxLP2z48QwNXezY) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Blessed More Blessed \(The Remixes\)](https://open.spotify.com/album/5PBxaktc70K6Fe8P9APQKB) | 3:05 | 2022-02-25 |  |
 | [Bwana Mdogo \(feat\. Patoranking\)](https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:25 | 2021-12-28 |  |
-| [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 | 2021-12-29 |  |
+| [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 | 2021-12-29 | 2022-11-27 |
 | [Champion](https://open.spotify.com/track/1MgeahgsOalFDm0cdsqnMu) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:34 | 2021-12-28 | 2022-02-01 |
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-28 |  |
 | [Clean and Pure](https://open.spotify.com/track/4FfweIA6z8WoNKGMv6G2S0) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:10 | 2021-12-31 |  |

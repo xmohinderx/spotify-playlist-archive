@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 55511,
+  "num_followers": 55555,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMGExNjBiMDNhNzY2M2U3Y2I4ZGQxMWYzMzdjZWU3ZTFm",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDA5MjQ4YzNkNjk5ZGNmZTljODEyNDlmYTlhMzA0ZjU2",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/14UoUyJ5opQScau6Iw6G0e"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "Joe Dassin",
-        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Et si tu n'existais pas",
-      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
-    },
-    {
       "added_at": "2022-01-18 23:00:02",
       "album": {
         "name": "IND\u00c9L\u00c9BILE",
@@ -199,22 +183,6 @@
       "duration_ms": 170573,
       "name": "IND\u00c9L\u00c9BILE",
       "url": "https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt"
-    },
-    {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
-        "name": "Airs pa\u00efens",
-        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -239,18 +207,18 @@
     {
       "added_at": "2022-01-18 23:00:02",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+        "name": "Airs pa\u00efens",
+        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
         }
       ],
-      "duration_ms": 165293,
-      "name": "Tout le monde (sauf toi)",
-      "url": "https://open.spotify.com/track/4lyIlP2RIrY2dy6U6Xy0qu"
+      "duration_ms": 149293,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -267,6 +235,22 @@
       "duration_ms": 196776,
       "name": "Parce que c'est toi",
       "url": "https://open.spotify.com/track/2GSdDPQZPIoy0nPSzY7iXr"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "Tout le monde (sauf toi)",
+      "url": "https://open.spotify.com/track/4lyIlP2RIrY2dy6U6Xy0qu"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -289,6 +273,22 @@
       "url": "https://open.spotify.com/track/6OGpURRDL26WAeouxgnfX9"
     },
     {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 261106,
+      "name": "Je T\u2019aime",
+      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+    },
+    {
       "added_at": "2022-01-18 23:00:02",
       "album": {
         "name": "Incarnat",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/7C03dDo2QyGVq7zjWF5uGB"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
+      "added_at": "2022-01-18 23:00:02",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
       "artists": [
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
         }
       ],
-      "duration_ms": 261106,
-      "name": "Je T\u2019aime",
-      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+      "duration_ms": 239573,
+      "name": "A la Folie",
+      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -341,20 +341,20 @@
       "url": "https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy"
     },
     {
-      "added_at": "2022-01-18 23:00:02",
+      "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+        "name": "1983",
+        "url": "https://open.spotify.com/album/2vZVdy9Me7olnm2GEbhPYv"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Sophie Hunger",
+          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
         }
       ],
-      "duration_ms": 239573,
-      "name": "A la Folie",
-      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
+      "duration_ms": 226184,
+      "name": "Le vent nous portera",
+      "url": "https://open.spotify.com/track/0UC6CJgTFCikxLJZMNw8Xu"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "1983",
-        "url": "https://open.spotify.com/album/2vZVdy9Me7olnm2GEbhPYv"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hunger",
-          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
-        }
-      ],
-      "duration_ms": 226184,
-      "name": "Le vent nous portera",
-      "url": "https://open.spotify.com/track/0UC6CJgTFCikxLJZMNw8Xu"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Savoir Aimer",
         "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
       },
@@ -435,22 +419,6 @@
       "duration_ms": 281213,
       "name": "Savoir aimer",
       "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
-    },
-    {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
-        "name": "Petite plage",
-        "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Les \u00e9pousailles",
-      "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -475,6 +443,22 @@
     {
       "added_at": "2022-01-18 23:00:02",
       "album": {
+        "name": "Petite plage",
+        "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Les \u00e9pousailles",
+      "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
         "name": "De L' Amour Le Mieux",
         "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
       },
@@ -491,22 +475,6 @@
     {
       "added_at": "2022-01-18 23:00:02",
       "album": {
-        "name": "Les Jupes",
-        "url": "https://open.spotify.com/album/6kIdkHW2v8PYbTTfSi1cYi"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 180452,
-      "name": "Les jupes",
-      "url": "https://open.spotify.com/track/7HCKrwom1hMdLi6JlkWziV"
-    },
-    {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
         "name": "Brol",
         "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
       },
@@ -519,6 +487,22 @@
       "duration_ms": 192546,
       "name": "Nombreux",
       "url": "https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "Les Jupes",
+        "url": "https://open.spotify.com/album/6kIdkHW2v8PYbTTfSi1cYi"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 180452,
+      "name": "Les jupes",
+      "url": "https://open.spotify.com/track/7HCKrwom1hMdLi6JlkWziV"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -815,22 +799,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Au masculin",
-        "url": "https://open.spotify.com/album/1UsDlpZBxnuZBo1xSyYax6"
-      },
-      "artists": [
-        {
-          "name": "Amandine Bourgeois",
-          "url": "https://open.spotify.com/artist/5f2vuPQdfpjzhuIA0W9bNm"
-        }
-      ],
-      "duration_ms": 298062,
-      "name": "Je t'aimais, je t'aime et je t'aimerai",
-      "url": "https://open.spotify.com/track/7Kw8uSGbshybOzw4fmosUx"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Tu m'aimes-tu",
         "url": "https://open.spotify.com/album/3FsxgvoKpBzi9jgySKoF8f"
       },
@@ -847,18 +815,18 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Maladie d'amour",
-        "url": "https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV"
+        "name": "Au masculin",
+        "url": "https://open.spotify.com/album/1UsDlpZBxnuZBo1xSyYax6"
       },
       "artists": [
         {
-          "name": "Jimmy Hunt",
-          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+          "name": "Amandine Bourgeois",
+          "url": "https://open.spotify.com/artist/5f2vuPQdfpjzhuIA0W9bNm"
         }
       ],
-      "duration_ms": 204720,
-      "name": "Maladie d'amour",
-      "url": "https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F"
+      "duration_ms": 298062,
+      "name": "Je t'aimais, je t'aime et je t'aimerai",
+      "url": "https://open.spotify.com/track/7Kw8uSGbshybOzw4fmosUx"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -875,6 +843,22 @@
       "duration_ms": 211360,
       "name": "J't'aime tout court",
       "url": "https://open.spotify.com/track/4wRNDhiYiB07K39uBI7AlW"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Maladie d'amour",
+        "url": "https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Maladie d'amour",
+      "url": "https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -907,6 +891,22 @@
       "duration_ms": 288373,
       "name": "Pour que tu m'aimes encore",
       "url": "https://open.spotify.com/track/5iUdu5DddFwvqmnwL0nOBI"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "J'attendais",
+      "url": "https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -959,22 +959,6 @@
       "duration_ms": 191093,
       "name": "Kraft Dinner",
       "url": "https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "J'attendais",
-      "url": "https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1127,22 +1111,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Mara Tremblay",
-        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
-      },
-      "artists": [
-        {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Les Aurores",
-      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "La Voix 5",
         "url": "https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW"
       },
@@ -1155,6 +1123,22 @@
       "duration_ms": 247973,
       "name": "Tu ne sauras jamais",
       "url": "https://open.spotify.com/track/255h1g53lT3LmG6djeescl"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Mara Tremblay",
+        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Les Aurores",
+      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1235,6 +1219,22 @@
       "duration_ms": 215866,
       "name": "Quand on n\u2019a que l\u2019amour",
       "url": "https://open.spotify.com/track/3N36V5cm6DGRLSAZJec8sq"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "22h22",
+        "url": "https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Debout",
+      "url": "https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2"
     }
   ],
   "unique_name": "Je t'aime",

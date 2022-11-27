@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-103 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/25klq3APWVygYEP5K8Bhua)
+104 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/25klq3APWVygYEP5K8Bhua)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bahia](https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:32 | 2021-12-28 |  |
 | [Bala Bala](https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oyaya !](https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8) | 3:42 | 2021-12-28 |  |
 | [Batonga](https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:36 | 2021-12-28 |  |
-| [Battu](https://open.spotify.com/track/7rCfUR12fVhth4IyT04Wuv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Care For Haiti](https://open.spotify.com/album/5o4KCZHnzOSH9CiNg4GUku) | 2:49 | 2021-12-28 |  |
+| [Battu](https://open.spotify.com/track/7rCfUR12fVhth4IyT04Wuv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Care For Haiti](https://open.spotify.com/album/5o4KCZHnzOSH9CiNg4GUku) | 2:49 | 2021-12-28 | 2022-11-27 |
 | [Bidonville \- DJ Abdel Remix](https://open.spotify.com/track/7lxtk1QLtyojQiERY9muAF) | [Gad Elmaleh](https://open.spotify.com/artist/0uHamPJBu9r0cJAcZJyQpW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [DJ Abdel](https://open.spotify.com/artist/2UhQHcRXyVTc6IO0bFIRh3) | [Bidonville \(DJ Abdel Remix\)](https://open.spotify.com/album/6fYMpcmPuTrsJ5YnDHOvHx) | 2:38 | 2021-12-28 | 2022-01-12 |
 | [Blewu](https://open.spotify.com/track/1nFJNqpJXnnkd9WG3oriqB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [EVE](https://open.spotify.com/album/7809ieIOof167f7FIyLiCr) | 2:50 | 2022-05-30 | 2022-07-10 |
 | [Blewu](https://open.spotify.com/track/5KV7qHIhx8nmuOiqvqti0Z) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Notes for the Future](https://open.spotify.com/album/3nxa5sJ1kyGqmSUDNW5VM5) | 2:51 | 2021-12-28 |  |
@@ -54,6 +54,7 @@
 | [La Vida Es Un Carnaval \- Bomba Estereo Remix](https://open.spotify.com/track/1gp1yn0h8hQWgrJq4Kgiu5) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [La Vida Es Un Carnaval \(Bomba Estereo Remix\)](https://open.spotify.com/album/49yvEMly7OnIUsE0L41qIf) | 3:21 | 2021-12-28 | 2022-06-09 |
 | [La Vida Es Un Carnaval \- Rollo Tomasi Remix](https://open.spotify.com/track/4VOYh2yzGAvclUpTE8Yy6e) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [La Vida Es Un Carnaval \(Rollo Tomasi Remix\)](https://open.spotify.com/album/2QuHH0lBOUJ0jO5d1PlvVY) | 3:20 | 2022-06-08 | 2022-10-13 |
 | [Lady](https://open.spotify.com/track/6kixQpOqh28TiGN0Xm70U9) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Akua Naru](https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K) | [Lady](https://open.spotify.com/album/1hssP3abybgapegXIY6NjW) | 5:15 | 2022-05-04 |  |
+| [Lakutshona Llanga](https://open.spotify.com/track/7zzn3IA6vULruHJ32GVPA4) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [ÕŸÖ](https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX) | 2:16 | 2022-11-26 |  |
 | [Le monde comme un bébé](https://open.spotify.com/track/33xaQMAJxMJx61qIZA3zm4) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Oyaya !](https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8) | 2:42 | 2022-10-28 | 2022-11-21 |
 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-10 |  |
 | [Listening Wind](https://open.spotify.com/track/2vh0Wy3Jvyy3vy6X9S4FgU) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 6:01 | 2021-12-28 | 2022-10-13 |

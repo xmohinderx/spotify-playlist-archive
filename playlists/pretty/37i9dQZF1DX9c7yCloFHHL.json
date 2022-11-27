@@ -1,12 +1,12 @@
 {
   "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Daniel Avery on cover.",
-  "num_followers": 109767,
+  "num_followers": 109850,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzODk4NCwwMDAwMDAwMDg4MDAzYWFiYWNiMWY2NzA3MTQwNzBiMDdiMjgwZjk1",
+  "snapshot_id": "MTY2OTMzODk4NCwwMDAwMDAwMDc2MmM2NTVmM2NjODlmMThmZTI1YjMxNzAwYzFmMjdl",
   "tracks": [
     {
       "added_at": "2022-11-25 01:16:24",
@@ -617,26 +617,6 @@
       "url": "https://open.spotify.com/track/1kXAT5Y0fIBw1vVbTgoS3i"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 80427,
-      "name": "Brush",
-      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
-    },
-    {
       "added_at": "2022-10-04 11:13:14",
       "album": {
         "name": "Voices 2",
@@ -663,6 +643,26 @@
       "duration_ms": 413241,
       "name": "Psychogeography",
       "url": "https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 80427,
+      "name": "Brush",
+      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -745,26 +745,6 @@
       "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Grace Davidson",
-          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
-        }
-      ],
-      "duration_ms": 82334,
-      "name": "Path 3 (7676) - Pt. 1",
-      "url": "https://open.spotify.com/track/16BSYdWcO54eHEgIHsFGrR"
-    },
-    {
       "added_at": "2022-11-11 06:22:45",
       "album": {
         "name": "Then",
@@ -783,6 +763,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "Flur",
+        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 197335,
+      "name": "LUN",
+      "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "Partisans",
         "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
       },
@@ -797,20 +793,24 @@
       "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
     },
     {
-      "added_at": "2022-10-04 11:13:14",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
       },
       "artists": [
         {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
         }
       ],
-      "duration_ms": 197335,
-      "name": "LUN",
-      "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
+      "duration_ms": 82334,
+      "name": "Path 3 (7676) - Pt. 1",
+      "url": "https://open.spotify.com/track/16BSYdWcO54eHEgIHsFGrR"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H"
     },
     {
+      "added_at": "2022-11-11 06:22:45",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
       "added_at": "2022-10-04 11:13:14",
       "album": {
         "name": "Nutrition",
@@ -923,22 +939,6 @@
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
-    },
-    {
-      "added_at": "2022-11-11 06:22:45",
-      "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -971,6 +971,22 @@
       "duration_ms": 312000,
       "name": "Mt Baker",
       "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Margin",
+        "url": "https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I"
+      },
+      "artists": [
+        {
+          "name": "Abstract Aprils",
+          "url": "https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0"
+        }
+      ],
+      "duration_ms": 316497,
+      "name": "Margin",
+      "url": "https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1015,22 +1031,6 @@
       "duration_ms": 226000,
       "name": "8th Soundscape",
       "url": "https://open.spotify.com/track/2ruA6raOTclsNg8f8JB0x1"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "Margin",
-        "url": "https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I"
-      },
-      "artists": [
-        {
-          "name": "Abstract Aprils",
-          "url": "https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0"
-        }
-      ],
-      "duration_ms": 316497,
-      "name": "Margin",
-      "url": "https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1105,26 +1105,6 @@
       "url": "https://open.spotify.com/track/0TjhUnp64Xo4MpPeLXFd9W"
     },
     {
-      "added_at": "2022-11-11 06:22:45",
-      "album": {
-        "name": "Kizuna",
-        "url": "https://open.spotify.com/album/7JzP4xRIXlG24pT6dqZmbG"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        },
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 342145,
-      "name": "Kizuna",
-      "url": "https://open.spotify.com/track/7jdH3x7Ab9IlgukamWuHRS"
-    },
-    {
       "added_at": "2022-10-04 11:13:14",
       "album": {
         "name": "We Wave From Our Boats",
@@ -1139,22 +1119,6 @@
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zjgCJFnTh4wYx0BHhV7uh"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 164383,
-      "name": "I Wanna Dance With Somebody - Spotify Singles",
-      "url": "https://open.spotify.com/track/3RfbYuIRk9fk4ZjpYv7dej"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1177,6 +1141,22 @@
       "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zjgCJFnTh4wYx0BHhV7uh"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 164383,
+      "name": "I Wanna Dance With Somebody - Spotify Singles",
+      "url": "https://open.spotify.com/track/3RfbYuIRk9fk4ZjpYv7dej"
+    },
+    {
       "added_at": "2022-11-11 06:22:45",
       "album": {
         "name": "some kind of peace",
@@ -1191,6 +1171,26 @@
       "duration_ms": 253476,
       "name": "Still / Sound",
       "url": "https://open.spotify.com/track/1rJFEKA0m4aUeQNK9378uo"
+    },
+    {
+      "added_at": "2022-11-11 06:22:45",
+      "album": {
+        "name": "Kizuna",
+        "url": "https://open.spotify.com/album/7JzP4xRIXlG24pT6dqZmbG"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 342145,
+      "name": "Kizuna",
+      "url": "https://open.spotify.com/track/7jdH3x7Ab9IlgukamWuHRS"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "In Light Of Blues",
+        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
+      },
+      "artists": [
+        {
+          "name": "Celer",
+          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
+        }
+      ],
+      "duration_ms": 115914,
+      "name": "Precious Past Hours",
+      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "In Light Of Blues",
-        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
-      },
-      "artists": [
-        {
-          "name": "Celer",
-          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
-        }
-      ],
-      "duration_ms": 115914,
-      "name": "Precious Past Hours",
-      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Sleep Better",
-        "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
-      },
-      "artists": [
-        {
-          "name": "Tom Middleton",
-          "url": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
-        }
-      ],
-      "duration_ms": 599000,
-      "name": "Relax 6 (Awakening)",
-      "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "Nouveau-N\u00e9",
         "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 241447,
       "name": "Fervedouro Dois",
       "url": "https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Sleep Better",
+        "url": "https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG"
+      },
+      "artists": [
+        {
+          "name": "Tom Middleton",
+          "url": "https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT"
+        }
+      ],
+      "duration_ms": 599000,
+      "name": "Relax 6 (Awakening)",
+      "url": "https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "Inspirit (Takuya's Ry\u016bteki Dragons)",
+        "url": "https://open.spotify.com/album/35G1TshqzBnZAvicYfH2qw"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 255459,
+      "name": "Inspirit - Takuya's Ry\u016bteki Dragons",
+      "url": "https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "MK 3.5: In Your Eyes & A Deities Encore | Q & Quartz",
         "url": "https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 122906,
       "name": "Q",
       "url": "https://open.spotify.com/track/6DkTpLhAsfsQNxnuZNMtVJ"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "Inspirit (Takuya's Ry\u016bteki Dragons)",
-        "url": "https://open.spotify.com/album/35G1TshqzBnZAvicYfH2qw"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 255459,
-      "name": "Inspirit - Takuya's Ry\u016bteki Dragons",
-      "url": "https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg"
     },
     {
       "added_at": "2022-11-11 06:22:45",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "Bomani",
+        "url": "https://open.spotify.com/album/5mplZY05CkadQTzuyGpxXI"
+      },
+      "artists": [
+        {
+          "name": "Oli Bayston",
+          "url": "https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H"
+        }
+      ],
+      "duration_ms": 149493,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/6Bk9d5wyKQxNu5hNr4njcI"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "Antiphonals",
         "url": "https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh"
       },
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Bomani",
-        "url": "https://open.spotify.com/album/5mplZY05CkadQTzuyGpxXI"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
       "artists": [
         {
-          "name": "Oli Bayston",
-          "url": "https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 149493,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/6Bk9d5wyKQxNu5hNr4njcI"
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1729,40 +1745,20 @@
       "url": "https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK"
     },
     {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
       "added_at": "2022-11-11 06:22:45",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+        "name": "Vahin\u00e9",
+        "url": "https://open.spotify.com/album/6FVf1hxUXKyJW8NHBaT2pd"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
         }
       ],
-      "duration_ms": 287198,
-      "name": "Wall of Sleep",
-      "url": "https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV"
+      "duration_ms": 471562,
+      "name": "Shadye",
+      "url": "https://open.spotify.com/track/5yTK1Ur5ONsjxaOq6ZfT27"
     }
   ],
   "unique_name": "Ambiente",

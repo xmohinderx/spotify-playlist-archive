@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Stormzy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,458 likes - 96 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,544 likes - 96 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 10 | [I Am \(feat\. IO, DONY JOINT, Gottz, Holly Q & KEIJU\)](https://open.spotify.com/track/6fsEy2H3hS2n79QlWvM7IQ) | [KANDYTOWN](https://open.spotify.com/artist/5Treq1MbA8Kw8EGwJc0nzy), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [DONY JOINT](https://open.spotify.com/artist/3zBimOdEMH8zaDJY2QkniH), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [Holly Q](https://open.spotify.com/artist/5hlXzixAQclz0HNTZaEFLk), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [I Am \(feat\. IO, DONY JOINT, Gottz, Holly Q & KEIJU\)](https://open.spotify.com/album/7gVzer8MLw4VaPpxrUib0l) | 3:34 |
 | 11 | [For December](https://open.spotify.com/track/2CSLnoXSDSp0NPFBtHCXgU) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [For December](https://open.spotify.com/album/3KFI7FqkidDD2jQbDKEWkr) | 1:34 |
 | 12 | [GLORY](https://open.spotify.com/track/3tMxtuYadQT7qMVVlCeI9Y) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT) | [GLORY](https://open.spotify.com/album/3NMz7gHtA29851KYQdqyEX) | 3:06 |
-| 13 | [FOMO](https://open.spotify.com/track/4QrUAZpy00wOM5xP2Uq30c) | [Syamil](https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD), [Jar Francisco](https://open.spotify.com/artist/4SAXpOM7r77ISR3I1LPM3z), [OmarKENOBI](https://open.spotify.com/artist/6tyWHsrN1ximnTg5SmQgYr) | [Bounce](https://open.spotify.com/album/3a5gDs9N0CCUooTMLETSVu) | 2:46 |
+| 13 | [FOMO](https://open.spotify.com/track/4QrUAZpy00wOM5xP2Uq30c) | [Syamil](https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD), [Jar Francisco](https://open.spotify.com/artist/1coXALpmds7ZNwq3J1yWlk), [OmarKENOBI](https://open.spotify.com/artist/6tyWHsrN1ximnTg5SmQgYr) | [Bounce](https://open.spotify.com/album/3a5gDs9N0CCUooTMLETSVu) | 2:46 |
 | 14 | [CARDIO!](https://open.spotify.com/track/7h3td1RPfpONeZZ6ikse1l) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [CARDIO!](https://open.spotify.com/album/61upDarThRzp3wQ0nxaqWv) | 2:25 |
 | 15 | [Retreat](https://open.spotify.com/track/7m1c0Scsxcqc1tV5gmkYyP) | [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Retreat](https://open.spotify.com/album/2XdkuBgdYMYlPau3nTMZsh) | 2:10 |
 | 16 | [Tukoh Taka \- Official FFF Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 |

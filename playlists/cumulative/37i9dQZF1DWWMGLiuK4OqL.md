@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-281 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+282 songs - 19 hr 11 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 | 2022-01-20 |  |
 | [Send In The Clowns](https://open.spotify.com/track/30kplsNuLjewPoqzruJi5m) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 4:48 | 2022-01-20 | 2022-07-29 |
 | [Siren Song](https://open.spotify.com/track/5ni22llVwiCeoMkgHsDYP0) | [Vicki Burns](https://open.spotify.com/artist/7nZiiyzxTzzq15HO061L6S) | [Lotus Blossom Days](https://open.spotify.com/album/2D9AerrV1XId2OJ2gAUmSA) | 6:20 | 2022-07-14 |  |
-| [Skylark](https://open.spotify.com/track/5CYD74nAnkF99ykO3npx2g) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:29 | 2022-05-19 |  |
+| [Skylark](https://open.spotify.com/track/5CYD74nAnkF99ykO3npx2g) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:29 | 2022-05-19 | 2022-11-27 |
 | [Smile](https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae) | [Tia Brazda](https://open.spotify.com/artist/50hsY3SvrJloPHqVfBTI1R) | [When I Get Low](https://open.spotify.com/album/70ljTIleoi86TjqilzoR3r) | 2:45 | 2022-06-09 | 2022-11-19 |
 | [Smoke Gets in Your Eyes](https://open.spotify.com/track/377JiNUjjacysE2M01uEZF) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK), [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Flying Home](https://open.spotify.com/album/1KwMYu5s3ytrnUuWdB0ud1) | 4:53 | 2022-09-15 | 2022-11-24 |
 | [So Sorry For Your Love](https://open.spotify.com/track/5ijeJDlOJp63UtVYyAnyOD) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [At First Light](https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A) | 4:10 | 2022-01-20 | 2022-10-08 |
@@ -237,6 +237,7 @@
 | [Tea For Two](https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:24 | 2022-01-20 |  |
 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 | 2022-01-20 |  |
 | [Tenderly](https://open.spotify.com/track/0Yz5dTTup2vLhklobv3Qac) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:44 | 2022-01-20 | 2022-10-12 |
+| [Tenderly](https://open.spotify.com/track/6bMqQogZNBfntMz9wggan9) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq) | [Tenderly](https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU) | 3:47 | 2022-11-23 |  |
 | [That's All](https://open.spotify.com/track/4fccK8WxSPWlt9lolJqM6u) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [That's All](https://open.spotify.com/album/2TG44OnFdjWNm5DJHeTuo1) | 4:07 | 2022-06-30 | 2022-10-08 |
 | [The Folks Who Live On The Hill](https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 3:39 | 2022-01-20 | 2022-10-08 |
 | [The Game](https://open.spotify.com/track/1g7bWSgup8GCqIGjdM2XfO) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [The Game](https://open.spotify.com/album/4D18ZUei6YL7N0S2yOsKU3) | 2:06 | 2022-01-20 | 2022-10-26 |

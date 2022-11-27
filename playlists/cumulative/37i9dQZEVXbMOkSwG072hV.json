@@ -464,6 +464,24 @@
     },
     {
       "album": {
+        "name": "Aces",
+        "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
+      },
+      "artists": [
+        {
+          "name": "dkj",
+          "url": "https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122250,
+      "name": "Aces",
+      "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
+    },
+    {
+      "album": {
         "name": "Acorda, Pedrinho",
         "url": "https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj"
       },
@@ -533,6 +551,36 @@
       "duration_ms": 320872,
       "name": "Agora Eu Quero \u00c9 Lula L\u00e1",
       "url": "https://open.spotify.com/track/084RRLE3vLyu8PfonriKuu"
+    },
+    {
+      "album": {
+        "name": "Agudo M\u00e1gico 3",
+        "url": "https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD"
+      },
+      "artists": [
+        {
+          "name": "MC K.K",
+          "url": "https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod"
+        },
+        {
+          "name": "Dj TG Beats",
+          "url": "https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh"
+        },
+        {
+          "name": "Dj Aur\u00e9lio",
+          "url": "https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Agudo M\u00e1gico 3",
+      "url": "https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt"
     },
     {
       "album": {
@@ -1059,7 +1107,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 171428,
       "name": "Aqui Na Parma Tu Vem Pra Fuder",
       "url": "https://open.spotify.com/track/2SOeAhvJfh7HsGYPVtGG8H"
@@ -3050,6 +3098,24 @@
     },
     {
       "album": {
+        "name": "Movimento Verde Amarelo",
+        "url": "https://open.spotify.com/album/44yqcxU1rUSPYMBVre9P7e"
+      },
+      "artists": [
+        {
+          "name": "Movimento Verde Amarelo",
+          "url": "https://open.spotify.com/artist/5lyUbycl59awTz9lHwrLeh"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "Camisa Amarela",
+      "url": "https://open.spotify.com/track/0e6MvlRjXRteoo0H3JOBOl"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -3932,6 +3998,24 @@
     },
     {
       "album": {
+        "name": "Dan\u00e7a do Pombo",
+        "url": "https://open.spotify.com/album/5ICIP2rJtyWSXvKoryHM7R"
+      },
+      "artists": [
+        {
+          "name": "Mc Fa\u00edsca",
+          "url": "https://open.spotify.com/artist/0AcvdVvAdA4peJmpQURmWl"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154044,
+      "name": "Dan\u00e7a do Pombo",
+      "url": "https://open.spotify.com/track/4sVFQzUaW5eq2QDGAo20tb"
+    },
+    {
+      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -4309,7 +4393,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 268000,
       "name": "Deserto (Ao Vivo)",
       "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
@@ -5496,6 +5580,36 @@
     },
     {
       "album": {
+        "name": "Eu Vou Largar Minha Casa e Vou Morar no Cabar\u00e9",
+        "url": "https://open.spotify.com/album/2GKayyPu6owlpNpFLMFmsf"
+      },
+      "artists": [
+        {
+          "name": "Noguera DJ",
+          "url": "https://open.spotify.com/artist/5NTYeBxuaFuZ6uU9bpdVmd"
+        },
+        {
+          "name": "DJ KS 011",
+          "url": "https://open.spotify.com/artist/18sjZlZI0nWBzayixdp6UY"
+        },
+        {
+          "name": "MC Becca",
+          "url": "https://open.spotify.com/artist/4hqnw4b94ZSkaGEbJTlLPN"
+        },
+        {
+          "name": "MC Duzinho",
+          "url": "https://open.spotify.com/artist/6iKzrG23gyGWOBJGIi2Wm6"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189178,
+      "name": "Eu Vou Largar Minha Casa e Vou Morar no Cabar\u00e9",
+      "url": "https://open.spotify.com/track/7gkBEAt4U2PmKdfGaXPXIM"
+    },
+    {
+      "album": {
         "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
         "url": "https://open.spotify.com/album/1hGF2T38nY17dxGWZ0e1QQ"
       },
@@ -5555,7 +5669,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 136615,
       "name": "Eu Vou Tacar x Essas Hora da Noite",
       "url": "https://open.spotify.com/track/5vOLqik7QlFD5eq3otyXBm"
@@ -9917,7 +10031,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -11953,7 +12067,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 173333,
       "name": "Papo de Agustinho",
       "url": "https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF"

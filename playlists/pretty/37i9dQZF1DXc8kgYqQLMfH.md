@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,551 likes - 447 songs - 16 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,618 likes - 447 songs - 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -421,7 +421,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 411 | [nakano ride](https://open.spotify.com/track/5ydchUCAyRP8PIv2yN58Xj) | [yukku](https://open.spotify.com/artist/5s1XIyM3GUlnNMT51DGAjN) | [nakano ride](https://open.spotify.com/album/65jey1RllY2XjRtXrZjlQT) | 2:11 |
 | 412 | [Night Call](https://open.spotify.com/track/3J9PRKLJ0NL4uEv51FOrKI) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [l'Outlander](https://open.spotify.com/artist/5tvVRGHiqZjsZDIYvLDdl5) | [Night Call](https://open.spotify.com/album/1Y12G5TioPHsm3M9n4hCmG) | 2:03 |
 | 413 | [In The Sky](https://open.spotify.com/track/2t8xuOOSyDjt1jDhUjoNGO) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN) | [In The Sky](https://open.spotify.com/album/6KPHCCekZmbCHQihlMB1Pm) | 2:12 |
-| 414 | [Jazz Notes](https://open.spotify.com/track/53r5ab959W328twV4P5p9v) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/08I5CwGgfg1AlXgTz19mkd) | 2:29 |
+| 414 | [Jazz Notes](https://open.spotify.com/track/1586Yd50L4n7EIp3Mhg8mh) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/1Afni32J8Jk4PgeEX0GrJ7) | 2:29 |
 | 415 | [crystal clear](https://open.spotify.com/track/48dwboYJcg9uNoVwJDIN1d) | [Brian Tuey](https://open.spotify.com/artist/4xPlBQAVyS9TNgDEBHbKCs) | [crystal clear](https://open.spotify.com/album/0sObfdc3y54BswoKtUMtvS) | 2:04 |
 | 416 | [Mesh](https://open.spotify.com/track/1SFBHnALpYpILOUjPEtLsd) | [Detainment System](https://open.spotify.com/artist/0lw9h7wdLjwlyq40RghxnK) | [Mesh](https://open.spotify.com/album/0XQQsf7sLJj8qPfh6iA1fX) | 2:15 |
 | 417 | ['99](https://open.spotify.com/track/7JE2ujzBHaZVvtiUtBKQn1) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | ['99](https://open.spotify.com/album/3WVWIjOfJ3jHyfFR8pCedL) | 3:30 |
@@ -456,4 +456,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 446 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 |
 | 447 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 |
 
-Snapshot ID: `MTY2OTM3OTcyMywwMDAwMDAwMGI5OGI4ZTIwOGM5OGFjODRmOGI3YTk2NGRiMmUxMTI5`
+Snapshot ID: `MTY2OTM3OTcyMywwMDAwMDAwMGFkNDc2ZmU1NjAyYjBmY2JiMGZkZTEwY2U5MDcyYmMw`

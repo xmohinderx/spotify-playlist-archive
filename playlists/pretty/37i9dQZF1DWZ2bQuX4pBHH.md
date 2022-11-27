@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,308 likes - 60 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,517 likes - 60 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 50 | [Phir Milenge Chalte Chalte](https://open.spotify.com/track/00slEv0AYGnW85H84XsmGz) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 6:34 |
 | 51 | [Aisa Des Hai Mera](https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 7:07 |
 | 52 | [Dancing Jodi](https://open.spotify.com/track/2YNgcIiD73XsXFNM3UuxlM) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 3:59 |
-| 53 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
+| 53 | [Baadshah O Baadshah](https://open.spotify.com/track/57V7Fo4iocHEMJcf7Upt0M) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Baadshah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA) | 6:39 |
 | 54 | [Chhupana Bhi Nahin Aata](https://open.spotify.com/track/106VQOgiNwarz03Aegj7Yz) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 5:22 |
 | 55 | [Ho Gaya Hai Tujhko To Pyar Sajna](https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:49 |
 | 56 | [Just Go to Hell Dil](https://open.spotify.com/track/3CtiRUKVB9X2wi1ZMdaymY) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 5:35 |
 | 57 | [Chennai Express](https://open.spotify.com/track/2QDhzCaYd79t3sympjOUQY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chennai Express](https://open.spotify.com/album/08hhqmG2yI7741tXn2Zs4g) | 4:43 |
-| 58 | [Baadshah O Baadshah](https://open.spotify.com/track/57V7Fo4iocHEMJcf7Upt0M) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Baadshah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA) | 6:39 |
+| 58 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
 | 59 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:53 |
 | 60 | [San Sanana](https://open.spotify.com/track/1gZWlVCnwSq9y91hIvkUiB) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Hema Sardesai](https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:55 |
 
-Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMGJmY2Y0ZDQxMjExNDgwYzBiMzRkZTMxYWM2MTg5MDBh`
+Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMGFjODEzNDg5YzMyM2UyN2E5ZjY5ZWJlMzIwM2I4MWIy`

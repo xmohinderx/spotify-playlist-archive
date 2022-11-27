@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 121133,
+  "num_followers": 121144,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMGRjNjY3NDk1ZDRhMGJmYzc0MmM4MjNjMjkxOTdkYjcy",
+  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMDJmYTIwOGZiZTIwNzQ2ZTRiMGRhYmRlNDMxNTQyZGYy",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Momoto",
         "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
       },
       "artists": [
         {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
         }
       ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -391,6 +375,22 @@
       "duration_ms": 546693,
       "name": "Alucinao",
       "url": "https://open.spotify.com/track/37cNWcjPG6hXI94CsZOHje"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
-      },
-      "artists": [
-        {
-          "name": "Dr Honey",
-          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
-        }
-      ],
-      "duration_ms": 271878,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
+      },
+      "artists": [
+        {
+          "name": "Dr Honey",
+          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
+        }
+      ],
+      "duration_ms": 271878,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Ananda",
-        "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
-      },
-      "artists": [
-        {
-          "name": "Akkan",
-          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 252936,
-      "name": "Ananda",
-      "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Nz\u00fambi",
         "url": "https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0"
       },
@@ -787,18 +767,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Shika Shika / Botanas",
-        "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
       },
       "artists": [
         {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+          "name": "Akkan",
+          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 206815,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
+      "duration_ms": 252936,
+      "name": "Ananda",
+      "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -823,6 +807,22 @@
       "duration_ms": 370886,
       "name": "Pebbles Mind Horrors",
       "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Shika Shika / Botanas",
+        "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 206815,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
     },
     {
       "added_at": "2022-08-18 23:29:09",

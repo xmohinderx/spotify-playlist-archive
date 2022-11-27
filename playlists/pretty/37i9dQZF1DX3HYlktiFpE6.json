@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 95304,
+  "num_followers": 95343,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGM2NGRiNmNhZDM2NWM3Y2JhMTM2ODk3MjE4ZmZhMDkz",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDc0MmI2ZWQxOWMyODM5ODcwNWVlZjhhZGE1NTAzZjFi",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Full Coverage",
-        "url": "https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ"
-      },
-      "artists": [
-        {
-          "name": "On The Rocks",
-          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Stacey's Mom",
-      "url": "https://open.spotify.com/track/2REesWs353uf4aQz09I2HG"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "We Got You Covered, Vol. 3",
         "url": "https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 246020,
       "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
       "url": "https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Full Coverage",
+        "url": "https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ"
+      },
+      "artists": [
+        {
+          "name": "On The Rocks",
+          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Stacey's Mom",
+      "url": "https://open.spotify.com/track/2REesWs353uf4aQz09I2HG"
     },
     {
       "added_at": "2021-12-24 05:00:00",

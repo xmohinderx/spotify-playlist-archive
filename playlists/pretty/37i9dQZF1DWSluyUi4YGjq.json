@@ -1,18 +1,18 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 21782,
+  "num_followers": 21806,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTk3MiwwMDAwMDAwMDE3ZDlmYzMyMjM3M2FmYjRlZDU0MWExNDFkMDc2YTFj",
+  "snapshot_id": "MTY2OTM0NTk3MiwwMDAwMDAwMGJmZTVjZDY2ZmY1YWIxZGY0ZDkxZjY4YTM5ODgzMzFk",
   "tracks": [
     {
       "added_at": "2022-09-29 00:07:21",
       "album": {
-        "name": "Belinda Says / Very Online Guy",
-        "url": "https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q"
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 165445,
       "name": "Belinda Says",
-      "url": "https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR"
+      "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
     },
     {
       "added_at": "2021-11-25 22:10:49",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
-      "added_at": "2022-09-21 00:43:29",
-      "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Colour Trip",
@@ -711,6 +695,22 @@
       "duration_ms": 125333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
+    },
+    {
+      "added_at": "2022-09-21 00:43:29",
+      "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -927,18 +927,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Black Aura My Sun",
-        "url": "https://open.spotify.com/album/0Bf9ofwafClZWZE3wDKVWX"
+        "name": "Molten Young Lovers",
+        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
       },
       "artists": [
         {
-          "name": "Deserta",
-          "url": "https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG"
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
         }
       ],
-      "duration_ms": 407240,
-      "name": "Hide",
-      "url": "https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd"
+      "duration_ms": 279747,
+      "name": "Molten Young Lovers",
+      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Molten Young Lovers",
-        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
+        "name": "Black Aura My Sun",
+        "url": "https://open.spotify.com/album/0Bf9ofwafClZWZE3wDKVWX"
       },
       "artists": [
         {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+          "name": "Deserta",
+          "url": "https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG"
         }
       ],
-      "duration_ms": 279747,
-      "name": "Molten Young Lovers",
-      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
+      "duration_ms": 407240,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Winks & Kisses: Crackled",
-        "url": "https://open.spotify.com/album/7vk2rJgOvtYV5GXsU3wdKB"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 396253,
-      "name": "Shirley Temple Tidal Wave",
-      "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 297418,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Winks & Kisses: Crackled",
+        "url": "https://open.spotify.com/album/7vk2rJgOvtYV5GXsU3wdKB"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 396253,
+      "name": "Shirley Temple Tidal Wave",
+      "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
-      },
-      "artists": [
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        }
-      ],
-      "duration_ms": 405324,
-      "name": "S.W.I.M.",
-      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
-    },
-    {
       "added_at": "2022-01-14 02:28:22",
       "album": {
         "name": "For you, Adroit it but soft",
@@ -1375,6 +1359,22 @@
       "duration_ms": 265600,
       "name": "While My Waves Wonder",
       "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 405324,
+      "name": "S.W.I.M.",
+      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
     },
     {
       "added_at": "2022-06-20 23:05:31",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/18bMfoScYmenFKMristSDI"
     },
     {
-      "added_at": "2022-09-03 04:19:36",
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
-      },
-      "artists": [
-        {
-          "name": "Laveda",
-          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Dead Kids R.I.P. City",
@@ -1507,6 +1491,22 @@
       "duration_ms": 216520,
       "name": "Wanting War",
       "url": "https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1"
+    },
+    {
+      "added_at": "2022-09-03 04:19:36",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
+      },
+      "artists": [
+        {
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
     },
     {
-      "added_at": "2022-04-05 16:58:56",
-      "album": {
-        "name": "New Low",
-        "url": "https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT"
-      },
-      "artists": [
-        {
-          "name": "Greet Death",
-          "url": "https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n"
-        }
-      ],
-      "duration_ms": 181301,
-      "name": "Panic Song",
-      "url": "https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Showers",
@@ -1651,6 +1635,22 @@
       "duration_ms": 220403,
       "name": "Showers",
       "url": "https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz"
+    },
+    {
+      "added_at": "2022-04-05 16:58:56",
+      "album": {
+        "name": "New Low",
+        "url": "https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT"
+      },
+      "artists": [
+        {
+          "name": "Greet Death",
+          "url": "https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n"
+        }
+      ],
+      "duration_ms": 181301,
+      "name": "Panic Song",
+      "url": "https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5"
     },
     {
       "added_at": "2021-10-19 01:47:29",

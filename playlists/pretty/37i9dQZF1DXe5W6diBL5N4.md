@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:J.Y.PARK\(박진영\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,002 likes - 474 songs - 1 day 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,086 likes - 474 songs - 1 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 68 | [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 |
 | 69 | [Organic Love Song](https://open.spotify.com/track/2tEXe19JAVPzv8gnXtUkM1) | [MY Q](https://open.spotify.com/artist/1jM93JdHroRBk6cE2o3Nws) | [Organic Love Song](https://open.spotify.com/album/1itbUPthsPKxdh3Scr2Nm1) | 3:56 |
 | 70 | [Be Ready](https://open.spotify.com/track/39qZBQdOWjUWgsw3PzdAw7) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ) | [Be Ready](https://open.spotify.com/album/6aZbVUjeVKnf2pT7aRmHnF) | 2:57 |
-| 71 | [Won't stop til I go up \(feat\. SC4F\)](https://open.spotify.com/track/40H7C0sXpXNCikBkT6VUXb) | [Thunder](https://open.spotify.com/artist/0Hx76tOiVRuybYEGWMyJR5), [SC4F](https://open.spotify.com/artist/3fXOlqV4AdU7A1VCDrXeoY) | [Won't stop til I go up \(feat\. SC4F\)](https://open.spotify.com/album/2AA5INgHrRwEbe0rMqGLk4) | 2:56 |
+| 71 | [Won't stop til I go up \(feat\. SC4F\)](https://open.spotify.com/track/40H7C0sXpXNCikBkT6VUXb) | [Thunder Park](https://open.spotify.com/artist/25oRJkJURMCnNHoQuMfKvZ), [SC4F](https://open.spotify.com/artist/3fXOlqV4AdU7A1VCDrXeoY) | [Won't stop til I go up \(feat\. SC4F\)](https://open.spotify.com/album/2AA5INgHrRwEbe0rMqGLk4) | 2:56 |
 | 72 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 |
 | 73 | [My All](https://open.spotify.com/track/4B8PH1mRUNxlpNezOXEZxE) | [2F \(Shin Yong Jae & Kim Won Joo\)](https://open.spotify.com/artist/18eoBXZNSelqRStZ56P0JT) | [My All](https://open.spotify.com/album/3nwB6jPBS7pesyyVTKhhqb) | 3:36 |
 | 74 | [our love was a folly](https://open.spotify.com/track/37N4qypAAVFwk5jgCZbSVQ) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [our love was a folly](https://open.spotify.com/album/42GTL97C3eYR2jmHHwhKpn) | 3:33 |

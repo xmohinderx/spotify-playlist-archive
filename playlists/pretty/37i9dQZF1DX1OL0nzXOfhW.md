@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 麗英
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,539 likes - 57 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,542 likes - 57 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

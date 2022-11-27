@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jass Manak
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,026 likes - 179 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,110 likes - 179 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 8 | [Aitbaar](https://open.spotify.com/track/11zcaJ6oWyU0h5qRp53UxZ) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Aitbaar](https://open.spotify.com/album/3Ux20b0sEpiG77GXvrYdpL) | 4:20 |
 | 9 | [Bura Haal](https://open.spotify.com/track/2ciKJPKGL3vniRe8Wusx5Y) | [G Sangha](https://open.spotify.com/artist/7zre8eLPOlfXsW4SSQIj4Q) | [Bura Haal](https://open.spotify.com/album/76mOLcW3OQhsyXbSr0JcAG) | 3:02 |
 | 10 | [Dil Tutde](https://open.spotify.com/track/4ww9lfi68d6IM8UQ2IP14y) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Dil Tutde](https://open.spotify.com/album/44vfXmI2OtWHfBRmBBKVob) | 3:17 |
-| 11 | [Dua Karo](https://open.spotify.com/track/4PNmQiHQPKVw0avwQEfbQe) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dua Karo](https://open.spotify.com/album/2WBGvXVpgQUfswXZbxI8t1) | 3:45 |
+| 11 | [Dua Karo](https://open.spotify.com/track/4PNmQiHQPKVw0avwQEfbQe) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dua Karo](https://open.spotify.com/album/2WBGvXVpgQUfswXZbxI8t1) | 3:45 |
 | 12 | [Scared To Love](https://open.spotify.com/track/2SBUPbrHybfRwaJHxFizDz) | [This Is GB](https://open.spotify.com/artist/2W0uc5BFijRycFJisWgfXs) | [Scared To Love](https://open.spotify.com/album/5vb2O4xQJ0SH6VQ7IXsyVX) | 3:24 |
 | 13 | [Bhull Gye](https://open.spotify.com/track/2xU9REQr8h66TAvxak5hVj) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [Xoxo](https://open.spotify.com/album/3fnfvNoPqcVvxYW98vFgJo) | 2:37 |
 | 14 | [Laare](https://open.spotify.com/track/4L6h1muuapCakyu81caEVN) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Laare](https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw) | 2:38 |
@@ -181,11 +181,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 171 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 |
 | 172 | [Bhabi](https://open.spotify.com/track/7FusXh0bnkRQPrfxknnDyN) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bhabi](https://open.spotify.com/album/2QENKH3rWXemkrWjvsmoog) | 2:35 |
 | 173 | [Praise](https://open.spotify.com/track/1GYP7zyrNGJi8pEZt91vnL) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Praise](https://open.spotify.com/album/4jr7TFjvNTgjuh74o4JV1l) | 3:12 |
-| 174 | [Lost Love](https://open.spotify.com/track/2L1cfBLg1wNI5ZIpAAv6Wc) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Lost Love](https://open.spotify.com/album/1ZNMYg10x172dC5eYfMlEF) | 3:46 |
+| 174 | [Lost Love](https://open.spotify.com/track/4TK2I5Z458YfkbCbU0Sid4) | [Prem Dhillon](https://open.spotify.com/artist/6GzlchIuPjya9dG9NmMVtP) | [Lost Love](https://open.spotify.com/album/2sDFY48HjU8HlDxIBbTqCg) | 3:46 |
 | 175 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Grewal](https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 |
 | 176 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 |
 | 177 | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/6CP0jsIBEM5VEEKLr4tf69) | [Jovan Dhillon](https://open.spotify.com/artist/2EW4LUtzs9hLVAZTRzphS0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/6GXPVaPJPeQFhcheqd1tP7) | 2:48 |
 | 178 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 179 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 |
 
-Snapshot ID: `MTY2OTM3ODQ4NCwwMDAwMDAwMDk1YWRjOTkxZTM5MjE0OWVkNWEyZWVkMzczYTcyNjJk`
+Snapshot ID: `MTY2OTM3ODQ4NCwwMDAwMDAwMDNlNGVkNDc1MzUwN2UyZmRmNGY4NGFjYTk1YjgxMDc1`

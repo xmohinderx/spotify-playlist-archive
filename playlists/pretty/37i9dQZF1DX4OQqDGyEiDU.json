@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 52101,
+  "num_followers": 52191,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMwMjAwMCwwMDAwMDAwMGZmZGU0ODcwNzk4Zjc2MjI1MDA0ODQwMjRmZTZkZDZj",
+  "snapshot_id": "MTY2OTMwMjAwMCwwMDAwMDAwMDI1OTc2YmQzZjlkZDM0Y2QzYTRlZTcyMzk3OWE5ZTRi",
   "tracks": [
     {
       "added_at": "2022-11-24 15:00:00",
@@ -423,22 +423,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-        "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
+        "name": "OFFICIAL ORANGE",
+        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
       },
       "artists": [
         {
-          "name": "Giga",
-          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
-        },
-        {
-          "name": "\u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-          "url": "https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1"
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
         }
       ],
-      "duration_ms": 235096,
-      "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-      "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
+      "duration_ms": 198706,
+      "name": "\u30de\u30c8\u30ea\u30e7\u30b7\u30ab - ORIGINAL",
+      "url": "https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "OFFICIAL ORANGE",
-        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
+        "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
       "artists": [
         {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "\u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+          "url": "https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1"
         }
       ],
-      "duration_ms": 198706,
-      "name": "\u30de\u30c8\u30ea\u30e7\u30b7\u30ab - ORIGINAL",
-      "url": "https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS"
+      "duration_ms": 235096,
+      "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
     },
     {
       "added_at": "2022-11-24 15:00:00",

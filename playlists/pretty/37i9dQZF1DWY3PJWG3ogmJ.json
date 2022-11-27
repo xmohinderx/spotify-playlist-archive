@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 493530,
+  "num_followers": 493876,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDI2MDI4M2Y4MDBkZWY5ODE0YWIyN2YwZTI4ZDczYzQ5",
+  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDRkOWQ4ZDk3MTI4NDBmOTk4NDBiMTY2ZmY3MTEwMDQw",
   "tracks": [
     {
       "added_at": "2022-10-28 07:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
+        "name": "Demigod",
+        "url": "https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Conquer All",
+      "url": "https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
         "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
         "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 194307,
       "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
       "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
-        "name": "Demigod",
-        "url": "https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Conquer All",
-      "url": "https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
+        "name": "Dig Deep",
+        "url": "https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K"
+      },
+      "artists": [
+        {
+          "name": "After The Burial",
+          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
+        }
+      ],
+      "duration_ms": 252468,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/1AlUK9pR34wYRrufm5vCA9"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
         "name": "Elegy",
         "url": "https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 322153,
       "name": "Blood in the Sands of Time",
       "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
-        "name": "Dig Deep",
-        "url": "https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K"
-      },
-      "artists": [
-        {
-          "name": "After The Burial",
-          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
-        }
-      ],
-      "duration_ms": 252468,
-      "name": "Collapse",
-      "url": "https://open.spotify.com/track/1AlUK9pR34wYRrufm5vCA9"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
+        "name": "Unconquered",
+        "url": "https://open.spotify.com/album/5akcoD7tDHbQMQXEbyxD1U"
+      },
+      "artists": [
+        {
+          "name": "Kataklysm",
+          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Underneath the Scars",
+      "url": "https://open.spotify.com/track/08YwIGFDmY2FjeY05kgUmX"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
         "name": "Opening Fire: 2008-2014",
         "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
       },
@@ -667,6 +683,26 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
+        "name": "Melancholy",
+        "url": "https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        },
+        {
+          "name": "Trevor Strnad",
+          "url": "https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb"
+        }
+      ],
+      "duration_ms": 296327,
+      "name": "Barren and Breathless Macrocosm",
+      "url": "https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
         "name": "Here Comes The Boom",
         "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
       },
@@ -679,22 +715,6 @@
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
-        "name": "Unconquered",
-        "url": "https://open.spotify.com/album/5akcoD7tDHbQMQXEbyxD1U"
-      },
-      "artists": [
-        {
-          "name": "Kataklysm",
-          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Underneath the Scars",
-      "url": "https://open.spotify.com/track/08YwIGFDmY2FjeY05kgUmX"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -727,26 +747,6 @@
       "duration_ms": 194466,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
-        "name": "Melancholy",
-        "url": "https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        },
-        {
-          "name": "Trevor Strnad",
-          "url": "https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb"
-        }
-      ],
-      "duration_ms": 296327,
-      "name": "Barren and Breathless Macrocosm",
-      "url": "https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 239441,
-      "name": "The Death Of Us",
-      "url": "https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "From the Unforgiving Arms of God",
         "url": "https://open.spotify.com/album/6k1SjXMBPH6LYBMrmqeNwq"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV"
+        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz"
       },
       "artists": [
         {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 190549,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO"
+      "duration_ms": 239441,
+      "name": "The Death Of Us",
+      "url": "https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -975,18 +959,18 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Posthuman",
-        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV"
       },
       "artists": [
         {
-          "name": "Harms Way",
-          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 197879,
-      "name": "Human Carrying Capacity",
-      "url": "https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW"
+      "duration_ms": 190549,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "Posthuman",
+        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
+      },
+      "artists": [
+        {
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+        }
+      ],
+      "duration_ms": 197879,
+      "name": "Human Carrying Capacity",
+      "url": "https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Posthuman",
-        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
-      },
-      "artists": [
-        {
-          "name": "Harms Way",
-          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
-        }
-      ],
-      "duration_ms": 192436,
-      "name": "Become a Machine",
-      "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "Demon King",
         "url": "https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 235266,
       "name": "Demon King",
       "url": "https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "Posthuman",
+        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
+      },
+      "artists": [
+        {
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+        }
+      ],
+      "duration_ms": 192436,
+      "name": "Become a Machine",
+      "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
+        "name": "With All Their Might",
+        "url": "https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I"
+      },
+      "artists": [
+        {
+          "name": "Dyscarnate",
+          "url": "https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB"
+        }
+      ],
+      "duration_ms": 275573,
+      "name": "Iron Strengthens Iron",
+      "url": "https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
         "name": "Pressure Point",
         "url": "https://open.spotify.com/album/2PfBk5UnG3vgfgB018u2Ib"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 157653,
       "name": "In Darkness",
       "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
-        "name": "With All Their Might",
-        "url": "https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I"
-      },
-      "artists": [
-        {
-          "name": "Dyscarnate",
-          "url": "https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB"
-        }
-      ],
-      "duration_ms": 275573,
-      "name": "Iron Strengthens Iron",
-      "url": "https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Strength in Numbers",
-        "url": "https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN"
-      },
-      "artists": [
-        {
-          "name": "The Haunted",
-          "url": "https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq"
-        }
-      ],
-      "duration_ms": 295560,
-      "name": "Preachers of Death",
-      "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "No Way Out",
         "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199746,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "Strength in Numbers",
+        "url": "https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN"
+      },
+      "artists": [
+        {
+          "name": "The Haunted",
+          "url": "https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq"
+        }
+      ],
+      "duration_ms": 295560,
+      "name": "Preachers of Death",
+      "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "In Continuum",
-        "url": "https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW"
+        "name": "Chainbreaker",
+        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
       "artists": [
         {
-          "name": "Destinity",
-          "url": "https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6"
+          "name": "Shrine of Malice",
+          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
         }
       ],
-      "duration_ms": 293000,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/55phx17AxbonvXWipSlHON"
+      "duration_ms": 275807,
+      "name": "Chainbreaker",
+      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Chainbreaker",
-        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
+        "name": "In Continuum",
+        "url": "https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW"
       },
       "artists": [
         {
-          "name": "Shrine of Malice",
-          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
+          "name": "Destinity",
+          "url": "https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6"
         }
       ],
-      "duration_ms": 275807,
-      "name": "Chainbreaker",
-      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
+      "duration_ms": 293000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/55phx17AxbonvXWipSlHON"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Circle of Blood",
-        "url": "https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE"
-      },
-      "artists": [
-        {
-          "name": "Wrong Answer",
-          "url": "https://open.spotify.com/artist/1ojBlwQXvlKyXzXY2uNEEo"
-        }
-      ],
-      "duration_ms": 153661,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "Days Before the World Wept",
         "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
       },
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+        "name": "Circle of Blood",
+        "url": "https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE"
       },
       "artists": [
         {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+          "name": "Wrong Answer",
+          "url": "https://open.spotify.com/artist/1ojBlwQXvlKyXzXY2uNEEo"
         }
       ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
+      "duration_ms": 153661,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+      },
+      "artists": [
+        {
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
         "name": "Your World Won't Listen",
         "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
       },
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Testing the Limits of Infinite",
-        "url": "https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw"
-      },
-      "artists": [
-        {
-          "name": "Reign Supreme",
-          "url": "https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e"
-        }
-      ],
-      "duration_ms": 193746,
-      "name": "Apostle",
-      "url": "https://open.spotify.com/track/77j8ymzT23ZT1hnclyp5Xh"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "Realigion",
         "url": "https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 213533,
       "name": "At War with Love",
       "url": "https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "Testing the Limits of Infinite",
+        "url": "https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw"
+      },
+      "artists": [
+        {
+          "name": "Reign Supreme",
+          "url": "https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e"
+        }
+      ],
+      "duration_ms": 193746,
+      "name": "Apostle",
+      "url": "https://open.spotify.com/track/77j8ymzT23ZT1hnclyp5Xh"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Strength to Draw the Line",
-        "url": "https://open.spotify.com/album/53js4P31lZMSZlINykloRH"
-      },
-      "artists": [
-        {
-          "name": "Jasta",
-          "url": "https://open.spotify.com/artist/03248d0xYQltNDAF2XongP"
-        },
-        {
-          "name": "Jesse Leach",
-          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
-        }
-      ],
-      "duration_ms": 168164,
-      "name": "Strength to Draw the Line",
-      "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 216455,
       "name": "All Hail the Void",
       "url": "https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "Strength to Draw the Line",
+        "url": "https://open.spotify.com/album/53js4P31lZMSZlINykloRH"
+      },
+      "artists": [
+        {
+          "name": "Jasta",
+          "url": "https://open.spotify.com/artist/03248d0xYQltNDAF2XongP"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
+        }
+      ],
+      "duration_ms": 168164,
+      "name": "Strength to Draw the Line",
+      "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
       },
       "artists": [
         {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
         }
       ],
-      "duration_ms": 162439,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
+      "duration_ms": 249901,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
     }
   ],
   "unique_name": "Extreme Metal Workout",

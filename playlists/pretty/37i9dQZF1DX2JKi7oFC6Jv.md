@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,653 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,679 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 40 | [What You Do \(Hottest By Far\)](https://open.spotify.com/track/5VbB0e2Sv6vxWLmroz1Vem) | [The Fives](https://open.spotify.com/artist/5EiVAQAe0qLKANwPmUFliS) | [What You Do \(Hottest By Far\)](https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK) | 4:45 |
 | 41 | [My Circle \- Remix](https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [Cadet](https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [My Circle \(Remix\)](https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS) | 4:20 |
 | 42 | [Stuck On You](https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5) | [PEDRO](https://open.spotify.com/artist/0itKTaTB3xwSl5Na3TdXM5), [Bryte](https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO) | [Da Linha](https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh) | 2:50 |
-| 43 | [Sentah](https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Sentah](https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2) | 3:08 |
-| 44 | [I'm Leaving \- DJ MA1 Remix](https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Alahna](https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3), [DJ MA1](https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6) | [I'm Leaving](https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r) | 6:10 |
+| 43 | [I'm Leaving \- DJ MA1 Remix](https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Alahna](https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3), [DJ MA1](https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6) | [I'm Leaving](https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r) | 6:10 |
+| 44 | [Sentah](https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Sentah](https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2) | 3:08 |
 | 45 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
 | 46 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |
 | 47 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 52 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
 | 53 | [De Siegalizer](https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
 | 54 | [Lush \- Fuzzy Logik Remix](https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Fuzzy Logik](https://open.spotify.com/artist/4piotdMysykYFW82NqRaLy) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 4:44 |
-| 55 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
-| 56 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
+| 55 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
+| 56 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
 | 57 | [Muhammad Ali \- Original Mix](https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Lady Lykez](https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw) | [Drmtrk II](https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID) | 2:24 |
 | 58 | [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 |
 | 59 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
 | 60 | [Waves](https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT) | [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU) | [Waves](https://open.spotify.com/album/3Nzgg68NS8IMzTDo91liai) | 4:17 |
 
-Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMGY0YjdiZGNiOTRmZWUyYmExNTU2N2JiZDlmZGRkMTZm`
+Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMDc4ODMyMzZmMGI4NzYzZGFlZTAxMzIxY2JjNjZlZGMw`

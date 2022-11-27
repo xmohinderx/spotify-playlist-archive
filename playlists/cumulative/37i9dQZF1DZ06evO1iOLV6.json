@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/7A5sOBdTQwFUlE3D0JbIVB"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191681,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/2mgcd1yyXVz0mMvFE9yCGo"
+    },
+    {
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/1el7Fb3Dc9L7FRB0bKGkD9"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 239706,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"

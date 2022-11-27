@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 347268,
+  "num_followers": 347368,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMxOTIxMywwMDAwMDAwMDJhMzM5MjBkOTkzOTk4NjcxZTBkYzNkMjgwNzBhZDVl",
+  "snapshot_id": "MTY2OTMxOTIxMywwMDAwMDAwMGEzZjgzZTM4NGM5MmMyMWU4N2Q5MTJlNzg0ZWU5Y2Y1",
   "tracks": [
     {
       "added_at": "2022-11-24 19:46:53",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
+        "name": "Running In The Dark (Image Song for Arknights mobile game)",
+        "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
+      },
+      "artists": [
+        {
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Running In The Dark - Image Song for Arknights mobile game",
+      "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
+    },
+    {
+      "added_at": "2022-11-24 19:46:53",
+      "album": {
         "name": "The Swallow (feat. Midories)",
         "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 217428,
       "name": "The Swallow (feat. Midories)",
       "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
-    },
-    {
-      "added_at": "2022-11-24 19:46:53",
-      "album": {
-        "name": "Running In The Dark (Image Song for Arknights mobile game)",
-        "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
-      },
-      "artists": [
-        {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Running In The Dark - Image Song for Arknights mobile game",
-      "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
     },
     {
       "added_at": "2022-11-24 19:46:53",
@@ -760,7 +760,7 @@
           "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
         }
       ],
-      "duration_ms": 247787,
+      "duration_ms": 249563,
       "name": "Mirage Op.1",
       "url": "https://open.spotify.com/track/3oJOpUiLV5btPhLXTKiT6U"
     },
@@ -783,22 +783,18 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
+        "name": "Baby I love you so",
+        "url": "https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
         }
       ],
-      "duration_ms": 207521,
-      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
+      "duration_ms": 221500,
+      "name": "Baby I love you so",
+      "url": "https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe"
     },
     {
       "added_at": "2022-11-24 19:46:53",
@@ -819,18 +815,22 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
-        "name": "Baby I love you so",
-        "url": "https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb"
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
       },
       "artists": [
         {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
         }
       ],
-      "duration_ms": 221500,
-      "name": "Baby I love you so",
-      "url": "https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe"
+      "duration_ms": 207521,
+      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
     },
     {
       "added_at": "2022-11-24 19:46:53",
@@ -904,7 +904,7 @@
       },
       "artists": [
         {
-          "name": "Kaniningen",
+          "name": "Kani Ningen",
           "url": "https://open.spotify.com/artist/72KQWJUmUBRmX5EMaeoFB1"
         },
         {

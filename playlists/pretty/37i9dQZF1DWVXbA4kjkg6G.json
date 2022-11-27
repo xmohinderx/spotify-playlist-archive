@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 330571,
+  "num_followers": 330955,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDkzYTE5NGM1ZmRkNzkzZTc5NGZhNTExNmNmZGEyYjU5",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMGQwZWJhZjNkN2QyYTY2YjI3NThiZjIzMWJjNjgzMWI1",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Spill",
-        "url": "https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD"
-      },
-      "artists": [
-        {
-          "name": "Depth Charge",
-          "url": "https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "Legend of the Golden Snake - Single Version",
-      "url": "https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 245946,
       "name": "Dark Lady",
       "url": "https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD"
+      },
+      "artists": [
+        {
+          "name": "Depth Charge",
+          "url": "https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "Legend of the Golden Snake - Single Version",
+      "url": "https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Natural Born Killa (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
-      },
-      "artists": [
-        {
-          "name": "Photek",
-          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
-        }
-      ],
-      "duration_ms": 321932,
-      "name": "Into the 90's",
-      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP"
+        "name": "Natural Born Killa (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Photek",
+          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
         }
       ],
-      "duration_ms": 278346,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC"
+      "duration_ms": 321932,
+      "name": "Into the 90's",
+      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -951,6 +935,22 @@
       "duration_ms": 232160,
       "name": "Christiansands",
       "url": "https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC"
     },
     {
       "added_at": "2021-06-25 10:16:08",

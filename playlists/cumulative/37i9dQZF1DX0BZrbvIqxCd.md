@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-273 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
+274 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Double Cross](https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:25 | 2020-11-20 | 2022-07-26 |
 | [Down To Hell](https://open.spotify.com/track/0bjBFEzs0cbvqNLfDMUSjH) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Down To Hell](https://open.spotify.com/album/4ALhmqLsbI7Wqg7bBYkwVD) | 3:16 | 2020-11-20 | 2022-06-26 |
 | [Down To Hell](https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK) | 3:16 | 2020-11-20 | 2022-11-05 |
+| [Down To Hell](https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:16 | 2020-11-20 |  |
 | [Dress the Wounds](https://open.spotify.com/track/2NDwOTPi2Bjuq5mTcTAoix) | [Strike Anywhere](https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8) | [Dress the Wounds](https://open.spotify.com/album/1WwsIKVq9AlqUDshOq05EH) | 2:50 | 2020-11-20 | 2022-06-26 |
 | [Drown In My Mind](https://open.spotify.com/track/1i2t3VyIcsAonPhK6wjuJp) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Waves](https://open.spotify.com/album/0XuCUVcke1oKsdxuvqIk1O) | 3:00 | 2020-11-20 | 2022-07-25 |
 | [Drown In My Mind](https://open.spotify.com/track/7w0gu9n8vp3sE0xZFCxcFu) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Waves](https://open.spotify.com/album/7B48nfbRi9Ar1ukAXx5UJD) | 3:00 | 2020-11-20 |  |
@@ -108,7 +109,7 @@
 | [Getaway Green](https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:47 | 2020-11-20 | 2022-11-13 |
 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 | 2020-11-20 |  |
 | [Ghost in My Home](https://open.spotify.com/track/59Ku2whuuXy9y3ZiUiYqHP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/18EL26qP11mySASVZGWIAf) | 3:20 | 2020-11-20 | 2022-07-29 |
-| [Go Down in History](https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:39 | 2020-11-20 |  |
+| [Go Down in History](https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:39 | 2020-11-20 | 2022-11-27 |
 | [Gone](https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:05 | 2020-11-20 |  |
 | [Greatest Of All Time](https://open.spotify.com/track/6tJ8T00sdozc2ZSkPT8Qj1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Greatest Of All Time](https://open.spotify.com/album/4ULjQJSTpbibgr8cKFBr9o) | 2:57 | 2020-11-20 | 2022-07-29 |
 | [Grey Goose](https://open.spotify.com/track/50UpQeRX0Pebo76v3AK6S1) | [Carousel Kings](https://open.spotify.com/artist/2Dr2zHoPEuASW1kOODc5I2) | [Charm City](https://open.spotify.com/album/3IM9F9wRCdGQcmYgHS6jFx) | 3:27 | 2020-11-20 | 2022-07-26 |
@@ -262,9 +263,9 @@
 | [Tune You Out](https://open.spotify.com/track/28VxaqLBkdHe4wlJczoSDT) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Tune You Out](https://open.spotify.com/album/1lFHC12npAlZb5agVqp57z) | 2:58 | 2020-11-20 | 2022-07-29 |
 | [Tune You Out](https://open.spotify.com/track/2omnjJxsVxa75mlSMvLRac) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [20/20](https://open.spotify.com/album/6m42SrPLrdXkjN3BT3UIlP) | 2:58 | 2020-11-20 | 2022-11-13 |
 | [Underground](https://open.spotify.com/track/5dXvUNCTKEgAHW9c1y7fAN) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Underground](https://open.spotify.com/album/5odlFX6q0PglF7dGhsLzkf) | 2:59 | 2020-11-20 | 2022-07-28 |
-| [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 | 2020-11-20 |  |
+| [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 | 2020-11-20 | 2022-11-27 |
 | [Wallflower](https://open.spotify.com/track/7oXIbtib1VHQAJCvuSg3rx) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Wallflower](https://open.spotify.com/album/7KDXQC3QK8gvw2Y2lExNcr) | 2:23 | 2020-11-20 | 2022-07-29 |
-| [Want Me Around](https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:31 | 2020-11-20 | 2022-11-14 |
+| [Want Me Around](https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:31 | 2020-11-20 |  |
 | [We're Not Alright](https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:55 | 2020-11-20 | 2022-07-29 |
 | [We’re Not Alright](https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:55 | 2020-11-20 |  |
 | [What Are We Standing For](https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [What Are We Standing For](https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK) | 2:53 | 2020-11-20 | 2022-11-13 |

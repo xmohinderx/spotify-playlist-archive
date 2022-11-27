@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-257 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+258 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Alone In Town](https://open.spotify.com/track/3YSMxn9PMuLn25EXyBplpd) | [Gereoux](https://open.spotify.com/artist/1Euv0945nayOdRB6RTLDZz) | [Alone In Town](https://open.spotify.com/album/1cXiG685Ny0feXVwplO4XI) | 2:33 | 2022-05-27 |  |
 | [ambar](https://open.spotify.com/track/0VOuTIdSvi1JdrbUA79hLs) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ambar](https://open.spotify.com/album/6nQPUOURWtXUUBqZpdKw9q) | 2:21 | 2022-07-15 |  |
 | [And Now I'm Just Nothing](https://open.spotify.com/track/1nOK8A0xzDIifD5M5b72ip) | [Pastblink](https://open.spotify.com/artist/6aXm62k9vCjNBALspldTxL) | [Pieces of Earth](https://open.spotify.com/album/0l5EuQZVdOANozH7Vu6f4v) | 2:38 | 2022-05-27 |  |
-| [Another](https://open.spotify.com/track/1KnTl30Tw99mB01rlm5VpN) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Another](https://open.spotify.com/album/7iH8qptr0RgdF8at4M9WzC) | 2:32 | 2022-05-27 |  |
+| [Another](https://open.spotify.com/track/18of42QoHnosXzZETOEaqf) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:32 | 2022-11-25 |  |
+| [Another](https://open.spotify.com/track/1KnTl30Tw99mB01rlm5VpN) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Another](https://open.spotify.com/album/7iH8qptr0RgdF8at4M9WzC) | 2:32 | 2022-05-27 | 2022-11-27 |
 | [Anywhere](https://open.spotify.com/track/0eHG8d8vt9Od9fGU6mnrCL) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Anywhere](https://open.spotify.com/album/7IKpVNi7hkPwUYP6lAvPnD) | 1:34 | 2022-05-27 |  |
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2022-05-27 |  |
 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 | 2022-07-29 |  |

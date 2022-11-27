@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,768 likes - 73 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,820 likes - 73 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 59 | [If We Had Time](https://open.spotify.com/track/0oYVtoLKV89bWffY8xn55X) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [If We Had Time](https://open.spotify.com/album/5jIiYEnE9DTym8cRHLJvWa) | 4:06 |
 | 60 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 |
 | 61 | [Ocean Wind & Violet Waves](https://open.spotify.com/track/6jZhm6LJDbDTk1G1HdeIez) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Ocean Wind & Violet Waves](https://open.spotify.com/album/3ey1XJXloqS5ZeXpqA9GHN) | 3:48 |
-| 62 | [Cukup Sudah](https://open.spotify.com/track/7dQvwTeheduOZTUMWU0MPy) | [Khifnu](https://open.spotify.com/artist/7HCDShhp411XEAG56GcNrf) | [Cukup Sudah](https://open.spotify.com/album/03h35ElsYYhaIdxDszB4IU) | 3:20 |
+| 62 | [Cukup Sudah](https://open.spotify.com/track/7dQvwTeheduOZTUMWU0MPy) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Cukup Sudah](https://open.spotify.com/album/03h35ElsYYhaIdxDszB4IU) | 3:20 |
 | 63 | [Icarus \(See You Well\)](https://open.spotify.com/track/6uwcuemnRVDb8drtoTNFm4) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Icarus \(See You Well\)](https://open.spotify.com/album/7sfECZh0WkGzkPNYmwxAHr) | 3:18 |
 | 64 | [Berhak Bahagia](https://open.spotify.com/track/0AxWsz7mwLEuCMGK8A07Su) | [Aurelie Hermansyah](https://open.spotify.com/artist/1Oaod2BEUHCaRav5EH1dva), [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Mom Uung](https://open.spotify.com/artist/5w0tU4gg00N5ODpshCHz6c) | [Berhak Bahagia](https://open.spotify.com/album/4kOwUxMU899wDUGPvKWeUA) | 3:47 |
 | 65 | [Never Tired of You](https://open.spotify.com/track/0BJtfe9mL26hyzoM0RgAK2) | [Rendika Rizky](https://open.spotify.com/artist/7K2gErJTsg9xYU9LejBEQG) | [Never Tired of You](https://open.spotify.com/album/6kw62P9CJjUAct6F4RKbDl) | 3:29 |

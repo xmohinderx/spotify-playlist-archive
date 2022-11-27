@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,624 songs - 7 day 8 hr 21 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,625 songs - 7 day 8 hr 23 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3349,7 +3349,8 @@
 | [Riviera Maya](https://open.spotify.com/track/3Ny7QoCSLbOMUGQLE9uhpQ) | [Ouska](https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV) | [Riviera Maya](https://open.spotify.com/album/3Y53io7boMQYIjfxAf7BSC) | 2:25 | 2022-03-11 | 2022-08-05 |
 | [Road](https://open.spotify.com/track/1hEv9mFgAypv6kfo58UBJh) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Road](https://open.spotify.com/album/7dBfrWBjWwVU3FJDIU4KNC) | 2:29 | 2022-03-19 | 2022-07-29 |
 | [Road to nowhere](https://open.spotify.com/track/0X9lHHFCJFg46j0LUdMjs4) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Road to nowhere](https://open.spotify.com/album/0mFr5QrslGQRDAeExwKAxb) | 1:49 | 2022-09-09 | 2022-11-20 |
-| [Road to nowhere](https://open.spotify.com/track/2KljD8Y837kuIpEk0L9Ik3) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Road to nowhere](https://open.spotify.com/album/1yTn0DGbqa4q4MSJsj9sSg) | 1:49 | 2022-11-18 |  |
+| [Road to nowhere](https://open.spotify.com/track/2KljD8Y837kuIpEk0L9Ik3) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Road to nowhere](https://open.spotify.com/album/1yTn0DGbqa4q4MSJsj9sSg) | 1:49 | 2022-11-18 | 2022-11-27 |
+| [Road to nowhere](https://open.spotify.com/track/7iSOrQd4rFR19Ldc6t70SH) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Road to nowhere](https://open.spotify.com/album/0ftkGnZI6HtKHNCxieicij) | 1:49 | 2022-11-25 |  |
 | [Roadmap](https://open.spotify.com/track/46otNtxw1tp66cO2ZgC6n3) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Roadmap](https://open.spotify.com/album/1w4ibNlF67RGfAIM5EIGQR) | 2:03 | 2022-11-11 |  |
 | [Roadtrip](https://open.spotify.com/track/3J4ilvjX46XkK0lmkf8ZWA) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU), [deciseeo](https://open.spotify.com/artist/74j5kSzqn9oJohyTUMmGZB) | [Roadtrip](https://open.spotify.com/album/4HfudAUvRXNUbaW2d5XDTg) | 2:11 | 2022-02-14 | 2022-07-22 |
 | [Rocco](https://open.spotify.com/track/4Wddleseijsi0fozoFhYyN) | [Lownas](https://open.spotify.com/artist/73eOFkJoiXKFsXIBE9Wwuv) | [Rocco](https://open.spotify.com/album/6zYDaNUSw9lNLPNOH7TRYI) | 2:32 | 2022-09-16 | 2022-11-21 |

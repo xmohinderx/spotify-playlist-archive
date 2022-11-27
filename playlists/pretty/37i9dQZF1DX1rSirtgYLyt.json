@@ -1,12 +1,12 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 12846,
+  "num_followers": 12985,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczMzIwMCwwMDAwMDAwMDQ3ZDcyODU4ZGVhZGQ4NjRhODA1NDUwMGQ4ZWFjZDNl",
+  "snapshot_id": "MTY2ODczMzIwMCwwMDAwMDAwMGY0ZWIxNDJmOGZmZDYyZGI0Y2ZhYzEwNWVhYjlhNmE4",
   "tracks": [
     {
       "added_at": "2022-11-11 14:48:18",
@@ -279,30 +279,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "All Blues's Up: Songs of Led Zeppelin",
-        "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim",
-          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
-        },
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "When The Levee Breaks (Part One)",
-      "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "6 String Theory",
         "url": "https://open.spotify.com/album/12KBkAV3rS7H2h8QIcbCy5"
       },
@@ -323,6 +299,30 @@
       "duration_ms": 314280,
       "name": "Give Me One Reason",
       "url": "https://open.spotify.com/track/2NlzTQKA7U1nc9U6tWb7Xv"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "All Blues's Up: Songs of Led Zeppelin",
+        "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim",
+          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
+        },
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "When The Levee Breaks (Part One)",
+      "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
-        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Nobody Knows You When You're Down And Out",
-      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 258800,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "All Time Favorites: Lou Ann Barton",
-        "url": "https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ"
-      },
-      "artists": [
-        {
-          "name": "Lou Ann Barton",
-          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Te Ni Nee Ni Nu",
-      "url": "https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 265000,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/32rkgJbRDxBoCocsT6iSrd"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "All Time Favorites: Lou Ann Barton",
+        "url": "https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ"
+      },
+      "artists": [
+        {
+          "name": "Lou Ann Barton",
+          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Te Ni Nee Ni Nu",
+      "url": "https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 175453,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Keepin' Outta Trouble: A Tribute To Bukka White",
-        "url": "https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA"
-      },
-      "artists": [
-        {
-          "name": "Rory Block",
-          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
-        }
-      ],
-      "duration_ms": 322093,
-      "name": "Fixin' To Die Blues",
-      "url": "https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Unplugged At Caffe Calabria",
         "url": "https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
-        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
+        "name": "Keepin' Outta Trouble: A Tribute To Bukka White",
+        "url": "https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA"
       },
       "artists": [
         {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
         }
       ],
-      "duration_ms": 322760,
-      "name": "Herbert Harper's Free Press News",
-      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
+      "duration_ms": 322093,
+      "name": "Fixin' To Die Blues",
+      "url": "https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
+        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 322760,
+      "name": "Herbert Harper's Free Press News",
+      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
       },
@@ -1017,20 +1017,20 @@
       "url": "https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7"
     },
     {
-      "added_at": "2022-11-11 14:48:18",
+      "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63"
+        "name": "Cocaine",
+        "url": "https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y"
       },
       "artists": [
         {
-          "name": "Ronnie EarlThe Broadcasters",
-          "url": "https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF"
+          "name": "Joe Robinson",
+          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
         }
       ],
-      "duration_ms": 362266,
-      "name": "Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV"
+      "duration_ms": 227045,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63"
+      },
+      "artists": [
+        {
+          "name": "Ronnie EarlThe Broadcasters",
+          "url": "https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF"
+        }
+      ],
+      "duration_ms": 362266,
+      "name": "Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
         "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 158600,
       "name": "Like Crying (with Noel Gallagher) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
-        "name": "Cocaine",
-        "url": "https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y"
-      },
-      "artists": [
-        {
-          "name": "Joe Robinson",
-          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
-        }
-      ],
-      "duration_ms": 227045,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1147,26 +1147,6 @@
       "duration_ms": 263000,
       "name": "Stormy Monday Blues",
       "url": "https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
-        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
-        "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
-      },
-      "artists": [
-        {
-          "name": "Mick Fleetwood and Friends",
-          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
-        },
-        {
-          "name": "Rick Vito",
-          "url": "https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA"
-        }
-      ],
-      "duration_ms": 354026,
-      "name": "Love That Burns (with Rick Vito) - Live from The London Palladium",
-      "url": "https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1259,6 +1239,26 @@
       "duration_ms": 223813,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/6ZdCKxcNoLgJfQBCncD2SU"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
+        "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
+      },
+      "artists": [
+        {
+          "name": "Mick Fleetwood and Friends",
+          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
+        },
+        {
+          "name": "Rick Vito",
+          "url": "https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA"
+        }
+      ],
+      "duration_ms": 354026,
+      "name": "Love That Burns (with Rick Vito) - Live from The London Palladium",
+      "url": "https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0"
     },
     {
       "added_at": "2022-11-11 14:48:18",

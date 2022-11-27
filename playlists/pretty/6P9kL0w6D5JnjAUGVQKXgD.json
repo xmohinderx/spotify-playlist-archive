@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jonasu, Karen Harding, Biscits, Kriss Reeve",
-  "num_followers": 48402,
+  "num_followers": 48401,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTU2MyxlNTBhOGY0NWQ1N2RmNGNlNTFhYjE2MTE2OGNmZGM1MjliODljZDVl",
+  "snapshot_id": "MTU2NCw0NGNkNzc3OWM3ZDBlNTg3MmJkMjJhY2I2MjcxZDJjOGQ1OTY5Njk2",
   "tracks": [
     {
       "added_at": "2022-09-23 15:41:02",
@@ -271,6 +271,22 @@
       "duration_ms": 140333,
       "name": "Speak My Truth",
       "url": "https://open.spotify.com/track/6gJi6sdIK1ODJGzRTPlMLU"
+    },
+    {
+      "added_at": "2022-11-26 15:41:02",
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/6wsGUDNmqEZbHd2Xg5q8cj"
+      },
+      "artists": [
+        {
+          "name": "TaylorX",
+          "url": "https://open.spotify.com/artist/5hjo6YYIcD2QCMtH4g84gw"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/3wGuEYCdndvABvj8KAYO0u"
     },
     {
       "added_at": "2022-06-10 15:45:02",
@@ -1353,26 +1369,6 @@
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
     },
     {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 165779,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
-    },
-    {
       "added_at": "2022-03-02 15:42:03",
       "album": {
         "name": "Headlights (feat. KIDDO)",
@@ -1395,6 +1391,26 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": "2022-10-25 15:41:02",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 165779,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
     },
     {
       "added_at": "2022-10-25 15:41:02",
@@ -1977,22 +1993,6 @@
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
-      "added_at": "2022-11-24 15:41:02",
-      "album": {
-        "name": "Etiquette Selects",
-        "url": "https://open.spotify.com/album/4BcX1yo6b4Id7oXlKOBBfs"
-      },
-      "artists": [
-        {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
-        }
-      ],
-      "duration_ms": 209199,
-      "name": "Disko Dancin",
-      "url": "https://open.spotify.com/track/0V9XYO0pDS94UFuseqabzL"
-    },
-    {
       "added_at": "2022-11-25 15:41:02",
       "album": {
         "name": "Don\u2019t Forget My Love (John Summit Remix)",
@@ -2017,20 +2017,20 @@
       "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
     },
     {
-      "added_at": "2022-11-25 15:41:02",
+      "added_at": "2022-11-24 15:41:02",
       "album": {
-        "name": "Do Ya / Isolate",
-        "url": "https://open.spotify.com/album/6jK6OibzwnCoBL16EPRTlB"
+        "name": "Etiquette Selects",
+        "url": "https://open.spotify.com/album/4BcX1yo6b4Id7oXlKOBBfs"
       },
       "artists": [
         {
-          "name": "Sharam",
-          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
         }
       ],
-      "duration_ms": 477644,
-      "name": "Do Ya",
-      "url": "https://open.spotify.com/track/7HppWYVHAl3wzXy0OOlZf3"
+      "duration_ms": 209199,
+      "name": "Disko Dancin",
+      "url": "https://open.spotify.com/track/0V9XYO0pDS94UFuseqabzL"
     }
   ],
   "unique_name": "EDM Top 100",

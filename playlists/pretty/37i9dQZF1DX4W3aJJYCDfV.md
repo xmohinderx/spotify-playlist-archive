@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Stormzy \(pictured\), Avril Lavigne, Olly Murs and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,395 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,518 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 58 | [waves](https://open.spotify.com/track/3TcYsJEB2pxtm9Gsvu1iRN) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [waves](https://open.spotify.com/album/3CYTeLKLW33tApTZD6o88L) | 3:08 |
 | 59 | [Heartbreaker](https://open.spotify.com/track/2bBlGkbqxbT5WSsiqQPRvv) | [Rina](https://open.spotify.com/artist/3DzeH7pNyDNsuaIrDM6roh) | [Heartbreaker](https://open.spotify.com/album/2MMSH4ljN67YwuiCrHwhjf) | 3:29 |
 | 60 | [Andie Anderson](https://open.spotify.com/track/0wtMVE2uUH0t2qD7zpEVbu) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [Andie Anderson](https://open.spotify.com/album/7yUvOciWcLoJNZiC19oFrl) | 3:00 |
-| 61 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
+| 61 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 62 | [Vandal](https://open.spotify.com/track/2iXD71kuex1ZdDOcIKznPJ) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [Vandal](https://open.spotify.com/album/3LLqGis58Xc3bQAhUZu5DP) | 3:31 |
 | 63 | [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 |
 | 64 | [Onassis](https://open.spotify.com/track/3vG5v9xBby3ptCVoyKLDxT) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Onassis](https://open.spotify.com/album/5RFLmzJi6L4W89I15gvVZK) | 3:34 |

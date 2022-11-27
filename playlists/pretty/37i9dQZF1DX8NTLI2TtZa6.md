@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,409,144 likes - 214 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,409,206 likes - 214 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 19 | [Exhaler](https://open.spotify.com/track/4hSJTUpx45WO1Ib6VCRiFW) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Exhaler](https://open.spotify.com/album/6cSN1nY7uHi9jgLEkLI6yN) | 2:15 |
 | 20 | [quiet plateau](https://open.spotify.com/track/6zODDCy0JYLgVmx3aTt2rC) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [quiet plateau & meadow ballet](https://open.spotify.com/album/1NKiYL9c9mYgkMFIq5iXHY) | 2:32 |
 | 21 | [Beneath the Waves](https://open.spotify.com/track/16HrDFed6T82sUdFy0S14W) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Beneath the Waves](https://open.spotify.com/album/6bCloCt5prFJNtHzfYWOQ1) | 3:10 |
-| 22 | [Evening](https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no) | [Sakari Kinnunen](https://open.spotify.com/artist/5npl96YDCVWOmIGhjA6WW4) | [Evening](https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A) | 1:37 |
+| 22 | [Evening](https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no) | [Sakkari](https://open.spotify.com/artist/6vdV4uIfIEB62qFn9KqE2I) | [Evening](https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A) | 1:37 |
 | 23 | [Timid Scripts](https://open.spotify.com/track/3zahvGDaE79KRUr447Jrzw) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Timid Scripts](https://open.spotify.com/album/0kmd10LA2U5C6jnXE8WcBn) | 2:24 |
 | 24 | [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 |
 | 25 | [Alcyone](https://open.spotify.com/track/1eZ7C5xgD8agqwvOu2wq4A) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Alcyone](https://open.spotify.com/album/6Xsu8tRX4MqyTI3MBCo2wT) | 2:50 |

@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-292 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+293 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [Steezer](https://open.spotify.com/track/6wvovDax8BiJyFyfI2MjpY) | [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3) | [Steezer](https://open.spotify.com/album/3bLmk0dvslsaDhfDihqXI1) | 1:59 | 2022-11-25 |  |
 | [Storm](https://open.spotify.com/track/6a8tAxw8pTk20gWO0PL5y1) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Storm](https://open.spotify.com/album/3qTP5wWIkyY0stdr0FnSqt) | 2:36 | 2022-11-25 |  |
 | [Street Jam](https://open.spotify.com/track/1KeqE2crE3JIJrDT4cxwXd) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Street Jam](https://open.spotify.com/album/0yjJD15TLcJqgUAW8Rq9j5) | 2:04 | 2022-10-28 |  |
-| [Streuende Hunde](https://open.spotify.com/track/1XDqCTvcNdBlTInzddQ568) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Streuende Hunde](https://open.spotify.com/album/4jnXu57WLZneXtBmdtRtUv) | 4:09 | 2021-11-11 |  |
+| [Streuende Hunde](https://open.spotify.com/track/1XDqCTvcNdBlTInzddQ568) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Streuende Hunde](https://open.spotify.com/album/4jnXu57WLZneXtBmdtRtUv) | 4:09 | 2021-11-11 | 2022-11-27 |
+| [Streuende Hunde](https://open.spotify.com/track/35DHnEKyBaqVzANPkTHrWq) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Kings & Queens](https://open.spotify.com/album/1SUk8Dmg9KWPnTd0qqV6Os) | 4:09 | 2022-11-25 |  |
 | [Strings \(Autumn\)](https://open.spotify.com/track/2HNYMCXsri1Onga1Uf1tds) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu) | [Strings \(Autumn\)](https://open.spotify.com/album/4LRlI0ttcY9dz1wdhbbI0T) | 2:52 | 2022-11-11 |  |
 | [Summer Glen](https://open.spotify.com/track/0keJSAw0wJT9dF94RalMAr) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Zero Billion](https://open.spotify.com/album/1Ee55THzxRTRn3inLIquYM) | 1:57 | 2022-07-01 |  |
 | [Summer Jam](https://open.spotify.com/track/6WTF575QHWkfPpZb6D8PCE) | [Beats In The Bank](https://open.spotify.com/artist/3CLnP7Npwjxv2t2gyjgnkR), [Jack Gillen](https://open.spotify.com/artist/1WGTtEF1QTo40VnIqEvWx8) | [Summer Jam](https://open.spotify.com/album/5rZJTEyL6redi4wLB6Aq9v) | 2:48 | 2022-06-17 | 2022-07-08 |

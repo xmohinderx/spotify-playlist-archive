@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1655940,
+  "num_followers": 1656656,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDZmMjUwMGQ2OWY5MmFhOWQ4ODE4OWYxNTczZWJkYjUz",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDU3MmU4ZGRmN2QxNDU0MGY5ZjRkYWY1MWExN2UyNTlm",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "EVERYTHING I WANT",
+        "url": "https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 138473,
+      "name": "EVERYTHING I WANT",
+      "url": "https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "O.M.L. (feat. DESTIN CONRAD)",
         "url": "https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 165132,
       "name": "O.M.L. (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "EVERYTHING I WANT",
-        "url": "https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 138473,
-      "name": "EVERYTHING I WANT",
-      "url": "https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg"
     },
     {
       "added_at": "2022-07-15 04:00:00",

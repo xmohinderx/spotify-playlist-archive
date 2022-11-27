@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53187,
+  "num_followers": 53179,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDg5ZDQ0ZTQyZmQ5ZTEzZjRhNTI3NDM4MGYwOTdjZmRj",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDExNzE5NDkzOTFmMGIyNWJlNTQ5OGZkZTAyZjE1NmQ2",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -251,22 +251,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "A Boot and a Shoe",
-        "url": "https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS"
-      },
-      "artists": [
-        {
-          "name": "Sam Phillips",
-          "url": "https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "If I Could Write",
-      "url": "https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 319293,
       "name": "Mr. Writer",
       "url": "https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "A Boot and a Shoe",
+        "url": "https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS"
+      },
+      "artists": [
+        {
+          "name": "Sam Phillips",
+          "url": "https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "If I Could Write",
+      "url": "https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -699,22 +699,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Literature Lovers",
-        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
-      },
-      "artists": [
-        {
-          "name": "Jose Vanders",
-          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Literature Lovers",
-      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Com Lag: 2+2=5",
         "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Winter Wheat",
-        "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
+        "name": "Literature Lovers",
+        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
       },
       "artists": [
         {
-          "name": "John K. Samson",
-          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
+          "name": "Jose Vanders",
+          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
         }
       ],
-      "duration_ms": 203091,
-      "name": "Postdoc Blues",
-      "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
+      "duration_ms": 280933,
+      "name": "Literature Lovers",
+      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -759,6 +743,22 @@
       "duration_ms": 973173,
       "name": "Goodbye Sky Harbor",
       "url": "https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Winter Wheat",
+        "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
+      },
+      "artists": [
+        {
+          "name": "John K. Samson",
+          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
+        }
+      ],
+      "duration_ms": 203091,
+      "name": "Postdoc Blues",
+      "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
     },
     {
       "added_at": "2018-12-10 14:56:06",

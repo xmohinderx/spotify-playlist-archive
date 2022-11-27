@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Los sonidos de Bel\u00e9n.",
+  "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
   "name": "Navidad Cristiana",
   "published_playlist_ids": [
     "5BHFCfYdJmMsXV8ZMJ0kKJ"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "AL MUNDO PAZ",
+        "url": "https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179487,
+      "name": "AL MUNDO PAZ",
+      "url": "https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt"
+    },
+    {
+      "album": {
         "name": "Navidad Con V\u00e1stago",
         "url": "https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ"
       },
@@ -260,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/3vDRQj8aNwIj3Yjk4SgkhM"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144508,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/460i7EzVcjlmNM7fy2N8gk"
+    },
+    {
+      "album": {
         "name": "Tiempo de Navidad",
         "url": "https://open.spotify.com/album/1KM8kjXX0KdfcGCj3iDgiG"
       },
@@ -307,10 +343,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 29106,
       "name": "Campanas",
       "url": "https://open.spotify.com/track/4fzSIKWnFWN7stZaFf1vE4"
+    },
+    {
+      "album": {
+        "name": "Postales Navide\u00f1as",
+        "url": "https://open.spotify.com/album/4zwAGaYuF7KHNGBbW5LB4v"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233618,
+      "name": "Canela y Mantequilla",
+      "url": "https://open.spotify.com/track/4dyOc6n181DQc1C4fGzzOz"
     },
     {
       "album": {
@@ -365,6 +419,24 @@
       "duration_ms": 423173,
       "name": "Creo En Ti - Live",
       "url": "https://open.spotify.com/track/4iHlCejE0feD1XEXJRxmAI"
+    },
+    {
+      "album": {
+        "name": "De Bel\u00e9n a Jerusal\u00e9n",
+        "url": "https://open.spotify.com/album/0Hp4uKftPNw2I1C2hjCWCL"
+      },
+      "artists": [
+        {
+          "name": "Jesus Worship Center",
+          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249375,
+      "name": "De Bel\u00e9n a Jerusal\u00e9n",
+      "url": "https://open.spotify.com/track/3EZasVLqN6bkIp4xDkUXpT"
     },
     {
       "album": {
@@ -964,6 +1036,32 @@
     },
     {
       "album": {
+        "name": "A Family Christmas",
+        "url": "https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Virginia Bocelli",
+          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119906,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/4h8gC82RmwrIsNYibTbXvs"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/645ozutUaH38FjkWojIaFk"
       },
@@ -1235,7 +1333,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 242806,
       "name": "Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18"
@@ -2887,6 +2985,42 @@
       "duration_ms": 192171,
       "name": "Ya Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY"
+    },
+    {
+      "album": {
+        "name": "Ya Lleg\u00f3 la Navidad",
+        "url": "https://open.spotify.com/album/3iynS4LSyMrDGTwUJkQnzp"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "Ya Lleg\u00f3 la Navidad",
+      "url": "https://open.spotify.com/track/3j3JGGetYI05XwOMWP3MY4"
+    },
+    {
+      "album": {
+        "name": "Ya naci\u00f3",
+        "url": "https://open.spotify.com/album/2XY0WMGtFjc10QF669IerI"
+      },
+      "artists": [
+        {
+          "name": "Moises Cancel",
+          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240641,
+      "name": "Ya naci\u00f3",
+      "url": "https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm"
     },
     {
       "album": {

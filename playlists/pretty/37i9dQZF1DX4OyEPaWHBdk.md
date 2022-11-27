@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 
 > Stream and vote for your Worldwide Fans' Choice at the <a href="http://2022mama.com/vote/spotify/">2022 MAMA AWARDS</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,275 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,550 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
