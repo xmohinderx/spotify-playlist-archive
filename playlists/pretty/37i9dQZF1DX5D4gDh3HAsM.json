@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 476928,
+  "num_followers": 478819,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGM0MjczZDQ3YjViYzI3YTgyYmI0ZmEzNjMzZmQ3ZWNk",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDNkOWJhZGZlNWI0OWFmMWMzMDdkOWUwMGFmN2ZmMTRk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -505,10 +505,10 @@
       "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
     },
     {
-      "added_at": "2022-10-21 04:01:00",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
       },
       "artists": [
         {
@@ -516,25 +516,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 200461,
-      "name": "Christmas Calling (Jolly Jones)",
-      "url": "https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/4HoV7ZFqbjZe52GE9P1ESg"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/11EHUtg6DvSmW0qVNVZWXI"
+      "duration_ms": 256443,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -567,6 +551,22 @@
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/4HoV7ZFqbjZe52GE9P1ESg"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/11EHUtg6DvSmW0qVNVZWXI"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -673,10 +673,10 @@
       "url": "https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 256443,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
+      "duration_ms": 200461,
+      "name": "Christmas Calling (Jolly Jones)",
+      "url": "https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Big Band Christmas",
+        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
+      },
+      "artists": [
+        {
+          "name": "John Tesh",
+          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+        }
+      ],
+      "duration_ms": 133893,
+      "name": "We Wish You The Merriest",
+      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 154080,
       "name": "Little Jack Frost Get Lost",
       "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Big Band Christmas",
-        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
-      },
-      "artists": [
-        {
-          "name": "John Tesh",
-          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
-        }
-      ],
-      "duration_ms": 133893,
-      "name": "We Wish You The Merriest",
-      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Pretty/Groovy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "A Legendary Christmas",
         "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+        "name": "Show Me The Magic",
+        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 286533,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
+      "duration_ms": 150412,
+      "name": "Show Me The Magic",
+      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
     }
   ],
   "unique_name": "Christmas Jazz",

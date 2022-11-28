@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,767 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,923 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 40 | [Ballad Of Forty Dollars](https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 3:01 |
 | 41 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 | 42 | [Poetry In Motion \- 1960 \#2 Billboard chart hit](https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:34 |
-| 43 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
-| 44 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
+| 43 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
+| 44 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
 | 45 | [Phantom 309](https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3) | [Red Sovine](https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf) | [Phantom 309](https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV) | 3:29 |
 | 46 | [Welcome to My World](https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:32 |
 | 47 | [Blue Kentucky Girl](https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Blue Kentucky Girl](https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
 | 100 | [Girl On The Billboard](https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4) | [Del Reeves](https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e) | [Son Of The South](https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8) | 2:37 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDBhNDFiZjljZjA4MDZiYjJmYWRiNmUwMDJlNGFiZTRm`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDUzOTkzM2Y1MDI3OTA5YmNjZDU2ZDFlNWExMTQyNDdk`

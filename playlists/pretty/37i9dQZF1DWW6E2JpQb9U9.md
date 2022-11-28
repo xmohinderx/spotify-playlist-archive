@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,899 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,917 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 53 | [Todavía No Puedo Olvidarte \- En Vivo](https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Todavia No Puedo Olvidarte \(En Vivo\)](https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh) | 4:06 |
 | 54 | [El Amor No Existe \- En Vivo](https://open.spotify.com/track/1zDK1iD8uUYhT3yExKFG1S) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Martin "Mono" Fabio](https://open.spotify.com/artist/2sgxHeMWSuLNXYeexvDuGe) | [El Amor No Existe \(En Vivo\)](https://open.spotify.com/album/14eqmcxSOymxp0BsNF6qkf) | 2:48 |
 | 55 | [Matador \- En Vivo en Theater at Madison Square Garden](https://open.spotify.com/track/1PpFbfG447nP3TZtnZwDkk) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [En Vivo en The Theater at Madison Square Garden](https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW) | 5:02 |
-| 56 | [Ay, Qué Dios Boludo](https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [22/12/18 Flores \(En Vivo\)](https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR) | 4:10 |
-| 57 | [Sola En Los Bares](https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [En Vivo En El Opera](https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG) | 3:18 |
+| 56 | [Sola En Los Bares](https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [En Vivo En El Opera](https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG) | 3:18 |
+| 57 | [Ay, Qué Dios Boludo](https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [22/12/18 Flores \(En Vivo\)](https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR) | 4:10 |
 | 58 | [Verano del 92](https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 4:21 |
 | 59 | [Lo Frágil De La Locura \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 4:43 |
 | 60 | [Mujer Amante \- En Vivo](https://open.spotify.com/track/4GEwKXEgUAWy7nMbjfP6qJ) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [En el Teatro Opera \- En Vivo](https://open.spotify.com/album/3GvXr0sGR1aTLARW8BMHpR) | 5:34 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 66 | [Todo un Palo \- En Vivo](https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo](https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE) | 7:41 |
 | 67 | [Canción de Cuna](https://open.spotify.com/track/4RcDjycBOjdXrt11dT3lAD) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 5:28 |
 | 68 | [Reyes de la Noche](https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Rock De Mi Vida](https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym) | 4:23 |
-| 69 | [Espadas y Serpientes \- Acústico en Vivo](https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 4:48 |
-| 70 | [Sin documentos \- En directo, Las Ventas 7 septiembre 1993](https://open.spotify.com/track/0EjnyCHJN8TeW4FYocAaRc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [En Las Ventas 7 septiembre 1993 \(En directo\)](https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q) | 5:42 |
+| 69 | [Sin documentos \- En directo, Las Ventas 7 septiembre 1993](https://open.spotify.com/track/0EjnyCHJN8TeW4FYocAaRc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [En Las Ventas 7 septiembre 1993 \(En directo\)](https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q) | 5:42 |
+| 70 | [Espadas y Serpientes \- Acústico en Vivo](https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 4:48 |
 | 71 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe) | 3:42 |
 | 72 | [Hombre al Agua \(Sinfónico en Vivo\)](https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 7:11 |
 | 73 | [De No Olvidar \- En Vivo](https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De No Olvidar \(En Vivo\)](https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [El Balcón \- En Vivo](https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 5:46 |
 | 100 | [El 38](https://open.spotify.com/track/6JVu9CewlLd5Xox7iyYhdD) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en Pinamar](https://open.spotify.com/album/7m4NTbbdfKboFTWiDV98d9) | 4:39 |
 
-Snapshot ID: `MTY2ODIwMzE0MiwwMDAwMDAwMGEyODA5YWM5YmI0MzZhZjQ5OGM1MTVmMjQ4NGY0NTJh`
+Snapshot ID: `MTY2ODIwMzE0MiwwMDAwMDAwMDNlYWQ0ZTBlYWJmYjRiMGYxMjY4MzIyYWVkNTk0OTBm`

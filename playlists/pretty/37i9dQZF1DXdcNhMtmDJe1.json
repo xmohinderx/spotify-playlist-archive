@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 73675,
+  "num_followers": 73703,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDUyZjM5YWViYzdiMzI1ZDE1NDIyNjYzOGE4OTAwZGE4",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGZhNWViM2Y2NmNiOTg2YzMyMmQ1MTliOWE1ZjNhMTVm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 366960,
-      "name": "Rosalie: How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
+      "duration_ms": 336000,
+      "name": "Shall We Dance: They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Shall We Dance: They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
+      "duration_ms": 366960,
+      "name": "Rosalie: How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -643,30 +643,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
-        "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Randall Goosby",
-          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
-        },
-        {
-          "name": "Zhu Wang",
-          "url": "https://open.spotify.com/artist/3z5WrAR67znbCVkXjFKM6Q"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
-      "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Mademoiselle in New York",
         "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 238413,
       "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
       "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
+        "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        },
+        {
+          "name": "Zhu Wang",
+          "url": "https://open.spotify.com/artist/3z5WrAR67znbCVkXjFKM6Q"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
+      "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: We got Rhythm - A Gershwin Songbook",
-        "url": "https://open.spotify.com/album/5dpk1t1HctEJEQRZHlvVqE"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 299253,
-      "name": "Someone to Watch over Me (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3lsjf6k1z9HAlHDdab0KpR"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Take Two",
         "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 131400,
       "name": "Three-Quarter Blues",
       "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: We got Rhythm - A Gershwin Songbook",
+        "url": "https://open.spotify.com/album/5dpk1t1HctEJEQRZHlvVqE"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 299253,
+      "name": "Someone to Watch over Me (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3lsjf6k1z9HAlHDdab0KpR"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
         "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1191,34 +1191,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
-        }
-      ],
-      "duration_ms": 498373,
-      "name": "Let 'Em Eat Cake: Overture",
-      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Kiri sings Gershwin",
         "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
       },
@@ -1247,6 +1219,34 @@
       "duration_ms": 187826,
       "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
       "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
+        }
+      ],
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
     },
     {
       "added_at": "2022-08-05 04:02:00",

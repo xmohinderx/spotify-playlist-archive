@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pablo Milan\u00e9s.",
-  "num_followers": 263466,
+  "num_followers": 263685,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDAxMTU1Njc5ODY2NDg2OThhYjk1OTc2YWFlN2MyNTZk",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDU1NjI5NDliMDA5NWJhNmQ5N2I1OWM2YjY3ZWEyYTRl",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "\u00daltimo Acto",
-        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Solo Otra Vez - Alone Again",
-      "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Unicornio",
         "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 308510,
       "name": "Unicornio",
       "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "\u00daltimo Acto",
+        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Solo Otra Vez - Alone Again",
+      "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Silvio Rodriguez y Pablo Milanes",
-        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Silvio Rodriguez and Pablo Milanes",
-          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Te Doy Una Cancion",
-      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
+      "duration_ms": 157466,
+      "name": "Las Cuatro y Diez",
+      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Cuerpo a Cuerpo (Remasterizado)",
-        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Sin Tu Latido - Remasterizado",
-      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1075,6 +1075,22 @@
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Cuerpo a Cuerpo (Remasterizado)",
+        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Sin Tu Latido - Remasterizado",
+      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "La vida es m\u00e1s compleja de lo que parece",
-      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "26 Grandes Canciones Y Una Nube Blanca",
         "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 317733,
       "name": "El Hombre del Piano",
       "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "La vida es m\u00e1s compleja de lo que parece",
+      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Las Cuatro y Diez",
-      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "De Pana y Rub\u00ed",
-        "url": "https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Querr\u00eda",
-      "url": "https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Amor del Bo",
         "url": "https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 139530,
       "name": "Amor del Bo",
       "url": "https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "De Pana y Rub\u00ed",
+        "url": "https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Querr\u00eda",
+      "url": "https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Apuntes Sobre Mi Paso por el Invierno",
-        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
-      },
-      "artists": [
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        }
-      ],
-      "duration_ms": 241937,
-      "name": "Un D\u00eda de Estos",
-      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Apuntes Sobre Mi Paso por el Invierno",
+        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        }
+      ],
+      "duration_ms": 241937,
+      "name": "Un D\u00eda de Estos",
+      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Mi Peque\u00f1a Historia",
-        "url": "https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "No Saben de Ti",
-      "url": "https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "La hora de los gigantes",
         "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 224413,
       "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
       "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Mi Peque\u00f1a Historia",
+        "url": "https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "No Saben de Ti",
+      "url": "https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Aunque t\u00fa no lo sepas",
-        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
-      },
-      "artists": [
-        {
-          "name": "Alba Rojas",
-          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
-        }
-      ],
-      "duration_ms": 131343,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "La Mas Completa Coleccion",
         "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Aunque t\u00fa no lo sepas",
+        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
+      },
+      "artists": [
+        {
+          "name": "Alba Rojas",
+          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
+        }
+      ],
+      "duration_ms": 131343,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
     }
   ],
   "unique_name": "Cantautores",

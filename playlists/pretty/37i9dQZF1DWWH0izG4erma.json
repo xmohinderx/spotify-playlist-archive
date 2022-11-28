@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Warren Zeiders",
-  "num_followers": 485969,
+  "num_followers": 486240,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDBhMzJlYzVhYTU3ODkxYzJlYTMxYTIwZGYxODg2ZjUx",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDRjNTUyMWRhMmI2N2VlOTcxMWQ3YTgyODY3OWZiNGFl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Gold Chain Cowboy",
         "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 201173,
       "name": "Wait Outside",
       "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -883,6 +883,30 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Stack of Records",
+        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 183403,
+      "name": "In Love With My Problems (feat. Jon Pardi)",
+      "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Workin' Man",
         "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 217993,
       "name": "Are We On Fire",
       "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Stack of Records",
-        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
-      },
-      "artists": [
-        {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 183403,
-      "name": "In Love With My Problems (feat. Jon Pardi)",
-      "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "My Ex Came Over",
-        "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
-      },
-      "artists": [
-        {
-          "name": "Trey Lewis",
-          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "My Ex Came Over",
-      "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "My Ex Came Over",
+        "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
+      },
+      "artists": [
+        {
+          "name": "Trey Lewis",
+          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "My Ex Came Over",
+      "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Broken Heartland",
-        "url": "https://open.spotify.com/album/0TUS3VFkxFIvdUaranQAWC"
-      },
-      "artists": [
-        {
-          "name": "A Thousand Horses",
-          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "When I Hear Your Name",
-      "url": "https://open.spotify.com/track/2gMaUDwmEVQe5lJqXCR0zU"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Train",
         "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 194186,
       "name": "Still a Few Cowboys Left",
       "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Broken Heartland",
+        "url": "https://open.spotify.com/album/0TUS3VFkxFIvdUaranQAWC"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "When I Hear Your Name",
+      "url": "https://open.spotify.com/track/2gMaUDwmEVQe5lJqXCR0zU"
     },
     {
       "added_at": "2022-11-18 05:00:00",

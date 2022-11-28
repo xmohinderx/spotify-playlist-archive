@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Que viva el amor!",
-  "num_followers": 1949710,
+  "num_followers": 1949835,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDAxNDRjYjA4ODNlY2IyMWNlNTEyZTg1NTU0YTMzMGY4",
+  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDk1YWJmMmUzZmZiMGZiODE2N2NmNjIwMTNlY2EyOGUw",
   "tracks": [
     {
       "added_at": "2022-08-05 16:40:51",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
@@ -627,26 +607,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/4JFLZE2lAjETtE7uvms4Fo"
-      },
-      "artists": [
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 205369,
-      "name": "Mejores Amigos",
-      "url": "https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
       },
@@ -663,6 +623,46 @@
       "duration_ms": 178613,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/4JFLZE2lAjETtE7uvms4Fo"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 205369,
+      "name": "Mejores Amigos",
+      "url": "https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "De Mi Para Ti",
-        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Eazt",
-      "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 291493,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "De Mi Para Ti",
+        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Eazt",
+      "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -911,22 +911,18 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/2Xz6s5xkP24hNqWCWHSsww"
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 253830,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/00nvL9u5K8jEJ6TSxGdtPK"
+      "duration_ms": 264720,
+      "name": "Bendita Tu Luz",
+      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -951,18 +947,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+        "name": "Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/2Xz6s5xkP24hNqWCWHSsww"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         }
       ],
-      "duration_ms": 264720,
-      "name": "Bendita Tu Luz",
-      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+      "duration_ms": 253830,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/00nvL9u5K8jEJ6TSxGdtPK"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1991,22 +1991,18 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Bela Y Sus Moskitas Muertas",
-        "url": "https://open.spotify.com/album/0nkPDE37wScr94mANhr3r5"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
       },
       "artists": [
         {
-          "name": "Beatriz Luengo",
-          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
-        },
-        {
-          "name": "Jes\u00fas Navarro",
-          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Ley De Newton (feat. Jes\u00fas Navarro)",
-      "url": "https://open.spotify.com/track/1ZfTpp1U3oyarjE6BJRWqm"
+      "duration_ms": 213542,
+      "name": "More Than Words - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2027,18 +2023,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+        "name": "Bela Y Sus Moskitas Muertas",
+        "url": "https://open.spotify.com/album/0nkPDE37wScr94mANhr3r5"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Beatriz Luengo",
+          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
+        },
+        {
+          "name": "Jes\u00fas Navarro",
+          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
         }
       ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+      "duration_ms": 210626,
+      "name": "Ley De Newton (feat. Jes\u00fas Navarro)",
+      "url": "https://open.spotify.com/track/1ZfTpp1U3oyarjE6BJRWqm"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Girasoles",
+        "url": "https://open.spotify.com/album/4R22TlmVh28LeA4J3vohVn"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Girasoles",
+      "url": "https://open.spotify.com/track/4LdtAljggvH4qzlxNxo559"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "No Te Olvido",
         "url": "https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 185253,
       "name": "No Te Olvido",
       "url": "https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/4R22TlmVh28LeA4J3vohVn"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/4LdtAljggvH4qzlxNxo559"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Un Amor Eterno (Versi\u00f3n Balada)",
+        "url": "https://open.spotify.com/album/4LdWCO8V7kGiDR7FKOEhVw"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 191054,
+      "name": "Un Amor Eterno - Versi\u00f3n Balada",
+      "url": "https://open.spotify.com/track/3TuXuyfd6XjIShhPQAo21I"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -2247,22 +2263,6 @@
       "duration_ms": 241306,
       "name": "Con Las Ganas",
       "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Un Amor Eterno (Versi\u00f3n Balada)",
-        "url": "https://open.spotify.com/album/4LdWCO8V7kGiDR7FKOEhVw"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 191054,
-      "name": "Un Amor Eterno - Versi\u00f3n Balada",
-      "url": "https://open.spotify.com/track/3TuXuyfd6XjIShhPQAo21I"
     },
     {
       "added_at": "2022-08-05 16:40:51",

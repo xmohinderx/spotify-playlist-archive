@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 161451,
       "name": "All I Need (feat. Franglish)",
       "url": "https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 230346,
       "name": "Anxious Angel",
       "url": "https://open.spotify.com/track/0g6tODYLV4432gRFjcU3kt"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 172034,
       "name": "AVION",
       "url": "https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26"
@@ -3207,7 +3207,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 144080,
       "name": "CHEVA P\u00c5 FREDAG",
       "url": "https://open.spotify.com/track/6JvSqDyQ6rbbb93XklyNQ7"
@@ -4059,7 +4059,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 199344,
       "name": "Den vintertid nu kommer",
       "url": "https://open.spotify.com/track/0hSBZP9SodLCOLWmfgK9MK"
@@ -4426,6 +4426,24 @@
     },
     {
       "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
+    },
+    {
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -4783,7 +4801,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -5709,7 +5727,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -7672,6 +7690,24 @@
     },
     {
       "album": {
+        "name": "A Pentatonix Christmas",
+        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
+    },
+    {
+      "album": {
         "name": "Unge Med Extra Energi",
         "url": "https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T"
       },
@@ -7773,7 +7809,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 254706,
       "name": "Happy Xmas (War Is Over)",
       "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
@@ -7817,7 +7853,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 140444,
       "name": "HARRAGAS",
       "url": "https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV"
@@ -8173,7 +8209,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 176032,
       "name": "Hey Ho",
       "url": "https://open.spotify.com/track/1mlP7iqVLZMYryuispoFBE"
@@ -8357,7 +8393,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 137942,
       "name": "Hjertel\u00f8s",
       "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
@@ -8625,7 +8661,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -9752,7 +9788,7 @@
     },
     {
       "album": {
-        "name": "Jag kommer hem igen till jul",
+        "name": "Jag kommer hem igen till jul (20-\u00e5rsjubileum)",
         "url": "https://open.spotify.com/album/7CKtVeB9uIO6clD9N7qCLl"
       },
       "artists": [
@@ -9763,7 +9799,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 230280,
       "name": "Jag kommer hem igen till jul",
       "url": "https://open.spotify.com/track/3eusN83SiYVrSA3hG4drFy"
@@ -10107,7 +10143,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 160333,
       "name": "Jul, jul str\u00e5lande jul",
       "url": "https://open.spotify.com/track/33EVpTZhoyQw1mStrZTKfO"
@@ -10129,7 +10165,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 195880,
       "name": "Julen \u00e4r h\u00e4r",
       "url": "https://open.spotify.com/track/4cGPWeCfoQTw7i0wqNRcjI"
@@ -10995,7 +11031,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -11017,7 +11053,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -11123,7 +11159,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 196520,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
@@ -11909,7 +11945,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -12033,7 +12069,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 215702,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/5vpu2fogPhAutzdINePhNQ"
@@ -12445,7 +12481,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Mer jul - Klassisk Version",
       "url": "https://open.spotify.com/track/69S0Qwm02otD5zV1snmOG5"
@@ -12489,6 +12525,28 @@
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
       "album": {
@@ -12743,7 +12801,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -13493,7 +13551,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 161293,
       "name": "Nu t\u00e4ndas tusen juleljus",
       "url": "https://open.spotify.com/track/08D5bPhVLw01WdNchYxsqg"
@@ -15021,7 +15079,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 199096,
       "name": "Regnar och regnar",
       "url": "https://open.spotify.com/track/7CmSVWGMLTj4qZWhDTRxRG"
@@ -15575,7 +15633,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 159146,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/4DZFPEK6yH8MQYj3pld4tP"
@@ -15937,7 +15995,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 149565,
       "name": "Schack",
       "url": "https://open.spotify.com/track/2B4GEg6cLD3YlzOIBdOD7x"
@@ -17181,7 +17239,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-01",
+      "date_removed": null,
       "duration_ms": 188293,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
@@ -19527,7 +19585,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -20785,7 +20843,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 177480,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
@@ -21087,7 +21145,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 161898,
       "name": "X",
       "url": "https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh"
@@ -21123,7 +21181,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 125940,
       "name": "XXX (Bow Wow Wow)",
       "url": "https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC"
@@ -21403,7 +21461,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 195973,
       "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
       "url": "https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv"

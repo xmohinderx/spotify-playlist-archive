@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123951,
+  "num_followers": 123948,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGY0NDVlNzY4ZmE0MzgxZDE2MDM5YjcxYTEzYjUzYzQ4",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGY5MGE5ZjU2NzljNzZjMTA5MzEyNDAxZTRlNTFmZTFm",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 197330,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/47bzJjh9bAbo3s3NHSK4r8"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "50ft.",
         "url": "https://open.spotify.com/album/029JHv262PSXojxqywHDwr"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 185910,
       "name": "50ft.",
       "url": "https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 197330,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/47bzJjh9bAbo3s3NHSK4r8"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1347,6 +1347,30 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
+        "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Brabo",
+          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
+        }
+      ],
+      "duration_ms": 174988,
+      "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
+      "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -1375,30 +1399,6 @@
       "duration_ms": 270895,
       "name": "El Momento",
       "url": "https://open.spotify.com/track/3YlFNZ4iquJHPX6scKROns"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
-        "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Brabo",
-          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
-        }
-      ],
-      "duration_ms": 174988,
-      "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
-      "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Aline",
-        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
-      },
-      "artists": [
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "T\u00edmida",
         "url": "https://open.spotify.com/album/4ZOJtA52YPtxDuT0YmyWKl"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 157282,
       "name": "T\u00edmida",
       "url": "https://open.spotify.com/track/4UMnUuQ9cYTSdv9FNy9uWb"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
+      },
+      "artists": [
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "Love (Es Nuestro Idioma)",
-      "url": "https://open.spotify.com/track/5FT2fFKLeY6V7iQCt2eMzY"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Veneno - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1nnRPpAwjfhtXUGYkqsFWZ"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 159271,
       "name": "Veneno - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3NQNJcX6jLyiZfNWKVcgyH"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "Love (Es Nuestro Idioma)",
+      "url": "https://open.spotify.com/track/5FT2fFKLeY6V7iQCt2eMzY"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "WUT WUT",
-        "url": "https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        }
-      ],
-      "duration_ms": 152136,
-      "name": "Look At That Butt",
-      "url": "https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Terrible, Perriemos",
         "url": "https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 184800,
       "name": "Terrible, Perriemos",
       "url": "https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "WUT WUT",
+        "url": "https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "duration_ms": 152136,
+      "name": "Look At That Butt",
+      "url": "https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Mi Regalo, Mis N\u00famero 1...",
-        "url": "https://open.spotify.com/album/5emmvRD2uuSJAn12txkj7W"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "D.I.V.A",
         "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 169090,
       "name": "D.I.V.A",
       "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Mi Regalo, Mis N\u00famero 1...",
+        "url": "https://open.spotify.com/album/5emmvRD2uuSJAn12txkj7W"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "ChocQuib House",
-        "url": "https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        }
-      ],
-      "duration_ms": 222114,
-      "name": "Lo Que Quieras T\u00fa",
-      "url": "https://open.spotify.com/track/5skI8kaq5FByLW96MyUZqN"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 216000,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "ChocQuib House",
+        "url": "https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        }
+      ],
+      "duration_ms": 222114,
+      "name": "Lo Que Quieras T\u00fa",
+      "url": "https://open.spotify.com/track/5skI8kaq5FByLW96MyUZqN"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+        "name": "Toy en la calle 90'",
+        "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
         }
       ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
+      "duration_ms": 167385,
+      "name": "Toy en la calle 90' - Pomper\u00f3 Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Toy en la calle 90'",
-        "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
       },
       "artists": [
         {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 167385,
-      "name": "Toy en la calle 90' - Pomper\u00f3 Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV"
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Como un Drag\u00f3n",
+        "url": "https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        }
+      ],
+      "duration_ms": 168734,
+      "name": "Como un Drag\u00f3n",
+      "url": "https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "llorar y perrear",
         "url": "https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9"
       },
@@ -2351,38 +2367,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Como un Drag\u00f3n",
-        "url": "https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        }
-      ],
-      "duration_ms": 168734,
-      "name": "Como un Drag\u00f3n",
-      "url": "https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "MANLY FRESA",
-        "url": "https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm"
-      },
-      "artists": [
-        {
-          "name": "Kuinvi",
-          "url": "https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr"
-        }
-      ],
-      "duration_ms": 95121,
-      "name": "MANLY FRESA",
-      "url": "https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "TODOELORO",
         "url": "https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 171500,
       "name": "TODOELORO",
       "url": "https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "MANLY FRESA",
+        "url": "https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm"
+      },
+      "artists": [
+        {
+          "name": "Kuinvi",
+          "url": "https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr"
+        }
+      ],
+      "duration_ms": 95121,
+      "name": "MANLY FRESA",
+      "url": "https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Por un Beso",
-        "url": "https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX"
-      },
-      "artists": [
-        {
-          "name": "Luis Gamarra",
-          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
-        }
-      ],
-      "duration_ms": 179354,
-      "name": "Por un Beso",
-      "url": "https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Hi-def Femme",
         "url": "https://open.spotify.com/album/1KOFFgfz2ax4baSBqlyBBP"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 232197,
       "name": "Coca\u00edno",
       "url": "https://open.spotify.com/track/5NtClnWq7XKckE810jIBOw"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Por un Beso",
+        "url": "https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX"
+      },
+      "artists": [
+        {
+          "name": "Luis Gamarra",
+          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
+        }
+      ],
+      "duration_ms": 179354,
+      "name": "Por un Beso",
+      "url": "https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E"
     },
     {
       "added_at": "2022-07-05 19:20:04",

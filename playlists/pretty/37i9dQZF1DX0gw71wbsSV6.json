@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 41722,
+  "num_followers": 41735,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI2NTMwMywwMDAwMDAwMGQwNDNjOTQwMzlhNWM0ODNkNmYyNWQ4M2JlZjQ1MjM3",
+  "snapshot_id": "MTY2OTI2NTMwMywwMDAwMDAwMDE4MTE2ZTZiMjNhNGYwYjg3OGRjNjEwNjdlYTY5OGE4",
   "tracks": [
     {
       "added_at": "2022-11-22 15:00:00",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt"
     },
     {
-      "added_at": "2022-11-27 01:18:32",
+      "added_at": "2022-11-28 01:16:07",
       "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
+        "name": "someone will love you better",
+        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "someone will love you better",
+      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 176974,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
-        "name": "someone will love you better",
-        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "someone will love you better",
-      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
     },
     {
       "added_at": "2022-11-22 15:00:00",

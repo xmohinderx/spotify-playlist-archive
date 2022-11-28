@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Magnolia Park",
-  "num_followers": 439404,
+  "num_followers": 439432,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDljNWJiODFkMjUxMWY2NWM4NzA0NmE3MjYxZTgzNjhm",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDE4YTljMmJlOTA1MTJjOTkxNDUyNjM3ZWY2ZTY2MmQ1",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Dark Days (feat. Jeris Johnson)",
-        "url": "https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Dark Days (feat. Jeris Johnson)",
-      "url": "https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 174848,
       "name": "5150",
       "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Dark Days (feat. Jeris Johnson)",
+        "url": "https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Dark Days (feat. Jeris Johnson)",
+      "url": "https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Battle Scars",
-        "url": "https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W"
+        "name": "Halloween Mixtape",
+        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
       },
       "artists": [
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         }
       ],
-      "duration_ms": 171672,
-      "name": "Battle Scars",
-      "url": "https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi"
+      "duration_ms": 137052,
+      "name": "10 for 10",
+      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Halloween Mixtape",
-        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
+        "name": "Battle Scars",
+        "url": "https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 137052,
-      "name": "10 for 10",
-      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
+      "duration_ms": 171672,
+      "name": "Battle Scars",
+      "url": "https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Earthquake (feat. jxdn)",
-        "url": "https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 177637,
-      "name": "Earthquake (feat. jxdn)",
-      "url": "https://open.spotify.com/track/4QD5tfexKVwATpESYSc7qM"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Trauma Factory",
         "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
       },
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Earthquake (feat. jxdn)",
+        "url": "https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "Earthquake (feat. jxdn)",
+      "url": "https://open.spotify.com/track/4QD5tfexKVwATpESYSc7qM"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Drink Milk and Run",
         "url": "https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "SUBSTANCE",
-        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "MOSH PIT",
         "url": "https://open.spotify.com/album/5Sv5JHuSztH7ntDjnUSUqe"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 127058,
       "name": "MOSH PIT",
       "url": "https://open.spotify.com/track/1fQlfeG7u0xzRVuzqUwtGA"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "SUBSTANCE",
+        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "SUBSTANCE",
+      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Untitled Vol. 1",
+        "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Coke Nose",
+      "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "28 (Songs for Cooper)",
         "url": "https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY"
       },
@@ -1551,38 +1567,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Untitled Vol. 1",
-        "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
-      },
-      "artists": [
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Coke Nose",
-      "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "UNCOMPLICATED",
-        "url": "https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 149713,
-      "name": "UNCOMPLICATED",
-      "url": "https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "SOS (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 169600,
       "name": "SOS (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "UNCOMPLICATED",
+        "url": "https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 149713,
+      "name": "UNCOMPLICATED",
+      "url": "https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/78ZP7VUY5QO1lqv4FdXr28"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/58NAlwbMyFUWb8GUEoOpOi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "debbie downer",
         "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "One Last Time",
-        "url": "https://open.spotify.com/album/78ZP7VUY5QO1lqv4FdXr28"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/58NAlwbMyFUWb8GUEoOpOi"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Life In Your Glass World",
+        "url": "https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "I Want to Kill You",
+      "url": "https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Happy Never After",
         "url": "https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he"
       },
@@ -1907,54 +1923,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Life In Your Glass World",
-        "url": "https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84"
+        "name": "We Made Plans & God Laughed",
+        "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
       },
       "artists": [
         {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "I Want to Kill You",
-      "url": "https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "The Hum Goes on Forever",
-        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Wyatt\u2019s Song (Your Name)",
-      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Down (feat. Travis Barker)",
-        "url": "https://open.spotify.com/album/6xDFoGf8jzDuFTPwQIOlyK"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         },
         {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
         }
       ],
-      "duration_ms": 168384,
-      "name": "Down (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/5mkjZ6EciJaZrRXUL5eDfH"
+      "duration_ms": 188423,
+      "name": "ALMOST FAMOUS",
+      "url": "https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1987,22 +1971,38 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "We Made Plans & God Laughed",
-        "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
+        "name": "Down (feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/6xDFoGf8jzDuFTPwQIOlyK"
       },
       "artists": [
         {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         },
         {
-          "name": "Mark Hoppus",
-          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 188423,
-      "name": "ALMOST FAMOUS",
-      "url": "https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7"
+      "duration_ms": 168384,
+      "name": "Down (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/5mkjZ6EciJaZrRXUL5eDfH"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "The Hum Goes on Forever",
+        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Wyatt\u2019s Song (Your Name)",
+      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2019,22 +2019,6 @@
       "duration_ms": 178560,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2059,6 +2043,22 @@
       "duration_ms": 139200,
       "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
       "url": "https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 144478,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Amazing Things",
         "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 238783,
       "name": "One True Prince",
       "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 144478,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "i heard they found you face down inside your living room",
-        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/7DllxBuh4dcjrORcKNkyQf"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 166273,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/7KuSHOqPEgLzE8UwSoaKX1"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "i heard they found you face down inside your living room",
+        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Bot Lobby",
-        "url": "https://open.spotify.com/album/3g7lpyviHEw5x17KwHw1WN"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 176187,
-      "name": "Bot Lobby",
-      "url": "https://open.spotify.com/track/3x6D6Va2TevX1lv6HIjhh1"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Teenagers",
         "url": "https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 181708,
       "name": "Paper",
       "url": "https://open.spotify.com/track/0Vumvuj4HYy3quIRSkrYDy"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Bot Lobby",
+        "url": "https://open.spotify.com/album/3g7lpyviHEw5x17KwHw1WN"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 176187,
+      "name": "Bot Lobby",
+      "url": "https://open.spotify.com/track/3x6D6Va2TevX1lv6HIjhh1"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Red EP",
-        "url": "https://open.spotify.com/album/5BPCHjvb6PYhOny8GXmb9q"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        }
-      ],
-      "duration_ms": 195247,
-      "name": "Just Like Home",
-      "url": "https://open.spotify.com/track/1MJMWhmxP93nnU62AcJukk"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "The Water",
         "url": "https://open.spotify.com/album/2GKMTSlnEfOs6EirxGlOwN"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 194000,
       "name": "The Water",
       "url": "https://open.spotify.com/track/3QsLgPbGX8Tr5BK3y1c9d4"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "The Red EP",
+        "url": "https://open.spotify.com/album/5BPCHjvb6PYhOny8GXmb9q"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "duration_ms": 195247,
+      "name": "Just Like Home",
+      "url": "https://open.spotify.com/track/1MJMWhmxP93nnU62AcJukk"
     },
     {
       "added_at": "2022-11-04 04:00:00",

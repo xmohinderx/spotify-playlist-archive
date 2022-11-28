@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 201459,
+  "num_followers": 201967,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE4NzQ5MywwMDAwMDAwMDZlMTI2ZmY1NjQzNDg2Nzk1NGM1NjU1NWZiNTRmMTVh",
+  "snapshot_id": "MTY2OTE4NzQ5MywwMDAwMDAwMGMyM2ZiYjE4NjYwMjBkMGVlN2I5YWVkYzg5ZDE5ZjU2",
   "tracks": [
     {
       "added_at": "2022-11-23 06:56:01",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Tout Doucement",
-      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
-    },
-    {
-      "added_at": "2022-11-23 06:56:01",
-      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 140826,
       "name": "Un jour comme un autre",
       "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
+    },
+    {
+      "added_at": "2022-11-23 06:56:01",
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Tout Doucement",
+      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
     },
     {
       "added_at": "2022-11-23 06:56:01",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2022-11-23 06:56:01",
-      "album": {
         "name": "Raconte-moi... (Bonus Edition)",
         "url": "https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
+    },
+    {
+      "added_at": "2022-11-23 06:56:01",
+      "album": {
         "name": "Hoping for Love",
         "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
       },
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
-        "name": "Raconte-moi... (Bonus Edition)",
-        "url": "https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "John Parricelli",
-          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
-        }
-      ],
-      "duration_ms": 163510,
-      "name": "Que reste-t-il de nos amours ? - Bonus track",
-      "url": "https://open.spotify.com/track/7vY7W8DL8JSaS6aBDFHGW3"
-    },
-    {
-      "added_at": "2022-11-23 06:56:01",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -631,22 +611,6 @@
       "duration_ms": 170186,
       "name": "Samba Saravah",
       "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
-    },
-    {
-      "added_at": "2022-11-23 06:56:01",
-      "album": {
-        "name": "Fran\u00e7oise Hardy (Le premier bonheur du jour)",
-        "url": "https://open.spotify.com/album/3oz5l8VzwwnFxIQTuD6WdM"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 112693,
-      "name": "Le premier bonheur du jour",
-      "url": "https://open.spotify.com/track/4Z1SQ54lhPoTqrdquQp9V9"
     },
     {
       "added_at": "2022-11-23 06:56:01",
@@ -679,6 +643,42 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
+        "name": "Fran\u00e7oise Hardy (Le premier bonheur du jour)",
+        "url": "https://open.spotify.com/album/3oz5l8VzwwnFxIQTuD6WdM"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 112693,
+      "name": "Le premier bonheur du jour",
+      "url": "https://open.spotify.com/track/4Z1SQ54lhPoTqrdquQp9V9"
+    },
+    {
+      "added_at": "2022-11-23 06:56:01",
+      "album": {
+        "name": "Raconte-moi... (Bonus Edition)",
+        "url": "https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        }
+      ],
+      "duration_ms": 163510,
+      "name": "Que reste-t-il de nos amours ? - Bonus track",
+      "url": "https://open.spotify.com/track/7vY7W8DL8JSaS6aBDFHGW3"
+    },
+    {
+      "added_at": "2022-11-23 06:56:01",
+      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
-        "name": "Attraction",
-        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Lettre A P",
-      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
-    },
-    {
-      "added_at": "2022-11-23 06:56:01",
-      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 113493,
       "name": "Une histoire de plage",
       "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
+    },
+    {
+      "added_at": "2022-11-23 06:56:01",
+      "album": {
+        "name": "Attraction",
+        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Lettre A P",
+      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
     },
     {
       "added_at": "2022-11-23 06:56:01",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
-        "name": "Les ronds de carotte",
-        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
+        "name": "Um Rio",
+        "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
       },
       "artists": [
         {
-          "name": "Thomas Fersen",
-          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
         }
       ],
-      "duration_ms": 245226,
-      "name": "Au caf\u00e9 de la paix",
-      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+      "duration_ms": 254693,
+      "name": "\u00c0 quoi \u00e7a sert l'amour",
+      "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
     },
     {
       "added_at": "2022-11-23 06:56:01",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
+        "name": "Les ronds de carotte",
+        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fersen",
+          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "Au caf\u00e9 de la paix",
+      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+    },
+    {
+      "added_at": "2022-11-23 06:56:01",
+      "album": {
         "name": "Ilo Veyou",
         "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 223880,
       "name": "Que je t'aime",
       "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
-    },
-    {
-      "added_at": "2022-11-23 06:56:01",
-      "album": {
-        "name": "Um Rio",
-        "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "\u00c0 quoi \u00e7a sert l'amour",
-      "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
     },
     {
       "added_at": "2022-11-23 06:56:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
-      },
-      "artists": [
-        {
-          "name": "Raquel Bitton",
-          "url": "https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Nuages - Studio recording",
-      "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
-    },
-    {
-      "added_at": "2022-11-23 06:56:01",
-      "album": {
         "name": "Faites vous des amis",
         "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 265426,
       "name": "Assedic",
       "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
+    },
+    {
+      "added_at": "2022-11-23 06:56:01",
+      "album": {
+        "name": "La Chapelle Au Clair De Lune",
+        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Marjane",
+          "url": "https://open.spotify.com/artist/17biBe7LOJ6V6OH4aAHbXc"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "En septembre sous la pluie",
+      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
     },
     {
       "added_at": "2022-11-23 06:56:01",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
-        "name": "La Chapelle Au Clair De Lune",
-        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
       },
       "artists": [
         {
-          "name": "L\u00e9o Marjane",
-          "url": "https://open.spotify.com/artist/17biBe7LOJ6V6OH4aAHbXc"
+          "name": "Raquel Bitton",
+          "url": "https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X"
         }
       ],
-      "duration_ms": 187626,
-      "name": "En septembre sous la pluie",
-      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
+      "duration_ms": 222840,
+      "name": "Nuages - Studio recording",
+      "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
     },
     {
       "added_at": "2022-11-23 06:56:01",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
+        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
+        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "duration_ms": 139548,
+      "name": "Saint-tropez blues",
+      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
+    },
+    {
+      "added_at": "2022-11-23 06:56:01",
+      "album": {
         "name": "Jeanne Chante Jeanne",
         "url": "https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 181600,
       "name": "Les voyages",
       "url": "https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ"
-    },
-    {
-      "added_at": "2022-11-23 06:56:01",
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Ces Petits Riens",
-      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
     },
     {
       "added_at": "2022-11-23 06:56:01",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-11-23 06:56:01",
       "album": {
-        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
-        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
       "artists": [
         {
-          "name": "Marie Lafor\u00eat",
-          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 139548,
-      "name": "Saint-tropez blues",
-      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
+      "duration_ms": 134693,
+      "name": "Ces Petits Riens",
+      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
     },
     {
       "added_at": "2022-11-23 06:56:01",

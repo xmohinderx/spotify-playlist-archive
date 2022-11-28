@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,734,958 likes - 300 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,737,028 likes - 300 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

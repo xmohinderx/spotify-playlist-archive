@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 40593,
+  "num_followers": 40633,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMGUzOTFmZWI1NGE5NzcxOTA5ODNhNWQ3NTY4YTliNzJl",
+  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMDI2ZDcwZjZiNDlkYzZkNjA4NDJkMTAyMTEwM2FlY2I0",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 323615,
-      "name": "Bangara",
-      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
+      "duration_ms": 481255,
+      "name": "Foulani Hiriza / Soye",
+      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
-        }
-      ],
-      "duration_ms": 292520,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Djaza\u00efr Johara",
         "url": "https://open.spotify.com/album/6aMI4N8bNjlmyf5nLaRgAG"
       },
@@ -819,38 +803,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Oulad Lghaba",
-        "url": "https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN"
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
       "artists": [
         {
-          "name": "Asmaa Hamzaoui",
-          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
-        },
-        {
-          "name": "Bnat Timbouktou",
-          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
         }
       ],
-      "duration_ms": 337693,
-      "name": "Bala Yourki",
-      "url": "https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 481255,
-      "name": "Foulani Hiriza / Soye",
-      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
+      "duration_ms": 292520,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -871,6 +835,42 @@
       "duration_ms": 550106,
       "name": "Marhba / Gnawa Sidi Mimoun",
       "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 323615,
+      "name": "Bangara",
+      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Oulad Lghaba",
+        "url": "https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN"
+      },
+      "artists": [
+        {
+          "name": "Asmaa Hamzaoui",
+          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
+        },
+        {
+          "name": "Bnat Timbouktou",
+          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
+        }
+      ],
+      "duration_ms": 337693,
+      "name": "Bala Yourki",
+      "url": "https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x"
     },
     {
       "added_at": "2022-03-10 07:10:03",

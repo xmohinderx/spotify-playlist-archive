@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 271773,
+  "num_followers": 271884,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDU0OTEzNTY1NGQ2NDYxOTNmZWQ4Y2RmYzQ1NDc5OTkz",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDYwMzFhM2M3ZGEyMjkyYzVlYzFhY2ZlZTQ2NWU4MDc2",
   "tracks": [
     {
       "added_at": "2022-08-02 18:19:11",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 239960,
       "name": "The Woods - Acoustic",
       "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 211881,
       "name": "Girl - Acoustic",
       "url": "https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
+        "name": "Love Flew Away",
+        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 147346,
+      "name": "Love Flew Away",
+      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
         "name": "Time Without Consequence",
         "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
-        "name": "Love Flew Away",
-        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 147346,
-      "name": "Love Flew Away",
-      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
-      },
-      "artists": [
-        {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Forever Ago",
-      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Forever Ago",
+      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
       },
       "artists": [
         {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        },
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 197526,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1163,6 +1159,26 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        },
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 197526,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1243,22 +1259,6 @@
       "duration_ms": 228013,
       "name": "Fortune - Acoustic",
       "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
-        "name": "Persuasion (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234156,
-      "name": "Quietly Yours",
-      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "America",
+      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
         "name": "That Spell",
         "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "America",
-      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1601,20 +1601,20 @@
       "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-08-02 18:19:11",
       "album": {
-        "name": "HOW DID WE GET HERE?",
-        "url": "https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j"
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
       },
       "artists": [
         {
-          "name": "young friend",
-          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 160941,
-      "name": "i don't care - bonus track",
-      "url": "https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA"
+      "duration_ms": 236853,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1633,20 +1633,36 @@
       "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
-      "added_at": "2022-08-02 18:19:11",
+      "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
+        "name": "HOW DID WE GET HERE?",
+        "url": "https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
         }
       ],
-      "duration_ms": 236853,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
+      "duration_ms": 160941,
+      "name": "i don't care - bonus track",
+      "url": "https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1671,22 +1687,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
-        "name": "Wildewoman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
+        "name": "Wildewoman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
-        "name": "A song I wrote after therapy",
-        "url": "https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG"
-      },
-      "artists": [
-        {
-          "name": "Harry Hudson",
-          "url": "https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr"
-        }
-      ],
-      "duration_ms": 185043,
-      "name": "A song I wrote after therapy",
-      "url": "https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
         "name": "Not Even Happiness",
         "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 242387,
       "name": "Follow My Voice",
       "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
+        "name": "A song I wrote after therapy",
+        "url": "https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG"
+      },
+      "artists": [
+        {
+          "name": "Harry Hudson",
+          "url": "https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr"
+        }
+      ],
+      "duration_ms": 185043,
+      "name": "A song I wrote after therapy",
+      "url": "https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9"
     },
     {
       "added_at": "2022-08-02 18:19:11",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-08-02 18:19:11",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
-    },
-    {
-      "added_at": "2022-08-02 18:19:11",
-      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2022-08-02 18:19:11",
+      "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2022-08-02 18:19:11",

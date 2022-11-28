@@ -4,7 +4,7 @@
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 40 min - not published yet
+54 songs - 3 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [In The Deathcar \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arizona Dream \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F) | 5:14 | 2022-11-04 |  |
 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 | 2022-11-04 |  |
 | [King Of The Dogs](https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:01 | 2022-11-04 |  |
+| [La Belle Vie](https://open.spotify.com/track/6ZiyU4U2GlSz814vTTBBDo) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 3:04 | 2022-11-27 |  |
 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 | 2022-11-04 |  |
 | [Little Know It All](https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:33 | 2022-11-04 |  |
 | [Livin' On The Edge Of The Night](https://open.spotify.com/track/0xGFngTneJV4OzN310i8Qh) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Brick By Brick](https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8) | 3:38 | 2022-11-04 |  |
@@ -41,7 +42,7 @@
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2022-11-04 |  |
 | [L’appartement \- en duo avec Iggy Pop](https://open.spotify.com/track/0lpF25LpCVWZevST9ZLYDh) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [L'amour hélas](https://open.spotify.com/album/1tW64D92Fbvas6G28g75Jf) | 3:10 | 2022-11-13 |  |
 | [Nightclubbing](https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:15 | 2022-11-04 |  |
-| [Paraguay](https://open.spotify.com/track/0NxkgttWBebPhJhQkW6t8n) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:25 | 2022-11-05 |  |
+| [Paraguay](https://open.spotify.com/track/0NxkgttWBebPhJhQkW6t8n) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:25 | 2022-11-05 | 2022-11-28 |
 | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/album/6sl0F7alKr5VWHTpdSRXZS) | 4:35 | 2022-11-04 |  |
 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 | 2022-11-04 |  |
 | [Real Wild Child \(Wild One\)](https://open.spotify.com/track/6ZAwEE4kTdtvyE66iRhFxR) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 3:38 | 2022-11-04 |  |

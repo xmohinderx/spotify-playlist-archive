@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,287 likes - 499 songs - 19 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,410 likes - 499 songs - 19 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 215 | [Garden Estate](https://open.spotify.com/track/4thVlPkQsED0AJLURZwWN5) | [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [Mila Coolness](https://open.spotify.com/artist/3gdyXwWMfOPBIZrIDMg40u) | [Garden Estate](https://open.spotify.com/album/6r46NMLyZFoObmHaadcsk1) | 2:33 |
 | 216 | [a fisherman lost at sea](https://open.spotify.com/track/2vGtIEuGXENvpTs6mWHLIy) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP) | [a fisherman lost at sea](https://open.spotify.com/album/72wJWTHXldGnsWPQlDCjtU) | 2:46 |
 | 217 | [loom](https://open.spotify.com/track/1cUr5w8OFEz6JlbIzNFQmg) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [loom](https://open.spotify.com/album/5pXCcRvfBRYg0pNtoUz8V8) | 2:11 |
-| 218 | [dream in colour](https://open.spotify.com/track/4vMuEtxWV6bK0kHur1DDW2) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L), [Pointy Features](https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH) | [dream in colour](https://open.spotify.com/album/5OVCmEptLW71wOAD0VOZ1G) | 2:11 |
+| 218 | [dream in colour](https://open.spotify.com/track/4vMuEtxWV6bK0kHur1DDW2) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L) | [dream in colour](https://open.spotify.com/album/5OVCmEptLW71wOAD0VOZ1G) | 2:11 |
 | 219 | [Lantern](https://open.spotify.com/track/5aMWl0Vwj1jmEcs8bDkxBB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Lantern](https://open.spotify.com/album/1QD3MeRF7Z7ECQvyXOqMPf) | 2:24 |
 | 220 | [Downpour](https://open.spotify.com/track/0m5hCN8vIE6HVaGJUh309X) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Downpour](https://open.spotify.com/album/1aQAFqPF00QD1EqpBNHuzs) | 2:18 |
 | 221 | [Sweet Dreams](https://open.spotify.com/track/6YNC9oMyuxkmP84UfOfH4x) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Sweet Dreams](https://open.spotify.com/album/57XSssbhediGW5EYNcKhuL) | 2:08 |

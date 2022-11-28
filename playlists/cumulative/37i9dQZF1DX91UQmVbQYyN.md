@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-409 songs - 1 day 0 hr 57 min - [published](https://open.spotify.com/playlist/1asloj9UtV8SBgxSK2ddXs)
+410 songs - 1 day 1 hr 1 min - [published](https://open.spotify.com/playlist/1asloj9UtV8SBgxSK2ddXs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-03-08 | 2022-07-24 |
 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 | 2021-09-03 | 2022-11-13 |
 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 | 2021-09-03 | 2022-07-06 |
+| [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 | 2022-03-08 |  |
 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 | 2022-03-08 | 2022-10-28 |
 | [Losing You](https://open.spotify.com/track/7wCN8IwqrTQpwkcWH5sP4o) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/50kvbvxJnx4YeSiNvABNqB) | 4:20 | 2022-03-08 | 2022-04-18 |
 | [Lost on You](https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:28 | 2022-03-08 |  |
@@ -219,7 +220,7 @@
 | [Love You!!!!!!](https://open.spotify.com/track/0ZkvrUjMQNXK1IIlZIaE5P) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Love You!!!!!!](https://open.spotify.com/album/1mXHeGBeM3gJpvik6FsXKe) | 2:05 | 2022-03-08 | 2022-04-18 |
 | [Lucky Sue](https://open.spotify.com/track/4lAfXpZKFDEudiEzLB9uHm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Lucky Sue](https://open.spotify.com/album/3TDSB1jzPg95A3JG555CA3) | 3:40 | 2021-09-03 | 2022-07-24 |
 | [Lucy](https://open.spotify.com/track/0qqAx9YnwIEZ8y9OyTjZRc) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Lucy](https://open.spotify.com/album/16FvSGhewJJxkKi1Fy05oA) | 3:49 | 2021-09-03 | 2022-02-12 |
-| [Manta Rays](https://open.spotify.com/track/3sWgoaftdzDcdwfHT6404A) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:31 | 2022-03-08 |  |
+| [Manta Rays](https://open.spotify.com/track/3sWgoaftdzDcdwfHT6404A) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:31 | 2022-03-08 | 2022-11-28 |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2022-03-08 |  |
 | [Mariners Apartment Complex](https://open.spotify.com/track/4UAW2gObi5o6sJla0qZpPn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Mariners Apartment Complex](https://open.spotify.com/album/4TWQNiXpoHlEBzfg0SeYlG) | 4:06 | 2021-09-03 | 2022-07-29 |
 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 | 2022-03-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,147 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,382 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 43 | [Then He Kissed Me](https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Wall of Sound: The Very Best of Phil Spector 1961\-1966](https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i) | 2:38 |
 | 44 | [Nevertheless \(I'm In Love With You\) \- 1958 version](https://open.spotify.com/track/7s0ZliVrPsRNdDcTuTlBOJ) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Great Hits](https://open.spotify.com/album/60kSCdFMEKAvxW982OgQpg) | 2:47 |
 | 45 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 |
-| 46 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
-| 47 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |
+| 46 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |
+| 47 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
 | 48 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Someone To Watch Over Me](https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r) | 3:35 |
 | 49 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 |
 | 50 | [Old Cape Cod](https://open.spotify.com/track/2ZD42YPLXtzoGlRH51zViF) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 2:38 |
 
-Snapshot ID: `MTY2NTUyNDE4MCwwMDAwMDAwMDgzZTU1MDQ0NTE3Yjc4ZmUxZDhlZmExMzgxY2FhODdi`
+Snapshot ID: `MTY2NTUyNDE4MCwwMDAwMDAwMGIyZjQ5NzNmY2M3NjNiNzBlNzFmMTBmYjVhMDc2ODYz`

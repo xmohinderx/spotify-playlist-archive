@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 106030,
+  "num_followers": 106132,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDlmZDkwZmVlMWJmOWMwODBkNjlmOTg2MWQ1YWZlNzAz",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDk2ZGJiYWFkMzJhMjA1NDUwMmZiNGMzMTM1ZTNhMTll",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Go Easy, Kid",
-        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 248181,
-      "name": "Go Easy, Kid",
-      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Go Easy, Kid",
+        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "duration_ms": 248181,
+      "name": "Go Easy, Kid",
+      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "There is a place",
+        "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 247722,
+      "name": "There is a place",
+      "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Something My Heart Trusts",
         "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 253246,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "There is a place",
-        "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 247722,
-      "name": "There is a place",
-      "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
-      },
-      "artists": [
-        {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "That's What Friends Are For",
         "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 223986,
       "name": "That's What Friends Are For",
       "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
+      },
+      "artists": [
+        {
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 284213,
-      "name": "Things Are Looking up Again",
-      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 276346,
       "name": "Gran Torino",
       "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 284213,
+      "name": "Things Are Looking up Again",
+      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 230880,
       "name": "The Birds and the Bees",
       "url": "https://open.spotify.com/track/3TwHdxdq4Ksb0mIPx2A6TA"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Take Me To The Alley",
         "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 301960,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1407,18 +1407,38 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+        "name": "True Love's Flame",
+        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
       "artists": [
         {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        },
+        {
+          "name": "Anna Serierse",
+          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
         }
       ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
+      "duration_ms": 152360,
+      "name": "A Place I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1455,26 +1475,6 @@
       "duration_ms": 233384,
       "name": "Be That Someone",
       "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "True Love's Flame",
-        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Herman",
-          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
-        },
-        {
-          "name": "Anna Serierse",
-          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
-        }
-      ],
-      "duration_ms": 152360,
-      "name": "A Place I Don\u2019t Know",
-      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
-      },
-      "artists": [
-        {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
-        }
-      ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
       },
       "artists": [
         {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
         }
       ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 182080,
       "name": "Something to Celebrate",
       "url": "https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
     },
     {
       "added_at": "2022-11-24 23:00:00",

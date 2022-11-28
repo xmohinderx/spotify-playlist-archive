@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,343 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,566 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,21 +57,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 47 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
 | 48 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
 | 49 | [Head, Shoulders, Kneez & Toez \- Radio Edit](https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 3:32 |
-| 50 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
-| 51 | [Romping Shop](https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Romping Shop](https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE) | 3:33 |
+| 50 | [Romping Shop](https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Romping Shop](https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE) | 3:33 |
+| 51 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
 | 52 | [Goodas Mi Back Mi Back](https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Gully Slime](https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8) | 3:44 |
-| 53 | [TEMPERATURE](https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Riddim Driven: Applause](https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm) | 3:39 |
-| 54 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
-| 55 | [Bun Fi Bun](https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd) | 3:17 |
-| 56 | [I Am Blessed](https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [I Am Blessed](https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A) | 3:08 |
+| 53 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
+| 54 | [TEMPERATURE](https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Riddim Driven: Applause](https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm) | 3:39 |
+| 55 | [I Am Blessed](https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [I Am Blessed](https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A) | 3:08 |
+| 56 | [Bun Fi Bun](https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd) | 3:17 |
 | 57 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 | 58 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
 | 59 | [Dat Sexy Body](https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0) | [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 2:49 |
 | 60 | [Forgive Me](https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Forgive Me](https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X) | 3:53 |
-| 61 | [Deport Them](https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 3:08 |
-| 62 | [Press Trigger](https://open.spotify.com/track/27GiOlVbVjPaN8wco4d9m2) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:45 |
-| 63 | [All 2 Myself](https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [All 2 Myself](https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ) | 2:31 |
-| 64 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
+| 61 | [Press Trigger](https://open.spotify.com/track/27GiOlVbVjPaN8wco4d9m2) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:45 |
+| 62 | [All 2 Myself](https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [All 2 Myself](https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ) | 2:31 |
+| 63 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
+| 64 | [Deport Them](https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 3:08 |
 | 65 | [Top Prize](https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on) | 3:12 |
 | 66 | [Boom Bang](https://open.spotify.com/track/437B7MVyS4cRTtwIBCDp39) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Boom Bang \(with Davido\)](https://open.spotify.com/album/0HRvp6uFFEX8fbALXV3ten) | 2:41 |
 | 67 | [Who Am I](https://open.spotify.com/track/2d6gIQ6KRsmMKQYjEBFEN9) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:15 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 78 | [Infiltrate](https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:27 |
 | 79 | [Do You Mind](https://open.spotify.com/track/2nQ5CtkYZ2ufJNP3C4BL0I) | [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Best in '09](https://open.spotify.com/album/0zoxOALXc0b2mKAtlSyBQe) | 1:28 |
 
-Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMGNmZGIxYmZmMTUzNjU5YWZkZjQxNGM5MWYzOTUxYjg0`
+Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMGFiZmUzMmI4NDZkMDViZTY5NDZhZjk4MjIyOWUwZDBh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,336 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,349 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 51 | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Come Back To Bed \(Acoustic\)](https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H) | 3:25 |
 | 52 | [Steady Heart \- Wedding Version](https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart \(Wedding Version\)](https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp) | 3:30 |
 | 53 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
-| 54 | [Wild as Her \(feat\. Carter Faith\) \- Acoustic One\-Take](https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild as Her \(feat\. Carter Faith\) \[Acoustic One\-Take\]](https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf) | 3:33 |
-| 55 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 |
-| 56 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 |
-| 57 | [Here Tonight \- The Acoustic Sessions](https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [The Acoustic Sessions](https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ) | 3:18 |
+| 54 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 |
+| 55 | [Wild as Her \(feat\. Carter Faith\) \- Acoustic One\-Take](https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild as Her \(feat\. Carter Faith\) \[Acoustic One\-Take\]](https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf) | 3:33 |
+| 56 | [Here Tonight \- The Acoustic Sessions](https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [The Acoustic Sessions](https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ) | 3:18 |
+| 57 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 |
 | 58 | [Slow Dance In A Parking Lot \- Acoustic](https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot \(Acoustic\)](https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo) | 2:58 |
 | 59 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
 | 60 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 |
 | 100 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDM2NDI5YmExNDBhOTA4ZjJlODhhZGFjMjUwYmQxMTk1`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGIzNGMyYzAxOTk3MzU0MTU3MzIxNjMzOGM0NDUzNDM3`

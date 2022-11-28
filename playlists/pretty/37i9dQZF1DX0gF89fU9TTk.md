@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,624 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,663 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 23 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 24 | [Lifeline](https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Lifeline](https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW) | 3:14 |
 | 25 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 |
-| 26 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
-| 27 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
+| 26 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
+| 27 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
 | 28 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
 | 29 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
 | 30 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 47 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |
 | 48 | [Every Little Thing](https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [III \(Reimagined\)](https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO) | 3:22 |
 | 49 | [I’ve Got A Fire](https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [I've Got A Fire](https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI) | 3:38 |
-| 50 | [I Feel Good About It](https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce) | [Foothills Collective](https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc), [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [I Feel Good About It](https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4) | 3:43 |
-| 51 | [Won't Let Me Go](https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Won't Let Me Go](https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy) | 3:17 |
+| 50 | [Won't Let Me Go](https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Won't Let Me Go](https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy) | 3:17 |
+| 51 | [I Feel Good About It](https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce) | [Foothills Collective](https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc), [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [I Feel Good About It](https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4) | 3:43 |
 | 52 | [Devotion](https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Devotion](https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH) | 3:42 |
 | 53 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 |
 | 54 | [Right Where You Want Me](https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:26 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 68 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
 | 69 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
 | 70 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
-| 71 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 |
-| 72 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 |
+| 71 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 |
+| 72 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 |
 | 73 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
 | 74 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
 | 75 | [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 |
 
-Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMDYxZTJhN2NkMjM2NjNhNjY4YWNkZGQ1NWZjZWM5NjJl`
+Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMGY2MDU3OWQ2OTAzZWYwZjBiMTY4MzUxODA3NmM4OTVh`

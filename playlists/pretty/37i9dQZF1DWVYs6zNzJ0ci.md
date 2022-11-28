@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Manuel Medrano, Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,501 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,583 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 82 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
 | 83 | [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 |
 | 84 | [Las Ganas de Vivir](https://open.spotify.com/track/7CUnSaxzKJT5ntbqBKz1fr) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [La Llave Maestra](https://open.spotify.com/album/0IGW3ipP3z1PXooqMX403Q) | 3:53 |
-| 85 | [Moreno](https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Moreno](https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4) | 4:18 |
-| 86 | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 |
+| 85 | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 |
+| 86 | [Moreno](https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Moreno](https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4) | 4:18 |
 | 87 | [Lenguas de Signos \(feat\. Monsieur Periné\)](https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 4:52 |
 | 88 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
 | 89 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 92 | [Feliz](https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:43 |
 | 93 | [No me quieras mal \(feat\. Green Valley\)](https://open.spotify.com/track/0i28uCpFSDqIf7KVTqj5hv) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [No me quieras mal \(feat\. Green Valley\)](https://open.spotify.com/album/0t3QVhg859BVQMZ9BxQWK5) | 4:06 |
 | 94 | [Fotosíntesis](https://open.spotify.com/track/6BARUJnP3HFzeEcK9KER1g) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Fotosíntesis](https://open.spotify.com/album/3VppSFRLWDea4KZmSs80HQ) | 3:04 |
-| 95 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
-| 96 | [Y Es de Día](https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Gimnasia para Momias](https://open.spotify.com/album/2EVg66yi0c83l2vTXlkvWG) | 5:37 |
+| 95 | [Y Es de Día](https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Gimnasia para Momias](https://open.spotify.com/album/2EVg66yi0c83l2vTXlkvWG) | 5:37 |
+| 96 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
 | 97 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
 | 98 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
 | 99 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
 | 100 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGEyM2EzMzEwNjE1ZWMxNzliNmM1MjgwZjE2NDQ2MzAy`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGY0MWQxMGQyNmNlY2IzMWQ5ODcyOGYwNjI4YmQ2N2Jj`

@@ -1,12 +1,12 @@
 {
   "description": "Because once you were a hipster, and now you are an indie parent.",
-  "num_followers": 26268,
+  "num_followers": 26340,
   "original_name": "Raised on Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjE2NiwwMDAwMDAwMDc1NTY3NGJlYmIzMzY5ZGIwNGI2YTQzMWYzZTI2OGFk",
+  "snapshot_id": "MTY0OTc5NjE2NiwwMDAwMDAwMGEyMzk3NmMwNGZlOTVjNThlNjMwOTQ4Nzk1ZDJmOWY5",
   "tracks": [
     {
       "added_at": "2022-01-10 20:54:40",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9"
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
         }
       ],
-      "duration_ms": 200560,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU"
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU"
     },
     {
       "added_at": "2022-01-10 20:54:40",

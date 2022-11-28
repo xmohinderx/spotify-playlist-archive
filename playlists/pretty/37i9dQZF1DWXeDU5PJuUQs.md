@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,244 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,304 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 55 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 | 56 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 |
 | 57 | [Mi Condena \- En Vivo](https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:00 |
-| 58 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
-| 59 | [Te Hubieras Ido Antes \- En Vivo](https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Te Hubieras Ido Antes \(En Vivo\)](https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh) | 3:33 |
+| 58 | [Te Hubieras Ido Antes \- En Vivo](https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Te Hubieras Ido Antes \(En Vivo\)](https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh) | 3:33 |
+| 59 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
 | 60 | [Dime Si Eres Feliz \- En Vivo](https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE) | 3:32 |
 | 61 | [Vamos A Bailar](https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:58 |
 | 62 | [Duraznito](https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 2:48 |
 | 63 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 | 64 | [No Te Vi Crecer \- En Vivo](https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [La Historia Continua](https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn) | 2:52 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDgyYzY2ZDE3MjQ2OWE0MGYzYmYwOGI4NDZiMzE0Nzg5`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDMwMGZhYWE3ZTYyMWY3YjM3YzJlYTA2OGJlZGZlNDIw`

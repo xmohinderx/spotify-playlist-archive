@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,291 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,304 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,20 +82,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 72 | [João E Maria](https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico 50 Anos \- O Trovador](https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV) | 2:21 |
 | 73 | [This Time Tomorrow \- 2020 Stereo Remaster](https://open.spotify.com/track/4KvaAwAeXLKyRjroj2QyjE) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 3:23 |
 | 74 | [Roda\-Viva](https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque de Hollanda Vol\. 3](https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil) | 3:53 |
-| 75 | [Sereia / De Repente Califórnia / Como uma Onda \(Zen Surfismo\)](https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 6:52 |
+| 75 | [Coisinha do Pai](https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 2:54 |
 | 76 | [Samba Do Aviao \- Live](https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 3:23 |
-| 77 | [Coisinha do Pai](https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 2:54 |
+| 77 | [Sereia / De Repente Califórnia / Como uma Onda \(Zen Surfismo\)](https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 6:52 |
 | 78 | [Fever](https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [All Aglow Again!](https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP) | 3:22 |
 | 79 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 |
 | 80 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 |
 | 81 | [You're The First, The Last, My Everything](https://open.spotify.com/track/6kOjNVGh1Gapc7224d20Ym) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Number Ones](https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky) | 3:32 |
 | 82 | [Olhos Nos Olhos](https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y) | 4:35 |
-| 83 | [Vai \(Menina Amanhã de Manhã\)](https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Brazil Classics 4: The Best of Tom Zé](https://open.spotify.com/album/5EatIo50si8CoN3ARke59W) | 2:22 |
-| 84 | [Lá vem o sol](https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico 2](https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV) | 2:58 |
+| 83 | [Lá vem o sol](https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico 2](https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV) | 2:58 |
+| 84 | [Vai \(Menina Amanhã de Manhã\)](https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Brazil Classics 4: The Best of Tom Zé](https://open.spotify.com/album/5EatIo50si8CoN3ARke59W) | 2:22 |
 | 85 | [Não Dá Pra Não Pensar \- Ao Vivo](https://open.spotify.com/track/1bWJPIOQXBcIl5GKuElFap) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 3:19 |
 | 86 | [Nao Identificado](https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:18 |
-| 87 | [Bicycle Race](https://open.spotify.com/track/5rQKjP9forn7JVuiZBj6eZ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) | 3:02 |
-| 88 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
+| 87 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
+| 88 | [Bicycle Race](https://open.spotify.com/track/5rQKjP9forn7JVuiZBj6eZ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) | 3:02 |
 | 89 | [O Leãozinho \- Remixed Original Album](https://open.spotify.com/track/0by19mYM0du6rkzugAogN9) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Bicho](https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV) | 3:04 |
 | 90 | [Sá Marina](https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Retratos](https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA) | 3:21 |
 | 91 | [A Grande Família](https://open.spotify.com/track/1JtxEMmDhKzA7QRZE1ISNP) | [Dudu Nobre](https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD) | [Moleque Dudu](https://open.spotify.com/album/7qbifdalLtBeQvvuMupelk) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Negro Gato](https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo), [Renato e Seus Blue Caps](https://open.spotify.com/artist/27hFv7JqcDVyqgaCvLHpy7), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Leno](https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G), [Golden Boys](https://open.spotify.com/artist/6e90eYChXG3b8PbkAPcPcn), [Jerry Adriani](https://open.spotify.com/artist/5OBXrPtAgpRVJgua6rgbs6), [Almir](https://open.spotify.com/artist/73Op2gKQknruMmIuzlJoc3) | [Jovem Guarda \- O Pulo Do Negro Gato](https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF) | 4:11 |
 | 100 | [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 |
 
-Snapshot ID: `MTY1NDYxMzEyOCwwMDAwMDAwMDU2ZjMxYTY3YWNkMjZkZjBjOTUxMjkxYTJmODMxNGIz`
+Snapshot ID: `MTY1NDYxMzEyOCwwMDAwMDAwMDI0MjBjYmM0Yzc5MWE4YzEzMjViNzZmODhiNTFmOTVj`

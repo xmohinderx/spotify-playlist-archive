@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2021\. Cover: Julius Rodriguez
 
-68 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
+69 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [My Friend of Misery](https://open.spotify.com/track/4VgstGQR0BW7wamAFNEz6A) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [My Friend of Misery](https://open.spotify.com/album/0v08kiSBOOoy59PZOIscFW) | 6:47 | 2021-12-01 |  |
 | [My Friend of Misery](https://open.spotify.com/track/6FeKmeXJnvhy3h9aOC99HV) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Metallica Blacklist](https://open.spotify.com/album/73pUIoNvoi8m51Vg97CAKX) | 6:47 | 2021-12-01 | 2022-11-13 |
 | [Nascentia Suite: All Up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/track/4HgeqSM6txLTsaneFrfDNU) | [Steve Slagle](https://open.spotify.com/artist/4VzhvQxwHNiqdCnUHZsprs), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Clark Gayton](https://open.spotify.com/artist/4pNVrj94ZiFangbDh50OlI) | [Nascentia Suite: All up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/album/7N21V8876vqUT8vmlD8SdL) | 8:14 | 2021-12-01 |  |
-| [Not So Modern Times](https://open.spotify.com/track/4AiRfllz5Lx7A6gy9H0ezT) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Not So Modern Times](https://open.spotify.com/album/1qkX8T3LTk8BBiSCNPvWLj) | 3:32 | 2021-12-01 |  |
+| [Not So Modern Times](https://open.spotify.com/track/4AiRfllz5Lx7A6gy9H0ezT) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Not So Modern Times](https://open.spotify.com/album/1qkX8T3LTk8BBiSCNPvWLj) | 3:32 | 2021-12-01 | 2022-11-28 |
+| [Not So Modern Times](https://open.spotify.com/track/5e4mzh6o5LPqy19A6vGB4w) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:32 | 2021-12-01 |  |
 | [Ramblin'](https://open.spotify.com/track/2YUrvA3VeQouPmkzulbuBb) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Tone Poem](https://open.spotify.com/album/6Qo5COqwUoBomPPQsGx568) | 4:58 | 2021-12-01 |  |
 | [Reclamation](https://open.spotify.com/track/1KX0mYaAAO1PyFr2VSG2ob) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 6:42 | 2021-12-01 |  |
 | [Relentless Mind](https://open.spotify.com/track/0UW6V4KIEFnTjoOcPiSrns) | [Jihye Lee Orchestra](https://open.spotify.com/artist/0jpl2JHNpqAoFU6ywtmc5d), [Sean Jones](https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6), [Alan Ferber](https://open.spotify.com/artist/0ATzXThABOIzEFfLwPeIod) | [Daring Mind](https://open.spotify.com/album/5TFgb6hlkVNcC0MQ8cmuuv) | 6:18 | 2021-12-01 |  |

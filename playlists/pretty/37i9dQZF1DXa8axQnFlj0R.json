@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 61488,
+  "num_followers": 61785,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3NDM0NCwwMDAwMDAwMGNhNzhmM2FmNDRlYWFlMjljMzQwYTY4MDE0YTBhYmIy",
+  "snapshot_id": "MTY2NTc3NDM0NCwwMDAwMDAwMDU1Y2FiMzc0Y2ZmYmE5ODZiZGE1ODUyNmIyMzk4MTMz",
   "tracks": [
     {
       "added_at": "2022-10-14 19:05:43",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Simply the Best (From \"Schitt's Creek\")",
-        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 177918,
-      "name": "Simply the Best (From \"Schitt's Creek\")",
-      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 175003,
       "name": "Stay - Spotify Singles",
       "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Simply the Best (From \"Schitt's Creek\")",
+        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 177918,
+      "name": "Simply the Best (From \"Schitt's Creek\")",
+      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 133773,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
-      },
-      "artists": [
-        {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        }
-      ],
-      "duration_ms": 199172,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Fake Plastic Trees",
         "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 260000,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        }
+      ],
+      "duration_ms": 199172,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
     },
     {
       "added_at": "2022-10-14 19:05:43",

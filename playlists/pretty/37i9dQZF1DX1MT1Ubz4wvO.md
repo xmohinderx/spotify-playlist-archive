@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Molotov en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,651 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,663 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pendejo](https://open.spotify.com/track/3PG2vYXGQuBZhTTdvtwxdj) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Pendejo](https://open.spotify.com/album/77yiQPiK9LOQtP4cUzb0sY) | 3:06 |
-| 2 | [Neumaticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumaticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 |
+| 2 | [Neumáticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumáticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 |
 | 3 | [Rebelión](https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Mesa Dulce](https://open.spotify.com/album/4pURI2UciLMYnod643ypjC) | 3:39 |
 | 4 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 |
 | 5 | [Soy Un Animal](https://open.spotify.com/track/3fsYznLnu20jrU63nJwxZP) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r), [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [Soy Un Animal](https://open.spotify.com/album/1hcLMvm0ZiGY7yiZWxzXMU) | 3:24 |

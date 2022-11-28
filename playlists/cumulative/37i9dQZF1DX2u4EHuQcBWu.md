@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-273 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
+274 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [La Resistencia](https://open.spotify.com/track/7a7dqKJQZQK0SQPtwOItpx) | [Nawal](https://open.spotify.com/artist/0McFpibH6gzcu4RoQ6ZCDB) | [Ecco](https://open.spotify.com/album/1OKACQfo5H9bpOLaa63AaT) | 3:51 | 2021-09-24 | 2022-07-29 |
 | [La Revolución del Saber](https://open.spotify.com/track/6GQ9zZ5UuOSqFbQDqdmWNt) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Echando a Perder Se Aprende](https://open.spotify.com/album/1B84srH7pRtQzdWLHR1bOB) | 2:52 | 2021-09-24 | 2022-07-09 |
 | [La Tierra](https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Ekhymosis](https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB) | 3:45 | 2021-09-24 |  |
+| [La Vida No Vale Nada](https://open.spotify.com/track/7F4jHZ0yuHhG9mHvftgRLi) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 3:01 | 2021-09-24 |  |
 | [La Vida No Vale Nada](https://open.spotify.com/track/6oI8S78AZONkL5kgw2L7yY) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Singles](https://open.spotify.com/album/2WdthRMZr5KPbeR510wR9X) | 3:01 | 2021-09-24 | 2022-07-29 |
 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 | 2021-09-24 |  |
 | [La Voz del Tiempo](https://open.spotify.com/track/4q5fjf243IDF7uCFwnUFuR) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Venus](https://open.spotify.com/album/3a2JFR914ksbxF42fGzNs5) | 5:08 | 2022-05-06 | 2022-07-18 |
@@ -188,7 +189,7 @@
 | [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 | 2021-09-24 |  |
 | [Octubre 68](https://open.spotify.com/track/1gbPPseEPr7MqjBDL4ckx8) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:11 | 2021-09-24 | 2022-07-29 |
 | [Odio](https://open.spotify.com/track/4JOE0U3uVUGWCO89HUJuLr) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Odio](https://open.spotify.com/album/4xpXEgXkCPInBeqf9aDwno) | 3:15 | 2021-09-24 | 2022-07-21 |
-| [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 | 2021-09-24 |  |
+| [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 | 2021-09-24 | 2022-11-28 |
 | [Ojala Que Llueva Café](https://open.spotify.com/track/7z1v8mPWHK8w806oHozzlV) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Panete Salsa: Le Meilleur de la Musique Latine](https://open.spotify.com/album/28VG8cTMmnGxfRYMJ8xdKF) | 4:15 | 2021-09-24 | 2022-07-29 |
 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 | 2021-09-24 |  |
 | [Ojalá Que Llueva Café](https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 4:13 | 2021-09-24 |  |

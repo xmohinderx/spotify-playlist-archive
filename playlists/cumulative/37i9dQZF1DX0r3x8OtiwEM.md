@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-557 songs - 2 day 8 hr 35 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
+558 songs - 2 day 8 hr 41 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Phosphorescence](https://open.spotify.com/track/7gVI729kFijrA3OrxRqR0k) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Phosphorescence](https://open.spotify.com/album/1D5Epip0EJtfazPXyes7ye) | 5:58 | 2019-08-06\* | 2020-01-04 |
 | [Pictures In My Head \- Matthias Schuell Remix](https://open.spotify.com/track/2kXiVa8vQ0xPDDTQ93TvqR) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Matthias Schuell](https://open.spotify.com/artist/4JPG7E5xdfg4TIaRPRSFrk) | [Pictures In My Head](https://open.spotify.com/album/78BT5wuemTAnYjFb4xMrR3) | 6:57 | 2019-08-06\* | 2020-06-11 |
 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/5ZIcOUUEP2IaQG2ayxjLkH) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/4JFCApp2LJi4CEe1m7rPd2) | 6:47 | 2021-09-12 | 2022-11-09 |
+| [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 | 2022-11-14 |  |
 | [Polarprojektion](https://open.spotify.com/track/5H5vxvuhguYLnH1hwsc1j0) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Space Techno](https://open.spotify.com/album/4Mt2mVk8HQfvc9P8Z6VNl4) | 6:17 | 2019-12-14 | 2020-06-12 |
 | [Polymid](https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Mera](https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p) | 7:11 | 2020-01-16 | 2020-07-18 |
 | [Portal](https://open.spotify.com/track/4Z1FN3padWsSOrvisQWlKj) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Portal](https://open.spotify.com/album/30sRKwQaX8DwjJqybgCviM) | 7:51 | 2021-03-20 | 2021-06-18 |
@@ -378,7 +379,7 @@
 | [Prisma \- Klanglos Remix \- Radio Edit](https://open.spotify.com/track/512m11L55vWoUbqrkObdCz) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Prisma \(Klanglos Remix\)](https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h) | 3:28 | 2022-04-04 |  |
 | [Protection](https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Protection](https://open.spotify.com/album/6OKyLjichDzXZrbQF5TyTc) | 4:17 | 2021-08-05 | 2022-07-28 |
 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-10-28 | 2022-11-26 |
-| [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 | 2022-07-08 |  |
+| [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 | 2022-07-08 | 2022-11-28 |
 | [Pure](https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Pure](https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1) | 6:05 | 2020-09-26 | 2022-10-31 |
 | [Pythia](https://open.spotify.com/track/5yxmvgjZR4hmlC1nryQaQp) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Pythia](https://open.spotify.com/album/6N1z29blqEy549cmtpV8JW) | 7:46 | 2020-07-31 | 2020-09-26 |
 | [Quasar](https://open.spotify.com/track/4auPkl8KDB2a1kk4zj0HHp) | [Gidge](https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP) | [New Light](https://open.spotify.com/album/07iv0tkKefJPUp9RFDOuNQ) | 5:52 | 2022-07-08 |  |

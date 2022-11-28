@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,605 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,640 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 35 | [Make Me a Believer](https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Busy Body](https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a) | 5:25 |
 | 36 | [Say So](https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Say So](https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq) | 3:32 |
 | 37 | [Forever, For Always, For Love](https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Outrun The Sky](https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE) | 5:52 |
-| 38 | [Let's Stay Together \- Midnight Mix](https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:46 |
-| 39 | [Moody's Mood For Love \(I'm In The Mood For Love\)](https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Moody](https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 4:18 |
+| 38 | [Moody's Mood For Love \(I'm In The Mood For Love\)](https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Moody](https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 4:18 |
+| 39 | [Let's Stay Together \- Midnight Mix](https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:46 |
 | 40 | [Cure](https://open.spotify.com/track/6eJczgR1Hi9pQMcy1NEIGG) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Voyager](https://open.spotify.com/album/1TRCVBeWwJ884AxMF9815G) | 4:06 |
 | 41 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
 | 42 | [Show Me the Way \(feat\. Raphael Saadiq\)](https://open.spotify.com/track/3d47DFYwKsWsXkwfaktsmk) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM) | 7:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 49 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
 | 50 | [Nobody](https://open.spotify.com/track/0jesM7wcZacJWJde6noqB9) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Nobody](https://open.spotify.com/album/2ahLt7NaAwx6sK1MkPPAD5) | 3:27 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDA3MzBjYzcxNzVlMzM2Mjg1NzcxMGZlNWU1OWVlMjVj`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDNkNzIxYjkwYjdhNzgxMzRiMDdlMzljZDEyNGI1NzJh`

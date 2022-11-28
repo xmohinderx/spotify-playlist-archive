@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 137002,
+  "num_followers": 137070,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDk4NTliYTFiMTM5YWMzYjgzMWViOGU3OTU5MDg0M2Vk",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDU0Y2UyNzBmMTFmYTZjOWZlYWMyZGFmNDZhYWQ0NzU2",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Every Hour Is A Dollar Gone",
@@ -247,6 +231,22 @@
       "duration_ms": 348706,
       "name": "Them Shoes",
       "url": "https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Hardware",
@@ -359,6 +343,22 @@
       "duration_ms": 153760,
       "name": "My Lucky Card",
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -377,20 +377,20 @@
       "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
       },
       "artists": [
         {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 260133,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -423,6 +423,22 @@
       "duration_ms": 219586,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -477,22 +493,6 @@
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "play it pretty",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Hannah Wicklund & The Steppin Stones",
-        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wicklund",
-          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
-        }
-      ],
-      "duration_ms": 164645,
-      "name": "Bomb Through the Breeze",
-      "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Bones Owens",
@@ -575,6 +559,22 @@
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Hannah Wicklund & The Steppin Stones",
+        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "duration_ms": 164645,
+      "name": "Bomb Through the Breeze",
+      "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "World Boogie Is Coming",
-        "url": "https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Rollin 'N Tumblin",
-      "url": "https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "John The Conqueror",
         "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "World Boogie Is Coming",
+        "url": "https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Rollin 'N Tumblin",
+      "url": "https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Truth Be Told EP",
+        "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
+      },
+      "artists": [
+        {
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+        }
+      ],
+      "duration_ms": 166862,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Ones to Keep Close",
@@ -787,22 +803,6 @@
       "duration_ms": 203099,
       "name": "Click Click Domino (feat. Marcus King)",
       "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Down the Drain",
-        "url": "https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6"
-      },
-      "artists": [
-        {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
-        }
-      ],
-      "duration_ms": 208816,
-      "name": "Down the Drain",
-      "url": "https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9"
     },
     {
       "added_at": "2021-03-26 04:01:00",

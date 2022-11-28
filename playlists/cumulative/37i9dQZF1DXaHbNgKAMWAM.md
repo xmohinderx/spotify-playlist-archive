@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-202 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+203 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Kiss Me](https://open.spotify.com/track/3FyOTEfKpjQkPq4aSw7Qeb) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [다시 만난 세계 Original Television Soundtrack](https://open.spotify.com/album/7gwkCFqJVgjO1vXRQJ2YiQ) | 3:17 | 2022-05-11 | 2022-07-20 |
 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 | 2022-05-11 |  |
 | [Let's stay together](https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th) | [O.zic](https://open.spotify.com/artist/3CAnNFqNZE11RKX3743MfR), [Martian](https://open.spotify.com/artist/2NBnwR3hvn7iOIfxWBzCYK) | [Let's stay together](https://open.spotify.com/album/6pZaDtwrcHUTPW1XOok1kA) | 3:59 | 2022-05-11 | 2022-08-02 |
-| [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 | 2022-05-11 |  |
+| [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 | 2022-05-11 | 2022-11-28 |
 | [Like a fairy tale](https://open.spotify.com/track/3EAAyFgs5ezTmEPuZhF8B6) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [Can you hear my heart](https://open.spotify.com/album/40KoO74KTCRxeegC2q78y2) | 4:16 | 2022-07-08 | 2022-07-28 |
 | [LIKE YOU](https://open.spotify.com/track/3cEy0jKDf5UQ2yZ4fsB7xX) | [YOON CHAE KYUNG](https://open.spotify.com/artist/7t64s5breOMMSEfhw9td7N), [CHA HUN \(N.Flying\)](https://open.spotify.com/artist/4WKzUxDwpNCy7vMop9PrTW) | [Woof &Meow Do you love me? OST](https://open.spotify.com/album/577AQ4CR7ara4EveBUUTNz) | 2:42 | 2022-06-09 | 2022-06-22 |
 | [Look & Spring \(Feat\. Ko Young Bae of Soran\)](https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ko Youngbae](https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS) | [D\_iary page.2](https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv) | 4:06 | 2022-05-11 | 2022-07-29 |
@@ -156,6 +156,7 @@
 | [Sunshine](https://open.spotify.com/track/6yj6fROwGlGNCMSevl3ajR) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [MY LIFE愛](https://open.spotify.com/album/0eM5LYEG3XuGFs4IKfWxCU) | 3:21 | 2022-05-11 | 2022-05-31 |
 | [Sweep my hair, Darling](https://open.spotify.com/track/7JI8ppt4wCPAVPR8w6SEMt) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [APPLE PIE.](https://open.spotify.com/album/5xUfV0ewnRWxffTgTBTpaa) | 2:46 | 2022-05-11 | 2022-06-20 |
 | [Sweet dream](https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Someone's playlist \#6](https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW) | 4:22 | 2022-06-13 | 2022-07-29 |
+| [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-28 |  |
 | [Sweether](https://open.spotify.com/track/3cDPmgGMkuwPhegO63xFmk) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Repetition 반복](https://open.spotify.com/album/7f9Vp95wnMxVxNFVMCYHD4) | 3:50 | 2022-05-11 | 2022-07-29 |
 | [Take it To the Grave](https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Take it To the Grave](https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A) | 3:26 | 2022-08-01 | 2022-09-19 |
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2022-05-11 |  |

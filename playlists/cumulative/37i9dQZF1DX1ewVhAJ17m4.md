@@ -4,10 +4,11 @@
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-217 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
+218 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 | 2022-11-10 |  |
 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-07 |  |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-20 | 2022-06-15 |
 | [32](https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [32](https://open.spotify.com/album/3pm0elSt5GTx5OJAw0Wrfx) | 4:41 | 2022-03-14 | 2022-11-11 |
@@ -206,7 +207,7 @@
 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 | 2022-08-18 |  |
 | [theonlytimehefeelsfine](https://open.spotify.com/track/42LgfNNmYrzwjpgMb6uha5) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [theonlytimehefeelsfine](https://open.spotify.com/album/7ieUL8QlkwJnqpnPqLF9G0) | 3:26 | 2022-08-18 | 2022-11-11 |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-12-20 | 2022-02-22 |
-| [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 |  |
+| [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 | 2022-11-28 |
 | [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 | 2021-12-20 | 2022-11-27 |
 | [TOMMY TOOK A PICTURE](https://open.spotify.com/track/09AL4W5rR6pqo6ljrSpAOC) | [Signals Midwest](https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF) | [TOMMY TOOK A PICTURE](https://open.spotify.com/album/4nPAjMPwRyacsRTQ42spJa) | 2:46 | 2022-04-04 | 2022-08-19 |
 | [TRIVIAL PURSUIT](https://open.spotify.com/track/3GkVGyEdZPy7Q6Dyn1YZJ3) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [GUMMY](https://open.spotify.com/album/2XBp8IR0mJOwlXoq4g8o0Z) | 2:13 | 2022-08-25 | 2022-11-11 |

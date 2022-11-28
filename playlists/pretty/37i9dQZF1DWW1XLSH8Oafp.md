@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring taahliah
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,771 likes - 110 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,936 likes - 110 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

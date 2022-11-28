@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,696 likes - 72 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,675 likes - 72 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 33 | [passo a passo](https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [passo a passo](https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj) | 3:39 |
 | 34 | [B\-D\-BUB\-BA](https://open.spotify.com/track/3wm2mQ6sErJO3ldO3wcz89) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [B\-D\-BUB\-BA](https://open.spotify.com/album/2DOcNrStpZ8uQ1h3PICjy3) | 3:48 |
 | 35 | [Todo Se Mantiene en Su Lugar](https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Todo Se Mantiene en Su Lugar](https://open.spotify.com/album/29CXlnmN2XPtAGBMb2nGT0) | 2:48 |
-| 36 | [build a life](https://open.spotify.com/track/7LxlPRasB0Wq4hQRDvU4Sz) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [idk it's complicated](https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ) | 3:48 |
-| 37 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 |
-| 38 | [Raincloud](https://open.spotify.com/track/5LAMww4MkUMihbOlKPFr09) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Raincloud](https://open.spotify.com/album/3kCzqoleAPWwg2sSd5YXEA) | 2:52 |
-| 39 | [Sau Nay, Hay Gap Lai Nhau Khi Hoa No](https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Hom Qua Hom Nay Va Sau Nay](https://open.spotify.com/album/4QV5oU2eIMfPob4hLC3yar) | 4:36 |
-| 40 | [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 |
-| 41 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
-| 42 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 |
+| 36 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 |
+| 37 | [build a life](https://open.spotify.com/track/7LxlPRasB0Wq4hQRDvU4Sz) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [idk it's complicated](https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ) | 3:48 |
+| 38 | [Sau Nay, Hay Gap Lai Nhau Khi Hoa No](https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Hom Qua Hom Nay Va Sau Nay](https://open.spotify.com/album/4QV5oU2eIMfPob4hLC3yar) | 4:36 |
+| 39 | [Raincloud](https://open.spotify.com/track/5LAMww4MkUMihbOlKPFr09) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Raincloud](https://open.spotify.com/album/3kCzqoleAPWwg2sSd5YXEA) | 2:52 |
+| 40 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 |
+| 41 | [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 |
+| 42 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
 | 43 | [Unstoppable](https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Unstoppable](https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa) | 3:11 |
 | 44 | [Romper Platos](https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Romper Platos](https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m) | 3:13 |
 | 45 | [La Quería](https://open.spotify.com/track/1nk5MsUS4yGK1peQAFaJc3) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [La Folcrónica](https://open.spotify.com/album/3cAE3TZQGJELs8gxtFd1eL) | 3:53 |
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 58 | [WATER](https://open.spotify.com/track/4mdv4NsCL6nw4VG6U9YXMZ) | [Clara](https://open.spotify.com/artist/5w0sAq7EzeETFpmOe0EkHc) | [WATER](https://open.spotify.com/album/6hJLiDi7hCSuLcYhB8cavR) | 3:08 |
 | 59 | [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 |
 | 60 | [Sen Benim Mağaramsın](https://open.spotify.com/track/6w8wCVir8mfPfNGzB6Ap3j) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Sen Benim Mağaramsın](https://open.spotify.com/album/6yWmxGqxfeUDMDM3mPOHVc) | 3:46 |
-| 61 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 |
-| 62 | [Déconstruction](https://open.spotify.com/track/08TCJTR4MrhByX6prkVZ2A) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:47 |
+| 61 | [Déconstruction](https://open.spotify.com/track/08TCJTR4MrhByX6prkVZ2A) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:47 |
+| 62 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 |
 | 63 | [An kapou kapou m' agapas](https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [An kapou kapou m' agapas](https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J) | 3:12 |
 | 64 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 |
-| 65 | [Another Life](https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz) | [Celeste Buckingham](https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8) | [Life](https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4) | 4:06 |
-| 66 | [Jui$y](https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Feels](https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj) | 3:26 |
+| 65 | [Jui$y](https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Feels](https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj) | 3:26 |
+| 66 | [Another Life](https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz) | [Celeste Buckingham](https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8) | [Life](https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4) | 4:06 |
 | 67 | [Kleine Warme Kamer](https://open.spotify.com/track/6sT2KR6Kxfgv2Qg1h7E268) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [SABINA](https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5) | 3:50 |
 | 68 | [FAME \(feat\. Laila Al Habash\)](https://open.spotify.com/track/0jNiQhRIRxu6IGapnsQkY4) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:43 |
 | 69 | [Therapeutic](https://open.spotify.com/track/5p6NTZUWgLrzI5r7shfEPa) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [Therapeutic](https://open.spotify.com/album/09rli57QuImAQF5Jy3blFc) | 2:10 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 71 | [Tudo bem](https://open.spotify.com/track/2L8uyJZ2NfpapRrtDtzs8m) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt) | [Tudo bem](https://open.spotify.com/album/0RN7qf63m2AKqU2NZX6Ikh) | 3:15 |
 | 72 | [MY CREW](https://open.spotify.com/track/7rCQ2IUc15BI83NkvxHoIC) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [MY CREW \(Friendless x Hugh Lake Remix\)](https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W) | 2:32 |
 
-Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMGQ4NjMyZjE2Y2VmY2NkZTIzZWI0MTQ5MWQ1ZTA0ODcw`
+Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMDg3NDg3OGNjYWEzOWFiYzE5YTMzNjUzNjJlNGFmOGQz`

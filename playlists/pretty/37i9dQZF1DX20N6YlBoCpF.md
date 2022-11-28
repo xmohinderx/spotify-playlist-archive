@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90?si=c6RwFQ\_JR2C\_\_DcuHpTRYg">Ché</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,470 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,509 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

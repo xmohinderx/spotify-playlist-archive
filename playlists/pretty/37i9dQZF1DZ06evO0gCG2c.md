@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,286 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,404 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 50 | [Blown Away](https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:29 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDAwNWQ5ZTg0ODQzNzBlMzkyZjA3MGU5YTZjNWJhZjQ4Yw==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDAxMDhiMWFjZmQ5MzJiZGM2YzAwYjU0YWFkZjBhYTk4Mw==`

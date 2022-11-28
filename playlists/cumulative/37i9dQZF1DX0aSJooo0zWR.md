@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea & Nino Josele
 
-135 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+136 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Armageddon Blues](https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 6:11 | 2021-02-12 |  |
 | [As the Spirit Sings](https://open.spotify.com/track/4qpKhfmO5O46ljDGSWR2vc) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/0cf89uYaI7ceahwv3Zm4d6) | 5:21 | 2021-07-16 | 2022-07-29 |
 | [As the Spirit Sings](https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9) | 5:21 | 2021-07-16 |  |
-| [Aslan](https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa) | [Aslan](https://open.spotify.com/album/6Ipqac2umFqtk6tp8TSLsT) | 6:18 | 2021-02-12 |  |
+| [Aslan](https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa) | [Aslan](https://open.spotify.com/album/6Ipqac2umFqtk6tp8TSLsT) | 6:18 | 2021-02-12 | 2022-11-28 |
 | [Bad Asteroid](https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [The Aristocrats](https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf) | 5:53 | 2021-02-12 |  |
 | [Be Happy](https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [Visions of the Emerald Beyond](https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo) | 3:32 | 2021-02-12 |  |
 | [Big Bang](https://open.spotify.com/track/5D3qsYYQev3PM5I2e7spp5) | [Klaus Doldinger's Passport](https://open.spotify.com/artist/4EjjMTj801PRhn5aje8gsp) | [Garden Of Eden](https://open.spotify.com/album/3ftpM0sGdtCqJl0DnO8RJD) | 3:54 | 2021-02-12 | 2022-07-28 |
@@ -58,6 +58,7 @@
 | [Got A Match?](https://open.spotify.com/track/7AWlSSW5n7SXpFEWkRm2Wz) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf) | [The Chick Corea Elektric Band](https://open.spotify.com/album/2qkDoQ10ogP4S4tGAtHSZS) | 5:39 | 2021-02-12 | 2022-07-25 |
 | [Growing Up!](https://open.spotify.com/track/02PJJnPoA2IBc8KzfY9oGi) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [Growing Up!](https://open.spotify.com/album/3i45UQm0FWXa4kTRQNDvb6) | 4:20 | 2021-04-09 | 2022-07-27 |
 | [Growing Up!](https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [FLY! FLY! FLY!](https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH) | 4:20 | 2021-04-09 |  |
+| [Guinnevere](https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1) | 10:53 | 2021-02-12 |  |
 | [Guinnevere](https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ) | 10:53 | 2021-02-12 | 2022-11-02 |
 | [Hard\-Wired](https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 4:03 | 2021-02-12 |  |
 | [Have You Heard](https://open.spotify.com/track/07BUBegoXmSQcokCOMAWwt) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Letter From Home](https://open.spotify.com/album/4dunPCYlcSkjfFdOKR32ZD) | 6:25 | 2021-02-12 |  |

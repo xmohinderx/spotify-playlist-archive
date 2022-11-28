@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 81583,
+  "num_followers": 81775,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMGRiM2YwYmFiOTI3YTI2MDg0NDQ3MjkzNDM1NjdhOTBm",
+  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMDliZjllYzcxYTE5ZTFkNzVjZjZjZWFjNDM4MzVjNWE5",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 239266,
       "name": "Is It True",
       "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Night Visions (Deluxe)",
-        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "On Top Of The World",
-      "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 173320,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Night Visions (Deluxe)",
+        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Forbidden Feelingz",
         "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Multitude",
-        "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Fils de joie",
-      "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp"
+        "name": "Multitude",
+        "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
         }
       ],
-      "duration_ms": 195190,
-      "name": "I Don't Wanna Talk (I Just Wanna Dance)",
-      "url": "https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA"
+      "duration_ms": 195440,
+      "name": "Fils de joie",
+      "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 176440,
       "name": "forever&more",
       "url": "https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 195190,
+      "name": "I Don't Wanna Talk (I Just Wanna Dance)",
+      "url": "https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Under The Iron Sea",
-        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Nothing In My Way",
-      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Episode ll",
         "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
       },
@@ -879,22 +863,6 @@
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Lift Off",
-        "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "Lift Off",
-      "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -915,6 +883,38 @@
       "duration_ms": 196817,
       "name": "Omen - Radio Edit",
       "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Under The Iron Sea",
+        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Nothing In My Way",
+      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 184933,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 238133,
       "name": "Punching In A Dream",
       "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 246786,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Rips in Jeans",
-        "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
-      },
-      "artists": [
-        {
-          "name": "Niko B",
-          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
-        }
-      ],
-      "duration_ms": 163459,
-      "name": "Rips in Jeans",
-      "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 179853,
       "name": "Cobrastyle",
       "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Rips in Jeans",
+        "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
+      },
+      "artists": [
+        {
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+        }
+      ],
+      "duration_ms": 163459,
+      "name": "Rips in Jeans",
+      "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 184880,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2022-11-02 14:00:00",

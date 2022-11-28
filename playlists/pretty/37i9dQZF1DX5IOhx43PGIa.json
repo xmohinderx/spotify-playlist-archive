@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 248914,
+  "num_followers": 248990,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDhmNzJmODI1YzM0NTM4MDlhNjJlYTA2MDVhMDZiOTJh",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDBiYjcyNWRlODY5ODVlYzU5MmFkMjMxNmRhNzZiNWU3",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
         "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 151301,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 173308,
       "name": "One Last Dance (feat. Milky Day)",
       "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1079,6 +1079,30 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Lost At Sea (Illa Illa 2)",
+        "url": "https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 205544,
+      "name": "Lost At Sea (Illa Illa 2)",
+      "url": "https://open.spotify.com/track/7BAhSCJrL3JTdVGFK9hEgh"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
       },
@@ -1119,30 +1143,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lost At Sea (Illa Illa 2)",
-        "url": "https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 205544,
-      "name": "Lost At Sea (Illa Illa 2)",
-      "url": "https://open.spotify.com/track/7BAhSCJrL3JTdVGFK9hEgh"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "playing tricks",
-        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 184257,
-      "name": "playing tricks",
-      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "i like red",
         "url": "https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 122500,
       "name": "i like red",
       "url": "https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 205059,
-      "name": "Send My Love To John",
-      "url": "https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Golden Age",
         "url": "https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 176150,
       "name": "Golden Age",
       "url": "https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 205059,
+      "name": "Send My Love To John",
+      "url": "https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 241458,
+      "name": "grateful",
+      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 166465,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 241458,
-      "name": "grateful",
-      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "honest (feat. moon tang)",
-        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        },
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "honest (feat. moon tang)",
-      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "I Miss My Friends (feat. Phum Viphurit)",
         "url": "https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 223026,
       "name": "I Miss My Friends (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "honest (feat. moon tang)",
+        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "honest (feat. moon tang)",
+      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Freaky (RGB)",
-        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 109296,
-      "name": "Freaky (RGB)",
-      "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Future Ghost (feat. Violette Wautier)",
         "url": "https://open.spotify.com/album/7L3t2HadtexkFDvW4MPlJH"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 176470,
       "name": "Future Ghost (feat. Violette Wautier)",
       "url": "https://open.spotify.com/track/3LcAn7vLisYcHAnACmLvO1"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 109296,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "rollercoaster",
+        "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 151090,
+      "name": "rollercoaster",
+      "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Color Me (Feat. CHUNG HA)",
         "url": "https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 216225,
       "name": "Color Me (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "rollercoaster",
-        "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 151090,
-      "name": "rollercoaster",
-      "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lover Like Me",
-        "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Lover Like Me",
-      "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "THREE IN THE MORNING",
         "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 170476,
       "name": "THREE IN THE MORNING",
       "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Lover Like Me",
+        "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 177845,
+      "name": "Lover Like Me",
+      "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Air Guitar",
-        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
-      },
-      "artists": [
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
-        }
-      ],
-      "duration_ms": 183273,
-      "name": "Air Guitar",
-      "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "That XX - Spotify Singles",
         "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
       },
@@ -2175,6 +2159,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "duration_ms": 183273,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7bxkAjxvdedCBCL1DSb5Hv"
       },
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "HIDE & SICK",
+        "url": "https://open.spotify.com/album/6iNdLokKROwqKnHtgOt3bO"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "HIDE & SICK",
+      "url": "https://open.spotify.com/track/5cRbsnOSpH72PKIinDLzfD"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "We Are (\uc6b0\ub9ac\ub294)",
         "url": "https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 226036,
       "name": "We Are (\uc6b0\ub9ac\ub294)",
       "url": "https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "HIDE & SICK",
-        "url": "https://open.spotify.com/album/6iNdLokKROwqKnHtgOt3bO"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "HIDE & SICK",
-      "url": "https://open.spotify.com/track/5cRbsnOSpH72PKIinDLzfD"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Nobody Sees Me Like You Do",
-        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 211635,
-      "name": "Nobody Sees Me Like You Do",
-      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Picture Myself",
         "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 211337,
       "name": "Picture Myself",
       "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Nobody Sees Me Like You Do",
+        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 211635,
+      "name": "Nobody Sees Me Like You Do",
+      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "i'm having a hard time being myself",
-        "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
-      },
-      "artists": [
-        {
-          "name": "Jae Luna",
-          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "i'm having a hard time being myself",
-      "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "SPOILED BITCH",
         "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 140500,
       "name": "SPOILED BITCH",
       "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "i'm having a hard time being myself",
+        "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
+      },
+      "artists": [
+        {
+          "name": "Jae Luna",
+          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "i'm having a hard time being myself",
+      "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
     },
     {
       "added_at": "2022-11-18 05:00:00",

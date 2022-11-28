@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=r9po0m5GS\-OqftcZy\_pYog"> Blxckie </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,087 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,150 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 30 | [Born To Win](https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 2:58 |
 | 31 | [sneaky](https://open.spotify.com/track/1KDGViRidQJ0UWV6J7n7Qs) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [sneaky](https://open.spotify.com/album/5zxTW3yMb6a3DXwtc0oK3B) | 3:34 |
 | 32 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
-| 33 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 |
-| 34 | [Solace](https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E) | 2:00 |
+| 33 | [Solace](https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E) | 2:00 |
+| 34 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 |
 | 35 | [Style & Fashion \(feat\. Obongjayar\)](https://open.spotify.com/track/3BhgQ0PWWyy7xaSd3ZjwWw) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 4:26 |
 | 36 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 |
 | 37 | [Bigger \(feat\. Olamide & Nas\)](https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 3:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
 | 70 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGQ3Zjk4YTkwYjRkZWRmMDY1YjU1NDM5ZDAyZGNkZDQ2`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDc4MGVmNjc1MmU3ODJjNDIzMjAwMmQzMmRmZGM3NDcx`

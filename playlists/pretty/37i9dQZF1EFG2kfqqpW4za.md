@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 58 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 58 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 51 | [Governo Fascista](https://open.spotify.com/track/5bz4OxlZFlfYwyupQjgRDf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Governo Fascista](https://open.spotify.com/album/7kB5aFcZo7i7BUiAe3lW5K) | 3:48 |
 | 52 | [No Guanxa](https://open.spotify.com/track/2kdNjxTDo5gXu5ySnzeNMK) | [Mateus Pinguim](https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 3:40 |
 | 53 | [Minha Sina](https://open.spotify.com/track/4iImTv3CFPEL2KKg0UzB2k) | [Mateus Pinguim](https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 3:24 |
-| 54 | [Rasta Souljah](https://open.spotify.com/track/5q4E9o6Ub84UMkOLZ5wt7M) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Paz, Amor e Grave](https://open.spotify.com/album/6ZhFba7CkCVfbeRjLGpFrq) | 2:45 |
-| 55 | [Conscientização](https://open.spotify.com/track/2P0WN9HJPPCB2xH7t9g0m8) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Conscientização](https://open.spotify.com/album/3X1yGrd9u18zMCIBPoKUyI) | 2:52 |
+| 54 | [Conscientização](https://open.spotify.com/track/2P0WN9HJPPCB2xH7t9g0m8) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Conscientização](https://open.spotify.com/album/3X1yGrd9u18zMCIBPoKUyI) | 2:52 |
+| 55 | [Rasta Souljah](https://open.spotify.com/track/5q4E9o6Ub84UMkOLZ5wt7M) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Paz, Amor e Grave](https://open.spotify.com/album/6ZhFba7CkCVfbeRjLGpFrq) | 2:45 |
 | 56 | [Sensei \(feat\. Helio Bentes\)](https://open.spotify.com/track/4kjoUxNNSVcCUYOQk0we84) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 4:09 |
 | 57 | [Bob Rei](https://open.spotify.com/track/7kE6fG2ts21dvE5bnBNR2s) | [Diamba](https://open.spotify.com/artist/0LyH0e5DGvDiJTRCwi6EE7), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Fraternidade Musical Diamba](https://open.spotify.com/album/6Kjfm3aWl9mvxQnN3Bnc5M) | 4:28 |
 | 58 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `Mjc4MjUxODQsMDAwMDAwMDBkNGVmNTE1MmNiMjgxZjFhNWQ5ZWY0OGRkNDcxNzQ3Mw==`
+Snapshot ID: `Mjc4MjY2MjQsMDAwMDAwMDBkYjcxMDJhNThmYWZlMDI1NGFhNzY2NjU2Yjk1M2ViNg==`

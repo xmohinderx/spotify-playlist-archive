@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Flyboiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,674 likes - 161 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,694 likes - 161 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 106 | [Explicita](https://open.spotify.com/track/2E3XW68AKV6tVB5Jr1OQJ9) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp) | [Explicita](https://open.spotify.com/album/3LtFl0dohF761jukARAR5L) | 3:09 |
 | 107 | [La Que Hay](https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [La Que Hay](https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p) | 3:08 |
 | 108 | [Kevin, Hugo & Jorge](https://open.spotify.com/track/5lSPB2m4NobXOZBXDzWvVR) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi) | [Kevin, Hugo & Jorge](https://open.spotify.com/album/6vYsEJMHyhDGWLsCFB66w3) | 2:26 |
-| 109 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 |
-| 110 | [No Boss](https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Ael](https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o) | [No Boss](https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ) | 2:13 |
+| 109 | [No Boss](https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Ael](https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o) | [No Boss](https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ) | 2:13 |
+| 110 | [Rosa](https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Rosa](https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL) | 3:00 |
 | 111 | [EL INCA](https://open.spotify.com/track/4RYKjXtPtf4fjIeMpb3VZ3) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 3:32 |
 | 112 | [El Gran Robo, Pt\. 2](https://open.spotify.com/track/7oqxgOFRoLx9uDfgcMxkNa) | [Lito MC Cassidy](https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Gran Robo, Pt\. 2](https://open.spotify.com/album/2ASgyx6vWb2VXZAxywMaBn) | 3:34 |
 | 113 | [Veintipico](https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Veintipico](https://open.spotify.com/album/0itQ63GbQW7k1bnEhS2k5R) | 3:21 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 128 | [Pásame la Yesca](https://open.spotify.com/track/3r56yJFCL3UhCMyk3yx07L) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Tiempo Mítico](https://open.spotify.com/album/1nABOBtMxTw2gYuBmP9zar) | 4:23 |
 | 129 | [Cheke](https://open.spotify.com/track/3mPbF5PObAaieo4FtoTi2Z) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [El Nuevo Testamento](https://open.spotify.com/album/5qDaJwOkMjgIfHLKXkcdon) | 3:13 |
 | 130 | [Stripper X](https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Soñando en PR](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:38 |
-| 131 | [Seres de Noche](https://open.spotify.com/track/4hRWp9ouazLXyfZpucb621) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Seres de Noche](https://open.spotify.com/album/7lmm7sVUgcVkSLlXD4hdi0) | 3:48 |
-| 132 | [Cotidiano](https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM) | 2:12 |
+| 131 | [Cotidiano](https://open.spotify.com/track/7G2pomkPBvmMIzT5H7Pt2v) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM) | 2:12 |
+| 132 | [Seres de Noche](https://open.spotify.com/track/4hRWp9ouazLXyfZpucb621) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Seres de Noche](https://open.spotify.com/album/7lmm7sVUgcVkSLlXD4hdi0) | 3:48 |
 | 133 | [Flight 0006](https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0006](https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb) | 3:17 |
 | 134 | [Matemáticas Supremas](https://open.spotify.com/track/0iO1kK4B7JaqoZ6pBKla0V) | [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Matemáticas Supremas](https://open.spotify.com/album/4oPTBnjCIwZGZG7ZTF4iaa) | 2:55 |
 | 135 | [Reset](https://open.spotify.com/track/2FmUnhzYRfemmL0uAxjeJa) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Reset](https://open.spotify.com/album/6rMh8VwpK8SK2Uzrlihllf) | 2:18 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 160 | [Alright \- The Global Edition](https://open.spotify.com/track/6kuTh44cxqVkEBiy2ykXWJ) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Nefertitti Avani](https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Algorithm Guest List: Camino](https://open.spotify.com/album/5fQEaRgwwo7viMhmcdQ7kr) | 4:21 |
 | 161 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDViNmM5NTFiNGIxZTNhMDY3Yjg5ZmNmY2U2ZTkwN2Zl`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGI2MGM5YzhmNDlkYzdkZWFhYjU5YzgzNWNiYmFmYzFi`

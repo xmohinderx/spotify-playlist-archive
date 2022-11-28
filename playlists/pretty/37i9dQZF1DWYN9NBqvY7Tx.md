@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,217 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,612 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 54 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 |
 | 55 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 |
 | 56 | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR) | 3:14 |
-| 57 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 |
-| 58 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 |
+| 57 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 |
+| 58 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 |
 | 59 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
 | 60 | [Lonely With You](https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Lonely With You](https://open.spotify.com/album/37VdhrfrONjJFL21OinnZv) | 3:25 |
 | 61 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/album/4nTGQqcsqWjwt2dpUEOrUb) | 2:39 |
 | 100 | [Oblivion](https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/3OIFSAU72optxkAdxjyoUF) | 3:50 |
 
-Snapshot ID: `MTY2OTIxNzkwNCwwMDAwMDAwMDgzOGRmNTY4NTgzNWYwZjc2MGI1NDg1MTk1Y2Q2MDk2`
+Snapshot ID: `MTY2OTIxNzkwNCwwMDAwMDAwMDhhZTJkMzAyY2M1N2E1ODZiNzhlMmUyZTNkMDllYTc5`

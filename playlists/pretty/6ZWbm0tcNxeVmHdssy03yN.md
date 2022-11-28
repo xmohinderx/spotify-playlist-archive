@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,695 likes - 99 songs - 5 hr 1 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,701 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 22 | [ESTÁS ACÁ](https://open.spotify.com/track/3Ku9pJwSdsJPS31DEpItnS) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon) | [Sesiones Bolivia](https://open.spotify.com/album/7j8yAp6bsSI3YhIa4eSxvt) | 2:57 |
 | 23 | [Hoy](https://open.spotify.com/track/2HBC29nr9uvUcEZH15EzLi) | [La Klinkert](https://open.spotify.com/artist/1jPMt3YAkFx3tcPFYxaMKx) | [Hoy](https://open.spotify.com/album/4S9wlLUAO1OztuPMddcUtp) | 2:44 |
 | 24 | [EN INSTAGRAM](https://open.spotify.com/track/4QFj7Ms4w81ZheZ8Gz9zTZ) | [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS) | [Parchaito](https://open.spotify.com/album/6de29CGpyvBG5XOv9BcSK7) | 3:14 |
-| 25 | [Bakano](https://open.spotify.com/track/1PRhvDxisG12bDw6MZONN7) | [Morenabeat](https://open.spotify.com/artist/3ybnoYRxAZuImHSMSf1Iyr) | [Bakano](https://open.spotify.com/album/2DCAVqasiCcnjbtEkhPGHH) | 3:28 |
+| 25 | [Bakano](https://open.spotify.com/track/1PRhvDxisG12bDw6MZONN7) | [MorenaBeat](https://open.spotify.com/artist/4myAA8p4Vg1D069i5Il6zX) | [Bakano](https://open.spotify.com/album/2DCAVqasiCcnjbtEkhPGHH) | 3:28 |
 | 26 | [Ruining It](https://open.spotify.com/track/17LCwrvRDLak4BxLA1T9nH) | [Nito NB](https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD) | [Fashionably Late](https://open.spotify.com/album/1vpS4vLoxT5ryfq16qvPe4) | 2:37 |
 | 27 | [BE HONEST](https://open.spotify.com/track/46AJmDywJ2wewG6q9jx4yT) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [BE HONEST](https://open.spotify.com/album/6oAT5telCwyKQd2I0HyAwe) | 2:49 |
 | 28 | [Blood & Sweat](https://open.spotify.com/track/5WZZYtYn8LFsq4AOkK5ME0) | [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Blood & Sweat](https://open.spotify.com/album/14QIlmtyL5yGjQYKHtq3Cs) | 2:35 |

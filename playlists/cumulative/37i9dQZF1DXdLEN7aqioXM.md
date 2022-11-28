@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-366 songs - 1 day 2 hr 17 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+367 songs - 1 day 2 hr 21 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Nightride \(Revisited\)](https://open.spotify.com/track/7aAyeih2OelKpPkuLOesWX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité Pt\. 2](https://open.spotify.com/album/2ZawllkUzaqxRnPhtUtG8b) | 4:12 | 2022-07-22 |  |
 | [Nighttime \- Polyark Remix](https://open.spotify.com/track/1HKNHY7DVQmNuD0J0mTHCt) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [Polyark](https://open.spotify.com/artist/4tNPuwPvY7Yi29m9enFmIP) | [Nighttime \(Polyark Remix\)](https://open.spotify.com/album/6xEygXC7wbX2GBdIogoCyh) | 3:57 | 2021-10-15 | 2022-05-28 |
 | [no time like tomorrow](https://open.spotify.com/track/3Hp3FOk6nVedCUADguOdn8) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [no time like tomorrow](https://open.spotify.com/album/4nTcZGPEdnlmFoKbAaqpRy) | 2:53 | 2022-11-18 |  |
+| [NOCTURNAL](https://open.spotify.com/track/4nuZGGZFAo10NKnYLWVY3l) | [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw), [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [NOCTURNAL](https://open.spotify.com/album/4EiiygcWETw9cQktdzQnUQ) | 3:21 | 2022-11-28 |  |
 | [Nomad City](https://open.spotify.com/track/4bAVPOzkidrMsZHbbn8uI8) | [Phaserland](https://open.spotify.com/artist/318JBsDJrao7DYDwsaE715) | [Cosmic Boundaries](https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw) | 4:53 | 2022-04-01 |  |
 | [Northern Sky \- Dusky Remix](https://open.spotify.com/track/0xrxfza8oO7xCHvkVgVMPP) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Northern Sky \(Dusky Remix\)](https://open.spotify.com/album/5YPbhMGxBR5Abd3gOujpMY) | 5:25 | 2021-10-15 | 2022-01-26 |
 | [Nostalgia](https://open.spotify.com/track/6yeIdMq9nowvqdhWZoor9i) | [Section303](https://open.spotify.com/artist/6xLf7EVilWyWRunM3VQQWh) | [Nostalgia](https://open.spotify.com/album/7zLBSYwoQk1UerLgwVzaDY) | 7:28 | 2021-10-15 | 2022-03-18 |
@@ -334,7 +335,7 @@
 | [The Getaway](https://open.spotify.com/track/0zHgzptlVUBsgExpIDsrFQ) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1xl2oh7njuwSneP6tLfdvN) | 3:56 | 2022-04-01 | 2022-07-29 |
 | [The Getaway](https://open.spotify.com/track/5boxsVqT2XsC2b1V2FUCsM) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU) | 3:56 | 2022-07-22 |  |
 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-04-01 | 2022-05-28 |
-| [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 | 2021-10-15 |  |
+| [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 | 2021-10-15 | 2022-11-28 |
 | [The Navigator \- Slowed Version](https://open.spotify.com/track/7gjgdMt8037wwWY8QLiqF8) | [Echo\-Eclipse](https://open.spotify.com/artist/6KGpRKwr3IKBxeEeUW7DLc) | [Arcade Machine \(Slowed Edition\) \[Slowed Version\]](https://open.spotify.com/album/2bOCal2xHpluVKBBPANrcY) | 3:50 | 2022-04-01 | 2022-05-22 |
 | [The Night](https://open.spotify.com/track/5sK5X9xq2aIk9uFe85OEby) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [The Night](https://open.spotify.com/album/74H6voYjugubDYisU8zarC) | 4:08 | 2022-05-20 | 2022-07-29 |
 | [The Perfect Girl \- The Motion Retrowave Remix](https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n) | [The Perfect Girl \(The Motion Retrowave Remix\)](https://open.spotify.com/album/6LtIcRhkNqGdXl2OESjDPE) | 3:01 | 2022-07-22 |  |

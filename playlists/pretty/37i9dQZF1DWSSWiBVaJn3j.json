@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 107379,
+  "num_followers": 107589,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMGZjNGJlNGVjZGYyYjYyMjM4MTc5NThjMTIwZjIxNzdk",
+  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMDZkNTc4NTE4OGYxYzVjN2E0MDNlOGVkMDExNTZlNTdh",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Disraeli Gears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 271573,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2021-03-22 17:56:31",

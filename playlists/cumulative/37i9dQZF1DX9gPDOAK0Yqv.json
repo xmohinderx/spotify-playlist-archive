@@ -220,6 +220,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
+      },
+      "artists": [
+        {
+          "name": "Loco & Jam",
+          "url": "https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
+    },
+    {
+      "album": {
         "name": "Unity Pt. 3",
         "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
       },
@@ -533,7 +551,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 392000,
       "name": "Frustration",
       "url": "https://open.spotify.com/track/4QhQBj55JalsgKmjfLIT2w"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 410322,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 485927,
       "name": "Optical",
       "url": "https://open.spotify.com/track/6Y5EdBwTFQM8clidhhzjGt"
@@ -1184,6 +1202,28 @@
     },
     {
       "album": {
+        "name": "Simulacrum",
+        "url": "https://open.spotify.com/album/3QLiQ0hFrcrlNoUjc8KGAb"
+      },
+      "artists": [
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Wennink",
+          "url": "https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366870,
+      "name": "Simulacrum",
+      "url": "https://open.spotify.com/track/1W1uFNsvlGIpC2WFNCVNIr"
+    },
+    {
+      "album": {
         "name": "Powers of Ten",
         "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
       },
@@ -1199,6 +1239,32 @@
       "duration_ms": 421306,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
+    },
+    {
+      "album": {
+        "name": "Something Unreal (Oliver Huntemann & Andr\u00e9 Winter Remix)",
+        "url": "https://open.spotify.com/album/47f47tiAbZQvh7dIK7jlNn"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        },
+        {
+          "name": "Oliver Huntemann",
+          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        },
+        {
+          "name": "Andr\u00e9 Winter",
+          "url": "https://open.spotify.com/artist/3uGjpxycNoFU7hQYQduP4k"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402694,
+      "name": "Something Unreal - Oliver Huntemann & Andr\u00e9 Winter Remix",
+      "url": "https://open.spotify.com/track/052FRbHApjMoCKHxJfqPro"
     },
     {
       "album": {

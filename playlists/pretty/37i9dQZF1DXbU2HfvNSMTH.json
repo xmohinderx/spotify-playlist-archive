@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 169012,
+  "num_followers": 169054,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMDRkYmI3YTNiNzc4ZmUzNDUyNmJkODJkMTA5YjJmYWI2",
+  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMGMyYWEzMDI3ZDY0MWI4NjMwNmUzMjcyMTA1YTYwMzFh",
   "tracks": [
     {
       "added_at": "2022-04-16 03:27:52",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
         "name": "The Raw & The Cooked",
         "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 215773,
       "name": "She Drives Me Crazy",
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -659,6 +643,22 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 457675,
       "name": "Let's Dance - 2018 Remaster",
       "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Get Lucky",
-        "url": "https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE"
-      },
-      "artists": [
-        {
-          "name": "Loverboy",
-          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Working for the Weekend",
-      "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Hot, Cool & Vicious",
         "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE"
+      },
+      "artists": [
+        {
+          "name": "Loverboy",
+          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Working for the Weekend",
+      "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
     },
     {
       "added_at": "2022-04-16 03:27:52",

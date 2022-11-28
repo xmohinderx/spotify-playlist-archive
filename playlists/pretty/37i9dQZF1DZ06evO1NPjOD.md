@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,142 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,159 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 3 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 |
 | 4 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
 | 5 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
-| 6 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 |
-| 7 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
+| 6 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
+| 7 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 |
 | 8 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:46 |
 | 9 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 |
 | 10 | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Kitty Talk \(feat\. Quavo, Lil Wayne, & Jack Harlow\) \[Remix\]](https://open.spotify.com/track/4n4yWZbhlyHrgFs9ztg21K) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Kitty Talk \(feat\. Quavo, Lil Wayne, & Jack Harlow\) \[Remix\]](https://open.spotify.com/album/000xZHv6vq55FegQNqELgN) | 3:19 |
 | 50 | [Scared \- from the "Bruised" Soundtrack](https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Scared \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk) | 2:39 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBhYjM1NjMyYjM3OTc5OWQxMWM5OTVjOTIxNjZjODc4Mg==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDBhMGY4Zjg2NjViMTA4ZDQ5ZjM3YzdlNmEzZjc4NTM3OA==`

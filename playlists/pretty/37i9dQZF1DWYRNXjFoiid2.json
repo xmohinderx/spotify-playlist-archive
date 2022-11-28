@@ -1,12 +1,12 @@
 {
   "description": "Today's best pop to fuel your gaming. Cover: BoyWithUke",
-  "num_followers": 166458,
+  "num_followers": 166598,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODgwOTU2MywwMDAwMDAwMDhjYThjZDc1ZDZlYjY4NDczOGRmMTExN2JjYzUxNGFi",
+  "snapshot_id": "MTY2ODgwOTU2MywwMDAwMDAwMDlhMWY1MzlmNzNhMjZiMzFjMTMyNDA2NTZlNTQzYWMw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 187703,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "141 (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "141 - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Nicotine",
         "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 159381,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "141 (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "141 - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1377,23 +1377,7 @@
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
-    },
-    {
-      "added_at": "2022-11-27 01:14:50",
+      "added_at": "2022-11-28 01:10:44",
       "album": {
         "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
         "url": "https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO"
@@ -1419,6 +1403,22 @@
       "duration_ms": 178529,
       "name": "Tukoh Taka - Official FFF Anthem",
       "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "SugarCrash!",
+        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 80080,
+      "name": "SugarCrash!",
+      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 160626,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "SugarCrash!",
-        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 80080,
-      "name": "SugarCrash!",
-      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 175163,
-      "name": "High",
-      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Fight Back: The Collection",
         "url": "https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 200571,
       "name": "Fight Back",
       "url": "https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
     },
     {
       "added_at": "2022-11-18 05:00:00",

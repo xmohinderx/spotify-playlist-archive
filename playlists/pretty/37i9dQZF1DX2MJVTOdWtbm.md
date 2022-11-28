@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Ramon Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,947 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,973 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 60 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 |
 | 61 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 |
 | 62 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 |
-| 63 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 |
-| 64 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
+| 63 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
+| 64 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 |
 | 65 | [Conoce](https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Conoce](https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50) | 3:39 |
 | 66 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 |
 | 67 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 84 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
 | 85 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
 
-Snapshot ID: `MTY2Mzk0NjgzMiwwMDAwMDAwMDQwMmQwOGRjMDE4NDI5MGM5ZDVlMWZmYTlmNGYyOTli`
+Snapshot ID: `MTY2Mzk0NjgzMiwwMDAwMDAwMDY2OGNkZjkwYTM3ODcyYWFlNDE2NDAwZDJlZjM5YjBi`

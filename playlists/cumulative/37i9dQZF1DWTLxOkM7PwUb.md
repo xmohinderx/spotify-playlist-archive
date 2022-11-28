@@ -4,7 +4,7 @@
 
 > ❤️ o 💔
 
-164 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/6lpcIVeOfM0gXNeewIFzKd)
+165 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/6lpcIVeOfM0gXNeewIFzKd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A tus Pies](https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:31 | 2021-12-03 |  |
 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 | 2021-12-03 |  |
 | [Adicto](https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Adicto](https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2) | 3:00 | 2022-03-20 | 2022-08-03 |
-| [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 | 2021-12-03 |  |
+| [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 | 2021-12-03 | 2022-11-28 |
 | [Ahora no](https://open.spotify.com/track/1fxwD70zSHgakPFIAC0pz7) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Ahora no](https://open.spotify.com/album/532SET2TmoGjvNStD6KzZ8) | 3:19 | 2021-12-03 | 2022-07-29 |
 | [Ahora No \(feat\. Kodigo\)](https://open.spotify.com/track/26CBgVxQ7oxdiKWVpfN9xJ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Ahora No \(feat\. Kodigo\)](https://open.spotify.com/album/6hoAtWCxorwTPscEuWK4Ys) | 3:19 | 2022-06-18 |  |
 | [Algo Aparte](https://open.spotify.com/track/6zCnkDNYK9IJi1WOTNp5h2) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Trapicheo \(Mixtape\)](https://open.spotify.com/album/3SKOwn9ASrBi8kdvcnKE5H) | 3:22 | 2021-12-03 | 2022-07-29 |
@@ -44,6 +44,7 @@
 | [Chica Paranormal](https://open.spotify.com/track/2r77vqSZkOktTSgmAOoHsV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chica Paranormal](https://open.spotify.com/album/0oKEuZtIyd2pTRjaOyZKHE) | 3:41 | 2021-12-03 | 2022-07-29 |
 | [Chica Paranormal](https://open.spotify.com/track/7zAGi1cps7yYhAajGXlFTH) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chica Paranormal](https://open.spotify.com/album/6SoJvyMGb8rWfwKjFlSTHX) | 3:41 | 2022-09-19 | 2022-11-13 |
 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 | 2021-12-03 |  |
+| [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 | 2022-09-19 |  |
 | [Como Estrellas](https://open.spotify.com/track/7GcN9q4AAH4uzQKvyuvByT) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/0tm8uER1ZGdUFGKUg3QTud) | 3:39 | 2021-12-03 | 2022-11-27 |
 | [Como Le Digo](https://open.spotify.com/track/2fxJDRmUMatqyZ6ZOQi7RD) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Como Le Digo](https://open.spotify.com/album/5mj6EWL5GMjhlqxQqqRbBE) | 3:46 | 2021-12-03 | 2022-07-29 |
 | [Como Nadie](https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Como Nadie](https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX) | 2:16 | 2021-12-03 | 2022-07-20 |

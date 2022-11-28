@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,286 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,454 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 27 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
 | 28 | [21 Questions](https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:44 |
 | 29 | [The Way I Am](https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:50 |
-| 30 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 |
-| 31 | [Lollipop](https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:59 |
+| 30 | [Lollipop](https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:59 |
+| 31 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 |
 | 32 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
 | 33 | [Country Grammar \(Hot Shit\)](https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:47 |
 | 34 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 78 | [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 |
 | 79 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
 | 80 | [Pump It Up](https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6) | [Joe Budden](https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD) | 4:11 |
-| 81 | [There It Go \(The Whistle Song\)](https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [What The Game's Been Missing!](https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8) | 3:00 |
-| 82 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
+| 81 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
+| 82 | [There It Go \(The Whistle Song\)](https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [What The Game's Been Missing!](https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8) | 3:00 |
 | 83 | [So What](https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x) | [Field Mob](https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Light Poles And Pine Trees](https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR) | 3:36 |
 | 84 | [Down And Out](https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [Purple Haze](https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44) | 4:08 |
 | 85 | [Stuntin' Like My Daddy \- Street](https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Like Father Like Son](https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [Excuse Me Miss](https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:41 |
 | 100 | [Like A Pimp](https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Mississippi: The Album](https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7) | 4:14 |
 
-Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMDI4MDUwZTU3NjJlMDEyM2U4ZWNiOGU3NGU4ZmM5YTli`
+Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMGRjODc2YTNiZDY3NjEwNWVhZTU3Nzc0ZmNlZjhhOWY3`

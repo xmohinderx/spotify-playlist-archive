@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 59337,
+  "num_followers": 59509,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDFmNzExZmZiMWVhYTZlMzQ1MTQ2ZTQzNGI0NDA1YWRl",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDc5MDIxMTc1YWFkMjFlNjljNjNiOWUwOTFkZDkxZDNi",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/32MYjAA4HpI6il0dZ7pe8e"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 272784,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/32MYjAA4HpI6il0dZ7pe8e"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -395,18 +395,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Karen Souza Essentials",
-        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 250093,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
+      "duration_ms": 380066,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -427,22 +431,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+        "name": "Karen Souza Essentials",
+        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 380066,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
+      "duration_ms": 250093,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -479,6 +479,26 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Steer Your Way",
+        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 288880,
+      "name": "Steer Your Way (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -559,26 +579,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Steer Your Way",
-        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 288880,
-      "name": "Steer Your Way (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Pedro Almod\u00f3var - Viva La Tristeza!",
-        "url": "https://open.spotify.com/album/0BCoKgFUJxca69dLVXsRpH"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Scott",
-          "url": "https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo"
-        }
-      ],
-      "duration_ms": 378346,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/3R3qPpiWfYbSqwgS7A8Ypy"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Most of the Time",
         "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 229826,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Pedro Almod\u00f3var - Viva La Tristeza!",
+        "url": "https://open.spotify.com/album/0BCoKgFUJxca69dLVXsRpH"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Scott",
+          "url": "https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo"
+        }
+      ],
+      "duration_ms": 378346,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/3R3qPpiWfYbSqwgS7A8Ypy"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Basie's Beatle Bag",
         "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 262706,
       "name": "A Hard Day's Night",
       "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Oliver Nelson Plays Michelle",
+        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Follow the White Rabbit",
         "url": "https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 277960,
       "name": "Heart Shaped Box",
       "url": "https://open.spotify.com/track/5i17LHqATVUzB3qJaUcNkO"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Oliver Nelson Plays Michelle",
-        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Can't Buy Me Love",
+      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Only Love Can Break Your Heart",
         "url": "https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Can't Buy Me Love",
-      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Ink on a Pin - A Celebration of Joni Mitchell",
-        "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
-      },
-      "artists": [
-        {
-          "name": "Sara Colman",
-          "url": "https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa"
-        }
-      ],
-      "duration_ms": 232522,
-      "name": "Chelsea Morning",
-      "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "River Man (feat. Sara Caswell)",
         "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 538160,
       "name": "River Man (feat. Sara Caswell)",
       "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Ink on a Pin - A Celebration of Joni Mitchell",
+        "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
+      },
+      "artists": [
+        {
+          "name": "Sara Colman",
+          "url": "https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa"
+        }
+      ],
+      "duration_ms": 232522,
+      "name": "Chelsea Morning",
+      "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
       },
       "artists": [
         {
-          "name": "Max Haymer",
-          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 369876,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
+      "duration_ms": 458160,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq"
     }
   ],
   "unique_name": "Jazz Covers",

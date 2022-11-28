@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Tamara Pyller
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,833 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,891 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,20 +34,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 24 | [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 |
 | 25 | [Ao Teu Lado \- Acústico](https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Ao Teu Lado \(Acústico\)](https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk) | 3:42 |
 | 26 | [Tens o Meu Sim](https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ) | [Amanda Dutra](https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1) | [Tens o Meu Sim](https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx) | 3:44 |
-| 27 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
-| 28 | [Daqui pra Frente](https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Riane Junqueira](https://open.spotify.com/artist/4bJ1wkkofxsCiEDIJbuV5L), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Daqui pra Frente](https://open.spotify.com/album/2XgO11b1fJWeunYCiggbqv) | 4:31 |
+| 27 | [Daqui pra Frente](https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Riane Junqueira](https://open.spotify.com/artist/4bJ1wkkofxsCiEDIJbuV5L), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Daqui pra Frente](https://open.spotify.com/album/2XgO11b1fJWeunYCiggbqv) | 4:31 |
+| 28 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
 | 29 | [Eu Não Sei Viver Sem Deus](https://open.spotify.com/track/4Qv4gxwa4xeQQ2K3wHItrR) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:41 |
 | 30 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 |
 | 31 | [É de Coração](https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [É de Coração](https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4) | 3:16 |
 | 32 | [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 |
 | 33 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 |
 | 34 | [Levanto um Aleluia](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 |
-| 35 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
+| 35 | [Te Vejo Lá](https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Por Completo](https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx) | 3:32 |
 | 36 | [Só o Começo](https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Gustavo Barrinovo](https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL) | [Só o Começo](https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO) | 4:44 |
 | 37 | [Ponto de Paz](https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ponto de Paz](https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP) | 3:00 |
 | 38 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 |
 | 39 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
-| 40 | [Te Vejo Lá](https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Por Completo](https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx) | 3:32 |
+| 40 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
 | 41 | [A Porta \- Acústico](https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [A Porta \(Acústico\)](https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4) | 3:11 |
 | 42 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
 | 43 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 | 80 | [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 |
 
-Snapshot ID: `MTY2NTcyNjgxOSwwMDAwMDAwMDUyNzc2MjA2ZTAwOTNmMjg0MWE3YjRhNWQwOTQwNTEw`
+Snapshot ID: `MTY2NTcyNjgxOSwwMDAwMDAwMDAwZDNiYWY5ZTA2MzUyNmRlMTA4Yzc5YjUxNzg5ODYw`

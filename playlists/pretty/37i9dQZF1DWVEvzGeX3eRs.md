@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > What we're gonna do right now is go back—back in time\. Here are all your favorite '90s R&B slow jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,062 likes - 47 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,418 likes - 47 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 17 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 | 18 | [Love U 4 Life](https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 4:50 |
 | 19 | [Other Side Of The Game](https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:33 |
-| 20 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
-| 21 | [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 |
+| 20 | [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 |
+| 21 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
 | 22 | [If I Ever Fall In Love](https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3), [Bill Appleberry](https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 4:49 |
 | 23 | [I Get Lonely](https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:17 |
 | 24 | [Happily Ever After](https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 4:36 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 38 | [Whip Appeal](https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:31 |
 | 39 | [All the Times \(feat\. Faith Evans, Coko & Missy Elliott\)](https://open.spotify.com/track/0KHHrBbdvuJ6knLxj7dqkw) | [LSG](https://open.spotify.com/artist/1l40tPBtp1bmS1krmINRSD), [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Levert.Sweat.Gill](https://open.spotify.com/album/3BrZT0UzGMi2qhI5WExT8Y) | 4:51 |
 | 40 | [You Put a Move on My Heart](https://open.spotify.com/track/3bhZuw0gZRLEOGeggjWzpP) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 6:12 |
-| 41 | [Insatiable](https://open.spotify.com/track/3q4SUOc4upvsrFItSrELsX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds and Pearls](https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ) | 6:39 |
-| 42 | [Use Your Heart](https://open.spotify.com/track/5mCQirG6bW3iDN0gpdoxrP) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Best Of SWV](https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP) | 4:49 |
+| 41 | [Use Your Heart](https://open.spotify.com/track/5mCQirG6bW3iDN0gpdoxrP) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Best Of SWV](https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP) | 4:49 |
+| 42 | [Insatiable](https://open.spotify.com/track/3q4SUOc4upvsrFItSrELsX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds and Pearls](https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ) | 6:39 |
 | 43 | [It Never Rains \(In Southern California\)](https://open.spotify.com/track/6ygcYdLszK2DJUU7BWuCxx) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Tony! Toni! Tone'! Greatest Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:56 |
 | 44 | [Uhh Ahh](https://open.spotify.com/track/0MrD47wtvAu6igsy8vqUzN) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 3:48 |
 | 45 | [Take Our Time](https://open.spotify.com/track/44QrzYVAHFC9WMN91GEo9H) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:34 |
 | 46 | [Ready Or Not](https://open.spotify.com/track/78fii1y8vrGtn5YtHEnpaN) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 |
-| 47 | [I Got A Thang 4 Ya!](https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0) | [Lokey](https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05) | [Radio Waves Of The '90s: Urban Hits](https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C) | 4:17 |
+| 47 | [Scandalous](https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 6:15 |
 
-Snapshot ID: `MTYxNDkwMjU5NywwMDAwMDAwMDFmM2EwMjUyMTliYWY5YjBhNGViYWQ1NGI2NzM2OGE0`
+Snapshot ID: `MTYxNDkwMjU5NywwMDAwMDAwMDIyMzg0ZTQwYzA1NTkxMWZmMjUyMzg5NDRhNzIzMTIx`

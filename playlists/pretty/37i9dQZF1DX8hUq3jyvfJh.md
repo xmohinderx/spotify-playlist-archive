@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Deize Tigrona e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,803 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,784 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 6 | [CHÁ DE MAÇÃ](https://open.spotify.com/track/0G5ivEEvVSHfmu0rdVoRk9) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [FLORA DE CONTROLE](https://open.spotify.com/album/4BGYI7zvyPcAkwG8e0agSz) | 3:09 |
 | 7 | [Gostosa Posturada](https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr) | 2:04 |
 | 8 | [Diz](https://open.spotify.com/track/2FWOsv9w008EapGfigHK9i) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Diz](https://open.spotify.com/album/7Lxz0lRrYciltkKfziu6s0) | 3:24 |
-| 9 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
-| 10 | [Descontrolada](https://open.spotify.com/track/1KVg1Mc3zFmZP5QnKuYjG0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/5bqZKSkxw0vPEBTJbLtTHc) | 2:42 |
+| 9 | [Descontrolada](https://open.spotify.com/track/1KVg1Mc3zFmZP5QnKuYjG0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Descontrolada](https://open.spotify.com/album/5bqZKSkxw0vPEBTJbLtTHc) | 2:42 |
+| 10 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
 | 11 | [Dar Uma Deitchada](https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Dar Uma Deitchada](https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3) | 3:12 |
 | 12 | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon) | 2:25 |
 | 13 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 22 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
 | 23 | [Aguenta Caladinha](https://open.spotify.com/track/5vUQOsGWg3wyMClrSiQ3Yo) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Aguenta Caladinha](https://open.spotify.com/album/1hAKPxee4ubrf4EzXlNXSz) | 3:25 |
 | 24 | [Boladona](https://open.spotify.com/track/5ylZRbTn28rfKILSrBRKM2) | [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Boladona](https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo) | 2:06 |
-| 25 | [POSTURADA](https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [POSTURADA](https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8) | 3:04 |
-| 26 | [Embrazadinha](https://open.spotify.com/track/3Ta95rREVD1iqkJcQgBHik) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Embrazadinha](https://open.spotify.com/album/5OnSzbjotqmqIty18D4FiB) | 2:24 |
+| 25 | [Embrazadinha](https://open.spotify.com/track/3Ta95rREVD1iqkJcQgBHik) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Embrazadinha](https://open.spotify.com/album/5OnSzbjotqmqIty18D4FiB) | 2:24 |
+| 26 | [POSTURADA](https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [POSTURADA](https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8) | 3:04 |
 | 27 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 |
 | 28 | [Liga pro Samu](https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Liga pro Samu](https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm) | 2:20 |
 | 29 | [Sacanagem](https://open.spotify.com/track/2REe5kJb7Coqh4KZPJ5KwA) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Sacanagem](https://open.spotify.com/album/4NNEihYuBVV8d5HwcSHmwi) | 1:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Medley da Lina](https://open.spotify.com/track/7rpROwT1L9FyFBLywaAaPL) | [Mc Lina](https://open.spotify.com/artist/6V9TYyxua6RS2GXbt4E55Q) | [Medley da Lina](https://open.spotify.com/album/7uwKS8fAC3IL5wi4LEl55H) | 2:23 |
 | 50 | [Lapada](https://open.spotify.com/track/4JeA5kNJWxSANl8zA5sLeZ) | [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6), [Mc Naninha](https://open.spotify.com/artist/2LuUSYYh2XcCrNvqAMzZzy) | [Lapada](https://open.spotify.com/album/00u4bXJOPPOigGBdhzEorC) | 2:14 |
 
-Snapshot ID: `MTY2NzM1ODAwMCwwMDAwMDAwMDM0NzI2Yjk1ZWVlZTExMmRkZDU0ZmFlODUyNGM0ODky`
+Snapshot ID: `MTY2NzM1ODAwMCwwMDAwMDAwMGRlZGNlYjlkYWRmM2JkOTEzZmE3MTQ3MzViZTg1NzZi`

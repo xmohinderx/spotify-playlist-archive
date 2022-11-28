@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7552,
+  "num_followers": 7557,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGI0MDc4YjViMzlmMTVkZTUxNWY4NWE2ZTU2ZjU5MjZm",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGUzMzUyOTVkMzdhNDI5OTExMjMzZmQ5YjBmNWY0NGQz",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "J'pourrais pas vivre avec toi",
-      "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Mal \u00e9duqu\u00e9 mon amour",
         "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 203506,
       "name": "Tu ne peux pas partir",
       "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "J'pourrais pas vivre avec toi",
+      "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,6 +655,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Vent fou",
+        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
+      },
+      "artists": [
+        {
+          "name": "Jorane",
+          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
+        }
+      ],
+      "duration_ms": 79840,
+      "name": "Vent fou",
+      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Thermoplastique",
         "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 174000,
       "name": "Laissez venir \u00e0 moi les grandes brunes",
       "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Vent fou",
-        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
-      },
-      "artists": [
-        {
-          "name": "Jorane",
-          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
-        }
-      ],
-      "duration_ms": 79840,
-      "name": "Vent fou",
-      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Corpo-Trash-Vidange",
-        "url": "https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d"
+        "name": "De la nature des foules",
+        "url": "https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds"
       },
       "artists": [
         {
-          "name": "Band de Garage",
-          "url": "https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa"
+          "name": "Bonjour Brumaire",
+          "url": "https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv"
         }
       ],
-      "duration_ms": 175480,
-      "name": "La ch\u00e8vre",
-      "url": "https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi"
+      "duration_ms": 244986,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp"
     }
   ],
   "unique_name": "Je me souviens: alternatif",

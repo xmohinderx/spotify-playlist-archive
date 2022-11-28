@@ -1,12 +1,12 @@
 {
   "description": "Cutting edge LGBTQQIA+ artists from around the world. Cover: Nakhane",
-  "num_followers": 3621,
+  "num_followers": 3627,
   "original_name": "Pride Beyond Borders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI0MTk2NSwwMDAwMDAwMGExMDI2ZDMwOTRiZWZmOTViNzMzYjM0NTdkNmVjNDUx",
+  "snapshot_id": "MTY1ODI0MTk2NSwwMDAwMDAwMDU2MmZiMjYwNzc4YTM0ZDgxZWU4NDY4NGMzMjg4OTA3",
   "tracks": [
     {
       "added_at": "2022-05-31 15:00:52",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 198625,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 182443,
       "name": "My Way",
       "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
+        "name": "Culpa",
+        "url": "https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
         "name": "Baby, We're Ascending",
         "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
       },
@@ -847,38 +863,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "Culpa",
-        "url": "https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Culpa",
-      "url": "https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
-        "name": "Hauntology",
-        "url": "https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG"
-      },
-      "artists": [
-        {
-          "name": "Lauren Auder",
-          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "Hauntology",
-      "url": "https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "Night Creature",
         "url": "https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 191369,
       "name": "True Love to the Grave (feat. Claudia Kane)",
       "url": "https://open.spotify.com/track/7fAIvRHDjuIZLK14loAHZn"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "Hauntology",
+        "url": "https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "Hauntology",
+      "url": "https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "Revezo",
-        "url": "https://open.spotify.com/album/0UHlZADJ94J9X41r3vk8yC"
-      },
-      "artists": [
-        {
-          "name": "Filipe Sambado",
-          "url": "https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "J\u00f3ia da Rotina",
-      "url": "https://open.spotify.com/track/0RSoneV5ikvQZGLBkl2Iee"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "You're (Still) in Love",
         "url": "https://open.spotify.com/album/0i6G10wAzjmdT2b0UaG3Dt"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 260815,
       "name": "You're (Still) in Love",
       "url": "https://open.spotify.com/track/4vUoc2Ci14g4HfiBwi4MoA"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "Revezo",
+        "url": "https://open.spotify.com/album/0UHlZADJ94J9X41r3vk8yC"
+      },
+      "artists": [
+        {
+          "name": "Filipe Sambado",
+          "url": "https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "J\u00f3ia da Rotina",
+      "url": "https://open.spotify.com/track/0RSoneV5ikvQZGLBkl2Iee"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4iaPPEoGvmlZAYQNa6Sw79"
-      },
-      "artists": [
-        {
-          "name": "Julia Alfrida",
-          "url": "https://open.spotify.com/artist/4GcW03232y77FiMhneVmKd"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/7KRJHqHvQmbLgeM9n2Y2m4"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "NO PUTX - Spotify Singles",
         "url": "https://open.spotify.com/album/59gNuylpSUihz8qxcHHeJx"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 231092,
       "name": "NO PUTX - Spotify Singles",
       "url": "https://open.spotify.com/track/79yTQjvKcRzO9Qb0wZJzkL"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4iaPPEoGvmlZAYQNa6Sw79"
+      },
+      "artists": [
+        {
+          "name": "Julia Alfrida",
+          "url": "https://open.spotify.com/artist/4GcW03232y77FiMhneVmKd"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7KRJHqHvQmbLgeM9n2Y2m4"
     },
     {
       "added_at": "2022-05-31 15:00:52",

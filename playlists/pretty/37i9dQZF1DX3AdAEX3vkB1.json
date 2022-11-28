@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 147239,
+  "num_followers": 147357,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDI1ZmJjMWQ0YjgyNmFiMjJjYzk2NGNjYjdkY2RlNTkx",
+  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDIyYTMxNzlkYmQyODJmMjExOTFlZWZmZGEwMzZlYjEx",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "These Boots Are Made for Walkin'",
-      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Seekers",
-        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
       "artists": [
         {
-          "name": "The Seekers",
-          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
         }
       ],
-      "duration_ms": 140440,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Seekers",
+        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+      },
+      "artists": [
+        {
+          "name": "The Seekers",
+          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Needles & Pins",
         "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 131360,
       "name": "Needles and Pins - Mono",
       "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Circulate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Breaking Up Is Hard to Do",
+      "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1351,18 +1367,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Circulate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
       "artists": [
         {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Breaking Up Is Hard to Do",
-      "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
+      "duration_ms": 145800,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1395,26 +1415,6 @@
       "duration_ms": 170626,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Sweet Soul Music",
-        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Chubby Checker 1959-1963",
         "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 153760,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Sweet Soul Music",
+        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Dimension Dolls",
-        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
-      },
-      "artists": [
-        {
-          "name": "Little Eva",
-          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
-        }
-      ],
-      "duration_ms": 148626,
-      "name": "The Loco-Motion - Single Version",
-      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz"
       },
@@ -1903,18 +1887,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Spencer Davis Group",
-        "url": "https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb"
+        "name": "The Dimension Dolls",
+        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
       },
       "artists": [
         {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
         }
       ],
-      "duration_ms": 171826,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8"
+      "duration_ms": 148626,
+      "name": "The Loco-Motion - Single Version",
+      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1931,6 +1915,22 @@
       "duration_ms": 151413,
       "name": "Things",
       "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Spencer Davis Group",
+        "url": "https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8"
     },
     {
       "added_at": "2022-06-16 22:02:00",

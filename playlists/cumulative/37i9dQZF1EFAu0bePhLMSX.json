@@ -1725,10 +1725,28 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 179573,
       "name": "Places",
       "url": "https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K"
+    },
+    {
+      "album": {
+        "name": "Everything I Didn\u2019t Say And More",
+        "url": "https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/1HOLGWMADWYkbXUgFp8Smq"
     },
     {
       "album": {

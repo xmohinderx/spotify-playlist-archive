@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 47 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
 | 48 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 |
 | 49 | [Bad Things](https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Bad Things](https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR) | 3:48 |
-| 50 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
+| 50 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 51 | [Makeshift Paradise](https://open.spotify.com/track/1S8oQurfhmDFyzmWODOF1d) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Makeshift Paradise](https://open.spotify.com/album/4sRT6Ay4AtKae9mW6amj7A) | 3:15 |
 | 52 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 | 53 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [SKODEN](https://open.spotify.com/track/3ssxyKEYJgkZxPjrmniL5w) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [SKODEN](https://open.spotify.com/album/4bQcsJ1UJGeyg1PPjA3I3i) | 3:33 |
 | 100 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDg2NDE1MzFiMTM1NDk1ZWM4ODAwMjE5YmVmZmQxZTA3`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDEzZjU3NzVkMjRhYmY0OWFjMWE5M2I2M2JhMWViZTk4`

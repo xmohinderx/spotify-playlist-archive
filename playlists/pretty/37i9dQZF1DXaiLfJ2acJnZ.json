@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35463,
+  "num_followers": 35470,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDU2MWM0MDlhMGQwNGRmNDdhZWFiNTI2ZTA0ZmYyODUz",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDlkZjhjNjU5NWJkN2I5Yzc2YzU5Y2Y3YmJjODYyNzg3",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 137307,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Joe",
         "url": "https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 137307,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204907,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 170467,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204907,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
     },
     {
       "added_at": "2022-10-28 20:58:08",

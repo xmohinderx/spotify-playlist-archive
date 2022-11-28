@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: Natanael Cano, Luis R Conriquez y Gabito Ballesteros.",
-  "num_followers": 575761,
+  "num_followers": 575852,
   "original_name": "Corridos 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGE2NTI1MWNkYjMwNmRlM2U1YjZjZTU0NzcyMzg3NWE0",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDgzYWU3ZDI5M2ZiYzFkZmU3ZDhmNzkxOTYzMjMxY2Ni",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "El Belicon",
-        "url": "https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        }
-      ],
-      "duration_ms": 214397,
-      "name": "El Belicon",
-      "url": "https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Vamos Para Arriba",
         "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 172227,
       "name": "Vamos Para Arriba",
       "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "El Belicon",
+        "url": "https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        }
+      ],
+      "duration_ms": 214397,
+      "name": "El Belicon",
+      "url": "https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -791,18 +791,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
+      "duration_ms": 156597,
+      "name": "Pasado Pisado (En Vivo)",
+      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -827,22 +831,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado (En Vivo)",
-      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Seguimos M\u00e1s Fuertes",
-        "url": "https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 200682,
-      "name": "Seguimos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Veneno Verde",
         "url": "https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 155373,
       "name": "Veneno Verde",
       "url": "https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Seguimos M\u00e1s Fuertes",
+        "url": "https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 200682,
+      "name": "Seguimos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
+        "name": "El Empresario",
+        "url": "https://open.spotify.com/album/0gvJmNiT7rIKcqWN0F2bTR"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Elegante Efecto",
+          "url": "https://open.spotify.com/artist/3Ey3QwKbYCQTyGbQndIuLG"
         }
       ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
+      "duration_ms": 220107,
+      "name": "El Empresario",
+      "url": "https://open.spotify.com/track/2tgQoTZ78nudDv6PUt3Tf5"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "El Corrido Del Piyi (LDLG)",
         "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "El Empresario",
-        "url": "https://open.spotify.com/album/0gvJmNiT7rIKcqWN0F2bTR"
-      },
-      "artists": [
-        {
-          "name": "Elegante Efecto",
-          "url": "https://open.spotify.com/artist/3Ey3QwKbYCQTyGbQndIuLG"
-        }
-      ],
-      "duration_ms": 220107,
-      "name": "El Empresario",
-      "url": "https://open.spotify.com/track/2tgQoTZ78nudDv6PUt3Tf5"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Ave De Mal Ag\u00fcero",
-        "url": "https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Ave De Mal Ag\u00fcero",
-      "url": "https://open.spotify.com/track/5e15YyvzUqMEFf1DqJaxrn"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Sorry For The Wait 2",
         "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 181600,
       "name": "A 180",
       "url": "https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Ave De Mal Ag\u00fcero",
+        "url": "https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Ave De Mal Ag\u00fcero",
+      "url": "https://open.spotify.com/track/5e15YyvzUqMEFf1DqJaxrn"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2639,6 +2639,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Hoy Brilla el Sol",
+        "url": "https://open.spotify.com/album/29KLxUVAAot5lQTEzaGtLI"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "duration_ms": 233499,
+      "name": "Hoy Brilla el Sol",
+      "url": "https://open.spotify.com/track/4Q3oAoP1TFJ8hncwGTePRQ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "El Escudo Del Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/6CWLYSGhQZPoeZ1HVmpLSh"
       },
@@ -2655,22 +2671,6 @@
       "duration_ms": 175000,
       "name": "El Escudo Del Chavo - En Vivo",
       "url": "https://open.spotify.com/track/1rOEpXXJ2owwhJCEKg4vCD"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Hoy Brilla el Sol",
-        "url": "https://open.spotify.com/album/29KLxUVAAot5lQTEzaGtLI"
-      },
-      "artists": [
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "Hoy Brilla el Sol",
-      "url": "https://open.spotify.com/track/4Q3oAoP1TFJ8hncwGTePRQ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -3031,42 +3031,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Corridos 100% Callejeros (Vol. 1)",
-        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 205627,
-      "name": "Soy Nacido En LA",
-      "url": "https://open.spotify.com/track/4upkNwyr8C3WvglPL6xXqw"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "La Tormenta (En Vivo)",
-        "url": "https://open.spotify.com/album/1qxgbRnr8yqYO0h9qMsD3i"
-      },
-      "artists": [
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
-        },
-        {
-          "name": "Los De Porte Fino",
-          "url": "https://open.spotify.com/artist/6xTz1zhl5vDs8RK3X9d1yi"
-        }
-      ],
-      "duration_ms": 159488,
-      "name": "La Tormenta (En Vivo)",
-      "url": "https://open.spotify.com/track/7MLAsX5kWrcYcMJi3Ngnk4"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Cero Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/4m2VUgjvLILmcTBybpz9c4"
       },
@@ -3087,18 +3051,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "El Pochito",
-        "url": "https://open.spotify.com/album/7ziQeB1l4NSn0dWw08yunZ"
+        "name": "Corridos 100% Callejeros (Vol. 1)",
+        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
       },
       "artists": [
         {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 221124,
-      "name": "El Pochito",
-      "url": "https://open.spotify.com/track/6HI6iABWQLnYiqdYFFe1F2"
+      "duration_ms": 205627,
+      "name": "Soy Nacido En LA",
+      "url": "https://open.spotify.com/track/4upkNwyr8C3WvglPL6xXqw"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -3115,6 +3079,42 @@
       "duration_ms": 184560,
       "name": "El Taliban",
       "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "El Pochito",
+        "url": "https://open.spotify.com/album/7ziQeB1l4NSn0dWw08yunZ"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 221124,
+      "name": "El Pochito",
+      "url": "https://open.spotify.com/track/6HI6iABWQLnYiqdYFFe1F2"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "La Tormenta (En Vivo)",
+        "url": "https://open.spotify.com/album/1qxgbRnr8yqYO0h9qMsD3i"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        },
+        {
+          "name": "Los De Porte Fino",
+          "url": "https://open.spotify.com/artist/6xTz1zhl5vDs8RK3X9d1yi"
+        }
+      ],
+      "duration_ms": 159488,
+      "name": "La Tormenta (En Vivo)",
+      "url": "https://open.spotify.com/track/7MLAsX5kWrcYcMJi3Ngnk4"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -3235,6 +3235,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Ex Soldado Raygoza (En Vivo)",
+        "url": "https://open.spotify.com/album/2LyoeMQLtG9t824TqiZGEU"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 116665,
+      "name": "Ex Soldado Raygoza - En Vivo",
+      "url": "https://open.spotify.com/track/0LfbsT99gdjQ4vAgDWkmhy"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "El Canelo",
         "url": "https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU"
       },
@@ -3255,18 +3271,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Ex Soldado Raygoza (En Vivo)",
-        "url": "https://open.spotify.com/album/2LyoeMQLtG9t824TqiZGEU"
+        "name": "Rompiendola",
+        "url": "https://open.spotify.com/album/0SfGD6tBcvqnzvgoVcxT3t"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Los 3 Del Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT"
         }
       ],
-      "duration_ms": 116665,
-      "name": "Ex Soldado Raygoza - En Vivo",
-      "url": "https://open.spotify.com/track/0LfbsT99gdjQ4vAgDWkmhy"
+      "duration_ms": 159767,
+      "name": "Rompiendola",
+      "url": "https://open.spotify.com/track/5j2a9gxEti7yAY8bv3M7yx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -3303,18 +3319,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Rompiendola",
-        "url": "https://open.spotify.com/album/0SfGD6tBcvqnzvgoVcxT3t"
+        "name": "La Escuela De La Vida",
+        "url": "https://open.spotify.com/album/7j7IjNk8JhOiwY8BIOJlI9"
       },
       "artists": [
         {
-          "name": "Los 3 Del Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT"
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        },
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
         }
       ],
-      "duration_ms": 159767,
-      "name": "Rompiendola",
-      "url": "https://open.spotify.com/track/5j2a9gxEti7yAY8bv3M7yx"
+      "duration_ms": 184476,
+      "name": "La Escuela De La Vida",
+      "url": "https://open.spotify.com/track/3ujHzEwGasbXUrID9hXMsA"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -3335,26 +3355,6 @@
       "duration_ms": 177449,
       "name": "Los FECH (En Vivo)",
       "url": "https://open.spotify.com/track/2lYxE4DGv8ScNhRq98w1Z6"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "La Escuela De La Vida",
-        "url": "https://open.spotify.com/album/7j7IjNk8JhOiwY8BIOJlI9"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        },
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        }
-      ],
-      "duration_ms": 184476,
-      "name": "La Escuela De La Vida",
-      "url": "https://open.spotify.com/track/3ujHzEwGasbXUrID9hXMsA"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -3407,6 +3407,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "El Paletero",
+        "url": "https://open.spotify.com/album/6QcIkNSWU9o9pTBMnm4goh"
+      },
+      "artists": [
+        {
+          "name": "Los Elementos de Culiacan",
+          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
+        }
+      ],
+      "duration_ms": 176436,
+      "name": "El Paletero",
+      "url": "https://open.spotify.com/track/7i59lkJnUfuj3zVkHllttQ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Sue\u00f1os y Metas",
         "url": "https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE"
       },
@@ -3423,22 +3439,6 @@
       "duration_ms": 165250,
       "name": "Sue\u00f1os y Metas",
       "url": "https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "El Paletero",
-        "url": "https://open.spotify.com/album/6QcIkNSWU9o9pTBMnm4goh"
-      },
-      "artists": [
-        {
-          "name": "Los Elementos de Culiacan",
-          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
-        }
-      ],
-      "duration_ms": 176436,
-      "name": "El Paletero",
-      "url": "https://open.spotify.com/track/7i59lkJnUfuj3zVkHllttQ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -3579,8 +3579,8 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+        "name": "6 Colores",
+        "url": "https://open.spotify.com/album/01pQdmPM1scnFN27Xgt2jQ"
       },
       "artists": [
         {
@@ -3588,9 +3588,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 189789,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+      "duration_ms": 164184,
+      "name": "6 Colores",
+      "url": "https://open.spotify.com/track/0pKtkEfClNEFZAwPGymF5z"
     },
     {
       "added_at": "2022-11-11 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,649 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,750 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 18 | [Back 2 Back](https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Dirtbike Lb](https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 3:08 |
 | 19 | [Hot N\*gga](https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Hot N\*gga](https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV) | 3:14 |
 | 20 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 |
-| 21 | [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 |
-| 22 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
-| 23 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
+| 21 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
+| 22 | [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 |
+| 23 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
 | 24 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 |
 | 25 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
 | 26 | [Practice Makes Perfect](https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Practice Makes Perfect](https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 |
 | 50 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 
-Snapshot ID: `MTY2NjU1NDgxMywwMDAwMDAwMDY0MDM2ODk1OTM2YzQ0OTYwZGVkODI3MjRmOTg3MTBj`
+Snapshot ID: `MTY2NjU1NDgxMywwMDAwMDAwMGE3ZDdkMGE1MjdhNTc4ZWYyMGNiYzBhMGY4YTdmZmFl`

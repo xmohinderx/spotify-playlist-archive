@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,125 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,184 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 44 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
 | 45 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
 | 46 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 |
-| 47 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
-| 48 | [Free Time](https://open.spotify.com/track/19FG153t1MdozcTZHi8guM) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob) | 3:01 |
+| 47 | [Free Time](https://open.spotify.com/track/19FG153t1MdozcTZHi8guM) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob) | 3:01 |
+| 48 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
 | 49 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
 | 50 | [On & On & On](https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 3:14 |
 | 51 | [Apparition](https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | […And The Battle Begun](https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij) | 3:39 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 95 | [If I Could Only Listen to My Heart](https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1) | [Bruce Lee Band](https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY) | [Rental!! Eviction!!](https://open.spotify.com/album/7jbc6VssvRQLTYCAYMAT9W) | 2:04 |
 | 96 | [THE FINAL PARADE](https://open.spotify.com/track/2bKOzEirhfTNQHGvCJRwYz) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK), [Aimee Interrupter](https://open.spotify.com/artist/511ZM3AQ8CNe4VNMcYvdB0), [Tim Timebomb](https://open.spotify.com/artist/2Sqro0AUxdyLXAfYF16nPw), [Angelo Moore](https://open.spotify.com/artist/3MJYGxXDQhcHl0Fh5Zuyf9), [Stranger Cole](https://open.spotify.com/artist/0O3mV0IW4pJRQStTUo2y3z) | [THE FINAL PARADE](https://open.spotify.com/album/5M5RNwrNNOCkuI1bZeB45I) | 7:57 |
 | 97 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
-| 98 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
-| 99 | [Sorry I'm Not Sorry](https://open.spotify.com/track/278kcYhSJT5MorzKYpkKqK) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/3MByj0jMYnFWIE82Z0ypvb) | 3:06 |
+| 98 | [Sorry I'm Not Sorry](https://open.spotify.com/track/278kcYhSJT5MorzKYpkKqK) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/3MByj0jMYnFWIE82Z0ypvb) | 3:06 |
+| 99 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
 | 100 | [Let It Go](https://open.spotify.com/track/2e8yaFJOfZbsttpJhcTLcc) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Let It Go](https://open.spotify.com/album/5ubvjtSzbJwZ4mv46SrIed) | 3:05 |
 
-Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMGY3MjdiZDJmZWM0NTI3MzkyZjFmMmUxMjExNmUzNmNh`
+Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDc2NTZlM2IyNGYwNDc1NTg4NmYzOWQ4NDFmOWZmZGZk`

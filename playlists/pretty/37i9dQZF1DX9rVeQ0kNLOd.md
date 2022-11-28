@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,149 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,175 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 42 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
 | 43 | [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 |
 | 44 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 |
-| 45 | [サイダー](https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [サイダー](https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu) | 3:39 |
-| 46 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
+| 45 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
+| 46 | [サイダー](https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [サイダー](https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu) | 3:39 |
 | 47 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
 | 48 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 |
 | 49 | [イタズラなKiss](https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [イタズラなKiss](https://open.spotify.com/album/5zHx02UPVQDtT6BEj1JZCr) | 3:05 |
 | 50 | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:28 |
 
-Snapshot ID: `MTY2OTMwMjAwMCwwMDAwMDAwMDM0YjFiYTEwOTlmYjZmYjBjYzhhNjE1YjdhOTU0NGYz`
+Snapshot ID: `MTY2OTMwMjAwMCwwMDAwMDAwMGM0NzAwNjIzMzhhZTRjZjdjZTIzN2E1NWUwZGJkZDBm`

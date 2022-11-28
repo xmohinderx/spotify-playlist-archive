@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 188105,
+  "num_followers": 188261,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDg1Njk5NiwwMDAwMDAwMDFmODA2ZjJjYmJmOGZkZDY1YWE3ZTc1ZDk4YjZlN2Yz",
+  "snapshot_id": "MTY1MDg1Njk5NiwwMDAwMDAwMGQ5Y2ZkZDhhYTBjNzg0MGRkOTRlN2RiZDFiMGM4ZDRi",
   "tracks": [
     {
       "added_at": "2022-04-25 03:23:16",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 234666,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+        "name": "Hollies",
+        "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 228932,
-      "name": "Candle In The Wind - Remastered 2014",
-      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
+      "duration_ms": 257106,
+      "name": "The Air That I Breathe - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Hollies",
-        "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
       "artists": [
         {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 257106,
-      "name": "The Air That I Breathe - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
+      "duration_ms": 228932,
+      "name": "Candle In The Wind - Remastered 2014",
+      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Eric Carmen",
-        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 430000,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "52nd Street",
         "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 233506,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Eric Carmen",
+        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
     }
   ],
   "unique_name": "70s Ballads",

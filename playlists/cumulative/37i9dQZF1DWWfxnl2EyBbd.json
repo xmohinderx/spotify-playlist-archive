@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 294954,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 231466,
       "name": "Draw Near",
       "url": "https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK"
@@ -2112,6 +2112,24 @@
     },
     {
       "album": {
+        "name": "Home Of My Tomorrow",
+        "url": "https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu"
+      },
+      "artists": [
+        {
+          "name": "Clover Post",
+          "url": "https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188461,
+      "name": "Home Of My Tomorrow",
+      "url": "https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp"
+    },
+    {
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/5BR5Q9CvBdD1zXepyCyTQs"
       },
@@ -2163,6 +2181,24 @@
       "duration_ms": 312080,
       "name": "Hush - Nikki Iles",
       "url": "https://open.spotify.com/track/2kkgAsYTi28uYl7KM0BJCr"
+    },
+    {
+      "album": {
+        "name": "I Concentrate On You",
+        "url": "https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280418,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL"
     },
     {
       "album": {
@@ -2253,6 +2289,24 @@
       "duration_ms": 241133,
       "name": "I Remember Clifford - Live At Philharmonie, Munich / 1986",
       "url": "https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B"
+    },
+    {
+      "album": {
+        "name": "I Saw The Sun",
+        "url": "https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260540,
+      "name": "I Saw The Sun",
+      "url": "https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1"
     },
     {
       "album": {
@@ -3061,7 +3115,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 376680,
       "name": "Jitterbug Waltz",
       "url": "https://open.spotify.com/track/1ypXqJHbK7e2gxbXUUI5kt"

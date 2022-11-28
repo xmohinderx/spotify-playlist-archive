@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=unNoBURgRqamgVK4iFpzqQ" > Yaw TOG </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,549 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,558 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

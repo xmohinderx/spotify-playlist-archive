@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,154 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,194 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 43 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
 | 44 | [Orbita 13](https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Musica Infinita](https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ) | 4:43 |
 | 45 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
-| 46 | [Humanidad](https://open.spotify.com/track/7hkDMkBoq5w46U9bw4wDDA) | [Leo Acosta y Su Orquesta](https://open.spotify.com/artist/3PyULMR8d0XYqTFjPgREfr) | [Leo Acosta](https://open.spotify.com/album/2Jw8nBazEtaVJ4B7SS9khX) | 2:33 |
+| 46 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
 | 47 | [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 |
-| 48 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 48 | [Humanidad](https://open.spotify.com/track/7hkDMkBoq5w46U9bw4wDDA) | [Leo Acosta y Su Orquesta](https://open.spotify.com/artist/3PyULMR8d0XYqTFjPgREfr) | [Leo Acosta](https://open.spotify.com/album/2Jw8nBazEtaVJ4B7SS9khX) | 2:33 |
 | 49 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 | 50 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
 
-Snapshot ID: `MTY2MjA4OTQ2MiwwMDAwMDAwMDk3MWQxZDFlZmI5ZDVkOGZmZjNmMzg5MGRjNmEyYTYy`
+Snapshot ID: `MTY2MjA4OTQ2MiwwMDAwMDAwMDJhMzFhMWQ0MDY5NzA2MjAwOGM0YWM2Mjk5Yjg2Nzc2`

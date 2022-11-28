@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Cassiane, Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,609 likes - 85 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,649 likes - 85 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 48 | [Ele É](https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Ele É](https://open.spotify.com/album/6qEYPG5MpIFzDKnFHj6ZZZ) | 6:35 |
 | 49 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 |
 | 50 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 |
-| 51 | [Tá Gerando](https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8) | [Joyce Queiroz](https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Tá Gerando](https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE) | 4:34 |
-| 52 | [Tá Passando](https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Tá Passando](https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8) | 5:11 |
+| 51 | [Tá Passando](https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Tá Passando](https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8) | 5:11 |
+| 52 | [Tá Gerando](https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8) | [Joyce Queiroz](https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Tá Gerando](https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE) | 4:34 |
 | 53 | [Deus Realiza Sonhos](https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Deus Realiza Sonhos](https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN) | 5:45 |
 | 54 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Esconderijo do Altíssimo](https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL) | 4:45 |
 | 55 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 |
-| 56 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 |
-| 57 | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt) | 4:17 |
+| 56 | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt) | 4:17 |
+| 57 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 |
 | 58 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 |
 | 59 | [Eu Te Toquei \- Ao Vivo](https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Eu Te Toquei \(Ao Vivo\)](https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn) | 5:19 |
 | 60 | [A Promessa Não Morreu](https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [A Promessa Não Morreu](https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG) | 3:28 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 74 | [Basta uma Palavra](https://open.spotify.com/track/0N5lJZVZ2fnAUcNH921nDL) | [Angélica Azevedo Oficial](https://open.spotify.com/artist/29C07hDeBxC0pbCDWiwXYE) | [Basta uma Palavra](https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk) | 3:59 |
 | 75 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
 | 76 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
-| 77 | [Grande](https://open.spotify.com/track/6uDf8TrXboC8PccWi3yBVs) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Grande](https://open.spotify.com/album/63H3tYsb3b3PffcXmYFnLI) | 4:13 |
-| 78 | [Nada Vai Te Faltar](https://open.spotify.com/track/7jS1AMXD2KtK0kmVqyOowj) | [Neide Martins](https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq) | [Nada Vai Te Faltar](https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d) | 5:19 |
+| 77 | [Nada Vai Te Faltar](https://open.spotify.com/track/7jS1AMXD2KtK0kmVqyOowj) | [Neide Martins](https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq) | [Nada Vai Te Faltar](https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d) | 5:19 |
+| 78 | [Grande](https://open.spotify.com/track/6uDf8TrXboC8PccWi3yBVs) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Grande](https://open.spotify.com/album/63H3tYsb3b3PffcXmYFnLI) | 4:13 |
 | 79 | [O Rei e o Jumentinho](https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv) | [Marcelo Dias e Fabiana](https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu) | [O Rei e o Jumentinho](https://open.spotify.com/album/1nvpCyC4YTywNaGYdnV3lK) | 4:40 |
 | 80 | [Ele Te Escolheu](https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu](https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn) | 4:00 |
 | 81 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY2OTM1NDg0NCwwMDAwMDAwMDE3NWIyYTY1YWY4MzkwNzhkNmEyNDBiYWUzNTI1ZDQ4`
+Snapshot ID: `MTY2OTM1NDg0NCwwMDAwMDAwMDNmZjYwMTkyZjM5ZTE4ZTExNjA4NzhiMTFkMjA2YTNj`

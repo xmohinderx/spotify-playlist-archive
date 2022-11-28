@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,709,187 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709,338 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 42 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 |
 | 43 | [El Que Olvida](https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:51 |
 | 44 | [Te echo de menos](https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te echo de menos](https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj) | 3:14 |
-| 45 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
-| 46 | [Adiós](https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Adiós](https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3) | 3:02 |
+| 45 | [Adiós](https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Adiós](https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3) | 3:02 |
+| 46 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
 | 47 | [Lo Intenté Todo](https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Lo Intenté Todo](https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2) | 3:24 |
 | 48 | [Una Mentira Más](https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Una Mentira Más](https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI) | 3:22 |
 | 49 | [Me Enseñaste](https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:41 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 51 | [Recuerdo](https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [PAUSA](https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R) | 3:52 |
 | 52 | [¿Qué Vas a Hacer?](https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:44 |
 | 53 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu) | 3:52 |
-| 54 | [Saturno](https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Saturno](https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6) | 4:13 |
-| 55 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
+| 54 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
+| 55 | [Saturno](https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Saturno](https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6) | 4:13 |
 | 56 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 |
 | 57 | [No Querías Lastimarme](https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:44 |
 | 58 | [Vas A Quedarte](https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tráiler](https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Tomar Distancia](https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Tomar Distancia](https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT) | 2:30 |
 | 100 | [Tanto Amor \(feat\. Matisse\) \- El Viaje de Matisse](https://open.spotify.com/track/2zTxwFHPKf27XGpOhMr27N) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tanto Amor \(feat\. Matisse\) \[El Viaje de Matisse\]](https://open.spotify.com/album/71E9VK0oe7JYo7h226EgIH) | 3:48 |
 
-Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMDlkZTI3NWYxMzExMWI1NmI0OWYzZTFkNjY2NWEyNDhm`
+Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMDQ0ODA3YjU1ZDgxMDNhNGZmYjEwYzE4Nzc2YTBhYmZi`

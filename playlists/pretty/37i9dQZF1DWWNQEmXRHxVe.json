@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Dr. Dre",
-  "num_followers": 60443,
+  "num_followers": 60470,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMDU3ZjViNzA4ZTMwN2M4YjBhYTllZjMyZjlhM2I2YWFm",
+  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMGFkZDhkMThmMTJiZWFlMDUxOGNmYWFhM2FjMjQ3MmY1",
   "tracks": [
     {
       "added_at": "2022-02-11 14:10:03",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-01-31 18:41:40",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
     },
     {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Black or White",
+      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
+    },
+    {
       "added_at": "2022-02-11 14:10:03",
       "album": {
         "name": "Gospel (with Eminem)",
@@ -1047,22 +1063,6 @@
       "duration_ms": 210027,
       "name": "Gospel (with Eminem)",
       "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
-    },
-    {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Black or White",
-      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
     },
     {
       "added_at": "2022-02-11 14:10:03",
@@ -1465,20 +1465,20 @@
       "url": "https://open.spotify.com/track/6gAlATIOLSKLwGltB0HZ41"
     },
     {
-      "added_at": "2020-01-31 18:41:40",
+      "added_at": "2018-01-30 18:06:42",
       "album": {
-        "name": "Platoon And Songs From the Era",
-        "url": "https://open.spotify.com/album/61ueQv6BTjwSURyp2yV4fd"
+        "name": "Merry, Merry Christmas",
+        "url": "https://open.spotify.com/album/0Ttc1BQu1k3SfU02vn2cM5"
       },
       "artists": [
         {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Tracks of My Tears",
-      "url": "https://open.spotify.com/track/5QizJ1IfhrJemVys14KlJF"
+      "duration_ms": 238466,
+      "name": "This One's for the Children",
+      "url": "https://open.spotify.com/track/78bDGxqn2KF2VU1G3Kz6J0"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1497,20 +1497,20 @@
       "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
     },
     {
-      "added_at": "2018-01-30 18:06:42",
+      "added_at": "2020-01-31 18:41:40",
       "album": {
-        "name": "Merry, Merry Christmas",
-        "url": "https://open.spotify.com/album/0Ttc1BQu1k3SfU02vn2cM5"
+        "name": "Platoon And Songs From the Era",
+        "url": "https://open.spotify.com/album/61ueQv6BTjwSURyp2yV4fd"
       },
       "artists": [
         {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
         }
       ],
-      "duration_ms": 238466,
-      "name": "This One's for the Children",
-      "url": "https://open.spotify.com/track/78bDGxqn2KF2VU1G3Kz6J0"
+      "duration_ms": 177466,
+      "name": "Tracks of My Tears",
+      "url": "https://open.spotify.com/track/5QizJ1IfhrJemVys14KlJF"
     },
     {
       "added_at": "2020-01-31 18:41:40",

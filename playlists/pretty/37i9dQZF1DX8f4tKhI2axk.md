@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,385 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,444 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 29 | [The Voices Of Sweet Jamaica \- All Star Remix](https://open.spotify.com/track/6ueDnmAamC2RcxY9izQQia) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [T.O.K.](https://open.spotify.com/artist/4c4iX8pe1SV13xToguoelN), [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM), [Singing Melody](https://open.spotify.com/artist/1I6w9pHnP2Wo6ygwgpKuHQ), [Tony Curtis](https://open.spotify.com/artist/67lbnNvIaK3h8L0sFxoXvJ), [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj), [Leroy Sibbles](https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [The Voices Of Sweet Jamaica](https://open.spotify.com/album/7CZ9pJ8wS1qyal2hnMf2qj) | 4:06 |
 | 30 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
 | 31 | [Could You Be Loved](https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:57 |
-| 32 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
-| 33 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
+| 32 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
+| 33 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
 | 34 | [Oh Carolina](https://open.spotify.com/track/7MjTPvXSAYB1NyzXLQKsMn) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Pure Pleasure](https://open.spotify.com/album/4tOYuq5DyDsY1rOSluTUcg) | 3:10 |
 | 35 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
 | 36 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Return of Django](https://open.spotify.com/track/3X6b40Xr4zxbyLatxilx6T) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Return of Django \(Bonus Track Edition\)](https://open.spotify.com/album/7ySlkE3H2N0QRsfWGcqvCl) | 2:29 |
 | 40 | [I Shall Be Released](https://open.spotify.com/track/2fBj4QAaXUcx9EL3bPzwGt) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Peculiar](https://open.spotify.com/album/4U3UTvMSHfCoXb3qltKEHn) | 4:20 |
 
-Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMGVhZTZmNmI4ODgxMjVjMjYyMGFkMjBlZDdmYzZmNDA5`
+Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMDdmZGY4YzU0ZWU0M2U3ZDA5Mjg0ZGIwNjA3YzQ3MGVm`

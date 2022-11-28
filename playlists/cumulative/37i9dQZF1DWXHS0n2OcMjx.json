@@ -1408,6 +1408,24 @@
     },
     {
       "album": {
+        "name": "old fruits",
+        "url": "https://open.spotify.com/album/3ksNu0rBR7M7nPfsUTxyQA"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114681,
+      "name": "lemon",
+      "url": "https://open.spotify.com/track/3Ca0cl4Qs3IhEBJpjVf53x"
+    },
+    {
+      "album": {
         "name": "lemon",
         "url": "https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz"
       },
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 114681,
       "name": "lemon",
       "url": "https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w"

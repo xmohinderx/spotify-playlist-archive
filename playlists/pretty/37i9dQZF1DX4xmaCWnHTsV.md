@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,426 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,438 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That's All Right](https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 1:55 |
 | 2 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
 | 3 | [Shake, Rattle And Roll](https://open.spotify.com/track/5z2Gef9D3UgRquZXe7UUW4) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:29 |
-| 4 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
-| 5 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
+| 4 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
+| 5 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
 | 6 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
 | 7 | [Twenty Flight Rock](https://open.spotify.com/track/0Lx4qHJ7ZBoSZvc704wsDd) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [Never To Be Forgotten](https://open.spotify.com/album/7n5TBiq6TqYMSK8i3t5ETL) | 1:45 |
 | 8 | [Flyin' Saucers Rock & Roll](https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Flyin' Saucers Rock & Roll / I Want You Baby](https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS) | 2:02 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 23 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
 | 24 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 25 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
-| 26 | [Mean, Mean Man \- Remastered](https://open.spotify.com/track/1Ssb9hQz8ha0oHGdsFsQ8N) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:13 |
-| 27 | [Jungle Rock](https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Jungle Rock](https://open.spotify.com/album/21kqXS5qnYmFwDFZ9buKHb) | 2:48 |
+| 26 | [Jungle Rock](https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Jungle Rock](https://open.spotify.com/album/21kqXS5qnYmFwDFZ9buKHb) | 2:48 |
+| 27 | [Mean, Mean Man \- Remastered](https://open.spotify.com/track/1Ssb9hQz8ha0oHGdsFsQ8N) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:13 |
 | 28 | [Baby, Let's Play House \- Remastered](https://open.spotify.com/track/4Ls0zLUccPv9o0G4Uio503) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:15 |
 | 29 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
 | 30 | [The Fool](https://open.spotify.com/track/0JcE8h38d6tTuse4IkPLXn) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Presenting Sandford Clark](https://open.spotify.com/album/5QCtTTUmVu4BaPOlupFecs) | 2:47 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 39 | [Skinny Jim](https://open.spotify.com/track/07JOGpEHBICoVjcIjF4ROY) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:11 |
 | 40 | [Race With The Devil](https://open.spotify.com/track/6yqpkreNmOenMuTV9NG2C9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:03 |
 | 41 | [Hot Dog! That Made Him Mad \- Remastered](https://open.spotify.com/track/1r0qsbI9hQu5v5aSCTTqJR) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:40 |
-| 42 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 |
-| 43 | [Bottle to the Baby](https://open.spotify.com/track/2ImE4dNfy18hhApS7EwrLG) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Gone Gone Gone](https://open.spotify.com/album/7iLVv44iKgW07pWKyFJP2t) | 2:24 |
+| 42 | [Bottle to the Baby](https://open.spotify.com/track/2ImE4dNfy18hhApS7EwrLG) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Gone Gone Gone](https://open.spotify.com/album/7iLVv44iKgW07pWKyFJP2t) | 2:24 |
+| 43 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 |
 | 44 | [If I Had Me A Woman](https://open.spotify.com/track/1FP1yL9ukEYX0z0IX5ir7Y) | [Mac Curtis](https://open.spotify.com/artist/4Ey70byCWxRScdGvCVgNJs) | [Blue Jean Heart](https://open.spotify.com/album/1YDTA3tRPAABZbLlas52tu) | 2:21 |
 | 45 | [Flip flop Mama](https://open.spotify.com/track/2opuQE3MDx92ujXUPqdFcb) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Memphis Rockabilly King](https://open.spotify.com/album/2g6NmIa73CKjuMzQmzREBB) | 2:08 |
 | 46 | [I Got a Rocket in My Pocket \- Remastered Single Version](https://open.spotify.com/track/3Qx5VIqbesK1ByTLuXcddr) | [Jimmy Lloyd](https://open.spotify.com/artist/1ngT1mR10aJjFgMmSF5mvB) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 49 | [Hip Shakin' Mama](https://open.spotify.com/track/5cyBAPXn49iasSiD3s5pkQ) | [Jackie Lee Cochran](https://open.spotify.com/artist/78sRQCQyiHMZPGr0KnKwFU) | [Jack the Cat](https://open.spotify.com/album/7aWRApTcoSElob5X4XiJFq) | 1:52 |
 | 50 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/16Wwp6SO1YyL91OYzl58bN) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted](https://open.spotify.com/album/2Dxq9S41i1QJDximYXxDW4) | 2:15 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMGYzMGNkNTY5ZGI1MjFjNjdhYzgyMmNmMjViZDdlZDkx`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDAxNDM5NTFlODQ2NzZmMDJmZGVkZjk1MjI4MWQ2ZjQ5`

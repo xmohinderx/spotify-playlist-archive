@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: OMINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,331 likes - 56 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,353 likes - 56 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

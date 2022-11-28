@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Dueto Eleval en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,056 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,076 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 85 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 |
 | 86 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 |
 | 87 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
-| 88 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
-| 89 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 |
+| 88 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 |
+| 89 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
 | 90 | [Vete Mucho a Donde Quieras](https://open.spotify.com/track/6JifnN1etuBesf7VHbyntA) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Vete Mucho a Donde Quieras](https://open.spotify.com/album/4mYJYqNei4FQxyVxrbX2su) | 2:48 |
 | 91 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
-| 92 | [Se Te Olvidó](https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Se Te Olvidó](https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA) | 3:06 |
-| 93 | [Me Voy](https://open.spotify.com/track/4EJdS2IlMtkH9GHv9SAcze) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Me Voy](https://open.spotify.com/album/5iIJGuHDAOFUfshFN5kxcN) | 2:55 |
+| 92 | [Me Voy](https://open.spotify.com/track/4EJdS2IlMtkH9GHv9SAcze) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Me Voy](https://open.spotify.com/album/5iIJGuHDAOFUfshFN5kxcN) | 2:55 |
+| 93 | [Se Te Olvidó](https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Se Te Olvidó](https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA) | 3:06 |
 | 94 | [Simplemente Amigos](https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt) | [Nicole Padilla](https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv) | [Simplemente Amigos](https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc) | 2:55 |
 | 95 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 96 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 100 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 
-Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMDBiNzdjZTI0YTM3ZGQwYzA3NWE0NmRjZjNmMTYwZGYy`
+Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMGYzMzBiMjlmMzliYWYxMmU2MTZiMTg0Yzc0YmMxY2I2`

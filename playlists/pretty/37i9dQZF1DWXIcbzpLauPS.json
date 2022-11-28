@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Oceans",
-  "num_followers": 857346,
+  "num_followers": 857475,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDhlN2E5ODhlOWYxOWI3OWZmNzk0MDViYzYyYjM5ZWE4",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDFjNjNkOTEzYTgwZDgyOGM2MWE3N2VhZjc5ZWUwZTAx",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Cross My Heart",
-        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
-      },
-      "artists": [
-        {
-          "name": "Eyes Wide Open",
-          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Curse Of Existence",
         "url": "https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 255573,
       "name": "Into Oblivion",
       "url": "https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Cross My Heart",
+        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
+      },
+      "artists": [
+        {
+          "name": "Eyes Wide Open",
+          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Divided",
         "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Lifestyles of the Sick & Dangerous",
-        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 189482,
-      "name": "Alive or Only Burning",
-      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 198657,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Lifestyles of the Sick & Dangerous",
+        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 189482,
+      "name": "Alive or Only Burning",
+      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        },
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 202418,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
       },
@@ -939,26 +959,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
-      },
-      "artists": [
-        {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        },
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 202418,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "What Is War",
         "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 239975,
       "name": "What Is War",
       "url": "https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Deadly Potential",
-        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
-      },
-      "artists": [
-        {
-          "name": "Unseen Faith",
-          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
-        },
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Deadly Potential",
-      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Deadly Potential",
+        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
+      },
+      "artists": [
+        {
+          "name": "Unseen Faith",
+          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
+        },
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Deadly Potential",
+      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Be Someone",
         "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 200000,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Mercer 217",
-        "url": "https://open.spotify.com/album/6eSyQdEzLe207n5TcOjx88"
-      },
-      "artists": [
-        {
-          "name": "Vatic",
-          "url": "https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS"
-        }
-      ],
-      "duration_ms": 231999,
-      "name": "Remember East Mercer",
-      "url": "https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 227272,
       "name": "Suffocate",
       "url": "https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Mercer 217",
+        "url": "https://open.spotify.com/album/6eSyQdEzLe207n5TcOjx88"
+      },
+      "artists": [
+        {
+          "name": "Vatic",
+          "url": "https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS"
+        }
+      ],
+      "duration_ms": 231999,
+      "name": "Remember East Mercer",
+      "url": "https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1155,6 +1155,22 @@
       "duration_ms": 208228,
       "name": "Break Me Down",
       "url": "https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "A Form of Protest",
+        "url": "https://open.spotify.com/album/7isoz5aQC63C3zWg3yQT06"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "duration_ms": 189405,
+      "name": "A Form of Protest",
+      "url": "https://open.spotify.com/track/2T87RX4V5PsfnqhBq21Qxm"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 152000,
       "name": "Quicksand (feat. Michael Swank)",
       "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "A Form of Protest",
-        "url": "https://open.spotify.com/album/7isoz5aQC63C3zWg3yQT06"
-      },
-      "artists": [
-        {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
-        }
-      ],
-      "duration_ms": 189405,
-      "name": "A Form of Protest",
-      "url": "https://open.spotify.com/track/2T87RX4V5PsfnqhBq21Qxm"
     },
     {
       "added_at": "2022-11-25 05:00:00",

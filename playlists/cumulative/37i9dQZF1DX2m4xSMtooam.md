@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-177 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
+178 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2022-05-13 |  |
 | [Just My Type](https://open.spotify.com/track/6JMPmjsg9tWVKZ1KkEhwjo) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 3:38 | 2022-05-13 |  |
 | [La Belle Dame Sans Regrets](https://open.spotify.com/track/5aAHHNcoXd1SrF5MnbKP2k) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [When I Fall In Love](https://open.spotify.com/album/1ghS8R6i5bVgpKl2JOQIuS) | 5:31 | 2022-05-13 | 2022-07-29 |
-| [La Belle Dame Sans Regrets](https://open.spotify.com/track/1kTZPhmN8PW3KrXahh8rs8) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [When I Fall In Love](https://open.spotify.com/album/5Qyx80BQxegTNdvdDkjwJu) | 5:31 | 2022-06-28 |  |
+| [La Belle Dame Sans Regrets](https://open.spotify.com/track/1kTZPhmN8PW3KrXahh8rs8) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [When I Fall In Love](https://open.spotify.com/album/5Qyx80BQxegTNdvdDkjwJu) | 5:31 | 2022-06-28 | 2022-11-28 |
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2022-05-13 |  |
 | [Les eaux de mars](https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 3:38 | 2022-05-13 |  |
 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 | 2022-05-13 |  |
@@ -149,6 +149,7 @@
 | [So Nice \(Samba de Verao\)](https://open.spotify.com/track/4JP5ptajY7ON3UY8q6EMQ8) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:14 | 2022-08-11 | 2022-11-12 |
 | [Something In The Air Between Us](https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 4:12 | 2022-05-13 |  |
 | [Sorriu Para Mim](https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [20 Grandes Sucessos De Joao Gilberto](https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h) | 3:04 | 2022-05-13 | 2022-06-23 |
+| [Sorriu Para Mim](https://open.spotify.com/track/2ZLrEr1rXFmDb9see85T08) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Night of Music](https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6) | 3:05 | 2022-11-23 |  |
 | [Sorriu Para Mim](https://open.spotify.com/track/4fNn5hqUIbMNAX5PNMGQZV) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: Hits & Rarities](https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69) | 3:05 | 2022-10-11 | 2022-11-15 |
 | [Sorriu Para Mim](https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova For Beginners](https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX) | 3:08 | 2022-06-28 | 2022-10-07 |
 | [Standing Tall](https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:51 | 2022-11-11 |  |

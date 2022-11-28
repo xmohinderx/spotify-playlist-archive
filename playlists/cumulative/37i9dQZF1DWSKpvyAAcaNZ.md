@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-261 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+262 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2021-12-17 | 2022-08-27 |
 | [These American Blues](https://open.spotify.com/track/7dkCUjlfKdnpLGr6B1jhle) | [Levi Parham](https://open.spotify.com/artist/04ga4D3fLDKmqmxlo1ej4w) | [These American Blues](https://open.spotify.com/album/0LiMpTX5PlZHmRRs7bflQM) | 3:17 | 2021-12-17 |  |
 | [They Go Low](https://open.spotify.com/track/1ldOtL1REeAmYMQAA0HOoH) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:42 | 2022-06-03 |  |
-| [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2021-12-17 |  |
+| [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 | 2022-09-30 |  |
+| [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2021-12-17 | 2022-11-28 |
 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2021-12-17 |  |
 | [Thousand Mile Night](https://open.spotify.com/track/34Uf3UWc5oUd5f0NxZ1KJR) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/3NrqvphiHgZq1golNdpyKv) | 3:55 | 2022-09-30 | 2022-11-13 |
 | [Thousand Mile Night](https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf) | 3:55 | 2022-07-22 |  |

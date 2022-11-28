@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,866 likes - 73 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,868 likes - 73 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 46 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 |
 | 47 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
 | 48 | [Moisture \- Headman Club Version \[Bonus Track\]](https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7) | [Headman](https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64), [Luca Santucci](https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI) | [ON \(Deluxe Edition\)](https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL) | 5:20 |
-| 49 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
-| 50 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 |
+| 49 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 |
+| 50 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
 | 51 | [Androgyny](https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:09 |
 | 52 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
 | 53 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 8:13 |
 | 54 | [You Keep Me Hangin' On](https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:14 |
 | 55 | [NYC2MIA \- SOPHIE Remix](https://open.spotify.com/track/3bfZfblo5xLHXJgp8zxO2z) | [Basside](https://open.spotify.com/artist/1Oc8whczB0ya9jgVzx6djF), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [NYC2MIA \(SOPHIE Remix\)](https://open.spotify.com/album/1teM6b52vhiAbVONN3Lw3R) | 3:09 |
 | 56 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 |
-| 57 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
-| 58 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
+| 57 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
+| 58 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
 | 59 | [Tropicanal](https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/0a5LE8ZiJ9TVEjEUt9hWwp) | 4:20 |
 | 60 | [White Horse](https://open.spotify.com/track/7cOjZKdxgshxWgeGfE4m01) | [Jessica 6](https://open.spotify.com/artist/1qchowrzlYU0bUrJA6Oy8X) | [See The Light](https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9) | 4:59 |
 | 61 | [Bang](https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn) | 2:50 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 72 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
 | 73 | [Dulce de Leche \(feat\. M¥SS KETA\) \- M¥SS KETA remix](https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Dulce de Leche \(feat\. M¥SS KETA\) \[M¥SS KETA remix\]](https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla) | 3:06 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGU5YTI1NWNhYTM0Mzk1MjM5NjUwZGMyZWM4NTg3YTkz`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGU3YzI3ZGY0ZWQ3ZTFiMzc0YzBmM2JmOTE5NjUwMGIz`

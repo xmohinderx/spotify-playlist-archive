@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,692 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,713 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 73 | [Like Sand](https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6) | 4:31 |
 | 74 | [Beaches on the Thames](https://open.spotify.com/track/0wn1K6Yh5ixdIsuMqg6aaU) | [Sarah Carton](https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS) | [Beaches on the Thames](https://open.spotify.com/album/4c2WcJgvgco3szXYxFTMLc) | 3:50 |
 | 75 | [Gladstone](https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Gladstone](https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw) | 2:54 |
-| 76 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
-| 77 | [Astronaut](https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel•li](https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO) | 2:52 |
-| 78 | [Pure Shores](https://open.spotify.com/track/6kfhbpmXRL9Cs5b47Ri3Qw) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/2NX9yKfOrF7F9BJEfv9K3P) | 3:52 |
-| 79 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
+| 76 | [Astronaut](https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel•li](https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO) | 2:52 |
+| 77 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
+| 78 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
+| 79 | [Pure Shores](https://open.spotify.com/track/6kfhbpmXRL9Cs5b47Ri3Qw) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/2NX9yKfOrF7F9BJEfv9K3P) | 3:52 |
 | 80 | [Wallflower](https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [Wallflower](https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y) | 3:04 |
 | 81 | [Goodbye Blue](https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Goodbye Blue](https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro) | 4:01 |
 | 82 | [Southwark](https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [Uriah's Cry](https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd) | [SAM DOTIA](https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD) | [Uriah's Cry](https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W) | 3:21 |
 | 100 | [Big Skies, Silly Faces](https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Big Skies, Silly Faces](https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc) | 3:55 |
 
-Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMGY1ZTA4NDllNzZiY2Q0M2E2ODBkNzA3MDdjNmU0Zjk1`
+Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMDliNTE2MjNhMjdiNzg5NjgyNTZhZDk0YTYwZWZmOTVm`

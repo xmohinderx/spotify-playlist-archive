@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 86284,
+  "num_followers": 86357,
   "original_name": "Enganchados: Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NjAzODMzOSwwMDAwMDAwMGQ0MWFkODFhYmFmZTExZGY4NjBhOTVjYTU0NWRkYzRi",
+  "snapshot_id": "MTU5NjAzODMzOSwwMDAwMDAwMDUzOTYyNzA4OTRiYTg3ZDFkMTc0NmE2NzdlOTk2NGI3",
   "tracks": [
     {
       "added_at": "2020-07-29 15:58:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "The Colour Of My Love",
         "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
     },
     {
       "added_at": "2020-07-29 15:58:59",

@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-167 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/1Go6SzSjthtEYQfJ1ialIi)
+168 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/1Go6SzSjthtEYQfJ1ialIi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [No Religion](https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Religion](https://open.spotify.com/album/3cyrejkXVcYbXQhiCcu2qB) | 2:17 | 2022-10-30 | 2022-11-16 |
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2022-06-08 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-06-08 |  |
-| [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 |  |
+| [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2022-11-28 |
 | [OCEAN](https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [OCEAN](https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI) | 4:06 | 2022-06-30 | 2022-11-13 |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-06-08 |  |
 | [Oliver Twist](https://open.spotify.com/track/1WoJRTVJ2IKH3BZlmid85z) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [VOICENOTE \(EP\)](https://open.spotify.com/album/1UG3wqX23dJYi9cCFyfdxL) | 2:29 | 2022-07-28 | 2022-08-09 |
@@ -135,6 +135,7 @@
 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 | 2022-09-09 |  |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 |  |
 | [Prophesy](https://open.spotify.com/track/1OdzPLdObHnYvixgViXwtS) | [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [Apollo](https://open.spotify.com/album/0reda2xhxKY247dKfTn9Wy) | 2:30 | 2022-10-13 | 2022-10-18 |
+| [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-18 |  |
 | [Rise](https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Rise](https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU) | 3:00 | 2022-07-28 | 2022-08-26 |
 | [Ronaldo](https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ronaldo](https://open.spotify.com/album/60URysVADvw9jbvTJypX2N) | 2:49 | 2022-06-08 | 2022-08-09 |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-21 |  |

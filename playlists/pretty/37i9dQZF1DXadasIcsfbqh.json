@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Jessie James Decker",
-  "num_followers": 105250,
+  "num_followers": 105303,
   "original_name": "PopCo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGViNTY3NWZiOTQ1NTlmYzJhMjMyMzUxYzM1MjM3YjNk",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDY3ZjM5YWY3YWE0NDVlM2FkMDZhZTk4MmQ2NTdkNmFl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -519,22 +519,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
       },
       "artists": [
         {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+      "duration_ms": 206493,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -555,34 +551,38 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "HEARTFIRST",
-        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 187016,
-      "name": "HEARTFIRST",
-      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "I Wonder",
-        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+        "name": "Dancin' In The Country",
+        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 206493,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
+      "duration_ms": 179645,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Dancin' In The Country",
-        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 179645,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Nothing To Do Town",
-        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 160706,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Russell Dickerson",
         "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 188960,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Nothing To Do Town",
+        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 160706,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lost My Heartbreak",
-        "url": "https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4"
-      },
-      "artists": [
-        {
-          "name": "David J",
-          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "Lost My Heartbreak",
-      "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "I Don't Go Back",
         "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 200573,
       "name": "I Don't Go Back",
       "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Lost My Heartbreak",
+        "url": "https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "Lost My Heartbreak",
+      "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Sunday Drive",
-        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Leave You Alone",
         "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 214238,
       "name": "Leave You Alone",
       "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1487,22 +1487,6 @@
       "duration_ms": 191087,
       "name": "Paying For It",
       "url": "https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Ell",
-          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Right On Time",
-      "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Y'all Life (feat. Ciara)",
         "url": "https://open.spotify.com/album/68lDrqwjVOebqh6f580Eac"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Remember Her Name",
-        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Stop Coming Over",
         "url": "https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 138818,
       "name": "Stop Coming Over",
       "url": "https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Remember Her Name",
+        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
     },
     {
       "added_at": "2022-11-18 05:00:00",

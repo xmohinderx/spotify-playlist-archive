@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44880,
+  "num_followers": 44881,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgyNDU2NCwwMDAwMDAwMDcxNjQ1ZDk2NTlkMzU2Y2YyNTUyYTFjMjE4YWUwZWM3",
+  "snapshot_id": "MTY2NjgyNDU2NCwwMDAwMDAwMDE2ZmZhZmRiNzVkMDVhOGY0ODdjNGJhZmYxYjNjMTAy",
   "tracks": [
     {
       "added_at": "2022-09-13 13:20:57",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
-      "added_at": "2022-11-27 01:05:38",
+      "added_at": "2022-11-28 00:59:33",
       "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
     },
     {
-      "added_at": "2022-11-27 01:05:38",
+      "added_at": "2022-11-28 00:59:33",
       "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD"
     },
     {
+      "added_at": "2022-11-28 00:59:33",
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 170481,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
+    },
+    {
       "added_at": "2022-09-13 13:20:57",
       "album": {
         "name": "Na Na Na",
@@ -811,22 +827,6 @@
       "duration_ms": 138626,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
-    },
-    {
-      "added_at": "2022-11-27 01:05:38",
-      "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 170481,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
     },
     {
       "added_at": "2022-09-13 13:20:57",

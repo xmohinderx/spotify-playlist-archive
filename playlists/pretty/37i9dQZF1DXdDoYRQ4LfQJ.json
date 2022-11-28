@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Marca Registrada & Luis R Conriquez",
-  "num_followers": 124097,
+  "num_followers": 124312,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMxMzU2MywwMDAwMDAwMDFiY2E5OWJhZGM3YzJmNzA4YmNmNTM4ZDRkYmE0OTA4",
+  "snapshot_id": "MTY2OTMxMzU2MywwMDAwMDAwMGFiZmMwM2RmNDQ0NWRjYTdlNzhkNWYwODVmOTQ1OGM3",
   "tracks": [
     {
       "added_at": "2022-11-03 19:54:40",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
-      "added_at": "2022-11-27 01:41:08",
+      "added_at": "2022-11-28 01:43:23",
       "album": {
         "name": "Chrysler 300",
         "url": "https://open.spotify.com/album/3k43dLRyRy4p1ull0bDUem"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6z9Ef3SnDxISkvLuPVDyju"
     },
     {
-      "added_at": "2022-11-27 01:41:08",
+      "added_at": "2022-11-28 01:43:23",
       "album": {
         "name": "Corridos B\u00e9licos, Vol. 3",
         "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
-      "added_at": "2022-11-27 01:41:08",
+      "added_at": "2022-11-28 01:43:23",
       "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
@@ -207,38 +207,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
-    },
-    {
-      "added_at": "2022-11-27 01:41:08",
-      "album": {
-        "name": "Sin Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Sin Opci\u00f3n",
-      "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
@@ -257,6 +225,38 @@
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
+      "added_at": "2022-11-28 01:43:23",
+      "album": {
+        "name": "Sin Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Sin Opci\u00f3n",
+      "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
       "added_at": "2022-11-03 19:54:40",
       "album": {
         "name": "En El Radio Un Cochinero",
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
-      "added_at": "2022-11-27 01:41:08",
+      "added_at": "2022-11-28 01:43:23",
       "album": {
         "name": "De Buen Callo (En Vivo)",
         "url": "https://open.spotify.com/album/3E3XHq0fQoQ5y4FtjPOzXl"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
-      "added_at": "2022-11-27 01:41:08",
+      "added_at": "2022-11-28 01:43:23",
       "album": {
         "name": "Placas De Papel",
         "url": "https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m"
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Denver Ruleteamos",
-        "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Denver Ruleteamos",
-      "url": "https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "Pacas Verdes (feat. Ovi)",
         "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 170925,
       "name": "Pacas Verdes",
       "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "Denver Ruleteamos",
+        "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Denver Ruleteamos",
+      "url": "https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Andamos Recio",
-        "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Andamos Recio",
-      "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "Siempre Clave",
         "url": "https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 194353,
       "name": "Siempre Clave",
       "url": "https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "Andamos Recio",
+        "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Andamos Recio",
+      "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 168425,
-      "name": "En El Camino",
-      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 194715,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 168425,
+      "name": "En El Camino",
+      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "El Monstro 7",
-      "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "Jalo y Exhalo",
         "url": "https://open.spotify.com/album/555L1PT7iC06mQEl8I2vjZ"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 153968,
       "name": "Jalo y Exhalo",
       "url": "https://open.spotify.com/track/5STfIC4lCW6Q3jYbr6L77n"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "El Monstro 7",
+      "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
     },
     {
       "added_at": "2022-11-03 19:54:40",

@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-187 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+188 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [kyoto calling](https://open.spotify.com/track/3Bepjm4vgBBfbLzS0KBTlt) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [kyoto calling](https://open.spotify.com/album/0MWZAefCAhCIkpwtZFsBYv) | 1:58 | 2022-04-08 | 2022-04-22 |
 | [Last Chance](https://open.spotify.com/track/00hvIih24hny87nA7TVO4z) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:01 | 2022-04-08 |  |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-08 |  |
-| [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 |  |
+| [lemon](https://open.spotify.com/track/3Ca0cl4Qs3IhEBJpjVf53x) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [old fruits](https://open.spotify.com/album/3ksNu0rBR7M7nPfsUTxyQA) | 1:54 | 2022-07-08 |  |
+| [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 | 2022-11-28 |
 | [Lettin' Up](https://open.spotify.com/track/0Xwcj8iBawlYwg53Fbu6BE) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [Lettin' Up](https://open.spotify.com/album/1bnlspm7vBj7MbIYuwgy2q) | 4:11 | 2022-04-08 | 2022-04-22 |
 | [Life Rent](https://open.spotify.com/track/7D4RkW53rmZIRnFKhBdaF3) | [BATNAM](https://open.spotify.com/artist/2zW3yK70VmT02XYabNI56m) | [Life Rent](https://open.spotify.com/album/0TcQceIRdrm8BvmhHQDCTS) | 2:01 | 2022-04-08 |  |
 | [Load Game \(Stardew Valley\)](https://open.spotify.com/track/35C8hj4I6JNY2nYbTrFrrc) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Load Game \(Stardew Valley\)](https://open.spotify.com/album/6amw5ydhWMZJ68Hnw5CmNd) | 2:27 | 2022-05-13 |  |

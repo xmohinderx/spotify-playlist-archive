@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2021\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,024 likes - 62 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,033 likes - 62 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 17 | [Blue Macaw](https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Blue Macaw](https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU) | 4:34 |
 | 18 | [Just Wrong](https://open.spotify.com/track/58LIZF789jf2itvFjYnRQS) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 4:44 |
 | 19 | [City Dreams](https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Phøn](https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH), [Javier Santiago](https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [City Dreams](https://open.spotify.com/album/6FtVuIjXMLrskjf3xZfCMv) | 4:58 |
-| 20 | [Not So Modern Times](https://open.spotify.com/track/4AiRfllz5Lx7A6gy9H0ezT) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Not So Modern Times](https://open.spotify.com/album/1qkX8T3LTk8BBiSCNPvWLj) | 3:32 |
+| 20 | [Not So Modern Times](https://open.spotify.com/track/5e4mzh6o5LPqy19A6vGB4w) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:32 |
 | 21 | [Impetu](https://open.spotify.com/track/0MJWv8aC7hOePdVyJfPWOD) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Second Lives](https://open.spotify.com/album/6FBMzZNu3W5Ici6fDp7zDt) | 5:16 |
 | 22 | [Another Land](https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/7m0f9210yYIhCKDTf9FwnS) | 9:18 |
 | 23 | [How Much A Dollar Cost \- Live](https://open.spotify.com/track/6bXpRiUtGoBG2T4R7nfVXq) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [R+R=Now Live](https://open.spotify.com/album/5tKVgcTumS8Nz7xSdeWnCv) | 4:07 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 61 | [Dumb People](https://open.spotify.com/track/2IxW3yFjt06I0g1tTLqBgD) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Travels in a Confined Space](https://open.spotify.com/album/5cFixhDPlvQ6IFX1XKyDZ2) | 2:56 |
 | 62 | [Nascentia Suite: All Up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/track/4HgeqSM6txLTsaneFrfDNU) | [Steve Slagle](https://open.spotify.com/artist/4VzhvQxwHNiqdCnUHZsprs), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Clark Gayton](https://open.spotify.com/artist/4pNVrj94ZiFangbDh50OlI) | [Nascentia Suite: All up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/album/7N21V8876vqUT8vmlD8SdL) | 8:14 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDczMzk2ZTY0MTExZjk5YTBjMWNlYjA1NGE5ZmZmNDcx`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDFlYTYxODkxYWRlZmIwNTFhY2EyNDI3ZWFhMDFhNTY0`

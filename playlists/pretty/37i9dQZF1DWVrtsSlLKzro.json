@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 532472,
+  "num_followers": 532926,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGM4YTQyNmFhMzI0OWEwNGU4ZmQ1YjA0MDgyN2Q1Zjcz",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDBjNGM4OGI3NWExODJjNGRlMTlmZjM4MTI5ZWNlMThk",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0"
     },
     {
-      "added_at": "2022-11-27 01:09:28",
+      "added_at": "2022-11-28 01:05:22",
       "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7"
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/1UtRBq2n0IlQNA1WI3axWX"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Capricorn Sun",
         "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 207840,
       "name": "Anxious Mind",
       "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/1UtRBq2n0IlQNA1WI3axWX"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "My Feelings",
-        "url": "https://open.spotify.com/album/4Bp7INayLmfQyNDDsmTNM3"
-      },
-      "artists": [
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "My Feelings",
-      "url": "https://open.spotify.com/track/0QnICpnSkCXY4d4zfYA2bB"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/7ghIKFtH1hzdB3dLXgRcOf"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 228705,
       "name": "Broken",
       "url": "https://open.spotify.com/track/2yg53XBaQDtIk6hYT2VFSD"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "My Feelings",
+        "url": "https://open.spotify.com/album/4Bp7INayLmfQyNDDsmTNM3"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "My Feelings",
+      "url": "https://open.spotify.com/track/0QnICpnSkCXY4d4zfYA2bB"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "I Hope That It Hurts",
-        "url": "https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 160214,
-      "name": "I Hope That It Hurts",
-      "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Should Have Seen It Coming",
         "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 238072,
       "name": "Should Have Seen It Coming",
       "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "I Hope That It Hurts",
+        "url": "https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 160214,
+      "name": "I Hope That It Hurts",
+      "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1413,26 +1413,6 @@
       "url": "https://open.spotify.com/track/6RjDvJCnxjAOOEQ5TiqKLU"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "trilogy remixes",
-        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "blue - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "To Last",
@@ -1451,22 +1431,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
+        "name": "trilogy remixes",
+        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
       },
       "artists": [
         {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         },
         {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
+      "duration_ms": 202666,
+      "name": "blue - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1491,18 +1471,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Digital Dreamscape (Deluxe)",
-        "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
       },
       "artists": [
         {
-          "name": "ayokay",
-          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
         }
       ],
-      "duration_ms": 199407,
-      "name": "Right For You",
-      "url": "https://open.spotify.com/track/0HKumeK6is7Q970OOCrGPc"
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 237133,
       "name": "Good Together",
       "url": "https://open.spotify.com/track/0HNCtRy85eByDaQI2K92Xn"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Digital Dreamscape (Deluxe)",
+        "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
+      },
+      "artists": [
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "duration_ms": 199407,
+      "name": "Right For You",
+      "url": "https://open.spotify.com/track/0HKumeK6is7Q970OOCrGPc"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Other Side of Love",
-        "url": "https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU"
-      },
-      "artists": [
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 222425,
-      "name": "Other Side of Love",
-      "url": "https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Fear Of Dying",
         "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
       },
@@ -1795,6 +1779,38 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Other Side of Love",
+        "url": "https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 222425,
+      "name": "Other Side of Love",
+      "url": "https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/3MUSaPmwfJ2ourwzUwcuDA"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 224865,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/0KMLrTIhAcMfd8qsCbPXrM"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "First Place",
         "url": "https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 193655,
       "name": "First Place",
       "url": "https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Where Did You Go",
-        "url": "https://open.spotify.com/album/3MUSaPmwfJ2ourwzUwcuDA"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 224865,
-      "name": "Where Did You Go",
-      "url": "https://open.spotify.com/track/0KMLrTIhAcMfd8qsCbPXrM"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2055,26 +2055,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "to hell with it (Remixes)",
         "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
       },
@@ -2091,6 +2071,26 @@
       "duration_ms": 175780,
       "name": "Noticed I cried - Flume Remix",
       "url": "https://open.spotify.com/track/2sA3V6IQVkdO8FhWh7ZCMN"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Lonely Dulcimer / In Effect",
-        "url": "https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 193741,
-      "name": "Lonely Dulcimer",
-      "url": "https://open.spotify.com/track/5vY3kwXfrDxNu8XzsbMhZi"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 280125,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/5j1Hz9qgKAYdMSlD592Vks"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Lonely Dulcimer / In Effect",
+        "url": "https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 193741,
+      "name": "Lonely Dulcimer",
+      "url": "https://open.spotify.com/track/5vY3kwXfrDxNu8XzsbMhZi"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2659,26 +2659,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Break The Same",
-        "url": "https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "MATTN",
-          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Break The Same",
-      "url": "https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Somehow We Lost It All",
         "url": "https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4"
       },
@@ -2699,6 +2679,26 @@
       "duration_ms": 179500,
       "name": "Somehow We Lost It All",
       "url": "https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Break The Same",
+        "url": "https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Break The Same",
+      "url": "https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ"
     },
     {
       "added_at": "2022-10-28 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25072,
+  "num_followers": 25085,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDExYjQxZGRjMTY1MGYxMmVlOGQyMjZiMTU4M2E1MzMx",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMGJlMmFmYjY5ZjM3MjdlNDU2NjEzNTVlYjhlMzAyYjM4",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Fruit de ma r\u00e9cente nuit blanche",
-        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
-      },
-      "artists": [
-        {
-          "name": "Dany B\u00e9dar",
-          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Faire la paix avec l'amour",
-      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Une femme avec toi - Single",
         "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 263520,
       "name": "Une femme avec toi",
       "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Fruit de ma r\u00e9cente nuit blanche",
+        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
+      },
+      "artists": [
+        {
+          "name": "Dany B\u00e9dar",
+          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Faire la paix avec l'amour",
+      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Julie Masse",
-        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
-      },
-      "artists": [
-        {
-          "name": "Julie Masse",
-          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "C'est z\u00e9ro",
-      "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Parlez-moi de lui - Single",
         "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 200760,
       "name": "Parlez-moi de lui",
       "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Julie Masse",
+        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
+      },
+      "artists": [
+        {
+          "name": "Julie Masse",
+          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "C'est z\u00e9ro",
+      "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Un trou dans les nuages",
-        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
-      },
-      "artists": [
-        {
-          "name": "Michel Rivard",
-          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "Je voudrais voir la mer",
-      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Snob",
         "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 328706,
       "name": "Seul au combat",
       "url": "https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Un trou dans les nuages",
+        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
+      },
+      "artists": [
+        {
+          "name": "Michel Rivard",
+          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "Je voudrais voir la mer",
+      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
-      },
-      "artists": [
-        {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "La berceuse du petit diable",
-      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Volume un",
         "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 204493,
       "name": "Je reviendrai \u00e0 montr\u00e9al",
       "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "La berceuse du petit diable",
+      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
     },
     {
       "added_at": "2020-04-07 15:18:18",

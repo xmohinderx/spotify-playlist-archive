@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,657 likes - 70 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,771 likes - 70 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 22 | [Earthmover](https://open.spotify.com/track/77yGZRjuWfSzbDT0ROSSUG) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 11:28 |
 | 23 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
 | 24 | [I'm Going to Do It](https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 6:16 |
-| 25 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
-| 26 | [Shoulders](https://open.spotify.com/track/4At9QhnhKaNgP51kbAmk77) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:26 |
+| 25 | [Shoulders](https://open.spotify.com/track/4At9QhnhKaNgP51kbAmk77) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:26 |
+| 26 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
 | 27 | [The Dead Flag Blues](https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 16:27 |
 | 28 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 |
 | 29 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 51 | [I filled my Lungs with the Necessary Air, and yelled! \- Ben Lukas Boysen Rework](https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Vale Reworked](https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz) | 7:17 |
 | 52 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
 | 53 | [If I Let Him In](https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 8:25 |
-| 54 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 |
-| 55 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
+| 54 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
+| 55 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 |
 | 56 | [Snowa](https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2) | [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [Snowa](https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61) | 4:20 |
 | 57 | [As Bright as the Night](https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 4:56 |
 | 58 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 69 | [As I Came Through the Desert Thus It Was](https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Permanently Midnight](https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b) | 5:15 |
 | 70 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 
-Snapshot ID: `MTY2ODAxMzAxOSwwMDAwMDAwMGY1NDExN2YxZWQyMTg3NWI0NmJiMjY5Y2FmYzkxNTVk`
+Snapshot ID: `MTY2ODAxMzAxOSwwMDAwMDAwMDFjYTIxMTc3YjlmODgzYjliOWE2ZTVlZDNlYWM5YTc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,373 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,417 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 27 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 28 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 |
 | 29 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
-| 30 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 |
-| 31 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
+| 30 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
+| 31 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 |
 | 32 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
 | 33 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 |
 | 34 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 44 | [About The Music](https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [Snatch! OFF 071](https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg) | 3:06 |
 | 45 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 |
 | 46 | [euphoric.](https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '22](https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q) | 6:37 |
-| 47 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 |
-| 48 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
-| 49 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
-| 50 | [Take Me Back](https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq) | 3:17 |
+| 47 | [The Truth](https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i) | 6:24 |
+| 48 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 |
+| 49 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
+| 50 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGQzNDMxMDQ2MjE2YWUxNDRmZTk4MTY2ZGI4MDE4OWRl`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDZmYmU1NGYxNjA3MWE0YTlkNDU0MjgwMjI0YmQ1NDIx`

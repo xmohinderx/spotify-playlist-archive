@@ -4,7 +4,7 @@
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/65vGzS1ON2m6lDNe2X9Aua)
+60 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/65vGzS1ON2m6lDNe2X9Aua)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Mama Kin](https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:27 | 2022-09-17 |  |
 | [Nine Lives](https://open.spotify.com/track/7l7xKcFmFRInQizauAJfyt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 4:01 | 2022-09-17 |  |
 | [No More No More](https://open.spotify.com/track/1oN1BiBoHTmiXRfuSgDMRd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-09-20 |  |
+| [One Way Street](https://open.spotify.com/track/3ZqnF9T5vtvIPqHmloNb0o) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 7:00 | 2022-11-27 |  |
 | [Pink](https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:55 | 2022-09-17 |  |
 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2022-09-17 |  |
 | [Reefer Head Woman](https://open.spotify.com/track/58wkIWSCm3QXa5xlND4gl9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 5:37 | 2022-09-17 | 2022-11-21 |
@@ -53,7 +54,7 @@
 | [Same Old Song and Dance](https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq) | 3:53 | 2022-09-17 |  |
 | [Shut Up And Dance](https://open.spotify.com/track/3BbWOytu8sLDD2pgU5z5xz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:55 | 2022-09-17 |  |
 | [Sick As A Dog](https://open.spotify.com/track/2R1HDqY6bSdb7G5mYbcItD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:11 | 2022-09-17 |  |
-| [Somebody](https://open.spotify.com/track/5fcoCOuTYvAm1ap7d1zfB1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 4:35 | 2022-09-17 |  |
+| [Somebody](https://open.spotify.com/track/5fcoCOuTYvAm1ap7d1zfB1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 4:35 | 2022-09-17 | 2022-11-28 |
 | [Stop Messin' Around](https://open.spotify.com/track/0D156dFOpliyPmemyptIzJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Honkin' On Bobo](https://open.spotify.com/album/2BAMyErzVjBJ7kvQWBJmbT) | 4:29 | 2022-09-17 | 2022-10-13 |
 | [Sunshine](https://open.spotify.com/track/4tQnVmMQBfOPax9jZeiwvD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 3:37 | 2022-09-17 |  |
 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-09-17 |  |

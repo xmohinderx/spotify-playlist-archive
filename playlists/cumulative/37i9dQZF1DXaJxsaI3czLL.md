@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-109 songs - 7 hr 53 min - not published yet
+110 songs - 7 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [眠れぬ夜は君のせい](https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [KISS IN THE SKY](https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD) | 5:22 | 2022-11-23 |  |
 | [眠れぬ羊 \- with TENDRE](https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 3:53 | 2022-10-25 | 2022-11-09 |
 | [知らない世界も見飽きた](https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt) | [ikire](https://open.spotify.com/artist/4gKZDjiQ4rqit1cH2upaJc) | [知らない世界も見飽きた](https://open.spotify.com/album/4g1wD85mZX0n8RIz1th8NL) | 2:56 | 2022-10-20 |  |
-| [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 | 2022-10-20 |  |
+| [糸](https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [命の別名](https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I) | 5:07 | 2022-11-27 |  |
+| [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 | 2022-10-20 | 2022-11-28 |
 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 | 2022-10-20 |  |
 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 | 2022-10-20 |  |
 | [街路樹](https://open.spotify.com/track/1LvQW7xwIYdH2eCH028AGn) | [Tsuyoshi Nariyama](https://open.spotify.com/artist/2n0myr3J8YDZCPCfzoSE7Y) | [novelette](https://open.spotify.com/album/4azWqKZBnj24esWCVacaqk) | 5:01 | 2022-10-20 |  |

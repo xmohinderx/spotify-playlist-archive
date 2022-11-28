@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > Time to rave again.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,097 likes - 70 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,227 likes - 70 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 29 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 |
 | 30 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 |
 | 31 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
-| 32 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
+| 32 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
 | 33 | [Plato](https://open.spotify.com/track/5eQhX9iv6jDuzaGi6N4z0V) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Plato](https://open.spotify.com/album/4fsQTws2mzQ0p6IemZb0oU) | 4:25 |
-| 34 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
+| 34 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
 | 35 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 |
 | 36 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
 | 37 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 57 | [I Believe in Bass](https://open.spotify.com/track/0dUCqSb59SrJm7I2sl8HSY) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [I Believe in Bass](https://open.spotify.com/album/2lPcnA4yxpm0ZxWqtidR6T) | 7:10 |
 | 58 | [VIBIN](https://open.spotify.com/track/3rbG1qQlzkijc5tfGvjNJC) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [VIBIN](https://open.spotify.com/album/38ERQWZ0KIhlE0VFYJ39Xs) | 3:46 |
 | 59 | [Loving You Like Always \- Sainte Vie Remix](https://open.spotify.com/track/4wp5DGGbvBcalN7rq8Dn2d) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Loving You Like Always \(Sainte Vie Remix\)](https://open.spotify.com/album/4qsf7fsxmloPBkIKTQxmJ0) | 6:52 |
-| 60 | [Other Side](https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Sensitivity Spirals](https://open.spotify.com/album/0WN8HExI3A6hQCmFEOlXsx) | 6:56 |
-| 61 | [Der Mond \- 1980 Version](https://open.spotify.com/track/0mTq8qD7jCebFoN5HP7NqY) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Classic Gold Remixed \(Pt.2\)](https://open.spotify.com/album/6CcQYWYQnnG9oYutc0EP2y) | 5:24 |
+| 60 | [Der Mond \- 1980 Version](https://open.spotify.com/track/0mTq8qD7jCebFoN5HP7NqY) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Classic Gold Remixed \(Pt.2\)](https://open.spotify.com/album/6CcQYWYQnnG9oYutc0EP2y) | 5:24 |
+| 61 | [Other Side](https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Sensitivity Spirals](https://open.spotify.com/album/0WN8HExI3A6hQCmFEOlXsx) | 6:56 |
 | 62 | [Is This Our Earth?](https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Is This Our Earth?](https://open.spotify.com/album/316bE5c2saBR5h40GBARwm) | 3:41 |
 | 63 | [All The Little Things](https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [All The Little Things EP](https://open.spotify.com/album/08VBmpMr5rhtIWx2oI4Pc5) | 6:56 |
-| 64 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
-| 65 | [Awake](https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Awake](https://open.spotify.com/album/4lNOFm7ee2KRebEphh7tRH) | 3:29 |
+| 64 | [Awake](https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Awake](https://open.spotify.com/album/4lNOFm7ee2KRebEphh7tRH) | 3:29 |
+| 65 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
 | 66 | [Love Is What](https://open.spotify.com/track/0L7tuyMZF1V61SrXL1tvrI) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR) | [Love Is What](https://open.spotify.com/album/7IcQpBQ9z1iIlfCfTWBbOn) | 6:07 |
 | 67 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 |
 | 68 | [Bodycheck](https://open.spotify.com/track/0yuhIiOMzFAPJzb54Ci0sd) | [BOHO](https://open.spotify.com/artist/241pFB691BbwHqZJgBQSr5), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Bianka Banks](https://open.spotify.com/artist/2fL8FcTGTOjL5CvP153VGN) | [Remote](https://open.spotify.com/album/2qQGlvlNvFuMtHIbFctvVv) | 5:23 |
 | 69 | [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 |
 | 70 | [Move](https://open.spotify.com/track/0fouEhRoo3FApnQPIXKgOY) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc) | 5:25 |
 
-Snapshot ID: `MTY2OTM4NjAzMywwMDAwMDAwMDNjMjJiMjI3M2M2ZDIzYTY3MmRjY2I2ZjEzM2RlZDdk`
+Snapshot ID: `MTY2OTM4NjAzMywwMDAwMDAwMDRjZjc3ZDk4NWJiYjgxZmJjMDE0ZjdiYzlmZmEyYWY2`

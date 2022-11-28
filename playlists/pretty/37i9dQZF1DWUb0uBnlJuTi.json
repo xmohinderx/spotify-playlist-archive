@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 224639,
+  "num_followers": 224876,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDQ4MDk5ZTAyODg3Y2M1NzRiZDA4NGQxZmZiMzM4ZDdh",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGJjMzViNzA1NTY0MjcwNDhlNzA2MjI5OWY0YWZmMDE4",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Maria Fuma\u00e7a (Remasterizado)",
+        "url": "https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG"
+      },
+      "artists": [
+        {
+          "name": "Banda Black Rio",
+          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "Mr. Funky samba",
+      "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Third Wave Mischief",
@@ -575,22 +591,6 @@
       "duration_ms": 300513,
       "name": "Third Wave Mischief",
       "url": "https://open.spotify.com/track/5VX9c8VyCxUsSHILhUQSe5"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Maria Fuma\u00e7a (Remasterizado)",
-        "url": "https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG"
-      },
-      "artists": [
-        {
-          "name": "Banda Black Rio",
-          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "Mr. Funky samba",
-      "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Mysterious Traveller",
+        "url": "https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p"
+      },
+      "artists": [
+        {
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+        }
+      ],
+      "duration_ms": 500866,
+      "name": "Cucumber Slumber",
+      "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
+    },
+    {
       "added_at": "2021-08-02 13:59:54",
       "album": {
         "name": "Spare Tire",
@@ -731,22 +747,6 @@
       "duration_ms": 168208,
       "name": "Spare Tire",
       "url": "https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Mysterious Traveller",
-        "url": "https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p"
-      },
-      "artists": [
-        {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
-        }
-      ],
-      "duration_ms": 500866,
-      "name": "Cucumber Slumber",
-      "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "The Best of the Light of the World",
+        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
+      },
+      "artists": [
+        {
+          "name": "Light Of The World",
+          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "London Town",
+      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Funky Snakefoot",
         "url": "https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 230000,
       "name": "Squid Exit Music - 7\" radio edit",
       "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "The Best of the Light of the World",
-        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
-      },
-      "artists": [
-        {
-          "name": "Light Of The World",
-          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "London Town",
-      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -891,54 +891,6 @@
       "duration_ms": 299800,
       "name": "Blues for Ben",
       "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Toots",
-        "url": "https://open.spotify.com/album/0d6HlR5awomDFeLNPqrhXw"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Tommy Lehman",
-          "url": "https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h"
-        },
-        {
-          "name": "Andru Dennis",
-          "url": "https://open.spotify.com/artist/4iTXPirCc07JAdX51EFtkl"
-        },
-        {
-          "name": "Damon the Soulful Samurai",
-          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
-        },
-        {
-          "name": "Eric Levine",
-          "url": "https://open.spotify.com/artist/5j1oEYcsCN339uJJ6tszXa"
-        },
-        {
-          "name": "Holbrook Riles III",
-          "url": "https://open.spotify.com/artist/1jUGqKulBY2YwRWWwH55XY"
-        },
-        {
-          "name": "Herbie Hunkele Horns",
-          "url": "https://open.spotify.com/artist/4z2X4PcOcTMOza5CLBdmrO"
-        },
-        {
-          "name": "John James Martin",
-          "url": "https://open.spotify.com/artist/0TXNc8irsy7gRvK0ZgpiIh"
-        }
-      ],
-      "duration_ms": 319497,
-      "name": "Toots",
-      "url": "https://open.spotify.com/track/35Pq0buGI8yDZJvUiL6dan"
     },
     {
       "added_at": "2021-11-26 05:01:00",
@@ -1001,6 +953,54 @@
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Toots",
+        "url": "https://open.spotify.com/album/0d6HlR5awomDFeLNPqrhXw"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Tommy Lehman",
+          "url": "https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h"
+        },
+        {
+          "name": "Andru Dennis",
+          "url": "https://open.spotify.com/artist/4iTXPirCc07JAdX51EFtkl"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        },
+        {
+          "name": "Eric Levine",
+          "url": "https://open.spotify.com/artist/5j1oEYcsCN339uJJ6tszXa"
+        },
+        {
+          "name": "Holbrook Riles III",
+          "url": "https://open.spotify.com/artist/1jUGqKulBY2YwRWWwH55XY"
+        },
+        {
+          "name": "Herbie Hunkele Horns",
+          "url": "https://open.spotify.com/artist/4z2X4PcOcTMOza5CLBdmrO"
+        },
+        {
+          "name": "John James Martin",
+          "url": "https://open.spotify.com/artist/0TXNc8irsy7gRvK0ZgpiIh"
+        }
+      ],
+      "duration_ms": 319497,
+      "name": "Toots",
+      "url": "https://open.spotify.com/track/35Pq0buGI8yDZJvUiL6dan"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Long Live the King (Instrumental)",
@@ -1033,38 +1033,6 @@
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Oozing",
-        "url": "https://open.spotify.com/album/0JV9K93YG2HRIyZNatCCnf"
-      },
-      "artists": [
-        {
-          "name": "Amir Bresler",
-          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
-        },
-        {
-          "name": "Nomok",
-          "url": "https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3"
-        },
-        {
-          "name": "Nitai Hershkovits",
-          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
-        },
-        {
-          "name": "Uzi Ramirez",
-          "url": "https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm"
-        },
-        {
-          "name": "Ofri Nehemya",
-          "url": "https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX"
-        }
-      ],
-      "duration_ms": 280795,
-      "name": "Oozing",
-      "url": "https://open.spotify.com/track/6xKoMynnenKx4iYNYWohj9"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Breezin'",
@@ -1095,6 +1063,38 @@
       "duration_ms": 290080,
       "name": "Pull Your Pants Up",
       "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Oozing",
+        "url": "https://open.spotify.com/album/0JV9K93YG2HRIyZNatCCnf"
+      },
+      "artists": [
+        {
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
+        },
+        {
+          "name": "Nomok",
+          "url": "https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Uzi Ramirez",
+          "url": "https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm"
+        },
+        {
+          "name": "Ofri Nehemya",
+          "url": "https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX"
+        }
+      ],
+      "duration_ms": 280795,
+      "name": "Oozing",
+      "url": "https://open.spotify.com/track/6xKoMynnenKx4iYNYWohj9"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "duration_ms": 192999,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
+    },
+    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "MXC.MMBL",
@@ -1157,22 +1173,6 @@
       "url": "https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        }
-      ],
-      "duration_ms": 192999,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Dig My Feeling",
@@ -1189,10 +1189,10 @@
       "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2021-06-04 04:01:00",
       "album": {
-        "name": "London 1969",
-        "url": "https://open.spotify.com/album/3YqvadIdZczYILvNKJN2IZ"
+        "name": "Be on the Lookout",
+        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 146010,
-      "name": "London 1969",
-      "url": "https://open.spotify.com/track/3nQvNXKbgLPcuZ3cLTZiJ7"
+      "duration_ms": 193516,
+      "name": "Be on the Lookout",
+      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1219,22 +1219,6 @@
       "duration_ms": 194226,
       "name": "Where's the Music",
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Looking Back / Paint It Black",
-        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 221247,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1285,6 +1269,22 @@
       "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
     },
     {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Looking Back / Paint It Black",
+        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 221247,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Pigna",
@@ -1333,10 +1333,10 @@
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
     },
     {
-      "added_at": "2021-06-04 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Be on the Lookout",
-        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
+        "name": "London 1969",
+        "url": "https://open.spotify.com/album/3YqvadIdZczYILvNKJN2IZ"
       },
       "artists": [
         {
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 193516,
-      "name": "Be on the Lookout",
-      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+      "duration_ms": 146010,
+      "name": "London 1969",
+      "url": "https://open.spotify.com/track/3nQvNXKbgLPcuZ3cLTZiJ7"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "A Town Called Earth",
-        "url": "https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny"
-      },
-      "artists": [
-        {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "Turnip's Big Move",
-      "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
-    },
-    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "The Positive and the Negative",
@@ -1443,6 +1427,22 @@
       "duration_ms": 287349,
       "name": "The Positive and the Negative",
       "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "A Town Called Earth",
+        "url": "https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny"
+      },
+      "artists": [
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "Turnip's Big Move",
+      "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
-      },
-      "artists": [
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Doin' Something",
@@ -1491,6 +1475,22 @@
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Andromeda Style Fuunk",
+        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Andromeda Style Fuunk",
+      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
       "added_at": "2021-07-09 04:01:00",

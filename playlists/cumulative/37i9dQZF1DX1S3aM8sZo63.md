@@ -4,7 +4,7 @@
 
 > ¡Ponte cursi con las canciones más románticas!
 
-122 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/1XWAqekPJjhiLXD9NnEqyS)
+123 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/1XWAqekPJjhiLXD9NnEqyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 | 2021-12-27 |  |
 | [Escondidos](https://open.spotify.com/track/6zTtNPcDqmpOOWmjQAVR6Z) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:11 | 2022-05-06 |  |
 | [Escondidos](https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2) | 3:11 | 2021-12-27 | 2022-07-29 |
-| [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 | 2022-05-06 |  |
+| [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 | 2022-05-06 | 2022-11-28 |
 | [Gracias Por Tu Amor](https://open.spotify.com/track/1uml73HXxRC9qB17dv5Mdf) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Gracias Por Tu Amor](https://open.spotify.com/album/6OmMFLane47vtqEAScpMkR) | 3:14 | 2021-12-27 | 2022-02-02 |
 | [Guárdame Esta Noche](https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 2:56 | 2021-12-27 | 2022-06-21 |
 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 | 2022-05-06 |  |
@@ -110,6 +110,7 @@
 | [Suerte He Tenido](https://open.spotify.com/track/6Cmma3eZSU5D9BhMuIlKaC) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP), [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Suerte He Tenido](https://open.spotify.com/album/13uRlfKliCNUGJ3i6JEzgG) | 3:15 | 2021-12-27 | 2022-05-06 |
 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 | 2021-12-27 |  |
 | [Sólo Tú](https://open.spotify.com/track/0qsalPjF8AzMdkxjnGXttQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Sólo Tú](https://open.spotify.com/album/3x37MdKulZX2v4YRGqbUX7) | 3:13 | 2021-12-27 | 2022-11-08 |
+| [Te Amo](https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq) | 3:13 | 2022-11-28 |  |
 | [Te Amo Y Te Amo](https://open.spotify.com/track/2rAp8JQuhCUwl3O1HNxrss) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Vida Sinaloense](https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l) | 3:57 | 2021-12-27 | 2022-06-18 |
 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 | 2022-05-06 |  |
 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 | 2021-12-27 |  |

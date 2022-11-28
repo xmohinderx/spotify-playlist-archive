@@ -4,7 +4,7 @@
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-43 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/6Rm1BBdhbjSJ1KueLRaHyt)
+44 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/6Rm1BBdhbjSJ1KueLRaHyt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [This I Love](https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 5:34 | 2022-09-17 |  |
 | [Used To Love Her](https://open.spotify.com/track/67q0QsfLcTa2SqhP2wQbia) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:12 | 2022-09-17 |  |
 | [Welcome To The Jungle](https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 4:32 | 2022-09-17 |  |
+| [Wild Horses \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/6duHxAfKPYnrvkjVBcBklR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 3:22 | 2022-11-27 |  |
 | [Yesterdays](https://open.spotify.com/track/11VGhd5i7deLL0YB0ayicY) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 3:16 | 2022-09-17 |  |
 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 | 2022-09-17 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite Anime songs, all in one playlist.",
-  "num_followers": 501637,
+  "num_followers": 502054,
   "original_name": "Anime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEwMTU4NiwwMDAwMDAwMGQ0MDIyY2U1NzAxMGY0ZjRjMjQxNGI4MDNkNjFlM2M5",
+  "snapshot_id": "MTY2OTEwMTU4NiwwMDAwMDAwMDhhYzljNWJlZmQzODEwZThlNTlmMjBhYmMyMWJjNmFj",
   "tracks": [
     {
       "added_at": "2022-11-22 07:19:46",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Where the Wind Blows",
-      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
         "name": "\u30b9\u30ab\u30fc",
         "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 259191,
       "name": "\u30b9\u30ab\u30fc",
       "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Where the Wind Blows",
+      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "HOLIDAYS IN THE SUN",
-        "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
-      },
-      "artists": [
-        {
-          "name": "YUI",
-          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "again",
-      "url": "https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
         "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
         "url": "https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 228960,
       "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
       "url": "https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
+        "name": "HOLIDAYS IN THE SUN",
+        "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
+      },
+      "artists": [
+        {
+          "name": "YUI",
+          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "again",
+      "url": "https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
+        "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
         "name": "Q.E.D",
         "url": "https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 224213,
       "name": "\u30dd\u30e9\u30ea\u30b9",
       "url": "https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
-        "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
-        "url": "https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI"
-      },
-      "artists": [
-        {
-          "name": "UNISON SQUARE GARDEN",
-          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
-      "url": "https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -751,6 +751,22 @@
       "duration_ms": 184766,
       "name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
       "url": "https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
+        "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
+        "url": "https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
+      "url": "https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -787,22 +803,6 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
         "name": "One Last Kiss",
         "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 252026,
       "name": "One Last Kiss",
       "url": "https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
-        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -851,22 +835,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7"
+        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
       },
       "artists": [
         {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        },
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 187266,
-      "name": "U",
-      "url": "https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6"
+      "duration_ms": 257799,
+      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -883,6 +863,26 @@
       "duration_ms": 215333,
       "name": "\u512a\u3057\u3044\u5f57\u661f",
       "url": "https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "U",
+      "url": "https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "duration_ms": 132295,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
         "name": "FLOW THE BEST \u301cSingle Collection\u301c",
         "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q"
+        "name": "Shout Baby",
+        "url": "https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf"
       },
       "artists": [
         {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 132295,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
+      "duration_ms": 265986,
+      "name": "Shout Baby",
+      "url": "https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "Shout Baby",
-        "url": "https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf"
+        "name": "\u6700\u679c\u3066",
+        "url": "https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
         }
       ],
-      "duration_ms": 265986,
-      "name": "Shout Baby",
-      "url": "https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh"
+      "duration_ms": 180319,
+      "name": "\u6700\u679c\u3066",
+      "url": "https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1143,22 +1159,6 @@
       "duration_ms": 269120,
       "name": "ANIMA",
       "url": "https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
-        "name": "\u6700\u679c\u3066",
-        "url": "https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC"
-      },
-      "artists": [
-        {
-          "name": "SennaRin",
-          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
-        }
-      ],
-      "duration_ms": 180319,
-      "name": "\u6700\u679c\u3066",
-      "url": "https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "BOOTLEG",
-        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "orion",
-      "url": "https://open.spotify.com/track/1bIZxrSkbxatnTo8ObcIxX"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
         "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
         "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 190188,
       "name": "edge of chainsaw",
       "url": "https://open.spotify.com/track/2fOPkvOguFiHA7CQgZg7N5"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "orion",
+      "url": "https://open.spotify.com/track/1bIZxrSkbxatnTo8ObcIxX"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "Koino Uta",
-        "url": "https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy"
+        "name": "\u7b2c\u30bc\u30ed\u611f",
+        "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
       },
       "artists": [
         {
-          "name": "Yunomi",
-          "url": "https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb"
-        },
-        {
-          "name": "Tsukasa Yuzaki",
-          "url": "https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 209898,
-      "name": "Koino Uta",
-      "url": "https://open.spotify.com/track/15St0qWPnH4xKflV39vk28"
+      "duration_ms": 287991,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "\u7b2c\u30bc\u30ed\u611f",
-        "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
+        "name": "Koino Uta",
+        "url": "https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "Yunomi",
+          "url": "https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb"
+        },
+        {
+          "name": "Tsukasa Yuzaki",
+          "url": "https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A"
         }
       ],
-      "duration_ms": 287991,
-      "name": "\u7b2c\u30bc\u30ed\u611f",
-      "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
+      "duration_ms": 209898,
+      "name": "Koino Uta",
+      "url": "https://open.spotify.com/track/15St0qWPnH4xKflV39vk28"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
+        "name": "Stuck on you",
+        "url": "https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h"
+      },
+      "artists": [
+        {
+          "name": "Nowlu",
+          "url": "https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Stuck on you",
+      "url": "https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
         "name": "from the edge",
         "url": "https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 278655,
       "name": "from the edge",
       "url": "https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
-        "name": "Stuck on you",
-        "url": "https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h"
-      },
-      "artists": [
-        {
-          "name": "Nowlu",
-          "url": "https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "Stuck on you",
-      "url": "https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "Today Is A Beautiful Day",
-        "url": "https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF"
       },
       "artists": [
         {
-          "name": "supercell",
-          "url": "https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG"
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 339573,
-      "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
-      "url": "https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa"
+      "duration_ms": 258532,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF"
+        "name": "Today Is A Beautiful Day",
+        "url": "https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7"
       },
       "artists": [
         {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+          "name": "supercell",
+          "url": "https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG"
         }
       ],
-      "duration_ms": 258532,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD"
+      "duration_ms": 339573,
+      "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?",
-        "url": "https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 266906,
-      "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?",
-      "url": "https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF"
+      "duration_ms": 355706,
+      "name": "KANATA HALUKA",
+      "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -2379,6 +2379,22 @@
       "duration_ms": 213333,
       "name": "Rightfully (TV Animation Goblin Slayer opening)",
       "url": "https://open.spotify.com/track/73tTDsjutmpFg31yIEvx8B"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?",
+        "url": "https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?",
+      "url": "https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -2403,22 +2419,6 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "Bloody Power Fame",
-        "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 238498,
-      "name": "Bloody Power Fame",
-      "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
         "name": "\u5931\u604b\u30bd\u30f3\u30b0\u6ca2\u5c71\u8074\u3044\u3066 \u6ce3\u3044\u3066\u3070\u304b\u308a\u306e\u79c1\u306f\u3082\u3046\u3002",
         "url": "https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt"
       },
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
+        "name": "Bloody Power Fame",
+        "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 238498,
+      "name": "Bloody Power Fame",
+      "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
         "name": "OVERSKY",
         "url": "https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss"
       },
@@ -2447,22 +2463,6 @@
       "duration_ms": 267506,
       "name": "Overfly",
       "url": "https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
-        "name": "Suzume (Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 355706,
-      "name": "KANATA HALUKA",
-      "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
+        "name": "Torch of Liberty",
+        "url": "https://open.spotify.com/album/0VFSyJsFrGdo3wbnswIjCy"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "duration_ms": 185166,
+      "name": "Torch of Liberty",
+      "url": "https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 261773,
       "name": "ninelie",
       "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
-        "name": "Torch of Liberty",
-        "url": "https://open.spotify.com/album/0VFSyJsFrGdo3wbnswIjCy"
-      },
-      "artists": [
-        {
-          "name": "KANA-BOON",
-          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
-        }
-      ],
-      "duration_ms": 185166,
-      "name": "Torch of Liberty",
-      "url": "https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -2759,6 +2759,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
         "name": "\u5883\u754c\u7dda",
         "url": "https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl"
       },
@@ -2807,22 +2823,6 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "PRIDE",
-        "url": "https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb"
-      },
-      "artists": [
-        {
-          "name": "Novelbright",
-          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "PRIDE",
-      "url": "https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
         "name": "ENDING THEME FROM TV SERIES \u201dOVERLORD IV\u201d",
         "url": "https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P"
       },
@@ -2855,6 +2855,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
+        "name": "\u98a8\u3092\u3042\u3064\u3081\u3066",
+        "url": "https://open.spotify.com/album/5FVFpm47aGm2xVmsxf7m0h"
+      },
+      "artists": [
+        {
+          "name": "Aqua Timez",
+          "url": "https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD"
+        }
+      ],
+      "duration_ms": 291613,
+      "name": "\u5343\u306e\u591c\u3092\u3053\u3048\u3066",
+      "url": "https://open.spotify.com/track/7IQD72qSPPBU2a21kp9fTT"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
         "name": "Jujutsu Kaisen (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
       },
@@ -2875,18 +2891,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "\u98a8\u3092\u3042\u3064\u3081\u3066",
-        "url": "https://open.spotify.com/album/5FVFpm47aGm2xVmsxf7m0h"
+        "name": "\u590f\u306e\u96ea",
+        "url": "https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj"
       },
       "artists": [
         {
-          "name": "Aqua Timez",
-          "url": "https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD"
+          "name": "krage",
+          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
         }
       ],
-      "duration_ms": 291613,
-      "name": "\u5343\u306e\u591c\u3092\u3053\u3048\u3066",
-      "url": "https://open.spotify.com/track/7IQD72qSPPBU2a21kp9fTT"
+      "duration_ms": 282399,
+      "name": "\u590f\u306e\u96ea",
+      "url": "https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -2903,22 +2919,6 @@
       "duration_ms": 232773,
       "name": "ROB THE FRONTIER",
       "url": "https://open.spotify.com/track/0vgQEQxb49LCKEH5Gg7E4z"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
-        "name": "\u590f\u306e\u96ea",
-        "url": "https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj"
-      },
-      "artists": [
-        {
-          "name": "krage",
-          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
-        }
-      ],
-      "duration_ms": 282399,
-      "name": "\u590f\u306e\u96ea",
-      "url": "https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "Resolution",
-        "url": "https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX"
-      },
-      "artists": [
-        {
-          "name": "Haruka Tomatsu",
-          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
-        }
-      ],
-      "duration_ms": 290233,
-      "name": "Resolution",
-      "url": "https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
         "name": "\u6211\u6b66\u8005\u7f85 (TV size)",
         "url": "https://open.spotify.com/album/0oPcNJfKvuBkb9fpg5UMxc"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 90000,
       "name": "\u6211\u6b66\u8005\u7f85 (TV size)",
       "url": "https://open.spotify.com/track/2o6d0rAC9BAyPmgXnbXx1h"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "duration_ms": 290233,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -3083,22 +3083,6 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "ALIVE (LycoReco Version)",
-        "url": "https://open.spotify.com/album/2wfi1Oar57Qp9wAm4pwSY4"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 166332,
-      "name": "ALIVE - LycoReco Version",
-      "url": "https://open.spotify.com/track/6d1bY43yAlhHwxJAuUYsll"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
         "name": "0 (zero)",
         "url": "https://open.spotify.com/album/491qebFWmSbWqvImPUdBsI"
       },
@@ -3111,6 +3095,22 @@
       "duration_ms": 217807,
       "name": "0 (zero)",
       "url": "https://open.spotify.com/track/3CYfCp9XAHc69wtCKTwMaj"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
+        "name": "ALIVE (LycoReco Version)",
+        "url": "https://open.spotify.com/album/2wfi1Oar57Qp9wAm4pwSY4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 166332,
+      "name": "ALIVE - LycoReco Version",
+      "url": "https://open.spotify.com/track/6d1bY43yAlhHwxJAuUYsll"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -3235,6 +3235,22 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
+        "name": "\u30df\u30ab\u30c5\u30ad\u306e\u822a\u6d77",
+        "url": "https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK"
+      },
+      "artists": [
+        {
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "\u5e73\u884c\u7dda",
+      "url": "https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79"
+    },
+    {
+      "added_at": "2022-11-22 07:19:46",
+      "album": {
         "name": "\u8a00\u3048\u306a\u3044",
         "url": "https://open.spotify.com/album/5ApBDaAa7sZWVDN1poztE3"
       },
@@ -3255,18 +3271,18 @@
     {
       "added_at": "2022-11-22 07:19:46",
       "album": {
-        "name": "\u30df\u30ab\u30c5\u30ad\u306e\u822a\u6d77",
-        "url": "https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK"
+        "name": "ULTRA FLASH",
+        "url": "https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES"
       },
       "artists": [
         {
-          "name": "Sayuri",
-          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
+          "name": "Konomi Suzuki",
+          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
         }
       ],
-      "duration_ms": 298760,
-      "name": "\u5e73\u884c\u7dda",
-      "url": "https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79"
+      "duration_ms": 243233,
+      "name": "REALIZE",
+      "url": "https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP"
     },
     {
       "added_at": "2022-11-22 07:19:46",
@@ -3283,22 +3299,6 @@
       "duration_ms": 224700,
       "name": "\u3059\u3079\u3066\u304c\u305d\u3053\u306b\u3042\u308a\u307e\u3059\u3088\u3046\u306b\u3002",
       "url": "https://open.spotify.com/track/6oxjUUnKOV1KR6R4oPhOkS"
-    },
-    {
-      "added_at": "2022-11-22 07:19:46",
-      "album": {
-        "name": "ULTRA FLASH",
-        "url": "https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES"
-      },
-      "artists": [
-        {
-          "name": "Konomi Suzuki",
-          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
-        }
-      ],
-      "duration_ms": 243233,
-      "name": "REALIZE",
-      "url": "https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP"
     },
     {
       "added_at": "2022-11-22 07:19:46",

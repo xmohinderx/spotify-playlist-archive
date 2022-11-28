@@ -1,12 +1,12 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 12985,
+  "num_followers": 13095,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczMzIwMCwwMDAwMDAwMGY0ZWIxNDJmOGZmZDYyZGI0Y2ZhYzEwNWVhYjlhNmE4",
+  "snapshot_id": "MTY2ODczMzIwMCwwMDAwMDAwMDA4MGQxNjY4NDFhODZhMTQ1NWEzOTJjNzIyOWJhZDJh",
   "tracks": [
     {
       "added_at": "2022-11-11 14:48:18",
@@ -279,30 +279,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "6 String Theory",
-        "url": "https://open.spotify.com/album/12KBkAV3rS7H2h8QIcbCy5"
-      },
-      "artists": [
-        {
-          "name": "Lee Ritenour's 6 String Theory",
-          "url": "https://open.spotify.com/artist/4kMQjLEnWTWmseztv5uOOo"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 314280,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/2NlzTQKA7U1nc9U6tWb7Xv"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -323,6 +299,30 @@
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "6 String Theory",
+        "url": "https://open.spotify.com/album/12KBkAV3rS7H2h8QIcbCy5"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour's 6 String Theory",
+          "url": "https://open.spotify.com/artist/4kMQjLEnWTWmseztv5uOOo"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 314280,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/2NlzTQKA7U1nc9U6tWb7Xv"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
-        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Nobody Knows You When You're Down And Out",
-      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Live +",
         "url": "https://open.spotify.com/album/5LTErKR4sVxrANiPNLcYI8"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 440213,
       "name": "A Change Is Gonna Come - Live",
       "url": "https://open.spotify.com/track/7KxGNaPXmhRwdjio3ttD69"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Other People's Stuff",
-        "url": "https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Stones In My Passway",
-      "url": "https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Neckbone Stew",
         "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 263880,
       "name": "Give Me One Reason",
       "url": "https://open.spotify.com/track/3ag0SbzIlflUWf1ChhEmhZ"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Other People's Stuff",
+        "url": "https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Stones In My Passway",
+      "url": "https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 412963,
-      "name": "I\u2019ve Been Loving You Too Long (Live)",
-      "url": "https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "L.A. Blues Authority Vol. Iv: Fit for a King",
         "url": "https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 330266,
       "name": "I'll Play the Blues for You",
       "url": "https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 412963,
+      "name": "I\u2019ve Been Loving You Too Long (Live)",
+      "url": "https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -885,24 +885,20 @@
       "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
     },
     {
-      "added_at": "2022-11-11 14:48:18",
+      "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "All Blues's Up: Songs of Led Zeppelin",
-        "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
+        "name": "Cocaine",
+        "url": "https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y"
       },
       "artists": [
         {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        },
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+          "name": "Joe Robinson",
+          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
         }
       ],
-      "duration_ms": 175453,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
+      "duration_ms": 227045,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -923,18 +919,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+        "name": "All Blues's Up: Songs of Led Zeppelin",
+        "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        },
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         }
       ],
-      "duration_ms": 229869,
-      "name": "Stop Messin\u2019 Round (Live)",
-      "url": "https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa"
+      "duration_ms": 175453,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 229869,
+      "name": "Stop Messin\u2019 Round (Live)",
+      "url": "https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
         "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 207066,
       "name": "Need Your Love So Bad",
       "url": "https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
-        "name": "Cocaine",
-        "url": "https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y"
-      },
-      "artists": [
-        {
-          "name": "Joe Robinson",
-          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
-        }
-      ],
-      "duration_ms": 227045,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Alvin Youngblood Hart",
-          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
-        }
-      ],
-      "duration_ms": 392586,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "That's What I Say",
         "url": "https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 287160,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Alvin Youngblood Hart",
+          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
+        }
+      ],
+      "duration_ms": 392586,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
     },
     {
       "added_at": "2022-11-11 14:48:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,098 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,111 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 27 | [Risa](https://open.spotify.com/track/3L55aSsDkT5ojgy3WXjh7s) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:07 |
 | 28 | [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi Para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:20 |
 | 29 | [Hacer un puente](https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Hacer Un Puente](https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld) | 4:42 |
-| 30 | [Detox](https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb) | 2:47 |
-| 31 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
+| 30 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
+| 31 | [Detox](https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb) | 2:47 |
 | 32 | [Insisto](https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 4:37 |
 | 33 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
 | 34 | [Solo aquí](https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag](https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ) | 3:54 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 72 | [Puedo Con Esto \- Fuera de Foco](https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Puedo Con Esto \(Fuera de Foco\)](https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id) | 3:54 |
 | 73 | [Barón Rojo](https://open.spotify.com/track/49einNPAfEj7geS2yzV0xu) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:45 |
 | 74 | [Un Trago Para Ver Mejor](https://open.spotify.com/track/3Q8Jw1UCAQSMeGNIFfWNSd) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Yo estuve ahi](https://open.spotify.com/album/6yFCUAjsoX0wcAdScK2BEH) | 3:36 |
-| 75 | [Clericó](https://open.spotify.com/track/70yHJoFTCuDrhMIdcKY71S) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte de un Mal Sueño](https://open.spotify.com/album/6dIcDDpYrz25WyKSd4RmL5) | 4:29 |
-| 76 | [Partenaire](https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:31 |
+| 75 | [Partenaire](https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:31 |
+| 76 | [Clericó](https://open.spotify.com/track/70yHJoFTCuDrhMIdcKY71S) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte de un Mal Sueño](https://open.spotify.com/album/6dIcDDpYrz25WyKSd4RmL5) | 4:29 |
 | 77 | [El Golem de Paternal](https://open.spotify.com/track/1i663MaTN7dcRxv2UPKOlu) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Talismán](https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO) | 3:54 |
 | 78 | [Creo](https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:53 |
 | 79 | [Avisame Cuando Llegues](https://open.spotify.com/track/7Hr9RbyiHNz7nDpH4i4QwE) | [Soy Rada and the Colibriquis](https://open.spotify.com/artist/1FuC6w5K3iO32aU8k4TiPA) | [Dada](https://open.spotify.com/album/4pufQvajF7A6g3zzX7Py84) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 99 | [Paisano De Hurlingham](https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 3:58 |
 | 100 | [Banda de Garage \- Antes \- Ferro 2014 en Vivo](https://open.spotify.com/track/6VeDyMhky3csClQ1jABaCB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Qué Placer Verte Otra Vez \(Ferro 2014 En Vivo\)](https://open.spotify.com/album/2ZyM4nbcyK6UlPZfxdqQ0m) | 4:26 |
 
-Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMDc1MjY5ZGU1YzJjYTFhYTQ0YzM1N2I4NmU1NDM3ODk2`
+Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMGViNjQyZjdmNTk3MTFiN2M0ODAxMGRhODljNzRlNzZl`

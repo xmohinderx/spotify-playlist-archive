@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,661 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,752 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 2 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 |
 | 3 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 |
-| 4 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 |
-| 5 | [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 |
+| 4 | [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 |
+| 5 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 |
 | 6 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 |
 | 7 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
 | 8 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [AzSwaye](https://open.spotify.com/artist/5tg5JDw7tQiZdJCShs9rk9), [Pjay](https://open.spotify.com/artist/6rB1jv0emRIkbLluXskjt9) | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc) | 2:36 |
 | 48 | [Hood Baby](https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK) | [Hood Brat](https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd) | [Hood Baby](https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO) | 2:40 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDE2ODczNTUxMzcxZDE2ZmE0ZGM5MDc1NjM4OTM3Yzc2`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDIxMTA3NGEwNjZjNDllYmFmOGZmZmZkMGQ3N2Y3ZjM3`

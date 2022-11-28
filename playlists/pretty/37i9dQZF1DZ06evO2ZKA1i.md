@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,019 likes - 51 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,150 likes - 51 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 41 | [Nothing at All](https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 4:42 |
 | 42 | [Rockin' Pneumonia and the Boogie Woogie Flu](https://open.spotify.com/track/3xWUepcAW78VtEDHXPtxLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 3:15 |
 | 43 | [Anthem \- 2000 Remaster](https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 6:31 |
-| 44 | [Hell to Pay \- Instrumental Version](https://open.spotify.com/track/26ZMByyHCWlVOqKLuCbESO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 5:11 |
-| 45 | [Flight of the Rat \- 1995 Remaster](https://open.spotify.com/track/3zhuhqAO2QHQKBK1zWYGrY) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 7:55 |
-| 46 | [7 and 7 Is](https://open.spotify.com/track/6MdMFn6IM6U0mkeYIeCZmk) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 2:28 |
+| 44 | [Flight of the Rat \- 1995 Remaster](https://open.spotify.com/track/3zhuhqAO2QHQKBK1zWYGrY) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 7:55 |
+| 45 | [All I Got Is You](https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [inFinite](https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P) | 4:42 |
+| 46 | [Hell to Pay \- Instrumental Version](https://open.spotify.com/track/26ZMByyHCWlVOqKLuCbESO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 5:11 |
 | 47 | [Kentucky Woman \- 1998 Remaster](https://open.spotify.com/track/3rI5e4tFTlWEwJi4TjLeGT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 4:43 |
-| 48 | [All I Got Is You](https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [inFinite](https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P) | 4:42 |
-| 49 | [Après Vous \- Instrumental Version](https://open.spotify.com/track/7EyoZWxS6IkEYO1ivtLUrf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 5:23 |
-| 50 | [No Need to Shout](https://open.spotify.com/track/4ctOXWzCBVNvoZFHeeQapU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 3:30 |
+| 48 | [7 and 7 Is](https://open.spotify.com/track/6MdMFn6IM6U0mkeYIeCZmk) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 2:28 |
+| 49 | [No Need to Shout](https://open.spotify.com/track/4ctOXWzCBVNvoZFHeeQapU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 3:30 |
+| 50 | [Après Vous \- Instrumental Version](https://open.spotify.com/track/7EyoZWxS6IkEYO1ivtLUrf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 5:23 |
 | 51 | [Hard Lovin' Woman](https://open.spotify.com/track/1p2rdOyJKHLuqJR9S3uevx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 3:25 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBiMjI3YzYzMjdjNTEzMjdiNDk2YzM1NzFhMDI4ZjZkMg==`
+Snapshot ID: `Mjc4MjU5OTUsMDAwMDAwMDAwYzFlNzk2ZDBmOTIxN2FiNjg2YjQyNmM2ZDY4Zjc3OA==`

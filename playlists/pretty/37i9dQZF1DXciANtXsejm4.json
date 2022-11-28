@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 146765,
+  "num_followers": 146957,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDMzOGZhNDYzZTU0ZTg1Y2VkODE3MjU5ZGMzYjk4MjI3",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDZjY2JlYWQxMjI5ZDEyMGFlMTYwODJmZTVkMzA4NTMx",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
         "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 193080,
       "name": "Conmigo Te Gust\u00f3",
       "url": "https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Hay Contra para Rato",
-        "url": "https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf"
-      },
-      "artists": [
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        }
-      ],
-      "duration_ms": 245877,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 137786,
       "name": "Hasta el Sol de Hoy (En Vivo)",
       "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Hay Contra para Rato",
+        "url": "https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf"
+      },
+      "artists": [
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 245877,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH"
     },
     {
       "added_at": "2022-11-18 03:00:00",

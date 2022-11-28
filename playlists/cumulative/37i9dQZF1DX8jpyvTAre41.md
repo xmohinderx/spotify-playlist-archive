@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Avril Lavigne, YUNGBLUD
 
-504 songs - 1 day 4 hr 21 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+505 songs - 1 day 4 hr 24 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Acting Out](https://open.spotify.com/track/6cl0ieHDLRncer6S1Lkcc6) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Alpha Games \(Deluxe\)](https://open.spotify.com/album/7ao5TcY1WmEfbl9q38ZGLP) | 2:47 | 2022-07-29 | 2022-08-06 |
 | [Actions Speak Louder Than Words \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 4:01 | 2022-02-11 | 2022-06-28 |
 | [adding up](https://open.spotify.com/track/4mI2zhNm5mhN7s4dYRWEkD) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [adding up](https://open.spotify.com/album/1XnKCrlqb0BRbSN1gGsR6O) | 2:52 | 2022-01-21 | 2022-02-05 |
+| [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2022-11-25 |  |
 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 | 2022-11-25 |
-| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 |  |
+| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-11-28 |
 | [After This](https://open.spotify.com/track/3Kd0urrDZd1gU3SrPiUkH9) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [After This / Certain Father / Hold](https://open.spotify.com/album/2gOS81x3Vems2Tcb8ctFaa) | 4:00 | 2022-10-07 | 2022-11-12 |
 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 | 2022-04-29 | 2022-06-11 |
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-06 | 2022-07-02 |

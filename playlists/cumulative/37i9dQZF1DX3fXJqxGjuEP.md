@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-435 songs - 1 day 2 hr 9 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+436 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Constelación](https://open.spotify.com/track/0kFH3rp87T7JQe84FmSBgU) | [Marinah](https://open.spotify.com/artist/7mqFFfs8tz9ZzeWzXJvz0a), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Constelación](https://open.spotify.com/album/3WGs7QeAlsOlBbGWA5RsOv) | 3:17 | 2021-10-20 | 2022-04-18 |
 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 | 2022-09-30 |  |
 | [Costa Paraíso](https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Pulso](https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr) | 4:44 | 2022-03-17 | 2022-07-28 |
-| [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 | 2021-10-20 |  |
+| [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 | 2021-10-20 | 2022-11-28 |
 | [Cuando Calienta el Sol](https://open.spotify.com/track/0B6i8rjZIiScILFxfA638l) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8) | [Cuando Calienta el Sol](https://open.spotify.com/album/6rBa4gSULADkrlMhfRAM8o) | 2:21 | 2021-10-20 | 2022-07-24 |
 | [Cumbia Circular](https://open.spotify.com/track/59hEgYfGLFMLPQMT4HOZ0q) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7), [María del Rossario](https://open.spotify.com/artist/56wwKK01aCVWXh6AnNErmg) | [Cumbia Circular](https://open.spotify.com/album/7vu7y8SMCcTijsHVoQ6u5Q) | 5:03 | 2022-01-13 | 2022-04-20 |
 | [Cumbia del Olvido](https://open.spotify.com/track/1oCHMNWzKJdwdwjsPMjXf3) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 3:36 | 2021-10-20 |  |
@@ -336,6 +336,7 @@
 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 | 2021-10-20 | 2022-07-25 |
 | [Pájaros en Verano](https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaros en Verano](https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS) | 3:16 | 2022-08-13 | 2022-10-17 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/3t9LQp3NX9956wJJk4pGF6) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Que Te Vaya Bonito](https://open.spotify.com/album/6jXqFKL1GePpeDxcpK9cPr) | 3:20 | 2021-10-20 | 2022-07-29 |
+| [Quema](https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:26 | 2021-10-20 |  |
 | [Quema](https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Quema](https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b) | 3:26 | 2021-10-20 | 2022-07-27 |
 | [Quemando caña](https://open.spotify.com/track/7n3KPphtrM2l6FCR3Xe3Sm) | [Juan Perro](https://open.spotify.com/artist/6r3JyEDH6cQyEhcUfTshpt) | [Libertad](https://open.spotify.com/album/5T71fozES6Xtal2TJAVvRM) | 3:22 | 2022-03-30 | 2022-06-08 |
 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 | 2021-10-20 | 2022-06-22 |

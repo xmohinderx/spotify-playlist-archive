@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Big Boss Vette
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,510 likes - 73 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,039 likes - 73 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

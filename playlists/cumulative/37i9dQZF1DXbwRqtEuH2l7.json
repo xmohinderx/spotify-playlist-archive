@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Contemporary Apathy",
+        "url": "https://open.spotify.com/album/2m6yOFJDvngvEMOWZLXf08"
+      },
+      "artists": [
+        {
+          "name": "Echo Grid",
+          "url": "https://open.spotify.com/artist/4qGt1eVZPXnNdybSfpi8lv"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342866,
+      "name": "Contemporary Apathy",
+      "url": "https://open.spotify.com/track/2dOtyjeGIOV76PwS7FUwAb"
+    },
+    {
+      "album": {
         "name": "Dark Awakening",
         "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
       },
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 302266,
       "name": "Kokaral",
       "url": "https://open.spotify.com/track/1v1TqKk1yakQHJ1QxwmC0p"

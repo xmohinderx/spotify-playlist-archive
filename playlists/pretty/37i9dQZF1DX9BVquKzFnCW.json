@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 10479,
+  "num_followers": 10526,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI4NTg4NCwwMDAwMDAwMGJhMzQ4OGVlNmFjNGE4YmQzMzgzMjRkMzAwMGRmNmIz",
+  "snapshot_id": "MTY2OTI4NTg4NCwwMDAwMDAwMDZmZjc1OTIxZTU5ZjRhMGQ4OTA5YTNkZTFmOGRmOWJm",
   "tracks": [
     {
       "added_at": "2022-11-24 10:31:24",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "I'm All For You (Ballad Songbook)",
-        "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 347773,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "Charlie Brown Holiday Hits",
         "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 259933,
       "name": "Charlie Brown Theme",
       "url": "https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "I'm All For You (Ballad Songbook)",
+        "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 347773,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
+      "duration_ms": 402799,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 402799,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+      "duration_ms": 247200,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 442400,
-      "name": "West Coast Blues",
-      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "A Garland Of Red",
         "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 287400,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 442400,
+      "name": "West Coast Blues",
+      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 322560,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 322560,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 370400,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 172800,
       "name": "Moten Swing",
       "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "The Jazz Giants",
-        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 575173,
-      "name": "I Guess I'll Have To Change My Plan",
-      "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 435440,
       "name": "Night Dreamer - Remastered 2004",
       "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "The Jazz Giants",
+        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 575173,
+      "name": "I Guess I'll Have To Change My Plan",
+      "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
         "name": "Now!",
         "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 255600,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "Soul Call",
-        "url": "https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 312506,
-      "name": "I'm Just A Lucky So And So",
-      "url": "https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+        "name": "Soul Call",
+        "url": "https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 467626,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA"
+      "duration_ms": 312506,
+      "name": "I'm Just A Lucky So And So",
+      "url": "https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Verve Jazz Masters 50",
-        "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 325800,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/7kvMRfMrGjY0AgzgaBtkDf"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 389733,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Verve Jazz Masters 50",
+        "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 325800,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/7kvMRfMrGjY0AgzgaBtkDf"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1183,6 +1183,38 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
+        "name": "On a Slow Boat to China",
+        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "On a Slow Boat to China",
+      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "The Interplay Sessions [2-fer]",
+        "url": "https://open.spotify.com/album/64Thgy8vQNwTvX1zbsi2sy"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 494440,
+      "name": "Interplay",
+      "url": "https://open.spotify.com/track/49AFmEeq9Ulx4YXA24yNKJ"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -1207,38 +1239,6 @@
       "duration_ms": 414466,
       "name": "Charcoal Blues - Remastered 2004",
       "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "The Interplay Sessions [2-fer]",
-        "url": "https://open.spotify.com/album/64Thgy8vQNwTvX1zbsi2sy"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 494440,
-      "name": "Interplay",
-      "url": "https://open.spotify.com/track/49AFmEeq9Ulx4YXA24yNKJ"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
-        "name": "On a Slow Boat to China",
-        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "On a Slow Boat to China",
-      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "Laughin' to Keep From Cryin'",
-        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 512266,
-      "name": "Salute To Benny",
-      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "First Place Again",
         "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 518733,
       "name": "I Get a Kick out of You",
       "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "Laughin' to Keep From Cryin'",
+        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 512266,
+      "name": "Salute To Benny",
+      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
     },
     {
       "added_at": "2022-11-24 10:31:24",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-11-24 10:31:24",
       "album": {
-        "name": "A Jazz Message",
-        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey Quartet",
-          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
-        }
-      ],
-      "duration_ms": 319426,
-      "name": "Blues Back",
-      "url": "https://open.spotify.com/track/1HGZcacR6Drgl1o7gEv1bU"
-    },
-    {
-      "added_at": "2022-11-24 10:31:24",
-      "album": {
         "name": "The Golden Flute",
         "url": "https://open.spotify.com/album/4BmWdFMdpfZgKpspsAdqZZ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 231706,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/5OtACP7f32kZgVEXCgVsjs"
+    },
+    {
+      "added_at": "2022-11-24 10:31:24",
+      "album": {
+        "name": "A Jazz Message",
+        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey Quartet",
+          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
+        }
+      ],
+      "duration_ms": 319426,
+      "name": "Blues Back",
+      "url": "https://open.spotify.com/track/1HGZcacR6Drgl1o7gEv1bU"
     }
   ],
   "unique_name": "Brunch Jazz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: GIMS, Soolking
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,893 likes - 112 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,905 likes - 112 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 80 | [Future Champ](https://open.spotify.com/track/6mY3z56KmPtxEYPV6i85vB) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Future Champ](https://open.spotify.com/album/4VdOqzHHavSGDDKNXUb5gl) | 2:35 |
 | 81 | [La vie sauve](https://open.spotify.com/track/1g7alJBg4JdKJ0Zr8SAv0S) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Adulte jamais \(Réédition\)](https://open.spotify.com/album/5MejwTYpLwLnMUTnp394IZ) | 3:51 |
 | 82 | [ASK FOR IT](https://open.spotify.com/track/1pMHhbNvIHrAWN7D7DtxDh) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [ASK FOR IT](https://open.spotify.com/album/3vtmwmHlxsruXPLFiSuG1S) | 2:34 |
-| 83 | [Immer wenn du gehst](https://open.spotify.com/track/5TVASZ07udEZkMsbGO0h3b) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [Immer wenn du gehst](https://open.spotify.com/album/3POxUGzjiEMKkM2Q4J1Y6F) | 2:46 |
+| 83 | [immer wenn du gehst](https://open.spotify.com/track/5TVASZ07udEZkMsbGO0h3b) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [immer wenn du gehst](https://open.spotify.com/album/3POxUGzjiEMKkM2Q4J1Y6F) | 2:46 |
 | 84 | [Chemtrails & Paperplanes](https://open.spotify.com/track/04A6iIYeILxUxBl5uOFwx8) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Chemtrails & Paperplanes](https://open.spotify.com/album/2NsZ9UVfmhP0nYamgY5OH8) | 3:44 |
 | 85 | [Sad Guy](https://open.spotify.com/track/079DahPtH1XlN9wUBsC7FN) | [Emilian Lewis](https://open.spotify.com/artist/1DEFhYXVaisWLnCSLMhqqr) | [Sad Guy](https://open.spotify.com/album/1OQ6gJxeW0vWclHj7HEQkP) | 2:36 |
 | 86 | [Comforting Dream](https://open.spotify.com/track/5k0TvywjiketZtYCyVQmZA) | [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Comforting Dream](https://open.spotify.com/album/5cIKuDDbBW8TEe9487bUhU) | 3:55 |

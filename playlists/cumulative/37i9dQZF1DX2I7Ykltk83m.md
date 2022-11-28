@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-302 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+303 songs - 18 hr 13 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-05-20 |  |
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2021-11-14 | 2022-07-29 |
 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 | 2022-10-07 |  |
-| [Be Careful With Yourself](https://open.spotify.com/track/12j3RsAjTt9oGnZno4lq8k) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Be Careful With Yourself](https://open.spotify.com/album/5QBwF6Ep55I0QqklKvedFz) | 3:47 | 2022-10-07 |  |
+| [Be Careful With Yourself](https://open.spotify.com/track/12j3RsAjTt9oGnZno4lq8k) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Be Careful With Yourself](https://open.spotify.com/album/5QBwF6Ep55I0QqklKvedFz) | 3:47 | 2022-10-07 | 2022-11-28 |
+| [Be Careful With Yourself](https://open.spotify.com/track/5XrvxZcSjkXUyZXdDZQrDM) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:47 | 2022-10-07 |  |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2022-05-20 |  |
 | [Be Sweet](https://open.spotify.com/track/2avbMHWObD8usXMBmN4U62) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/0ajoNtBO6xHfWEkORtRCAv) | 3:15 | 2021-11-14 | 2022-07-29 |
 | [Big Wheel](https://open.spotify.com/track/366DDVYAJoT1Cc8ijYN9FM) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel / Stellate](https://open.spotify.com/album/1EYHnhHes6AWnHthRn19uf) | 3:15 | 2021-11-14 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: The Smashing Pumpkins
 
-225 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
+226 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 | 2022-06-06 | 2022-07-10 |
 | [Alone Again Or](https://open.spotify.com/track/34dAKRy0pfwYylW7ivoOgy) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Anything](https://open.spotify.com/album/6yiHdvljnfH35Z3mh581sB) | 3:38 | 2022-04-08 | 2022-07-29 |
 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 | 2022-07-28 |  |
+| [Angel](https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Angel](https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c) | 4:23 | 2022-11-25 |  |
 | [ANNIVERSARY](https://open.spotify.com/track/6w4goTlu5ciLeHNntz20La) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [ANNIVERSARY](https://open.spotify.com/album/13YgViqUuxtL0S9CqjESPb) | 5:18 | 2022-04-08 | 2022-07-29 |
 | [April Skies](https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Darklands \(Expanded Version\)](https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu) | 3:59 | 2022-04-08 | 2022-07-29 |
 | [Are 'Friends' Electric?](https://open.spotify.com/track/4YMjssjl6JWPF4ZIcvcwkg) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE), [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas Redux](https://open.spotify.com/album/1ZTKKrWwhE0prrfe3AudHz) | 5:25 | 2022-04-08 | 2022-07-29 |
@@ -154,7 +155,7 @@
 | [Paradise By the Dashboard Light](https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 8:28 | 2022-04-08 | 2022-07-29 |
 | [Parklife](https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 3:07 | 2022-04-08 | 2022-07-23 |
 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 | 2022-04-08 |  |
-| [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-07-08 |  |
+| [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-07-08 | 2022-11-28 |
 | [Personality Disorder](https://open.spotify.com/track/7noQsk2Wm00f5HlH2Zmume) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Autofiction](https://open.spotify.com/album/6yLKyq7x7ZCpL7p99smtsO) | 4:00 | 2022-09-16 | 2022-09-30 |
 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 | 2022-07-28 |  |
 | [Pretty Boy](https://open.spotify.com/track/0HLUNrbWZdyUDWVKy3X9JH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Pretty Boy](https://open.spotify.com/album/0H47zdiavh551uJHvO4Nfx) | 4:55 | 2022-11-04 |  |

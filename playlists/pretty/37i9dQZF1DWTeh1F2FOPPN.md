@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,522 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,695 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 39 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 |
 | 40 | [Jerrod](https://open.spotify.com/track/6ZDQdAeTYt13V67K7LJXDv) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:02 |
 | 41 | [Just Like Water \- Live](https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 6:09 |
-| 42 | [Ain't No Mountain High Enough](https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 2:16 |
-| 43 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
+| 42 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
+| 43 | [Ain't No Mountain High Enough](https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 2:16 |
 | 44 | [Get It Over With](https://open.spotify.com/track/3NsVe4VhqzB2M0R282HJJB) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 3:31 |
 | 45 | [Oh, Maker](https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The ArchAndroid](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) | 3:46 |
 | 46 | [Know](https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 49 | [My Imagination](https://open.spotify.com/track/5FMfb6fRfQaXTIjdrcBOkE) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Naked & Warm](https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY) | 4:52 |
 | 50 | [Table for One](https://open.spotify.com/track/6claa4I908IodZZkvZMvuf) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Table for One](https://open.spotify.com/album/4becwqhy3EirbJwxjDYjwq) | 6:34 |
 
-Snapshot ID: `MTY2NDY0MzI2NywwMDAwMDAwMDYwOTJjMGI2NTc3ZjhmNWM5MjBmZWEzZDk0NTE0MDAz`
+Snapshot ID: `MTY2NDY0MzI2NywwMDAwMDAwMGFiODEwMDJkZTlkNWM3YzUzNTNiN2QzZTE4OGFkOGY4`

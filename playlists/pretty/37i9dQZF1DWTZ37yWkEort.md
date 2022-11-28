@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,818 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,405 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Israel.",
-  "num_followers": 48986,
+  "num_followers": 48995,
   "original_name": "Top 50 - Israel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIyNzgwNDc1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIyODY0NzExLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05e7\u05e8\u05df \u05e9\u05de\u05e9",
         "url": "https://open.spotify.com/album/78H1vv98dzzXHPeMeDV5J3"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3zhFqDzJZfnc8L5QkGWWG6"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05e1\u05d4\u05e8\u05d4 (Live)",
         "url": "https://open.spotify.com/album/78GQ3pNd1Uy3oQJsX3MmGk"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/7BcRDWY4VTCvRRHoobFWWo"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05d4\u05d0\u05de\u05ea",
         "url": "https://open.spotify.com/album/42hRqDyszb7lDxQpZ0Ba7o"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/1bd0D0cXcpGeJXsn2Xt8lc"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/25E9FesbHAUYUxUJCswURR"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 173602,
+      "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -81,23 +97,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/25E9FesbHAUYUxUJCswURR"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 173602,
-      "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
         "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
@@ -149,7 +133,23 @@
       "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05de\u05de\u05d5\u05ea\u05d4",
         "url": "https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05de\u05e9\u05d5\u05d2\u05e2\u05ea (Prod. by Triangle)",
         "url": "https://open.spotify.com/album/6aomx4aKsyvgSV5ecL7PXY"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/3idINUuyRidKbQiMFt6EkU"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
-        "url": "https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW"
-      },
-      "artists": [
-        {
-          "name": "Odeya",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        }
-      ],
-      "duration_ms": 152542,
-      "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
-      "url": "https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05e7\u05d5\u05e4\u05d9\u05d3\u05d5\u05df (Prod. By Triangle)",
         "url": "https://open.spotify.com/album/13cZhKohwvhPrY34nk3qsj"
@@ -221,7 +205,23 @@
       "url": "https://open.spotify.com/track/4W1G1xlxcirdtXosgsR0m0"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
+        "url": "https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW"
+      },
+      "artists": [
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "duration_ms": 152542,
+      "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1 (Prod. By Triangle)",
+      "url": "https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
@@ -237,27 +237,7 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/5iw1EWAmGUHfrCNfTi7z14"
-      },
-      "artists": [
-        {
-          "name": "Avraham Tal",
-          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
-        },
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 268823,
-      "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -277,7 +257,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -293,7 +273,27 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/5iw1EWAmGUHfrCNfTi7z14"
+      },
+      "artists": [
+        {
+          "name": "Avraham Tal",
+          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+        },
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 268823,
+      "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
         "url": "https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8"
@@ -329,39 +329,7 @@
       "url": "https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/3iki2R7kbpfCi1FxWR64sd"
-      },
-      "artists": [
-        {
-          "name": "Eyal Golan",
-          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/2TZBSnzQizEQmYLpaUy8CT"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
-        "url": "https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 155219,
-      "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
-      "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -377,75 +345,7 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
-        "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 244939,
-      "name": "\u05e1\u05d4\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05d1\u05d9\u05d7\u05d3",
-        "url": "https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0"
-      },
-      "artists": [
-        {
-          "name": "Marina Maximilian",
-          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
-        },
-        {
-          "name": "Guy Mentesh",
-          "url": "https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "\u05d1\u05d9\u05d7\u05d3",
-      "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05de\u05d4 \u05e2\u05d5\u05d1\u05e8 \u05dc\u05da \u05d1\u05e8\u05d0\u05e9",
-        "url": "https://open.spotify.com/album/4ggLAyFiTb8YnEuFQ85oq3"
-      },
-      "artists": [
-        {
-          "name": "Avi Aburomi",
-          "url": "https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr"
-        }
-      ],
-      "duration_ms": 153969,
-      "name": "\u05de\u05d4 \u05e2\u05d5\u05d1\u05e8 \u05dc\u05da \u05d1\u05e8\u05d0\u05e9",
-      "url": "https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -461,7 +361,7 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05de\u05d9 \u05d6\u05d0\u05ea",
         "url": "https://open.spotify.com/album/3vAQYVlLZrzs7lrjisl5VC"
@@ -477,23 +377,39 @@
       "url": "https://open.spotify.com/track/3iJQ54fGO6CyP374UzvDJu"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "\u05e1\u05e4\u05e8\u05d9 \u05dc\u05d4\u05dd \u05d4\u05db\u05dc",
-        "url": "https://open.spotify.com/album/6sKxDJudUsYnswoXSJmJb6"
+        "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
+        "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
       },
       "artists": [
         {
-          "name": "Avi Aburomi",
-          "url": "https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr"
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
         }
       ],
-      "duration_ms": 180312,
-      "name": "\u05e1\u05e4\u05e8\u05d9 \u05dc\u05d4\u05dd \u05d4\u05db\u05dc",
-      "url": "https://open.spotify.com/track/2O1af1DbXF7paOr7O5CRst"
+      "duration_ms": 244939,
+      "name": "\u05e1\u05d4\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/3iki2R7kbpfCi1FxWR64sd"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "\u05e4\u05e0\u05ea\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/2TZBSnzQizEQmYLpaUy8CT"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -513,59 +429,55 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "\u05e2\u05d5\u05dc\u05d4 \u05e2\u05dc \u05e9\u05d5\u05dc\u05d7\u05e0\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4Xp9A9xVovEbym6xrXHU21"
+        "name": "\u05e1\u05e4\u05e8\u05d9 \u05dc\u05d4\u05dd \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/6sKxDJudUsYnswoXSJmJb6"
       },
       "artists": [
         {
-          "name": "Marina Maximilian",
-          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
-        },
-        {
-          "name": "Itay Galo",
-          "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
+          "name": "Avi Aburomi",
+          "url": "https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr"
         }
       ],
-      "duration_ms": 196320,
-      "name": "\u05e2\u05d5\u05dc\u05d4 \u05e2\u05dc \u05e9\u05d5\u05dc\u05d7\u05e0\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/5tNrVA1ySsk7HkV5yg2iXN"
+      "duration_ms": 180312,
+      "name": "\u05e1\u05e4\u05e8\u05d9 \u05dc\u05d4\u05dd \u05d4\u05db\u05dc",
+      "url": "https://open.spotify.com/track/2O1af1DbXF7paOr7O5CRst"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1, \u05d0\u05e0\u05d9 \u05de\u05db\u05d5\u05e8, \u05d0\u05e0\u05d9 \u05e9\u05e8\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/6V3xJpO7DvJmgCzdSX1vzB"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Adir Getz",
-          "url": "https://open.spotify.com/artist/2MOEM2cDGyOzUf7LrBFuIG"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 180000,
-      "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1, \u05d0\u05e0\u05d9 \u05de\u05db\u05d5\u05e8, \u05d0\u05e0\u05d9 \u05e9\u05e8\u05d5\u05e3",
-      "url": "https://open.spotify.com/track/0SmY5bTuls1ccput6QhHSA"
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+        "name": "\u05de\u05d4 \u05e2\u05d5\u05d1\u05e8 \u05dc\u05da \u05d1\u05e8\u05d0\u05e9",
+        "url": "https://open.spotify.com/album/4ggLAyFiTb8YnEuFQ85oq3"
       },
       "artists": [
         {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+          "name": "Avi Aburomi",
+          "url": "https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr"
         }
       ],
-      "duration_ms": 212963,
-      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
+      "duration_ms": 153969,
+      "name": "\u05de\u05d4 \u05e2\u05d5\u05d1\u05e8 \u05dc\u05da \u05d1\u05e8\u05d0\u05e9",
+      "url": "https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "Cute Boy",
         "url": "https://open.spotify.com/album/3oOsxujiwXlaed2q2h71Fv"
@@ -589,71 +501,111 @@
       "url": "https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "\u05db\u05d9\u05e0\u05d5\u05e8\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/7wGjAH5AKWpqrhGEWOOaqs"
+        "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
+        "url": "https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m"
       },
       "artists": [
         {
-          "name": "Eden Ben Zaken",
-          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
         }
       ],
-      "duration_ms": 175910,
-      "name": "\u05db\u05d9\u05e0\u05d5\u05e8\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/01H5jdEyPwM4rhc7gTWLgt"
+      "duration_ms": 155219,
+      "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
+      "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "\u05de\u05d9\u05db\u05dc",
-        "url": "https://open.spotify.com/album/5fmC4nU05WdjIfrU55fDpN"
+        "name": "\u05d1\u05d9\u05d7\u05d3",
+        "url": "https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0"
       },
       "artists": [
         {
-          "name": "\u05d0\u05dc\u05d9\u05d0\u05d1 \u05d6\u05d5\u05d4\u05e8",
-          "url": "https://open.spotify.com/artist/5hwdfRqm0A7u9z3LoTazVa"
+          "name": "Marina Maximilian",
+          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
+        },
+        {
+          "name": "Guy Mentesh",
+          "url": "https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ"
         }
       ],
-      "duration_ms": 218996,
-      "name": "\u05de\u05d9\u05db\u05dc",
-      "url": "https://open.spotify.com/track/0UXXAYRUrknaz6FuaPKtFW"
+      "duration_ms": 151968,
+      "name": "\u05d1\u05d9\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "\u05de\u05d8\u05e4\u05e1\u05d9\u05dd \u05e2\u05dc \u05d4\u05e7\u05d9\u05e8\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/1Vd5fkLCic0TwqlbMcv4Fn"
+        "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1, \u05d0\u05e0\u05d9 \u05de\u05db\u05d5\u05e8, \u05d0\u05e0\u05d9 \u05e9\u05e8\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/6V3xJpO7DvJmgCzdSX1vzB"
       },
       "artists": [
         {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+          "name": "Adir Getz",
+          "url": "https://open.spotify.com/artist/2MOEM2cDGyOzUf7LrBFuIG"
         }
       ],
-      "duration_ms": 166947,
-      "name": "\u05de\u05d8\u05e4\u05e1\u05d9\u05dd \u05e2\u05dc \u05d4\u05e7\u05d9\u05e8\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/3hpaRxH73ciJCuH6QcNWXO"
+      "duration_ms": 180000,
+      "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1, \u05d0\u05e0\u05d9 \u05de\u05db\u05d5\u05e8, \u05d0\u05e0\u05d9 \u05e9\u05e8\u05d5\u05e3",
+      "url": "https://open.spotify.com/track/0SmY5bTuls1ccput6QhHSA"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+        "name": "\u05e2\u05d5\u05dc\u05d4 \u05e2\u05dc \u05e9\u05d5\u05dc\u05d7\u05e0\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4Xp9A9xVovEbym6xrXHU21"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Marina Maximilian",
+          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
+        },
+        {
+          "name": "Itay Galo",
+          "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
         }
       ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+      "duration_ms": 196320,
+      "name": "\u05e2\u05d5\u05dc\u05d4 \u05e2\u05dc \u05e9\u05d5\u05dc\u05d7\u05e0\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5tNrVA1ySsk7HkV5yg2iXN"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05d3\u05d5\u05d1\u05e9\u05e0\u05d9\u05d9\u05d4",
         "url": "https://open.spotify.com/album/55CGlMoTowH0a5vPjlS17I"
@@ -677,7 +629,167 @@
       "url": "https://open.spotify.com/track/67PF7VLcYEKKF82ziNf9Ur"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05d8\u05d5\u05e0\u05d4\u05e4\u05d0\u05e8\u05e7",
+        "url": "https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "\u05d9'\u05d0 2",
+      "url": "https://open.spotify.com/track/2PpTUW96jjJYr8ib8RUnUu"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 212963,
+      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05e0\u05e0\u05d4 \u05d1\u05e0\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/4a8a0ZjvWDneAYbGWUl0t7"
+      },
+      "artists": [
+        {
+          "name": "\u05e2\u05e0\u05d1\u05dc \u05e8\u05d6",
+          "url": "https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y"
+        }
+      ],
+      "duration_ms": 140408,
+      "name": "\u05e0\u05e0\u05d4 \u05d1\u05e0\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/2un3eax2X0XgvF1ixBlw8O"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05db\u05d9\u05e0\u05d5\u05e8\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/7wGjAH5AKWpqrhGEWOOaqs"
+      },
+      "artists": [
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "duration_ms": 175910,
+      "name": "\u05db\u05d9\u05e0\u05d5\u05e8\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/01H5jdEyPwM4rhc7gTWLgt"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05de\u05d8\u05e4\u05e1\u05d9\u05dd \u05e2\u05dc \u05d4\u05e7\u05d9\u05e8\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1Vd5fkLCic0TwqlbMcv4Fn"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 166947,
+      "name": "\u05de\u05d8\u05e4\u05e1\u05d9\u05dd \u05e2\u05dc \u05d4\u05e7\u05d9\u05e8\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/3hpaRxH73ciJCuH6QcNWXO"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05de\u05d9\u05db\u05dc",
+        "url": "https://open.spotify.com/album/5fmC4nU05WdjIfrU55fDpN"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05dc\u05d9\u05d0\u05d1 \u05d6\u05d5\u05d4\u05e8",
+          "url": "https://open.spotify.com/artist/5hwdfRqm0A7u9z3LoTazVa"
+        }
+      ],
+      "duration_ms": 218996,
+      "name": "\u05de\u05d9\u05db\u05dc",
+      "url": "https://open.spotify.com/track/0UXXAYRUrknaz6FuaPKtFW"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
+        "url": "https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm"
+      },
+      "artists": [
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
+      "url": "https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2"
@@ -693,7 +805,39 @@
       "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 139875,
+      "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
+      "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
+    },
+    {
+      "added_at": "2022-11-27 11:45:11",
       "album": {
         "name": "\u05dc\u05d1\u05d7\u05d5\u05e8 \u05e0\u05db\u05d5\u05df & \u05e4\u05d5\u05dc\u05d9\u05d8\u05d9\u05e7\u05d4 \u05d5\u05e1\u05e7\u05e1",
         "url": "https://open.spotify.com/album/3vZff9NFFWmvMO7jqVUg6h"
@@ -713,172 +857,20 @@
       "url": "https://open.spotify.com/track/2EpdcPssADDCCMeOQ9GVtv"
     },
     {
-      "added_at": "2022-11-26 12:21:15",
+      "added_at": "2022-11-27 11:45:11",
       "album": {
-        "name": "\u05d8\u05d5\u05e0\u05d4\u05e4\u05d0\u05e8\u05e7",
-        "url": "https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv"
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
       "artists": [
         {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 176440,
-      "name": "\u05d9'\u05d0 2",
-      "url": "https://open.spotify.com/track/2PpTUW96jjJYr8ib8RUnUu"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
-        "url": "https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm"
-      },
-      "artists": [
-        {
-          "name": "Odeya",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
-      "url": "https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
-        "url": "https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy"
-      },
-      "artists": [
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        },
-        {
-          "name": "Ravid Plotnik",
-          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
-        },
-        {
-          "name": "Shuli Rand",
-          "url": "https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN"
-        }
-      ],
-      "duration_ms": 290969,
-      "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
-      "url": "https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 139875,
-      "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
-      "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
-        "url": "https://open.spotify.com/album/1Z1HDlBUvh8iS8N3vEwSpS"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
-      "url": "https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB"
-    },
-    {
-      "added_at": "2022-11-26 12:21:15",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     }
   ],
   "unique_name": "Top 50 - Israel",

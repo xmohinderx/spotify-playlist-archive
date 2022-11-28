@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,898 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,935 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 10 | [Pages](https://open.spotify.com/track/6j6OD4QQ2jRuvss0ssZSOK) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Pages](https://open.spotify.com/album/7jMiaQZa1FqzmQcj91JStf) | 2:34 |
 | 11 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 |
 | 12 | [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 |
-| 13 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
+| 13 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 14 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 15 | [Nsera](https://open.spotify.com/track/5tAljWXMvPVEnEXq1brzLs) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Nsera](https://open.spotify.com/album/7nKicbwgUgTkE9LTw8wj1B) | 3:02 |
 | 16 | [Rubberband Man](https://open.spotify.com/track/7Aj4lvqrOA29OVHLnTlRwQ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 99 | [That's the Way](https://open.spotify.com/track/6605Eat9tZYmvF4CqRWRaF) | [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [That's the Way](https://open.spotify.com/album/1wAfZ9Lxqu6j525mwClP4A) | 2:51 |
 | 100 | [Friends I Barely Know](https://open.spotify.com/track/1LrgCvDcHuPnThKRKkeoqL) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 2:59 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGM2NWZkMjJlNGQ5MDI3MTNhYjZlMDQ5MGM4M2QxNmZk`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDlkN2JjN2Y1ZjM2ZTk5MDFmZmE3MGVkOWU0MDhkMjkx`

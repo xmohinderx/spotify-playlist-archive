@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 7 | [Wakikuba](https://open.spotify.com/track/2eP5ehkZmHF9gSrt7vJHmw) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Tupaate](https://open.spotify.com/album/3NlSPmx0BeXeUUxhmIQqjv) | 2:47 |
 | 8 | [Boom Party](https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Boom Party](https://open.spotify.com/album/2raBDiITs682lZEHzVaPiP) | 3:25 |
 | 9 | [Basheshe](https://open.spotify.com/track/494DKelh71AKorLmulm5C7) | [Zagazillions](https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Basheshe](https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to) | 2:19 |
-| 10 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
-| 11 | [Tumbiza Sound](https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu) | [Eezzy](https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg) | [Tumbiza Sound](https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx) | 3:10 |
+| 10 | [Tumbiza Sound](https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu) | [Eezzy](https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg) | [Tumbiza Sound](https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx) | 3:10 |
+| 11 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
 | 12 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
 | 13 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 |
 | 14 | [Edoboozi Lyo](https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz) | [Slick Stuart](https://open.spotify.com/artist/2huLG8Fcc7TwaqwIQP2S62), [DJ Roja](https://open.spotify.com/artist/5Z0ug9xtGDNFaLr2fKo9Jh), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Very Wellooo](https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [My Woman](https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx) | [Vian Music](https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm) | [My Woman](https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io) | 3:13 |
 | 50 | [FRIEND ZONE](https://open.spotify.com/track/2u2djNR80H5uTWHjYeOMhh) | [Messiah](https://open.spotify.com/artist/7C2LQXwXMQjoPj1RyRenxy), [Twist Ergain](https://open.spotify.com/artist/0GWbwhSIIMAGV0MlfzuDMC), [Arvans](https://open.spotify.com/artist/654Iw8wymQZfcidkUmXrh0), [Joe Blk](https://open.spotify.com/artist/7d0unyE3ytjoUW9AO9oexd) | [FRIEND ZONE](https://open.spotify.com/album/6lmRzDwi4k9cA35kR2JpVy) | 3:35 |
 
-Snapshot ID: `MTY2ODcxODc0MCwwMDAwMDAwMDJjNDIxZWE2Mzg5YmNkOWU5MThjYzZlYmUyYzg0YzAy`
+Snapshot ID: `MTY2ODcxODc0MCwwMDAwMDAwMDM1OGExNmU2OGFjMjM1N2I0MThiODMxMGZhZmEyNzYy`

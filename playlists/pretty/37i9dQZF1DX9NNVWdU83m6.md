@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,487 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,539 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 18 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 |
 | 19 | [The Knew Untitled](https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 4:27 |
 | 20 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 |
-| 21 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 |
-| 22 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
-| 23 | [Caliber](https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Fredrik Thordendal](https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF) | [Caliber](https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La) | 3:13 |
-| 24 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 |
+| 21 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
+| 22 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 |
+| 23 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 |
+| 24 | [Caliber](https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Fredrik Thordendal](https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF) | [Caliber](https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La) | 3:13 |
 | 25 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 |
 | 26 | [STARGAZER](https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Kevin J Dill](https://open.spotify.com/artist/3HVu17IKkNAlPW7T0OBri9), [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [STARGAZER](https://open.spotify.com/album/2SqQFcZC7UiOAo92C41sLU) | 4:05 |
 | 27 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 40 | [Whippersnapper](https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf) | [Wayne Krantz](https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig) | [Two Drink Minimum](https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP) | 6:47 |
 | 41 | [Fear Not](https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS) | [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK), [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm) | [Fear Not](https://open.spotify.com/album/5cmOcVOWS6fJBI9jMirRlL) | 7:55 |
 | 42 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 |
-| 43 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 |
-| 44 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
+| 43 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
+| 44 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 |
 | 45 | [Tayakadın](https://open.spotify.com/track/1ZevLGcq0eXAPT5ZKrWdXN) | [Geeva Flava](https://open.spotify.com/artist/1gzLVGMn6ZcMIEnqOGLyQl), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Tayakadın](https://open.spotify.com/album/4Uu07mQBHdCZj4LTYJe4vz) | 8:16 |
 | 46 | [Immersion](https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL) | [Lilly Legit](https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO) | [Rubicon](https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR) | 3:01 |
 | 47 | [Stadium Jazz](https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki) | 7:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 50 | [Kid](https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/5grWR2kxfIZorVA7y73KVR) | 7:21 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDQ5ZmQ2NWYzMGUyOThhZGU2N2E4MDZlNjY3YmNjM2Nk`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDU2YzRlODdhMTZlMGU2NjAwMzA4OWY1MzAwODNkOWY0`

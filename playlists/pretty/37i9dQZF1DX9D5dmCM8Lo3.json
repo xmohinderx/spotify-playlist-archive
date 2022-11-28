@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 101674,
+  "num_followers": 101973,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgyNTAwNiwwMDAwMDAwMDAyNWMyZDY3ZWFlNjZiMWZjYWZlNDQ1NjViMTdkYWU2",
+  "snapshot_id": "MTY0ODgyNTAwNiwwMDAwMDAwMDVlM2YzMjk5NzU3NjBlMzA3N2ZkMDVjNGU3ZDIwODky",
   "tracks": [
     {
       "added_at": "2022-03-02 23:11:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": ".Temp",
-        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 116589,
-      "name": "Chiltonwalk.Temp",
-      "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
         "name": "missing home",
         "url": "https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 124760,
       "name": "missing home",
       "url": "https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": ".Temp",
+        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
+      },
+      "artists": [
+        {
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
+        }
+      ],
+      "duration_ms": 116589,
+      "name": "Chiltonwalk.Temp",
+      "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
+        "name": ".Temp",
+        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
+      },
+      "artists": [
+        {
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
+        }
+      ],
+      "duration_ms": 96883,
+      "name": "Eternal.Temp",
+      "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": ".Temp",
-        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 96883,
-      "name": "Eternal.Temp",
-      "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
         "name": "I'll Try Living Like This",
         "url": "https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 108027,
       "name": "Nightmare Fuel",
       "url": "https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "An Obsession With Kit",
+        "url": "https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4"
+      },
+      "artists": [
+        {
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
+        }
+      ],
+      "duration_ms": 187059,
+      "name": "An Obsession With Kit",
+      "url": "https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -1099,22 +1115,6 @@
       "duration_ms": 207240,
       "name": "I'm full of spite mane I'm too fucking petty",
       "url": "https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
-        "name": "An Obsession With Kit",
-        "url": "https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 187059,
-      "name": "An Obsession With Kit",
-      "url": "https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm"
     },
     {
       "added_at": "2022-03-02 23:11:11",

@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Field Medic",
-  "num_followers": 53900,
+  "num_followers": 53972,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGFkNWZkY2M1NGVkYWNjYmViOTg2NDgyZTAxMzA1MWZl",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDY1ZGMyY2EzZjliNGMyNWZkNTNhN2VhODRkYTA2YmE1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 194026,
       "name": "Santa Barbara",
       "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Before You Gotta Go",
-      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "In Two",
@@ -791,6 +775,22 @@
       "duration_ms": 143162,
       "name": "In Two",
       "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 225632,
+      "name": "Before You Gotta Go",
+      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1153,20 +1153,20 @@
       "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx"
+        "name": "Sucker's Lunch",
+        "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
       },
       "artists": [
         {
-          "name": "Phoebe Go",
-          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
+          "name": "Madeline Kenney",
+          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
         }
       ],
-      "duration_ms": 294772,
-      "name": "Be the Player, Not the Poet",
-      "url": "https://open.spotify.com/track/0a2TpHXGLcNJ9ZzsLkpCu2"
+      "duration_ms": 283370,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1185,20 +1185,20 @@
       "url": "https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Sucker's Lunch",
-        "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
+        "name": "Player",
+        "url": "https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx"
       },
       "artists": [
         {
-          "name": "Madeline Kenney",
-          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
+          "name": "Phoebe Go",
+          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
         }
       ],
-      "duration_ms": 283370,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
+      "duration_ms": 294772,
+      "name": "Be the Player, Not the Poet",
+      "url": "https://open.spotify.com/track/0a2TpHXGLcNJ9ZzsLkpCu2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "tap",
-        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 271869,
-      "name": "tap",
-      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 229501,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "tap",
+        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 271869,
+      "name": "tap",
+      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Let The Radio Play",
-        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
-      },
-      "artists": [
-        {
-          "name": "Reverend Baron",
-          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
-        }
-      ],
-      "duration_ms": 209634,
-      "name": "Let The Radio Play",
-      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "i don\u2019t know who needs to hear this...",
         "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+        "name": "Let The Radio Play",
+        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
       "artists": [
         {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+          "name": "Reverend Baron",
+          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
         }
       ],
-      "duration_ms": 228492,
-      "name": "A Thread to Find",
-      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
+      "duration_ms": 209634,
+      "name": "Let The Radio Play",
+      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 228492,
+      "name": "A Thread to Find",
+      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Less Ready to Go",
+        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 267870,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1571,22 +1587,6 @@
       "duration_ms": 153920,
       "name": "Your Mind\u2019s Walking Out",
       "url": "https://open.spotify.com/track/17niuSm2NSposx5cUKoTvh"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Less Ready to Go",
-        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 267870,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 278316,
-      "name": "Rare to Wake",
-      "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 207078,
       "name": "Every Woman",
       "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 278316,
+      "name": "Rare to Wake",
+      "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Red Bird Pt. 2 (Morning)",
-        "url": "https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Wooh Dang",
         "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 246293,
       "name": "Rolling Rolling Rolling",
       "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Red Bird Pt. 2 (Morning)",
+        "url": "https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
+        "name": "Memory of a Cut off Head",
+        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
       },
       "artists": [
         {
-          "name": "Maja Lena",
-          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
         }
       ],
-      "duration_ms": 179306,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
+      "duration_ms": 287280,
+      "name": "Memory of a Cut off Head",
+      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1959,34 +1959,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Memory of a Cut off Head",
-        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
       },
       "artists": [
         {
-          "name": "OCS",
-          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
+          "name": "Maja Lena",
+          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
         }
       ],
-      "duration_ms": 287280,
-      "name": "Memory of a Cut off Head",
-      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+      "duration_ms": 179306,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2007,6 +1991,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW"
       },
@@ -2023,26 +2023,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cady Road",
-        "url": "https://open.spotify.com/album/7ncOxJlRQGqWHcTeXXe3mz"
+        "name": "Two Saviors",
+        "url": "https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh"
       },
       "artists": [
         {
-          "name": "Routine",
-          "url": "https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS"
-        },
-        {
-          "name": "Annie Truscott",
-          "url": "https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo"
-        },
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 190695,
-      "name": "Cady Road",
-      "url": "https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq"
+      "duration_ms": 247756,
+      "name": "Pareidolia",
+      "url": "https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM"
     }
   ],
   "unique_name": "Folk Arc",

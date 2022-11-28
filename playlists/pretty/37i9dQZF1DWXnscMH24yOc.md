@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,207 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,298 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 85 | [No Ordinary Love](https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 4:09 |
 | 86 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
 | 87 | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb) | 3:58 |
-| 88 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
-| 89 | [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 |
+| 88 | [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 |
+| 89 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
 | 90 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 |
 | 91 | [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 |
 | 92 | [In Your Eyes \(Acoustic\)](https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [In Your Eyes \(Acoustic\)](https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ) | 4:33 |
 | 93 | [Anthem](https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU) | 5:45 |
 | 94 | [Dancing on My Own](https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9) | [Jake McMullen](https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN) | [Dancing on My Own](https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY) | 5:07 |
 | 95 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 |
-| 96 | [Fade into You](https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade into You](https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl) | 4:34 |
-| 97 | [Feel Good Inc.](https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje) | 3:56 |
+| 96 | [Feel Good Inc.](https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje) | 3:56 |
+| 97 | [Fade into You](https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade into You](https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl) | 4:34 |
 | 98 | [Avant Gardener](https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4) | 4:19 |
 | 99 | [Soul Meets Body](https://open.spotify.com/track/6MKXxE9Zz18KXyPO7T5vhI) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Soul Meets Body](https://open.spotify.com/album/2vZ09NrNvE2ekWg9WVRAT7) | 3:38 |
 | 100 | [The Night We Met](https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Covers](https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15) | 4:03 |
 
-Snapshot ID: `MTY0Nzk2MDAyOSwwMDAwMDAwMDJkNjViMzJmMGMxYTgzY2MyOWUzNzExYjZlYjY0OTI0`
+Snapshot ID: `MTY0Nzk2MDAyOSwwMDAwMDAwMDJjZDgwZWRlMTNlMGVlNDU1ZDZmOThhMjc5NzFkODVk`

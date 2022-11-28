@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Manal",
-  "num_followers": 846696,
+  "num_followers": 846675,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMGQ4NjMyZjE2Y2VmY2NkZTIzZWI0MTQ5MWQ1ZTA0ODcw",
+  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMDg3NDg3OGNjYWEzOWFiYzE5YTMzNjUzNjJlNGFmOGQz",
   "tracks": [
     {
       "added_at": "2022-11-02 04:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "No Me Obligues",
+        "url": "https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 207835,
+      "name": "No Me Obligues",
+      "url": "https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "idk it's complicated",
         "url": "https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "No Me Obligues",
-        "url": "https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV"
+        "name": "Hom Qua Hom Nay Va Sau Nay",
+        "url": "https://open.spotify.com/album/4QV5oU2eIMfPob4hLC3yar"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+          "name": "Nguyen Ha",
+          "url": "https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH"
         }
       ],
-      "duration_ms": 207835,
-      "name": "No Me Obligues",
-      "url": "https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp"
+      "duration_ms": 276480,
+      "name": "Sau Nay, Hay Gap Lai Nhau Khi Hoa No",
+      "url": "https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -643,18 +659,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Hom Qua Hom Nay Va Sau Nay",
-        "url": "https://open.spotify.com/album/4QV5oU2eIMfPob4hLC3yar"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
       },
       "artists": [
         {
-          "name": "Nguyen Ha",
-          "url": "https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH"
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 276480,
-      "name": "Sau Nay, Hay Gap Lai Nhau Khi Hoa No",
-      "url": "https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn"
+      "duration_ms": 184334,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -687,22 +703,6 @@
       "duration_ms": 178625,
       "name": "No lo voy a lamentar",
       "url": "https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Oh my mind",
-        "url": "https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O"
-      },
-      "artists": [
-        {
-          "name": "Tamara Kramar",
-          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
-        }
-      ],
-      "duration_ms": 171191,
-      "name": "Oh my mind",
-      "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "SHUNKA RYOUGEN",
         "url": "https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 227000,
       "name": "D\u00e9construction",
       "url": "https://open.spotify.com/track/08TCJTR4MrhByX6prkVZ2A"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Oh my mind",
+        "url": "https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O"
+      },
+      "artists": [
+        {
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+        }
+      ],
+      "duration_ms": 171191,
+      "name": "Oh my mind",
+      "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4"
-      },
-      "artists": [
-        {
-          "name": "Celeste Buckingham",
-          "url": "https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8"
-        }
-      ],
-      "duration_ms": 246829,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 206646,
       "name": "Jui$y",
       "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4"
+      },
+      "artists": [
+        {
+          "name": "Celeste Buckingham",
+          "url": "https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8"
+        }
+      ],
+      "duration_ms": 246829,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz"
     },
     {
       "added_at": "2022-11-02 04:01:00",

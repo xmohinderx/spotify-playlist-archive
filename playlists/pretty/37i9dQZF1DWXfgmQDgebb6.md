@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: blah\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,625 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,634 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 13 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
 | 14 | [I would](https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq) | 3:25 |
 | 15 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 |
-| 16 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
-| 17 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
+| 16 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
+| 17 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
 | 18 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
 | 19 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
 | 20 | [Year to Year](https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [Groot](https://open.spotify.com/track/2tKpXhoClVnz8cRD5XwGAY) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:59 |
 | 50 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 
-Snapshot ID: `MTY2OTI4MTMzNywwMDAwMDAwMDVkNjg5MWY0MzVmZDk3MTczNWVlNjk2MWY1ZmYyZjgw`
+Snapshot ID: `MTY2OTI4MTMzNywwMDAwMDAwMDczYzc5MjI2NDBkMmMzMjU1YzlkOTI5OWJmNWFkM2Yy`

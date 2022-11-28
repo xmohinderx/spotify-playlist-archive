@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,492 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,496 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 12 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
 | 13 | [Take Me \(with 11Kitties\)](https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Take Me](https://open.spotify.com/album/4ieiyt4oVsEZGBY430vwaz) | 3:45 |
 | 14 | [Vancouver](https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:36 |
-| 15 | [Sun Dance](https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [Sun Dance](https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd) | 3:37 |
-| 16 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 |
+| 15 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 |
+| 16 | [Sun Dance](https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [Sun Dance](https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd) | 3:37 |
 | 17 | [Pearl](https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Pearl](https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3) | 3:53 |
 | 18 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL) | 3:48 |
 | 19 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 28 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
 | 29 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
 | 30 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
-| 31 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 |
+| 31 | [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 |
 | 32 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 |
 | 33 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 |
 | 34 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 |
-| 35 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 |
-| 36 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 |
-| 37 | [Alone](https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ) | 3:03 |
-| 38 | [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 |
-| 39 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 |
+| 35 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 |
+| 36 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 |
+| 37 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 |
+| 38 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 |
+| 39 | [Alone](https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ) | 3:03 |
 | 40 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 |
 | 41 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 42 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 49 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
 | 50 | [SHE IS MINE](https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:02 |
 
-Snapshot ID: `MTY2OTM0MjUzOCwwMDAwMDAwMDk0YmQ4Y2JjMDZiYzk0ZTkyODQ2NjM3YzZmOGJmYjBh`
+Snapshot ID: `MTY2OTM0MjUzOCwwMDAwMDAwMGQ0NmJlYTU2NmM3YzNiMGRhZjAyMTY1MzQ4NjgyOTdl`

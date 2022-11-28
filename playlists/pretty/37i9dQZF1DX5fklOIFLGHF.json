@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: El Cuarteto De Nos.",
-  "num_followers": 14600,
+  "num_followers": 14612,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMzA2OSwwMDAwMDAwMGU5OTA5MTRiOGJlMzAzODgyOGJiM2E3ZWEzNTI2NjM5",
+  "snapshot_id": "MTY2ODIwMzA2OSwwMDAwMDAwMGIzMmMwYzFjNmViODgxZmM2OTYzNTg4YjAyMzk4NDU4",
   "tracks": [
     {
       "added_at": "2022-11-11 21:44:29",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 259946,
       "name": "Come Together - Remastered 2009",
       "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
       "artists": [
         {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
         }
       ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Tarea Fina",
+      "url": "https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Tarea Fina",
-      "url": "https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 334600,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
-    },
-    {
-      "added_at": "2022-11-11 21:44:29",
-      "album": {
         "name": "Bella Donna (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 329413,
       "name": "Edge of Seventeen - 2016 Remaster",
       "url": "https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu"
+    },
+    {
+      "added_at": "2022-11-11 21:44:29",
+      "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 334600,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -1559,18 +1559,22 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+        "name": "Pajaritos, Bravos Muchachitos",
+        "url": "https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 288653,
-      "name": "Como Olvidarme",
-      "url": "https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek"
+      "duration_ms": 268213,
+      "name": "Hab\u00eda una Vez ...",
+      "url": "https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I"
     },
     {
       "added_at": "2022-11-11 21:44:29",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2022-11-11 21:44:29",
       "album": {
-        "name": "Pajaritos, Bravos Muchachitos",
-        "url": "https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Hab\u00eda una Vez ...",
-      "url": "https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I"
+      "duration_ms": 288653,
+      "name": "Como Olvidarme",
+      "url": "https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek"
     },
     {
       "added_at": "2022-11-11 21:44:29",

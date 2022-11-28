@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-556 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+557 songs - 1 day 4 hr 18 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
 | [Beyaz Skandalım](https://open.spotify.com/track/1gLCVATJt0IT6aRuqZvrKt) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/2sXpdxb6xQ1t3lOX072al6) | 3:35 | 2021-06-12 | 2022-01-05 |
 | [Beyaz Skandalım](https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/5ux7MVV2OT5BOOLXETC4qL) | 3:35 | 2022-01-04 | 2022-02-13 |
-| [Beyoğlu](https://open.spotify.com/track/1qFiddLkQ7saFavoVIBpsF) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Beyoğlu](https://open.spotify.com/album/3g9In29GTvJJK6uPMpoNdX) | 2:28 | 2022-10-09 |  |
+| [Beyoğlu](https://open.spotify.com/track/1qFiddLkQ7saFavoVIBpsF) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Beyoğlu](https://open.spotify.com/album/3g9In29GTvJJK6uPMpoNdX) | 2:28 | 2022-10-09 | 2022-11-28 |
 | [Bi Bedeli Var](https://open.spotify.com/track/1Yp69wntPFZYy5AokQC6Yz) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Bedeli Var](https://open.spotify.com/album/6SP4HNSraBsDw82Mv8xY3J) | 2:28 | 2021-04-26 | 2021-05-08 |
 | [Bi Daha Bi Daha](https://open.spotify.com/track/6LsfvgCDhypMTR0ODFjoT1) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Bi Daha Bi Daha](https://open.spotify.com/album/1tebFD0J7cKzUFTKSMpxmH) | 3:16 | 2021-06-27 | 2021-07-01 |
 | [Bi Sonraki Hayatımda Gel](https://open.spotify.com/track/5SYkeNpjhJPFUMOP5TK8iw) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM) | 2:47 | 2021-04-08 | 2021-04-10 |
@@ -408,6 +408,7 @@
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 | 2022-11-22 |
 | [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 | 2022-05-07 | 2022-10-16 |
 | [Paradoks](https://open.spotify.com/track/4OrBxEv9bIWY5D2WWSbfkM) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Paradoks](https://open.spotify.com/album/34HnpsAgtfxIaxa85gS5AW) | 2:15 | 2022-11-23 | 2022-11-27 |
+| [PARALARI KATLA](https://open.spotify.com/track/1xxF0eJ8ff2lKSKT5TPg9D) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [PARALARI KATLA](https://open.spotify.com/album/60r1iy0rkjA3qR2k2swpEX) | 1:38 | 2022-11-27 |  |
 | [Paranoya](https://open.spotify.com/track/4a0SQDAwphKijSWUXMUEWA) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Paranoya](https://open.spotify.com/album/4jm4N4jJ9NwzS15pfEpmpa) | 2:29 | 2022-02-19 | 2022-03-07 |
 | [Pare](https://open.spotify.com/track/1qv3dJD70eC9mnIZnofWwP) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Pare](https://open.spotify.com/album/1aK2P7TMEkl5P12tl2RujI) | 2:54 | 2021-11-14 | 2022-01-15 |
 | [Pembe Mezarlık](https://open.spotify.com/track/1cwth5tNynCfH2ZYCmShDc) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:15 | 2022-01-04 | 2022-01-06 |

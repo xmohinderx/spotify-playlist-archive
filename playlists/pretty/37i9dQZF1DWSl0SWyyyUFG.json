@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. En portada: Cuisillos de Arturo Mac\u00edas",
-  "num_followers": 113985,
+  "num_followers": 114221,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjI2NCwwMDAwMDAwMGM1Nzg4ZDc0OGZlYTdiOWQ1MzQxMWYyNjk1NDJmMjcw",
+  "snapshot_id": "MTYzNTI1NjI2NCwwMDAwMDAwMDY3NGFhZDc0NWE2YmFkZjk1NDFhZjU0MGUxN2UxNGM2",
   "tracks": [
     {
       "added_at": "2021-10-22 05:00:00",
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 232480,
-      "name": "Huele A Peligro",
-      "url": "https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f"
+      "duration_ms": 151333,
+      "name": "Media Naranja",
+      "url": "https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 151333,
-      "name": "Media Naranja",
-      "url": "https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4"
+      "duration_ms": 232480,
+      "name": "Huele A Peligro",
+      "url": "https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
+        "name": "Ladr\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p"
       },
       "artists": [
         {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
         }
       ],
-      "duration_ms": 142253,
-      "name": "Al Mismo Nivel",
-      "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
+      "duration_ms": 205280,
+      "name": "Borracho Morir\u00e9",
+      "url": "https://open.spotify.com/track/2DxXeD084VPwQDQxTiTaSo"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Ladr\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
       },
       "artists": [
         {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Borracho Morir\u00e9",
-      "url": "https://open.spotify.com/track/2DxXeD084VPwQDQxTiTaSo"
+      "duration_ms": 142253,
+      "name": "Al Mismo Nivel",
+      "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "A Bailar Quebradita Y De Caballito",
-        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
-      },
-      "artists": [
-        {
-          "name": "Banda Guadalajara Express",
-          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
-        }
-      ],
-      "duration_ms": 158632,
-      "name": "Tri Triki Tri Traka",
-      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "A Mover el Guayin",
         "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 196800,
       "name": "Las mujeres quieren bailar",
       "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "A Bailar Quebradita Y De Caballito",
+        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
+      },
+      "artists": [
+        {
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
+        }
+      ],
+      "duration_ms": 158632,
+      "name": "Tri Triki Tri Traka",
+      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "El Baile de la Cachucha",
-        "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "El Baile de la Cachucha",
-      "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
         "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 200053,
       "name": "Juro Por Dios",
       "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "El Baile de la Cachucha",
+        "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "El Baile de la Cachucha",
+      "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
     },
     {
       "added_at": "2021-10-22 05:00:00",

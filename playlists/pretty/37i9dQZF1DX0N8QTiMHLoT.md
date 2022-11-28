@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,474 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,529 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 26 | [Cosmic Underground](https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:37 |
 | 27 | [World Go Round](https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 4:28 |
 | 28 | [Cosmic Joke](https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:25 |
-| 29 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
-| 30 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 |
-| 31 | [And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell](https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [The Message](https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x) | 1:58 |
+| 29 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 |
+| 30 | [And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell](https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [The Message](https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x) | 1:58 |
+| 31 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
 | 32 | [Chump Suey](https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Pocket Fulla Nasty](https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC) | 4:25 |
 | 33 | [No Limit](https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:36 |
 | 34 | [Me & My Bass Guitar](https://open.spotify.com/track/2bGlApShelovL2azxX0ksl) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 5:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [P.A.C\. Man](https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Play](https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3) | 4:21 |
 | 50 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGYwNjQ0ZDBiOWYyNjFjMWMzNzU5N2M5NDM1ODUwZGJm`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGE2OGQyMTZlMzAwMmRlNmZjMzQ5Njg5NGRkZDU0NjU2`

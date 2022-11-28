@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,842 songs - 4 day 10 hr 25 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,843 songs - 4 day 10 hr 29 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Cry](https://open.spotify.com/track/5Q5J2pLvqgNRzABbDET8Vo) | [OLI](https://open.spotify.com/artist/4aVGCycBaldIruvN75WWpl) | [Cry](https://open.spotify.com/album/04pzmOKrIW6uL3mxeg9gMO) | 3:07 | 2021-12-10 | 2021-12-27 |
 | [Cry on](https://open.spotify.com/track/1nIqMyXIaMMKJ6VxAZiOCK) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Naomi Graye](https://open.spotify.com/artist/7F0TF5mVnMj6ukPM7h4Dni) | [Strawberry Skies \(Deluxe Edition\)](https://open.spotify.com/album/5UsLsvwDxpbBRMTf7cLJNy) | 2:47 | 2021-05-08 | 2021-05-23 |
 | [Culo](https://open.spotify.com/track/1UkeCYS4ooH0xXrqDq3Imm) | [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP) | [Elevate](https://open.spotify.com/album/2mNRSuIT614toL2BRjhnty) | 2:22 | 2021-07-10 | 2021-07-25 |
+| [Cumbarrio](https://open.spotify.com/track/1MMZ3NZOi3wCInkvfjxBRD) | [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0), [Noel GC](https://open.spotify.com/artist/0Lh1YzhAgTeHmXP7BFox6g), [Owem\-G](https://open.spotify.com/artist/3hkWJA2RzyurjnzAFqfbRj) | [Cumbarrio](https://open.spotify.com/album/2DwRZ9L78Z7IRP7POuzMcE) | 3:49 | 2022-11-27 |  |
 | [Cupid](https://open.spotify.com/track/1ZuBznCTE0R6lVa0CGtevV) | [White Gold](https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ) | [Cupid](https://open.spotify.com/album/3p7OWunNr66DwKmVVxi5NN) | 3:48 | 2022-05-20 | 2022-06-05 |
 | [curve me](https://open.spotify.com/track/5wEEsLCDkK17pSIgFYnapU) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [curve me](https://open.spotify.com/album/0ep7mJ4EqYeHitmGUDevJs) | 2:46 | 2021-12-04 | 2021-12-19 |
 | [CUT EM IN \(feat\. Rick Ross\)](https://open.spotify.com/track/68wXv4DokvcOVNvuJ7FbWp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [CUT EM IN \(feat\. Rick Ross\)](https://open.spotify.com/album/6YBA1t4Nsfc0dO2SJBtDtA) | 2:57 | 2021-07-12 | 2021-11-19 |

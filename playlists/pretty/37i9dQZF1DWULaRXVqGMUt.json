@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 28187,
+  "num_followers": 28263,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDIwZjdmM2U0MWI4OTBiY2I2ZGNkMWEyMzQwNWM3MmVh",
+  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDI1MmRhOWE0NDRmYzhjNDAzMDFlYmVkMTliYzU0ZTdk",
   "tracks": [
     {
       "added_at": "2022-07-29 10:36:46",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 286960,
       "name": "I Feel So Good (I Wanna Boogie)",
       "url": "https://open.spotify.com/track/5QAqlUoctz45rVNgAB6U4c"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -519,22 +519,18 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "The Boogie Woogie Trio vol. 1",
-        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
+        "name": "Lost in Boogie",
+        "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
       },
       "artists": [
         {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
-        },
-        {
-          "name": "Albert Ammons",
-          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
         }
       ],
-      "duration_ms": 125320,
-      "name": "Boogie Woogie Prayer",
-      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
+      "duration_ms": 212453,
+      "name": "E-Flat Flyer",
+      "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -555,18 +551,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Lost in Boogie",
-        "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
+        "name": "The Boogie Woogie Trio vol. 1",
+        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
       "artists": [
         {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
+        },
+        {
+          "name": "Albert Ammons",
+          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
         }
       ],
-      "duration_ms": 212453,
-      "name": "E-Flat Flyer",
-      "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
+      "duration_ms": 125320,
+      "name": "Boogie Woogie Prayer",
+      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -599,22 +599,6 @@
       "duration_ms": 193466,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Honky Tonk Train Blues",
-      "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Honky Tonk Train Blues",
+      "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
         "name": "Jumpin' With Joe",
         "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
-      },
-      "artists": [
-        {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie, Vol. 4",
         "url": "https://open.spotify.com/album/6F0PGqrZc1OGHxSEsXdg6P"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 160795,
       "name": "Boogie Woogie - Mono",
       "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
     },
     {
       "added_at": "2022-07-29 10:36:46",

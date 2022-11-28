@@ -4,7 +4,7 @@
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-77 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/2OEGJje3L8zqnfk45R1OOV)
+78 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2OEGJje3L8zqnfk45R1OOV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Change Of Heart](https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:18 | 2022-01-13 |  |
 | [Change the Locks](https://open.spotify.com/track/6LQ9h7vlBKg2AcPt5w1t2t) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 4:53 | 2022-01-11 | 2022-03-23 |
 | [Climb That Hill](https://open.spotify.com/track/5d3uVVKg38en0klxOycXJU) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:55 | 2022-01-11 | 2022-10-13 |
-| [Dogs On The Run](https://open.spotify.com/track/4YbxoqB6YZlwOTRLC4ml7q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 3:40 | 2022-01-15 |  |
+| [Dogs On The Run](https://open.spotify.com/track/4YbxoqB6YZlwOTRLC4ml7q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 3:40 | 2022-01-15 | 2022-11-28 |
 | [Don't Come Around Here No More](https://open.spotify.com/track/3BSoskNONnjn05yRO2tYFX) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:07 | 2022-01-11 |  |
 | [Don't Do Me Like That](https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 2:41 | 2022-01-11 |  |
 | [Dreamville](https://open.spotify.com/track/0zG6crJiKpE4IIxSOtZXZs) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Last DJ](https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i) | 3:47 | 2022-01-11 | 2022-10-13 |
@@ -37,6 +37,7 @@
 | [Friend of the Devil \- Live](https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 5:41 | 2022-01-11 |  |
 | [Full Grown Boy](https://open.spotify.com/track/1u4HpdpAG9W8HGXAlEqAhb) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 3:26 | 2022-01-20 | 2022-10-11 |
 | [Good Enough](https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 5:50 | 2022-01-11 |  |
+| [Good Evening \- spoken interlude](https://open.spotify.com/track/04iikZsVBLqYcmi9CUWGli) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 0:43 | 2022-11-27 |  |
 | [Green Onions \- Live](https://open.spotify.com/track/5Na9CFg7vuqPBQfXoQy61q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 4:19 | 2022-02-20 | 2022-10-13 |
 | [Handle With Care \- Live](https://open.spotify.com/track/47yw82GNS8dhab1nXfZSIx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL), [Dhani Harrison](https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh) | [Concert For George \(Live\)](https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu) | 3:27 | 2022-01-11 |  |
 | [Here Comes My Girl](https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 4:24 | 2022-01-11 |  |

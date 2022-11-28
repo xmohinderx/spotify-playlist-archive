@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Kevin Kaarl",
-  "num_followers": 138763,
+  "num_followers": 138787,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMGRiYzBjNDc5ODI4YzlmMTkyMzc4N2NkNmRiMWE4ZTMx",
+  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMDU3NDE3NzdlN2QwN2RjM2QyMTNhNTY5ZmM1OGFlMzY5",
   "tracks": [
     {
       "added_at": "2022-09-06 16:38:11",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "nadie me cae bien",
         "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 228400,
       "name": "nadie me cae bien",
       "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -455,18 +455,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -487,18 +487,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "NTE",
         "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 171807,
       "name": "NTE",
       "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Yo Creo en el Amor",
-        "url": "https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ"
-      },
-      "artists": [
-        {
-          "name": "REIIINA",
-          "url": "https://open.spotify.com/artist/5rMLCHF00RKiN5BQxjUBLT"
-        }
-      ],
-      "duration_ms": 171628,
-      "name": "Yo Creo en el Amor",
-      "url": "https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 236503,
       "name": "Drive - Edit",
       "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Yo Creo en el Amor",
+        "url": "https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ"
+      },
+      "artists": [
+        {
+          "name": "REIIINA",
+          "url": "https://open.spotify.com/artist/5rMLCHF00RKiN5BQxjUBLT"
+        }
+      ],
+      "duration_ms": 171628,
+      "name": "Yo Creo en el Amor",
+      "url": "https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Corazon de Fieltro",
-        "url": "https://open.spotify.com/album/5cK2mGWhh1IO7E4V2G0NB5"
-      },
-      "artists": [
-        {
-          "name": "Ravo",
-          "url": "https://open.spotify.com/artist/3xOxSUVQx9oLgljBu8bLVP"
-        }
-      ],
-      "duration_ms": 168739,
-      "name": "Corazon de Fieltro",
-      "url": "https://open.spotify.com/track/3Zlt9VzAa9MBELpZYFd9Ym"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Limbo Habitual, Vol. I",
         "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 262053,
       "name": "Dos que uno",
       "url": "https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Corazon de Fieltro",
+        "url": "https://open.spotify.com/album/5cK2mGWhh1IO7E4V2G0NB5"
+      },
+      "artists": [
+        {
+          "name": "Ravo",
+          "url": "https://open.spotify.com/artist/3xOxSUVQx9oLgljBu8bLVP"
+        }
+      ],
+      "duration_ms": 168739,
+      "name": "Corazon de Fieltro",
+      "url": "https://open.spotify.com/track/3Zlt9VzAa9MBELpZYFd9Ym"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "\u00bfYpqsp?",
-        "url": "https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX"
-      },
-      "artists": [
-        {
-          "name": "Como Las Movies",
-          "url": "https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v"
-        }
-      ],
-      "duration_ms": 272511,
-      "name": "\u00bfYpqsp?",
-      "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 216844,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "\u00bfYpqsp?",
+        "url": "https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX"
+      },
+      "artists": [
+        {
+          "name": "Como Las Movies",
+          "url": "https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v"
+        }
+      ],
+      "duration_ms": 272511,
+      "name": "\u00bfYpqsp?",
+      "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Nena <3",
-        "url": "https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY"
-      },
-      "artists": [
-        {
-          "name": "Julienne Ramos",
-          "url": "https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg"
-        }
-      ],
-      "duration_ms": 193149,
-      "name": "Nena <3",
-      "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Tormenta",
         "url": "https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 233750,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Nena <3",
+        "url": "https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY"
+      },
+      "artists": [
+        {
+          "name": "Julienne Ramos",
+          "url": "https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Nena <3",
+      "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
     },
     {
       "added_at": "2022-09-06 16:38:11",

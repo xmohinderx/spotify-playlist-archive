@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-584 songs - 1 day 11 hr 48 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+585 songs - 1 day 11 hr 51 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 | 2022-07-28 | 2022-09-23 |
 | [Ain't Got No Reason](https://open.spotify.com/track/37Bqopwiecf3YP1no3Jxwi) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Ain't Got No Reason](https://open.spotify.com/album/2KuXE2OeaKZ5uNrfqFg1c4) | 2:24 | 2020-05-01 | 2020-10-30 |
 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2021-01-23 | 2022-04-29 |
-| [All for Love](https://open.spotify.com/track/7hlqAK5plYyDE19DwtlXVG) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [All for Love](https://open.spotify.com/album/4dGWFZ8mzdMYHvoCYCqXno) | 3:46 | 2022-10-14 |  |
+| [All for Love](https://open.spotify.com/track/7hlqAK5plYyDE19DwtlXVG) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [All for Love](https://open.spotify.com/album/4dGWFZ8mzdMYHvoCYCqXno) | 3:46 | 2022-10-14 | 2022-11-28 |
 | [All Good](https://open.spotify.com/track/32pVxiyqfsKKoZMEyF9WDn) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [All Good](https://open.spotify.com/album/7riCFI1z2nb9zmHGOnIpqb) | 2:32 | 2020-12-05 | 2021-02-28 |
 | [Alone](https://open.spotify.com/track/0654qpngLbRcjdIvgkhFhO) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:16 | 2021-09-24 | 2021-10-29 |
 | [Alone](https://open.spotify.com/track/0SZ1chP4HTUzzGX4vWhHob) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Alone](https://open.spotify.com/album/1QCu4JFAg1jxX74pGnnU79) | 2:47 | 2021-01-09 | 2021-06-11 |
@@ -459,6 +459,7 @@
 | [Someone To Love](https://open.spotify.com/track/4fQ1RRzL8SntodxIHCeDqh) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Someone To Love](https://open.spotify.com/album/53ql8KYecZgqOmKpb9cQWY) | 3:27 | 2020-07-11 | 2021-01-09 |
 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2020-07-03 | 2021-06-11 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-06-03 | 2022-07-27 |
+| [Something I Said](https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R) | 3:16 | 2022-11-03 |  |
 | [Sometimes](https://open.spotify.com/track/2m0pzukUN2eFutFjnXNFXF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Sometimes](https://open.spotify.com/album/2iF0e8WtqcNWDgmo7mDz0m) | 4:33 | 2020-03-25\* | 2020-04-24 |
 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2022-10-28 |  |
 | [Sorrow, Tears And Blood](https://open.spotify.com/track/7yVtVUO4I1eXL4KIJB5bLd) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Stand Up](https://open.spotify.com/album/0qsh1whWV3FcVaM6A8vLN9) | 3:58 | 2020-12-18 | 2021-02-28 |

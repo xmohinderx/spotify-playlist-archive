@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 27628,
+  "num_followers": 27817,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIxNDkwMCwwMDAwMDAwMDUzMzkzMzI4MTZiNmEwNzIwNGRiMDI3NGE2MzcyYWYx",
+  "snapshot_id": "MTY2OTIxNDkwMCwwMDAwMDAwMDg1YTNhODBlZjIxNjkwODZiOTI0NDM5MzIxMzZkZGIy",
   "tracks": [
     {
       "added_at": "2022-11-23 14:48:20",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -599,26 +615,6 @@
       "duration_ms": 231826,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        },
-        {
-          "name": "Bud Shank Quintet",
-          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
-        }
-      ],
-      "duration_ms": 260240,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -639,18 +635,22 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
         }
       ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
+      "duration_ms": 260240,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 207413,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/3Rj7kRvHalEVPPNDc9SeY3"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -911,6 +911,62 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
+        "name": "For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/66Vm0v5dHw6JPPoZscHbLD"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/1E5YXsJECiRjkX04FYSF2d"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "For The Want Of A Kiss - Live",
+      "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "I Was Doing All Right",
+      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -939,62 +995,6 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "For Sentimental Reasons",
-        "url": "https://open.spotify.com/album/66Vm0v5dHw6JPPoZscHbLD"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "(I Love You) For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/1E5YXsJECiRjkX04FYSF2d"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "I Was Doing All Right",
-      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "For The Want Of A Kiss - Live",
-      "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
-        "name": "Social Call",
-        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        },
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Gone With the Wind",
-      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
+      "duration_ms": 250813,
+      "name": "Don't You Know I Care",
+      "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
-        "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
-        "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
+        "name": "Social Call",
+        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
       "artists": [
         {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        },
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
         }
       ],
-      "duration_ms": 180306,
-      "name": "Your Love Has Faded",
-      "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
+      "duration_ms": 251680,
+      "name": "Gone With the Wind",
+      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1099,6 +1099,22 @@
       "duration_ms": 203666,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/1QwPURs9jcgxhyidnzLKme"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "Not So Dukish",
+        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 141866,
+      "name": "Three And Six",
+      "url": "https://open.spotify.com/track/1rDSvUCDcz2KOoQVIPrQ9z"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Don't You Know I Care",
-      "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -1187,70 +1187,6 @@
       "duration_ms": 203973,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "Not So Dukish",
-        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "Three And Six",
-      "url": "https://open.spotify.com/track/1rDSvUCDcz2KOoQVIPrQ9z"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "Give Him The Ooh-La-La (Expanded Edition)",
-        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 258093,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "Steamin' [Rudy Van Gelder edition]",
-        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1287,6 +1223,38 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 258093,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
       },
@@ -1299,6 +1267,38 @@
       "duration_ms": 371960,
       "name": "Where Or When",
       "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
+        "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Your Love Has Faded",
+      "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 356973,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 271533,
       "name": "Bounce Blues",
       "url": "https://open.spotify.com/track/0okDPCmxPLULCyLZM8fxI7"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 356973,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
-        "name": "New Time, New 'Tet",
-        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 338413,
-      "name": "L'Adieu",
-      "url": "https://open.spotify.com/track/009y1uS2vVXmeGnFOf2757"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
         "name": "Reunion With Chet Baker",
         "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "New Time, New 'Tet",
+        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 338413,
+      "name": "L'Adieu",
+      "url": "https://open.spotify.com/track/009y1uS2vVXmeGnFOf2757"
     },
     {
       "added_at": "2022-11-23 14:48:20",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-11-23 14:48:20",
       "album": {
-        "name": "Verve Jazz Masters 43",
-        "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
-    },
-    {
-      "added_at": "2022-11-23 14:48:20",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 311960,
       "name": "You Better Go Now",
       "url": "https://open.spotify.com/track/064J1edY5qOTLlWqhDScD5"
+    },
+    {
+      "added_at": "2022-11-23 14:48:20",
+      "album": {
+        "name": "Verve Jazz Masters 43",
+        "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
     },
     {
       "added_at": "2022-11-23 14:48:20",

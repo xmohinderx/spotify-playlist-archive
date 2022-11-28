@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,756 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,803 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 79 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
 | 80 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
 | 81 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
-| 82 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
-| 83 | [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 |
+| 82 | [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 |
+| 83 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
 | 84 | [Wake Me](https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Wake Me](https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m) | 2:54 |
 | 85 | [TU CINTURA](https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 4:05 |
 | 86 | [Hielo](https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Hielo](https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn) | 3:45 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 92 | [Ansiedad](https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Almamáter \(Lado A\)](https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v) | 3:03 |
 | 93 | [CARAMELOS](https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [CARAMELOS](https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ) | 2:45 |
 | 94 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
-| 95 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
+| 95 | [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 |
 | 96 | [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 |
-| 97 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
-| 98 | [Andan Buscándome](https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Andan Buscándome](https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0) | 3:57 |
-| 99 | [Ke Sientes](https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Ke Sientes](https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX) | 3:27 |
-| 100 | [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 |
+| 97 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
+| 98 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
+| 99 | [Andan Buscándome](https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Andan Buscándome](https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0) | 3:57 |
+| 100 | [Ke Sientes](https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Ke Sientes](https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX) | 3:27 |
 
-Snapshot ID: `MTY2MzU5OTU2NywwMDAwMDAwMGQ1M2RhZGIwNGNkOGFjOThkNzhhNzViOWVmMDUyNGFk`
+Snapshot ID: `MTY2MzU5OTU2NywwMDAwMDAwMGU2Y2QyZTkxZmZlYTQ0OGFlM2Q1NTliYzEzMWI0MTRl`

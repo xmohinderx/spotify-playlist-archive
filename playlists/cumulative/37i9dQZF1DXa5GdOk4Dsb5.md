@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-256 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
+257 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 | 2022-06-08 |  |
 | [Como Si Nada](https://open.spotify.com/track/0LWE6LsvRwHQtAxiqpSRqU) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:09 | 2022-06-08 | 2022-08-14 |
 | [Como Si Nada](https://open.spotify.com/track/6L8o9C3LqHOQoVY7HCzriM) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Como Si Nada](https://open.spotify.com/album/2vDIKPEFeCtqY8HKmAi3bd) | 3:09 | 2022-06-08 | 2022-07-29 |
+| [Como Si Nada](https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:09 | 2022-06-08 |  |
 | [Como Tú Decidas](https://open.spotify.com/track/0L9Qlwkul3bl6jH5W7yx6B) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Éxitos](https://open.spotify.com/album/2dTjktd31M87a9QseiJjDO) | 3:07 | 2022-06-08 | 2022-07-28 |
 | [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/track/4wVmbrxbSos5XFSkxJgStl) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/album/3MIYSFtANScbsIejPwRZuP) | 2:55 | 2022-06-08 | 2022-07-25 |
 | [Con la Tierra Encima](https://open.spotify.com/track/5m0XGcySX8eSPIXMN4BiZc) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Los Mejores Exitos](https://open.spotify.com/album/6qhBH3nc4OfnROXt5hTjqq) | 3:04 | 2022-06-08 | 2022-07-27 |
@@ -180,7 +181,7 @@
 | [Pa Todo el Año](https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pa Todo El Año](https://open.spotify.com/album/2UufMxMzrT7slWILaSfR0T) | 3:08 | 2022-06-08 | 2022-07-29 |
 | [Pa' las Que Sea](https://open.spotify.com/track/5Py9vTPJgz4qBAZGUd8ecq) | [Jimmy Gutierrez](https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV) | [Pa' las Que Sea](https://open.spotify.com/album/2hqhyjxyk4pg98zs5jclim) | 4:21 | 2022-06-08 | 2022-07-28 |
 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 | 2022-06-08 |  |
-| [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 | 2022-06-08 |  |
+| [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 | 2022-06-08 | 2022-11-28 |
 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 | 2022-06-08 | 2022-07-25 |
 | [Perdí la Pose](https://open.spotify.com/track/6FGMsyDuHxkUmPwMvAJvDj) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 2:37 | 2022-06-08 |  |
 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 | 2022-06-08 |  |

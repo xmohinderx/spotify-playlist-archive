@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,194 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,206 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 38 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
 | 39 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 40 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
-| 41 | [Prendete](https://open.spotify.com/track/6Dei890Fy98wn36t39CSht) | [Ery](https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Prendete](https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq) | 3:33 |
-| 42 | [Mala Memoria](https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Mala Memoria](https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA) | 2:58 |
+| 41 | [Mala Memoria](https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Mala Memoria](https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA) | 2:58 |
+| 42 | [Prendete](https://open.spotify.com/track/6Dei890Fy98wn36t39CSht) | [Ery](https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Prendete](https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq) | 3:33 |
 | 43 | [Traje Tusi](https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Traje Tusi](https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7) | 3:02 |
 | 44 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
 | 45 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 56 | [Full Pioli \(feat\. Best\)](https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Full Pioli \(feat\. Best\)](https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb) | 2:36 |
 | 57 | [PA QUÉ PUuu](https://open.spotify.com/track/6LieYtwlDRlIusYZsYA4tw) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [PA QUÉ PUuu](https://open.spotify.com/album/2io6YasDpSkIaF2TLDuAYO) | 1:59 |
 | 58 | [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 |
-| 59 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
-| 60 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
+| 59 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
+| 60 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDViNzY5ZmZkYjRjNjU1OTNhOTRiOTlkN2M5MjczMzg3`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDNjMDEwOTQyNTc2NzE4ODgwOGNlN2JlNmVhZTUyNTMw`

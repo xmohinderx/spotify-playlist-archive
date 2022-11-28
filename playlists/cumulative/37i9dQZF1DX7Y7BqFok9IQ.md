@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-135 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
+136 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Destination Unknown](https://open.spotify.com/track/2svcyE4LIiCKgBOVGtLDdC) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Destination Unknown](https://open.spotify.com/album/11HPOujLHHqTCpAbVNnBd5) | 4:50 | 2022-09-09 | 2022-10-15 |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-10 |  |
 | [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 | 2021-08-06 | 2022-07-26 |
-| [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 |  |
+| [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 | 2022-11-28 |
 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 |  |
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2022-07-12 |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2022-08-27 |
@@ -133,6 +133,7 @@
 | [Third Eye Witness](https://open.spotify.com/track/0nDWq31XCAiMjiFowRy8J8) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb) | [Third Eye Witness](https://open.spotify.com/album/5stY57R9CRn0feCybn8JGa) | 5:10 | 2021-02-19 | 2022-06-30 |
 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 | 2020-10-16 |  |
 | [True Lies](https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [True Lies](https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV) | 5:51 | 2022-09-16 |  |
+| [Truth Be Told](https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Truth Be Told EP](https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR) | 2:46 | 2022-11-18 |  |
 | [Waiting For Your Man](https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Waiting For Your Man](https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd) | 3:35 | 2022-04-08 | 2022-07-29 |
 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 | 2020-10-16 |  |
 | [Westbound](https://open.spotify.com/track/5UJTAeX6bJC9lKi7kgLI6y) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 2:12 | 2020-10-16 | 2022-06-01 |

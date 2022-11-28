@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shouldn't Couldn't Wouldn't](https://open.spotify.com/track/16ox7ZM0ozbzBOTjFecYuY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Head In The Clouds II](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) | 3:15 |
-| 2 | [i'm glad that you found someone](https://open.spotify.com/track/2dEeqbtc9uQ9YeMEhbgesL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [i'm glad that you found someone](https://open.spotify.com/album/4M8qEALk69QAu2QKFPREV6) | 2:18 |
-| 3 | [dating myself](https://open.spotify.com/track/3kZQbfCHwsEqUzyguM0sDi) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:24 |
+| 2 | [dating myself](https://open.spotify.com/track/3kZQbfCHwsEqUzyguM0sDi) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:24 |
+| 3 | [i'm glad that you found someone](https://open.spotify.com/track/2dEeqbtc9uQ9YeMEhbgesL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [i'm glad that you found someone](https://open.spotify.com/album/4M8qEALk69QAu2QKFPREV6) | 2:18 |
 | 4 | [new heartbreak](https://open.spotify.com/track/4QlWWP0p9zkVFnls5xoI35) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [new heartbreak](https://open.spotify.com/album/7oPhOoCsmqealichnE6389) | 3:14 |
 | 5 | [one that got away](https://open.spotify.com/track/6D9tzZdTwuPMxVZ2gD6GqJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:21 |
 | 6 | [Here For You](https://open.spotify.com/track/5rzGiTAIVeAGsIVEdWEl8s) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Sad Alex](https://open.spotify.com/artist/1KTyNO6uawc8w27nGwnZmV) | [For You](https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc) | 2:47 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 72 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 73 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc4MjUxOTgsMDAwMDAwMDBjMzAwYjcyNDBiZDYxZjQ2ZmU5ZmY1NTc2ZWI1NzhjMA==`
+Snapshot ID: `Mjc4MjY2MzgsMDAwMDAwMDBjOGNmYzI2ZjE2NTgyMGIzNDQ1YzhhYWQ3ODdiM2FmNg==`

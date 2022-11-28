@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,280 likes - 147 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,309 likes - 147 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 80 | [Load Game \(Stardew Valley\)](https://open.spotify.com/track/35C8hj4I6JNY2nYbTrFrrc) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Load Game \(Stardew Valley\)](https://open.spotify.com/album/6amw5ydhWMZJ68Hnw5CmNd) | 2:27 |
 | 81 | [future retro](https://open.spotify.com/track/4W0VbKOx9nIMl822qQHef1) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [future retro](https://open.spotify.com/album/3mJhmdDs83sGZfpr9pYpgN) | 2:01 |
 | 82 | [Woolcap Saloon](https://open.spotify.com/track/79TCl2g8jBaiEr77MiAZn1) | [Baloba](https://open.spotify.com/artist/23nC3SpcMb9XQsHaLqFig7) | [Childhood](https://open.spotify.com/album/7JGtKeeBttaKxU80ZGA7bP) | 1:59 |
-| 83 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 |
+| 83 | [lemon](https://open.spotify.com/track/3Ca0cl4Qs3IhEBJpjVf53x) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [old fruits](https://open.spotify.com/album/3ksNu0rBR7M7nPfsUTxyQA) | 1:54 |
 | 84 | [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 1:26 |
 | 85 | [Breaking News](https://open.spotify.com/track/4mEs8XjOPDx1Fk3mUYLlxO) | [Pepper and Po](https://open.spotify.com/artist/5lLoKN0MlrFNTK3feEZPkR) | [Breaking News](https://open.spotify.com/album/1tiSY3V1uZ4lCkdqArnV5N) | 2:37 |
 | 86 | [Monday Matinee](https://open.spotify.com/track/2QVvPcXhFyF3OdOoteL0JM) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Guessing Game](https://open.spotify.com/album/1wBQrUABqzsIWnQ4q6uC7m) | 2:07 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 146 | [Personal](https://open.spotify.com/track/1Jas2WQLIJM6GNaHm7d6pi) | [Densky9](https://open.spotify.com/artist/2FzImqc6MWD57A5yR5KXz0) | [Panda Talk](https://open.spotify.com/album/4F3Z82DPFRp0PHJCQkpiKt) | 3:42 |
 | 147 | [Hello Friend](https://open.spotify.com/track/2pEj9K2VWulm0nyTrDYond) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:01 |
 
-Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwMDJmNDY5MmJlMTAzZGRjYTIwYjkwZDkyOGM4ZWQxNDI4`
+Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwMDQyMTQ2M2RlN2I2YzlhZGE1ODIwNmU3NzU0MjRmOWQ1`

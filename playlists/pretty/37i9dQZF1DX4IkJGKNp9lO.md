@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,906 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,912 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 25 | [Hon Får...](https://open.spotify.com/track/5sbPNqCZq15zNo0ZQj75gT) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM) | 4:08 |
 | 26 | [Livet Är För Kort För Sorgliga Sånger](https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp) | [Gatans Lag](https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2) | [Från Fest Till Arrest](https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a) | 3:15 |
 | 27 | [Betongbarn](https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kaos & Skrål 85\-87](https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq) | 2:51 |
-| 28 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 |
-| 29 | [Sibirien](https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV) | [Trubbel](https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M) | [Trubbel](https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K) | 1:25 |
+| 28 | [Sibirien](https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV) | [Trubbel](https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M) | [Trubbel](https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K) | 1:25 |
+| 29 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 |
 | 30 | [Punkrockarflicka](https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 2:08 |
 | 31 | [En slemmig torsk](https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:49 |
 | 32 | [Drömmen](https://open.spotify.com/track/3HP3I1YVPnDB2awjQ7lxFq) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/0rLAjBrkMIZpu9VoyqfhV3) | 2:05 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 34 | [Psykopaten](https://open.spotify.com/track/4c6adBbwi1LnSJDwSayW9Y) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/11i9Y2YSd0dEMcALvVNhXa) | 3:19 |
 | 35 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 |
 | 36 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 |
-| 37 | [Arbetslös](https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo) | [VÄNSTERNÄVEN](https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl) | [Välkommen Hit](https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f) | 1:30 |
-| 38 | [Balladen Om Lilla Elsa](https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 2:23 |
+| 37 | [Balladen Om Lilla Elsa](https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 2:23 |
+| 38 | [Arbetslös](https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo) | [VÄNSTERNÄVEN](https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl) | [Välkommen Hit](https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f) | 1:30 |
 | 39 | [Johanna](https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:34 |
 | 40 | [Sverigevänner](https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Ond saga](https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X) | 3:24 |
 | 41 | [Sibylla](https://open.spotify.com/track/3OhmF7xJuoNr5EQNWcw03q) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat För Folk I Farten](https://open.spotify.com/album/2zyjwH3dY4mqHEykHoKzTh) | 3:30 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 60 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 |
 | 61 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
 | 62 | [Gravöl](https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo) | 3:06 |
-| 63 | [Pappa Betalar](https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:31 |
+| 63 | [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 |
 | 64 | [Ni får aldrig in mig där](https://open.spotify.com/track/6SYznjcNBTzWkyfJuolhfa) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/1c86hf60yWW0pBqfIHV2Np) | 2:59 |
-| 65 | [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 |
+| 65 | [Pappa Betalar](https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:31 |
 
-Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMGVjMTU3ZDY5YzViNWJlYTQyOGI1YzIxMTVlNTkyMzE1`
+Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMGUxMDY3MTNmZDAxYzk1ZDEzYzNkNjA0ODA0NzE0ZTU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,731 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,943 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 7 | [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Paranoid \(Crash & Burn\)](https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF) | 3:55 |
 | 8 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 |
 | 9 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
-| 10 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
-| 11 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 |
+| 10 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 |
+| 11 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
 | 12 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
 | 13 | [Puppet](https://open.spotify.com/track/46ZAZCCvb8DKNmQhWu4oEL) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Puppet](https://open.spotify.com/album/5KqCYl5glzwAcnF0Gg9LJD) | 3:37 |
 | 14 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 39 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
 | 40 | [Contact](https://open.spotify.com/track/6WTb67YHPih0UCVxXGLDKn) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5Kx3hP0LhUKsnD1TY0DArM) | 3:34 |
 | 41 | [saw BONES](https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [saw BONES](https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC) | 2:27 |
-| 42 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 |
-| 43 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
-| 44 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
-| 45 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
+| 42 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
+| 43 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 |
+| 44 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
+| 45 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
 | 46 | [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 |
-| 47 | [WHATS UP?](https://open.spotify.com/track/4l0hBlylNScrA6g3b9eb2X) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [WHATS UP?](https://open.spotify.com/album/4xCJjBbWtF8lOdvobITRB2) | 2:48 |
-| 48 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
+| 47 | [Heads Off](https://open.spotify.com/track/6YscsgZWCPcceessZBN1di) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7) | 4:31 |
+| 48 | [WHATS UP?](https://open.spotify.com/track/4l0hBlylNScrA6g3b9eb2X) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [WHATS UP?](https://open.spotify.com/album/4xCJjBbWtF8lOdvobITRB2) | 2:48 |
 | 49 | [LXVE](https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [LXVE](https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi) | 3:11 |
-| 50 | [Heads Off](https://open.spotify.com/track/6YscsgZWCPcceessZBN1di) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7) | 4:31 |
+| 50 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
 | 51 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
 | 52 | [Into The Void \- Single Edit](https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Into The Void](https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL) | 3:30 |
 | 53 | [FUCK WITH A WITCH 2](https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FUCK WITH A WITCH 2](https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e) | 1:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 79 | [Alone I Burn \- Radio Edit](https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE) | [Synthetic Blast](https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b) | [Alone I...](https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj) | 4:40 |
 | 80 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
 
-Snapshot ID: `MTY2ODczNTczNiwwMDAwMDAwMDA1Yzc0MzViMzFkZWQyZmY2YjBjMmE5NmJkZjBhMjRk`
+Snapshot ID: `MTY2ODczNTczNiwwMDAwMDAwMGU5MzI1MzYwYWRlN2NiZTFmNDk4N2Q3ZjVkMzU1M2Jk`

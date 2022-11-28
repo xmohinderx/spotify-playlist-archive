@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-951 songs - 2 day 3 hr 30 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+952 songs - 2 day 3 hr 34 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Coupe](https://open.spotify.com/track/1LnbiN5Rh44CkUFZNfkXle) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 2:30 | 2022-04-29 | 2022-05-26 |
 | [Coupe](https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:03 | 2021-07-18 | 2021-07-19 |
 | [CPM](https://open.spotify.com/track/49rXlRxJwYPU3uQLjfE2tv) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [Cego Menz](https://open.spotify.com/artist/7ip8u4norsxXnkg0fDfL0L) | [CPM](https://open.spotify.com/album/2nJoR63jRYORe20FREOwrn) | 3:33 | 2022-10-21 | 2022-10-23 |
+| [Crayon](https://open.spotify.com/track/3Ih2cQKuXvsKOFlhZAnBDW) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [Crayon](https://open.spotify.com/album/4nPRQeETNSzXAq0Q97hpla) | 3:38 | 2022-11-27 |  |
 | [Credit](https://open.spotify.com/track/1vBxWdcP9a25Zv7dbsTN9M) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [Credit](https://open.spotify.com/album/6qdnpra7gFwxZWcas3QiTA) | 3:13 | 2021-03-27\* | 2021-04-08 |
 | [Criminal](https://open.spotify.com/track/0oUuX5C3z1Z7I3sAGeJQ31) | [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0), [Acejax](https://open.spotify.com/artist/4XJPVnaKHtfPw75SomdyQ5), [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Criminal](https://open.spotify.com/album/21XWhryFz3mmk8XDDDpsDB) | 3:23 | 2021-05-06 | 2021-05-25 |
 | [Criminal](https://open.spotify.com/track/5ULjMFUY8wZUj3LZAsy8rD) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [SALVA](https://open.spotify.com/artist/4uxKjHpF1AVuoZoDqp4whz) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:59 | 2022-01-14 | 2022-02-24 |
@@ -380,7 +381,7 @@
 | [I Need Your Love](https://open.spotify.com/track/5kl3mR1jZFE4y17rk2pzz6) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [I Need Your Love](https://open.spotify.com/album/6qUufIa4ehWn84oTWIm0Tj) | 2:39 | 2022-06-27 | 2022-08-04 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-09-04 |
 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-10-09 | 2022-10-20 |
-| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-10 |  |
+| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-10 | 2022-11-28 |
 | [Ibiza](https://open.spotify.com/track/1I8WeuAQ7UAfLZiExVRiKt) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Bad Boy \(Summer Hits\)](https://open.spotify.com/album/21rySo430y5dVWknVK0JAB) | 3:26 | 2022-05-28 | 2022-08-28 |
 | [Ibiza](https://open.spotify.com/track/1VuKTIwRSERLp4Y1kghzpl) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Ibiza](https://open.spotify.com/album/06lnz8zuPoloBmNCWVCZ0J) | 3:29 | 2022-05-21 | 2022-05-31 |
 | [Ice BOYZ](https://open.spotify.com/track/3mgfECSAnvo2cADUvLjHqB) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [Ice BOYZ](https://open.spotify.com/album/0g2n5pvDvupyq0aTuCc2ed) | 2:31 | 2021-04-28 | 2021-05-23 |

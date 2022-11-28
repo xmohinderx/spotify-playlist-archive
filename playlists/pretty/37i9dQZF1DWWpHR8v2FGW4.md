@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,173 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,440 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 14 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
 | 15 | [Fire](https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Matisse](https://open.spotify.com/artist/23htNRZZo1AaSgRb8ZULJV) | [Fire](https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3) | 4:20 |
 | 16 | [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 |
-| 17 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 |
-| 18 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 |
+| 17 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 |
+| 18 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 |
 | 19 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
 | 20 | [Holding On](https://open.spotify.com/track/4iBXsLZwRBV2qwiz29s5by) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Holding On](https://open.spotify.com/album/4KLxuKqdInrzo8HEPGUgTo) | 2:44 |
 | 21 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 45 | [Think About Me](https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr) | [Azifm](https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7), [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Think About Me](https://open.spotify.com/album/3uy36BQ4KfPhacRYarKzGT) | 4:40 |
 | 46 | [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 |
 | 47 | [Wait](https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA) | [NEUNOSIEM](https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ) | [Wait](https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f) | 2:59 |
-| 48 | [Climax](https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/5HuiKWU9kTp3H4hE4m4UVQ) | 4:29 |
-| 49 | [Earthquake](https://open.spotify.com/track/68KMOVytW0PxjJvTn5cJCU) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Sounds Of The Street II](https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG) | 2:26 |
+| 48 | [Earthquake](https://open.spotify.com/track/68KMOVytW0PxjJvTn5cJCU) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Sounds Of The Street II](https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG) | 2:26 |
+| 49 | [Climax](https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/5HuiKWU9kTp3H4hE4m4UVQ) | 4:29 |
 | 50 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 |
 
-Snapshot ID: `MTY2NzgzMjY3NSwwMDAwMDAwMDBmOGE1Yjc0NzQwNzg2NDAwZGZiOTU1OTMxYjE5ZGM2`
+Snapshot ID: `MTY2NzgzMjY3NSwwMDAwMDAwMDlmNjM5ZTQyNTk2MDhjMjg1OWMzMTg5NTc0ZTZlZmRm`

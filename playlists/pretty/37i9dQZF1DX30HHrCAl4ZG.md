@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,937 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,889 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 23 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 |
 | 24 | [Maybe Love](https://open.spotify.com/track/4chYGJ4RxKLpW5DqrYu93f) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Maybe Love](https://open.spotify.com/album/4YSQjDdAxbWbuZNwU36BUT) | 2:38 |
 | 25 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 |
-| 26 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
+| 26 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 27 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 |
 | 28 | [Just Before The Morning](https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Just Before The Morning](https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x) | 3:34 |
 | 29 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 59 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 60 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 |
 
-Snapshot ID: `MTY2OTI4MzU4MCwwMDAwMDAwMDg1Zjk0MDEyZTAzMTJjYTNhNjMxY2JjMTBjNDdkZWUw`
+Snapshot ID: `MTY2OTI4MzU4MCwwMDAwMDAwMGEzOTk3M2YzOWUzNjU5ODAwMDIyMjBlY2QxMDhmMTkx`

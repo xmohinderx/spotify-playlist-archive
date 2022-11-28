@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1083,
+  "num_followers": 1087,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM3NzI4NCwwMDAwMDAwMGYxMTA4NTI0M2ZjYWFkMTM2ZTFiYmY2ZGI3OGUxNTZj",
+  "snapshot_id": "MTY2OTM3NzI4NCwwMDAwMDAwMGQ0ZjBkYzE2OTcyNzdhZjM3YWM1NWU1NzRiMjZjODdk",
   "tracks": [
     {
       "added_at": "2022-11-25 11:45:40",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Wangi",
+        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wangi",
+      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Where I Go",
         "url": "https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 175200,
       "name": "Where I Go",
       "url": "https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Wangi",
-        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wangi",
-      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
-      "added_at": "2022-11-27 01:13:01",
+      "added_at": "2022-11-28 01:09:01",
       "album": {
         "name": "Toora Love",
         "url": "https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE"
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Omu",
         "url": "https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 174705,
       "name": "Omu",
       "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "The Road to Kirya",
@@ -667,22 +683,6 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -777,6 +777,26 @@
       "url": "https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Kwetega",
+        "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
+      },
+      "artists": [
+        {
+          "name": "Ruyonga",
+          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Kwetega",
+      "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
+    },
+    {
       "added_at": "2022-10-07 10:52:01",
       "album": {
         "name": "King Kong",
@@ -791,6 +811,22 @@
       "duration_ms": 194594,
       "name": "Magic (fik)",
       "url": "https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
+      },
+      "artists": [
+        {
+          "name": "Recho Rey",
+          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
+        }
+      ],
+      "duration_ms": 164963,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -815,58 +851,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
-      },
-      "artists": [
-        {
-          "name": "Recho Rey",
-          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
-        }
-      ],
-      "duration_ms": 164963,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Tebali Ready",
-        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Tebali Ready",
-      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Kwetega",
-        "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
-      },
-      "artists": [
-        {
-          "name": "Ruyonga",
-          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Kwetega",
-      "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Star Gal",
         "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 206471,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Tebali Ready",
+        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Tebali Ready",
+      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
       "added_at": "2022-09-30 11:18:57",

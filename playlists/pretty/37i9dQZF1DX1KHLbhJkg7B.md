@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,541 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,569 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 23 | [When You Say Nothing At All](https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Now That I've Found You: A Collection](https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs) | 4:20 |
 | 24 | [I'm A Ram](https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm A Ram](https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm) | 3:59 |
 | 25 | [Lover, Lover](https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:13 |
-| 26 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 |
+| 26 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 |
 | 27 | [Photograph](https://open.spotify.com/track/5nUonsVQLhAD6Qm5znhfSj) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Monarch \(Original Soundtrack\) \[Season 1, Episode 2\]](https://open.spotify.com/album/5S9TYuKvpOaAq24NQJq1Yz) | 4:09 |
-| 28 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 |
+| 28 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 |
 | 29 | [rainbow](https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [rainbow](https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd) | 3:22 |
 | 30 | [Seminole Wind](https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 4:38 |
 | 31 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:53 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 38 | [The Race Is On](https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [The Boys Are Back](https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz) | 2:56 |
 | 39 | [Outskirts of Heaven \(feat\. Craig Campbell\)](https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 3:52 |
 | 40 | [Much Too Young \(To Feel This Damn Old\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 2:37 |
-| 41 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 |
-| 42 | [Paradise](https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Paradise](https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK) | 3:18 |
+| 41 | [Paradise](https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Paradise](https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK) | 3:18 |
+| 42 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 |
 | 43 | [Let's All Help the Cowboys \(Sing the Blues\)](https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:04 |
 | 44 | [Nothing Else Matters](https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg) | 8:14 |
 | 45 | [Summertime Blues](https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 100 | [If We Were Vampires](https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM) | [Motel Drive](https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD), [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [If We Were Vampires](https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK) | 4:13 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGY3ODE0YWQ3ZDVlOWQxYWE2OWYzN2MzNTJiNGM3ZGU0`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGFmZDI5MWZlNWEwZjAxYmI5NmE2YjBhYjMzZjIzMzA4`

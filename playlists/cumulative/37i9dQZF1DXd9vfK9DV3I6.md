@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-222 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+223 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn) | [Lane Moje](https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE) | 2:59 | 2022-10-27 |  |
 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd) | [Lane Moje](https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9) | 2:59 | 2020-10-24 | 2022-10-29 |
 | [Larg](https://open.spotify.com/track/66GUwtlP1t61yBOMwhBaAb) | [Elgit Doda](https://open.spotify.com/artist/4hRijRWd1vh3JX68IyZpfH) | [Larg](https://open.spotify.com/album/5ZuAQTHJWcgnUhk4YCK6RF) | 3:12 | 2021-04-26 |  |
+| [Lbechra](https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:55 | 2022-11-25 |  |
 | [Le Beirut](https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS), [Samia](https://open.spotify.com/artist/4rcc50B4lBpvHrylYxv62s) | [Le Beirut](https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX) | 7:11 | 2020-11-06 |  |
 | [Letting Go \- Radio Edit](https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt) | [H.A.Z.E](https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh) | [Letting Go](https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4) | 3:28 | 2020-10-18\* |  |
 | [Lik \(Mashti & Polyesta Remix for Womex 14\)](https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Buddha Bar XVII](https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN) | 5:23 | 2022-06-27 |  |
@@ -205,7 +206,7 @@
 | [Syria \- Original](https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu) | [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue) | [Syria](https://open.spotify.com/album/63QglWXaVZfTcFOKvgIi54) | 8:03 | 2020-10-18\* | 2022-10-09 |
 | [Tarlabasi \- Be Svendsen Remix](https://open.spotify.com/track/41JWvOS6vhn2uANnUsKVEG) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Indoor Voyager EP](https://open.spotify.com/album/3909IHgEbjaOHcmPDZwAPM) | 9:05 | 2020-10-18\* | 2022-07-29 |
 | [Tarlabasi \- Be Svendsen Remix](https://open.spotify.com/track/4cIDajUp2dMjKiDmDvFDg8) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Indoor Voyager EP](https://open.spotify.com/album/29wjqxriGDiYH1kFs4njxY) | 9:05 | 2022-06-27 |  |
-| [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 4:34 | 2021-12-16 |  |
+| [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 4:34 | 2021-12-16 | 2022-11-28 |
 | [The Clarinetto](https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771) | [Lele Cecchini](https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E), [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [The Clarinetto](https://open.spotify.com/album/635atptPBSgJZjOnYtcssp) | 4:43 | 2022-06-23 |  |
 | [The Fire](https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD) | [The Fire](https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ) | 2:56 | 2020-10-18\* |  |
 | [The Long March \- Remix](https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Valentin Mussou](https://open.spotify.com/artist/6RwAD59ilMvWSnrNqzlRI6) | [The Long March \(Remix\)](https://open.spotify.com/album/1tFWncTkrPbL7eklHcNgR5) | 5:04 | 2020-10-18\* |  |

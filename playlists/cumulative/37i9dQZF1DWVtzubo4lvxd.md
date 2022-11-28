@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-212 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+213 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Brazilian Samurai](https://open.spotify.com/track/6ITLE7JzvrfBwsFqbGtWoL) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brazilian Samurai](https://open.spotify.com/album/4lotT58cTAdgciKcWdSl8W) | 2:41 | 2022-04-15 | 2022-07-29 |
 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 | 2022-04-15 |  |
 | [Casino Space Gun](https://open.spotify.com/track/2p83a4H9M3lElGRga9nEgm) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Casino Space Gun](https://open.spotify.com/album/7KmciSq3fci8jZvxpiY46i) | 2:20 | 2022-04-15 | 2022-07-29 |
-| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 |  |
+| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 | 2022-11-28 |
 | [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 | 2022-04-15 | 2022-07-07 |
 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 | 2022-04-15 |  |
 | [Clouds on My Bed](https://open.spotify.com/track/1pab9zVbWB1AsOknBXifbd) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Motel Lazy](https://open.spotify.com/album/1j3DSMGxqDAukUT52VLShV) | 2:32 | 2022-04-15 | 2022-07-04 |
@@ -213,6 +213,7 @@
 | [Water](https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:58 | 2022-04-15 |  |
 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 | 2022-04-15 |  |
 | [we used to talk every night](https://open.spotify.com/track/6kAMaQt8UveeTctekIpUjF) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/25mhdKvHHJ6QwDnsCmAaav) | 2:02 | 2022-04-15 | 2022-11-20 |
+| [we used to talk every night](https://open.spotify.com/track/0tqIvb0b7WpOYMYJR2Ef38) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/4qSrP99f58y212MoMioGu0) | 2:02 | 2022-04-15 |  |
 | [what does hiphop mean to you](https://open.spotify.com/track/7qFb8eLt503uCdvhUmlmvS) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [beat tape 06](https://open.spotify.com/album/5zpXXNH6qDDCeLPS6hLO3Y) | 2:03 | 2022-04-15 | 2022-07-25 |
 | [when the sun goes down](https://open.spotify.com/track/6uGuRIuiW7QBnSOuCELiIy) | [Aschen](https://open.spotify.com/artist/2EbcgO69SwHoTLvjsi9OZt) | [when the sun goes down](https://open.spotify.com/album/7el5zexVmDu0HKUf5s3xXH) | 1:48 | 2022-04-15 | 2022-07-29 |
 | [Where I Met You](https://open.spotify.com/track/2AuHTUSBMMNVHeO93a6n25) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Where I Met You](https://open.spotify.com/album/5ytO2NvW7eW9ABV5RcyvDI) | 2:21 | 2022-04-15 | 2022-07-28 |

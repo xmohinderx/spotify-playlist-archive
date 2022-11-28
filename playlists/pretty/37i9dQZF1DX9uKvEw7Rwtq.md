@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,042 likes - 55 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,140 likes - 55 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 30 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 |
 | 31 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 |
 | 32 | [OUR SIDE HAS TO WIN \(for D.H.\)](https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 6:30 |
-| 33 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
-| 34 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
+| 33 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
+| 34 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
 | 35 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
-| 36 | [In Collusion with the Waves](https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [The Ever Shifting Fields](https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL) | 4:37 |
-| 37 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 |
-| 38 | [Rooftop](https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Vespertine](https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5) | 5:50 |
+| 36 | [Rooftop](https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Vespertine](https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5) | 5:50 |
+| 37 | [In Collusion with the Waves](https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [The Ever Shifting Fields](https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL) | 4:37 |
+| 38 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 |
 | 39 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 |
 | 40 | [Forever Rain](https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [Beautiful Illusions](https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc) | 5:34 |
 | 41 | [Feeling Everything but Lost](https://open.spotify.com/track/5OY253uETDSe8456oYvkS3) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Feeling Everything but Lost](https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG) | 4:55 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 54 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
 | 55 | [The Slide Song](https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Pure Phase](https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a) | 3:52 |
 
-Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMGVlNzA1ZmFkY2NlYzcxMDllNWRmNDI1MDcxYjZiNzhh`
+Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDUwMDJlYmFmM2MzZjM5OTI4Yjk3MzljODExMzg3MzZl`

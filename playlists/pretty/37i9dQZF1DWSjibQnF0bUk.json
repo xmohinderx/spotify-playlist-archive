@@ -1,12 +1,12 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 331436,
+  "num_followers": 331673,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MTA0MywwMDAwMDAwMGM0NDI3NDQ0MjY4MTY1NDUzMjE2N2JiNDVhMTJjN2Q0",
+  "snapshot_id": "MTY2OTM2MTA0MywwMDAwMDAwMDI3MzI4YTc3OTkzY2MyYjFmMGExZTc2Njg0NmU4NDc5",
   "tracks": [
     {
       "added_at": "2022-09-19 07:34:58",
@@ -797,6 +797,34 @@
       "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
+      "added_at": "2022-11-18 11:17:56",
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/195GWiPzBeREYEZv0sNnRN"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        },
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        }
+      ],
+      "duration_ms": 446573,
+      "name": "Tsela Tse Nyane",
+      "url": "https://open.spotify.com/track/7IQbOBVEQTb3lGNNi1e71i"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Don't Call Me (feat. Zinoleesky)",
@@ -849,54 +877,6 @@
       "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
     },
     {
-      "added_at": "2022-11-18 11:17:56",
-      "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/195GWiPzBeREYEZv0sNnRN"
-      },
-      "artists": [
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "M.J",
-          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
-        },
-        {
-          "name": "Pabi Cooper",
-          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
-        }
-      ],
-      "duration_ms": 446573,
-      "name": "Tsela Tse Nyane",
-      "url": "https://open.spotify.com/track/7IQbOBVEQTb3lGNNi1e71i"
-    },
-    {
-      "added_at": "2022-08-12 05:48:15",
-      "album": {
-        "name": "Jaiye Foreign",
-        "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 190164,
-      "name": "Jaiye Foreign",
-      "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
-    },
-    {
       "added_at": "2022-08-12 05:48:15",
       "album": {
         "name": "Nice (Kiss)",
@@ -923,6 +903,26 @@
       "duration_ms": 297857,
       "name": "Nice (Kiss)",
       "url": "https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA"
+    },
+    {
+      "added_at": "2022-08-12 05:48:15",
+      "album": {
+        "name": "Jaiye Foreign",
+        "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 190164,
+      "name": "Jaiye Foreign",
+      "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
     },
     {
       "added_at": "2022-11-18 11:17:56",
@@ -963,6 +963,26 @@
       "duration_ms": 155428,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
+    },
+    {
+      "added_at": "2022-11-25 07:24:03",
+      "album": {
+        "name": "Bad Boy (feat. Mayorkun)",
+        "url": "https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "Bad Boy (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
     },
     {
       "added_at": "2022-10-28 12:35:52",
@@ -1061,42 +1081,6 @@
       "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
-    },
-    {
-      "added_at": "2022-11-25 07:24:03",
-      "album": {
-        "name": "Bad Boy (feat. Mayorkun)",
-        "url": "https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "Bad Boy (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
-    },
-    {
       "added_at": "2022-11-18 11:17:56",
       "album": {
         "name": "Maitama (Going)",
@@ -1123,6 +1107,22 @@
       "duration_ms": 206315,
       "name": "Maitama (Going)",
       "url": "https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
     },
     {
       "added_at": "2022-07-22 04:42:00",
@@ -1157,20 +1157,24 @@
       "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
     },
     {
-      "added_at": "2022-08-12 05:48:15",
+      "added_at": "2022-07-28 23:00:00",
       "album": {
-        "name": "Hypertension / Things I Need",
-        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
+        "name": "Full Current (That's My baby)",
+        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
       },
       "artists": [
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 197894,
-      "name": "Hypertension",
-      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
+      "duration_ms": 208296,
+      "name": "Full Current (That's My Baby)",
+      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
     }
   ],
   "unique_name": "Afro Party Anthems",

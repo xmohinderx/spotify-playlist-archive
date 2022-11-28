@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,262 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,270 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 28 | [When Love Is New](https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 5:29 |
 | 29 | [I Think I'll Stay Home Today](https://open.spotify.com/track/7acTQ0sGLozR4ss0ipwAsi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 6:18 |
 | 30 | [Love Buddies](https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 3:39 |
-| 31 | [One Man's Junk](https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:16 |
+| 31 | [People Power](https://open.spotify.com/track/6juHCyYwxA0DrklqGnb1QU) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [People Power](https://open.spotify.com/album/6iymwlZyrYoH4V18jwg8HR) | 5:49 |
 | 32 | [I Want Cha' Baby](https://open.spotify.com/track/47PQRVxpVpddcLUl62JGFh) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 6:17 |
-| 33 | [People Power](https://open.spotify.com/track/6juHCyYwxA0DrklqGnb1QU) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [People Power](https://open.spotify.com/album/6iymwlZyrYoH4V18jwg8HR) | 5:49 |
-| 34 | [Ebony Woman](https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:52 |
-| 35 | [Billy's Back Home](https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 4:32 |
+| 33 | [One Man's Junk](https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:16 |
+| 34 | [Billy's Back Home](https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 4:32 |
+| 35 | [Ebony Woman](https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:52 |
 | 36 | [This Is Your Life](https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 4:15 |
 | 37 | [It's Critical](https://open.spotify.com/track/4JRQg67LUxpcdGCXfvGIVi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 3:50 |
 | 38 | [Sooner Or Later](https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 44 | [Compared to What](https://open.spotify.com/track/6DNKhb6QCGppmSz1AP423W) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 |
 | 45 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 |
 | 46 | [The Whole Town's Talking](https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 4:47 |
-| 47 | [Everybody's Breakin' Up](https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:02 |
+| 47 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 |
 | 48 | [Magic Carpet Ride](https://open.spotify.com/track/160J6uDzOUJpDRGWUgHhsm) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 |
-| 49 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 |
-| 50 | [I Gotta Put This Life Down](https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:45 |
+| 49 | [I Gotta Put This Life Down](https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:45 |
+| 50 | [Everybody's Breakin' Up](https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:02 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDAwOGJiMzIxMjJjYTRkZWU5MzU3NGY0ZGI3Yjk1YmIyZQ==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDAxN2Q2MjU5YTExYzlhM2MzOGVjN2Q3ZjZhNjBiYTc5Mg==`

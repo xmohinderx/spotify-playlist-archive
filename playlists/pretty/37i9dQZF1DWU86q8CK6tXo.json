@@ -1,12 +1,12 @@
 {
   "description": "Music by female-identifying musicians ONLY! Cover: <a href=\u201cspotify:artist:1GDbiv3spRmZ1XdM1jQbT7\u201d>Natti Natasha</a>. ",
-  "num_followers": 21907,
+  "num_followers": 21943,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQwNDE5OCwwMDAwMDAwMDhiNDBlNmJmYjI0N2I4MzdjZWUzNzI2NGJlNGFhYzlj",
+  "snapshot_id": "MTY2NzQwNDE5OCwwMDAwMDAwMGNhYWMxYTkwMWU3NTVjMTY0MjRjYjAyNzQyNzEyMWM1",
   "tracks": [
     {
       "added_at": "2022-11-02 15:49:58",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
-        "name": "uh oh",
-        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "uh oh",
-      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
     },
     {
       "added_at": "2022-11-02 15:49:58",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
-        "name": "Thank You Very Much",
-        "url": "https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 327867,
-      "name": "Thank You Very Much",
-      "url": "https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
         "name": "Keep The Change",
         "url": "https://open.spotify.com/album/0KePZJdZrkswyYtFmY4ZzC"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 187354,
       "name": "Keep The Change",
       "url": "https://open.spotify.com/track/2VlR46jqhpWZKmD8RmZCWl"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
+        "name": "Thank You Very Much",
+        "url": "https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 327867,
+      "name": "Thank You Very Much",
+      "url": "https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35"
     },
     {
       "added_at": "2022-11-02 15:49:58",

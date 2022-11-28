@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2087,
+  "num_followers": 2088,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDUzNzM3N2ExMjRiZDYyYzRiMjk5ZDY2NTE5ZWM5ZmI3",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGQ4N2JiNWRiNGVlZjEyMDhmZjNhNjM5YzEyYjc3Yzky",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 229560,
       "name": "Les amants de Pomp\u00e9i",
       "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Abri de fortune (pour fin du monde)",
-        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Corde \u00e0 linge",
-      "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Abri de fortune (pour fin du monde)",
+        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
         }
       ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+      "duration_ms": 199453,
+      "name": "Corde \u00e0 linge",
+      "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -939,6 +923,22 @@
       "duration_ms": 205373,
       "name": "Mot de passe",
       "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Avec les yeux",
-        "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
-      },
-      "artists": [
-        {
-          "name": "Fishbach",
-          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Masque d'or",
-      "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Saratoga",
         "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 297133,
       "name": "Oublie pas",
       "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Avec les yeux",
+        "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
+      },
+      "artists": [
+        {
+          "name": "Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Masque d'or",
+      "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 323480,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
       },
@@ -1299,6 +1267,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Haute M\u00e8re",
         "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 284653,
       "name": "Le souhait de Carmen",
       "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Un singe sur l'\u00e9paule",
+        "url": "https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo"
+      },
+      "artists": [
+        {
+          "name": "Julia Daigle",
+          "url": "https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x"
+        }
+      ],
+      "duration_ms": 254926,
+      "name": "Usage domestique",
+      "url": "https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Je me souviens",
         "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 168780,
       "name": "Vendeur de bi\u00e8re",
       "url": "https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Un singe sur l'\u00e9paule",
-        "url": "https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo"
-      },
-      "artists": [
-        {
-          "name": "Julia Daigle",
-          "url": "https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x"
-        }
-      ],
-      "duration_ms": 254926,
-      "name": "Usage domestique",
-      "url": "https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "La Force d'\u00c9ros",
-        "url": "https://open.spotify.com/album/5a26SnsK7DduKfPoK3Xy3U"
+        "name": "Sweet Mont\u00e9r\u00e9gie",
+        "url": "https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr"
       },
       "artists": [
         {
-          "name": "Gab Paquet",
-          "url": "https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp"
+          "name": "Alex Burger",
+          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
         }
       ],
-      "duration_ms": 212509,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/7F1EI4ZSFNOXm1jVl1clsE"
+      "duration_ms": 229413,
+      "name": "Sweet Mont\u00e9r\u00e9gie",
+      "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

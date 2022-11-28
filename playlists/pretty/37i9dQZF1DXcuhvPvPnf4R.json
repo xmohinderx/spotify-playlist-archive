@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 1373,
+  "num_followers": 1393,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGU0NzJiM2NmNDY0ZDBjY2VkOTQxOTkyYmI1YmMwNjhh",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDViZGNkMjQ4NTA0Yzc1MGM4NWQ0NDQwZTk2ZDU0NjFh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Tambourine",
+      "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 319386,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Tambourine",
-      "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
     },
     {
       "added_at": "2022-10-01 16:43:03",

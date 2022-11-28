@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=bSTf1MajQS6L2ajf\-MJZAA">Dlala Thukzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,019 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,050 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

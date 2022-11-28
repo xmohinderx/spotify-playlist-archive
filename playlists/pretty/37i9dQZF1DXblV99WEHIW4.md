@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music that understands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,905 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,168 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 67 | [Whatever Lets You Cope](https://open.spotify.com/track/1GlQsidelzGk9ljW0DQH4n) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [I'm Not Well](https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB) | 3:56 |
 | 68 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 |
 | 69 | [Ripple Water Shine](https://open.spotify.com/track/7rPpErLCzp22gTrEmx4XYb) | [Pianos Become The Teeth](https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C) | [Keep You](https://open.spotify.com/album/6FIG1qaWuCW4SiY2EtLJE7) | 3:29 |
-| 70 | [Pretender](https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [XOXO: From Love & Anxiety In Real Time](https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz) | 3:05 |
-| 71 | [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 |
+| 70 | [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 |
+| 71 | [Pretender](https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [XOXO: From Love & Anxiety In Real Time](https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz) | 3:05 |
 | 72 | [Feel Nothing](https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Violent Pop](https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp) | 3:42 |
 | 73 | [Bad At Love](https://open.spotify.com/track/3MwjVy96d2KNl99nrFPxmh) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Bad At Love](https://open.spotify.com/album/0nPFXbRDNvRH0297jTqgTh) | 3:22 |
 | 74 | [I'm Sorry](https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [Fall Better](https://open.spotify.com/album/75caqQ4HQYSxr9Ke6tFrUD) | 3:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 79 | [Background Sad](https://open.spotify.com/track/3QgcFagmjAErgUjXXZldZc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:31 |
 | 80 | [I Heard That You Died](https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw) | [Secret Keeper](https://open.spotify.com/artist/1PTWE7Ai94DpmZGoZ3I7RA) | [Losing Sleep](https://open.spotify.com/album/46RGSr1CHy2jWrnxt5LFgA) | 3:01 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDFmZjI2YTY5MmQ0MWMzYjBjYTFjMGQ3NjI1OGQ3Yjlm`
+Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDM0ZjZiYTNmYzZiMzM1NzNhYWFlMzIwZjk0ZTc0Yjkx`

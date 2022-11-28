@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 258295,
+  "num_followers": 258375,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMGNkMDU5ZTE3OWI2MzhiOWE5MWMyYzE0MGI0N2E3NmJi",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDhhNGM1MTRkZjA5NTZhMDUwODlhMjkwMTE5Yzk3OWQ3",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Hold You Tight",
+      "url": "https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Into The Wild",
-        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Hold You Tight",
-      "url": "https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Things That I'm Afraid Of",
+        "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "Things That I'm Afraid Of",
+      "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 218510,
       "name": "Teach Me to Dance (Acoustic Version)",
       "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Things That I'm Afraid Of",
-        "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "Things That I'm Afraid Of",
-      "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 237179,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 237179,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Believe For It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 223639,
       "name": "Hands - Radio Version",
       "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "The Love Of Jesus",
-        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "The Love Of Jesus",
-      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 228500,
       "name": "Friend",
       "url": "https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "The Love Of Jesus",
+        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "The Love Of Jesus",
+      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Eden (Isn't It Just Like You?)",
-        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Eden (Isn't It Just Like You?)",
-      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Jordan St. Cyr",
         "url": "https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 188426,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5zlWZifhZcoFGgMdXWycFw"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Eden (Isn't It Just Like You?)",
+        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Eden (Isn't It Just Like You?)",
+      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Hard Times",
-        "url": "https://open.spotify.com/album/0WrA9C0zhyyXwrzKucVEse"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 177603,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/67TGuYcdTm9fQyUvXbTCrv"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Always Only Jesus",
         "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Glory I Couldn't See (Radio Version)",
-        "url": "https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu"
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/0WrA9C0zhyyXwrzKucVEse"
       },
       "artists": [
         {
-          "name": "Mike Donehey",
-          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Glory I Couldn't See - Radio Version",
-      "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
+      "duration_ms": 177603,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/67TGuYcdTm9fQyUvXbTCrv"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1323,6 +1307,22 @@
       "duration_ms": 286130,
       "name": "God Really Loves Us",
       "url": "https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Glory I Couldn't See (Radio Version)",
+        "url": "https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu"
+      },
+      "artists": [
+        {
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Glory I Couldn't See - Radio Version",
+      "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Has It Been You",
-        "url": "https://open.spotify.com/album/2dbKYT7INEowVBF5t0eTpP"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        },
-        {
-          "name": "Sarah McMillan",
-          "url": "https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz"
-        }
-      ],
-      "duration_ms": 200738,
-      "name": "Has It Been You",
-      "url": "https://open.spotify.com/track/39JNapamVkzWAli5ZkPb7Q"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
@@ -1563,6 +1543,26 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Has It Been You",
+        "url": "https://open.spotify.com/album/2dbKYT7INEowVBF5t0eTpP"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        },
+        {
+          "name": "Sarah McMillan",
+          "url": "https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz"
+        }
+      ],
+      "duration_ms": 200738,
+      "name": "Has It Been You",
+      "url": "https://open.spotify.com/track/39JNapamVkzWAli5ZkPb7Q"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/00xTOJwRmfTABsNNQCZkHA"
-      },
-      "artists": [
-        {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
-        }
-      ],
-      "duration_ms": 247377,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5JTUzRWxGBR8GgkAyqjfvR"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/00xTOJwRmfTABsNNQCZkHA"
+      },
+      "artists": [
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        }
+      ],
+      "duration_ms": 247377,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5JTUzRWxGBR8GgkAyqjfvR"
     },
     {
       "added_at": "2022-10-01 07:07:16",

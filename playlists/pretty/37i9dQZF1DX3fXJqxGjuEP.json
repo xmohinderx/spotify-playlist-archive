@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 619351,
+  "num_followers": 619492,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MTMxOCwwMDAwMDAwMDRjMzVhNDA5ZTNlZDM5NDI3YmE5MDE2NmZlN2Q4NTFm",
+  "snapshot_id": "MTY2OTM0MTMxOCwwMDAwMDAwMDNlNzNiYzU1MDA1Njk4ODBjYzY2YzFiZTdmZjdiZTVi",
   "tracks": [
     {
       "added_at": "2022-05-09 03:18:01",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 167638,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Post Qu\u00edmica",
@@ -411,6 +395,22 @@
       "duration_ms": 188320,
       "name": "Post Qu\u00edmica",
       "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 167638,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -853,26 +853,6 @@
       "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
     },
     {
-      "added_at": "2022-02-11 02:34:16",
-      "album": {
-        "name": "Pupilas Lejanas",
-        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
-    },
-    {
       "added_at": "2022-04-17 18:31:09",
       "album": {
         "name": "TANDEM",
@@ -893,24 +873,24 @@
       "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2022-02-11 02:34:16",
       "album": {
-        "name": "Ojitos de Aceituna",
-        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
+        "name": "Pupilas Lejanas",
+        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
       "artists": [
         {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         },
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 167221,
-      "name": "Ojitos de Aceituna",
-      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+      "duration_ms": 226000,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -935,6 +915,26 @@
       "duration_ms": 312914,
       "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Ojitos de Aceituna",
+        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167221,
+      "name": "Ojitos de Aceituna",
+      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Satingarona, Pt. 2",
+        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Laurene P Magnani",
+          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
+        }
+      ],
+      "duration_ms": 294499,
+      "name": "Agua fr\u00eda",
+      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "El Caribefunk",
         "url": "https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 221133,
       "name": "Carin\u0303ito",
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Satingarona, Pt. 2",
-        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
-      },
-      "artists": [
-        {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
-        },
-        {
-          "name": "Laurene P Magnani",
-          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
-        }
-      ],
-      "duration_ms": 294499,
-      "name": "Agua fr\u00eda",
-      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
       },
       "artists": [
         {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        },
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
     },
     {
       "added_at": "2022-02-18 18:50:25",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
       },
       "artists": [
         {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        },
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
     },
     {
       "added_at": "2022-06-08 03:35:19",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Anakena",
-        "url": "https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd"
-      },
-      "artists": [
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Guayaba",
-      "url": "https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "\u00daltimos D\u00edas",
         "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Anakena",
+        "url": "https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Guayaba",
+      "url": "https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Cambiar\u00e1s",
         "url": "https://open.spotify.com/album/1x73tbGDGSdOSer7ctL5xl"
       },
@@ -1515,26 +1515,6 @@
       "duration_ms": 243934,
       "name": "Cambiar\u00e1s",
       "url": "https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC"
-    },
-    {
-      "added_at": "2022-09-02 05:59:54",
-      "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1569,6 +1549,26 @@
       "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
     },
     {
+      "added_at": "2022-09-02 05:59:54",
+      "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
       "added_at": "2022-01-04 01:50:46",
       "album": {
         "name": "Easy and Tropical Machine",
@@ -1583,30 +1583,6 @@
       "duration_ms": 236200,
       "name": "Cumbia Reggae",
       "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
-    },
-    {
-      "added_at": "2022-07-11 18:34:21",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1659,6 +1635,30 @@
       "duration_ms": 180569,
       "name": "Mis Amigos",
       "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
+    },
+    {
+      "added_at": "2022-07-11 18:34:21",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 261402,
-      "name": "A la Madrugada",
-      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "La F\u00f3rmula del Mambo",
         "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
       },
@@ -1827,26 +1811,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Criminal (feat. Elsa y Elmar)",
-        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
       },
       "artists": [
         {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 221042,
-      "name": "Criminal (feat. Elsa y Elmar)",
-      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+      "duration_ms": 261402,
+      "name": "A la Madrugada",
+      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1863,6 +1839,22 @@
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
     }
   ],
   "unique_name": "Vibra Tropical",

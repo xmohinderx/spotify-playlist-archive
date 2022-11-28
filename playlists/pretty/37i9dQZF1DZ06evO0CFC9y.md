@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,799 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,822 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 |
 | 50 | [Halloween](https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:58 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDA0MGQ3MWI4Zjg1NjIxNDEzODZiOTkyZTJlMThjNzY5MA==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDBiODM5YWI0ZWQ0ODZiMTA2ZGVkOGJhM2UyZWM3YzI1OQ==`

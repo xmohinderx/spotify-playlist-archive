@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,400 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,491 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 6 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
 | 7 | [We’re Not Alright](https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:55 |
 | 8 | [ONE OF US](https://open.spotify.com/track/51rdCmgHBzg9HJ7eHjVRK9) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:24 |
-| 9 | [Generational Divide](https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 0:49 |
-| 10 | [America \(You're Freaking Me Out\)](https://open.spotify.com/track/7b7kOUu2KmSDCy6Ebglidg) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 3:35 |
+| 9 | [America \(You're Freaking Me Out\)](https://open.spotify.com/track/7b7kOUu2KmSDCy6Ebglidg) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 3:35 |
+| 10 | [Generational Divide](https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 0:49 |
 | 11 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
 | 12 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:16 |
 | 13 | [Reckless Paradise](https://open.spotify.com/track/6sQD8a5zZ09yA60YkeqDRS) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis Of Faith](https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW) | 3:24 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 25 | [Dry Season](https://open.spotify.com/track/44uEz0HaEadUrgZefxyKl5) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Peace in Our Time](https://open.spotify.com/album/6CVCVNnYEWtJslKbJOFLDE) | 2:20 |
 | 26 | [The Kids Are Alt\-Right](https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Kids Are Alt\-Right](https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX) | 2:43 |
 | 27 | [She Thinks She's Punk Rock n Roll](https://open.spotify.com/track/6rORfOw4UI416oAolzgOXk) | [Hands Off Gretel](https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i) | [The Angry EP](https://open.spotify.com/album/5lq1pUDqoUtbqcDTRhziDW) | 2:05 |
-| 28 | [War Machine Breakdown](https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:15 |
-| 29 | [Telegraph Avenue](https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 3:19 |
-| 30 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/2W2J1ZwcqZL0ug37sRUoqH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:09 |
-| 31 | [Leaders of Tomorrow](https://open.spotify.com/track/3T0t41YzwZeY5ZBYMAuJBA) | [Perkele](https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF) | [Leaders of Tomorrow](https://open.spotify.com/album/6wjLrUW0SFMZxehAp0EpDi) | 3:56 |
+| 28 | [Leaders of Tomorrow](https://open.spotify.com/track/3T0t41YzwZeY5ZBYMAuJBA) | [Perkele](https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF) | [Leaders of Tomorrow](https://open.spotify.com/album/6wjLrUW0SFMZxehAp0EpDi) | 3:56 |
+| 29 | [War Machine Breakdown](https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:15 |
+| 30 | [Telegraph Avenue](https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 3:19 |
+| 31 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/2W2J1ZwcqZL0ug37sRUoqH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:09 |
 | 32 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:34 |
 | 33 | [The Wounded World](https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [The Great Depression](https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby) | 3:10 |
 | 34 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [Accelerate](https://open.spotify.com/track/1H7dmgvLTkgfrlXzZckp4u) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Body Bag Your Scene](https://open.spotify.com/album/5Pa9fiKgIHnciDv8wdiCw0) | 3:47 |
 | 50 | [Our Great Divide](https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:16 |
 
-Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMDE4NjAzMGIyNmI0ZjI5MzZiY2FiMjNiYzQwZTFjMDBj`
+Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMDhjZjMxNzExNDE4NmNmOGJlY2QyOTkwNGNhMGY3ZjNh`

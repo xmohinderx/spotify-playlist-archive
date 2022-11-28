@@ -3821,7 +3821,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 183198,
       "name": "El poder",
       "url": "https://open.spotify.com/track/2Sur4LiJLj4grpAK3u0xmX"
@@ -5295,7 +5295,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 246652,
       "name": "I Really Want to Stay at Your House",
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
@@ -9390,6 +9390,44 @@
     },
     {
       "album": {
+        "name": "Pin Pon El Chakalon",
+        "url": "https://open.spotify.com/album/4RaZwMk9lYDBfr4KVH9mHD"
+      },
+      "artists": [
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "DJ Yelkrab",
+          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
+        },
+        {
+          "name": "Aguila DS",
+          "url": "https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv"
+        },
+        {
+          "name": "Dj Bryan Kingz",
+          "url": "https://open.spotify.com/artist/7AGxtfqyUNkefJ3aUJ8Qoz"
+        },
+        {
+          "name": "Alberto Producer",
+          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204987,
+      "name": "Pin Pon El Chakalon",
+      "url": "https://open.spotify.com/track/43TrpYCcD2Ds9ohVdgSAbq"
+    },
+    {
+      "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
@@ -10099,6 +10137,28 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "Quiere Que Llame",
+        "url": "https://open.spotify.com/album/2L6SuPwlXXHm3puWVEULxU"
+      },
+      "artists": [
+        {
+          "name": "Feloman",
+          "url": "https://open.spotify.com/artist/28VWxxfmtShKO6W1qYvnw8"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Quiere Que Llame",
+      "url": "https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU"
     },
     {
       "album": {

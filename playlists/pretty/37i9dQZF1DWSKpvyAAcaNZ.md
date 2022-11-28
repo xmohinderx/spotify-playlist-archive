@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,081 likes - 151 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,153 likes - 151 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 99 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 |
 | 100 | [Highest Bidder](https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder](https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb) | 3:34 |
 | 101 | [Lift Me Up \(Leave Me Here\)](https://open.spotify.com/track/5eoKQlJjP6A8JKjJVAcLUw) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Lift Me Up \(Leave Me Here\)](https://open.spotify.com/album/5wakVnN6GdcJVP4K7jpRS4) | 3:21 |
-| 102 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 |
+| 102 | [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 |
 | 103 | [Brother](https://open.spotify.com/track/12KxulDULE8bgL0IczZfQn) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Brother](https://open.spotify.com/album/4L9RUOvHJsacUj5qIHr5Uh) | 2:59 |
 | 104 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 105 | [Don't Give Up](https://open.spotify.com/track/1RDlm1UEyvBynCXBmbGsgM) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 4:42 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 150 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
 | 151 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGMxZjk2ZjA4MzNlYzgyYWI2Mzc3ZDE5NzU3OTcwNTAz`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDVlZjQzYzRhNzc1ZGVhNTUyMTYyZmM2NDZhZTM4Mzhl`

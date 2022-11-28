@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > in the evening the real me comes alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,586 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,697 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 63 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
 | 64 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 |
 | 65 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
-| 66 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 |
-| 67 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 |
-| 68 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 |
+| 66 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 |
+| 67 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 |
+| 68 | [call me when ur lonely](https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK) | 2:39 |
 | 69 | [Slow Dancing \- Hazel English Remix](https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slow Dancing \(The Remixes\)](https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK) | 2:55 |
-| 70 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
-| 71 | [call me when ur lonely](https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK) | 2:39 |
+| 70 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 |
+| 71 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
 | 72 | [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 |
 | 73 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 |
 | 74 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 |
 | 75 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDk5NjE2YTZiMGIzYmJiMDIxZGZkZjIxMWUwNzliZThh`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDE2ZTNjNGVlZTE5YWU2YmNmNTdlNjU2ZDFhMjY5YTRi`

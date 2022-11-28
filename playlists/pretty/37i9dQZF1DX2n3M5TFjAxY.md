@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,253 likes - 53 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,290 likes - 53 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 20 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 |
 | 21 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
 | 22 | [Yana Yana](https://open.spotify.com/track/5hUQKHs3lnt0dU5UO5ozZV) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 5:05 |
-| 23 | [Oyon El Alb Live Record](https://open.spotify.com/track/6UkneNSMIdiwUEaSVfcYVd) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 19:44 |
-| 24 | [Asmar](https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4) | 5:33 |
+| 23 | [Asmar](https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4) | 5:33 |
+| 24 | [Oyon El Alb Live Record](https://open.spotify.com/track/6UkneNSMIdiwUEaSVfcYVd) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 19:44 |
 | 25 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayib](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 |
 | 26 | [Asfour](https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn) | [Aida el Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt) | [Ala Baly](https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55) | 4:47 |
 | 27 | [Esaal Alaya](https://open.spotify.com/track/3w6LdvrXM4a8C4cJrBa6M9) | [Layla Mourad](https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ) | [Laila Mourad](https://open.spotify.com/album/4kFNwqFKfPw3FGqBNcpbfc) | 6:23 |
 | 28 | [Mestaneyak](https://open.spotify.com/track/2JNaQTPcPdW0ycWhsSVQiY) | [Aziza Jalal](https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet) | [Mestaneyak Men Hakak Teatebny](https://open.spotify.com/album/1mZGb35WiLGv70EFtxIFLs) | 39:04 |
 | 29 | [Ya Meet Hala](https://open.spotify.com/track/0LLQskrgpuR6FWTkAF7J2B) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 2](https://open.spotify.com/album/5nnYvn7XMn614uDt3IaaSR) | 3:03 |
 | 30 | [Enta hataraf](https://open.spotify.com/track/7MIVI98kAktGCbrzqmu9ax) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Ahwa](https://open.spotify.com/album/2VT4H8YOf7xysggn0rWu6d) | 6:29 |
-| 31 | [Ah Yalali](https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Dawrouli An Habib](https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv) | 5:25 |
-| 32 | [وينك حبيبي](https://open.spotify.com/track/4ZciFev2lN6kGPq3zdRVnW) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [وينك حبيبي](https://open.spotify.com/album/786AHcgC01V3I2dCly0X5h) | 6:55 |
+| 31 | [وينك حبيبي](https://open.spotify.com/track/4ZciFev2lN6kGPq3zdRVnW) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [وينك حبيبي](https://open.spotify.com/album/786AHcgC01V3I2dCly0X5h) | 6:55 |
+| 32 | [Ya Wad Ya Tkel](https://open.spotify.com/track/7A62VMXhyx1kpRwhnuk65T) | [Soad Hosny](https://open.spotify.com/artist/7Kql0QwVDPgqF2XUUedCGN) | [Soad Hosny Collection](https://open.spotify.com/album/0PA2lsmWyFF5e2bqDt8Bvv) | 7:35 |
 | 33 | [Ana Alby Eleik Mayal](https://open.spotify.com/track/3Dkp2faqV2c5rWPSNySMZ6) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Zekrayat](https://open.spotify.com/album/0ObwONWzQGdaIpQnoPvnB5) | 10:12 |
-| 34 | [Ya Wad Ya Tkel](https://open.spotify.com/track/7A62VMXhyx1kpRwhnuk65T) | [Soad Hosny](https://open.spotify.com/artist/7Kql0QwVDPgqF2XUUedCGN) | [Soad Hosny Collection](https://open.spotify.com/album/0PA2lsmWyFF5e2bqDt8Bvv) | 7:35 |
+| 34 | [Ah Yalali](https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Dawrouli An Habib](https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv) | 5:25 |
 | 35 | [Wehiat Eineik](https://open.spotify.com/track/3VrcD46eXNQ1l326guhmpC) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Shadya](https://open.spotify.com/album/2OqsCesiiN65QdUP1zNa4v) | 4:46 |
 | 36 | [Ashka We Meskena](https://open.spotify.com/track/5tDafbwjM0t0Mvn8Tm918m) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 6:17 |
 | 37 | [Ana Alby Dalely](https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At) | [Layla Mourad](https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ) | [Agmal Aghany Layla Mourad](https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw) | 5:32 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 52 | [El Hob Ban Aliah](https://open.spotify.com/track/7lM7ZtFpxoPy0qUwyBQRdX) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:09 |
 | 53 | [](https://open.spotify.com/track/3p80oHzgCSRjyF1NCT01EQ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CsOnkpCIORrHXJiXoqqOp) | 0:00 |
 
-Snapshot ID: `MTYxNDcxNDQxOCwwMDAwMDAwMDViNWRjOTBjZjc0YmE5OWU2MDM1ZmZmMjdkOTRjYTEy`
+Snapshot ID: `MTYxNDcxNDQxOCwwMDAwMDAwMGY0ODAwYTQ5NmMwNzllMGJhZDI3OWIzNDg3NzgzMzRi`

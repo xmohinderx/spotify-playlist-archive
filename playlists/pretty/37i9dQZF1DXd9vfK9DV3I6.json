@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 213025,
+  "num_followers": 213221,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NDk5MywwMDAwMDAwMDkwZDcwY2FmNWRmODZlMGQ3M2E2YmVkMmMwMDZkYmI3",
+  "snapshot_id": "MTY2OTM5NDk5MywwMDAwMDAwMGExYzZjY2JiMzBmYTU2MTg3ZTAyN2QxMjEyNTY2ZmRj",
   "tracks": [
     {
       "added_at": "2022-11-25 16:49:53",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 219202,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 179512,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 219202,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "My Useless Life",
-        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
-      },
-      "artists": [
-        {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Odarka",
-          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
-        }
-      ],
-      "duration_ms": 141779,
-      "name": "My Useless Life",
-      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 176164,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
+        "name": "My Useless Life",
+        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
+      },
+      "artists": [
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Odarka",
+          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
+        }
+      ],
+      "duration_ms": 141779,
+      "name": "My Useless Life",
+      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 161577,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
         "name": "One Soul",
         "url": "https://open.spotify.com/album/2iIXpEJRl9OMInxVfHlala"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 236000,
       "name": "One Soul",
       "url": "https://open.spotify.com/track/5XEKlpUuuHepI2RvpXtNv3"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
-        }
-      ],
-      "duration_ms": 161577,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Route 55",
-        "url": "https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR"
-      },
-      "artists": [
-        {
-          "name": "Mr Oasis",
-          "url": "https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Route 55",
-      "url": "https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 244800,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
+        "name": "Route 55",
+        "url": "https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR"
+      },
+      "artists": [
+        {
+          "name": "Mr Oasis",
+          "url": "https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex"
+        }
+      ],
+      "duration_ms": 278778,
+      "name": "Route 55",
+      "url": "https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        },
-        {
-          "name": "DJ Ego",
-          "url": "https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv"
-        }
-      ],
-      "duration_ms": 377704,
-      "name": "Arabesque",
-      "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
         "name": "all the things i got",
         "url": "https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 145210,
       "name": "all the things i got",
       "url": "https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        },
+        {
+          "name": "DJ Ego",
+          "url": "https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv"
+        }
+      ],
+      "duration_ms": 377704,
+      "name": "Arabesque",
+      "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2267,6 +2267,26 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
+        "name": "Futureland",
+        "url": "https://open.spotify.com/album/1NN2I8IUqoQQGlQvgckBYX"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Turkish Coffee",
+          "url": "https://open.spotify.com/artist/5mN52Pk8WNPxRbd7V5h64a"
+        }
+      ],
+      "duration_ms": 381308,
+      "name": "Fi Alfarah",
+      "url": "https://open.spotify.com/track/1YMkH90H0Z6XIkSgHshO3r"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
         "name": "Yasmine",
         "url": "https://open.spotify.com/album/7o6S5sfdr8dsTL79AjLgQs"
       },
@@ -2319,26 +2339,6 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Futureland",
-        "url": "https://open.spotify.com/album/1NN2I8IUqoQQGlQvgckBYX"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Turkish Coffee",
-          "url": "https://open.spotify.com/artist/5mN52Pk8WNPxRbd7V5h64a"
-        }
-      ],
-      "duration_ms": 381308,
-      "name": "Fi Alfarah",
-      "url": "https://open.spotify.com/track/1YMkH90H0Z6XIkSgHshO3r"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0YMBhvo8rwRFmiIzBEDj6m"
       },
@@ -2351,26 +2351,6 @@
       "duration_ms": 169449,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
-        "name": "The Clarinetto",
-        "url": "https://open.spotify.com/album/635atptPBSgJZjOnYtcssp"
-      },
-      "artists": [
-        {
-          "name": "Lele Cecchini",
-          "url": "https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E"
-        },
-        {
-          "name": "K\u00d6NI",
-          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "The Clarinetto",
-      "url": "https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2391,6 +2371,26 @@
       "duration_ms": 390717,
       "name": "Lalai",
       "url": "https://open.spotify.com/track/05DbXdyYmbC4FMsALulcSa"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
+        "name": "The Clarinetto",
+        "url": "https://open.spotify.com/album/635atptPBSgJZjOnYtcssp"
+      },
+      "artists": [
+        {
+          "name": "Lele Cecchini",
+          "url": "https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E"
+        },
+        {
+          "name": "K\u00d6NI",
+          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "The Clarinetto",
+      "url": "https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
         "name": "Oud Trip",
         "url": "https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF"
       },
@@ -2447,22 +2463,6 @@
       "duration_ms": 272901,
       "name": "Oud Trip",
       "url": "https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2499,26 +2499,6 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/0WmME87pq6EEJUOQJ2R9b7"
-      },
-      "artists": [
-        {
-          "name": "SLH",
-          "url": "https://open.spotify.com/artist/6yLqIVQgDKG5uQ454fPsj0"
-        },
-        {
-          "name": "F.I.D.",
-          "url": "https://open.spotify.com/artist/6MlNFQkUS24vx0YMH20JW0"
-        }
-      ],
-      "duration_ms": 331562,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/0Rxy7OTbF4qa7zaVrk2b8l"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
         "name": "Solstice Sessions",
         "url": "https://open.spotify.com/album/5YGsgeAWN6BoU7qyN1rMDI"
       },
@@ -2535,18 +2515,22 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Helwa Belady El Samra (Kharma Remix)",
-        "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/0WmME87pq6EEJUOQJ2R9b7"
       },
       "artists": [
         {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+          "name": "SLH",
+          "url": "https://open.spotify.com/artist/6yLqIVQgDKG5uQ454fPsj0"
+        },
+        {
+          "name": "F.I.D.",
+          "url": "https://open.spotify.com/artist/6MlNFQkUS24vx0YMH20JW0"
         }
       ],
-      "duration_ms": 176350,
-      "name": "Helwa Belady El Samra (Kharma Remix)",
-      "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
+      "duration_ms": 331562,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/0Rxy7OTbF4qa7zaVrk2b8l"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2611,6 +2595,22 @@
       "duration_ms": 338400,
       "name": "Lalla Aicha - Main Mix",
       "url": "https://open.spotify.com/track/184Z5prwuALXJ0j1SOk2jQ"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
+        "name": "Helwa Belady El Samra (Kharma Remix)",
+        "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Helwa Belady El Samra (Kharma Remix)",
+      "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2683,22 +2683,6 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/6hnpvDAwZAokcIjPRli0wE"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Origin",
-      "url": "https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
         "name": "Anatolian Vibe",
         "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
       },
@@ -2719,18 +2703,62 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Hold On To Me",
-        "url": "https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1"
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/6hnpvDAwZAokcIjPRli0wE"
       },
       "artists": [
         {
-          "name": "Gokhan Akkas",
-          "url": "https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Hold On To Me",
-      "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
+      "duration_ms": 234693,
+      "name": "Origin",
+      "url": "https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+        }
+      ],
+      "duration_ms": 355886,
+      "name": "Lbechra",
+      "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
+    },
+    {
+      "added_at": "2022-11-25 16:49:53",
+      "album": {
+        "name": "Samra",
+        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Akmal",
+          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
+        }
+      ],
+      "duration_ms": 283659,
+      "name": "Samra",
+      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2751,18 +2779,18 @@
     {
       "added_at": "2022-11-25 16:49:53",
       "album": {
-        "name": "Samra",
-        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
+        "name": "Hold On To Me",
+        "url": "https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1"
       },
       "artists": [
         {
-          "name": "Mostafa Akmal",
-          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
+          "name": "Gokhan Akkas",
+          "url": "https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP"
         }
       ],
-      "duration_ms": 283659,
-      "name": "Samra",
-      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
+      "duration_ms": 171428,
+      "name": "Hold On To Me",
+      "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
     },
     {
       "added_at": "2022-11-25 16:49:53",
@@ -2839,22 +2867,6 @@
       "duration_ms": 325165,
       "name": "Zagora",
       "url": "https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N"
-    },
-    {
-      "added_at": "2022-11-25 16:49:53",
-      "album": {
-        "name": "The Calling",
-        "url": "https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy"
-      },
-      "artists": [
-        {
-          "name": "Tyrvnt",
-          "url": "https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J"
-        }
-      ],
-      "duration_ms": 274889,
-      "name": "The Calling",
-      "url": "https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o"
     }
   ],
   "unique_name": "mosaic",

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u30d2\u30b0\u30c1\u30a2\u30a4",
-  "num_followers": 86732,
+  "num_followers": 86810,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMwMjAwMCwwMDAwMDAwMDRjYThjZDliMThlYjhhOGZjMDBjOTQxZDhkNGJiNDY4",
+  "snapshot_id": "MTY2OTMwMjAwMCwwMDAwMDAwMDc4Y2FlZGUyZTNjMmI0NzJlYzE4ODRiY2U5NTFlOGUx",
   "tracks": [
     {
       "added_at": "2022-11-24 15:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+        "name": "Final Call",
+        "url": "https://open.spotify.com/album/5GWBGzUQ7053833dmf2rge"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
+      "duration_ms": 214739,
+      "name": "Final Call",
+      "url": "https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Final Call",
-        "url": "https://open.spotify.com/album/5GWBGzUQ7053833dmf2rge"
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 214739,
-      "name": "Final Call",
-      "url": "https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf"
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "Walkin' In My Lane",
+        "url": "https://open.spotify.com/album/02KI6B3EHutDYnZHSLnIkf"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Walkin' In My Lane",
+      "url": "https://open.spotify.com/track/3l2O4IuJ4DFEfUwDdWyPnf"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
         "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Walkin' In My Lane",
-        "url": "https://open.spotify.com/album/02KI6B3EHutDYnZHSLnIkf"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Walkin' In My Lane",
-      "url": "https://open.spotify.com/track/3l2O4IuJ4DFEfUwDdWyPnf"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
       },
@@ -795,70 +795,6 @@
       "duration_ms": 234541,
       "name": "\u30aa\u30a2\u30a4\u30b3",
       "url": "https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "BAD\u30e2\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 303218,
-      "name": "BAD\u30e2\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 266373,
-      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "\u590f\u67af\u308c",
-        "url": "https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "\u590f\u67af\u308c",
-      "url": "https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
-        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
-      },
-      "artists": [
-        {
-          "name": "KOH+",
-          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
-      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -895,6 +831,70 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "BAD\u30e2\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 303218,
+      "name": "BAD\u30e2\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 266373,
+      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
+        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
+      },
+      "artists": [
+        {
+          "name": "KOH+",
+          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
+      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "\u590f\u67af\u308c",
+        "url": "https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "\u590f\u67af\u308c",
+      "url": "https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "missing",
         "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "\u541b\u306b\u5922\u4e2d",
-        "url": "https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 257953,
-      "name": "\u541b\u306b\u5922\u4e2d",
-      "url": "https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "The Swallow (feat. Midories)",
         "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c"
+        "name": "\u541b\u306b\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 249426,
-      "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi"
+      "duration_ms": 257953,
+      "name": "\u541b\u306b\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Bump & Grind",
-        "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
-      },
-      "artists": [
-        {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "My Vision",
-      "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 249227,
       "name": "Presence",
       "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "Bump & Grind",
+        "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "My Vision",
+      "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Hurricanes",
-        "url": "https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz"
+        "name": "Every Wish Deserves a Dream",
+        "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 202856,
-      "name": "Hurricanes",
-      "url": "https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao"
+      "duration_ms": 231231,
+      "name": "Every Wish Deserves a Dream",
+      "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1123,34 +1123,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Every Wish Deserves a Dream",
-        "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
+        "name": "Hurricanes",
+        "url": "https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 231231,
-      "name": "Every Wish Deserves a Dream",
-      "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "wavy flow",
-        "url": "https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 205451,
-      "name": "wavy flow",
-      "url": "https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of"
+      "duration_ms": 202856,
+      "name": "Hurricanes",
+      "url": "https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1167,6 +1151,22 @@
       "duration_ms": 322146,
       "name": "Hikare Inochi",
       "url": "https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "wavy flow",
+        "url": "https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 205451,
+      "name": "wavy flow",
+      "url": "https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 207521,
-      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi"
       },
@@ -1251,6 +1231,42 @@
       "duration_ms": 264954,
       "name": "\u30d6\u30ec\u30b9",
       "url": "https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 207521,
+      "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 273293,
       "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
       "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
-      },
-      "artists": [
-        {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "\u30b7\u30d5\u30af\u30ce\u30c8\u30ad",
-        "url": "https://open.spotify.com/album/7C0Ik3cBBtji352WqL4sGj"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 187303,
-      "name": "\u30b7\u30d5\u30af\u30ce\u30c8\u30ad",
-      "url": "https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "ONE AND LAST",
         "url": "https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "\u30a4\u30c4\u30e1\u30f3\u3002",
-        "url": "https://open.spotify.com/album/08bOlAZpzJnBoKAsHRvh6H"
+        "name": "\u30b7\u30d5\u30af\u30ce\u30c8\u30ad",
+        "url": "https://open.spotify.com/album/7C0Ik3cBBtji352WqL4sGj"
       },
       "artists": [
         {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         }
       ],
-      "duration_ms": 180681,
-      "name": "\u30a4\u30c4\u30e1\u30f3\u3002",
-      "url": "https://open.spotify.com/track/6S1fhXHt8tzOhdERyq3Qqa"
+      "duration_ms": 187303,
+      "name": "\u30b7\u30d5\u30af\u30ce\u30c8\u30ad",
+      "url": "https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1515,6 +1499,22 @@
       "duration_ms": 267673,
       "name": "MASK",
       "url": "https://open.spotify.com/track/5UgBgEfmgD0XM533aClSGz"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "\u30a4\u30c4\u30e1\u30f3\u3002",
+        "url": "https://open.spotify.com/album/08bOlAZpzJnBoKAsHRvh6H"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 180681,
+      "name": "\u30a4\u30c4\u30e1\u30f3\u3002",
+      "url": "https://open.spotify.com/track/6S1fhXHt8tzOhdERyq3Qqa"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
+        "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 283106,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
+      "duration_ms": 193343,
+      "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP"
     }
   ],
   "unique_name": "Women's Voice",

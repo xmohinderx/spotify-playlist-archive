@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:1GDbiv3spRmZ1XdM1jQbT7”>Natti Natasha</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,907 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,943 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 21 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 |
 | 22 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 |
 | 23 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
-| 24 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
-| 25 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
+| 24 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
+| 25 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
 | 26 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 |
 | 27 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 |
 | 28 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 45 | [Waves](https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:40 |
 | 46 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 |
 | 47 | [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 |
-| 48 | [Thank You Very Much](https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Thank You Very Much](https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv) | 5:27 |
-| 49 | [Keep The Change](https://open.spotify.com/track/2VlR46jqhpWZKmD8RmZCWl) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Keep The Change](https://open.spotify.com/album/0KePZJdZrkswyYtFmY4ZzC) | 3:07 |
+| 48 | [Keep The Change](https://open.spotify.com/track/2VlR46jqhpWZKmD8RmZCWl) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Keep The Change](https://open.spotify.com/album/0KePZJdZrkswyYtFmY4ZzC) | 3:07 |
+| 49 | [Thank You Very Much](https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Thank You Very Much](https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv) | 5:27 |
 | 50 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 |
 
-Snapshot ID: `MTY2NzQwNDE5OCwwMDAwMDAwMDhiNDBlNmJmYjI0N2I4MzdjZWUzNzI2NGJlNGFhYzlj`
+Snapshot ID: `MTY2NzQwNDE5OCwwMDAwMDAwMGNhYWMxYTkwMWU3NTVjMTY0MjRjYjAyNzQyNzEyMWM1`

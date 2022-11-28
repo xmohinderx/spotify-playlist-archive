@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Ant\u00eda Mu\u00ed\u00f1o.",
-  "num_followers": 97890,
+  "num_followers": 97947,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMGU3NDM2ZWYwYjU4MmViZDRmZTNlY2ZjYzAzYmJjMjIx",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMGZkYmFjYjE0NDgzNjc2NWZhY2YxNTM0MWM0OTJhN2Ey",
   "tracks": [
     {
       "added_at": "2022-11-25 06:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
         "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
         "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "La Malquerida",
-        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 485717,
-      "name": "La Malquerida - En Vivo",
-      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "La Malquerida",
+        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 485717,
+      "name": "La Malquerida - En Vivo",
+      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "te quiero (Alicia)",
-        "url": "https://open.spotify.com/album/1n3FCMHmZ4ENi1FPkgbFqY"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "te quiero (Alicia)",
-      "url": "https://open.spotify.com/track/4QPXlzBpwLwEqDnoMHZePB"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "te quiero (Alicia)",
+        "url": "https://open.spotify.com/album/1n3FCMHmZ4ENi1FPkgbFqY"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "te quiero (Alicia)",
+      "url": "https://open.spotify.com/track/4QPXlzBpwLwEqDnoMHZePB"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "Como el Mar",
         "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 195744,
       "name": "Corazoncito M\u00edo",
       "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "Chiquero",
-        "url": "https://open.spotify.com/album/4d5ehZJs19ElinrhzQfcPY"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 166427,
-      "name": "Chiquero",
-      "url": "https://open.spotify.com/track/21zM9ws5MnmhXd0YObWzKf"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 183152,
       "name": "Cuando los A\u00f1os Pasen",
       "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "Chiquero",
+        "url": "https://open.spotify.com/album/4d5ehZJs19ElinrhzQfcPY"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 166427,
+      "name": "Chiquero",
+      "url": "https://open.spotify.com/track/21zM9ws5MnmhXd0YObWzKf"
     },
     {
       "added_at": "2022-11-25 06:00:00",

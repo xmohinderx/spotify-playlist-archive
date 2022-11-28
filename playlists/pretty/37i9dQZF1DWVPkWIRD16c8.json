@@ -1,29 +1,13 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 29292,
+  "num_followers": 29340,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDM1OWQ1ZjdlOTM0MDM5YjAzMmM2NjM0NDc3ZmEwZTZi",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDViODkxMmMzZjEyNTllMjYwMGQyYTZhZTI0Y2IxNzY2",
   "tracks": [
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
-    },
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 215613,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -143,6 +143,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 258453,
       "name": "God's Not Dead (Like A Lion)",
       "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -439,22 +439,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "The Story's Not Over",
         "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
       },
@@ -471,18 +455,34 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "A Way to See in the Dark",
-        "url": "https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t"
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
       "artists": [
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Remind Me Who I Am",
-      "url": "https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW"
+      "duration_ms": 276186,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "Who I Am Hates Who I've Been",
+      "url": "https://open.spotify.com/track/36EXQbkUL5PpT0zS9Tr7UT"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -503,18 +503,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Mmhmm",
-        "url": "https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV"
+        "name": "A Way to See in the Dark",
+        "url": "https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t"
       },
       "artists": [
         {
-          "name": "Relient K",
-          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 232266,
-      "name": "Who I Am Hates Who I've Been",
-      "url": "https://open.spotify.com/track/36EXQbkUL5PpT0zS9Tr7UT"
+      "duration_ms": 227266,
+      "name": "Remind Me Who I Am",
+      "url": "https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -631,18 +631,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "New Today",
-        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
       },
       "artists": [
         {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        },
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
         }
       ],
-      "duration_ms": 175213,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
+      "duration_ms": 244653,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -667,22 +671,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Symphony",
-        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        },
-        {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 244653,
-      "name": "Symphony",
-      "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
+      "duration_ms": 175213,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -723,6 +723,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2019-11-20 07:28:20",

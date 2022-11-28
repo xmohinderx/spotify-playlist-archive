@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-312 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+313 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Last Christmas](https://open.spotify.com/track/5HWZjYN4MTNOHe9i4UcrIl) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:33 | 2021-12-17 |  |
 | [Last Christmas](https://open.spotify.com/track/1DdsobptSORrDDWiHi5Qcw) | [Geneviève Leclerc](https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd) | [Last Christmas \- Single](https://open.spotify.com/album/4k8u7H8sVMvx8oCSRqSM4J) | 2:26 | 2021-12-17 | 2022-07-27 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-17 |  |
+| [Le bonhomme de neige](https://open.spotify.com/track/45IFGd75CJNQmkA5KZqhvf) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:05 | 2022-11-18 |  |
 | [Le bonhomme de neige](https://open.spotify.com/track/4pUFUaLBirtTa3jwSCEfin) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/4UgtynxBA05Q9pJQkvdp3o) | 2:05 | 2021-12-17 | 2022-07-29 |
 | [Le bonhomme de neige](https://open.spotify.com/track/1RotaRDMB06sEMMv1iwtmU) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [It's Magic !](https://open.spotify.com/album/6hoZGBlQ2bsYaP9AfhZ4za) | 2:38 | 2021-12-17 |  |
 | [Le bonhomme de neige](https://open.spotify.com/track/25fHCdVi19d8M8peXUtA3a) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [It's Magic !](https://open.spotify.com/album/4IXbtanyMTYwRtM3NnzJYH) | 2:38 | 2022-11-04 | 2022-11-13 |
@@ -286,7 +287,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-17 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 | 2021-12-17 |  |
 | [Sous le gui](https://open.spotify.com/track/1qjet0tHYYYKlI0Ya8YcsA) | [Jérôme Couture](https://open.spotify.com/artist/0cvBh0HtLTct4g8a7tZpZi) | [Sous le gui \- Single](https://open.spotify.com/album/1j7hVCFq5ikuYOIijBl4gg) | 3:19 | 2021-12-17 | 2022-07-29 |
-| [The Christmas Song](https://open.spotify.com/track/2BNV1D5X4ioefyOE0uDFOL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:24 | 2021-12-17 |  |
+| [The Christmas Song](https://open.spotify.com/track/2BNV1D5X4ioefyOE0uDFOL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:24 | 2021-12-17 | 2022-11-28 |
 | [The Christmas Song](https://open.spotify.com/track/73Hn7c2f0IzvcxmpqswGFa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:00 | 2021-12-17 |  |
 | [The Christmas Song](https://open.spotify.com/track/2ywA489pQgNNsacHj4BJe6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Christmas](https://open.spotify.com/album/3cfRNKKs0by89V5C1uPDm3) | 3:02 | 2021-12-17 | 2022-07-14 |
 | [The Christmas Song](https://open.spotify.com/track/3gO7TtkAoXiIUs88hvxeEg) | [Floes](https://open.spotify.com/artist/02yAFneLJmw5bqHN4cnANN) | [The Christmas Song](https://open.spotify.com/album/6OPjfsDvCBI1z9gBzsdd70) | 2:16 | 2021-12-17 | 2022-07-24 |

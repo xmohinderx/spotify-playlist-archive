@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,377 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,550 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 27 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 |
 | 28 | [Ain't Talkin' 'Bout Dub](https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Electro Glide In Blue](https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8) | 4:30 |
 | 29 | [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 |
-| 30 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
-| 31 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |
+| 30 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |
+| 31 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
 | 32 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 |
 | 33 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
 | 34 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [A Trip to Trumpton](https://open.spotify.com/track/2XOZtfX5jRhHClanQCQKCB) | [Urban Hype](https://open.spotify.com/artist/3bc9afAmYFjpZAlUCdivKO) | [Conspiracy to Dance](https://open.spotify.com/album/5ZZWCQDEpQP09K6GyDziTd) | 3:35 |
 | 50 | [Keep The Fire Burning \- Original](https://open.spotify.com/track/0tehiE4ZCkJKyFN7iuAt8L) | [The House Crew](https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4) | [Ozomatli's Return, Pt\. 1](https://open.spotify.com/album/2cZM4pRGLs2lG5wTQskeAO) | 6:33 |
 
-Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDI1MzVmMjdkOTYxZjUwZDdjMTBkMjhkZGFlYWE1MDJi`
+Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDBiMjdlN2E4YTI2YmJkZGU3Zjk3OTNlZDliYTExZGQ3`

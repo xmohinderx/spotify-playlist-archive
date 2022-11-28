@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Polim\u00e1 Westcoast, Quevedo & Mora",
-  "num_followers": 264446,
+  "num_followers": 264479,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDIyMTMyZThlYTFlMTVmNGU3ZGE0OTk4MTBmYjZjYWNl",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGIwNzM2NDNlZGExNjhmYjA2ZTllOWRkZTFlNmJhOGI0",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -255,6 +255,46 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "El Ego\u00edsmo",
+        "url": "https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Keityn",
+          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
+        }
+      ],
+      "duration_ms": 170471,
+      "name": "El Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 154628,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -283,46 +323,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "La Copa",
-        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "La Copa",
-      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "El Ego\u00edsmo",
-        "url": "https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Keityn",
-          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
-        }
-      ],
-      "duration_ms": 170471,
-      "name": "El Ego\u00edsmo",
-      "url": "https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3"
     },
     {
       "added_at": "2022-11-25 05:00:00",

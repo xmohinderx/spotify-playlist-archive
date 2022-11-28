@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-323 songs - 1 day 5 hr 25 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+324 songs - 1 day 5 hr 32 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,9 +93,10 @@
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2021-12-08 | 2022-07-21 |
 | [Floss](https://open.spotify.com/track/3I7cvFHNwanYTnGiK6qrQ0) | [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE), [Ed Nine](https://open.spotify.com/artist/50QUJcqIIHO67CGSYDw0eI) | [Provide](https://open.spotify.com/album/47HMFd7cpiPHhTAw5Zp3cQ) | 6:50 | 2021-12-08 | 2022-07-14 |
 | [Flying Circles \- Original Mix](https://open.spotify.com/track/6Y2T0AmowuhVjMkopssmQY) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Flying Circles EP](https://open.spotify.com/album/0q8jwAjAe2kGkCI2HbvGLZ) | 6:50 | 2021-12-08 |  |
-| [For A Moment](https://open.spotify.com/track/01J7GlzTYwAp0kHGwLrHiB) | [Jazz Do It](https://open.spotify.com/artist/7Azr4EUr6i6tgtqMvlOpsw) | [Anjunadeep 10 Sampler: Part 1](https://open.spotify.com/album/179gfN119swKR4JooXjYyt) | 5:56 | 2021-12-08 |  |
+| [For A Moment](https://open.spotify.com/track/01J7GlzTYwAp0kHGwLrHiB) | [Jazz Do It](https://open.spotify.com/artist/7Azr4EUr6i6tgtqMvlOpsw) | [Anjunadeep 10 Sampler: Part 1](https://open.spotify.com/album/179gfN119swKR4JooXjYyt) | 5:56 | 2021-12-08 | 2022-11-28 |
 | [For Now](https://open.spotify.com/track/3EMGPuLLcXxJkT8wipZjy9) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [For Now](https://open.spotify.com/album/7J4MlpzikCgbTSvjxUnD0q) | 3:52 | 2021-12-08 |  |
 | [Four Feet](https://open.spotify.com/track/2JebL9WaaUylWLns0SmVuU) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Blasphemy](https://open.spotify.com/album/4csl0WC7mxhBhab5nYfBnW) | 6:35 | 2021-12-08 | 2022-07-08 |
+| [Free \(HOSH Edit\)](https://open.spotify.com/track/3sYqmgwyGHmbmGjRJtz9AK) | [Tone Depth](https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf), [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Fetsum](https://open.spotify.com/artist/6woLhP7pzj8pbWsZ5VUOck), [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Free \(HOSH Edit\)](https://open.spotify.com/album/51FqS4tKuPKWkZAXEfhuR6) | 6:58 | 2022-10-28 |  |
 | [Free \- HOSH Edit](https://open.spotify.com/track/2Of6ELgB41N4REAnQvbpwD) | [Tone Depth](https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf), [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Fetsum](https://open.spotify.com/artist/6woLhP7pzj8pbWsZ5VUOck), [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Free \(HOSH Edit\)](https://open.spotify.com/album/0lWf8cP6COXoub6Pxng8gn) | 6:58 | 2021-12-08 | 2022-11-20 |
 | [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-12-08 |  |
 | [Gira](https://open.spotify.com/track/4b7ip6Jw2XG8avLgM41kcl) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/4gw2Z16cnAt917rOGlPBA2) | 7:45 | 2021-12-08 | 2022-11-20 |

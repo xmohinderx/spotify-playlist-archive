@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,693 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,753 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 14 | [Breeze](https://open.spotify.com/track/7qBHJ0nXHHsoOtqKwfkF35) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:35 |
 | 15 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 | 16 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
-| 17 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
+| 17 | [Fireflies](https://open.spotify.com/track/4Al96JAyCmkAn9tryHNEFx) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/45QD5MLnRkj2F2RVJfwkcc) | 4:58 |
 | 18 | [Counter Attack Mankind](https://open.spotify.com/track/238xYmosbRii3JrPUFIUtF) | [Feora](https://open.spotify.com/artist/1CrlOWdMRMmEkDbivpWVxn) | [Counter Attack Mankind](https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE) | 2:19 |
-| 19 | [Fireflies](https://open.spotify.com/track/4Al96JAyCmkAn9tryHNEFx) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/45QD5MLnRkj2F2RVJfwkcc) | 4:58 |
+| 19 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
 | 20 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 |
 | 21 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
 | 22 | [A Gloomy Night](https://open.spotify.com/track/7ogQ3ATYnACdIjSXXesBKF) | [Voron](https://open.spotify.com/artist/5NmGxnoqCncZYg2TbfC1hN) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:20 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 31 | [Redwood Colonnade](https://open.spotify.com/track/05vvHWyv10tbLT7IPOxBEC) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Redwood Colonnade](https://open.spotify.com/album/4Lbcu9kjXEMs3jPpovk9mL) | 5:57 |
 | 32 | [My Own World](https://open.spotify.com/track/12pqAvuELTFoNj8kQ6vKDH) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8), [Bumblebee](https://open.spotify.com/artist/00tp1VkcmbfeTDI2XhRtZx) | [My Own World](https://open.spotify.com/album/5r8j34q0RT3nYnZzd01Iz3) | 1:55 |
 | 33 | [Fast Coupe](https://open.spotify.com/track/6tc7zWJVIIriVePVQNtLxA) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Fast Coupe](https://open.spotify.com/album/6sAtDkgwuXjdoyg3cyYE9f) | 2:14 |
-| 34 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 |
-| 35 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 |
+| 34 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 |
+| 35 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 |
 | 36 | [heart cocktail](https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [Alice333](https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3) | [heart cocktail](https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz) | 2:56 |
 | 37 | [Test Pilot](https://open.spotify.com/track/2IjmKaX5mt8SxgEH2QYlqA) | [Space Sailors](https://open.spotify.com/artist/2M9pkvRd3uUVsPfEgF8aWu) | [Test Pilot](https://open.spotify.com/album/0XzvsF42rBfe9DaCc88oZk) | 3:21 |
 | 38 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
 | 39 | [Tachikawa](https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM) | [KÖWE](https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Tachikawa](https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3) | 1:12 |
-| 40 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 |
-| 41 | [tears](https://open.spotify.com/track/0lR6qQ72JIxSm2c1NWIyHt) | [Austin Chen](https://open.spotify.com/artist/3y6dmAk5GeWK3wjo8xcpjf) | [scenes I](https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf) | 2:24 |
+| 40 | [tears](https://open.spotify.com/track/0lR6qQ72JIxSm2c1NWIyHt) | [Austin Chen](https://open.spotify.com/artist/3y6dmAk5GeWK3wjo8xcpjf) | [scenes I](https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf) | 2:24 |
+| 41 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 |
 | 42 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 |
 | 43 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 |
 | 44 | [Arcade](https://open.spotify.com/track/7w1rgZiQ7aIVgqpHvFUifh) | [Chilled AF](https://open.spotify.com/artist/4MzsyH1fwjNcrEthWnphyJ) | [Arcade](https://open.spotify.com/album/3AXZhfhDvkujRCdKTwAugQ) | 1:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 47 | [Byte into an Apple](https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP) | [Alpha Room](https://open.spotify.com/artist/0u3vSXLtwN75J1AlhuXpMk) | [Byte into an Apple](https://open.spotify.com/album/1JgMUjHWidmXNlfNWHiLEr) | 3:15 |
 | 48 | [Sad Heart of Mine](https://open.spotify.com/track/3e66nnkSbIvBHD8TFzh1mw) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Dust and Disquiet](https://open.spotify.com/album/2m4KwsPpsNAenV6ImBv71I) | 4:27 |
 | 49 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
-| 50 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
+| 50 | [Csay Csay](https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/7t9LroLEtMH5GKu7xtcKVn) | 6:01 |
 
-Snapshot ID: `MTY2OTE0NTgyMCwwMDAwMDAwMGY2OTQ2MTIzYWVmYzIxMWRlNjMyMmQyYjZlYmMxZDA1`
+Snapshot ID: `MTY2OTE0NTgyMCwwMDAwMDAwMGIwZTU0MWIwNDZjM2UyNTdkYWYzZWMzMzIwMzI2NDE2`

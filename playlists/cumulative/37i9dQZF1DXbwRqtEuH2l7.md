@@ -4,7 +4,7 @@
 
 > Long and constant \- lose yourself in the sustain.
 
-172 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+173 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [City of Light](https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 6:34 | 2022-05-25 |  |
 | [Coma](https://open.spotify.com/track/5ppAcbt2Y7gOhpklBtrF2V) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [2R0I2P0](https://open.spotify.com/album/3yHKmmc0q9KDfLrdX2FKEE) | 3:14 | 2022-05-25 | 2022-07-27 |
 | [Composition 1960 No\. 7](https://open.spotify.com/track/1VfIcSmNrnl4fBsCZwih2e) | [La Monte Young](https://open.spotify.com/artist/5h2yl4fuAyztOOBgMRyQhE), [Jeroen van Veen](https://open.spotify.com/artist/7o7D77HMHvg1sAmtryKoVy) | [Minimal Piano Collection: Volume XXI\-XXVIII](https://open.spotify.com/album/24EtwosbH8SxOp1eWpxzMr) | 4:33 | 2022-05-25 | 2022-07-29 |
+| [Contemporary Apathy](https://open.spotify.com/track/2dOtyjeGIOV76PwS7FUwAb) | [Echo Grid](https://open.spotify.com/artist/4qGt1eVZPXnNdybSfpi8lv) | [Contemporary Apathy](https://open.spotify.com/album/2m6yOFJDvngvEMOWZLXf08) | 5:42 | 2022-11-24 |  |
 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 | 2022-05-25 |  |
 | [Dark Cities](https://open.spotify.com/track/3pGvm73V59h70SGIE1Pkm5) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [duenn](https://open.spotify.com/artist/4NPzHTy0WMICLZBUH9ZGbT) | [Distance as Power](https://open.spotify.com/album/7KalZInYptgFjlVa17SjMe) | 5:35 | 2022-05-25 |  |
 | [Dark Motive](https://open.spotify.com/track/02S9ssx1zhXx6aHQqdDFmg) | [Paul Whitehead](https://open.spotify.com/artist/4TaIAHSrmJz39bSLfzH5KG), [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Dark Analogue Drones](https://open.spotify.com/album/2617v2UbZZLDniFrmSBaKU) | 2:48 | 2022-11-24 |  |
@@ -97,7 +98,7 @@
 | [It Takes Time](https://open.spotify.com/track/4wbph7JCthEvpGVM8KbmZt) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [James Joseph](https://open.spotify.com/artist/6JlUOf5B4IdBSZ4gyaBkej) | [It Takes Time](https://open.spotify.com/album/3TWIEDKHkoy1HmeFTOMnRv) | 5:31 | 2022-08-19 |  |
 | [Jukebox](https://open.spotify.com/track/4xmlE0k2jWeYV1DGSHpZvo) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Illustrations for Those Who](https://open.spotify.com/album/6YdOAJK6bW0HPwoF8TatlQ) | 3:02 | 2022-06-17 |  |
 | [Kneel For Mercy](https://open.spotify.com/track/2HbTSryGjJ2guNH4LygD9C) | [Not Waving](https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC), [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Eyes of Fate](https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU) | 7:11 | 2022-05-25 |  |
-| [Kokaral](https://open.spotify.com/track/1v1TqKk1yakQHJ1QxwmC0p) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Aralkum](https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v) | 5:02 | 2022-05-25 |  |
+| [Kokaral](https://open.spotify.com/track/1v1TqKk1yakQHJ1QxwmC0p) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Aralkum](https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v) | 5:02 | 2022-05-25 | 2022-11-28 |
 | [Komm wieder mit](https://open.spotify.com/track/2XQgwYmy0ClAMdJjQKhHLN) | [Petit Singe](https://open.spotify.com/artist/3UY5C3tMwRiVd86KzSbMVS) | [Komm wieder mit / Post sense perspective](https://open.spotify.com/album/4ArS7adI6gYOW0jKAiNpLm) | 5:48 | 2022-05-25 | 2022-07-27 |
 | [lab](https://open.spotify.com/track/6WsMQBYkQzCtR3AmhnmacX) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [soak](https://open.spotify.com/album/2QncK3geiCq2Uy2CXF9erI) | 2:45 | 2022-05-25 |  |
 | [Lands End \- Revisited 432Hz](https://open.spotify.com/track/7JqsRiaX6HSdrTJqeJK0pt) | [Der Waldläufer](https://open.spotify.com/artist/6rXJFSaNxkltSIorp4SRDQ) | [Lands End \(Revisited 432Hz\)](https://open.spotify.com/album/66ivhrns6ezrflw7Hrdz3j) | 3:22 | 2022-11-24 |  |

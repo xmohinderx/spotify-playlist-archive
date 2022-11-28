@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 66854,
+  "num_followers": 66907,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMDI1ZmZkYmZiY2M5YjQxY2M3Njk4NTYzNmE4NGYxOTU0",
+  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMGU1ZWYzMjgxZDYzMDQxNGQzZDg4MDU0MDI1YTA0YWI0",
   "tracks": [
     {
       "added_at": "2022-04-17 06:01:52",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "All Of The Above",
         "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 330360,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -823,22 +823,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+        "name": "Jesus You Alone",
+        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
         }
       ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+      "duration_ms": 372150,
+      "name": "Jesus You Alone",
+      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -859,18 +855,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Jesus You Alone",
-        "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
       "artists": [
         {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 372150,
-      "name": "Jesus You Alone",
-      "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Awaken: The Surrounded Experience",
         "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 437131,
       "name": "Waymaker",
       "url": "https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Love Came Down - Live Acoustic Worship In The Studio",
         "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 333626,
       "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
       "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Diamonds (Something Beautiful)",
+        "url": "https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K"
+      },
+      "artists": [
+        {
+          "name": "NP / NIGHTS",
+          "url": "https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL"
+        }
+      ],
+      "duration_ms": 227136,
+      "name": "Diamonds (Something Beautiful)",
+      "url": "https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Love Letters From An Empty Tomb",
         "url": "https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 284234,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/141EdaMGKO3MQDianGTnss"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Diamonds (Something Beautiful)",
-        "url": "https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K"
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
       "artists": [
         {
-          "name": "NP / NIGHTS",
-          "url": "https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 227136,
-      "name": "Diamonds (Something Beautiful)",
-      "url": "https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb"
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     }
   ],
   "unique_name": "Easter Worship",

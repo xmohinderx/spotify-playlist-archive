@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,221 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,235 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 23 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
 | 24 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
 | 25 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/3t1KSw84bP0zIRryUD4VgQ) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/7zODnd44iBkdZUziXFsUnS) | 4:31 |
-| 26 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
-| 27 | [La Fotografia](https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:06 |
+| 26 | [La Fotografia](https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:06 |
+| 27 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
 | 28 | [Ni Tu Ni Yo](https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Mi Propuesta 1996](https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT) | 4:39 |
 | 29 | [Desnudate Mujer](https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:41 |
 | 30 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 49 | [Corazón De Nadie](https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:07 |
 | 50 | [Dile](https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [A Tiempo](https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui) | 5:03 |
 | 51 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
-| 52 | [Confundido](https://open.spotify.com/track/0MhCXhIUk0T9GMQdkPjWHw) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Los Merengues Del Casandra](https://open.spotify.com/album/15iyNrNKUEhvdkytaMoVoR) | 4:47 |
-| 53 | [Ajena](https://open.spotify.com/track/00TBHlxq2ak9wUSGlZ9j0f) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:34 |
-| 54 | [Asesina](https://open.spotify.com/track/4GBckDRx31bcHW13OCV61W) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:45 |
+| 52 | [Asesina](https://open.spotify.com/track/4GBckDRx31bcHW13OCV61W) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:45 |
+| 53 | [Confundido](https://open.spotify.com/track/0MhCXhIUk0T9GMQdkPjWHw) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Los Merengues Del Casandra](https://open.spotify.com/album/15iyNrNKUEhvdkytaMoVoR) | 4:47 |
+| 54 | [Ajena](https://open.spotify.com/track/00TBHlxq2ak9wUSGlZ9j0f) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:34 |
 | 55 | [Dicen](https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Majao Majao](https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo) | 4:45 |
 | 56 | [Llego Tu Marido](https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Caliente](https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1) | 5:06 |
 | 57 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Esa Mujer](https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [El Mas Duro](https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E) | 4:11 |
 | 60 | [Tu No Sabes Del Amor](https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF) | [El Sujeto](https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:42 |
 
-Snapshot ID: `MTYzNDY2NDUwMiwwMDAwMDAwMGI0ZjM4ZTZlNWFmNzJiYjJhMzI2Yjk2ZjU1MDQzOTMw`
+Snapshot ID: `MTYzNDY2NDUwMiwwMDAwMDAwMGY4NmE2YzE2NDBhOWFmZDAxMmYwNWYzOTUwYjg4NjEx`

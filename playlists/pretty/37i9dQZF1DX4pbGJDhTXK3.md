@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,706 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,744 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 6 | [Balearic Incarnation](https://open.spotify.com/track/6HxN4OABi6VovLm3VigN6o) | [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Balearic Incarnation \(Todd Terje Rmx\)](https://open.spotify.com/album/51keyf40DWWo50Vbd7n4mF) | 6:19 |
 | 7 | [Clean Air](https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Byen](https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD) | 7:54 |
 | 8 | [Feel The Love](https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Ambitions](https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY) | 4:25 |
-| 9 | [I'll Be Okay](https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP) | [Kasket Club](https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy), [Soul Gem](https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB) | [I'll Be Okay](https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex) | 3:16 |
-| 10 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
+| 9 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
+| 10 | [I'll Be Okay](https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP) | [Kasket Club](https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy), [Soul Gem](https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB) | [I'll Be Okay](https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex) | 3:16 |
 | 11 | [Feel It \- Edit](https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Maurissa Rose](https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1) | [Feel It](https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g) | 3:19 |
 | 12 | [Strandbar](https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 4:28 |
 | 13 | [I Feel Space](https://open.spotify.com/track/2XwqNJ0IynowN5SEk3A6wP) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [I Feel Space](https://open.spotify.com/album/3I7zwJgNse371fJ6AfDD5I) | 7:01 |
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 21 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
 | 22 | [A Man Called Anthony](https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Echo to Echo](https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec) | 4:15 |
 | 23 | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 |
-| 24 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
-| 25 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
-| 26 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
-| 27 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 |
+| 24 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
+| 25 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
+| 26 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
+| 27 | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Nils Olav](https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op) | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb) | 6:12 |
 | 28 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
-| 29 | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Nils Olav](https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op) | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb) | 6:12 |
+| 29 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 |
 | 30 | [Ok, Kjor Romskip \- Original Mix](https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P) | [Rune Lindbaek](https://open.spotify.com/artist/6SXxObLtqUzAjJGtMwgsbk) | [Sondag](https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn) | 5:30 |
 | 31 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
 | 32 | [Flott Flyt](https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 6:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Curse Of The Cancelled](https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Curse of the Cancelled](https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW) | 2:22 |
 | 50 | [Maskindans \- Radio Edit](https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Det Gylne Triangel](https://open.spotify.com/artist/4Rkaxisnihy39c7B45junc) | [Maskindans](https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE) | 3:34 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDAyZjBiODRjNGVhYWQxNTIyZmVkNzVkMzA1MjMxMjMy`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGIzZTY5NzVkMWFhNjM5N2M4MTU0MTVjMTk5OWE4MWQz`

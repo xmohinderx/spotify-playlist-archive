@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Johnny Drille
 
-277 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
+278 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-18 |  |
 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 | 2021-10-14 |  |
 | [AWAY](https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [AWAY](https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy) | 2:44 | 2021-10-14 |  |
+| [B&B \(Booze & Bumbum\)](https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [B&B \(Booze & Bumbum\)](https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl) | 3:01 | 2022-11-25 |  |
 | [B.D.E](https://open.spotify.com/track/3dA0G86SQEoj2vKjzjHoAf) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB), [Mr\. Kamera](https://open.spotify.com/artist/3DhTrOPm6Q2HrXgNTddwG5) | [B.D.E](https://open.spotify.com/album/3wZHmMYZfRuGrp41PBrTW5) | 2:54 | 2022-02-03 | 2022-02-23 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-10-14 |  |
 | [Back & Forth](https://open.spotify.com/track/2989XszQy5GLV5udQSnvKE) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became \(Deluxe Version\)](https://open.spotify.com/album/0mN0nwNdCUQpQayBvLYFrd) | 3:35 | 2021-10-14 | 2022-07-27 |
@@ -137,7 +138,7 @@
 | [i’m a mess](https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:33 | 2022-07-14 | 2022-07-29 |
 | [Jahera](https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Jahera](https://open.spotify.com/album/0tYZ0bfXtTBzDFjMr2qqAk) | 3:07 | 2022-02-10 | 2022-02-17 |
 | [Journey Back Home](https://open.spotify.com/track/3YoHYLrPxsEyOPtnzZso0n) | [Bankulli](https://open.spotify.com/artist/5vaAZTnLCHp0garbEDlorS), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Journey Back Home](https://open.spotify.com/album/2Had8Ig2siiYE7PYVYv4iS) | 3:44 | 2021-11-25 | 2022-02-18 |
-| [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 | 2022-07-28 |  |
+| [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 | 2022-07-28 | 2022-11-28 |
 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 | 2021-10-22 | 2022-02-06 |
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-04-28 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 |  |

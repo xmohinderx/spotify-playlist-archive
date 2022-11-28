@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 236136,
+  "num_followers": 236135,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDJiZTVkMmRkYzhjYTRjMTczZjhiZWJkM2Y3Njk5MGY4",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDM5OWVkYWIzYTY1NjkxYzA3NTM2NDVmOWVkZmY0ODU5",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
@@ -103,22 +119,6 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -789,26 +789,6 @@
       "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Better Days (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 156681,
-      "name": "Better Days (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Making it Right",
@@ -831,6 +811,26 @@
       "duration_ms": 137798,
       "name": "Making it Right",
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Better Days (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 156681,
+      "name": "Better Days (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -873,26 +873,6 @@
       "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3"
-      },
-      "artists": [
-        {
-          "name": "Neo Arc",
-          "url": "https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5"
-        },
-        {
-          "name": "Eliana Veinberga",
-          "url": "https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO"
-        }
-      ],
-      "duration_ms": 217812,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -915,6 +895,42 @@
       "duration_ms": 177925,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3"
+      },
+      "artists": [
+        {
+          "name": "Neo Arc",
+          "url": "https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5"
+        },
+        {
+          "name": "Eliana Veinberga",
+          "url": "https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO"
+        }
+      ],
+      "duration_ms": 217812,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Blink Twice (Extended)",
+        "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 184204,
+      "name": "Floating Like",
+      "url": "https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -941,22 +957,6 @@
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Blink Twice (Extended)",
-        "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 184204,
-      "name": "Floating Like",
-      "url": "https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Woman (feat. Lianne La Havas)",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
-    },
-    {
       "added_at": "2022-07-12 18:25:04",
       "album": {
         "name": "ITS ALL GOOD",
@@ -1007,6 +991,22 @@
       "duration_ms": 187618,
       "name": "ITS ALL GOOD",
       "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Carving Canyons",
-        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 188619,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "I Told You",
@@ -1083,6 +1067,22 @@
       "duration_ms": 207023,
       "name": "I Told You",
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Carving Canyons",
+        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 188619,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
+        "name": "Bluffin",
+        "url": "https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 159126,
+      "name": "Bluffin",
+      "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
         "name": "AM Gold (Tobtok Remix)",
         "url": "https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 189079,
       "name": "AM Gold - Tobtok Remix",
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Bluffin",
-        "url": "https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5"
-      },
-      "artists": [
-        {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
-        }
-      ],
-      "duration_ms": 159126,
-      "name": "Bluffin",
-      "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
     },
     {
       "added_at": "2022-07-29 04:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Hang ten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,060 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,139 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 22 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
 | 23 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 |
 | 24 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
-| 25 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 |
-| 26 | [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 |
+| 25 | [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 |
+| 26 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 |
 | 27 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 |
 | 28 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
-| 29 | [When You Were Made](https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:38 |
-| 30 | [Windows](https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB) | 3:12 |
+| 29 | [Windows](https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB) | 3:12 |
+| 30 | [When You Were Made](https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:38 |
 | 31 | [Panama](https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 3:18 |
 | 32 | [One Another](https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 2:46 |
-| 33 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
-| 34 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
+| 33 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
+| 34 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
 | 35 | [Peace Blossom Boogy](https://open.spotify.com/track/0Mfcw67Xb68PJJNsfxRi7L) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2) | 3:14 |
 | 36 | [What a Pleasure](https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [What a Pleasure](https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO) | 2:32 |
 | 37 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 |
 | 50 | [Fire Flower](https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Favorite Holiday, Vol\. 1](https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer) | 4:10 |
 
-Snapshot ID: `MTY2Mzg3MzkxMywwMDAwMDAwMDU1NmY5MTg5NTJjOGMxNTE5MzQ0MGY0YmUwZmVjZjQx`
+Snapshot ID: `MTY2Mzg3MzkxMywwMDAwMDAwMGFlODM0YjlmZWQxODhhZTRmZTFmZWYyODE2NzhjYzVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest South African indie music\. Cover: <a href="https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph?si=TsDMEATKR\_Gq\-4FjsnL6Cw">Tanaka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,104 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,109 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

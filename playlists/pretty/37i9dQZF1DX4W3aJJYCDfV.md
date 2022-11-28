@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Stormzy \(pictured\), Avril Lavigne, Olly Murs and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,518 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,603 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 43 | [Blossom](https://open.spotify.com/track/2Wq4wVXPnJYaK214y26y1H) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Blossom](https://open.spotify.com/album/7nQPjvGZUoGPDmOkpHYO9H) | 2:58 |
 | 44 | [Like A Heart Won't Beat](https://open.spotify.com/track/5iJ2dkuqfUJzWxwsTDx1St) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Like A Heart Won't Beat](https://open.spotify.com/album/0foppvxztUTxICo4vnKphN) | 2:26 |
 | 45 | [Not OK](https://open.spotify.com/track/06V8tMMLJS1lNNejvWFzDt) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK](https://open.spotify.com/album/6oXcqvLT6Pi4ZorJetT4Gg) | 2:39 |
-| 46 | [Together](https://open.spotify.com/track/06z7jpfrhxPSQ4QXnklazv) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Halina](https://open.spotify.com/artist/58K3xUUGDYqDNtIWBHsisQ) | [When Life Presents Obstacle](https://open.spotify.com/album/7ffQYP9KLpPkr73BW4hR8r) | 3:14 |
+| 46 | [Together](https://open.spotify.com/track/06z7jpfrhxPSQ4QXnklazv) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [HALINA](https://open.spotify.com/artist/0PfUZvZ6c8KPCq3BSKiIpp) | [When Life Presents Obstacle](https://open.spotify.com/album/7ffQYP9KLpPkr73BW4hR8r) | 3:14 |
 | 47 | [Blushing](https://open.spotify.com/track/1qwVTmWZbTSdp3277EfMRB) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [running out of things to say, running out of things to do](https://open.spotify.com/album/0cpcl7S8hhptUtaitER9Pi) | 4:09 |
 | 48 | [Supposed To Do](https://open.spotify.com/track/53QOuE2ZA8b4DTfKE0Pljd) | [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Supposed To Do](https://open.spotify.com/album/3LI9sswfUvO0IvgT2D6E1B) | 2:48 |
 | 49 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 |

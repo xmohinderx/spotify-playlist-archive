@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258,877 likes - 38 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,259,260 likes - 38 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 31 | [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:19 |
 | 32 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:43 |
 | 33 | [Poles Apart](https://open.spotify.com/track/6uE9hF8fIb6shBXrrzA12U) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 7:03 |
-| 34 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
-| 35 | [Side 2, Pt\. 3: Unsung](https://open.spotify.com/track/6St7hjIG2njuG5Zck8vK4Q) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc) | 1:06 |
+| 34 | [Side 2, Pt\. 3: Unsung](https://open.spotify.com/track/6St7hjIG2njuG5Zck8vK4Q) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc) | 1:06 |
+| 35 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
 | 36 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:12 |
 | 37 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 |
 | 38 | [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBkMTVmYWZjNjM4YmFlOTRkNDlhOGRmYTlhNGNiODU2Yw==`
+Snapshot ID: `Mjc4MjU5OTUsMDAwMDAwMDBhYmM1YzNjZDlkYjRmZmY4OWEzZmRjZTQ1MDMwN2Y1Nw==`

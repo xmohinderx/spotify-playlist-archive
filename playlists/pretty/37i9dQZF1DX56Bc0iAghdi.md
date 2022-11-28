@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Local Sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,360 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,365 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 2 | [Brother \(feat\. Gavin DeGraw\)](https://open.spotify.com/track/62M9yafZsSRzlsphzeJPGo) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Brother](https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV) | 3:28 |
 | 3 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:50 |
 | 4 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
-| 5 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
-| 6 | [Dear God](https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:55 |
+| 5 | [Dear God](https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:55 |
+| 6 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 7 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
 | 8 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
 | 9 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 32 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
 | 33 | [Radical](https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Wake Up](https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ) | 2:34 |
 | 34 | [It's Not Over](https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [It's Not Over](https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t) | 3:31 |
-| 35 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
-| 36 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
+| 35 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
+| 36 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
 | 37 | [You Say \(Acoustic\)](https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [You Say \(Acoustic\)](https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp) | 4:24 |
 | 38 | [Speak to Me](https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:55 |
 | 39 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [Summertime](https://open.spotify.com/track/4iJeJV5d8kZAPmmu4LtqmQ) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/6Z0UDE7UctY5H0T3oBdHnX) | 3:09 |
 | 65 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 
-Snapshot ID: `MTU2OTAwNDQ0NiwwMDAwMDAwMDY0OTc1ZjRhNGJhN2FkMjgxZmVjMDUzMDk4MDg3Njg3`
+Snapshot ID: `MTU2OTAwNDQ0NiwwMDAwMDAwMDhjMzhkZDIzZmFhZmRkN2Y1MjIxYzQ5MWUzNzZiNmU1`

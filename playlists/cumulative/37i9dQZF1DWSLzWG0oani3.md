@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-94 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
+95 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 | 2021-12-24 |  |
 | [La Cabida](https://open.spotify.com/track/5RaMtKEwLgnHIHgkv4lDQV) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP) | [La Cabida](https://open.spotify.com/album/0jjbLneOMoKO7op84j3xZM) | 1:56 | 2022-03-11 | 2022-07-22 |
 | [La Cumbia del Ghetto](https://open.spotify.com/track/26lxtV1EEIadCcwkk0Hvbw) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Cumbia del Ghetto](https://open.spotify.com/album/4zeif416gnNMxpemUGzGUH) | 2:39 | 2022-01-21 | 2022-06-11 |
-| [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/track/0IYYVOKk1t7QrCfKmSZZoy) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/album/3kIkW5CxRAbkqkbLxBLK0e) | 2:10 | 2022-07-22 |  |
+| [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/track/0IYYVOKk1t7QrCfKmSZZoy) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/album/3kIkW5CxRAbkqkbLxBLK0e) | 2:10 | 2022-07-22 | 2022-11-28 |
 | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/track/0h1Cp5qtDPVzarqIsdWdCT) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/album/3dnobgnGVFjCIOIYGsuw9M) | 2:10 | 2021-12-24 | 2022-07-31 |
+| [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/track/3vfF2yl2si2qoOQsv7DfUk) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/album/5fp2cMFps4ctRsi30e8tB6) | 2:10 | 2022-09-16 |  |
 | [La Mano de Dios](https://open.spotify.com/track/0rbBliLgUiiuZBLAOf2gQb) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [La Mano de Dios](https://open.spotify.com/album/2L6G8RA5pqd2XB9Pv8tIhJ) | 2:49 | 2021-12-24 |  |
 | [La Mirada Perdida](https://open.spotify.com/track/04giZrd0pAGljztUXJiDBW) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [Miguelete](https://open.spotify.com/artist/2RTLb9ZCVkz4NqgqCX5iEP) | [La Mirada Perdida](https://open.spotify.com/album/091Fo9hSIWIBDPIOSDsC8e) | 2:59 | 2021-12-24 | 2022-03-19 |
 | [LACOSTE \| E5](https://open.spotify.com/track/4laZHuTeXZOST0T7PW4Dtj) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [LACOSTE \| E5](https://open.spotify.com/album/3L88xKhxB8S1T4vNI9PjVy) | 2:40 | 2022-06-17 |  |

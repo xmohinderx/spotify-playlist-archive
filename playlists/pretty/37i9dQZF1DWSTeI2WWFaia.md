@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,496 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,591 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 43 | [Mannequin](https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Mannequin](https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW) | 3:54 |
 | 44 | [Comfortable](https://open.spotify.com/track/10zQ7RusGiAimQv92m9wlj) | [Chris Brickley](https://open.spotify.com/artist/64FvfEFRBdQlMyy50zZX62), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Comfortable](https://open.spotify.com/album/0Pylmck9B199lPMHwtdu8O) | 3:36 |
 | 45 | [No Save Point \- From "Cyberpunk 2077"](https://open.spotify.com/track/27SjutLnh1PXRYDjmSDs78) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [No Save Point \(From "Cyberpunk 2077"\)](https://open.spotify.com/album/0AeuKmOe7czsrYwwovI3qu) | 3:15 |
-| 46 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 |
-| 47 | [I Love You, I Hate You](https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:15 |
+| 46 | [I Love You, I Hate You](https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:15 |
+| 47 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 |
 | 48 | [505](https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 3:07 |
 | 49 | [Isis \- Remix](https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj), [Catra](https://open.spotify.com/artist/7clv57AT6aP2cMrphyksAb), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [Kvng Moses](https://open.spotify.com/artist/6bke0iSCUylKssEtk3Ltr2) | [Isis \(Remix\)](https://open.spotify.com/album/2FKqCFX8YuORASp2wON4iQ) | 4:56 |
 | 50 | [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGFlOTU4MTBmOWJkMWRkZGM1MGI1NDg2YWVhZGJkNWM1`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGQ5OGFjYTI5YjNiYjhlYTBlNjAxMjAwMjFkNjlhMjFi`

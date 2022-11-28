@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,343 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,364 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 16 | [Daft Punk](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 4:08 |
 | 17 | [Don't Stop Believin' \(Glee Cast Version\) \- Cover of Journey](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 |
 | 18 | [Waka Waka \(This Time For Africa\)](https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [United We Sing](https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6) | 3:19 |
-| 19 | [I See Fire](https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:53 |
+| 19 | [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 3](https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE) | 4:06 |
 | 20 | [Party In The U.S.A.](https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:02 |
-| 21 | [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 3](https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE) | 4:06 |
+| 21 | [I See Fire](https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:53 |
 | 22 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 |
 | 23 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 |
 | 24 | [If I Die Young \(Glee Cast Version\)](https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [The Quarterback](https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV) | 3:41 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 |
 | 57 | [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDc0MmI2ZWQxOWMyODM5ODcwNWVlZjhhZGE1NTAzZjFi`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDdhMDkxMTVhYWQzYTk3ZTM0MGYyY2FiOTIyMDc0OGMx`

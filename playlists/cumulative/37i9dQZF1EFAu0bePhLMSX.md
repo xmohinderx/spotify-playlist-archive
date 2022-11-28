@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
+147 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Over You](https://open.spotify.com/track/4GWO6Pla2VYQ0AbY6aSVZB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:21 | 2021-12-27 |  |
 | [Paper Planes](https://open.spotify.com/track/3hSva4mXv3c2Cf63onTgiK) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:41 | 2021-12-27 |  |
 | [Personal Thunder](https://open.spotify.com/track/535yGaAt34yLFFiboAQsFW) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Echoes](https://open.spotify.com/album/0JQLxDADhjMFSdbi1HEQQd) | 4:52 | 2021-12-27 |  |
-| [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 | 2022-03-13 |  |
+| [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 | 2022-03-13 | 2022-11-28 |
+| [Places](https://open.spotify.com/track/1HOLGWMADWYkbXUgFp8Smq) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 2:59 | 2022-11-27 |  |
 | [Play To Win](https://open.spotify.com/track/37wacPZlYHUsrXnydnovyo) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:20 | 2021-12-27 |  |
 | [Please Stay](https://open.spotify.com/track/53GIGtgIkuYUDhdXoDFU0l) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 4:08 | 2021-12-27 |  |
 | [Ready or Not](https://open.spotify.com/track/1W9kMx5nVlaEkwthVPRsHU) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 3:49 | 2022-07-24 |  |

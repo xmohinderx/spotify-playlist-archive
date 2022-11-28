@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,121 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,118 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 47 | [Solo Dance](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38) | 2:54 |
 | 48 | [Perfect \(feat\. Haris\)](https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Perfect \(feat\. Haris\)](https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g) | 2:56 |
 | 49 | [All Star](https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [whoisFIYAH](https://open.spotify.com/artist/3f7MOkILh9Qh6dn0ks3vQ8) | [All Star](https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm) | 2:31 |
-| 50 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 |
-| 51 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
+| 50 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
+| 51 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 |
 | 52 | [Breathe \(feat\. Ina Wroldsen\)](https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:28 |
 | 53 | [Knockout](https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Knockout](https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI) | 2:27 |
 | 54 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [We Were Young](https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Were Young](https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ) | 3:34 |
 | 80 | [High On Your Love](https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [High On Your Love](https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx) | 2:36 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGJlMjJhYzRlODU1ZmE0ODE5NWVjZmRjMjJlYWY5MmNi`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGViMTQ1NDdlYzBjMjdjN2M0ZWQ5ZjUyNWNmOGU4Nzlm`

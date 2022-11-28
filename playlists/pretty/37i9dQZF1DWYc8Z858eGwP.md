@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=Y5cs7Ga0Tza8ZbozPyrZdw">DBN Gogo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,312 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,370 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

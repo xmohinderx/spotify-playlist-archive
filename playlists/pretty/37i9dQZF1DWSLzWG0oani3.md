@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,791 likes - 61 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,831 likes - 61 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 27 | [Soltera \(feat\. Yubeili\)](https://open.spotify.com/track/1hWqwMeqQLKEp8YWziERbv) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Soltera \(feat\. Yubeili\)](https://open.spotify.com/album/5Qrm1Punx3Da7bmCLxt9tX) | 3:11 |
 | 28 | [Titubeo](https://open.spotify.com/track/5wMxXn08lUHAqtQ1oS5YtM) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Titubeo](https://open.spotify.com/album/5EVsvDYBjnXWPmnpdwVOVw) | 3:25 |
 | 29 | [Sembrando el Terror \- Remix](https://open.spotify.com/track/7I8o4jSN5Xf7NLXIfjTuM4) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Sembrando el Terror \(Remix\)](https://open.spotify.com/album/0mWr919t9Doea5Peho4KNi) | 3:46 |
-| 30 | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/track/0IYYVOKk1t7QrCfKmSZZoy) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/album/3kIkW5CxRAbkqkbLxBLK0e) | 2:10 |
+| 30 | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/track/3vfF2yl2si2qoOQsv7DfUk) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/album/5fp2cMFps4ctRsi30e8tB6) | 2:10 |
 | 31 | [Saveiro](https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Saveiro](https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR) | 3:32 |
 | 32 | [Corolla](https://open.spotify.com/track/76hHENeXQUPkf0cISBNytg) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr) | [Corolla](https://open.spotify.com/album/4lq7ZMUXWT4SKetW6ys3Bp) | 2:08 |
 | 33 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 60 | [Para Que Aprendan](https://open.spotify.com/track/6ZenaPkP2yEdwctGL6eagB) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Para Que Aprendan](https://open.spotify.com/album/0aw5Uti0zedVLh34XE9nzb) | 2:19 |
 | 61 | [SUSY 420](https://open.spotify.com/track/444LRhxSirslV3xR6uwDr1) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [SUSY 420](https://open.spotify.com/album/4jbhivQacS1R66AvVFBIxd) | 3:12 |
 
-Snapshot ID: `MTY2MzM0MjA4MiwwMDAwMDAwMDAwNTNhMmMwM2U2ZjVhNGQ3MjU4NjIxMjYwZjRhNWNj`
+Snapshot ID: `MTY2MzM0MjA4MiwwMDAwMDAwMDhiMjYyOWQ5YmJlMGQwM2Q3ODEyYjk0NTNjNzk1NDU0`

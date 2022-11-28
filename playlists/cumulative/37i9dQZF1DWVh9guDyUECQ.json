@@ -2357,7 +2357,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 244793,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
@@ -3101,7 +3101,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 157100,
       "name": "Los Bendigo",
       "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
@@ -3465,7 +3465,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG"
@@ -6501,6 +6501,32 @@
       "duration_ms": 276000,
       "name": "Verdadera Adoraci\u00f3n",
       "url": "https://open.spotify.com/track/0gQdPQGtwpEcYmbghe8XQ2"
+    },
+    {
+      "album": {
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/63hREkagC3FZpAAg7m2UeT"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        },
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Juanfer",
+          "url": "https://open.spotify.com/artist/2jKfWzYkH8mLOKJ7SWFeRx"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Viajes y Hoteles",
+      "url": "https://open.spotify.com/track/4bF89S8CFHu4SeYmiiz69E"
     },
     {
       "album": {

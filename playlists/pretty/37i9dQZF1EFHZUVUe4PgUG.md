@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 588 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 14 | [En Guerra](https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:41 |
 | 15 | [Un Poquito](https://open.spotify.com/track/3aWCkmStzGLDDmlwxJtQrU) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Atlántico a Pie](https://open.spotify.com/album/3c1RJNoi4jd3hosC9lbZM3) | 3:06 |
 | 16 | [Pa Ti](https://open.spotify.com/track/4AuVISGGuyTc1XstdrJ8Xu) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:50 |
-| 17 | [Por Pura Curiosidad](https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 3:25 |
-| 18 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 |
+| 17 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 |
+| 18 | [Por Pura Curiosidad](https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 3:25 |
 | 19 | [Casualidad](https://open.spotify.com/track/2SZx8N3eiLGqXTWEeN6dZt) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:13 |
 | 20 | [PAPÁS](https://open.spotify.com/track/5k06NOShiGa9ZxXHtavS2p) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 3:13 |
 | 21 | [Bota Fuego \- con Nicky Jam](https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bota Fuego \(con Nicky Jam\)](https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 74 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
 | 75 | [Despiértate \- Reggaeton Acústico](https://open.spotify.com/track/0wnghfFTH9fta0DaWPX225) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Reguetón en Casa](https://open.spotify.com/album/7BOkdG3MOlq9JJlixTHinq) | 2:25 |
 
-Snapshot ID: `Mjc4MjUxODcsMDAwMDAwMDBmMGNkYWE4NDA3ZmI3M2YwYzVjZWQ3MGQyMTg0OTg5NQ==`
+Snapshot ID: `Mjc4MjY2MjcsMDAwMDAwMDA4ZWYzZWUzNmJjZGM0ODUwZGUxNDI4YmJhNWYxYzcwNg==`

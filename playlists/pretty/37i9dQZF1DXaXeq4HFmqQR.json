@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9905,
+  "num_followers": 9903,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDhhNzljYzhjM2MyNGNjNGExNDJkYmU5YjhkM2MxNjJi",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGY2MjdiMjI1MmU0YmYxYmI1N2E4NjVhZTFhYjFhNmQ2",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -607,6 +607,26 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "C\u00f3digo Bitches",
+        "url": "https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6"
+      },
+      "artists": [
+        {
+          "name": "Fran Mazu",
+          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
+        },
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 167777,
+      "name": "C\u00f3digo Bitches",
+      "url": "https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/0AB3TQv94qIJsSiOzIXNDe"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 193973,
       "name": "No m\u00e1s me dio",
       "url": "https://open.spotify.com/track/2EjZ0hlW8Pk4VE0adAgckR"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "C\u00f3digo Bitches",
-        "url": "https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6"
-      },
-      "artists": [
-        {
-          "name": "Fran Mazu",
-          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
-        },
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 167777,
-      "name": "C\u00f3digo Bitches",
-      "url": "https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb"
     },
     {
       "added_at": "2022-11-04 00:00:00",

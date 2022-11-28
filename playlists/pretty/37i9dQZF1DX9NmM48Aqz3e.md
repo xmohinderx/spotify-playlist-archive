@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,021 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,047 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 25 | [All That You Are \(x3\) \- 1997 Digital Remaster](https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9) | [Econoline Crush](https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE) | [The Devil You Know](https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh) | 3:41 |
 | 26 | [Numb](https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3) | [Holly McNarland](https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2) | [Stuff](https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9) | 3:57 |
 | 27 | [Love Song](https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s) | [Sky](https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT) | [Piece Of Paradise](https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu) | 3:36 |
-| 28 | [Remote Control](https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs) | 3:39 |
-| 29 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 |
+| 28 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 |
+| 29 | [Remote Control](https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs) | 3:39 |
 | 30 | [Song Instead of a Kiss](https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Rockinghorse](https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO) | 5:03 |
 | 31 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
 | 32 | [Out of My Head](https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC) | [Junkhouse](https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3) | [Strays](https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO) | 3:47 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 37 | [End Of The World](https://open.spotify.com/track/0HZM2O3KZT5vYYP763dm2I) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/0aDWCrEQxS7RH66v20qezy) | 2:45 |
 | 38 | [Diggin' A Hole](https://open.spotify.com/track/1DJ4sDZgj56rBUZYj4ZHRu) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hemi\-Vision](https://open.spotify.com/album/1Zj6HNUUmO1WVmrH8TgU2i) | 4:37 |
 | 39 | [apparitions](https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4) | 5:12 |
-| 40 | [London Rain \(Nothing Heals Me Like You Do\)](https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Songs from Dawson's Creek](https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd) | 3:50 |
-| 41 | [I Don't Want To Think About It](https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [Heroine](https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB) | 3:46 |
-| 42 | [Squeeze Toy](https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT), [Kim Esty](https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:39 |
-| 43 | [Push](https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn) | 3:50 |
-| 44 | [Sucks To Be You](https://open.spotify.com/track/6NtKwJUIVl213jNPoPW95Q) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/586yBJiBN0KyDLAJFqPGwC) | 3:21 |
+| 40 | [Wayne](https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ) | 4:45 |
+| 41 | [London Rain \(Nothing Heals Me Like You Do\)](https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Songs from Dawson's Creek](https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd) | 3:50 |
+| 42 | [I Don't Want To Think About It](https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [Heroine](https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB) | 3:46 |
+| 43 | [Squeeze Toy](https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT), [Kim Esty](https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:39 |
+| 44 | [Push](https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn) | 3:50 |
 | 45 | [Spaceman](https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV) | [Bif Naked](https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw) | [I Bificus](https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps) | 4:21 |
 | 46 | [12 Years Old](https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [12 Years Old](https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3) | 5:38 |
 | 47 | [Summerlong](https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Public](https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 49 | [My Definition Of A Boombastic Jazz Style \- Radio Mix](https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Black History Month: Funk + Hip\-Hop](https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2) | 3:38 |
 | 50 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 
-Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDk4NTJiYjEwODBmMzdmNGIzNzc4MmZlOGI5NTQzNmYw`
+Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDU2YjJiODkxNDNlMDAwNDU1NTUzZWExNzQ2MmQzNjM5`

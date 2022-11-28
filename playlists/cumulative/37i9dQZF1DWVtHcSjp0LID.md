@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-142 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
+143 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Poly](https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 2:18 | 2022-03-22 |  |
 | [Psyche](https://open.spotify.com/track/3yk6KVpcmIlIYgam4WBPoN) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Psyche](https://open.spotify.com/album/46PO9WQMuvpGbqNP2E6Mx2) | 5:09 | 2022-03-22 | 2022-07-29 |
 | [Raw Charmer](https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s) | [Danny B](https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B) | [Find Myself EP](https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b) | 6:04 | 2022-03-22 | 2022-07-29 |
+| [Rebirth](https://open.spotify.com/track/4CMOzNttliw41slRLQY6kL) | [A Forest Mighty Black](https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5) | [Mellowdramatic](https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN) | 7:19 | 2022-07-15 |  |
 | [Rebirth](https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1) | [A Forest Mighty Black](https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y) | [Mellowdramatic](https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3) | 7:19 | 2022-03-22 | 2022-11-20 |
 | [Red Giant](https://open.spotify.com/track/3sRshuQLy538LS16Ot3Ld4) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Patterns & Light](https://open.spotify.com/album/6r1CzWzBp0qus1DQqIbnwV) | 4:55 | 2022-07-15 | 2022-10-09 |
 | [Red Giant](https://open.spotify.com/track/5V4fxT6U5kOuERIJM7Atgk) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Red Giant / Impromptu](https://open.spotify.com/album/0w5HuYMQ0faBdCKSXqUdfR) | 4:55 | 2022-03-22 | 2022-07-29 |
@@ -129,7 +130,7 @@
 | [Synphonic](https://open.spotify.com/track/71NOKuKaMW49PnrIpHuqw1) | [Tchaka](https://open.spotify.com/artist/45v1hQPdUt5dbHdDpRnxpL) | [Synphonic](https://open.spotify.com/album/4ccUpQaGFT5DFmW7MdcGAk) | 6:38 | 2022-03-22 | 2022-07-29 |
 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 | 2022-03-22 |  |
 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 | 2022-03-22 |  |
-| [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 | 2022-03-22 |  |
+| [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 | 2022-03-22 | 2022-11-28 |
 | [The Hymn Of Fallen Dreams](https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Hold Me To The Light](https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI) | 7:54 | 2022-03-22 |  |
 | [The Year After](https://open.spotify.com/track/3VZ3LogsGmVdGuDwOGZgqu) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/4q14VFOUqwQLNMQzVdJUBG) | 7:08 | 2022-03-22 | 2022-07-29 |
 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 | 2022-07-15 |  |

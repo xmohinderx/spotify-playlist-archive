@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 284941,
+  "num_followers": 285150,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODQwMCwwMDAwMDAwMDYzYzhkZDQ0YWFlNTYzNmZiM2FhNDJjY2MxNDM5OTVh",
+  "snapshot_id": "MTY1NTQzODQwMCwwMDAwMDAwMDQ5ZjQ3ZDhhNTlkMDFhMWUyYWM2ZDdmNzg3ZGEwOWM3",
   "tracks": [
     {
       "added_at": "2022-06-17 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
+        "name": "GOOD TIME",
+        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "GOOD TIME",
+      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "GOOD TIME",
-      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 208106,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 165569,
       "name": "Famous Friends",
       "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 194426,
       "name": "There Was This Girl",
       "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1631,8 +1631,8 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+        "name": "Time, Tequila & Therapy",
+        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
       },
       "artists": [
         {
@@ -1640,9 +1640,9 @@
           "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 176893,
-      "name": "No Such Thing as a Broken Heart",
-      "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
+      "duration_ms": 178680,
+      "name": "I Was On a Boat That Day",
+      "url": "https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1727,8 +1727,8 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Time, Tequila & Therapy",
-        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
       "artists": [
         {
@@ -1736,9 +1736,9 @@
           "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 178680,
-      "name": "I Was On a Boat That Day",
-      "url": "https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8"
+      "duration_ms": 176893,
+      "name": "No Such Thing as a Broken Heart",
+      "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Sunday Drive",
-        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 204386,
       "name": "Little Red Wagon",
       "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "What A Song Can Do (Chapter One)",
-        "url": "https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Like A Lady",
-      "url": "https://open.spotify.com/track/5SulrwmIUDbU5TQQtoYHhL"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 191253,
       "name": "Am I The Only One",
       "url": "https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "What A Song Can Do (Chapter One)",
+        "url": "https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Like A Lady",
+      "url": "https://open.spotify.com/track/5SulrwmIUDbU5TQQtoYHhL"
     },
     {
       "added_at": "2022-06-17 04:00:00",

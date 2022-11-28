@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1388614,
+  "num_followers": 1389244,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMGFmYjYyNjk2NzMyMzI3YTQxYjNhZDI0NjhlYTA0ZTI2",
+  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMGZkMWU4MmRhYjQ1YWFkNTU4MmRjMGFlMWVmMDY4ZGYw",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Palm Trees and Power Lines",
-        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
-      },
-      "artists": [
-        {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Give Up (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Palm Trees and Power Lines",
+        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "A Decade Under The Influence",
-      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 193920,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1007,38 +1007,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "All That I've Got",
-      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
-      },
-      "artists": [
-        {
-          "name": "The Fall of Troy",
-          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "F.C.P.R.E.M.I.X.",
-      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -1055,6 +1023,22 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 243746,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
+      },
+      "artists": [
+        {
+          "name": "The Fall of Troy",
+          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "F.C.P.R.E.M.I.X.",
+      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Bayside",
         "url": "https://open.spotify.com/album/2QtIreQj0XrhypG6U5H4o5"
       },
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Reach For The Sun",
-        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "The Permanent Rain",
-      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Fast Times At Barrington High",
         "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
       },
@@ -1163,6 +1131,22 @@
       "duration_ms": 210333,
       "name": "About a Girl",
       "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Reach For The Sun",
+        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "The Permanent Rain",
+      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1195,6 +1179,22 @@
       "duration_ms": 212186,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/0tkJnDYPIxF1xqxKe8x8YU"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": "2022-08-02 18:47:58",

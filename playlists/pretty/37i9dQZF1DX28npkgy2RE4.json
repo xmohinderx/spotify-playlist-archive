@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Drugdealer",
-  "num_followers": 386216,
+  "num_followers": 386286,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDZjMzdiOTliN2RlMTkzNjk0ZTRiZWRkN2MyMzdlNjE4",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDlkYmEyMDM4MzNlYWU4MTkxMjkyYWNlNGJlZThiOTYz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I Don\u2019t Live Here Anymore",
         "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 293866,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Paul Newman Daytona Rolex",
-      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Paul Newman Daytona Rolex",
+      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Among Horses III",
         "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 123000,
       "name": "Francis",
       "url": "https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Home Video",
-        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 254735,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "PIRATE RADIO*",
-        "url": "https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3"
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 189440,
-      "name": "PIRATE RADIO*",
-      "url": "https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8"
+      "duration_ms": 254735,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+        "name": "PIRATE RADIO*",
+        "url": "https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Dancing Away In Tears",
-      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+      "duration_ms": 189440,
+      "name": "PIRATE RADIO*",
+      "url": "https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Dancing Away In Tears",
+      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Lose This Number",
-      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 156333,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Happen",
-        "url": "https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Happen",
-      "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Shadowglow",
         "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 214748,
       "name": "Brooklyn Baby",
       "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Happen",
+        "url": "https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Happen",
+      "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "PAINLESS",
-        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Deli Daydreams",
         "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 294296,
       "name": "Eviction Notice",
       "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "PAINLESS",
+        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "San Isabel",
+        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Crazy World (Judgement Day)",
+      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Boleros Psicod\u00e9licos",
         "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "San Isabel",
-        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Crazy World (Judgement Day)",
-      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Wayfinder",
-        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
-      },
-      "artists": [
-        {
-          "name": "Boy Scouts",
-          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "That's Life Honey",
-      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Cosmic Dancer",
         "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
@@ -2003,6 +1987,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
+      },
+      "artists": [
+        {
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "I (motsi)",
         "url": "https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G"
       },
@@ -2015,6 +2015,22 @@
       "duration_ms": 197437,
       "name": "It's a good day (to fight the system)",
       "url": "https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2055,18 +2071,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+        "name": "Fever Breaks",
+        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
         }
       ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
+      "duration_ms": 286440,
+      "name": "Old Black Magic",
+      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2083,22 +2099,6 @@
       "duration_ms": 265687,
       "name": "Everything Is Free - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Fever Breaks",
-        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Old Black Magic",
-      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Mecca",
+        "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 291762,
+      "name": "Mecca",
+      "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Love Is Selfish",
         "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
       },
@@ -2231,22 +2247,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Mecca",
-        "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 291762,
-      "name": "Mecca",
-      "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Quitters",
         "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
@@ -2275,22 +2275,6 @@
       "duration_ms": 253928,
       "name": "This Is Your Life",
       "url": "https://open.spotify.com/track/3zaFz69Xfh3EnN9f1S0Nd3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Turn Away",
-        "url": "https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Turn Away",
-      "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2331,6 +2315,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Turn Away",
+        "url": "https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Turn Away",
+      "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Begin Again - EP",
         "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
       },
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Mariachi Static",
-        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
-      },
-      "artists": [
-        {
-          "name": "Izaak Opatz",
-          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "We Are Olympians",
         "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 297453,
       "name": "Olympians - Acoustic",
       "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Mariachi Static",
+        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
+      },
+      "artists": [
+        {
+          "name": "Izaak Opatz",
+          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Keeps Me Light",
-        "url": "https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 226287,
-      "name": "Keeps Me Light",
-      "url": "https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 254721,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Keeps Me Light",
+        "url": "https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 226287,
+      "name": "Keeps Me Light",
+      "url": "https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV"
     },
     {
       "added_at": "2022-10-14 04:00:00",

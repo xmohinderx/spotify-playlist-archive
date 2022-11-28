@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,714 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,737 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 38 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
 | 39 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 | 40 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
-| 41 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 |
-| 42 | [Tulum](https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Tulum](https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp) | 2:14 |
+| 41 | [Tulum](https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Tulum](https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp) | 2:14 |
+| 42 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 |
 | 43 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 |
 | 44 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
 | 45 | [Feels Like Paradise](https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Madeline](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Feels Like Paradise](https://open.spotify.com/album/7JSKRM0cz2AQlv69KVsQQD) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 |
 | 60 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDExZjAzMTYwOTliNjIwMmMyNzQxNTAzNWFhMDgwZDky`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDk5NWU3N2I3NmZjMTg5Mjg3MTdhOTU2MzExODRlOTZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,472 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,510 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 34 | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cool Me Down \(feat\. Wizkid\)](https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM) | 3:28 |
 | 35 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
 | 36 | [Eve Bounce \- Remix](https://open.spotify.com/track/4WivCZ8PeXzDPuoPHfNSaq) | [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Yaadman Kingsize](https://open.spotify.com/album/4ZiTa0fzBxRjQYrhxZUjJA) | 3:24 |
-| 37 | [Dis Love](https://open.spotify.com/track/4yF6ykrqb0iDtMjPtQMG8O) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Grace](https://open.spotify.com/album/5POlBPtjdKCxmJQBXw191I) | 2:35 |
-| 38 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
+| 37 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
+| 38 | [Dis Love](https://open.spotify.com/track/4yF6ykrqb0iDtMjPtQMG8O) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Grace](https://open.spotify.com/album/5POlBPtjdKCxmJQBXw191I) | 2:35 |
 | 39 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
 | 40 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 |
 | 41 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
 | 50 | [Slow Down \(feat\. Wiz Kid\)](https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:21 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBjMGQxNzNlMTExZDgxYzM2NGUyMzY3YjYyYmE4MTk4Mw==`
+Snapshot ID: `Mjc4MjU5OTUsMDAwMDAwMDBlNTdmNmM0YmFhMWUyOTI4YzgxYmMwZGZjYTM1ZTNmOA==`

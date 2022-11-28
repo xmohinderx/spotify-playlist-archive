@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Secily
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,477 likes - 165 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,550 likes - 165 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

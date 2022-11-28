@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,482 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,520 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 24 | [Pink Cadillac](https://open.spotify.com/track/4mXK4UWo8DTzJvoNsLOAOU) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [Indigo Swing](https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4) | 2:22 |
 | 25 | [Go Daddy O](https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 3:12 |
 | 26 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
-| 27 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
-| 28 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
+| 27 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
+| 28 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
 | 29 | [Come On\-A\-My House](https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Hawaiian Swing](https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj) | 2:10 |
-| 30 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
+| 30 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
 | 31 | [Mambo Swing](https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 5:07 |
 | 32 | [Swing Sweet Pussycat](https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW) | [The Atomic Fireballs](https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No) | [Torch This Place](https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L) | 3:09 |
 | 33 | [Solid Gold Cadillac](https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Solid Gold Cadillac](https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO) | 3:02 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 36 | [Oak Tree](https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9) | [Alien Fashion Show](https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P) | [Cool Thing](https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg) | 4:28 |
 | 37 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
 | 38 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
-| 39 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
+| 39 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
 | 40 | [Honey Pie](https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [Everybody's Talkin' 'Bout Miss Thing!](https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR) | 4:10 |
 | 41 | [Pink Elephant](https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:44 |
 | 42 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
 | 43 | [I Dare You Baby](https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw) | [Blue Harlem](https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90) | [I Dare You!](https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2) | 2:59 |
 | 44 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
-| 45 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
+| 45 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
 | 46 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
 | 47 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
 | 48 | [Long, Lean And Lanky](https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Shakin' The Shack](https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a) | 3:04 |
 | 49 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 | 50 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGE3ZTk5MzQ5ZTE3OGY5YTlhOGM3ZTJhOWQ4ZGVhNjI4`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDZkZDhkNjMwMjdjZTYxOGU2YmJmYTdhN2Y5NzNkNWUx`

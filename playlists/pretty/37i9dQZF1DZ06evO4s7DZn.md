@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,560 likes - 44 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,564 likes - 44 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 6 | [Amor Ranchero](https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Amor Ranchero](https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky) | 2:23 |
 | 7 | [Amigo Mesero](https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 3:06 |
 | 8 | [Sueño Realidad](https://open.spotify.com/track/7Gv1d49D60wRv7n6LU6eRk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 2:41 |
-| 9 | [Medias Negras](https://open.spotify.com/track/1lL1b0bvPS9CrGiKrLIlFq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 2:36 |
-| 10 | [Mil Cartas \- En Vivo](https://open.spotify.com/track/6JrLok78BeLPN3R1eDWeQi) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:19 |
+| 9 | [Mil Cartas \- En Vivo](https://open.spotify.com/track/6JrLok78BeLPN3R1eDWeQi) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:19 |
+| 10 | [Medias Negras](https://open.spotify.com/track/1lL1b0bvPS9CrGiKrLIlFq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 2:36 |
 | 11 | [Brinquito](https://open.spotify.com/track/3v8nP78dVokQOUkABtUKBR) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 3:25 |
 | 12 | [De Que Me Sirve](https://open.spotify.com/track/20WWOcsooLMpsxCroHVAEP) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 2:17 |
 | 13 | [Muchacha Triste](https://open.spotify.com/track/6c8cEuIVJWZ251jfCunb0T) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:42 |
@@ -33,24 +33,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 23 | [El Ultimo Trago](https://open.spotify.com/track/4pJvdhRnOhkK6JwRXcUEO0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:23 |
 | 24 | [Algo Sin Igual](https://open.spotify.com/track/0rpugJvfFm3y9UQ244wfXX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 3:28 |
 | 25 | [Oh Gran Dios](https://open.spotify.com/track/3ThVhCjqErJsuajFsMLn3H) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:50 |
-| 26 | [Quiero Que Me Vuelas Queder \- En Vivo](https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 2:55 |
+| 26 | [La Guitarra de Lolo \- En Vivo](https://open.spotify.com/track/5bmN1vFp6A1o83L57dv2yv) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:52 |
 | 27 | [Lo Aprendí De Ti](https://open.spotify.com/track/032qb1vSAmnIvg6rz2axRo) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:32 |
 | 28 | [Llegaste A Mi Vida](https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:58 |
 | 29 | [Mi Amor Bendito](https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:04 |
-| 30 | [La Guitarra de Lolo \- En Vivo](https://open.spotify.com/track/5bmN1vFp6A1o83L57dv2yv) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:52 |
+| 30 | [Quiero Que Me Vuelas Queder \- En Vivo](https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 2:55 |
 | 31 | [Signo Libra](https://open.spotify.com/track/5KwNLf671dgPXwECPw9glC) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:47 |
 | 32 | [No Llega El Olvido](https://open.spotify.com/track/6tzP3K1dS3AW7b0byZwSnd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:07 |
 | 33 | [Chica Morena](https://open.spotify.com/track/0PZaUXCznCRq1efUqKXLbx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:59 |
 | 34 | [Mi Ultima Parranda \- En Vivo](https://open.spotify.com/track/3QyfrvlB1OGCHsFeOAgglU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:27 |
 | 35 | [Tomando Cerveza](https://open.spotify.com/track/5TKwexlO82W5RCzWLRPFpk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Tomando Cerveza](https://open.spotify.com/album/5uQxB6KUC34UALiSsFPFNZ) | 3:01 |
-| 36 | [Como Esos Amantes](https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:29 |
-| 37 | [Ya Para Que](https://open.spotify.com/track/2vnldLYSPCg2gAuZRnnWjx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:19 |
+| 36 | [Ya Para Que](https://open.spotify.com/track/2vnldLYSPCg2gAuZRnnWjx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:19 |
+| 37 | [Como Esos Amantes](https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:29 |
 | 38 | [Dime Porqué](https://open.spotify.com/track/2GQCB6gEcgPUYF2N9Zbqxd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [De Punta a Punta](https://open.spotify.com/album/46DnLQAff2uArOWpr0fRl9) | 2:13 |
 | 39 | [La Otra España \- En Vivo](https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! , Vol.1](https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS) | 2:44 |
-| 40 | [Quiéreme Ámame](https://open.spotify.com/track/6cFIyDNYKW4nCog6YoFz6V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:57 |
-| 41 | [Se Terminó Lo Nuestro](https://open.spotify.com/track/4i3HvUEFP36nhC0jw6aOr7) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:25 |
+| 40 | [Se Terminó Lo Nuestro](https://open.spotify.com/track/4i3HvUEFP36nhC0jw6aOr7) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:25 |
+| 41 | [Quiéreme Ámame](https://open.spotify.com/track/6cFIyDNYKW4nCog6YoFz6V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:57 |
 | 42 | [25 Horas al Dia](https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:06 |
-| 43 | [De Punta a Punta](https://open.spotify.com/track/5wzPYuHhdRdqMFerU4bGVS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:56 |
-| 44 | [Acá Entre Nos](https://open.spotify.com/track/5T16vHkpTCicWVmQTOMw4m) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:31 |
+| 43 | [Acá Entre Nos](https://open.spotify.com/track/5T16vHkpTCicWVmQTOMw4m) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:31 |
+| 44 | [De Punta a Punta](https://open.spotify.com/track/5wzPYuHhdRdqMFerU4bGVS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:56 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDAxNWVkMjNlODI4YzhjYjUxZDljYTE2N2UwOWUzNjc4Yg==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDAwZjQxMjI4MDEzMDc5YzU3YjEzNzNkZTFjNDEzMDA1MQ==`

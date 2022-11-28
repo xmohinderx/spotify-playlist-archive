@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,535 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,541 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 25 | [Ya no llores](https://open.spotify.com/track/3KNxku9f4YfcWHbTHnH5rG) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Ya no llores](https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX) | 2:05 |
 | 26 | [Ahnelo](https://open.spotify.com/track/0Kr6Pnnds4RamnPoWuGpdy) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Relampagazos](https://open.spotify.com/album/0g5XjdiC2ufPGdRIS5E6Jf) | 2:53 |
 | 27 | [Una Lágrima y un Recuerdo](https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Boleros de Colección, vol\. 2](https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS) | 2:42 |
-| 28 | [Tengo Miedo](https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:49 |
-| 29 | [Tengo Miedo](https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 2:57 |
+| 28 | [Tengo Miedo](https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 2:57 |
+| 29 | [Tengo Miedo](https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:49 |
 | 30 | [Devolución](https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Éxitos de Oro, vol\. 4](https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc) | 2:12 |
 | 31 | [Caminar Caminar](https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:36 |
 | 32 | [Mi Talisman](https://open.spotify.com/track/1zcPAPgfVZXo24wgIO0rDr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/0sqq8ENeeBECpaM7cne8GA) | 1:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 48 | [Mi Charchina](https://open.spotify.com/track/6vK2viIk4tabUUztnxQcTb) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 3:06 |
 | 49 | [Llorar por Amor](https://open.spotify.com/track/6DoYsoFeICbUoq9nNddaH1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:55 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDA2ZTg1MjVmYmU2MDdiZWE3ZGU5NWE1YzgzMzJhYWVjZQ==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDBkNmUyMzExNmM5YTgzZjA1ZDMxYTQxN2M0NDg5MGY5OA==`

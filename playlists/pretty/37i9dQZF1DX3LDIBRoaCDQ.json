@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1438902,
+  "num_followers": 1439179,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMTI0NywwMDAwMDAwMGI4NzljYjc1OGE3MGY5NjQ5NGJhMWE5ZmYyMGUwYTk2",
+  "snapshot_id": "MTY2ODcwMTI0NywwMDAwMDAwMDRjZDg1ZWM2ZmY3M2M0NGIzM2YyNTA2OTI0NzAzYmVh",
   "tracks": [
     {
       "added_at": "2022-11-17 16:07:27",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-11-17 16:07:27",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 102106,
-      "name": "Knowledge - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
     },
     {
       "added_at": "2022-11-17 16:07:27",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-11-17 16:07:27",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
       "artists": [
         {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
         }
       ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2022-11-17 16:07:27",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-11-17 16:07:27",
       "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
-      },
-      "artists": [
-        {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
-    },
-    {
-      "added_at": "2022-11-17 16:07:27",
-      "album": {
         "name": "A Collection of Pop Classics",
         "url": "https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 162346,
       "name": "New Rose",
       "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
+    },
+    {
+      "added_at": "2022-11-17 16:07:27",
+      "album": {
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
+      },
+      "artists": [
+        {
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
     },
     {
       "added_at": "2022-11-17 16:07:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,368 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,477 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 26 | [Hanabi feat\. SHO OKAMOTO \(Chaki Zulu Remix\)](https://open.spotify.com/track/3cpOZcZ2WMg8Z6Avni6Olq) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [SHO OKAMOTO](https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [Hanabi feat\. SHO OKAMOTO \(Chaki Zulu Remix\)](https://open.spotify.com/album/6xLjv7AdLQVa9yEAluKeIA) | 3:36 |
 | 27 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 |
 | 28 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
-| 29 | [Running In The Dark \- Image Song for Arknights mobile game](https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Running In The Dark \(Image Song for Arknights mobile game\)](https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR) | 3:40 |
+| 29 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 |
 | 30 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 |
-| 31 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 |
+| 31 | [Running In The Dark \- Image Song for Arknights mobile game](https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Running In The Dark \(Image Song for Arknights mobile game\)](https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR) | 3:40 |
 | 32 | [都合](https://open.spotify.com/track/3hEopKpyeGAf9CoaAAU6D8) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [都合](https://open.spotify.com/album/7IZ3zDRZLZQljv701eNySG) | 4:30 |
 | 33 | [Highway](https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g) | 5:28 |
 | 34 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 69 | [Lights \(feat\. Blu\)](https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:17 |
 | 70 | [Quai](https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [Quai](https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm) | 6:50 |
 
-Snapshot ID: `MTY2OTMxOTIxMywwMDAwMDAwMGEzZjgzZTM4NGM5MmMyMWU4N2Q5MTJlNzg0ZWU5Y2Y1`
+Snapshot ID: `MTY2OTMxOTIxMywwMDAwMDAwMGE0NTdlYzQxMDIyYTJhMWE0ZWJkNDJjM2I5ODY4MWRh`

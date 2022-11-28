@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 52727,
+  "num_followers": 52854,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMGViOWU3MjljMmU5NjQwNDk0ODQ2MzZkMjJhOTI1N2Ex",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDI3YmUxM2Q0N2QyMjRjODIwNGY0MTViM2Q2OGZhNjBl",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+      },
+      "artists": [
+        {
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Because I Got High",
+      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "The Good Times",
-        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
-      },
-      "artists": [
-        {
-          "name": "Afroman",
-          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Because I Got High",
-      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
     },
     {
       "added_at": "2021-10-20 15:00:00",

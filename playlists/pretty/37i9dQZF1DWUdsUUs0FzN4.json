@@ -1,12 +1,12 @@
 {
   "description": "Bienvenidxs al mundo del bellaqueo, con Bellakath.",
-  "num_followers": 4692,
+  "num_followers": 4701,
   "original_name": "Reggaet\u00f3n Chakal\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0Mjc0MCwwMDAwMDAwMDQyOWFjZDA2OGRlYTQzNTgwYTNjNDg4ZjUwZjdlYzFm",
+  "snapshot_id": "MTY2OTM0Mjc0MCwwMDAwMDAwMDU0NGU0OGYyOGE0YjQ1YzlhYmVhNTNiYjU5ZmYyZWZi",
   "tracks": [
     {
       "added_at": "2022-11-16 01:08:44",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
     },
     {
-      "added_at": "2022-11-27 01:07:54",
+      "added_at": "2022-11-28 01:03:16",
       "album": {
         "name": "Mkrna (Remix)",
         "url": "https://open.spotify.com/album/4AmOxXERX6qsfpBTehQPRi"
@@ -379,26 +379,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Bien Beb\u00e9",
-        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 163469,
-      "name": "Bien Beb\u00e9",
-      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Buz\u00f3n de Voz",
         "url": "https://open.spotify.com/album/4BkaOPT7FUQj23tVW5AE3T"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 164223,
       "name": "R\u00f3mpelo",
       "url": "https://open.spotify.com/track/2DTKvhMEE6pTJAKu3uv6Ks"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 163469,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -547,18 +547,22 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Le Encanta",
-        "url": "https://open.spotify.com/album/1TV7WOBMrutnBWvDfkZA8G"
+        "name": "EL Diablo",
+        "url": "https://open.spotify.com/album/3vBeETbf9fHvGiQ4YBmEZI"
       },
       "artists": [
         {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+          "name": "EL Fresh",
+          "url": "https://open.spotify.com/artist/5SKKmrCayBdpFX1A7l42Cw"
+        },
+        {
+          "name": "Ledavile",
+          "url": "https://open.spotify.com/artist/4Mm3QHdKwWmHLI6tHYhORk"
         }
       ],
-      "duration_ms": 253987,
-      "name": "Le Encanta",
-      "url": "https://open.spotify.com/track/58WWCAi0pGb9Kw49BnGTXI"
+      "duration_ms": 164781,
+      "name": "EL Diablo",
+      "url": "https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -579,22 +583,18 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "EL Diablo",
-        "url": "https://open.spotify.com/album/3vBeETbf9fHvGiQ4YBmEZI"
+        "name": "Le Encanta",
+        "url": "https://open.spotify.com/album/1TV7WOBMrutnBWvDfkZA8G"
       },
       "artists": [
         {
-          "name": "EL Fresh",
-          "url": "https://open.spotify.com/artist/5SKKmrCayBdpFX1A7l42Cw"
-        },
-        {
-          "name": "Ledavile",
-          "url": "https://open.spotify.com/artist/4Mm3QHdKwWmHLI6tHYhORk"
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
         }
       ],
-      "duration_ms": 164781,
-      "name": "EL Diablo",
-      "url": "https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj"
+      "duration_ms": 253987,
+      "name": "Le Encanta",
+      "url": "https://open.spotify.com/track/58WWCAi0pGb9Kw49BnGTXI"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -831,30 +831,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Que Le Den",
-        "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
-      },
-      "artists": [
-        {
-          "name": "DJ Yelkrab",
-          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
-        },
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Rey Pirin",
-          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
-        }
-      ],
-      "duration_ms": 193469,
-      "name": "Que Le Den",
-      "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Flow Soltera",
         "url": "https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Que Le Den",
+        "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
+      },
+      "artists": [
+        {
+          "name": "DJ Yelkrab",
+          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Rey Pirin",
+          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
+        }
+      ],
+      "duration_ms": 193469,
+      "name": "Que Le Den",
+      "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
     },
     {
       "added_at": "2022-09-27 22:49:43",

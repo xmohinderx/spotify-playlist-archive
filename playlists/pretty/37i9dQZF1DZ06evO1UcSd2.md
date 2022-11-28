@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,584 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,613 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 40 | [Pensando En Verte](https://open.spotify.com/track/6eusau4yKSgkQm7YUBChVf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Clave Doble L](https://open.spotify.com/artist/3FI7OHP038BGJwg2fMaPeI) | [Pensando En Verte](https://open.spotify.com/album/3KFEfi9tNP2cimjoPi9tPL) | 3:23 |
 | 41 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
 | 42 | [La Vez de las Huertas](https://open.spotify.com/track/6r7iAcQHWq4NGp217e2DHT) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 2:04 |
-| 43 | [La Vida del Changuito](https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:13 |
-| 44 | [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 |
+| 43 | [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 |
+| 44 | [La Vida del Changuito](https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:13 |
 | 45 | [El Mas Chico De Los Anthrax](https://open.spotify.com/track/0Apq3JwAePBL2QKZJ0FMFO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:35 |
 | 46 | [El Mentado](https://open.spotify.com/track/2K5oFDtsSM0Wf6rzOmVEMT) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 2:36 |
-| 47 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
-| 48 | [Del Barrio](https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio](https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8) | 3:03 |
+| 47 | [Del Barrio](https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio](https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8) | 3:03 |
+| 48 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
 | 49 | [El Plumas](https://open.spotify.com/track/0Gbvdas2fBkDsQBiNgq8dN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Plumas](https://open.spotify.com/album/2yB6Jml9JVX50kTjlU2cgX) | 2:57 |
 | 50 | [El Señor Zambada](https://open.spotify.com/track/1CBXspim9GK60C4auWiPBe) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 3:42 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBhMGM5ODg2YjUxNTg1MGI5OWE0MmRlMGQzZjBkOWRkMg==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDBjYmRkNTk1NDJmNDM4NjJiODlhOWU0OTZkYjQwOWIyNQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Javiera Mena",
-  "num_followers": 143956,
+  "num_followers": 143964,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGJhMjlhMGEzZmMwOWJmZDgzMGMyYzc5MmI0Y2I3MDcx",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDc2NGNkMDMxNzVlNTVmMDljMTUyMTgyMmQ1OGRkN2Yw",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 272513,
+      "name": "IR",
+      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Pensar en Ti",
         "url": "https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 219642,
       "name": "Pensar en Ti",
       "url": "https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 272513,
-      "name": "IR",
-      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Excusas",
         "url": "https://open.spotify.com/album/1HdFSJuwUiodRazWiyoovN"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 239960,
       "name": "Excusas",
       "url": "https://open.spotify.com/track/6FCy6lQw7O7GMu17tbA4eb"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 213041,
+      "name": "Ay, Amor \u2665\ufe0e",
+      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "PSILOCIBINA",
         "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Serenidad",
         "url": "https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs"
       },
@@ -803,42 +803,6 @@
       "duration_ms": 208250,
       "name": "Serenidad",
       "url": "https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Error 404",
-        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 114706,
-      "name": "Deriva",
-      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Un Gatito",
-        "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        },
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 185824,
-      "name": "Un Gatito",
-      "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -863,18 +827,38 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Te Pense un Monton",
-        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
+        "name": "Un Gatito",
+        "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        },
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         }
       ],
-      "duration_ms": 144179,
-      "name": "Te Pense un Monton",
-      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
+      "duration_ms": 185824,
+      "name": "Un Gatito",
+      "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Error 404",
+        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "duration_ms": 114706,
+      "name": "Deriva",
+      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -895,22 +879,34 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Detonaci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
+        "name": "Te Pense un Monton",
+        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 232173,
-      "name": "Detonaci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
+      "duration_ms": 144179,
+      "name": "Te Pense un Monton",
+      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -951,18 +947,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ"
+        "name": "Detonaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
         }
       ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
+      "duration_ms": 232173,
+      "name": "Detonaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -979,6 +979,26 @@
       "duration_ms": 150236,
       "name": "A m\u00ed ya me iba mal de antes",
       "url": "https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1015,22 +1035,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Curriculum Completo",
-        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        },
-        {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
         }
       ],
-      "duration_ms": 145401,
-      "name": "Curriculum Completo",
-      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+      "duration_ms": 233680,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
       },
       "artists": [
         {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
         }
       ],
-      "duration_ms": 147808,
-      "name": "Fuckgurl",
-      "url": "https://open.spotify.com/track/4ju0wieDNcKjTdPMYCnye2"
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 269331,
       "name": "P\u00e1jaro Azul",
       "url": "https://open.spotify.com/track/32me2vQrXYrGHvtJxpxHhz"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 147808,
+      "name": "Fuckgurl",
+      "url": "https://open.spotify.com/track/4ju0wieDNcKjTdPMYCnye2"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "La Fortaleza",
+        "url": "https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Ven a Buscarlo",
+      "url": "https://open.spotify.com/track/5khU8HfBzcFQNKaiRE7d41"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "La Fortaleza",
-        "url": "https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9"
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Ven a Buscarlo",
-      "url": "https://open.spotify.com/track/5khU8HfBzcFQNKaiRE7d41"
+      "duration_ms": 293414,
+      "name": "Paseito",
+      "url": "https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1339,22 +1355,6 @@
       "duration_ms": 172170,
       "name": "DISFRAZ",
       "url": "https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 293414,
-      "name": "Paseito",
-      "url": "https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD"
     }
   ],
   "unique_name": "Mujeres del Indie",

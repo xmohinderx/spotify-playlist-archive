@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by Pauline Herr.",
-  "num_followers": 733504,
+  "num_followers": 733630,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDI1ZDAxNjlhZjZjZDNkOTU1NzE2NTE0NWQ2OTA3N2U2",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGUzNzg3YTc5MTMxZTc1ZGE4NTY4NzMyZmRkYzlhNjBm",
   "tracks": [
     {
       "added_at": "2021-11-26 07:27:00",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Colors of Your Heart",
-        "url": "https://open.spotify.com/album/2X1QKZakJ970AjXhaKH6oi"
-      },
-      "artists": [
-        {
-          "name": "Kidswaste",
-          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
-        }
-      ],
-      "duration_ms": 157783,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/73AJKu43I5e6MsTBYaNcfM"
-    },
-    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "Blue (Flume Remix)",
@@ -271,6 +255,22 @@
       "duration_ms": 166666,
       "name": "Blue - Flume Remix",
       "url": "https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Colors of Your Heart",
+        "url": "https://open.spotify.com/album/2X1QKZakJ970AjXhaKH6oi"
+      },
+      "artists": [
+        {
+          "name": "Kidswaste",
+          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
+        }
+      ],
+      "duration_ms": 157783,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/73AJKu43I5e6MsTBYaNcfM"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Your Struggle Is Also Mine",
+        "url": "https://open.spotify.com/album/1jq466hKCKk8ZFMoZHo3vZ"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Your Struggle Is Also Mine",
+      "url": "https://open.spotify.com/track/7pTUnjG1e8FdiylA0EXzEe"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "heights",
         "url": "https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j"
       },
@@ -1129,22 +1145,6 @@
       "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Your Struggle Is Also Mine",
-        "url": "https://open.spotify.com/album/1jq466hKCKk8ZFMoZHo3vZ"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Your Struggle Is Also Mine",
-      "url": "https://open.spotify.com/track/7pTUnjG1e8FdiylA0EXzEe"
-    },
-    {
       "added_at": "2021-11-26 07:27:00",
       "album": {
         "name": "Sticky Love",
@@ -1163,22 +1163,6 @@
       "duration_ms": 228985,
       "name": "Sticky Love",
       "url": "https://open.spotify.com/track/1p4j8XMaB67GJEBa5RBrQJ"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Everybody You Hurt",
-        "url": "https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF"
-      },
-      "artists": [
-        {
-          "name": "Aaron Kates",
-          "url": "https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Everybody You Hurt",
-      "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1203,6 +1187,42 @@
       "duration_ms": 211200,
       "name": "Escape Reality",
       "url": "https://open.spotify.com/track/4EcsGwSei1YStJRy3lbpzt"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Everybody You Hurt",
+        "url": "https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF"
+      },
+      "artists": [
+        {
+          "name": "Aaron Kates",
+          "url": "https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Everybody You Hurt",
+      "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Hurting on Purpose (feat. K.Flay)",
+        "url": "https://open.spotify.com/album/1l1LupuEyKmrHfDa3HOtCF"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 129408,
+      "name": "Hurting on Purpose (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/3wROjwePZ2JrvHI2FPDqul"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1231,22 +1251,18 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Hurting on Purpose (feat. K.Flay)",
-        "url": "https://open.spotify.com/album/1l1LupuEyKmrHfDa3HOtCF"
+        "name": "Open Blinds",
+        "url": "https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 129408,
-      "name": "Hurting on Purpose (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/3wROjwePZ2JrvHI2FPDqul"
+      "duration_ms": 255579,
+      "name": "Open Blinds",
+      "url": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1283,22 +1299,6 @@
       "duration_ms": 123259,
       "name": "T0NITE",
       "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Open Blinds",
-        "url": "https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 255579,
-      "name": "Open Blinds",
-      "url": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
     },
     {
       "added_at": "2021-08-13 20:41:08",
@@ -1355,6 +1355,26 @@
       "duration_ms": 174283,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "PILLARS ///",
+        "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "MOONZz",
+          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
+        }
+      ],
+      "duration_ms": 205989,
+      "name": "Statues",
+      "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1415,42 +1435,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Mess With Me",
-        "url": "https://open.spotify.com/album/14BwnpumW4yrqFvZbMEjW6"
-      },
-      "artists": [
-        {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Mess With Me",
-      "url": "https://open.spotify.com/track/54wPYSDLDGohNs7wCsb5ye"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "PILLARS ///",
-        "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "MOONZz",
-          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
-        }
-      ],
-      "duration_ms": 205989,
-      "name": "Statues",
-      "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Half Way Home",
         "url": "https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 177718,
       "name": "Half Way Home",
       "url": "https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Mess With Me",
+        "url": "https://open.spotify.com/album/14BwnpumW4yrqFvZbMEjW6"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Mess With Me",
+      "url": "https://open.spotify.com/track/54wPYSDLDGohNs7wCsb5ye"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/0osP6pSaVm56Q14TYPu87N"
     },
     {
-      "added_at": "2021-11-26 07:27:00",
-      "album": {
-        "name": "care about u",
-        "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 201637,
-      "name": "care about u",
-      "url": "https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD"
-    },
-    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "RESET",
@@ -1633,20 +1617,20 @@
       "url": "https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
+      "added_at": "2021-11-26 07:27:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi"
+        "name": "care about u",
+        "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
       },
       "artists": [
         {
-          "name": "Whereisalex",
-          "url": "https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT"
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
         }
       ],
-      "duration_ms": 225882,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/76FR3MBARic3eh86RQjubB"
+      "duration_ms": 201637,
+      "name": "care about u",
+      "url": "https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1663,6 +1647,22 @@
       "duration_ms": 209299,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi"
+      },
+      "artists": [
+        {
+          "name": "Whereisalex",
+          "url": "https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/76FR3MBARic3eh86RQjubB"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1717,26 +1717,6 @@
       "url": "https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Temper",
-        "url": "https://open.spotify.com/album/5puSuAFMWXFnf9aauxtvOO"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "LIA",
-          "url": "https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj"
-        }
-      ],
-      "duration_ms": 238206,
-      "name": "Temper",
-      "url": "https://open.spotify.com/track/4g1xsVqnjBArKZ7SpESOtw"
-    },
-    {
       "added_at": "2021-10-08 04:03:00",
       "album": {
         "name": "Know",
@@ -1755,6 +1735,26 @@
       "duration_ms": 251687,
       "name": "Know",
       "url": "https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/5puSuAFMWXFnf9aauxtvOO"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "LIA",
+          "url": "https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj"
+        }
+      ],
+      "duration_ms": 238206,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/4g1xsVqnjBArKZ7SpESOtw"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1877,30 +1877,6 @@
       "url": "https://open.spotify.com/track/7xONxR36tlMANx4jy2Take"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Somehow We Lost It All",
-        "url": "https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Pham",
-          "url": "https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3"
-        },
-        {
-          "name": "josh pan",
-          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Somehow We Lost It All",
-      "url": "https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "Holding On (Rome In Silver Remix)",
@@ -1925,22 +1901,6 @@
       "url": "https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD"
-      },
-      "artists": [
-        {
-          "name": "Lhasa Petik",
-          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
-    },
-    {
       "added_at": "2021-12-10 05:00:00",
       "album": {
         "name": "Sleeptalking",
@@ -1959,6 +1919,46 @@
       "duration_ms": 222831,
       "name": "Sleeptalking",
       "url": "https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Somehow We Lost It All",
+        "url": "https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Pham",
+          "url": "https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3"
+        },
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Somehow We Lost It All",
+      "url": "https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD"
+      },
+      "artists": [
+        {
+          "name": "Lhasa Petik",
+          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1991,22 +1991,6 @@
       "duration_ms": 170250,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/1XGKJIMxvFfi9MCm9Csqlk"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "kora",
-        "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
-      },
-      "artists": [
-        {
-          "name": "The Sanctuary",
-          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
-        }
-      ],
-      "duration_ms": 282870,
-      "name": "kora",
-      "url": "https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2055,6 +2039,22 @@
       "duration_ms": 183652,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/0xjZJqMYwv7oNB4KsJiUUM"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "kora",
+        "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
+      },
+      "artists": [
+        {
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+        }
+      ],
+      "duration_ms": 282870,
+      "name": "kora",
+      "url": "https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2305,20 +2305,20 @@
       "url": "https://open.spotify.com/track/12OtYMAKuPrBdXxEmEoanq"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/3UIrcJiTuOoBcuQA6xS26O"
       },
       "artists": [
         {
-          "name": "Mont Duamel",
-          "url": "https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB"
+          "name": "Nick AM",
+          "url": "https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Lessons",
-      "url": "https://open.spotify.com/track/0yrprIEMM99mThlgrdewdw"
+      "duration_ms": 214110,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/3Tw9Z8J4DLL1Y2zVyBiDg0"
     }
   ],
   "unique_name": "creamy",

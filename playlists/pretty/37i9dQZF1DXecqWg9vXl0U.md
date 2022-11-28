@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Bella Álvarez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,761 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,823 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 14 | [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 |
 | 15 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 |
 | 16 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
-| 17 | [pikito](https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [pikito](https://open.spotify.com/album/33CyjR8qCG48VArrgao5Oz) | 3:00 |
+| 17 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
 | 18 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
-| 19 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
-| 20 | [Muchas Cosas](https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Muchas Cosas](https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT) | 2:32 |
-| 21 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
+| 19 | [pikito](https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [pikito](https://open.spotify.com/album/33CyjR8qCG48VArrgao5Oz) | 3:00 |
+| 20 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
+| 21 | [Muchas Cosas](https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Muchas Cosas](https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT) | 2:32 |
 | 22 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 |
 | 23 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 24 | [Gotas](https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Gotas](https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB) | 3:35 |
-| 25 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 |
-| 26 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj) | 2:54 |
-| 27 | [Cosas raras \(feat\. Pimp Flaco\)](https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 4:17 |
+| 25 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj) | 2:54 |
+| 26 | [Cosas raras \(feat\. Pimp Flaco\)](https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 4:17 |
+| 27 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 |
 | 28 | [Nunca Te Dejaré Ir](https://open.spotify.com/track/5Enzcachkod8O3ykRHUZLw) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Nunca Te Dejaré Ir](https://open.spotify.com/album/1Dck2luCLqrh6rudNBEkCv) | 1:54 |
 | 29 | [Lejos](https://open.spotify.com/track/4VTS91UQjtt7A8hJQLE466) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Lejos](https://open.spotify.com/album/1IVtRPT0lFcFcxBn9XRWon) | 3:05 |
 | 30 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:40 |
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 42 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 |
 | 43 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
 | 44 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
-| 45 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
-| 46 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 45 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 46 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
 | 47 | [Amor Como Puñal](https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Amor Como Puñal](https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf) | 3:01 |
 | 48 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
 | 49 | [Dulce Amargo](https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:27 |
 | 50 | [Gardenia Dreams](https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:02 |
 | 51 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
-| 52 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 |
-| 53 | [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 |
+| 52 | [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 |
+| 53 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 |
 | 54 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
 | 55 | [Gravedad](https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Gravedad](https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN) | 4:25 |
 | 56 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 |
 | 75 | [Una Sola Vez](https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Una Sola Vez](https://open.spotify.com/album/4WsPV4Bh44VtunOPOeYbmT) | 4:16 |
 
-Snapshot ID: `MTY2NzI1NDYwNSwwMDAwMDAwMGNhNWRhZmNmNTUxYzM3ZmQ5NTY5Njc5ZTdjODkxYjYz`
+Snapshot ID: `MTY2NzI1NDYwNSwwMDAwMDAwMGE3NzYwYWYzYmZiMjkyZDNkZmJiMzQyY2U1NzA4YjUx`

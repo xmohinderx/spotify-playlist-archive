@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Jadu Heart
 
-332 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+334 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,10 +94,11 @@
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-01 | 2022-10-14 |
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-22 |  |
 | [Don't Press Me](https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 1:50 | 2022-08-18 | 2022-09-23 |
-| [Dreams](https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Dreams](https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o) | 3:14 | 2022-10-06 |  |
+| [Dreams](https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Dreams](https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o) | 3:14 | 2022-10-06 | 2022-11-28 |
 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 | 2022-10-06 |  |
 | [Dutch Courage](https://open.spotify.com/track/6kQmrit1q7b5BR6CvxpO99) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Dutch Courage](https://open.spotify.com/album/02f6WXw7JMV9NLf0Z7Evza) | 4:30 | 2021-03-09 | 2022-01-17 |
-| [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 | 2022-08-18 |  |
+| [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 | 2022-11-25 |  |
+| [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 | 2022-08-18 | 2022-11-28 |
 | [Eight Fivers](https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Most Normal](https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0) | 2:20 | 2022-10-13 |  |
 | [End of the World](https://open.spotify.com/track/3kMn5466igLcIipucTOrSt) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [End of the World](https://open.spotify.com/album/14DWK40JwAG6to2t1KpEGK) | 4:15 | 2022-10-13 | 2022-11-18 |
 | [Ethel](https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Ethel](https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y) | 4:29 | 2022-11-18 |  |
@@ -159,6 +160,7 @@
 | [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 | 2022-11-25 |  |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-06 |  |
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-08-18 | 2022-11-20 |
+| [I Know You Care](https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I Know You Care](https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t) | 3:08 | 2022-11-25 |  |
 | [I Love You](https://open.spotify.com/track/2rDaHAwvDFpSR6hta7re5l) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/1ysn1KuQSSRBK96J17wGyD) | 5:05 | 2022-02-18 | 2022-07-29 |
 | [I Love You](https://open.spotify.com/track/4mKn6gwhP3HYuo11aNqI2y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:05 | 2022-04-01 | 2022-08-19 |
 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 | 2022-10-06 |  |

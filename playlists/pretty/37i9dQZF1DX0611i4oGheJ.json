@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 363490,
+  "num_followers": 363656,
   "original_name": "Soft + Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0MTU5NiwwMDAwMDAwMDIwZjVhZmU5YzQxYzYxODY4NTA5YmUwMzdlYjRlODc4",
+  "snapshot_id": "MTY2Nzg0MTU5NiwwMDAwMDAwMGViZjk3YTM4NGVmYWQ2MzRhYTkwZmQwNGQ5MTcwODcw",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Raining in June",
         "url": "https://open.spotify.com/album/6QV1td1iGOspFOKYZOfUbv"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "In the Waiting",
-        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 198403,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Wild Rivers",
         "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 117287,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/5o9h7ySWPqcPrNWhS0EDHu"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "In the Waiting",
+        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 198403,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Bravado",
-        "url": "https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 247631,
-      "name": "The Swimmer (To Be an Old Man)",
-      "url": "https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Bravado",
+        "url": "https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 247631,
+      "name": "The Swimmer (To Be an Old Man)",
+      "url": "https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 351296,
+      "name": "Imagining My Man",
+      "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 253888,
       "name": "Bittersweet, TN",
       "url": "https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 351296,
-      "name": "Imagining My Man",
-      "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "U.F.O.F.",
         "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 245640,
       "name": "Cattails",
       "url": "https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "i leave early",
-        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "i leave early",
-      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Great Irish Songbook",
         "url": "https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 326160,
       "name": "The West Coast Of Clare",
       "url": "https://open.spotify.com/track/51iBStlAJlUriO53s93F6l"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "i leave early",
+        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "i leave early",
+      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Change the Whole Thing",
         "url": "https://open.spotify.com/album/20kCJxZJoLvOvyDWhgOYU4"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 268663,
       "name": "Change the Whole Thing",
       "url": "https://open.spotify.com/track/6Z5k237LIQek8rPlaSUas5"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Folding Leaves",
         "url": "https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 331111,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Sky is Painted Gray Today",
-        "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 221682,
-      "name": "The Sky is Painted Gray Today",
-      "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 221546,
       "name": "I Knew I Could Fly",
       "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Sky is Painted Gray Today",
+        "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 221682,
+      "name": "The Sky is Painted Gray Today",
+      "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
     }
   ],
   "unique_name": "Soft + Slow",

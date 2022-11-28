@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140881,
+  "num_followers": 140894,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDdhYzFhYzU3ZGMyNzhlZmMxYjQ5NzMzMjgyYjNmMzE3",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGE0ODcwYjMwZjI0ODI0ZWIzZDBkZTEzOTc0NjczMjlm",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Quinto",
-        "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vision",
-          "url": "https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE"
       },
@@ -143,18 +127,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI"
+        "name": "Quinto",
+        "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
       },
       "artists": [
         {
-          "name": "Zenzio",
-          "url": "https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg"
+          "name": "Grupo Vision",
+          "url": "https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ"
         }
       ],
-      "duration_ms": 175447,
-      "name": "Que Mentira",
-      "url": "https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L"
+      "duration_ms": 165520,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -175,6 +159,22 @@
       "duration_ms": 238549,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/36TiDvL5RmBeUs3W7Hh8Pr"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI"
+      },
+      "artists": [
+        {
+          "name": "Zenzio",
+          "url": "https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg"
+        }
+      ],
+      "duration_ms": 175447,
+      "name": "Que Mentira",
+      "url": "https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Sweet City Style",
+        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+      },
+      "artists": [
+        {
+          "name": "Anjelique",
+          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Me Dec\u00edas",
         "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 192003,
       "name": "La Primavera",
       "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Sweet City Style",
-        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
-      },
-      "artists": [
-        {
-          "name": "Anjelique",
-          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Girls Night",
         "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 208979,
       "name": "Nunca Fuiste Mio",
       "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Baby Luna",
-        "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
-      },
-      "artists": [
-        {
-          "name": "D",
-          "url": "https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb"
-        },
-        {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Baby Luna",
-      "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "That\u2019s All I\u2019ve Got to Say",
         "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 211750,
       "name": "That\u2019s All I\u2019ve Got to Say",
       "url": "https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Baby Luna",
+        "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
+      },
+      "artists": [
+        {
+          "name": "D",
+          "url": "https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb"
+        },
+        {
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Baby Luna",
+      "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Trampa De Amor",
-        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
-      },
-      "artists": [
-        {
-          "name": "VIRGINIA Y VALOR",
-          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Trampa De Amor",
-      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "El Besito",
         "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 180651,
       "name": "El Besito",
       "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Trampa De Amor",
+        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
+      },
+      "artists": [
+        {
+          "name": "VIRGINIA Y VALOR",
+          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Trampa De Amor",
+      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     }
   ],
   "unique_name": "New Tejano",

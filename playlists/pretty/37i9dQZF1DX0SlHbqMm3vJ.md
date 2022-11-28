@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Johnny Drille
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,089 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,160 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 75 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 |
 | 76 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
 | 77 | [It Is What It Is](https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [It Is What It Is](https://open.spotify.com/album/0iQ6qfTr8QTT2w05C7CmuV) | 2:54 |
-| 78 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
-| 79 | [Too Many Women](https://open.spotify.com/track/19l8i6cV0tUIn3ON8duR4r) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Make E No Cause Fight 2](https://open.spotify.com/album/7DrAPijhoId90XunG5KAMy) | 3:21 |
-| 80 | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 |
+| 78 | [B&B \(Booze & Bumbum\)](https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [B&B \(Booze & Bumbum\)](https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl) | 3:01 |
+| 79 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
+| 80 | [Too Many Women](https://open.spotify.com/track/19l8i6cV0tUIn3ON8duR4r) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Make E No Cause Fight 2](https://open.spotify.com/album/7DrAPijhoId90XunG5KAMy) | 3:21 |
 
-Snapshot ID: `MTY2OTM2MTE2OCwwMDAwMDAwMDUzZGYyMjQ0M2FhMDAxZGQ5MWExNDRhNTcwOGI3NjZk`
+Snapshot ID: `MTY2OTM2MTE2OCwwMDAwMDAwMGQxNmI0NmJmZWM3M2FmYjExNWY0NDRiNjA4NWVlZjE4`

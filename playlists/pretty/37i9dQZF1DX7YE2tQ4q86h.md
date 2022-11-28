@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Screaming, crying, throwing up!  If you like this, you'll love  <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\.  Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,834 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,982 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,164 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,169 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 26 | [Sure to Fall](https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Red Hot: A Memphis Celebration of Sun Records](https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c) | 2:51 |
 | 27 | [Tonight I’ll Be Staying Here With You](https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:04 |
 | 28 | [Stay Meditation](https://open.spotify.com/track/2dm0jizi5StxHnOWuhub85) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 0:54 |
-| 29 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
-| 30 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 |
+| 29 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 |
+| 30 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
 | 31 | [Don’t It Make You Want To Go Home](https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:39 |
 | 32 | [Our Problem](https://open.spotify.com/track/3ftHWoelVf9VdGx0xYpu1e) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90), [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Nona Hendryx](https://open.spotify.com/artist/5pTDagkiVMJC5DJtSAdbXg), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Our Problem](https://open.spotify.com/album/4PgHxgeoL6DcrCEXPKiw2P) | 3:45 |
 | 33 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 39 | [Mad About the Girl](https://open.spotify.com/track/2bNDCbxCEPMa0qBzh26MEm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Universal Love \- Wedding Songs Reimagined](https://open.spotify.com/album/1Roqqh9z76dk77g98fiR2E) | 3:11 |
 | 40 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBlMDllYWIzNDFlYmM3NTMzY2QxNDQzYmY0ZmQzODNhNw==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDBiZmEyNmNiMzBkMTdhNGNjNGUzNmU1YmIzM2JlOTYzZA==`

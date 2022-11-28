@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 7385,
+  "num_followers": 7396,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0ODkyMCwwMDAwMDAwMDQzMTc5MTE2YzQ0ZGJjYTk1YTdkNTk4Y2JjYWI1YzBh",
+  "snapshot_id": "MTY2OTM0ODkyMCwwMDAwMDAwMDNlZGRmYTk5Zjg1MWI3Yjk1YmFiMWVhMDA2ZWRkOGJl",
   "tracks": [
     {
       "added_at": "2022-11-03 09:25:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-11-03 09:25:40",
       "album": {
-        "name": "Dry Flower",
-        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 145613,
-      "name": "Rain Drop",
-      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
-    },
-    {
-      "added_at": "2022-11-03 09:25:40",
-      "album": {
         "name": "Fall in Love Again",
         "url": "https://open.spotify.com/album/6udqW4k67GIeTy0M7alLZX"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 218700,
       "name": "Fall in Love Again",
       "url": "https://open.spotify.com/track/3HjKfAEeG40jBKIuUlJlGK"
+    },
+    {
+      "added_at": "2022-11-03 09:25:40",
+      "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 145613,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
     },
     {
       "added_at": "2022-11-03 09:25:40",

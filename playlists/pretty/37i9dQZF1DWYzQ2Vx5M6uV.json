@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 100589,
+  "num_followers": 100631,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGMyYjIyMGVjMTQ1ZDNmMDRlNzliZTZkMmI4YzM3NDQz",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGVjZTk5ODI2ZGIyZDc1NWNhNTY3N2IyYTViZDA5MGQ4",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Tayari",
         "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 158003,
       "name": "Tayari",
       "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1275,42 +1275,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Flavors 2",
-        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Son of the City",
         "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
       },
@@ -1335,6 +1299,42 @@
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Flavors 2",
+        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
     },
     {
       "added_at": "2022-09-06 16:11:58",

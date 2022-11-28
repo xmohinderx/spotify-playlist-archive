@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 73770,
+  "num_followers": 74043,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MjExNiwwMDAwMDAwMDgyOTAxMjEzMThmNzA2ZDc0YjcyNTI2NTMyMDhhMTdm",
+  "snapshot_id": "MTY2OTM0MjExNiwwMDAwMDAwMDI2MGU4NzM0Yjc3ODM1YWNmNzcyOTA0NWEwYmQ5NWM0",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -577,26 +577,6 @@
       "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
     },
     {
-      "added_at": "2022-08-03 03:35:17",
-      "album": {
-        "name": "Savanne",
-        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
-      },
-      "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Feelings",
@@ -631,6 +611,26 @@
       "duration_ms": 219600,
       "name": "Hipn\u00f3tico",
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+    },
+    {
+      "added_at": "2022-08-03 03:35:17",
+      "album": {
+        "name": "Savanne",
+        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Psychedelic Train",
-        "url": "https://open.spotify.com/album/06w7pCU6snW8ydhyUp8yk3"
-      },
-      "artists": [
-        {
-          "name": "Derrick Harriott",
-          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "The Loser",
-      "url": "https://open.spotify.com/track/2hTRr2UxDJmHYXXgW89Mhx"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "El Abuelo",
         "url": "https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU"
       },
@@ -831,6 +815,46 @@
       "duration_ms": 331158,
       "name": "El Abuelo",
       "url": "https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Psychedelic Train",
+        "url": "https://open.spotify.com/album/06w7pCU6snW8ydhyUp8yk3"
+      },
+      "artists": [
+        {
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/2hTRr2UxDJmHYXXgW89Mhx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Paloma + Remixes",
+        "url": "https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K"
+      },
+      "artists": [
+        {
+          "name": "MiRET",
+          "url": "https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5"
+        },
+        {
+          "name": "Tu\u011f\u00e7e Kurti\u015f",
+          "url": "https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf"
+        },
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 506655,
+      "name": "Paloma",
+      "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -863,46 +887,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Paloma + Remixes",
-        "url": "https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K"
-      },
-      "artists": [
-        {
-          "name": "MiRET",
-          "url": "https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5"
-        },
-        {
-          "name": "Tu\u011f\u00e7e Kurti\u015f",
-          "url": "https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf"
-        },
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 506655,
-      "name": "Paloma",
-      "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Santa Teresa",
         "url": "https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 298666,
       "name": "Santa Teresa",
       "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -1007,42 +1023,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-09-02 05:59:31",
-      "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1105,6 +1085,26 @@
       "url": "https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0"
     },
     {
+      "added_at": "2022-09-02 05:59:31",
+      "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Aire",
@@ -1119,30 +1119,6 @@
       "duration_ms": 273946,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-07-11 18:32:36",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1175,6 +1151,30 @@
       "duration_ms": 314181,
       "name": "Shinjuku Strut",
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+    },
+    {
+      "added_at": "2022-07-11 18:32:36",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
       "added_at": "2022-06-15 04:26:09",

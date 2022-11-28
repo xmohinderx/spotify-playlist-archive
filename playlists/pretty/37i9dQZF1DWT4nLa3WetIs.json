@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 66008,
+  "num_followers": 66117,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGNiZDZiOTgzZGZmNjUwZTEzYzA0ZjczYmFlYzk4Zjlh",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGYzZDllNjA0MWM3YzkyZDBhZmYwNDI4NzM1MGE5ZTg0",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Final (Baba Nla) - Single",
-        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Final (Baba Nla)",
-      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Mondongo",
         "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 272213,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Final (Baba Nla) - Single",
+        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Final (Baba Nla)",
+      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -587,18 +587,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 279353,
-      "name": "Don't Dull",
-      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
+      "duration_ms": 230253,
+      "name": "Eminado (feat. Don Jazzy)",
+      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -619,6 +623,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 279353,
+      "name": "Don't Dull",
+      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Gobe",
         "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 229668,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Eminado (feat. Don Jazzy)",
-      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -763,22 +763,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "No Lele",
-      "url": "https://open.spotify.com/track/4cKNCruCZcXEfiIKEG6m7b"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Dami Duro",
         "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 250257,
       "name": "Dami Duro",
       "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "No Lele",
+      "url": "https://open.spotify.com/track/4cKNCruCZcXEfiIKEG6m7b"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -999,22 +999,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Kolom",
-        "url": "https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj"
-      },
-      "artists": [
-        {
-          "name": "BukBak",
-          "url": "https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Kolom",
-      "url": "https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
@@ -1031,6 +1015,38 @@
       "duration_ms": 190266,
       "name": "Malonogede",
       "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Kolom",
+        "url": "https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj"
+      },
+      "artists": [
+        {
+          "name": "BukBak",
+          "url": "https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV"
+        }
+      ],
+      "duration_ms": 280737,
+      "name": "Kolom",
+      "url": "https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Olu Maintain",
+        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
+      },
+      "artists": [
+        {
+          "name": "Olu Maintain",
+          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
+        }
+      ],
+      "duration_ms": 255712,
+      "name": "Yahooze",
+      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1063,22 +1079,6 @@
       "duration_ms": 229093,
       "name": "Hol' It",
       "url": "https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Olu Maintain",
-        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
-      },
-      "artists": [
-        {
-          "name": "Olu Maintain",
-          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
-        }
-      ],
-      "duration_ms": 255712,
-      "name": "Yahooze",
-      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Thanks Giving",
-        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
+        "name": "Baby (Chop Kiss)",
+        "url": "https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW"
       },
       "artists": [
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 220020,
-      "name": "Azonto Ghost",
-      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
+      "duration_ms": 198973,
+      "name": "Baby (Chop Kiss)",
+      "url": "https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Baby (Chop Kiss)",
-        "url": "https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW"
+        "name": "Thanks Giving",
+        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 198973,
-      "name": "Baby (Chop Kiss)",
-      "url": "https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK"
+      "duration_ms": 220020,
+      "name": "Azonto Ghost",
+      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1291,26 +1291,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Nana Boroo",
-          "url": "https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 220960,
-      "name": "Ajeei (feat. Nana Boroo & Sarkodie)",
-      "url": "https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW"
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1331,18 +1323,26 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Nana Boroo",
+          "url": "https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 245420,
-      "name": "Ogologomma",
-      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
+      "duration_ms": 220960,
+      "name": "Ajeei (feat. Nana Boroo & Sarkodie)",
+      "url": "https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW"
     },
     {
       "added_at": "2020-11-06 13:21:21",

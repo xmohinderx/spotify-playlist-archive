@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/50bGZzlFcee3MEmacYBw3e"
+    },
+    {
+      "album": {
         "name": "Por Ejemplo",
         "url": "https://open.spotify.com/album/2hPh0n7Rf4pk5lrgsiTLCM"
       },

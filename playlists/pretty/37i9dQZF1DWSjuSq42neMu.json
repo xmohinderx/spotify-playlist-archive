@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 554456,
+  "num_followers": 554754,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDRjMjU1NmQ3OWVjMDFkZmFiYTZhZDJjNDVjNWFjMDM4",
+  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDM2N2RkMzJjY2RhMmEwMzZmYTZiMTNhZDVjM2JkMzky",
   "tracks": [
     {
       "added_at": "2022-11-21 18:03:24",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 182506,
       "name": "Quemando Calor\u00edas",
       "url": "https://open.spotify.com/track/3ss6y0Id5Iwk2L5MIZp4xF"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Me Fije",
-        "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Me Fije",
-      "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "No Te Enamores (Remix)",
         "url": "https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 289933,
       "name": "No Te Enamores - Remix",
       "url": "https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Me Fije",
+        "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Me Fije",
+      "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Amor en Coma",
+        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 171832,
       "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Amor en Coma",
-        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
         "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 310588,
       "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Ponte Pa' Mi",
+        "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Ponte Pa' Mi",
+      "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "MOOD (Remix)",
         "url": "https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Ponte Pa' Mi",
-        "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "Ponte Pa' Mi",
-      "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Sabe",
         "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
       },
@@ -1839,26 +1839,6 @@
       "duration_ms": 177655,
       "name": "Sabe",
       "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Me Gustas Natural",
-        "url": "https://open.spotify.com/album/4XSn49wF97s5ERSoQv6dJL"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "Me Gustas Natural",
-      "url": "https://open.spotify.com/track/4G0Pi1VhIgycBfq5KtP5ZY"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1883,6 +1863,26 @@
       "duration_ms": 162901,
       "name": "Ajena (with Myke Towers, Dylan Fuentes)",
       "url": "https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Me Gustas Natural",
+        "url": "https://open.spotify.com/album/4XSn49wF97s5ERSoQv6dJL"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "Me Gustas Natural",
+      "url": "https://open.spotify.com/track/4G0Pi1VhIgycBfq5KtP5ZY"
     },
     {
       "added_at": "2022-11-21 18:03:24",

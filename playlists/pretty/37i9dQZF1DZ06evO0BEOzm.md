@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,370 likes - 53 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,481 likes - 53 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 49 | [Do It On The Tip \(feat\. City Girls & Hot Girl Meg\)](https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Hot Girl Meg](https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:47 |
 | 50 | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw) | 3:07 |
 | 51 | [NASTY \(feat\. Ashanti & Megan Thee Stallion\)](https://open.spotify.com/track/3oHiR89Y8gn6xt3YGAAzFj) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:35 |
-| 52 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 |
-| 53 | [Freaky Girls \(feat\. SZA\)](https://open.spotify.com/track/4RAEVQeHanpXyK2lrEUkMk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:46 |
+| 52 | [Rich](https://open.spotify.com/track/0fdQue15BjCMA3ov14ubF4) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 1:35 |
+| 53 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBjOWUxZDc3MGRjMTBlZDBhZWFmN2IxNzRmM2YxNDlmZA==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDAxMzNkMzFjNGI5MjZmNmEyODg0NzY3NjY0NzMzNzk5YQ==`

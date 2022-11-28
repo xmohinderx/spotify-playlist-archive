@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 8331,
+  "num_followers": 8358,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MjQ5MCwwMDAwMDAwMDQ5ZjM1MDU4NDIyYTFhYWQ4MTZjODM5MTc2NGU4ZTUy",
+  "snapshot_id": "MTY2OTM0MjQ5MCwwMDAwMDAwMGY5ZDM2YWY1NTU2N2EyOWM3MzU4OTUzMzdhMzg0YjEz",
   "tracks": [
     {
       "added_at": "2022-11-22 08:58:45",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Tell Me You Love Me",
-      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
     },
     {
       "added_at": "2022-11-22 08:58:45",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
-        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk"
-      },
-      "artists": [
-        {
-          "name": "O.WHEN",
-          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "\uc624\ub298\uc758 \ub108",
-      "url": "https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
         "name": "I LOVE YOU",
         "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
+        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "\uc624\ub298\uc758 \ub108",
+      "url": "https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi"
     },
     {
       "added_at": "2022-11-22 08:58:45",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
     },
     {
+      "added_at": "2022-11-28 01:37:26",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
       "added_at": "2022-11-22 08:58:45",
       "album": {
         "name": "A-TEEN2 Part.1",
@@ -971,18 +987,18 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
+        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
       "artists": [
         {
-          "name": "Unchan",
-          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
+      "duration_ms": 244764,
+      "name": "I Will Be By Your Side",
+      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
     },
     {
       "added_at": "2022-11-22 08:58:45",
@@ -1003,34 +1019,18 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
-        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Unchan",
+          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
         }
       ],
-      "duration_ms": 244764,
-      "name": "I Will Be By Your Side",
-      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Like a dream",
-      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
+      "duration_ms": 214560,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

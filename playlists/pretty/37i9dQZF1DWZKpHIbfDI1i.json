@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Foudeqush en portada.",
-  "num_followers": 476941,
+  "num_followers": 477180,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDBmNDAxMzM0MDU0MGNhOTZhZjhiMzFlNjE4YjVmNmFl",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMGU2NjBkNzQ0MzUwYTViYWQ1ODVmMWFkMmEwOWQ0NDg1",
   "tracks": [
     {
       "added_at": "2022-11-15 07:13:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-28 13:44:33",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
-    },
-    {
-      "added_at": "2022-10-28 13:44:33",
-      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "added_at": "2022-10-28 13:44:33",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
     },
     {
       "added_at": "2022-10-28 13:44:33",
@@ -699,26 +699,6 @@
     {
       "added_at": "2022-10-28 13:44:33",
       "album": {
-        "name": "Haashtag",
-        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Mi Salida Contigo",
-      "url": "https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK"
-    },
-    {
-      "added_at": "2022-10-28 13:44:33",
-      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 213333,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
+    },
+    {
+      "added_at": "2022-10-28 13:44:33",
+      "album": {
+        "name": "Haashtag",
+        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Mi Salida Contigo",
+      "url": "https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK"
     },
     {
       "added_at": "2022-10-28 13:44:33",
@@ -869,6 +869,26 @@
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "La Bailadora",
+        "url": "https://open.spotify.com/album/71xDJEFLh2ud9bMWNi9wLI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "La Bailadora",
+      "url": "https://open.spotify.com/track/1kKfwNFyWF2qN3vjE4H58p"
+    },
+    {
       "added_at": "2022-10-28 13:44:33",
       "album": {
         "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
@@ -895,26 +915,6 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "La Bailadora",
-        "url": "https://open.spotify.com/album/71xDJEFLh2ud9bMWNi9wLI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 208125,
-      "name": "La Bailadora",
-      "url": "https://open.spotify.com/track/1kKfwNFyWF2qN3vjE4H58p"
     },
     {
       "added_at": "2022-10-28 13:44:33",
@@ -945,38 +945,6 @@
       "url": "https://open.spotify.com/track/5OrjaJWlswDGCqxWj9lxj0"
     },
     {
-      "added_at": "2022-10-28 13:44:33",
-      "album": {
-        "name": "El Gabito",
-        "url": "https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 163422,
-      "name": "El Gabito",
-      "url": "https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. 3",
-        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Mi Momento",
-      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Te Vale Madre",
@@ -995,6 +963,38 @@
       "duration_ms": 151600,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Mi Momento",
+      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
+    },
+    {
+      "added_at": "2022-10-28 13:44:33",
+      "album": {
+        "name": "El Gabito",
+        "url": "https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 163422,
+      "name": "El Gabito",
+      "url": "https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW"
     },
     {
       "added_at": "2022-10-28 13:44:33",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2022-10-28 13:44:33",
       "album": {
-        "name": "Me Rend\u00ed",
-        "url": "https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Me Rend\u00ed",
-      "url": "https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1"
-    },
-    {
-      "added_at": "2022-10-28 13:44:33",
-      "album": {
         "name": "Ahog\u00e1ndome en Alcohol",
         "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2022-10-28 13:44:33",
       "album": {
+        "name": "Me Rend\u00ed",
+        "url": "https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Me Rend\u00ed",
+      "url": "https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1"
+    },
+    {
+      "added_at": "2022-10-28 13:44:33",
+      "album": {
         "name": "como me encanta",
         "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
       },
@@ -1075,6 +1075,42 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "added_at": "2022-11-23 05:00:00",
+      "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 219183,
+      "name": "CONTINGENTE",
+      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
+    },
+    {
+      "added_at": "2022-10-28 13:44:33",
+      "album": {
+        "name": "M\u00e1s Muerto Que Vivo",
+        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 213221,
+      "name": "M\u00e1s Muerto Que Vivo",
+      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
     },
     {
       "added_at": "2022-10-28 13:44:33",
@@ -1095,22 +1131,6 @@
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2022-11-23 05:00:00",
-      "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 219183,
-      "name": "CONTINGENTE",
-      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
     },
     {
       "added_at": "2022-10-28 13:44:33",
@@ -1143,26 +1163,6 @@
       "duration_ms": 187833,
       "name": "Cabr\u00f3n Yo Puedo",
       "url": "https://open.spotify.com/track/2HsBez6K2kkqzkxHQqRusL"
-    },
-    {
-      "added_at": "2022-10-28 13:44:33",
-      "album": {
-        "name": "M\u00e1s Muerto Que Vivo",
-        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 213221,
-      "name": "M\u00e1s Muerto Que Vivo",
-      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
     },
     {
       "added_at": "2022-10-28 13:44:33",
@@ -1373,24 +1373,24 @@
       "url": "https://open.spotify.com/track/7jlCousvJcY7KH5yHgXd2d"
     },
     {
-      "added_at": "2022-10-28 13:44:33",
+      "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "M\u00eda Un A\u00f1o",
-        "url": "https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT"
+        "name": "Kilos de Amor",
+        "url": "https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         },
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 174626,
-      "name": "M\u00eda Un A\u00f1o",
-      "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
+      "duration_ms": 236267,
+      "name": "Kilos de Amor",
+      "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
     }
   ],
   "unique_name": "Top M\u00e9xico",

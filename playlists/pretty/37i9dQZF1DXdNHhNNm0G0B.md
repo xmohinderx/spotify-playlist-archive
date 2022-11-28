@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,822 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,863 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 13 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
 | 14 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
 | 15 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 |
-| 16 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
-| 17 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
+| 16 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
+| 17 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
 | 18 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 | 19 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
 | 20 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 24 | [Clair de lune \(For Twelve\-String\) \[Live\]](https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx) | [Robbie Basho](https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR) | [Live in Forlì, Italy 1982](https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ) | 4:42 |
 | 25 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 |
 | 26 | [Spike Driver Blues](https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:28 |
-| 27 | [Can the Gwot Save Us?](https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:20 |
-| 28 | [Ain't Nobody High Raga](https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8) | [Max Ochs](https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI) | [Hooray For Another Day](https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx) | 8:45 |
+| 27 | [Ain't Nobody High Raga](https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8) | [Max Ochs](https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI) | [Hooray For Another Day](https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx) | 8:45 |
+| 28 | [Can the Gwot Save Us?](https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:20 |
 | 29 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 |
 | 30 | [Down in Mississippi](https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Down in Mississippi](https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP) | 3:23 |
 | 31 | [Let Your Light Shine on Me](https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:08 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 38 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
 | 39 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 |
 | 40 | [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 |
-| 41 | [Focus \(Rosie's Theme\)](https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE) | [The Civil Wars & T Bone Burnett](https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME) | [A Place at the Table \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP) | 2:21 |
-| 42 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
+| 41 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
+| 42 | [Focus \(Rosie's Theme\)](https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE) | [The Civil Wars & T Bone Burnett](https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME) | [A Place at the Table \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP) | 2:21 |
 | 43 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 |
 | 44 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 |
 | 45 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 |
 | 46 | [Sarah Anne](https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:52 |
-| 47 | [Rondo in D \- On Southern Themes](https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr) | [Harry Taussig](https://open.spotify.com/artist/2vbPZ0xMZiXxUkR744bcoh) | [Fate Is Only Twice](https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC) | 4:47 |
-| 48 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
+| 47 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
+| 48 | [Rondo in D \- On Southern Themes](https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr) | [Harry Taussig](https://open.spotify.com/artist/2vbPZ0xMZiXxUkR744bcoh) | [Fate Is Only Twice](https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC) | 4:47 |
 | 49 | [Ghost Dance](https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Time Flies](https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG) | 3:33 |
 | 50 | [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 |
 
-Snapshot ID: `MTY2OTM4MTM5MSwwMDAwMDAwMGY1YTVlMWZkOTVkYjdlZTkxZjUxMzg2ZDU1NGQwZTFi`
+Snapshot ID: `MTY2OTM4MTM5MSwwMDAwMDAwMGNmNGIzYWI2NjZjNTU0MTI2OTNlMjg1MmMzYWRiNmVh`

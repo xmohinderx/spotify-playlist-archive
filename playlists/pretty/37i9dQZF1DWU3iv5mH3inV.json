@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
-  "num_followers": 69392,
+  "num_followers": 69461,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGNiZGVmZGIwNzI2NzZlNWEyZDIxYjhmMTQ1ZWYyNjVj",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDZiMzRkZjVjNjcyNTRiNTI1MGU3NDdhYzg3NjE1MDYz",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Plakiti",
+        "url": "https://open.spotify.com/album/5F3LG8ycUgNQXnhgMYDEBf"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        }
+      ],
+      "duration_ms": 135314,
+      "name": "Plakiti",
+      "url": "https://open.spotify.com/track/0qY84Aa0tT2okICVVrvhQU"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Bebe y Bebe",
         "url": "https://open.spotify.com/album/5G6bxvNKMT61N0bZ6zup8G"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 194347,
       "name": "Bebe y Bebe",
       "url": "https://open.spotify.com/track/33F6yLeQoBxXW0aZTVPlF7"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Plakiti",
-        "url": "https://open.spotify.com/album/5F3LG8ycUgNQXnhgMYDEBf"
-      },
-      "artists": [
-        {
-          "name": "Dj Scuff",
-          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
-        }
-      ],
-      "duration_ms": 135314,
-      "name": "Plakiti",
-      "url": "https://open.spotify.com/track/0qY84Aa0tT2okICVVrvhQU"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Lava Urbana 2018",
-        "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Rapidito",
-      "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 215301,
       "name": "La Chapa Que Vibran",
       "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Lava Urbana 2018",
+        "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Rapidito",
+      "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/3uQfNR0M6pGC1W30l0h7dE"
-      },
-      "artists": [
-        {
-          "name": "Denyerkin",
-          "url": "https://open.spotify.com/artist/6CeuGv4HZFxwZB1LyCBUjn"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/14ZJHmV9qqB4Fhd40QFJz0"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Me Subo Arriba",
         "url": "https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 208147,
       "name": "Me Subo Arriba",
       "url": "https://open.spotify.com/track/0rmJCeOoTH673NPxw4CiqM"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3uQfNR0M6pGC1W30l0h7dE"
+      },
+      "artists": [
+        {
+          "name": "Denyerkin",
+          "url": "https://open.spotify.com/artist/6CeuGv4HZFxwZB1LyCBUjn"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/14ZJHmV9qqB4Fhd40QFJz0"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2603,6 +2603,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Edici\u00f3n de Lujo",
+        "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Escuela",
+          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Durisimo",
+      "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Versace (Remix)",
         "url": "https://open.spotify.com/album/4GKxwQSZ541xppZ74ejz8h"
       },
@@ -2655,18 +2671,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Edici\u00f3n de Lujo",
-        "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
+        "name": "Reverencia H\u00e1ganme",
+        "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
       },
       "artists": [
         {
-          "name": "La Nueva Escuela",
-          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
+          "name": "El Rey Guevara",
+          "url": "https://open.spotify.com/artist/3G6kxVxikTndvEhPQBX45m"
         }
       ],
-      "duration_ms": 165433,
-      "name": "Durisimo",
-      "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
+      "duration_ms": 229368,
+      "name": "No Me Friso",
+      "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2691,22 +2707,6 @@
       "duration_ms": 180000,
       "name": "Ando en 30",
       "url": "https://open.spotify.com/track/26MGlZKXyaJ5ElE5wn7ZDW"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Reverencia H\u00e1ganme",
-        "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
-      },
-      "artists": [
-        {
-          "name": "El Rey Guevara",
-          "url": "https://open.spotify.com/artist/3G6kxVxikTndvEhPQBX45m"
-        }
-      ],
-      "duration_ms": 229368,
-      "name": "No Me Friso",
-      "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
     },
     {
       "added_at": "2022-11-25 05:00:00",

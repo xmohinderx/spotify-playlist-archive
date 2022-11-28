@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 200429,
+  "num_followers": 200631,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDMzNWMxYTY3ZjJkNmZiODA2Y2VkMDhhZWRmYTQ1YjZj",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDYzYmIyNGM3NjI0ZjJkMjllY2E1NWRlNGM0NzIxZDQ1",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 229499,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Meanwhile in Burbank...",
+        "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 395683,
+      "name": "Creeping Death",
+      "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Necropolis",
         "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 245853,
       "name": "Fight Fire With Fire",
       "url": "https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Meanwhile in Burbank...",
-        "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 395683,
-      "name": "Creeping Death",
-      "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Born Dead",
         "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 268240,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Chop Suey!",
         "url": "https://open.spotify.com/album/6FDx7On1oIaLAn95L3Swhx"
       },
@@ -831,22 +815,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Human (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc"
-      },
-      "artists": [
-        {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "God of Thunder",
-      "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Extreme Power Metal",
         "url": "https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO"
       },
@@ -859,6 +827,22 @@
       "duration_ms": 204760,
       "name": "My Heart Will Go On",
       "url": "https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Human (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc"
+      },
+      "artists": [
+        {
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "God of Thunder",
+      "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -891,6 +875,22 @@
       "duration_ms": 258564,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Mein Herz brennt",
-        "url": "https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Mein Herz brennt",
-      "url": "https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 217600,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Mein Herz brennt",
+        "url": "https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Mein Herz brennt",
+      "url": "https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Play It Forward",
-        "url": "https://open.spotify.com/album/6b8LaKbz7KHurVKuGGh7ig"
-      },
-      "artists": [
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "Thunder Kiss '65",
-      "url": "https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "For All Kings (Deluxe)",
         "url": "https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 324608,
       "name": "Carry on a Wayward Son",
       "url": "https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Play It Forward",
+        "url": "https://open.spotify.com/album/6b8LaKbz7KHurVKuGGh7ig"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "Thunder Kiss '65",
+      "url": "https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "CMFB \u2026Sides",
         "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 250600,
       "name": "Holier Than Thou",
       "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Devil Inside",
-        "url": "https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 314357,
-      "name": "Devil Inside",
-      "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
     }
   ],
   "unique_name": "Metal Covers",

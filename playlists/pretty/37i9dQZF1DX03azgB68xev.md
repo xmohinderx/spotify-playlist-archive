@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,118 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,117 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 9 | [Love Like Thunder](https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [RICHLIN](https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v) | 3:52 |
 | 10 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 |
 | 11 | [Drown](https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Drown](https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ) | 3:20 |
-| 12 | [10K](https://open.spotify.com/track/5G2g7titQVbMK8jjRPWWr6) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [10K](https://open.spotify.com/album/5rwY84Tz6gnlCAdz1fdVwr) | 3:16 |
-| 13 | [IYKYK](https://open.spotify.com/track/65bFX66R7RdCZPNgoc8RXr) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [IYKYK](https://open.spotify.com/album/0HoXLSOt8WZBdgK2xYfTHF) | 2:34 |
+| 12 | [IYKYK](https://open.spotify.com/track/65bFX66R7RdCZPNgoc8RXr) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [IYKYK](https://open.spotify.com/album/0HoXLSOt8WZBdgK2xYfTHF) | 2:34 |
+| 13 | [10K](https://open.spotify.com/track/5G2g7titQVbMK8jjRPWWr6) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [10K](https://open.spotify.com/album/5rwY84Tz6gnlCAdz1fdVwr) | 3:16 |
 | 14 | [Not Too Far](https://open.spotify.com/track/1UAZPeZdpFFYa8wanZCj1H) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [HEATHEN](https://open.spotify.com/album/5yL0xTL7SRjBeK8Yko0wJG) | 3:01 |
 | 15 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 |
 | 16 | [Burn The Ships \(R3HAB Remix\)](https://open.spotify.com/track/4uQcfhLIZNpiWJKS9nPz3z) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Burn The Ships \(R3HAB Remix\)](https://open.spotify.com/album/637sa0MubVLyJ8al6duftV) | 2:26 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 18 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
 | 19 | [Count Me In](https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 3:48 |
 | 20 | [Clean](https://open.spotify.com/track/2dXntxjimv1oK2BejjEj10) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Clean](https://open.spotify.com/album/5pNkUSv8sgDF81greuJ495) | 3:34 |
-| 21 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 |
-| 22 | [High Low](https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [High Low](https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y) | 3:25 |
+| 21 | [High Low](https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [High Low](https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y) | 3:25 |
+| 22 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 |
 | 23 | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0) | 3:35 |
 | 24 | [Devil Is A Liar](https://open.spotify.com/track/0Q4fUM7mSeqVKD5qnqS2gO) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Devil Is A Liar](https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC) | 2:45 |
 | 25 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 36 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 |
 | 37 | [Need](https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Need](https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR) | 3:22 |
 | 38 | [No Better Day](https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH) | 3:02 |
-| 39 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 |
+| 39 | [OTHERSIDE](https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [OTHERSIDE](https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP) | 3:14 |
 | 40 | [Help Me \- Remix](https://open.spotify.com/track/65nhpDbzSPax2Gq46dbat8) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Remix\)](https://open.spotify.com/album/6bzyBO35AF4ro1au4ldI2S) | 2:29 |
-| 41 | [OTHERSIDE](https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [OTHERSIDE](https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP) | 3:14 |
+| 41 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 |
 | 42 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 43 | [Yes & No](https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 2:59 |
 | 44 | [Just Like Heaven](https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Like Heaven](https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk) | 5:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 69 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
 | 70 | [Every Little Thing](https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [III \(Reimagined\)](https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO) | 3:22 |
 
-Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMDNjM2M0OTEyMThkNDRkOGYzY2IzODhiY2QzNGRlNjll`
+Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMGIwN2FhZWU1NDliYWYzY2VjMGVhYmRhNzcxODI4MDBk`

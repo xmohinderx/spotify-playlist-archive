@@ -1,12 +1,12 @@
 {
   "description": "Pura m\u00fasica fresca para vibrar en cualquier momento de la semana.",
-  "num_followers": 332208,
+  "num_followers": 332277,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MTI2OCwwMDAwMDAwMGEyNzRlMjI3YWFhYmEyNDc4NDVmY2NiMTk3Yzk1MTU5",
+  "snapshot_id": "MTY2OTM0MTI2OCwwMDAwMDAwMGQxMjQ4NWRiY2I0NDJkYWE3Mjc2MjJhY2E1YzhkNzk0",
   "tracks": [
     {
       "added_at": "2022-11-09 01:39:12",
@@ -995,22 +995,26 @@
     {
       "added_at": "2022-10-12 15:34:17",
       "album": {
-        "name": "Noche de Novela (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9"
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
         }
       ],
-      "duration_ms": 191896,
-      "name": "Noche de Novela (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/6N7LquYjc3c53qr4PSJbi5"
+      "duration_ms": 199826,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
     },
     {
       "added_at": "2022-10-12 15:34:17",
@@ -1039,26 +1043,22 @@
     {
       "added_at": "2022-10-12 15:34:17",
       "album": {
-        "name": "Buenos D\u00edas",
-        "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
+        "name": "Noche de Novela (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 199826,
-      "name": "Buenos D\u00edas",
-      "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+      "duration_ms": 191896,
+      "name": "Noche de Novela (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/6N7LquYjc3c53qr4PSJbi5"
     },
     {
       "added_at": "2022-10-12 15:34:17",

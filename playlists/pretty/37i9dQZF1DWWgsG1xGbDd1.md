@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,275 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,354 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 2 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 |
 | 3 | [Bobby Babylon](https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 2:27 |
 | 4 | [No No No](https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ) | 4:29 |
-| 5 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
-| 6 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
+| 5 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
+| 6 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
 | 7 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
 | 8 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
 | 9 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
 | 60 | [Reggae Feet](https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG) | [Lloyd Williams](https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:34 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDA1ZmMyZDBmOGRkYmRhOThjMTVjMjRhNmNiYmJhZjE2`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMGU2MGI2MGFiYzY0MDJhMmNmZjQ2MTY4MDE5OTFiNjhi`

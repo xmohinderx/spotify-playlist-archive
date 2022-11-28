@@ -4,7 +4,7 @@
 
 > Den perfekta mixade spellistan för träningspasset.
 
-138 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/417Ys8x8Iow3PJfqFACoes)
+139 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/417Ys8x8Iow3PJfqFACoes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Fake A Smile \(feat\. salem ilese\) \- R3HAB Remix](https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Fake A Smile \(feat\. salem ilese\) \[Remixes\]](https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO) | 2:48 | 2021-08-19 |  |
 | [Family \- Frank Walker Remix](https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Family \(Remixes\)](https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C) | 3:05 | 2021-08-19 |  |
 | [Fast Forward](https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Fast Forward](https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN) | 2:38 | 2021-08-19 |  |
-| [Fight Dirty](https://open.spotify.com/track/49081NhigGNTQ3QvZCirRz) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Fight Dirty](https://open.spotify.com/album/51bTkbGwIOXalNW9rh8sdb) | 3:00 | 2022-10-10 |  |
+| [Fight Dirty](https://open.spotify.com/track/49081NhigGNTQ3QvZCirRz) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Fight Dirty](https://open.spotify.com/album/51bTkbGwIOXalNW9rh8sdb) | 3:00 | 2022-10-10 | 2022-11-28 |
+| [Fight Dirty](https://open.spotify.com/track/4V7wva4jCBiSt4avFv05U1) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Culturally Appropriate](https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c) | 3:00 | 2022-11-10 |  |
 | [Fight Dirty](https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Fight Dirty](https://open.spotify.com/album/1iws5DmCyPrr5BElY4CPHl) | 3:00 | 2021-08-19 | 2022-10-14 |
 | [Fighter](https://open.spotify.com/track/4rBjP3PrWdWEdFdTt33H9X) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Fighter](https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS) | 2:44 | 2021-08-19 |  |
 | [Fingers Crossed \- Until Dawn Remix](https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Until Dawn](https://open.spotify.com/artist/49hK2KdkC23KHY83DwIfS2) | [Fingers Crossed](https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU) | 3:23 | 2021-08-19 |  |

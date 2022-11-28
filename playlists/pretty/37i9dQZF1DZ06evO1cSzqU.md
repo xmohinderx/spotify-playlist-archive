@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,146 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,317 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,25 +28,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 18 | [Maybe I Maybe You](https://open.spotify.com/track/6uQtaWpr6Z1gjFDfsZKXjl) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/2O3fcesMwLORDJZ8usRZuJ) | 3:30 |
 | 19 | [When the Smoke Is Going Down \- 2015 Remaster](https://open.spotify.com/track/5CdbSPuZdIKFm5e0TUDJD8) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:51 |
 | 20 | [Lorelei](https://open.spotify.com/track/6mwS9ssEVKK7dmVVXwpbv7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 4:32 |
-| 21 | [Tease Me Please Me](https://open.spotify.com/track/2QpY0RaiEsfiguZZRcMWo0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:45 |
-| 22 | [Born to Touch Your Feelings \- Studio Edit](https://open.spotify.com/track/2zx0Fenu8cjtt3d8llIokv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 4:01 |
+| 21 | [Born to Touch Your Feelings \- Studio Edit](https://open.spotify.com/track/2zx0Fenu8cjtt3d8llIokv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 4:01 |
+| 22 | [Tease Me Please Me](https://open.spotify.com/track/2QpY0RaiEsfiguZZRcMWo0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:45 |
 | 23 | [In Trance](https://open.spotify.com/track/3Uj7svpwqeaJsDtJAaKTTh) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [In Trance](https://open.spotify.com/album/0eBIiRB7ZTrtUhnQ6efJSO) | 4:42 |
 | 24 | [Humanity](https://open.spotify.com/track/1PbL8RWQlpPRIVAk8by05R) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \(Hour I\)](https://open.spotify.com/album/4a8dsVJekhZm9CRRVWLHuJ) | 5:26 |
-| 25 | [House of Cards](https://open.spotify.com/track/1MAYOJYnihOZr8fZuMv3HD) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 5:05 |
-| 26 | [Dust in the Wind \- Live](https://open.spotify.com/track/2goTjpiBRV0qd2gZrAtpIZ) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 3:49 |
+| 25 | [Dust in the Wind \- Live](https://open.spotify.com/track/2goTjpiBRV0qd2gZrAtpIZ) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 3:49 |
+| 26 | [House of Cards](https://open.spotify.com/track/1MAYOJYnihOZr8fZuMv3HD) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 5:05 |
 | 27 | [White Dove](https://open.spotify.com/track/3C5OACv4JfvLAmUdxVugrk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Live Bites](https://open.spotify.com/album/7CJ59CBDycdjun1rBbSKlK) | 4:20 |
 | 28 | [The Best Is Yet to Come](https://open.spotify.com/track/4Fw2KBPSaSoZgmqwtqrGIl) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 4:33 |
 | 29 | [Gas In The Tank](https://open.spotify.com/track/4tmdn5RO21dIT95GwRSH7Z) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:40 |
 | 30 | [Tainted Love](https://open.spotify.com/track/1abFEUbbAk8kQNOzy301Qt) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:27 |
-| 31 | [The Sails of Charon \- 2015 \- Remaster](https://open.spotify.com/track/0KmJAc7tRRI3hWM7A0Ejtk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 5:11 |
-| 32 | [Love of My Life \- Live](https://open.spotify.com/track/3sKBmOlFXwNlKIeheAma3r) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 2:26 |
+| 31 | [Love of My Life \- Live](https://open.spotify.com/track/3sKBmOlFXwNlKIeheAma3r) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 2:26 |
+| 32 | [The Sails of Charon \- 2015 \- Remaster](https://open.spotify.com/track/0KmJAc7tRRI3hWM7A0Ejtk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 5:11 |
 | 33 | [Seventh Sun](https://open.spotify.com/track/5RN6lrv6esmnuN9F62VQ2F) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 5:30 |
-| 34 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 |
-| 35 | [Holiday \- 2015 Remaster](https://open.spotify.com/track/32DYxkf7ZLJrsm5JacvF3Y) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/1KWIRGaeCscnnFmZUfbYDj) | 6:31 |
+| 34 | [Holiday \- 2015 Remaster](https://open.spotify.com/track/32DYxkf7ZLJrsm5JacvF3Y) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/1KWIRGaeCscnnFmZUfbYDj) | 6:31 |
+| 35 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 |
 | 36 | [The Language Of My Heart \- France Bonus Track](https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [The Language Of My Heart \(France Bonus Track\)](https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW) | 3:53 |
 | 37 | [Peacemaker](https://open.spotify.com/track/1YjOclLzSa0IhjGmjgDseT) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 2:56 |
-| 38 | [Eye of the Storm](https://open.spotify.com/track/073HHIdnCp8rw97LyNl73Q) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 4:27 |
-| 39 | [Life Is Too Short \- Live](https://open.spotify.com/track/2XBhU3UcOQUGFKAY7s4Jm1) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:15 |
+| 38 | [Life Is Too Short \- Live](https://open.spotify.com/track/2XBhU3UcOQUGFKAY7s4Jm1) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:15 |
+| 39 | [Eye of the Storm](https://open.spotify.com/track/073HHIdnCp8rw97LyNl73Q) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 4:27 |
 | 40 | [Across the Universe](https://open.spotify.com/track/0EOo4bO2Oiido5FnB7mVFN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:17 |
 | 41 | [Shining Of Your Soul](https://open.spotify.com/track/3D0JskXs8rv4NGAO6nhkI3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:57 |
 | 42 | [The Future Never Dies](https://open.spotify.com/track/4O9w9kufIaWXCOzKzzInmw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \(Hour I\)](https://open.spotify.com/album/4a8dsVJekhZm9CRRVWLHuJ) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [We'll Burn the Sky \- 2015 \- Remaster](https://open.spotify.com/track/05aYS67B9WxWDA5ZWVkvCf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 6:31 |
 | 50 | [Bad Boys Running Wild](https://open.spotify.com/track/6UWWzTU1NgKf7vHbOeO17p) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 3:56 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBjMzhiYjFmM2M0YTc5ZGU4OGNjZGRiYzBiNGZmOTIwYg==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDA0M2IwNjlmNjkxNzcyMDUxOWJlZDAwMDk1MTZlNGQ5ZA==`

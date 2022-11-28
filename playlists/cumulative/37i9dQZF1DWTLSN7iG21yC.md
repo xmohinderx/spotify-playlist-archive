@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-542 songs - 1 day 4 hr 55 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
+543 songs - 1 day 4 hr 59 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2021-06-07 |  |
 | [Kiss Me](https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:49 | 2022-09-02 | 2022-10-11 |
 | [Kiss Me](https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:49 | 2022-09-02 | 2022-11-22 |
+| [Kiss Me](https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:49 | 2022-09-02 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-06-07 | 2022-04-20 |
 | [Kiss The World Goodbye](https://open.spotify.com/track/3oUvvUcdQCOEPujLfd805G) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Kiss The World Goodbye](https://open.spotify.com/album/77rnUV63tJ8WOh0fgoSfHT) | 2:32 | 2021-07-23 | 2022-07-26 |
 | [Know It All](https://open.spotify.com/track/1p4WB0tCCYcoJKFNwMVUZ4) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Know It All](https://open.spotify.com/album/457bATISFLd1oeIxSFceCH) | 3:01 | 2021-06-25 | 2022-07-28 |
@@ -303,7 +304,7 @@
 | [Lightning In A Bottle](https://open.spotify.com/track/10g6hAP24EesMZ5pOwO2zu) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Lightning In A Bottle](https://open.spotify.com/album/33XxlbLKfEkGK5C2CkshKe) | 3:20 | 2022-04-15 | 2022-07-18 |
 | [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 | 2021-08-27 |  |
 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 | 2021-06-07 |  |
-| [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-06-07 |  |
+| [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-06-07 | 2022-11-28 |
 | [lonely isn't the word for this](https://open.spotify.com/track/6uyOYLLHKfhl8Vp0oPg4Fv) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [lonely isn't the word for this](https://open.spotify.com/album/7fWabOywuebAeji4tvC1nP) | 2:47 | 2022-05-27 | 2022-06-01 |
 | [Lonely Like Me](https://open.spotify.com/track/1sIBVBhdt7QRfYdebiN8jF) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Lonely Like Me](https://open.spotify.com/album/6ttFIHrGjAghhDP1HbBI51) | 3:04 | 2021-10-01 | 2022-06-14 |
 | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/track/3G2FS86ctPb7BqRH9Cp9M6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3O1ZHXPJBX6CKBaxzlH5c3) | 3:20 | 2022-02-25 | 2022-07-20 |

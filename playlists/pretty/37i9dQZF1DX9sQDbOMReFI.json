@@ -1,12 +1,12 @@
 {
   "description": "The best side! Cover: Snoop Dogg & Dr. Dre",
-  "num_followers": 620239,
+  "num_followers": 620689,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcyNzM4OSwwMDAwMDAwMGNjZmUwMzFlZDdlNzFmNjAyNjk0MWVmYTdhM2IzODFj",
+  "snapshot_id": "MTY2NjcyNzM4OSwwMDAwMDAwMGE2YWEzZTdmMTZjZTYwZTE3NzEzMTQxYzg5YjVkYzEz",
   "tracks": [
     {
       "added_at": "2020-05-04 14:10:56",
@@ -47,26 +47,6 @@
     {
       "added_at": "2020-05-04 14:10:56",
       "album": {
-        "name": "Operation Stackola",
-        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
-      },
-      "artists": [
-        {
-          "name": "Luniz",
-          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
-        },
-        {
-          "name": "Michael Marshall",
-          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "I Got 5 On It",
-      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 248866,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
+    },
+    {
+      "added_at": "2020-05-04 14:10:56",
+      "album": {
+        "name": "Operation Stackola",
+        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
+      },
+      "artists": [
+        {
+          "name": "Luniz",
+          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
+        },
+        {
+          "name": "Michael Marshall",
+          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "I Got 5 On It",
+      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
       "added_at": "2020-05-04 14:10:56",
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
     },
     {
-      "added_at": "2022-11-27 01:34:20",
+      "added_at": "2022-11-28 01:36:16",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
     },
     {
-      "added_at": "2022-11-27 01:34:20",
+      "added_at": "2022-11-28 01:36:16",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
     },
     {
-      "added_at": "2022-11-27 01:34:20",
+      "added_at": "2022-11-28 01:36:16",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Hip-Hop Legacy, Vol. 8",
-        "url": "https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb"
-      },
-      "artists": [
-        {
-          "name": "Tha Dogg Pound",
-          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
-        }
-      ],
-      "duration_ms": 290272,
-      "name": "New York, New York",
-      "url": "https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Kill At Will",
@@ -747,6 +731,22 @@
       "duration_ms": 177533,
       "name": "Jackin' For Beats",
       "url": "https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx"
+    },
+    {
+      "added_at": "2020-05-04 14:10:56",
+      "album": {
+        "name": "Hip-Hop Legacy, Vol. 8",
+        "url": "https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        }
+      ],
+      "duration_ms": 290272,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08"
     },
     {
       "added_at": "2022-02-11 05:00:00",

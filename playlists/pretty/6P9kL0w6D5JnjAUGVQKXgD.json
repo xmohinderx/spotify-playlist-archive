@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jonasu, Karen Harding, Biscits, Kriss Reeve",
-  "num_followers": 48401,
+  "num_followers": 48403,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTU2NCw0NGNkNzc3OWM3ZDBlNTg3MmJkMjJhY2I2MjcxZDJjOGQ1OTY5Njk2",
+  "snapshot_id": "MTU2NSw1MGJlYTIxNWNmYmY1YWVlMDFmYjQ2NTEzYzc5MzM2MzkyMDU0YTIz",
   "tracks": [
     {
       "added_at": "2022-09-23 15:41:02",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/0nBcvOFBCRH80PebNeQzgR"
     },
     {
+      "added_at": "2022-07-09 15:41:01",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
       "added_at": "2022-06-18 15:42:02",
       "album": {
         "name": "Dichotomy",
@@ -707,22 +723,6 @@
       "duration_ms": 221028,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
-    },
-    {
-      "added_at": "2022-07-09 15:41:01",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2022-05-10 15:41:03",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-10-25 15:41:02",
       "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 168375,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
-    },
-    {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
         "name": "Nightlight",
         "url": "https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 222400,
       "name": "Nightlight",
       "url": "https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ"
+    },
+    {
+      "added_at": "2022-10-25 15:41:02",
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 168375,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
     },
     {
       "added_at": "2021-08-06 15:42:05",
@@ -1281,26 +1281,6 @@
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
-      "added_at": "2022-11-02 15:41:01",
-      "album": {
-        "name": "Break Away",
-        "url": "https://open.spotify.com/album/5TYVqLL9NgMJzyr49hU5oW"
-      },
-      "artists": [
-        {
-          "name": "Bentfly",
-          "url": "https://open.spotify.com/artist/1DkwVfgts0RoVHzc2nDNws"
-        },
-        {
-          "name": "DRIO",
-          "url": "https://open.spotify.com/artist/3qtUtyzW1HNXTgIlrskBC6"
-        }
-      ],
-      "duration_ms": 159562,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/5EmQlzLYVgknZ6DpkXHFHu"
-    },
-    {
       "added_at": "2022-10-25 15:41:02",
       "album": {
         "name": "Hearts on Fire (Timmy Trumpet Remix)",
@@ -1327,6 +1307,26 @@
       "duration_ms": 210860,
       "name": "Hearts on Fire - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/7MjIstQALBdRDou9bynTNO"
+    },
+    {
+      "added_at": "2022-11-02 15:41:01",
+      "album": {
+        "name": "Break Away",
+        "url": "https://open.spotify.com/album/5TYVqLL9NgMJzyr49hU5oW"
+      },
+      "artists": [
+        {
+          "name": "Bentfly",
+          "url": "https://open.spotify.com/artist/1DkwVfgts0RoVHzc2nDNws"
+        },
+        {
+          "name": "DRIO",
+          "url": "https://open.spotify.com/artist/3qtUtyzW1HNXTgIlrskBC6"
+        }
+      ],
+      "duration_ms": 159562,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/5EmQlzLYVgknZ6DpkXHFHu"
     },
     {
       "added_at": "2021-10-01 15:41:05",
@@ -1369,6 +1369,26 @@
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
     },
     {
+      "added_at": "2022-10-25 15:41:02",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 165779,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
+    },
+    {
       "added_at": "2022-03-02 15:42:03",
       "album": {
         "name": "Headlights (feat. KIDDO)",
@@ -1395,8 +1415,8 @@
     {
       "added_at": "2022-10-25 15:41:02",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
+        "name": "Hearts on Fire",
+        "url": "https://open.spotify.com/album/0eItNaBNC91NxyysINXARv"
       },
       "artists": [
         {
@@ -1404,13 +1424,17 @@
           "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
         }
       ],
-      "duration_ms": 165779,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
+      "duration_ms": 236317,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/02oT3HvcsXD64VwOBtH8yM"
     },
     {
       "added_at": "2022-10-25 15:41:02",
@@ -1435,30 +1459,6 @@
       "duration_ms": 168681,
       "name": "First Time (feat. iann dior) - Goodboys Remix",
       "url": "https://open.spotify.com/track/7FIQXdn2HUa7F7AsqGWRit"
-    },
-    {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
-        "name": "Hearts on Fire",
-        "url": "https://open.spotify.com/album/0eItNaBNC91NxyysINXARv"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 236317,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/02oT3HvcsXD64VwOBtH8yM"
     },
     {
       "added_at": "2022-09-03 15:41:03",
@@ -1993,44 +1993,40 @@
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
-      "added_at": "2022-11-25 15:41:02",
+      "added_at": "2022-11-27 15:41:02",
       "album": {
-        "name": "Don\u2019t Forget My Love (John Summit Remix)",
-        "url": "https://open.spotify.com/album/3RcvNQx32vL4sYrA04bj1S"
+        "name": "Do Ya / Isolate",
+        "url": "https://open.spotify.com/album/6jK6OibzwnCoBL16EPRTlB"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Sharam",
+          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Don\u2019t Forget My Love - John Summit Remix",
-      "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
+      "duration_ms": 477644,
+      "name": "Do Ya",
+      "url": "https://open.spotify.com/track/7HppWYVHAl3wzXy0OOlZf3"
     },
     {
-      "added_at": "2022-11-24 15:41:02",
+      "added_at": "2022-11-27 15:41:02",
       "album": {
-        "name": "Etiquette Selects",
-        "url": "https://open.spotify.com/album/4BcX1yo6b4Id7oXlKOBBfs"
+        "name": "Cool Air",
+        "url": "https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq"
       },
       "artists": [
         {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        },
+        {
+          "name": "Allie Donelly",
+          "url": "https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC"
         }
       ],
-      "duration_ms": 209199,
-      "name": "Disko Dancin",
-      "url": "https://open.spotify.com/track/0V9XYO0pDS94UFuseqabzL"
+      "duration_ms": 270506,
+      "name": "Cool Air",
+      "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
     }
   ],
   "unique_name": "EDM Top 100",

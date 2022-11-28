@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,054 likes - 75 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,088 likes - 75 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 56 | [Decision \- Remastered 1999](https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Rollins](https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO) | 7:58 |
 | 57 | [Blues Blue](https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 7:18 |
 | 58 | [Here I Am \- Rudy Van Gelder Edition/Remastered 2003](https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd In Hand](https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a) | 8:25 |
-| 59 | [The Changing Scene \- 1997 Remastered](https://open.spotify.com/track/6KVSsjymKbqcM1ejHfpKj9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 5:49 |
-| 60 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
+| 59 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
+| 60 | [The Changing Scene \- 1997 Remastered](https://open.spotify.com/track/6KVSsjymKbqcM1ejHfpKj9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 5:49 |
 | 61 | [Hittin' The Jug \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 8:27 |
 | 62 | [The Turnaround \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/1TOx29jMSHZAJcqdHQRMXk) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 8:15 |
 | 63 | [These Are Soulful Days](https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 9:25 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 67 | [Down Home](https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:21 |
 | 68 | [Light Blue \- Remastered](https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:35 |
 | 69 | [Society Red \- Rudy Van Gelder/24\-Bit Mastering/Digital Remaster/2004](https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright](https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs) | 12:21 |
-| 70 | [Blues For Skeeter \- Remastered 2000](https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Introducing Kenny Burrell: The First Blue Note Sessions](https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ) | 8:08 |
-| 71 | [Back Road \- Rudy Van Gelder, 2000 Remaster](https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Our Thing](https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd) | 6:19 |
+| 70 | [Back Road \- Rudy Van Gelder, 2000 Remaster](https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Our Thing](https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd) | 6:19 |
+| 71 | [Blues For Skeeter \- Remastered 2000](https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Introducing Kenny Burrell: The First Blue Note Sessions](https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ) | 8:08 |
 | 72 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 | 73 | [Haitian Fight Song](https://open.spotify.com/track/4Red4KhaYnxkjo3osEbxl4) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR), [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Pepper Adams Plays The Compositions of Charlie Mingus](https://open.spotify.com/album/0oqwEDzBuX7wKNcLxskKI4) | 7:57 |
 | 74 | [South Side \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/7A8bDI0oJDi6gNhe3YIWBQ) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 8:38 |
 | 75 | [Minor On Top \- Remastered 1997](https://open.spotify.com/track/5SQuscOp1pmVmd2TlYADpH) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Motor City Scene](https://open.spotify.com/album/6LQkQG9nSDBZmRRDEdxKms) | 8:43 |
 
-Snapshot ID: `MTY2ODc1ODA5OCwwMDAwMDAwMDI2ZjljMWViYmIxNzRlNmNjMjA3NzU4ZWM5OWFmNGUx`
+Snapshot ID: `MTY2ODc1ODA5OCwwMDAwMDAwMDAzOTA2MjQ2ZGE4YjAzZDM2ZDFhYTAxZmEwZTRjM2Jk`

@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,235 songs - 2 day 15 hr 14 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
+1,236 songs - 2 day 15 hr 18 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-03-24 | 2022-04-07 |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2022-03-24 | 2022-04-20 |
 | [eoh](https://open.spotify.com/track/3oN9prOZJ8jR6rFP4YMJF9) | [Olympis](https://open.spotify.com/artist/23xCxwjg6Bqwm7rh6n9Kjd), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Hallasen](https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C), [Ludwiig](https://open.spotify.com/artist/7oKBrJAYHGk7dib8rWGwCR), [Julia Hallasen](https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup) | [eoh](https://open.spotify.com/album/0gJOTfFxUvUkqlHcgtEN4z) | 2:35 | 2019-12-30 | 2022-04-21 |
+| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-11-10 |  |
 | [Everybody Hates Me](https://open.spotify.com/track/3pIigjAWkzwAonXpJ1fmSF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Sick Boy...Everybody Hates Me](https://open.spotify.com/album/6Ok0x408eB6DmOrp13Llu3) | 3:44 | 2019-07-29\* | 2019-08-04 |
 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 | 2021-06-11 | 2021-06-14 |
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2021-07-12 | 2022-07-28 |
@@ -526,7 +527,7 @@
 | [I Wouldn't Lie](https://open.spotify.com/track/08Bo3D8B7krvdkQKaAT7Oa) | [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [I Wouldn't Lie](https://open.spotify.com/album/6wtPjBPNzWAt0EmhVdy31D) | 2:48 | 2019-07-29\* | 2019-10-26 |
 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 | 2020-04-09 | 2021-12-22 |
 | [I'm Coming](https://open.spotify.com/track/4C6EPWGYM3K3IIv4xzPL2X) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Studio It’s Hits](https://open.spotify.com/album/7drDl79PNee5k9jR4R0EOr) | 3:16 | 2020-06-12 | 2022-04-18 |
-| [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-08 |  |
+| [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-08 | 2022-11-28 |
 | [I'm Not Mad](https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 2:53 | 2020-10-02 | 2022-04-12 |
 | [I'm not Pretty](https://open.spotify.com/track/4pBhTGnL5N5KqsyqU58jee) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/0gEzvwL2JVcY0HJbiOSvxL) | 1:58 | 2021-01-08 | 2022-04-21 |
 | [Icarus](https://open.spotify.com/track/1v3DeYmPl0iRhEDdZ1aUTF) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Icarus](https://open.spotify.com/album/3lbrZb2V6TtSZkfy7gUsXi) | 3:12 | 2019-08-01 | 2019-10-25 |

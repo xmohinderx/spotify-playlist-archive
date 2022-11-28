@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-363 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+364 songs - 23 hr 3 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Autumn Nocturne](https://open.spotify.com/track/751ioCiRxLWziIfPWGQ6ur) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Autumn Nocturne](https://open.spotify.com/album/7KBFqb2rTLsCdjQz64bf8M) | 3:07 | 2022-08-30 |  |
 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-06-28 | 2022-10-08 |
 | [Balladeering](https://open.spotify.com/track/6vrXCt6qfdKPX6ooAu6LVz) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Balladeering](https://open.spotify.com/album/28TQpx5WAwvwPDOXl1Lx8E) | 2:04 | 2022-06-28 | 2022-10-08 |
+| [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-28 |  |
 | [Beautiful Love](https://open.spotify.com/track/1oT0zC6lxsNHITyexFwQIM) | [Lenox Livingroom Sessions](https://open.spotify.com/artist/2PDSuVvSKWLMFtb4j2O06t) | [VOL.1](https://open.spotify.com/album/4o4YAUFAzbwczGbbDgyrUR) | 2:36 | 2022-06-28 | 2022-10-08 |
 | [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2022-06-28 | 2022-10-08 |
@@ -337,7 +338,7 @@
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-30 |  |
 | [To the Moon and Back](https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [To the Moon and Back](https://open.spotify.com/album/6kn3tGxawwwCILy9FvSjNQ) | 5:07 | 2022-06-28 | 2022-10-08 |
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-30 |  |
-| [Tomorrow Is Here](https://open.spotify.com/track/1hTMVhmk468pih4N45bGAd) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Tomorrow Is Here](https://open.spotify.com/album/2Pvs4bsVvPE1fp6xRryR81) | 3:37 | 2022-09-07 |  |
+| [Tomorrow Is Here](https://open.spotify.com/track/1hTMVhmk468pih4N45bGAd) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Tomorrow Is Here](https://open.spotify.com/album/2Pvs4bsVvPE1fp6xRryR81) | 3:37 | 2022-09-07 | 2022-11-28 |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-06-28 |  |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-08-30 |  |
 | [Very Early](https://open.spotify.com/track/0FISgNw6RbJZ2fmN40Tb5X) | [Gustav Scheringer Duo](https://open.spotify.com/artist/3CfxR9NQPgG8w5QumsF3ca) | [Ill Wind](https://open.spotify.com/album/5i2aRJc5JY9sZP4yNhT3lO) | 5:04 | 2022-06-28 | 2022-10-08 |

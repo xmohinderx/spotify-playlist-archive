@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 27355,
+  "num_followers": 27382,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMGQ2Yjc3NTQzZTI3ZjA3YWRjNWMyYjYxNmJiY2NhNWYw",
+  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMDQ3NGM3M2YxZmQ2MDcyM2YwNzEyZDZlNzUwMGVlN2Fl",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -475,6 +475,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 95360,
+      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
+      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
         "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
       },
@@ -499,30 +523,6 @@
       "duration_ms": 356106,
       "name": "La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
       "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 95360,
-      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
-      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -663,8 +663,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
+        "name": "Rossini: Piano Music, Vol. 2",
+        "url": "https://open.spotify.com/album/46uZRK8JhoS9l68mlTg6tK"
       },
       "artists": [
         {
@@ -672,25 +672,13 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Lawrence Brownlee",
-          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
-        },
-        {
-          "name": "Orchestra dell' Accademia Nazionale di Santa Cecilia, Roma",
-          "url": "https://open.spotify.com/artist/7BYF3pEWuibx8D2hezbUTp"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
         }
       ],
-      "duration_ms": 376626,
-      "name": "Stabat Mater: Cujus animam gementem",
-      "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
+      "duration_ms": 322773,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
+      "url": "https://open.spotify.com/track/639PRjO7vTYwX0HbAsD6Y6"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -751,8 +739,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 2",
-        "url": "https://open.spotify.com/album/46uZRK8JhoS9l68mlTg6tK"
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
       },
       "artists": [
         {
@@ -760,13 +748,25 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Orchestra dell' Accademia Nazionale di Santa Cecilia, Roma",
+          "url": "https://open.spotify.com/artist/7BYF3pEWuibx8D2hezbUTp"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
         }
       ],
-      "duration_ms": 322773,
-      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
-      "url": "https://open.spotify.com/track/639PRjO7vTYwX0HbAsD6Y6"
+      "duration_ms": 376626,
+      "name": "Stabat Mater: Cujus animam gementem",
+      "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -999,6 +999,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
+      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Complete Overtures, Vol. 4",
         "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 367306,
       "name": "Armida, Act I: Sinfonia",
       "url": "https://open.spotify.com/track/5czLSRyPx1vfpxzvnJUqzU"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Piano Music, Vol. 3",
-        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
-      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: String Sonatas, etc.",
+        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 429160,
+      "name": "Serenata in E flat",
+      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Otello",
         "url": "https://open.spotify.com/album/0tNEiJodkTVwMo74ggdl27"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 410120,
       "name": "Otello, ossia Il moro di Venezia: Act I: Cavatina: Ah si, per voi gia sento (Otello, Jago, Choir)",
       "url": "https://open.spotify.com/track/4OSwqWEcJRHyxne4K0vk5m"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: String Sonatas, etc.",
-        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 429160,
-      "name": "Serenata in E flat",
-      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1359,6 +1359,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
+      "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Semiramide",
         "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
       },
@@ -1443,30 +1467,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 10",
-        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Giuseppina Bridelli",
-          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
-      "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
         "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
       },
@@ -1543,8 +1543,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Il viaggio a Reims (Live)",
-        "url": "https://open.spotify.com/album/0RyJFGQC2NUpRSvw4k3yOX"
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
       },
       "artists": [
         {
@@ -1552,25 +1552,13 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Mirco Palazzi",
-          "url": "https://open.spotify.com/artist/1WrUyWwKuSLMkQ4mIsdBAq"
-        },
-        {
-          "name": "Poznan Camerata Bach Choir",
-          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
-        },
-        {
-          "name": "Virtuosi Brunensis",
-          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
-        },
-        {
-          "name": "Antonino Fogliani",
-          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Il viaggio a Reims: Scene 12: Dell'alma diva (Sidney, Chorus)",
-      "url": "https://open.spotify.com/track/3ESfBgceeLaN3s38s5MPAt"
+      "duration_ms": 272173,
+      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
+      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1603,8 +1591,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+        "name": "Rossini: Il viaggio a Reims (Live)",
+        "url": "https://open.spotify.com/album/0RyJFGQC2NUpRSvw4k3yOX"
       },
       "artists": [
         {
@@ -1612,13 +1600,25 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+          "name": "Mirco Palazzi",
+          "url": "https://open.spotify.com/artist/1WrUyWwKuSLMkQ4mIsdBAq"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
         }
       ],
-      "duration_ms": 272173,
-      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
-      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
+      "duration_ms": 199706,
+      "name": "Il viaggio a Reims: Scene 12: Dell'alma diva (Sidney, Chorus)",
+      "url": "https://open.spotify.com/track/3ESfBgceeLaN3s38s5MPAt"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1735,6 +1735,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Stabat Mater: Quando corpus morietur",
+      "url": "https://open.spotify.com/track/1OtTF78hnHqx0NDhPvtL5p"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
       },
@@ -1779,30 +1803,6 @@
       "duration_ms": 322880,
       "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 2 \"Album fran\u00e7ais\": No. 4, Complainte \u00e0 2 voix \"Un sou\"",
       "url": "https://open.spotify.com/track/2iVADTzB4E59R4JMThA57j"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Stabat Mater: Quando corpus morietur",
-      "url": "https://open.spotify.com/track/1OtTF78hnHqx0NDhPvtL5p"
     },
     {
       "added_at": "2022-06-28 08:38:32",

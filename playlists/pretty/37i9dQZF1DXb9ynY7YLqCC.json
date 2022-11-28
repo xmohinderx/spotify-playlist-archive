@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 131674,
+  "num_followers": 131722,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMDExYzhiYjI2YWVkMzc3NDQ1YjVhYjUxNWFlMmQzYTYx",
+  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMGZhMDM1M2JlY2I2NDZmNjljNzQzYjdlZmExMTkzN2Fh",
   "tracks": [
     {
       "added_at": "2022-11-07 16:02:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "El Impulso",
-        "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Para No Verme M\u00e1s",
-      "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 205946,
       "name": "Se Viene",
       "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "El Impulso",
+        "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Para No Verme M\u00e1s",
+      "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
     },
     {
       "added_at": "2022-11-07 16:02:06",

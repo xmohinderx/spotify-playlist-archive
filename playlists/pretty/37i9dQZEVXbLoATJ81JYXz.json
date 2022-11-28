@@ -1,15 +1,47 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 602949,
+  "num_followers": 603023,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIyNzgwNDc4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIyODY0NzE1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "JAG VILL HA DIG H\u00c4R HOS MIG",
         "url": "https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA"
@@ -29,71 +61,55 @@
       "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "My Name Is Jos\u00e9 Feliciano",
+        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 182306,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "Ingen annan r\u00f6r mig som du",
-        "url": "https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a"
+        "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
+        "url": "https://open.spotify.com/album/1XkpttQ0sG0O1C1ASKurDO"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 217854,
-      "name": "Ingen annan r\u00f6r mig som du",
-      "url": "https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn"
+      "duration_ms": 240000,
+      "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
+      "url": "https://open.spotify.com/track/4SLYrBfzgbLmiEdoKajyHL"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "H\u00e4lsa Gud",
         "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
@@ -109,7 +125,103 @@
       "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "T\u00e4nd ett ljus",
+        "url": "https://open.spotify.com/album/77F4Y9nEDz9AR4ib7aC7lw"
+      },
+      "artists": [
+        {
+          "name": "Triad",
+          "url": "https://open.spotify.com/artist/4MTYEubODrxzURN1kCZWGF"
+        }
+      ],
+      "duration_ms": 290333,
+      "name": "T\u00e4nd ett ljus",
+      "url": "https://open.spotify.com/track/0WeT9UnF79pGH5ohYHsnD9"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Ingen annan r\u00f6r mig som du",
+        "url": "https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 217854,
+      "name": "Ingen annan r\u00f6r mig som du",
+      "url": "https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "V\u00e4lkommen hem",
+        "url": "https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe"
+      },
+      "artists": [
+        {
+          "name": "E.M.D.",
+          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "V\u00e4lkommen hem",
+      "url": "https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -129,7 +241,55 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Banan Melon Kiwi & Citron",
+        "url": "https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Banan Melon Kiwi & Citron",
+      "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Tomten, jag vill ha en riktig jul",
+        "url": "https://open.spotify.com/album/6iKsg4UHcr2e8w1qNu6Msq"
+      },
+      "artists": [
+        {
+          "name": "Judit",
+          "url": "https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Tomten, jag vill ha en riktig jul",
+      "url": "https://open.spotify.com/track/520Jrg250xi0QXIKxFqK4n"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "Din l\u00e5t",
         "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
@@ -149,7 +309,23 @@
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "What's The Point",
         "url": "https://open.spotify.com/album/17nRTWKpr4ebWsO9HoA0D6"
@@ -165,23 +341,175 @@
       "url": "https://open.spotify.com/track/43xz0Ed6oE5r3FSblGZtE0"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "Banan Melon Kiwi & Citron",
-        "url": "https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR"
+        "name": "Hey Ho",
+        "url": "https://open.spotify.com/album/15gVgcNqgJvMN3xaVHRbcx"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Freddy Kalas",
+          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Banan Melon Kiwi & Citron",
-      "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
+      "duration_ms": 174946,
+      "name": "Hey Ho",
+      "url": "https://open.spotify.com/track/0eekaX32hUmJgcinPCL1iZ"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Mer jul",
+        "url": "https://open.spotify.com/album/4K5JVMha8JLkSlwvMitE6o"
+      },
+      "artists": [
+        {
+          "name": "Adolphson & Falk",
+          "url": "https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Mer jul - Klassisk Version",
+      "url": "https://open.spotify.com/track/69S0Qwm02otD5zV1snmOG5"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Tommy K\u00f6rberg - Julen \u00e4r h\u00e4r",
+        "url": "https://open.spotify.com/album/3sR4PxmOUhyEJ05g03O1A3"
+      },
+      "artists": [
+        {
+          "name": "Tommy K\u00f6rberg",
+          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
+        },
+        {
+          "name": "Sissel",
+          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
+        }
+      ],
+      "duration_ms": 195880,
+      "name": "Julen \u00e4r h\u00e4r",
+      "url": "https://open.spotify.com/track/4cGPWeCfoQTw7i0wqNRcjI"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+        }
+      ],
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Carolas jul",
+        "url": "https://open.spotify.com/album/0X8bz9mbT7vwMnH8wGbID5"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "Jul, jul str\u00e5lande jul",
+      "url": "https://open.spotify.com/track/33EVpTZhoyQw1mStrZTKfO"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Babblarnas vaggvisa",
+        "url": "https://open.spotify.com/album/03qO055ZzI9jHSXuLIvjOV"
+      },
+      "artists": [
+        {
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/1VJRxqJhpEIpnHon7ssp1p"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "DAY ONE",
         "url": "https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj"
@@ -197,71 +525,7 @@
       "url": "https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "The Only Wan (Deluxe)",
-        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "Dum",
-      "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
-        "url": "https://open.spotify.com/album/1XkpttQ0sG0O1C1ASKurDO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
-      "url": "https://open.spotify.com/track/4SLYrBfzgbLmiEdoKajyHL"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -277,63 +541,23 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "My Name Is Jos\u00e9 Feliciano",
-        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "ENSAM (feat. estraden)",
-        "url": "https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "ENSAM (feat. estraden)",
-      "url": "https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2022 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        },
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Rymden och tillbaks",
-      "url": "https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "BUBBEL P\u00c5 BALKONGEN",
         "url": "https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn"
@@ -353,39 +577,203 @@
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "Babblarnas vaggvisa",
-        "url": "https://open.spotify.com/album/03qO055ZzI9jHSXuLIvjOV"
+        "name": "Jag kommer hem igen till jul (20-\u00e5rsjubileum)",
+        "url": "https://open.spotify.com/album/7CKtVeB9uIO6clD9N7qCLl"
       },
       "artists": [
         {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
         }
       ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/1VJRxqJhpEIpnHon7ssp1p"
+      "duration_ms": 230280,
+      "name": "Jag kommer hem igen till jul",
+      "url": "https://open.spotify.com/track/3eusN83SiYVrSA3hG4drFy"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "T\u00e4nd ett ljus",
-        "url": "https://open.spotify.com/album/77F4Y9nEDz9AR4ib7aC7lw"
+        "name": "The Only Wan (Deluxe)",
+        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
       },
       "artists": [
         {
-          "name": "Triad",
-          "url": "https://open.spotify.com/artist/4MTYEubODrxzURN1kCZWGF"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 290333,
-      "name": "T\u00e4nd ett ljus",
-      "url": "https://open.spotify.com/track/0WeT9UnF79pGH5ohYHsnD9"
+      "duration_ms": 133894,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Carolas jul",
+        "url": "https://open.spotify.com/album/0X8bz9mbT7vwMnH8wGbID5"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Nu t\u00e4ndas tusen juleljus",
+      "url": "https://open.spotify.com/track/08D5bPhVLw01WdNchYxsqg"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2022 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Rymden och tillbaks",
+      "url": "https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Holiday Inn (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Ken Darby Singers",
+          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
+        },
+        {
+          "name": "John Scott Trotter & His Orchestra",
+          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
+        }
+      ],
+      "duration_ms": 177480,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Hey Ho",
+        "url": "https://open.spotify.com/album/56mHmi0jwPK4UOC3DZVWdf"
+      },
+      "artists": [
+        {
+          "name": "Aslak Trude",
+          "url": "https://open.spotify.com/artist/2zS32fWywZvJCB21xAqctW"
+        }
+      ],
+      "duration_ms": 176032,
+      "name": "Hey Ho",
+      "url": "https://open.spotify.com/track/1mlP7iqVLZMYryuispoFBE"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "A Pentatonix Christmas",
+        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "ENSAM (feat. estraden)",
+        "url": "https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "ENSAM (feat. estraden)",
+      "url": "https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "Den vintertid nu kommer",
+        "url": "https://open.spotify.com/album/2qNHigOx9qajdbrE6vyD4x"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 199344,
+      "name": "Den vintertid nu kommer",
+      "url": "https://open.spotify.com/track/0hSBZP9SodLCOLWmfgK9MK"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "MER & MER",
         "url": "https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK"
@@ -401,123 +789,59 @@
       "url": "https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/0NOy19wwB8BkHIphvgVbWn"
-      },
-      "artists": [
-        {
-          "name": "Sofie Svensson & Dom D\u00e4r",
-          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/4DZFPEK6yH8MQYj3pld4tP"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "AVION / BRING EM",
-        "url": "https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 172034,
-      "name": "AVION",
-      "url": "https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Schack",
-        "url": "https://open.spotify.com/album/1n7deqmRb4GVEgsNoFyGLZ"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 149565,
-      "name": "Schack",
-      "url": "https://open.spotify.com/track/2B4GEg6cLD3YlzOIBdOD7x"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
       "album": {
-        "name": "Regnar och regnar",
-        "url": "https://open.spotify.com/album/26AllpWA98AL73X7w47yC0"
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 199096,
-      "name": "Regnar och regnar",
-      "url": "https://open.spotify.com/track/7CmSVWGMLTj4qZWhDTRxRG"
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2022-11-26 12:21:18",
+      "added_at": "2022-11-27 11:45:15",
+      "album": {
+        "name": "\u00c4r",
+        "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
+      },
+      "artists": [
+        {
+          "name": "Tommy K\u00f6rberg",
+          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Stad i ljus",
+      "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
+    },
+    {
+      "added_at": "2022-11-27 11:45:15",
       "album": {
         "name": "Josefin",
         "url": "https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII"
@@ -531,318 +855,6 @@
       "duration_ms": 221217,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "N\u00e5nting i Luften",
-        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting i Luften",
-      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "V\u00e4lkommen hem",
-        "url": "https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe"
-      },
-      "artists": [
-        {
-          "name": "E.M.D.",
-          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "V\u00e4lkommen hem",
-      "url": "https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "CHEVA P\u00c5 FREDAG",
-        "url": "https://open.spotify.com/album/3PPJzp8UYVzn3h1evPqtSV"
-      },
-      "artists": [
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "CHEVA P\u00c5 FREDAG",
-      "url": "https://open.spotify.com/track/6JvSqDyQ6rbbb93XklyNQ7"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "HARRAGAS",
-        "url": "https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        },
-        {
-          "name": "Manny Flaco",
-          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
-        }
-      ],
-      "duration_ms": 140444,
-      "name": "HARRAGAS",
-      "url": "https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "XXX (Bow Wow Wow)",
-        "url": "https://open.spotify.com/album/3FJTaFuP5szXBanrrZkANl"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 125940,
-      "name": "XXX (Bow Wow Wow)",
-      "url": "https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
-        "url": "https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA"
-      },
-      "artists": [
-        {
-          "name": "Daniela Rathana",
-          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
-      "url": "https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Hey Ho",
-        "url": "https://open.spotify.com/album/15gVgcNqgJvMN3xaVHRbcx"
-      },
-      "artists": [
-        {
-          "name": "Freddy Kalas",
-          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Hey Ho",
-      "url": "https://open.spotify.com/track/0eekaX32hUmJgcinPCL1iZ"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Hjertel\u00f8s",
-        "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 137942,
-      "name": "Hjertel\u00f8s",
-      "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "The Hardest Love",
-        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Tomten, jag vill ha en riktig jul",
-        "url": "https://open.spotify.com/album/6iKsg4UHcr2e8w1qNu6Msq"
-      },
-      "artists": [
-        {
-          "name": "Judit",
-          "url": "https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Tomten, jag vill ha en riktig jul",
-      "url": "https://open.spotify.com/track/520Jrg250xi0QXIKxFqK4n"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Mamma",
-        "url": "https://open.spotify.com/album/1yMj58BSpO0ZEiJwEq6pF6"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 215702,
-      "name": "Mamma",
-      "url": "https://open.spotify.com/track/5vpu2fogPhAutzdINePhNQ"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "All I Need (feat. Franglish)",
-        "url": "https://open.spotify.com/album/0ed4blzp0BbBtJLq0XugJ7"
-      },
-      "artists": [
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 161451,
-      "name": "All I Need (feat. Franglish)",
-      "url": "https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Anxious Angel",
-        "url": "https://open.spotify.com/album/2a5wTRxYQDtL0qJjO4Q7Tr"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Anxious Angel",
-      "url": "https://open.spotify.com/track/0g6tODYLV4432gRFjcU3kt"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 161898,
-      "name": "X",
-      "url": "https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh"
-    },
-    {
-      "added_at": "2022-11-26 12:21:18",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     }
   ],
   "unique_name": "Top 50 - Sweden",

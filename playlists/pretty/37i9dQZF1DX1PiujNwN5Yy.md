@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Canciones tristes para uno de esos días\. Sad songs just 4 you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,673 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,712 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 23 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
 | 24 | [nana triste](https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Otras Alas](https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4) | 3:07 |
 | 25 | [Guantanamera](https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Guantanamera](https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm) | 3:10 |
-| 26 | [De Mí](https://open.spotify.com/track/4Si4I7aAPl7liGtTWlIYKN) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Subcampeón](https://open.spotify.com/album/0n25eeakMD41p1JUUlUinE) | 3:50 |
-| 27 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 |
+| 26 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 |
+| 27 | [De Mí](https://open.spotify.com/track/4Si4I7aAPl7liGtTWlIYKN) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Subcampeón](https://open.spotify.com/album/0n25eeakMD41p1JUUlUinE) | 3:50 |
 | 28 | [Quiero](https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 4:04 |
 | 29 | [Lo jodiste](https://open.spotify.com/track/1Sedbo7kqP6PXnN5iKg183) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Lo jodiste](https://open.spotify.com/album/2A5vxG20vPoqRvvp2gLvrz) | 4:31 |
 | 30 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 66 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 | 67 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 68 | [Venecia \- Acústico](https://open.spotify.com/track/2Q4iEmSiDVEenNSGk2rmoZ) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Venecia \(Acústico\)](https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl) | 3:59 |
-| 69 | [T la Sudo \(Demo\)](https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [T la Sudo \(Demo\)](https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz) | 3:05 |
-| 70 | [Bolsas \- C\. Tangana](https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk) | [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [Bolsas \- C\. Tangana](https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5) | 3:56 |
+| 69 | [Bolsas \- C\. Tangana](https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk) | [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [Bolsas \- C\. Tangana](https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5) | 3:56 |
+| 70 | [T la Sudo \(Demo\)](https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [T la Sudo \(Demo\)](https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz) | 3:05 |
 | 71 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 72 | [Por Si Apareces](https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Por Si Apareces](https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU) | 4:33 |
 | 73 | [Cóseme \(2:22am\)](https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 2:49 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 92 | [Take All Your Things](https://open.spotify.com/track/0Z6JPPinWTnMr2IewL15J2) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 3:36 |
 | 93 | [Trihte](https://open.spotify.com/track/6LDb3XvUAm1m5r9NjTlTWI) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Trihte](https://open.spotify.com/album/5O3gj4Al0YXwuegluGL6KS) | 3:48 |
 | 94 | [ya te vas](https://open.spotify.com/track/35Sc4rTNlRNSNfI8BPMnTl) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [ep2 🌧](https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm) | 3:03 |
-| 95 | [No te lloro más](https://open.spotify.com/track/3zSblAGdZZV60r7J0XDmEZ) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [No te lloro más](https://open.spotify.com/album/4gsU5rcGEUjfNIwAxQIjef) | 2:56 |
-| 96 | [Aeroplanos](https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Aeroplanos](https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz) | 3:59 |
+| 95 | [Aeroplanos](https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Aeroplanos](https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz) | 3:59 |
+| 96 | [No te lloro más](https://open.spotify.com/track/3zSblAGdZZV60r7J0XDmEZ) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [No te lloro más](https://open.spotify.com/album/4gsU5rcGEUjfNIwAxQIjef) | 2:56 |
 | 97 | [Despecho Nuevo](https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Despecho Nuevo](https://open.spotify.com/album/0rbz1GmxsruvzYckQhcK73) | 3:37 |
 | 98 | [Aclárate](https://open.spotify.com/track/2LewcRYN0lmAPcqzhPiDnx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Aclárate](https://open.spotify.com/album/57A8urKomczwMQNjCIIFQC) | 3:02 |
 | 99 | [Those Three Words](https://open.spotify.com/track/46p5bbYFwaSN8C4OQORncK) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [Those Three Words](https://open.spotify.com/album/7JfmBY9dnN5oxHSJKUnIt3) | 3:22 |
-| 100 | [A Estas Horas Del Amor](https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [A Estas Horas Del Amor](https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz) | 5:02 |
+| 100 | [si volvemos a querernos \(bonus track\)](https://open.spotify.com/track/2quOFSbQCtEISRvZCfJPQG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [si volvemos a querernos \(bonus track\)](https://open.spotify.com/album/03GvjAfSGqvdQ51flmaDGK) | 3:18 |
 
-Snapshot ID: `MTY1OTM3NzQwOSwwMDAwMDAwMDRjNmEzOTEzMjhjNmMxODhkZDVjMWI2OGNlNjFjZGQ4`
+Snapshot ID: `MTY1OTM3NzQwOSwwMDAwMDAwMDcyY2ZjY2Y4MmQwODE4OGM2NWM2YzM3Y2UzMWY3Mjcy`

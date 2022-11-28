@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,882 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,915 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 42 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 |
 | 43 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 |
 | 44 | [Put The Shoe On The Other Foot](https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 5:32 |
-| 45 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
-| 46 | [Give It Back](https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8) | [Hamilton Loomis](https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Give It Back](https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML) | 4:39 |
+| 45 | [Give It Back](https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8) | [Hamilton Loomis](https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Give It Back](https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML) | 4:39 |
+| 46 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
 | 47 | [Pots And Pans](https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Shine Bright](https://open.spotify.com/album/5yP8HnU8eGBDjRN6GxOgVh) | 4:33 |
 | 48 | [A Man's Got To Do What A Man's Got To Do](https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:03 |
 | 49 | [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 |
 | 50 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
 
-Snapshot ID: `MTY2Nzg0ODEyMSwwMDAwMDAwMDFiM2VjZWRkMTFmOTNmYjg4MGZiZjI5NDU2YzllY2E4`
+Snapshot ID: `MTY2Nzg0ODEyMSwwMDAwMDAwMGZiMmMwNGI0MDU2ODI2YTY1MWYyYmEwMjczOTdkZWFm`

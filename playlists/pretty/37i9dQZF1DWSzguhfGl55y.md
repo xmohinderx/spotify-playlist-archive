@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,444 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,532 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 37 | [Verstrahlt](https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Zum Glück in die Zukunft](https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg) | 3:54 |
 | 38 | [Wenn wir kommen](https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Electro Ghetto \(Re\-Release\)](https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX) | 3:52 |
 | 39 | [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 |
-| 40 | [Hinterland](https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 3:55 |
-| 41 | [Bossaura](https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossaura](https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM) | 6:04 |
-| 42 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 |
+| 40 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 |
+| 41 | [Hinterland](https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 3:55 |
+| 42 | [Bossaura](https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossaura](https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM) | 6:04 |
 | 43 | [Hey Du!](https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Aggro Berlin](https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr) | 4:10 |
 | 44 | [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 |
 | 45 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
 | 46 | [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 |
 | 47 | [Nur noch Gucci](https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 3:32 |
-| 48 | [Mittelfinger hoch \- Remastered](https://open.spotify.com/track/6pUMwOnqt0DAvVYFtOLOb7) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Favorite](https://open.spotify.com/artist/6iHHxsJtBAUzLXbqUr0bbK) | [Legacy \- Best Of \(Remastered\)](https://open.spotify.com/album/6gZAZJfarP7nvsAumwx7dS) | 3:34 |
-| 49 | [Stumm \(Xenja\)](https://open.spotify.com/track/3MxUAsVtyFpJHObz3aeIws) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Dis Wo Ich Herkomm](https://open.spotify.com/album/5KCUTya0utfXxt1sXNq7kp) | 3:20 |
-| 50 | [All 4 One](https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU) | [The Best Of](https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn) | 3:33 |
+| 48 | [Easy](https://open.spotify.com/track/063ltSmgXNffmgYxippeke) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:52 |
+| 49 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
+| 50 | [Stumm \(Xenja\)](https://open.spotify.com/track/3MxUAsVtyFpJHObz3aeIws) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Dis Wo Ich Herkomm](https://open.spotify.com/album/5KCUTya0utfXxt1sXNq7kp) | 3:20 |
 
-Snapshot ID: `MTY2OTAzMzU4MCwwMDAwMDAwMGNkZTUxYjVjMmYxOGY2YTAxM2EzZWU0NGRiMWFmNzJk`
+Snapshot ID: `MTY2OTAzMzU4MCwwMDAwMDAwMDVhODQzZWVlZTVkNTQ3OTI0OGMyMWExYzg3YzQ4MGI3`

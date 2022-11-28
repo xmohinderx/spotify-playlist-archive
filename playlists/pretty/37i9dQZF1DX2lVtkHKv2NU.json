@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 275564,
+  "num_followers": 275733,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDVmOWYwNmJkZjRhOGQ5N2FhODdhYzQxNTZlZWVmZWUz",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDNmNzFlMGZkNWNlMDliZWU0YmEyMDBmY2IwNTAwYTlj",
   "tracks": [
     {
       "added_at": "2022-11-25 06:00:00",
@@ -511,18 +511,22 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "WORTH NOTHING",
+        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING",
+      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -543,6 +547,22 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 198520,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
-        "name": "WORTH NOTHING",
-        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
-      },
-      "artists": [
-        {
-          "name": "TWISTED",
-          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 164629,
-      "name": "WORTH NOTHING",
-      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
         "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 120308,
       "name": "this is what falling in love feels like",
       "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "YUKON (INTERLUDE)",
+      "url": "https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "Tiroteo",
-        "url": "https://open.spotify.com/album/3loBJsh7tBeBBA6e1c7OiN"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 266290,
-      "name": "Tiroteo",
-      "url": "https://open.spotify.com/track/05HpBFLrHBjWpgV0DSPUAv"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "Just The Two of Us",
         "url": "https://open.spotify.com/album/2BeZeRUR2CqrwOGzxWCwI1"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 117037,
       "name": "Just The Two of Us",
       "url": "https://open.spotify.com/track/5cwCW4r6ybpSiHWMpMKHoJ"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "Tiroteo",
+        "url": "https://open.spotify.com/album/3loBJsh7tBeBBA6e1c7OiN"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 266290,
+      "name": "Tiroteo",
+      "url": "https://open.spotify.com/track/05HpBFLrHBjWpgV0DSPUAv"
     },
     {
       "added_at": "2022-11-25 06:00:00",

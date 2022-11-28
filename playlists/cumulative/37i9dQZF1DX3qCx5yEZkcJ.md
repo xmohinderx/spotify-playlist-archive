@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-423 songs - 17 hr 16 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+424 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Let Me Be...](https://open.spotify.com/track/26C8Jwl8oVfgvrfgMcEShx) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Let Me Be...](https://open.spotify.com/album/2BrMWNVooyQR4ohBcAfbUB) | 2:30 | 2019-05-26\* | 2022-04-21 |
 | [Let Me Sink](https://open.spotify.com/track/60IGRj0Vyl4cFqyJELQHjc) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Let Me Sink](https://open.spotify.com/album/44m2eIAT0LrkkDDy3EA2Vz) | 2:00 | 2019-05-26\* | 2019-06-15 |
 | [let up](https://open.spotify.com/track/1enG0rKaILfMLkpECtzq7e) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [let up](https://open.spotify.com/album/1Mf3I8VH2jkHzhQda5r7tF) | 3:04 | 2021-11-26 | 2022-07-29 |
-| [let up](https://open.spotify.com/track/79LW20kYsfGPXIU6UEXkHC) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [let up](https://open.spotify.com/album/3xIi8UWc8EG3qKhSnhPZ9o) | 3:04 | 2022-09-22 |  |
+| [let up](https://open.spotify.com/track/79LW20kYsfGPXIU6UEXkHC) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [let up](https://open.spotify.com/album/3xIi8UWc8EG3qKhSnhPZ9o) | 3:04 | 2022-09-22 | 2022-11-28 |
 | [Libration](https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Libration](https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm) | 3:04 | 2020-09-18 | 2022-07-21 |
 | [Lofi Just Colleagues](https://open.spotify.com/track/2kTCoVdNSA48FZH8lV3xAR) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Just Colleagues](https://open.spotify.com/album/4evSVnCgwLIdxp2DOXsoiI) | 3:20 | 2019-06-14 | 2019-08-13 |
 | [Lofi Keanu Level Lonely](https://open.spotify.com/track/2I5Gnq6Cbws0Sw2AFNWrGP) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Keanu Level Lonely](https://open.spotify.com/album/3gVRNPuo2EiUZiIcPT2IK4) | 2:53 | 2020-11-06 | 2022-07-08 |
@@ -313,6 +313,7 @@
 | [Rolling Papers](https://open.spotify.com/track/7bIXxtS6oLDBNzrQpqHS62) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/3yQBuwe2PIdUpapH2NeFkC) | 2:00 | 2019-05-26\* | 2021-05-27 |
 | [Romantic Rain](https://open.spotify.com/track/0ONPyowm9YQFY7mtx45GaD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Romantic Rain](https://open.spotify.com/album/1tQiRd5m1st2e60sbyvbcS) | 2:50 | 2020-08-30 | 2022-07-28 |
 | [Roses](https://open.spotify.com/track/3rDtYwyfZNfTfxjyivntg5) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [For Her](https://open.spotify.com/album/4O4tlQX1aDjudqgHFBaRqS) | 1:35 | 2019-05-26\* | 2022-11-19 |
+| [Rubberband](https://open.spotify.com/track/1kSWi8ycKlP4WSkuXOl9Rv) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/0i7o6n9c8pGHgfmqlMD9uz) | 1:51 | 2022-11-17 |  |
 | [Rubberband](https://open.spotify.com/track/3gCnoDKLaiHoScvQuUAKeh) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/3YTUVIwwsncLHLshRd6saT) | 1:51 | 2020-06-19 | 2022-11-20 |
 | [Sangria in Spain](https://open.spotify.com/track/6MLcmv9xFPlzsnLQ6xkWlo) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Sangria in Spain](https://open.spotify.com/album/0qK8hpdvwMVyTsi147Jyzp) | 2:21 | 2020-07-11 | 2020-11-06 |
 | [Saturnian Potion](https://open.spotify.com/track/1CBfTUq4k0OIL1eYhrM24o) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Saturnian Potion](https://open.spotify.com/album/0a6GJOHAnJ4FKPyck0llk8) | 3:37 | 2020-06-19 | 2020-10-21 |

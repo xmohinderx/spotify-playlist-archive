@@ -4,7 +4,7 @@
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-152 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
+153 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Euphoria \- Single Version](https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv) | 3:01 | 2020-02-25 | 2022-07-29 |
 | [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2022-05-16 |  |
 | [Every way that I can \- English Radio Edit](https://open.spotify.com/track/2oWD0Kfu4JogKWouqax5GW) | [Sertab](https://open.spotify.com/artist/6WyyxMwz028GEkIIWOP2qq) | [Alpha hrises epitihies 2004](https://open.spotify.com/album/4bzPUq5nBrxjiDQVgHibbe) | 2:48 | 2022-02-28 | 2022-07-29 |
+| [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 | 2022-05-16 |  |
 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/588wm4NEtOiTHT2N58enQ6) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Every Way That I Can](https://open.spotify.com/album/4D2meUQ9mCljoEzvjspr2T) | 2:47 | 2020-02-25 | 2022-03-01 |
 | [Fairytale](https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytale](https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S) | 3:02 | 2022-05-16 | 2022-11-14 |
 | [Fairytale](https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales](https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp) | 3:03 | 2022-05-16 |  |
@@ -111,7 +112,7 @@
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/6D5KhpY0TFfZWTYriDgErp) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Chansons Collected](https://open.spotify.com/album/1mJgaoLt3bJRoOY16VYd6G) | 2:33 | 2022-05-16 | 2022-11-07 |
 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 | 2022-03-25 |  |
 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 | 2020-02-25 |  |
-| [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 | 2020-02-25 |  |
+| [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 | 2020-02-25 | 2022-11-28 |
 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 | 2020-02-25 |  |
 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 | 2020-02-25 |  |
 | [Rise Up \- Eurovision 2014 \- Greece](https://open.spotify.com/track/2oFmGjyOGefQ6Af2ysnDfQ) | [Freaky Fortune](https://open.spotify.com/artist/5cRocmkAjNUol2bK9v2Ce0), [Riskykidd](https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2) | [Eurovision Song Contest 2014 Copenhagen](https://open.spotify.com/album/2ChBXM2MXu0Kvmkq9gAbXm) | 3:04 | 2022-03-01 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Johnny Drille ",
-  "num_followers": 171089,
+  "num_followers": 171160,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MTE2OCwwMDAwMDAwMDUzZGYyMjQ0M2FhMDAxZGQ5MWExNDRhNTcwOGI3NjZk",
+  "snapshot_id": "MTY2OTM2MTE2OCwwMDAwMDAwMGQxNmI0NmJmZWM3M2FmYjExNWY0NDRiNjA4NWVlZjE4",
   "tracks": [
     {
       "added_at": "2022-10-28 12:40:45",
@@ -1413,6 +1413,30 @@
       "url": "https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby"
     },
     {
+      "added_at": "2022-11-25 07:26:08",
+      "album": {
+        "name": "B&B (Booze & Bumbum)",
+        "url": "https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl"
+      },
+      "artists": [
+        {
+          "name": "AV",
+          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "B&B (Booze & Bumbum)",
+      "url": "https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8"
+    },
+    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "Slow Down",
@@ -1451,22 +1475,6 @@
       "duration_ms": 201599,
       "name": "Too Many Women",
       "url": "https://open.spotify.com/track/19l8i6cV0tUIn3ON8duR4r"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Juju pt. 2 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI"
-      },
-      "artists": [
-        {
-          "name": "Bryann",
-          "url": "https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "Juju pt. 2 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
     }
   ],
   "unique_name": "Ginger Me",

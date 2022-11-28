@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-471 songs - 1 day 8 hr 3 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
+472 songs - 1 day 8 hr 6 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Excitación](https://open.spotify.com/track/0Usu1Czn4GN2yVFq0nKiLp) | [Pepente](https://open.spotify.com/artist/2EyucCR11vhsmDFq3oqiMy) | [Excitación](https://open.spotify.com/album/7bZXkzsc2AGN020IyEFWCb) | 3:21 | 2021-11-16 | 2022-01-25 |
 | [Falsedades](https://open.spotify.com/track/6pck8FLAH6JMdf62b739KF) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Mixtape Remix](https://open.spotify.com/album/1tNK99WiqFYnOf86u5amUy) | 4:40 | 2021-11-16 | 2022-07-28 |
 | [Fe de Errata](https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/2AzFsL7ANckjBWqVIO8sn1) | 3:06 | 2021-11-16 | 2022-07-24 |
+| [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 | 2021-11-16 |  |
 | [Fieles Con Lo Vivido](https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn) | [Ley de Vida](https://open.spotify.com/album/7M5xAE8EbVBcRDX6h4ntXc) | 5:32 | 2021-11-16 | 2022-06-13 |
 | [Filo](https://open.spotify.com/track/2JoH2NqO2cRBifeSPYPeA4) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Filo](https://open.spotify.com/album/36jpX0Q9efGtJp5kJp3QnV) | 3:01 | 2021-11-16 | 2022-07-29 |
 | [Fly Chill](https://open.spotify.com/track/6Sew8TeMH1xqABOHGeXqZ8) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD) | [HandMade](https://open.spotify.com/album/20JZleqIRtGp5fxSxIdWtb) | 3:54 | 2021-11-16 | 2022-08-02 |
@@ -291,7 +292,7 @@
 | [Mi Primera Vez](https://open.spotify.com/track/2ZSP2DxDPlJg6bOpnUNiNA) | [Los Aldeanos](https://open.spotify.com/artist/4Y6VI2Mfdhvb1RImggzOiY), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Charly Mucharrima](https://open.spotify.com/artist/6nJF8xzQ48VCfBlXb5btQp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Yamil Reyes \(Dejavu\)](https://open.spotify.com/artist/2hhm3fRyxsCvhsrVP7Gnlr) | [Descato](https://open.spotify.com/album/73LPJr85VgniRjasNJjrQQ) | 5:54 | 2021-11-16 | 2022-07-22 |
 | [Mi Sangre](https://open.spotify.com/track/7oM865zYHm0XcPiOMthmdF) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Mi Sangre](https://open.spotify.com/album/1pMOfqgOIpPuLpNQCOoAJp) | 3:45 | 2021-11-16 | 2022-07-15 |
 | [Mi Tío Snoop](https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Mi Tío Snoop](https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW) | 3:23 | 2021-11-16 |  |
-| [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 | 2021-11-16 |  |
+| [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 | 2021-11-16 | 2022-11-28 |
 | [Mientras Duermen \(feat\. Samurai, Negro Gonzáles & B.Man\)](https://open.spotify.com/track/74lBlAtbtsA48zhZP7shXt) | [Rapper School](https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt), [Samurai](https://open.spotify.com/artist/5FACr9qCAjQ6qVA3XbUSlu), [Negro Gonzáles](https://open.spotify.com/artist/2YYcvj04ez2NHWWLaA1itO), [Bman](https://open.spotify.com/artist/6O2RGQ0QCbUen1ratTL7X9) | [We Don't Play](https://open.spotify.com/album/0weJOpKvaXLOmqd2cQK9Ik) | 4:24 | 2021-11-16 | 2022-07-29 |
 | [Mierda](https://open.spotify.com/track/6dmdcmKuGv8wLMwwCrCuya) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Violadores del Verso + Kase.O: Mierda](https://open.spotify.com/album/1pjFDutapQtaQBw9ArTKsG) | 9:52 | 2021-11-16 | 2022-07-02 |
 | [Mil Horas](https://open.spotify.com/track/5omY8dqkRwYsBngpvXdjwa) | [Sindicato Argentino Del Hip Hop](https://open.spotify.com/artist/3j2SSGDaDnSgCtg0oGKrEu) | [Un Paso A La Eternidad](https://open.spotify.com/album/5SvippEw4GRU7nkc0S7GoB) | 3:35 | 2021-11-16 | 2022-07-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 399102,
+  "num_followers": 399323,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDFmNmMzNTAyYjNhNzE4ZWQ3MGI1ZDMyY2VhNDNhOTg0",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGJlNWMxYjU1ZmY0MTQ0M2RmZDFkM2Y3Yjg5N2ZiNDYx",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "We Could Be Together (feat. Daddy DJ)",
         "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 149642,
       "name": "We Could Be Together",
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "The Drop",
         "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "In The Yuma (feat. Aatig)",
+        "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 156215,
+      "name": "In The Yuma (feat. Aatig)",
+      "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 137419,
       "name": "Rather Be Alone",
       "url": "https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "In The Yuma (feat. Aatig)",
-        "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 156215,
-      "name": "In The Yuma (feat. Aatig)",
-      "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "I FEEL LIKE DANCING",
+        "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 225681,
+      "name": "I FEEL LIKE DANCING",
+      "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Move It",
         "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 201259,
       "name": "Move It",
       "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "I FEEL LIKE DANCING",
-        "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 225681,
-      "name": "I FEEL LIKE DANCING",
-      "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
     },
     {
       "added_at": "2022-11-18 05:00:00",

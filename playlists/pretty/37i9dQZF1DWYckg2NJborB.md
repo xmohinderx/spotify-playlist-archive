@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,179 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,183 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 17 | [If I Could Write](https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o) | [Sam Phillips](https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa) | [A Boot and a Shoe](https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS) | 2:18 |
 | 18 | [Tonight I Feel Like Kafka](https://open.spotify.com/track/6ojZsSfUuRUC4VxtWLUAdi) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:09 |
 | 19 | [Great American Novel](https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 3:55 |
-| 20 | [42](https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 3:57 |
-| 21 | [All I Can Do Is Write About It](https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 4:16 |
+| 20 | [All I Can Do Is Write About It](https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 4:16 |
+| 21 | [42](https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 3:57 |
 | 22 | [Reading In Bed](https://open.spotify.com/track/4H73CNDBQpE9gp3YTFfC7y) | [Emily Haines & The Soft Skeleton](https://open.spotify.com/artist/1b2U0VT1Z4ACqOihBL1fgw) | [Knives Don't Have Your Back](https://open.spotify.com/album/3ugZjO9GDXiiq4LRDDzcv8) | 2:48 |
 | 23 | [Wrapped Up In Books](https://open.spotify.com/track/14TIka80BMTELhMHk1sIdH) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:34 |
 | 24 | [The Book I Read \- 2005 Remaster](https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 49 | [A Picture Of Dorian Gray](https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [And Don't The Kids Just Love It](https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT) | 2:11 |
 | 50 | [Milton At Midnight](https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Milton At Midnight](https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x) | 5:46 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDExNzE5NDkzOTFmMGIyNWJlNTQ5OGZkZTAyZjE1NmQ2`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGI1M2M2MzAzZTEzZTEwOGQ0MGY5MjE1NWIzODZhNzlk`

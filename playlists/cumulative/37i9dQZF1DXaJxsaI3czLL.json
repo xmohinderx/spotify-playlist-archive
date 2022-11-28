@@ -1950,6 +1950,24 @@
     },
     {
       "album": {
+        "name": "\u547d\u306e\u5225\u540d",
+        "url": "https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u307f\u3086\u304d",
+          "url": "https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307400,
+      "name": "\u7cf8",
+      "url": "https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS"
+    },
+    {
+      "album": {
         "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
         "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
       },
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"

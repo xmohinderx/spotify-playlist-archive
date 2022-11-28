@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 263619,
+  "num_followers": 263592,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDExZTU2Nzk2YjY0MzE4MDBhMWRlZThlZDJkYzVkMzcz",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGViODcxMjAwMWE5MzIzODZkNTVlZWVjMzQ2NjgwNDMy",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "blkswn",
-        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 169319,
-      "name": "Wild Irish Roses",
-      "url": "https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "blkswn",
+        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Wild Irish Roses",
+      "url": "https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Canary Islands",
         "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 292267,
       "name": "Patience",
       "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Bad Dream Baby",
         "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 178150,
       "name": "Bad Dream Baby",
       "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Laurel Hell",
-        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 184549,
-      "name": "The Only Heartbreaker",
-      "url": "https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -947,50 +947,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "The Yearbook",
-        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Dover Beach",
-      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
+      "duration_ms": 184549,
+      "name": "The Only Heartbreaker",
+      "url": "https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1007,6 +975,38 @@
       "duration_ms": 161293,
       "name": "Your Girlfriend",
       "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Yearbook",
+        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Dover Beach",
+      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Young Chasers",
-        "url": "https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Loverini (feat. L'Imp\u00e9ratrice)",
         "url": "https://open.spotify.com/album/2MvJBLxIIPuOMXzxI0bjXB"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 202546,
       "name": "Loverini (feat. L'Imp\u00e9ratrice)",
       "url": "https://open.spotify.com/track/6bBN2bbxAnCXWTwXaOkF0X"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Young Chasers",
+        "url": "https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "T Love",
-        "url": "https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB"
-      },
-      "artists": [
-        {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
-        }
-      ],
-      "duration_ms": 310742,
-      "name": "T Love",
-      "url": "https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 206960,
       "name": "Heavenly Maybe",
       "url": "https://open.spotify.com/track/1eiR1ZQMYxyqHY9cXm0RgT"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "T Love",
+        "url": "https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "duration_ms": 310742,
+      "name": "T Love",
+      "url": "https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5"
     },
     {
       "added_at": "2022-08-25 23:00:00",

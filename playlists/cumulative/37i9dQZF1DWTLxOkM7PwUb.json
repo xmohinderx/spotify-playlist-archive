@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 196800,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa"
@@ -805,6 +805,24 @@
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "album": {
+        "name": "Como Estrellas",
+        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
+      },
+      "artists": [
+        {
+          "name": "LA YOUNG",
+          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Como Estrellas",
+      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
     },
     {
       "album": {

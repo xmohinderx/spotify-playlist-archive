@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 43459,
+  "num_followers": 43592,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY3NTA5MiwwMDAwMDAwMDIyYTE5ZTk1ZWQxMDdiYWI0YzAwYTdkMGE5YTM1ZjUx",
+  "snapshot_id": "MTY2ODY3NTA5MiwwMDAwMDAwMGNlMGNlMDk3ZTc3N2FlMDI4MzMzY2NjYmRhOWFjNGE0",
   "tracks": [
     {
       "added_at": "2022-10-07 07:15:26",
@@ -99,18 +99,18 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+        "name": "From Gagarin's Point of View",
+        "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
         }
       ],
-      "duration_ms": 202133,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
+      "duration_ms": 243333,
+      "name": "From Gagarin's Point of View",
+      "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "From Gagarin's Point of View",
-        "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
       },
       "artists": [
         {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 243333,
-      "name": "From Gagarin's Point of View",
-      "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
+      "duration_ms": 202133,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "The New Classic Trio",
-        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 408600,
-      "name": "I'll Let You Know",
-      "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
         "name": "The Complete Savoy Master Takes",
         "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 175000,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/50G4bmpZt73jslY5PzymvY"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
+        "name": "The New Classic Trio",
+        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 408600,
+      "name": "I'll Let You Know",
+      "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "Work From Home with Oscar Peterson",
-        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 289226,
-      "name": "You Look Good To Me",
-      "url": "https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 360546,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7JtcCde09fsajDNHmPFrX7"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
+        "name": "Work From Home with Oscar Peterson",
+        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "You Look Good To Me",
+      "url": "https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
+        "name": "Plays Misty",
+        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
         "name": "This Here Is Bobby Timmons",
         "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "Plays Misty",
-        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
+      "duration_ms": 340333,
+      "name": "Bag's Groove",
+      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -415,22 +431,6 @@
       "duration_ms": 442440,
       "name": "I Love Music",
       "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 340333,
-      "name": "Bag's Groove",
-      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Excerpts From The Blues",
-      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
         "name": "The Art Tatum Solo Masterpieces, Vol. 7",
         "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 235093,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Excerpts From The Blues",
+      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "The Shearing Piano",
+        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 200986,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
+      "duration_ms": 172600,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "The Shearing Piano",
-        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
         "name": "Oscar Peterson Plays The Cole Porter Songbook",
         "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 150733,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/3A1NOwqErSnpNuvdeW1RHy"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
         "name": "Monk's Dream",
         "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 268400,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
         "name": "I Got Rhythm",
         "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+        "name": "Vince Guaraldi Trio",
+        "url": "https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+      "duration_ms": 233066,
+      "name": "The Lady's In Love With You",
+      "url": "https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -1247,22 +1263,6 @@
       "duration_ms": 158426,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/0EYRLGRgsgnKetAVziaaLT"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
-        "name": "Vince Guaraldi Trio",
-        "url": "https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "The Lady's In Love With You",
-      "url": "https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "The Duke Plays Ellington",
-        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 152886,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
         "name": "Jazz p\u00e5 svenska",
         "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 114693,
       "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
       "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
+        "name": "The Duke Plays Ellington",
+        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 152886,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "Red's Blues",
-        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 400373,
-      "name": "Ralph J. Gleason Blues",
-      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
         "name": "Eclypso",
         "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+        "name": "Red's Blues",
+        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         }
       ],
-      "duration_ms": 552493,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
+      "duration_ms": 400373,
+      "name": "Ralph J. Gleason Blues",
+      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -1439,6 +1423,22 @@
       "duration_ms": 391426,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 552493,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
     },
     {
       "added_at": "2022-10-07 07:15:26",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-07 07:15:26",
       "album": {
-        "name": "Inception",
-        "url": "https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner Trio",
-          "url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p"
-        }
-      ],
-      "duration_ms": 375426,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"
-    },
-    {
-      "added_at": "2022-10-07 07:15:26",
-      "album": {
         "name": "Mary Lou Williams Presents Black Christ of the Andes",
         "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 190680,
       "name": "My Blue Heaven",
       "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
+    },
+    {
+      "added_at": "2022-10-07 07:15:26",
+      "album": {
+        "name": "Inception",
+        "url": "https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner Trio",
+          "url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p"
+        }
+      ],
+      "duration_ms": 375426,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"
     },
     {
       "added_at": "2022-10-07 07:15:26",

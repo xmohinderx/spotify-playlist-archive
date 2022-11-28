@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 728155,
+  "num_followers": 728434,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5NTE2MiwwMDAwMDAwMDQwNDJkN2NlNjFjMDc2NWQzODM1YmZhMDIyYjg3M2Fi",
+  "snapshot_id": "MTY2ODc5NTE2MiwwMDAwMDAwMDc0Y2JmMGRiNzBiMTAxMDJjYzE2ZmI2N2I3M2JlMjE5",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/57x83GI7482qiFSDooS02L"
     },
     {
-      "added_at": "2022-11-27 01:36:24",
+      "added_at": "2022-11-28 01:36:45",
       "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
-      "added_at": "2022-11-27 01:36:24",
+      "added_at": "2022-11-28 01:36:45",
       "album": {
         "name": "flora + fana (deluxe)",
         "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF"
     },
     {
-      "added_at": "2022-11-27 01:36:24",
+      "added_at": "2022-11-28 01:36:45",
       "album": {
         "name": "Euphonyus",
         "url": "https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
-      "added_at": "2022-11-27 01:36:24",
+      "added_at": "2022-11-28 01:36:45",
       "album": {
         "name": "I Want You (For All Time)",
         "url": "https://open.spotify.com/album/6EdFPUiIK35wD3irdSZltm"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
-      "added_at": "2022-11-27 01:36:24",
+      "added_at": "2022-11-28 01:36:45",
       "album": {
         "name": "Adonis",
         "url": "https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW"
@@ -455,6 +455,26 @@
       "duration_ms": 219146,
       "name": "Adonis - feat. KIRBY",
       "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -475,22 +495,6 @@
       "duration_ms": 301081,
       "name": "Boy Bye (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -529,24 +533,20 @@
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-10-03 05:27:10",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-09-09 04:08:19",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 173123,
-      "name": "Love (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 173123,
+      "name": "Love (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "GREENZONE 108",
@@ -1239,22 +1255,6 @@
       "duration_ms": 257013,
       "name": "Anything For You",
       "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2022-10-14 04:00:00",

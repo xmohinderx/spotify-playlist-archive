@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,493 likes - 51 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,514 likes - 51 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

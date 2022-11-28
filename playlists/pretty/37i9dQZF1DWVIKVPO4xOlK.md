@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,087 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,125 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 78 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
 | 79 | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/album/4qGyc7iOQDVBlIrq1VXtu6) | 3:33 |
 | 80 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
-| 81 | [Bellacon](https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Bellacon](https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce) | 3:32 |
-| 82 | [El Señoron](https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron](https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo) | 3:24 |
+| 81 | [El Señoron](https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron](https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo) | 3:24 |
+| 82 | [Bellacon](https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Bellacon](https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce) | 3:32 |
 | 83 | [Estas En Mi Pasado](https://open.spotify.com/track/62PeKIJQiist979Q2GBrFc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:55 |
 | 84 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 |
 | 85 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 99 | [Ando Giro](https://open.spotify.com/track/304bR3emWsKkqk9QaBeAX7) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 3:19 |
 | 100 | [Pistol Packin](https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Parkside Baby](https://open.spotify.com/album/40xueAJsLMp79qy7VqLz2P) | 2:03 |
 
-Snapshot ID: `MTY2OTI1ODA0MywwMDAwMDAwMDU0NDM1MTE0NzY0ZTYwZjg5NWRhOTZhNzIzZWFiYzkz`
+Snapshot ID: `MTY2OTI1ODA0MywwMDAwMDAwMGU2MmQ1YzFlOGQ4NWY2N2NlZmE5OWMxYTk3ZWJmNzU1`

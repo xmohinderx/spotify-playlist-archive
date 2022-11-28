@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,565 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,613 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 40 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 |
 | 41 | [잠들고 싶어\(zZ\)](https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 3:37 |
 | 42 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 |
-| 43 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
-| 44 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 |
+| 43 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 |
+| 44 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
 | 45 | [Better Man](https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Paul Kim The First Album Part\. 1 ‘the Road’](https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8) | 3:32 |
-| 46 | [어떡해 \(Feat\. 스텔라장\)](https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob) | [이요한](https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD) | [하지 말라면 더 하고 19 Part.2](https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6) | 4:20 |
-| 47 | [Let's Go \(feat\. DA:ON, Gunjae & H!\)](https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [DA:ON](https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY), [Gunjae](https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [SEOULVIBES, GROCERY](https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX) | 2:51 |
+| 46 | [Let's Go \(feat\. DA:ON, Gunjae & H!\)](https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [DA:ON](https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY), [Gunjae](https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [SEOULVIBES, GROCERY](https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX) | 2:51 |
+| 47 | [어떡해 \(Feat\. 스텔라장\)](https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob) | [이요한](https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD) | [하지 말라면 더 하고 19 Part.2](https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6) | 4:20 |
 | 48 | [Watercolour](https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 4:14 |
 | 49 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
 | 50 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 61 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 |
 | 62 | [Carpet](https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Carpet \- SM STATION](https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH) | 3:42 |
 | 63 | [Dream](https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [When It Loves](https://open.spotify.com/album/6h3u4VFlhumv3Lxrvn4T0z) | 4:15 |
-| 64 | [A longing night](https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Illusion](https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc) | 3:01 |
-| 65 | [Dreamy Alarm](https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 3:32 |
+| 64 | [Dreamy Alarm](https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 3:32 |
+| 65 | [A longing night](https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Illusion](https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc) | 3:01 |
 | 66 | [ROSE](https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [SONG JU HEE 송주희](https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU) | [ROSE](https://open.spotify.com/album/26fovYAowQaJmrucMlNztd) | 2:58 |
 | 67 | [Wind](https://open.spotify.com/track/0oPiNXJVKFp3T5wo6S0nUw) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [OUTRO](https://open.spotify.com/album/6GcK8UwZU9cNBlG5pIWwjS) | 3:11 |
 | 68 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 |
 | 69 | [Propose](https://open.spotify.com/track/5yygP5IhQWB6NExGRGziYZ) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [Revolutionary Sisters \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/7rMCv5t7oZdLsWQWnDx72w) | 2:44 |
 | 70 | [나비](https://open.spotify.com/track/1R1mvOZ2cfnM39erhGQ5WQ) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [나비](https://open.spotify.com/album/0J1t80ksf1tqqLJodid9Cs) | 3:59 |
 
-Snapshot ID: `MTY2OTAwMjY0OSwwMDAwMDAwMDA3OTM1NDc5MDhmM2M5ODZhNzBhZDRiY2UwYmM0YjJh`
+Snapshot ID: `MTY2OTAwMjY0OSwwMDAwMDAwMDZkMzcyODA0OTg3YzhhZjk0ODY1NjM0YjVkZjJjOGQ3`

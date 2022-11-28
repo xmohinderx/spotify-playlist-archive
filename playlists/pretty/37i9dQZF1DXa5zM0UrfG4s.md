@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,773 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,790 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 23 | [Bøgda](https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda](https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu) | 2:44 |
 | 24 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 |
 | 25 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 |
-| 26 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
-| 27 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
+| 26 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
+| 27 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
 | 28 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
 | 29 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 |
 | 30 | [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 34 | [Den Samme Jævla Sangen](https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Den Samme Jævla Sangen](https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt) | 2:20 |
 | 35 | [Bad Booty](https://open.spotify.com/track/2NXDdSSrR8rZVL7IgTgJEF) | [Robin Stones](https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bad Booty](https://open.spotify.com/album/47z1O0BS0n7UoSZZFPGt3X) | 2:13 |
 | 36 | [Granada](https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar med dobbelseng](https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y) | 3:10 |
-| 37 | [REDLÖS](https://open.spotify.com/track/75mZ7bYRxnXKLYEfxsWg4U) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [REDLÖS](https://open.spotify.com/album/66r5D0woGoI1UjKmnvY4BB) | 2:47 |
+| 37 | [Sæla På](https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Morten Ramm](https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Roy Harrytassen](https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz), [DJ Dan](https://open.spotify.com/artist/4HnCaC2Dd4EOAkFm6WHsYe) | [Sæla På](https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh) | 2:59 |
 | 38 | [Gatebil](https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Gatebil](https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH) | 2:08 |
-| 39 | [Sæla På](https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Morten Ramm](https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Roy Harrytassen](https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz), [DJ Dan](https://open.spotify.com/artist/4HnCaC2Dd4EOAkFm6WHsYe) | [Sæla På](https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh) | 2:59 |
+| 39 | [REDLÖS](https://open.spotify.com/track/75mZ7bYRxnXKLYEfxsWg4U) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [REDLÖS](https://open.spotify.com/album/66r5D0woGoI1UjKmnvY4BB) | 2:47 |
 | 40 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
 | 41 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 |
 | 42 | [FREDAG](https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREDAG](https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Kentucky](https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Kentucky](https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7) | 2:43 |
 | 70 | [Wellerman](https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Wellerman](https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR) | 2:31 |
 
-Snapshot ID: `MTY2OTMzMDgwMCwwMDAwMDAwMGM3YTJhMTNiYjgzYjkxZTQ1MjgzOTcyODhiZjc5NmMy`
+Snapshot ID: `MTY2OTMzMDgwMCwwMDAwMDAwMGJhZGM1Zjg5YTNhMjUwMjI1YmI2YmQwMWM2ZDE4YzAx`

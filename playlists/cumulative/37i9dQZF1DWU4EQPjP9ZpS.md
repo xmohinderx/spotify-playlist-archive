@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-408 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
+409 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Foyer](https://open.spotify.com/track/0KUVjGSAqhgwcSta33o9nx) | [NetMD](https://open.spotify.com/artist/2OXYtjW88cotEUYwYejUv0) | [Dead Mall, 2005 \(Original Version\)](https://open.spotify.com/album/6NkI6POZp5uaMi7MYn9Nur) | 2:55 | 2022-01-26 | 2022-06-08 |
 | [Freedom Airways](https://open.spotify.com/track/6eVP45Uxmf0VUSqhZKxjVX) | [Gogi 93](https://open.spotify.com/artist/3eOwKRgznUp7QxbWDDG4fZ) | [Agoraphilia](https://open.spotify.com/album/2YDSlxjHqPxovT02jnUU18) | 3:41 | 2021-12-08 | 2022-10-31 |
 | [Friday Highway](https://open.spotify.com/track/2D10r7FszCudLfBdNgyKKT) | [Bonnaz](https://open.spotify.com/artist/4lwXfFCKIKSifa6clhsePK) | [Weekend Warrior](https://open.spotify.com/album/7coMsWFoCKjPBCygWiev7o) | 5:33 | 2022-09-11 | 2022-11-27 |
-| [Fruit That Sounds Friendly](https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [get a job 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 2:10 | 2022-04-12 | 2022-11-24 |
+| [Fruit That Sounds Friendly](https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [get a job 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 2:10 | 2022-04-12 |  |
 | [Full Chop](https://open.spotify.com/track/0ull75L2VtU5EkzbUEvfSn) | [Aexion](https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb) | [Promises](https://open.spotify.com/album/0M0klWWcMopvtxjFLGILJw) | 4:26 | 2022-08-12 | 2022-09-19 |
 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 | 2021-12-08 | 2022-07-29 |
 | [Game](https://open.spotify.com/track/4VNLPySr5c0fufDdc5gFNY) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Karma Cleaning](https://open.spotify.com/album/0U45XeSkTv2KDdvT7VAKiT) | 3:34 | 2022-02-27 | 2022-06-30 |
@@ -281,7 +281,7 @@
 | [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/track/4YmYML44U2s4QgdAP0oNrM) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L), [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/album/1K6ONT5q55ZqSqdOlN0QFD) | 3:51 | 2022-06-06 | 2022-11-05 |
 | [Ready](https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h) | [Ambientcloud](https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6) | [Ready](https://open.spotify.com/album/38idADPCBOedtHFKSaeMva) | 2:17 | 2022-01-26 | 2022-06-19 |
 | [Real Time Lover](https://open.spotify.com/track/2dOvBBtJFetqjje2vZwbl2) | [Skeleton Lipstick](https://open.spotify.com/artist/05MvGEWQ5WcQVKnaQNzjdG) | [Real Time Lover](https://open.spotify.com/album/29Us2Mha3vkZxmxW4AFJgh) | 3:38 | 2022-04-12 | 2022-07-24 |
-| [Relax](https://open.spotify.com/track/0p9jPV9H74VqFEKsX1P1fV) | [Ahero](https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv) | [Cloud Zero](https://open.spotify.com/album/3VABoV6hfnboGf0JMInFEw) | 2:52 | 2022-09-11 |  |
+| [Relax](https://open.spotify.com/track/0p9jPV9H74VqFEKsX1P1fV) | [Ahero](https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv) | [Cloud Zero](https://open.spotify.com/album/3VABoV6hfnboGf0JMInFEw) | 2:52 | 2022-09-11 | 2022-11-28 |
 | [Reliving the Present Past in the Future](https://open.spotify.com/track/6GrEzQ1XbxzDTLko0vaXlS) | [Mindspring Memories](https://open.spotify.com/artist/1dAnRR4DknhrKRSITF8xSr) | [Myst](https://open.spotify.com/album/0MDCornsE9fCOn28sgV4NH) | 5:55 | 2022-02-27 | 2022-04-20 |
 | [Renaissance Hotel](https://open.spotify.com/track/23OCAArOE3w7UBaTWLEdtp) | [豊平区民Toyohirakumin](https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN) | [Music in the Air](https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx) | 1:44 | 2022-02-27 | 2022-07-28 |
 | [Resort](https://open.spotify.com/track/19fvPsFwJt8hWfM7zK5tjp) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Outlines](https://open.spotify.com/album/0rL2LYrLCh79OV07XHwCxp) | 2:20 | 2022-02-27 | 2022-03-02 |
@@ -309,6 +309,7 @@
 | [Sonic in the Holobeach](https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Sonic in the Holobeach](https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau) | 4:16 | 2021-12-08 |  |
 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 | 2022-04-11 | 2022-07-18 |
 | [SOULLL](https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye) | 2:56 | 2021-12-08 | 2022-10-20 |
+| [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 | 2022-09-11 |  |
 | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/track/2scoNjwADGcWEbSOKjy5oJ) | [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/album/4DqYWsmyVGtZy4GuAMS5Rz) | 4:04 | 2021-12-08 | 2022-08-13 |
 | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/track/3ao2Od12RCMXeRSSk8XbUZ) | [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/album/5TxXuszoIFAtpet7APPeYb) | 4:04 | 2022-09-11 | 2022-11-05 |
 | [Spectre](https://open.spotify.com/track/2AcYagmdjrM7wzTFwsjGMP) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Spectre](https://open.spotify.com/album/7MYuHhnFpEW9r2MeOCfzwI) | 3:01 | 2021-12-08 | 2022-07-25 |
@@ -388,7 +389,7 @@
 | [Waterfall Rainbows](https://open.spotify.com/track/3fOwrmaZE7FXh4eUsRVoQl) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Sunset Dreaming](https://open.spotify.com/album/4YYFD6bEvtKMwpNWg9KWA7) | 1:53 | 2022-01-26 | 2022-07-05 |
 | [Wavestation \- instrumental](https://open.spotify.com/track/5v5fgP8r4iEpsSefhwkoOQ) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [Wavestation \(The Remixes\)](https://open.spotify.com/album/3bOnRO2990GXsPnvqY2QpT) | 3:45 | 2021-12-08 | 2022-07-23 |
 | [we at pool éõéñéõ](https://open.spotify.com/track/0dBRZqvAWXz9o8qsXdr9iV) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM) | [we at pool éõéñéõ](https://open.spotify.com/album/2SbcGPZ3kPZKFMdDsnFcek) | 2:42 | 2022-04-11 | 2022-07-24 |
-| [weight by density](https://open.spotify.com/track/0QaT5oD5ZPo1zPjWdy8znu) | [Sonavision Deluxe](https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff) | [weight by density](https://open.spotify.com/album/2z3q5ZMTosa4U0mv6bWMOx) | 3:37 | 2022-11-05 |  |
+| [weight by density](https://open.spotify.com/track/0QaT5oD5ZPo1zPjWdy8znu) | [Sonavision Deluxe](https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff) | [weight by density](https://open.spotify.com/album/2z3q5ZMTosa4U0mv6bWMOx) | 3:37 | 2022-11-05 | 2022-11-28 |
 | [Weightless \(Late Arcane Mix\)](https://open.spotify.com/track/3lNVVmBxBh1wta2n2K2ij4) | [Soft Replica](https://open.spotify.com/artist/3pe0tAFC14aJtzBiBj1uJT), [Late Arcane](https://open.spotify.com/artist/5gIqkj57tgQ5cZTAC8litE) | [Weightless \(Late Arcane Mix\)](https://open.spotify.com/album/2kSrIMMio7PsWqgFNGN8JG) | 3:51 | 2022-09-11 |  |
 | [Welcome](https://open.spotify.com/track/75WFgqafRbUYvSYwspSsBK) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [The Eye of Truth](https://open.spotify.com/album/6FRTmLRlMRpf0xAfEGswe3) | 3:05 | 2022-06-06 | 2022-08-04 |
 | [Welcome to the Afterlife](https://open.spotify.com/track/0fsDxSughWgVRYMLMAaJJZ) | [Neon95](https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb) | [What Happens After We Die?](https://open.spotify.com/album/4IyGrmZCNxUz0wq5m8Ws9K) | 3:16 | 2021-12-08 | 2022-05-07 |

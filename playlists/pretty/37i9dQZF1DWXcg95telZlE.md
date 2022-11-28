@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,515 likes - 83 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,828 likes - 83 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 20 | [Twilight Time \- Single Version](https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Flying Platters Around The World](https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH) | 2:48 |
 | 21 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
 | 22 | [Let It Be Me](https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Best Of The Everly Brothers \- Rare Solo Classics](https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB) | 2:26 |
-| 23 | [True Love Ways](https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:48 |
-| 24 | [Love Letters In The Sand \- Single Version](https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:14 |
+| 23 | [Love Letters In The Sand \- Single Version](https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:14 |
+| 24 | [True Love Ways](https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:48 |
 | 25 | [It's All In The Game](https://open.spotify.com/track/2lmPUdIdzlFH64PWJrw6Zb) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game: The Best Of Tommy Edwards](https://open.spotify.com/album/1r5eluEOlo6G5UW3Pf3ZZR) | 2:39 |
 | 26 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:42 |
 | 27 | [Mr\. Blue](https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:25 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 60 | [Sugar Moon \- Single Version](https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 1:55 |
 | 61 | [Cry](https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 3:01 |
 | 62 | [Catch a Falling Star \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 2:28 |
-| 63 | [Stay Beside Me \- Single Version](https://open.spotify.com/track/7zoSpb1iJ0C39KFgwt9dT2) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie](https://open.spotify.com/album/4PqrYD6697CVleVCdLJXle) | 2:24 |
-| 64 | [Island In The Sun](https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Essential Harry Belafonte](https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi) | 3:21 |
+| 63 | [Island In The Sun](https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Essential Harry Belafonte](https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi) | 3:21 |
+| 64 | [Stay Beside Me \- Single Version](https://open.spotify.com/track/7zoSpb1iJ0C39KFgwt9dT2) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie](https://open.spotify.com/album/4PqrYD6697CVleVCdLJXle) | 2:24 |
 | 65 | [Prisoner Of Love](https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 3:04 |
 | 66 | [Venus](https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG) | [Frankie Avalon](https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ) | [Frankie Avalon](https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF) | 2:24 |
 | 67 | [A Certain Smile \- From the 20th Century Fox Film "A Certain Smile"](https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 2:48 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 82 | [I'll Never Smile Again](https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:54 |
 | 83 | [Outside of Heaven](https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 2:38 |
 
-Snapshot ID: `MTY1MzkxNTU0MCwwMDAwMDAwMDgxM2FjOTQwMDk4YzFjMDg1MzBkNWM0YTk5OTJlMzQy`
+Snapshot ID: `MTY1MzkxNTU0MCwwMDAwMDAwMGE3NjQxNmZjNTAzNDMyNzRmMDJlNzA3ZTUxZjBlZjM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Madeline Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,971 likes - 160 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,074 likes - 160 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

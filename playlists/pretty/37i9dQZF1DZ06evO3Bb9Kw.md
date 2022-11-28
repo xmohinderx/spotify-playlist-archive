@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,213 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,246 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 49 | [Pushin' Time](https://open.spotify.com/track/3UiTRnMtgKxuL9uZJWj0IO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:33 |
 | 50 | [Bramble Rose](https://open.spotify.com/track/3ZM4ulEztk8iVlUJvf42Je) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County](https://open.spotify.com/album/3FLTH6ZJgA09fSirMfGMhX) | 4:30 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDBmY2M5ZjAxMDExMjgxNDNhMzJiMDNiZDhhZTA3ZWYyNg==`
+Snapshot ID: `Mjc4MjU5OTUsMDAwMDAwMDA4MjU5MmIzZjVlY2QwMDgwZmM5ODRkMzI5YmY4NTViZQ==`

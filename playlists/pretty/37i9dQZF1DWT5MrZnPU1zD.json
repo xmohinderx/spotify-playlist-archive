@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1640178,
+  "num_followers": 1640319,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDAyN2NmN2ZjZDBhNjliMDU0NzBlMjkzZGYxMGM3NmE4",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDcwZTM5ZjYyNjcwZmU1NmQ5YmY3YjYzNGJhYjBkNjJh",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Down In Atlanta",
@@ -387,6 +371,22 @@
       "duration_ms": 164041,
       "name": "Down In Atlanta",
       "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -595,8 +595,8 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Beat the Odds",
-        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Beat the Odds",
-      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -731,8 +731,8 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
+        "name": "Beat the Odds",
+        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 135264,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
+      "duration_ms": 150000,
+      "name": "Beat the Odds",
+      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -997,6 +997,22 @@
       "url": "https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
@@ -1015,22 +1031,6 @@
       "duration_ms": 178041,
       "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
       "url": "https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Bikini Bottom",
-        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Bikini Bottom",
-      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 173783,
-      "name": "BIG TIME (feat. Future & Lil Baby)",
-      "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "U-Digg (feat. 42 Dugg & Veeze)",
         "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 235500,
       "name": "U-Digg (feat. 42 Dugg & Veeze)",
       "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 173783,
+      "name": "BIG TIME (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Waddup (feat. Polo G)",
+        "url": "https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 181540,
+      "name": "Waddup (feat. Polo G)",
+      "url": "https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Step 1",
         "url": "https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf"
       },
@@ -1447,22 +1467,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Waddup (feat. Polo G)",
-        "url": "https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9"
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
       },
       "artists": [
         {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
         }
       ],
-      "duration_ms": 181540,
-      "name": "Waddup (feat. Polo G)",
-      "url": "https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U"
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Us vs. Them (feat. Gucci Mane)",
         "url": "https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 216013,
       "name": "Us vs. Them (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 169465,
+      "name": "Unh Unh",
+      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 181355,
       "name": "Dead Shot (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 169465,
-      "name": "Unh Unh",
-      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 151285,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Elon Musk (feat. Gunna)",
         "url": "https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 205758,
       "name": "Elon Musk (feat. Gunna)",
       "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 151285,
-      "name": "NO TRENDS",
-      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "EA Monster",
-        "url": "https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE"
-      },
-      "artists": [
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Impala",
-      "url": "https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "TO THE MOON (Gunna Remix)",
         "url": "https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk"
       },
@@ -1821,20 +1805,20 @@
       "url": "https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx"
     },
     {
-      "added_at": "2022-10-14 19:06:53",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Creepers",
-        "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
+        "name": "EA Monster",
+        "url": "https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         }
       ],
-      "duration_ms": 111020,
-      "name": "Creepers",
-      "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
+      "duration_ms": 185800,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1855,6 +1839,22 @@
       "duration_ms": 195153,
       "name": "LLC (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
+    },
+    {
+      "added_at": "2022-10-14 19:06:53",
+      "album": {
+        "name": "Creepers",
+        "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 111020,
+      "name": "Creepers",
+      "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
     },
     {
       "added_at": "2022-09-23 04:00:00",

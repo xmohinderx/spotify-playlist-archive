@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,475 likes - 50 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,510 likes - 50 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 30 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
 | 31 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
 | 32 | [100 Zulu Warriors](https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
-| 33 | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS) | 8:14 |
-| 34 | [Africa Shine](https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:26 |
+| 33 | [Africa Shine](https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:26 |
+| 34 | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS) | 8:14 |
 | 35 | [Mama](https://open.spotify.com/track/5WRoeCefMDsxn9zrsqUqhK) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Ringo](https://open.spotify.com/artist/6xHg59yun1sZwFZ9L3jpXn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:16 |
 | 36 | [You Turn Me On](https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:13 |
 | 37 | [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Crazy](https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH) | 7:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [Angelina](https://open.spotify.com/track/3MNzsampqsFhB87Mr0DuLI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 8:06 |
 | 50 | [Inkodlo Kamashimane](https://open.spotify.com/track/5hI4ehQIIuPZWSjjXu61JW) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 9:12 |
 
-Snapshot ID: `Mjc4MjQ1ODAsMDAwMDAwMDAwYmJmNDNkNGIyZDAyY2NmNTQ5OGE1MTEyYTFkNDBlMg==`
+Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDA2MzhkNjgwOGRjNDQ5N2UyYjhkM2I3YmRiNGNhOTc3Ng==`

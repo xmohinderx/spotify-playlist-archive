@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,901 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,266 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 30 | [With You \- Edit](https://open.spotify.com/track/0TJ2TCxM2bZSvorERc211K) | [Noemi Black](https://open.spotify.com/artist/7aduJdjVqq0HB0NKxxLewT) | [With You](https://open.spotify.com/album/12hjUaYiyK6xe4oz2lllu5) | 3:28 |
 | 31 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 |
 | 32 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
-| 33 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 |
-| 34 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
+| 33 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
+| 34 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 |
 | 35 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 |
 | 36 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
 | 37 | [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 42 | [In Trance](https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [In Trance](https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7) | 5:57 |
 | 43 | [Sex and the Machine](https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Sex and the Machine](https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe) | 4:00 |
 | 44 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 |
-| 45 | [Control \- Original Mix](https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Control](https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF) | 6:27 |
-| 46 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
+| 45 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
+| 46 | [Control \- Original Mix](https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Control](https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF) | 6:27 |
 | 47 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
-| 48 | [Little Hero](https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Little Hero](https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H) | 6:30 |
-| 49 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
+| 48 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
+| 49 | [Little Hero](https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Little Hero](https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H) | 6:30 |
 | 50 | [1981](https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [1981](https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ) | 6:11 |
 
-Snapshot ID: `MTY2OTM4NzIzMywwMDAwMDAwMGJlYjFhNGQzM2JhNDUwZTJjMzA5NzgxMmNiZGJiYjBm`
+Snapshot ID: `MTY2OTM4NzIzMywwMDAwMDAwMDRjZDE1OWNlY2ZjMGYxYmU0OGZiNzYzZDAwZTgzN2U5`

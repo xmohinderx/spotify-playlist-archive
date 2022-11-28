@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ\">Pheelz</a>",
-  "num_followers": 556327,
+  "num_followers": 556449,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGJhNTY1ZjA2MmU2NjU1ODdiNjUxYTkyMjYxNDJlNTE4",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDYxYmQ2MDU4NTc0Nzg5MGFlMmIyMTA3OWExYmI2MDdj",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Come Over (Remix)",
+        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 145652,
+      "name": "Come Over (Remix)",
+      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 196146,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Come Over (Remix)",
-        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 145652,
-      "name": "Come Over (Remix)",
-      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Joro",
+        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Joro",
+      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -747,38 +763,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 180563,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Joro",
-        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Joro",
-      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
+      "duration_ms": 205640,
+      "name": "Play Play (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -803,22 +803,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 205640,
-      "name": "Play Play (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+      "duration_ms": 180563,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Dimension (feat. Skepta & Rema)",
         "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 234026,
       "name": "Dimension (feat. Skepta & Rema)",
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Big Thug Boys",
-        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
-      },
-      "artists": [
-        {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Big Thug Boys",
-      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Big Thug Boys",
+        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
+      },
+      "artists": [
+        {
+          "name": "AV",
+          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Big Thug Boys",
+      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "What Have We Done",
+        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 175215,
+      "name": "Godly",
+      "url": "https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0vNvd6GC6cy7BKyP2dqPZY"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 194000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4aMtac1abQZDOliAZpbIJF"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "What Have We Done",
-        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 175215,
-      "name": "Godly",
-      "url": "https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX"
     },
     {
       "added_at": "2022-08-19 04:01:00",

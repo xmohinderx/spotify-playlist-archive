@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 121706,
+  "num_followers": 121744,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMDAyZjBiODRjNGVhYWQxNTIyZmVkNzVkMzA1MjMxMjMy",
+  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGIzZTY5NzVkMWFhNjM5N2M4MTU0MTVjMTk5OWE4MWQz",
   "tracks": [
     {
       "added_at": "2022-11-24 23:01:00",
@@ -151,26 +151,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "I'll Be Okay",
-        "url": "https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex"
-      },
-      "artists": [
-        {
-          "name": "Kasket Club",
-          "url": "https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy"
-        },
-        {
-          "name": "Soul Gem",
-          "url": "https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB"
-        }
-      ],
-      "duration_ms": 196932,
-      "name": "I'll Be Okay",
-      "url": "https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex"
+      },
+      "artists": [
+        {
+          "name": "Kasket Club",
+          "url": "https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy"
+        },
+        {
+          "name": "Soul Gem",
+          "url": "https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB"
+        }
+      ],
+      "duration_ms": 196932,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "Desire Lines",
+        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
+      },
+      "artists": [
+        {
+          "name": "Meanderthals",
+          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Andromeda (Prelude to the Future)",
+      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "Tyrkisk Pepper",
         "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
       },
@@ -451,34 +467,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Desire Lines",
-        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
+        "name": "Vegvisir (Nils Olav Remix)",
+        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
       },
       "artists": [
         {
-          "name": "Meanderthals",
-          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Andromeda (Prelude to the Future)",
-      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Be A Man You Ant",
-        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
-      },
-      "artists": [
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
         {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
+          "name": "Nils Olav",
+          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
         }
       ],
-      "duration_ms": 384055,
-      "name": "Be A Man You Ant - Original Mix",
-      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
+      "duration_ms": 372838,
+      "name": "Vegvisir (Nils Olav Remix)",
+      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -499,22 +503,18 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Vegvisir (Nils Olav Remix)",
-        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
+        "name": "Be A Man You Ant",
+        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
       },
       "artists": [
         {
-          "name": "Helene B\u00f8ksle",
-          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
-        },
-        {
-          "name": "Nils Olav",
-          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
         }
       ],
-      "duration_ms": 372838,
-      "name": "Vegvisir (Nils Olav Remix)",
-      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
+      "duration_ms": 384055,
+      "name": "Be A Man You Ant - Original Mix",
+      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
     },
     {
       "added_at": "2022-11-24 23:01:00",

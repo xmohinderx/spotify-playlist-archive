@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 
 > Lull your little ones with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,368 likes - 301 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,454 likes - 301 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 11 | [Hush Little Baby](https://open.spotify.com/track/2biFygmxMUsxlbIYrGVOkC) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 2:10 |
 | 12 | [If I Were an Astronaut](https://open.spotify.com/track/2Ygx4161pwI6xWkd3zu6HV) | [Dana McGowen](https://open.spotify.com/artist/4VsnumFuiW1YdUCHgENYUB) | [If I Were an Astronaut](https://open.spotify.com/album/2SyqxeyjjTR0k4j1riNTwA) | 1:21 |
 | 13 | [By The Cradle](https://open.spotify.com/track/6FxRsfSfCoqHXAON2nulL1) | [Sanne Botner](https://open.spotify.com/artist/25V7uZKxpWTpnu4Y5ETyvP) | [By The Cradle](https://open.spotify.com/album/2hqhEduOMzfIQ0AbcsueB6) | 1:31 |
-| 14 | [Rock\-a\-bye Baby](https://open.spotify.com/track/5lGbPQlAf985dbQwKs3SeU) | [Adam Hart](https://open.spotify.com/artist/5Mr8xziVDmK7tlPoj22Cje) | [Rock\-a\-bye Baby](https://open.spotify.com/album/4rXiFqL4A7D2N49RvYeJnb) | 1:50 |
+| 14 | [Rock\-a\-bye Baby](https://open.spotify.com/track/5lGbPQlAf985dbQwKs3SeU) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [Rock\-a\-bye Baby](https://open.spotify.com/album/4rXiFqL4A7D2N49RvYeJnb) | 1:50 |
 | 15 | [The Sky is Smiling](https://open.spotify.com/track/1ufUQRuEPV4m0c4eWeKsOc) | [Norton Lamb](https://open.spotify.com/artist/6utcrNkoGuFBgRTGffKOSr) | [The Sky is Smiling](https://open.spotify.com/album/1zdFJYcJDloOSwS6jFFude) | 1:16 |
 | 16 | [Hannah My Nana](https://open.spotify.com/track/1sDjxNFyypPdv3SuHb8tSB) | [Martina Beasley](https://open.spotify.com/artist/6iOLm48O5U4bvtK6igOuqK) | [Hannah My Nana](https://open.spotify.com/album/4mfBTTRG4J79mxLmEnHhc7) | 1:33 |
 | 17 | [All Stars Twinkle](https://open.spotify.com/track/4Inc8AkgrMinJkUTwgR8JX) | [Alaya Ward](https://open.spotify.com/artist/4h7IuYRvJqFq5fMU0HuxqS) | [All Stars Twinkle](https://open.spotify.com/album/7oWhaXNUhB3xiTGeJCLUhj) | 1:33 |

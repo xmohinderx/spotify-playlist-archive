@@ -4,7 +4,7 @@
 
 > Solo hit rap da riascoltare in loop\. Cover: Marracash
 
-173 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/6hONOx8JhMvxTKwVXd1ds8)
+174 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6hONOx8JhMvxTKwVXd1ds8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Brivido](https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 3:47 | 2022-04-28 | 2022-07-29 |
 | [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s) | 3:28 | 2022-04-28 | 2022-07-29 |
 | [Ca$hmere](https://open.spotify.com/track/5qllPTmhbWY72bCzuNqBbK) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria \(Voodoo Edition\)](https://open.spotify.com/album/2c3Hl7Ahb1plOJEBhLZImS) | 3:39 | 2022-04-28 | 2022-07-29 |
-| [CABRIOLET \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7wC76LWyNxaP3hjGzbWOcN) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:05 | 2022-04-28 |  |
+| [CABRIOLET \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7wC76LWyNxaP3hjGzbWOcN) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:05 | 2022-04-28 | 2022-11-28 |
 | [Cambiare Adesso](https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0) | [Trap Lovers](https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW) | 3:48 | 2022-07-27 |  |
 | [Cambiare Adesso](https://open.spotify.com/track/01MJgnPL3AuwmYQ4EbHzD7) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0) | [Trap Lovers](https://open.spotify.com/album/79GqGQcrXgeKpWuMSz6rl6) | 3:48 | 2022-04-28 | 2022-07-29 |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-08-10 |  |
@@ -122,6 +122,7 @@
 | [Peace & Love](https://open.spotify.com/track/4BGmYEDOK1swwoxTtfmVZD) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Peace & Love](https://open.spotify.com/album/4ihfUwVpF3lTKlC8kJh6nQ) | 3:02 | 2022-06-13 |  |
 | [Pensando a lei](https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 2:56 | 2022-09-07 |  |
 | [Pensando a lei](https://open.spotify.com/track/48xCJ298GWpAtejk8uzBOr) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:56 | 2022-08-10 | 2022-08-30 |
+| [PERDONAMI](https://open.spotify.com/track/4Yr7z1MFiI2D3QnldF107i) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 2:14 | 2022-10-07 |  |
 | [Phi](https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 2:54 | 2022-08-10 |  |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-08-10 |  |
 | [Pleasantville](https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Suicidol](https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6) | 5:49 | 2022-07-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,024 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,025 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 27 | [Do The Most](https://open.spotify.com/track/7n0lXKEOaFxrAU0R93fIQh) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:24 |
 | 28 | [Cold Feet](https://open.spotify.com/track/08zt4rqVjqahvXaWAuEBbP) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:01 |
 | 29 | [Never Let Me Down](https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ) | 2:33 |
-| 30 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
-| 31 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
+| 30 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
+| 31 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 32 | [Forever](https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Forever](https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o) | 2:49 |
 | 33 | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/album/7apwmztwcRn7DpWVx69VDr) | 3:12 |
 | 34 | [Detroit 3 AM \- Radio Edit](https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Detroit 3 AM \(Radio Edit\)](https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI) | 3:08 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 68 | [Barquette](https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 2:32 |
 | 69 | [Miroir](https://open.spotify.com/track/0Eolm1QSRMxzaVS3w8JxW1) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Miroir](https://open.spotify.com/album/2P8kIb8QyEW46PLCGbhFgS) | 3:19 |
 | 70 | [Bientôt](https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [maison](https://open.spotify.com/album/2fzWviAbjksegQijmpa433) | 3:08 |
-| 71 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
-| 72 | [Mandown](https://open.spotify.com/track/132YTq9H9lyKo0swHhAnqI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Mandown](https://open.spotify.com/album/31h7LmPhUb1QiZWdB6RBVt) | 3:04 |
+| 71 | [Mandown](https://open.spotify.com/track/132YTq9H9lyKo0swHhAnqI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Mandown](https://open.spotify.com/album/31h7LmPhUb1QiZWdB6RBVt) | 3:04 |
+| 72 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
 | 73 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 74 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 | 75 | [Sous les rivières](https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Le tournant \(Deluxe\)](https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW) | 3:38 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDk3OTFmYWY1MDMzMGFhZjkzYjgzMjFhMTc1YzAzNzEw`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGI1ZGYzOWJmOTM5OWY5NDhlNjBkYjc0NTE1MTAwMGFj`

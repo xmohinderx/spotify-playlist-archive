@@ -746,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion (Super Deluxe)",
+        "url": "https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Wild Horses - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
+      "url": "https://open.spotify.com/track/6duHxAfKPYnrvkjVBcBklR"
+    },
+    {
+      "album": {
         "name": "Use Your Illusion II",
         "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },

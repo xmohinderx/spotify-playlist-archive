@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-126 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/25GUqW5JgOJRI76d5fMAD3)
+127 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/25GUqW5JgOJRI76d5fMAD3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Call Me Maybe \(Bossa Nova Version\) \[Originally Performed By Carly Rae Jepsen\]](https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:48 | 2022-03-10 |  |
 | [Capital Letters \- Bossa Nova](https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Capital Letters \(Bossa Nova\)](https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski) | 3:45 | 2022-03-10 |  |
 | [Careless Whisper](https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:53 | 2022-03-10 | 2022-07-02 |
-| [Castaways](https://open.spotify.com/track/04x0vyXqzanCAsbLlZnOPS) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Jasmine Siregar](https://open.spotify.com/artist/7JkPqLbhxxrKHZQSEibjPp) | [Dream a Little Dream](https://open.spotify.com/album/72q59EoIbz2oqXBAmM8eB7) | 1:50 | 2022-07-26 |  |
+| [Castaways](https://open.spotify.com/track/04x0vyXqzanCAsbLlZnOPS) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Jasmine Siregar](https://open.spotify.com/artist/7JkPqLbhxxrKHZQSEibjPp) | [Dream a Little Dream](https://open.spotify.com/album/72q59EoIbz2oqXBAmM8eB7) | 1:50 | 2022-07-26 | 2022-11-28 |
 | [Castaways](https://open.spotify.com/track/1qedHp4xNYTfzMOXEDiywd) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Jasmine Siregar](https://open.spotify.com/artist/0AOY0rfbQTOZGVpiDHy1z1) | [Dream a Little Dream](https://open.spotify.com/album/72FXxOUPazgYQTXh6e1eK5) | 1:50 | 2022-03-10 | 2022-07-29 |
+| [Castaways](https://open.spotify.com/track/7eqmcFd2Rjztz9LSUwr4Eg) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Jasmine Siregar](https://open.spotify.com/artist/7JkPqLbhxxrKHZQSEibjPp) | [Dream a Little Dream](https://open.spotify.com/album/5rI1Za4mw6vDz0jbS23MwF) | 1:50 | 2022-09-30 |  |
 | [Chega de Saudade](https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN) | [Luiz Murá](https://open.spotify.com/artist/5os4puXkeFYMsBpyN55oHQ), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Chega de Saudade](https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b) | 4:06 | 2022-09-30 |  |
 | [China](https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [China](https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6) | 2:48 | 2022-03-10 |  |
 | [Copacabana](https://open.spotify.com/track/3BesLoexResI1Q0EkWzZz6) | [Assunção Bossa](https://open.spotify.com/artist/4ix6MOO9gLIwpXR7XbPgr8) | [Copacabana](https://open.spotify.com/album/2a8MPHa5mLaoU2KHssu18f) | 4:59 | 2022-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,033 likes - 114 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,055 likes - 114 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

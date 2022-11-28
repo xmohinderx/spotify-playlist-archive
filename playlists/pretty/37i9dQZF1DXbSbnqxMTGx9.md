@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,711,167 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,711,526 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 88 | [One Love](https://open.spotify.com/track/2GaIku5Q5PRguR8OdpHJXD) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:20 |
 | 89 | [Not Satisfied](https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:11 |
 | 90 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
-| 91 | [Here Comes The Hotstepper \- Heartical Mix](https://open.spotify.com/track/3DWS2ZgcoQgfFm7uEnzYMI) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/4xylgI6zPzJlHY8iZXAeK9) | 4:10 |
+| 91 | [Here Comes the Hotstepper](https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:07 |
 | 92 | [Sunshine Reggae](https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:17 |
 | 93 | [Sweet Jamaica](https://open.spotify.com/track/2WoKCEasaj7751MbvYeEcx) | [Tony Rebel](https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:45 |
 | 94 | [Graveyard Rock](https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b) | [Garland Jeffreys](https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:35 |
 | 95 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 2:41 |
 | 96 | [Te Ves Buena](https://open.spotify.com/track/11hTfTUePHgMu4VpaNZ3Ir) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:02 |
-| 97 | [Strong Me Strong](https://open.spotify.com/track/0fiF1vXtD1sAB0JZFLkYtX) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [King Yellowman](https://open.spotify.com/album/0FSlfd7DXMtjq5L6EGDg0T) | 3:48 |
+| 97 | [Strong Me Strong](https://open.spotify.com/track/4xJqi0uHh629XvW7WlKRxZ) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:48 |
 | 98 | [Mr\. Loverman \(feat\. Chevelle Franklin\)](https://open.spotify.com/track/2rbhnnqBoizShumb5Ul8oR) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Chevelle Franklin](https://open.spotify.com/artist/1owFk9HCCiomrmEt6k9cqC) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:38 |
-| 99 | [My Way or the Highway \(feat\. Diana King\)](https://open.spotify.com/track/2UO79r9d7079zI4U9yq90j) | [Tony Rebel](https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E), [Diana King](https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1) | [Playlist: King Of Kings \- Reggae Hits](https://open.spotify.com/album/70bFnIr0UOb0QA2Ncz8WxO) | 4:55 |
+| 99 | [My Way or the Highway \(feat\. Diana King\)](https://open.spotify.com/track/4B6mG7n0BxvasblplYkgV5) | [Tony Rebel](https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E), [Diana King](https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:55 |
 | 100 | [True To Myself](https://open.spotify.com/track/0sgx4UjoIrLB8rFURf3tIr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:45 |
 | 101 | [Last War](https://open.spotify.com/track/3CATV9Xarrz4sK5Audiq6r) | [Beres Hammond & Zap Pow](https://open.spotify.com/artist/0o9mP6OaZCcKVfkhXi54KL) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:00 |
 | 102 | [Far East](https://open.spotify.com/track/1S0ByRYztydxw1l4FEv0H4) | [Barry Brown](https://open.spotify.com/artist/4RLadJjrl8Ygnmg4HoWH8v) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:57 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:45 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMGVmZGE0YjhhZjU3YjUwZmI2YzZmZjgzNDgyYWIxMDY0`
+Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMDVhMjZhYTk0MzI4N2Y2ZWZjZmJjNGJmMjI4ZWYwOThh`

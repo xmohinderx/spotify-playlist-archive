@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 16008,
+  "num_followers": 16012,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMzAzMiwwMDAwMDAwMDk3NGMxOGMzNTNmNzg3NjA2YzEyMzg0NzJiZGQ3Mjhl",
+  "snapshot_id": "MTY2ODIwMzAzMiwwMDAwMDAwMGY1ZmQxMGEzMWI0MTVhY2RlZDVlZmRhNjMwM2FhZTk0",
   "tracks": [
     {
       "added_at": "2022-11-11 21:43:52",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Llega llega llega",
-        "url": "https://open.spotify.com/album/4lH8Eq18PK6DufmL7BK3k1"
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Llega llega llega",
-      "url": "https://open.spotify.com/track/2lOCxL2Z9fNjKD9FsOi3sS"
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+        "name": "Llega llega llega",
+        "url": "https://open.spotify.com/album/4lH8Eq18PK6DufmL7BK3k1"
       },
       "artists": [
         {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+      "duration_ms": 220000,
+      "name": "Llega llega llega",
+      "url": "https://open.spotify.com/track/2lOCxL2Z9fNjKD9FsOi3sS"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
+        "name": "Bestia Beb\u00e9",
+        "url": "https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb"
       },
       "artists": [
         {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
         }
       ],
-      "duration_ms": 213898,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
+      "duration_ms": 239026,
+      "name": "Lo Quiero Mucho a Ese Muchacho",
+      "url": "https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Bestia Beb\u00e9",
-        "url": "https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb"
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
       },
       "artists": [
         {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 239026,
-      "name": "Lo Quiero Mucho a Ese Muchacho",
-      "url": "https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw"
+      "duration_ms": 213898,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
         }
       ],
-      "duration_ms": 208822,
-      "name": "AMORA",
-      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
       "artists": [
         {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+      "duration_ms": 208822,
+      "name": "AMORA",
+      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1111,26 +1111,6 @@
       "duration_ms": 250517,
       "name": "800 Vueltas Envolventes",
       "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Sin Condiciones",
-        "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        },
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 230725,
-      "name": "Sin Condiciones",
-      "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1155,18 +1135,38 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd"
+        "name": "Sin Condiciones",
+        "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
       },
       "artists": [
         {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        },
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 198920,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
+      "duration_ms": 230725,
+      "name": "Sin Condiciones",
+      "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Jungla de Metal 2",
+        "url": "https://open.spotify.com/album/5rhIm1StffJUTXTmpKuEOY"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Fiesta en el Barrio",
+      "url": "https://open.spotify.com/track/6M2RoXQsms5qijA92zlDLW"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Jungla de Metal 2",
-        "url": "https://open.spotify.com/album/5rhIm1StffJUTXTmpKuEOY"
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd"
       },
       "artists": [
         {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
         }
       ],
-      "duration_ms": 148093,
-      "name": "Fiesta en el Barrio",
-      "url": "https://open.spotify.com/track/6M2RoXQsms5qijA92zlDLW"
+      "duration_ms": 198920,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Gracias Por Nada",
+        "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Mora S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 225833,
+      "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
+      "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -1303,30 +1327,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Gracias Por Nada",
-        "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        },
-        {
-          "name": "Mora S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 225833,
-      "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
-      "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "De la Monarqu\u00eda a la Criptocracia",
         "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "no s\u00e9 qui\u00e9n soy",
-        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
-      },
-      "artists": [
-        {
-          "name": "K4",
-          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
-        }
-      ],
-      "duration_ms": 128047,
-      "name": "no s\u00e9 qui\u00e9n soy",
-      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Bronce",
         "url": "https://open.spotify.com/album/4IEK2cahs8y3gr2lKWz2pU"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 127676,
       "name": "Cara de Mapa",
       "url": "https://open.spotify.com/track/3ooLJyyIaxgdy9w7seHCBk"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "no s\u00e9 qui\u00e9n soy",
+        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
+      },
+      "artists": [
+        {
+          "name": "K4",
+          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
+        }
+      ],
+      "duration_ms": 128047,
+      "name": "no s\u00e9 qui\u00e9n soy",
+      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "No Es Culpa del Fr\u00edo",
-        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
-      },
-      "artists": [
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 225001,
-      "name": "No Es Culpa del Fr\u00edo",
-      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Recopilatorio",
         "url": "https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 186013,
       "name": "Cu\u00e1ntas Veces",
       "url": "https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Este Debe Ser el Lugar",
+        "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Este Debe Ser el Lugar",
+      "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1567,34 +1567,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Este Debe Ser el Lugar",
-        "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
+        "name": "No Es Culpa del Fr\u00edo",
+        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
       },
       "artists": [
         {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Este Debe Ser el Lugar",
-      "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Huele amarillo",
-        "url": "https://open.spotify.com/album/4XH65quBLvAln0tbp265qx"
-      },
-      "artists": [
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 274498,
-      "name": "Huele amarillo",
-      "url": "https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq"
+      "duration_ms": 225001,
+      "name": "No Es Culpa del Fr\u00edo",
+      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Huele amarillo",
+        "url": "https://open.spotify.com/album/4XH65quBLvAln0tbp265qx"
+      },
+      "artists": [
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "duration_ms": 274498,
+      "name": "Huele amarillo",
+      "url": "https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "El Ataque Suave",
         "url": "https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201947,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Tranki Town",
         "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201947,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
     }
   ],
   "unique_name": "6PM Indie",

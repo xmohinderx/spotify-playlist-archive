@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,214 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,370 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 34 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
 | 35 | [Sainted Millions](https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 3:35 |
 | 36 | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/album/3OFS3PgFrKOz3cKfQ4S8Vx) | 4:13 |
-| 37 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 |
-| 38 | [Paint the Town Red](https://open.spotify.com/track/7tPW4cLySo5f6WCVUxYvC4) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Rise Again](https://open.spotify.com/album/03Anfa0odGVDlS8ol83RO9) | 3:24 |
+| 37 | [Paint the Town Red](https://open.spotify.com/track/7tPW4cLySo5f6WCVUxYvC4) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Rise Again](https://open.spotify.com/album/03Anfa0odGVDlS8ol83RO9) | 3:24 |
+| 38 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 |
 | 39 | [The Secret Set \(Drowsy Maggie / The Star of Munster\)](https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0) | [Saint Bushmill's Choir](https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo) | [The Very Best of Saint Bushmill's Choir](https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I) | 3:03 |
 | 40 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
 | 41 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 45 | [Bullhead](https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 2:39 |
 | 46 | [Celtic Storm \(2010\)](https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ) | [The Mighty Regis](https://open.spotify.com/artist/7ocwcmrX2Fhj5TW4q1BjWp) | [21](https://open.spotify.com/album/7wuhI5WnPheOTenvXEGxy9) | 3:16 |
 | 47 | [Middle Finger](https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 2:35 |
-| 48 | [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 |
-| 49 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
-| 50 | [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 |
+| 48 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
+| 49 | [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 |
+| 50 | [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 |
 
-Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMDllMTcyMjZiZDg2OWM0MWIzYzYxOGU4OTE3NzBkZmQ0`
+Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMDc0NjcyYWJhMWEzY2Y1NGQ3NDNkMDE0M2YyNjI0NWZi`

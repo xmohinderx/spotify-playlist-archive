@@ -1,15 +1,15 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 124234,
+  "num_followers": 124320,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDkyZGE4ODliOTgyNTI1NDNlODJlNTk3NTBjNTBmMzZj",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMGNjYjNjNWUxYjgyMjE4NDE0NjNiN2NjYjk1MGQ0MWY1",
   "tracks": [
     {
-      "added_at": "2022-11-27 01:06:31",
+      "added_at": "2022-11-28 01:01:08",
       "album": {
         "name": "I Know You",
         "url": "https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs"
     },
     {
-      "added_at": "2022-11-27 01:06:31",
+      "added_at": "2022-11-28 01:01:08",
       "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq"
     },
     {
-      "added_at": "2022-11-27 01:06:31",
+      "added_at": "2022-11-28 01:01:08",
       "album": {
         "name": "Maybe, It's Possible",
         "url": "https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5"
@@ -161,27 +161,7 @@
       "url": "https://open.spotify.com/track/4d2Gndzn9dnmUC8jIzI9d4"
     },
     {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 246944,
-      "name": "Dance with My Ghost (feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
-    },
-    {
-      "added_at": "2022-11-27 01:06:31",
+      "added_at": "2022-11-28 01:01:08",
       "album": {
         "name": "Tibet",
         "url": "https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK"
@@ -203,6 +183,26 @@
       "duration_ms": 403676,
       "name": "Tibet",
       "url": "https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 246944,
+      "name": "Dance with My Ghost (feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
-      "added_at": "2022-11-27 01:06:31",
+      "added_at": "2022-11-28 01:01:08",
       "album": {
         "name": "Came Here For Love EP",
         "url": "https://open.spotify.com/album/5nPnubdJCVf8E6vxcbEFOi"
@@ -531,6 +531,26 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Lose Your Head (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Lose Your Head - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Sint Maarten",
         "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
@@ -569,24 +589,20 @@
       "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
     },
     {
-      "added_at": "2022-01-14 10:50:05",
+      "added_at": "2022-11-28 01:01:08",
       "album": {
-        "name": "Lose Your Head (CamelPhat Remix)",
-        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Lose Your Head - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -603,22 +619,6 @@
       "duration_ms": 220493,
       "name": "Clear",
       "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
-    },
-    {
-      "added_at": "2022-11-27 01:06:31",
-      "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
-        }
-      ],
-      "duration_ms": 249677,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 372906,
       "name": "Vanishing",
       "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "duration_ms": 249677,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -851,30 +851,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Brightest Lights Remixed",
-        "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Kauf",
-          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 295597,
-      "name": "How Often - Ben B\u00f6hmer Remix",
-      "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "I Saw Good",
         "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
       },
@@ -907,22 +883,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Shimmer",
-        "url": "https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev"
-      },
-      "artists": [
-        {
-          "name": "Kyau & Albert",
-          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg"
       },
@@ -939,6 +899,46 @@
       "duration_ms": 190084,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Brightest Lights Remixed",
+        "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 295597,
+      "name": "How Often - Ben B\u00f6hmer Remix",
+      "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev"
+      },
+      "artists": [
+        {
+          "name": "Kyau & Albert",
+          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR"
     },
     {
       "added_at": "2022-01-14 10:50:05",

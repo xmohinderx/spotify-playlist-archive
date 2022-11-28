@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marion Raw.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,820 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,843 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,24 +54,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 44 | [Excursiones](https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:14 |
 | 45 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
 | 46 | [Lobo](https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg) | 3:28 |
-| 47 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
-| 48 | [Ser Humano](https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm) | [Natalia y La Forquetina](https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 3:30 |
+| 47 | [Ser Humano](https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm) | [Natalia y La Forquetina](https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 3:30 |
+| 48 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
 | 49 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 |
 | 50 | [Ando Buscando](https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Ando Buscando](https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE) | 3:13 |
 | 51 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 |
-| 52 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 |
-| 53 | [Palo de Amansar](https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Ojos que ladran](https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT) | 3:12 |
+| 52 | [Palo de Amansar](https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Ojos que ladran](https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT) | 3:12 |
+| 53 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 |
 | 54 | [Líneas En Hojas](https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [De Facto](https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9) | 3:29 |
 | 55 | [MANIQUÍ](https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 4:07 |
 | 56 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
 | 57 | [Estoy Tocando Fondo](https://open.spotify.com/track/4cxq32CeMok10ICwlQwRx8) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Viuda e Hijas de Roque Enroll](https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9) | 2:16 |
-| 58 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 |
-| 59 | [Feliz en Mi Soledad](https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Raices de Pasión](https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5) | 2:07 |
-| 60 | [Azul Casi Morado](https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [15 Años de Exitos](https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6) | 4:17 |
+| 58 | [Feliz en Mi Soledad](https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Raices de Pasión](https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5) | 2:07 |
+| 59 | [Azul Casi Morado](https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [15 Años de Exitos](https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6) | 4:17 |
+| 60 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 |
 | 61 | [Perfume](https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K) | [Maria Gabriela Epumer](https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ) | [Perfume](https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC) | 4:51 |
 | 62 | [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 |
-| 63 | [Somos aire](https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o trato](https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7) | 3:31 |
-| 64 | [Ojos En El Carro](https://open.spotify.com/track/5vSdXnvrAuaz8jIRv9zsPY) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Pasar de las Luces](https://open.spotify.com/album/0YOlpbeUweZWajP4nUcFAm) | 5:28 |
+| 63 | [Ojos En El Carro](https://open.spotify.com/track/5vSdXnvrAuaz8jIRv9zsPY) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Pasar de las Luces](https://open.spotify.com/album/0YOlpbeUweZWajP4nUcFAm) | 5:28 |
+| 64 | [Somos aire](https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o trato](https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7) | 3:31 |
 | 65 | [Todo Se Está Cayendo](https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/7ncc7rL0uXgBkf9vXNCSB1) | 4:15 |
 | 66 | [Directa](https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Gracias por Cuidar el Equipo](https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY) | 3:47 |
 | 67 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 95 | [Tengo Ganas](https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Tengo Ganas](https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI) | 4:00 |
 | 96 | [Sugar Beat](https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Friends And Lovers](https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf) | 4:12 |
 | 97 | [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 |
-| 98 | [No Se Va](https://open.spotify.com/track/40Y5HOWo4FsOYQITh36Vnj) | [Romina Peluffo](https://open.spotify.com/artist/002eNGtf6Rd05jJbriqoMS) | [Piel Fina](https://open.spotify.com/album/4W3lgXzDMNcHBi5ZS4QxYY) | 2:22 |
-| 99 | [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 |
+| 98 | [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 |
+| 99 | [No Se Va](https://open.spotify.com/track/40Y5HOWo4FsOYQITh36Vnj) | [Romina Peluffo](https://open.spotify.com/artist/002eNGtf6Rd05jJbriqoMS) | [Piel Fina](https://open.spotify.com/album/4W3lgXzDMNcHBi5ZS4QxYY) | 2:22 |
 | 100 | [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 |
 
-Snapshot ID: `MTY2ODIwMzEwMCwwMDAwMDAwMDdiZmU2MTdiMzkzZTJjMWU0MDdiOGY1M2VjMmUyMzhl`
+Snapshot ID: `MTY2ODIwMzEwMCwwMDAwMDAwMDI3OGE0NzljMWIxM2VmYTI4MGFjY2NiODZiMDZmMjY3`

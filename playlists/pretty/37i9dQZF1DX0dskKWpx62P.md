@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,166 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,206 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 3 | [Niñachay](https://open.spotify.com/track/3kpTxzF6Uas4qZuX5ou4hD) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Desde el estudio](https://open.spotify.com/album/3rLAWBembrdnSdDK8QaGRN) | 5:22 |
 | 4 | [Tu Recuerdo](https://open.spotify.com/track/1xF8kpo2MmbMT7cEBWGUMB) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Ocobambamantapacha](https://open.spotify.com/album/1nKYkopIMUO1ElmDHY7eaK) | 4:26 |
 | 5 | [Falso Juramento \(feat\. Mac Salvador\)](https://open.spotify.com/track/09ooFAZPkqMmXrON2wmdWk) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr), [Mac Salvador](https://open.spotify.com/artist/1qiPLYO5rrmTOtxSnYeqZX) | [Max Castro y la Gran Banda](https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv) | 5:13 |
-| 6 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
+| 6 | [Cajamarquina](https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvidame](https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ) | 4:25 |
 | 7 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/5SnatgsCSbX8tQ3WVX9Rhe) | [The Strings Of The Inkas](https://open.spotify.com/artist/5IvgHIvVVCT77omikIYE9O) | [Serie Maravillas: Cuerdas & Vientos Sagrados, Vol\. 1](https://open.spotify.com/album/0orBMvdv3crXTHj2DS4rAp) | 2:59 |
-| 8 | [Cajamarquina](https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvidame](https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ) | 4:25 |
+| 8 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
 | 9 | [No Quiero Más Esta Vida](https://open.spotify.com/track/7nMvYV2DHRy2FhtXmNsAl0) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:17 |
 | 10 | [Mentiras](https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv) | [Yarita Lizeth Yanarico](https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y) | [La Chinita del Amor](https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5) | 5:53 |
 | 11 | [Olvidame](https://open.spotify.com/track/0vEBYwEwOYVq1tPqB2Qohf) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvidame](https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ) | 4:30 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 52 | [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 |
 | 53 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 |
 | 54 | [Dejame Asi](https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z) | [Luis Mendoza](https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2) | [Calaveras Serranas](https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2) | 2:51 |
-| 55 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
-| 56 | [Amor Verdadero](https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV) | [Damaris](https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod), [Raices de Jauja](https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9) | [Tú Puedes Volar](https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw) | 4:10 |
+| 55 | [Amor Verdadero](https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV) | [Damaris](https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod), [Raices de Jauja](https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9) | [Tú Puedes Volar](https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw) | 4:10 |
+| 56 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
 | 57 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 |
 | 58 | [Tomando Cerveza](https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 3:00 |
 | 59 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 60 | [Quisiera Olvidarte](https://open.spotify.com/track/6fjbD1QYBlkSTQrwbIMvFE) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Huayno Music of Peru, Vol\. 1](https://open.spotify.com/album/6BmF9UOYhJPnn4QqWscWfs) | 2:33 |
 
-Snapshot ID: `MTY0Mzk4NTk1NywwMDAwMDAwMGIzYTNlMGQ0Y2U1NTlkYzhjOTFlYTliNDA1OGM0Nzll`
+Snapshot ID: `MTY0Mzk4NTk1NywwMDAwMDAwMDY1ZmEwYTk3NTExNTFhZjk5YTgxZjk2YWJlMmVmMmU4`

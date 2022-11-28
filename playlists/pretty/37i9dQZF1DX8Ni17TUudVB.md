@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,814 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,839 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 75 | [Check This Out](https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Check This Out](https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz) | 2:31 |
 | 76 | [Death Rail](https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8) | 2:31 |
 | 77 | [River](https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [River](https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl) | 3:20 |
-| 78 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 |
-| 79 | [Bang](https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL) | [Bang](https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8) | 2:56 |
+| 78 | [Bang](https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL) | [Bang](https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8) | 2:56 |
+| 79 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 |
 | 80 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 |
 | 81 | [Roses \- \(Imanbek Remix\) \[Latino Gang\]](https://open.spotify.com/track/2JCOFv3vvv6HIfw7QOqpIz) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \[\(Imanbek Remix\) \[Latino Gang\]\]](https://open.spotify.com/album/6ccX7hrWPnlaBv1hYLok2u) | 3:28 |
 | 82 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 85 | [Dished \(Male Stripper\)](https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Dished \(Male Stripper\)](https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4) | 4:13 |
 | 86 | [So Fine](https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [So Fine](https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5) | 3:36 |
 | 87 | [Back to the Oldskool](https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Back to the Oldskool](https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz) | 2:24 |
-| 88 | [IM GONE](https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 4:45 |
+| 88 | [Dance Alone](https://open.spotify.com/track/2nwLHppShziXpR18WF5z9k) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Dance Alone](https://open.spotify.com/album/1e0e33Zz7JX1YSybY0KPv2) | 2:05 |
 | 89 | [El Bass](https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [El Bass](https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX) | 3:10 |
-| 90 | [Dance Alone](https://open.spotify.com/track/2nwLHppShziXpR18WF5z9k) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Dance Alone](https://open.spotify.com/album/1e0e33Zz7JX1YSybY0KPv2) | 2:05 |
+| 90 | [IM GONE](https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 4:45 |
 
-Snapshot ID: `MTY2NTU4OTM4NywwMDAwMDAwMDBhYzBlMGU5NjcwMjJjMDU0NzU4MWU4NDExNWVlYjAx`
+Snapshot ID: `MTY2NTU4OTM4NywwMDAwMDAwMDk3MzYxNGVlMDk5MzMyNzQyYjYwZDI3ZmQ2Y2YyMDE2`

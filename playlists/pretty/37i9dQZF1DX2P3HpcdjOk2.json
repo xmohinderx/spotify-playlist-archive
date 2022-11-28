@@ -1,12 +1,12 @@
 {
   "description": "The best of 70s Glam Rock. Cover: David Bowie.",
-  "num_followers": 50566,
+  "num_followers": 50716,
   "original_name": "Glam Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMDMwMDIyZmYzMWZiNDZhZjBlNDc1ODhjMjcwNmI1MGNl",
+  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMGViODg5MzUwNjFiZDA4MDU1YTI1OTQ3ZTk2MGFlMjdi",
   "tracks": [
     {
       "added_at": "2022-09-12 19:23:02",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-12 19:23:02",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Looking For A Kiss",
-      "url": "https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
         "name": "The Untouchable",
         "url": "https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 167000,
       "name": "My Coo Ca Choo",
       "url": "https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk"
+    },
+    {
+      "added_at": "2022-09-12 19:23:02",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Looking For A Kiss",
+      "url": "https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT"
     },
     {
       "added_at": "2022-09-12 19:23:02",

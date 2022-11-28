@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 2215,
+  "num_followers": 2259,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDgwOCwwMDAwMDAwMDQzYzg4OWVlNzZlMjQyN2U0N2EwOTY4NWU3OTNiMDVk",
+  "snapshot_id": "MTY2NDY0MDgwOCwwMDAwMDAwMGE4MDlmOGRlNTExMmIxZGU3OWQ4NjJkYTNlZjA2N2U3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:13:28",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -431,6 +431,26 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. Jay-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "The Neptunes Present... Clones",
-        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Frontin' (feat. Jay-Z) - Club Mix",
-      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "How You Gonna Act Like That",
-      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Ill Na Na",
         "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "I Wanna Go There",
+        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "How You Gonna Act Like That",
+      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
     },
     {
       "added_at": "2022-10-01 16:13:28",

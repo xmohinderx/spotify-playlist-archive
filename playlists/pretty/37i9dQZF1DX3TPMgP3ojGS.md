@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,107 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,390 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 47 | [To the Rain](https://open.spotify.com/track/025aQi6Ffw676y8m4zLPk7) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [To the Rain](https://open.spotify.com/album/30HSC1ogeWpwBZXroMTTDW) | 2:25 |
 | 48 | [La Paix Intérieure](https://open.spotify.com/track/7e9rtvEfKg3QkMkZrZtTnW) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [La Paix Intérieure](https://open.spotify.com/album/5HoExt3JRs5BfsuFyN4QDa) | 2:07 |
 | 49 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 |
-| 50 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 |
-| 51 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 |
+| 50 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 |
+| 51 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 |
 | 52 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 |
 | 53 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 |
 | 54 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 56 | [Fleurs de cerisier](https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [Fleurs de cerisier](https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS) | 2:40 |
 | 57 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 |
 | 58 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
-| 59 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 |
-| 60 | [Desenlace](https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Emociones](https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88) | 2:50 |
+| 59 | [Desenlace](https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Emociones](https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88) | 2:50 |
+| 60 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 |
 | 61 | [Waltz For Debby](https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Waltz For Debby](https://open.spotify.com/album/7CMIowC09m2WbLegNSGBB0) | 3:29 |
 | 62 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 |
 | 63 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 |
@@ -83,21 +83,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 73 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 |
 | 74 | [Longest days](https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Longest days](https://open.spotify.com/album/5jQDQGF85HaPrqvrVQBAMi) | 2:45 |
 | 75 | [Places](https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Places](https://open.spotify.com/album/1A8hQLxcKBLqsXXzqMIaKI) | 2:34 |
-| 76 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 |
-| 77 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 |
-| 78 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 |
-| 79 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 |
-| 80 | [Evenings](https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:52 |
-| 81 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
+| 76 | [Evenings](https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:52 |
+| 77 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 |
+| 78 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 |
+| 79 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 |
+| 80 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
+| 81 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 |
 | 82 | [Romance no 1 "Nordica"](https://open.spotify.com/track/5yWWqRGYKTfSoFTYKAnDlo) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Romance no 1 "Nordica"](https://open.spotify.com/album/4ax1MdqYOUcrhrYPlgPfA5) | 2:52 |
 | 83 | [Meraviglia](https://open.spotify.com/track/0BoqkSGAGK4hDsf4coC1IE) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Meraviglia](https://open.spotify.com/album/3VxVxOxr4KFHoEvG14mosa) | 1:51 |
 | 84 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 |
-| 85 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 |
-| 86 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 |
-| 87 | [Hope](https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Hope](https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD) | 2:53 |
-| 88 | [I'll Be There \(In Time\)](https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [I'll Be There \(In Time\)](https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO) | 2:59 |
-| 89 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 |
-| 90 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 |
+| 85 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 |
+| 86 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 |
+| 87 | [I'll Be There \(In Time\)](https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [I'll Be There \(In Time\)](https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO) | 2:59 |
+| 88 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 |
+| 89 | [Hope](https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Hope](https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD) | 2:53 |
+| 90 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 |
 | 91 | [Rester Dans Les Parages](https://open.spotify.com/track/3NqUYlQxTAWw3Mg3OaOwUE) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Rester Dans Les Parages](https://open.spotify.com/album/2sEefiUsuwEzMN8tXzxXVQ) | 2:28 |
 | 92 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 |
 | 93 | [Not a Number](https://open.spotify.com/track/4nncPBsmSPNNeZ2nbd0QR7) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Not a Number](https://open.spotify.com/album/3d0tZ74PLQQyArqWi96Pqw) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 |
 | 100 | [Ala](https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ala](https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa) | 2:00 |
 
-Snapshot ID: `MTY2ODQ5NzQ5OCwwMDAwMDAwMDkzZjYwMzgyNTliMmM4YzEzODk2YzkyODFjYTU0MTgy`
+Snapshot ID: `MTY2ODQ5NzQ5OCwwMDAwMDAwMDUzMDA3ZTJlMGI0Zjc5YTJlODkxNWU4ZWY1NmQxMTIy`

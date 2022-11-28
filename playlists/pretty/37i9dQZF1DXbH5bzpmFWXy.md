@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Tornillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,082 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,261 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 62 | [Me Acostumbre A Lo Bueno \(Remix\)](https://open.spotify.com/track/31BLeQC9tZ4hTFoAhg3oBw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:18 |
 | 63 | [Cuna De Maleantes](https://open.spotify.com/track/0iAYAT6eNN8zWZQEsLbipt) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Cuna De Maleantes](https://open.spotify.com/album/1UqxxsXdWcGtoWmNHzmeAm) | 3:53 |
 | 64 | [Ando Perdido](https://open.spotify.com/track/3uyzJFObinPRz0YiMpBQtH) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Ando Perdido](https://open.spotify.com/album/7rKdCkdkXNwL8gsmIiHrVg) | 3:48 |
-| 65 | [Música Mexa](https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Música Mexa](https://open.spotify.com/album/59RfQ4q6GQMwjjmUWKvXbx) | 3:14 |
+| 65 | [El Triste](https://open.spotify.com/track/2Lk910jTXaUex71wuTwJPK) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Triste](https://open.spotify.com/album/6FDQmwo5gCTxM2gRcL3mcQ) | 3:32 |
 | 66 | [El Achillo](https://open.spotify.com/track/1wV8nsIBPLpovpqOZnb24y) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Achillo](https://open.spotify.com/album/1J6Edxly1ds40IcPhE6Fvx) | 4:32 |
-| 67 | [El Triste](https://open.spotify.com/track/2Lk910jTXaUex71wuTwJPK) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Triste](https://open.spotify.com/album/6FDQmwo5gCTxM2gRcL3mcQ) | 3:32 |
+| 67 | [Música Mexa](https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Música Mexa](https://open.spotify.com/album/59RfQ4q6GQMwjjmUWKvXbx) | 3:14 |
 | 68 | [Lo Mío No Tiene Cura](https://open.spotify.com/track/18Q3lULIvXX0n0zOkeUv9X) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Lo Mío No Tiene Cura](https://open.spotify.com/album/143kPEitPDgMiNotLyLene) | 3:40 |
 | 69 | [Artista Y Malandro](https://open.spotify.com/track/0NGHuBUQx9bC86zuhiY58M) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Artista Y Malandro](https://open.spotify.com/album/62aJ1pfSsd0T0Mw125rnWj) | 4:00 |
 | 70 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 74 | [Turisteando](https://open.spotify.com/track/70IKYcH1WnWMxalbRq6xaO) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [Turisteando](https://open.spotify.com/album/2ji3HqCFRusVHCr6hS6w91) | 3:08 |
 | 75 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 |
 
-Snapshot ID: `MTY2Nzg2NjcyMiwwMDAwMDAwMDdlZjQxMDQ3YTg5NWY1NmY0ZTkzNzY4OWUwNGM1NWZj`
+Snapshot ID: `MTY2Nzg2NjcyMiwwMDAwMDAwMDM5YWM2YjQ2OTQ3MDU2OWY2ZWFlNjNlYWRmMzg2ODAw`

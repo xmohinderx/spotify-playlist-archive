@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Systema Solar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,537 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,564 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 31 | [una postal](https://open.spotify.com/track/5Kf7FyXqkOcA9IdY5Jc6wQ) | [Velero Norte](https://open.spotify.com/artist/6TBD2rLl4F6tIPF3oO62Ot) | [una postal](https://open.spotify.com/album/0RFeOtQkRU4Lwhj9hkZPDh) | 3:01 |
 | 32 | [De La Fiesta Me Fui](https://open.spotify.com/track/1JNbZqazjs5IjgIYIgnZQl) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [De La Fiesta Me Fui](https://open.spotify.com/album/1HoURdfw74M38H8NPTHCBK) | 3:30 |
 | 33 | [Los Domingos](https://open.spotify.com/track/7ArjPcNTIMIPTST10plFKV) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Los Domingos](https://open.spotify.com/album/4pKMqz4Q8R1bIGCK41ilrt) | 3:37 |
-| 34 | [Neumaticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumaticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 |
+| 34 | [Neumáticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumáticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 |
 | 35 | [Carecer](https://open.spotify.com/track/5lSefo6PD9JVGAWyDLLIs6) | [The Riverman](https://open.spotify.com/artist/2mh5dGS6AWdga9P6tTcwKe), [Ángel Parra](https://open.spotify.com/artist/1oQRtreZQfJBc7FOKCusl1) | [Carecer](https://open.spotify.com/album/6X6Jv4ET7iq5VLLBgOdV5L) | 5:30 |
 | 36 | [China Bonitica](https://open.spotify.com/track/47IppQbPtTZdSKLKxNioY4) | [Velo De Oza](https://open.spotify.com/artist/1nh1tWk4ZqRPrl0XqICYgn) | [China Bonitica](https://open.spotify.com/album/1cuke5HCxAaSc49UD7uXhw) | 3:25 |
 | 37 | [Jugando Con Fuego](https://open.spotify.com/track/1Eyoe64IS1MwtzpgaqZTIu) | [Ela Mar](https://open.spotify.com/artist/27xh2ax5bGkBUvfM9I8hGS) | [Jugando Con Fuego](https://open.spotify.com/album/7hrM4PRQSDv1Ua2fYOTnLq) | 4:28 |

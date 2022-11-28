@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 878 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 897 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 26 | [c l o s e](https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:48 |
 | 27 | [Rent Money](https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:25 |
 | 28 | [You're Mines Still](https://open.spotify.com/track/3wJ1OyP3Fugmi8t41e1zQ6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Love Scars: The 5 Stages Of Emotions \(Deluxe\)](https://open.spotify.com/album/2RhpPh3aaviygDMbFUa3HG) | 3:41 |
-| 29 | [Dream in Color](https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Just Until....](https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW) | 3:02 |
-| 30 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
+| 29 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
+| 30 | [Dream in Color](https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Just Until....](https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW) | 3:02 |
 | 31 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 32 | [Kilometre](https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T) | 2:32 |
 | 33 | [WE GOING CRAZY \(feat\. H.E.R\. & Migos\)](https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:16 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 41 | [Big Moves](https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Big Moves](https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ) | 2:39 |
 | 42 | [SORRY NOT SORRY \(feat\. Nas, JAY\-Z & James Fauntleroy\) \- Harmonies by The Hive](https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 4:18 |
 | 43 | [Champ](https://open.spotify.com/track/1g4ziqH1kWahITvZg8ppUO) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Champ \- Single](https://open.spotify.com/album/0JbpYmI0C4fBzPLBLqVOlQ) | 3:25 |
-| 44 | [Weekend](https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3) | [Munga Honorable](https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU) | [Weekend](https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz) | 2:20 |
-| 45 | [Living the Dream](https://open.spotify.com/track/3UAYoYYAgyg7ZHpV59qZY5) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Living the Dream](https://open.spotify.com/album/2PQOmBbpyV0hBm6P8HcBFE) | 2:48 |
+| 44 | [Living the Dream](https://open.spotify.com/track/3UAYoYYAgyg7ZHpV59qZY5) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Living the Dream](https://open.spotify.com/album/2PQOmBbpyV0hBm6P8HcBFE) | 2:48 |
+| 45 | [Weekend](https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3) | [Munga Honorable](https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU) | [Weekend](https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz) | 2:20 |
 | 46 | [Dweet](https://open.spotify.com/track/17v1kXWmTCnXMOoZ6wDjSs) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Usain Bolt Presents: Olympe Rosé Riddim](https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk) | 2:45 |
 | 47 | [Top a Di Top](https://open.spotify.com/track/1E50X8pyYgpZNYR9h7wj1L) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Top a Di Top](https://open.spotify.com/album/4Me1gzbHBfpc25iX0xLTEM) | 2:39 |
 | 48 | [Artificial](https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [Usain Bolt Presents: Immortal Riddim, Vol\. 2](https://open.spotify.com/album/4Pp36Kk5mWXwQQwndpOp4Y) | 2:36 |
 | 49 | [Need Your Love](https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Jae Xo](https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Need Your Love](https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf) | 3:05 |
 | 50 | [Timing](https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Usain Bolt Presents: Clockwork Riddim](https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY) | 3:09 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDVhZDNmMjJhOTY1ODU3ODgyMWY0MGNkZmE4NzFjZDFm`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDVlNDdiYmNiYjVhZDQ2ZjlmNDM2MTk5ZGEzYjg4Y2U4`

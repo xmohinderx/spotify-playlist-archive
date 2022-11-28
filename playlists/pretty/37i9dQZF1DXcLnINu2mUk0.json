@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 21458,
+  "num_followers": 21511,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMGNkNmFlMmIxMDBmMmY0MDViYjY3M2ZiNjg3ZjlhNmMz",
+  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMDNjYzc4ZWQwYmViMmU4YzYyMTBlNjg5NWEyZGI5NWVl",
   "tracks": [
     {
       "added_at": "2022-11-25 00:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": ".Sais e Minerais",
+      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 196179,
       "name": "Toque",
       "url": "https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": ".Sais e Minerais",
-      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Papa",
-        "url": "https://open.spotify.com/album/3aosEAehvS4wa2kTTTYIuY"
-      },
-      "artists": [
-        {
-          "name": "MeLodee",
-          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
-        }
-      ],
-      "duration_ms": 178101,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/5zDpSgXwGPxoFMzU4ibble"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/1QDmxoYyTBJGjZn97AIguC"
       },
@@ -931,22 +915,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W"
-      },
-      "artists": [
-        {
-          "name": "Bere",
-          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
-        }
-      ],
-      "duration_ms": 161163,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Jony Driver",
         "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
@@ -959,6 +927,38 @@
       "duration_ms": 274000,
       "name": "Fe.",
       "url": "https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Papa",
+        "url": "https://open.spotify.com/album/3aosEAehvS4wa2kTTTYIuY"
+      },
+      "artists": [
+        {
+          "name": "MeLodee",
+          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
+        }
+      ],
+      "duration_ms": 178101,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/5zDpSgXwGPxoFMzU4ibble"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W"
+      },
+      "artists": [
+        {
+          "name": "Bere",
+          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
+        }
+      ],
+      "duration_ms": 161163,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Paralyzed.",
-        "url": "https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5"
-      },
-      "artists": [
-        {
-          "name": "zozyy!",
-          "url": "https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR"
-        }
-      ],
-      "duration_ms": 132961,
-      "name": "Paralyzed.",
-      "url": "https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Longe",
         "url": "https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 164756,
       "name": "Caixa De Pandora",
       "url": "https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Paralyzed.",
+        "url": "https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5"
+      },
+      "artists": [
+        {
+          "name": "zozyy!",
+          "url": "https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR"
+        }
+      ],
+      "duration_ms": 132961,
+      "name": "Paralyzed.",
+      "url": "https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5"
     },
     {
       "added_at": "2022-11-25 00:00:00",

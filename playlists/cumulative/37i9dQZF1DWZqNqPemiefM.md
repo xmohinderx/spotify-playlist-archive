@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-443 songs - 1 day 11 hr 31 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+444 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [By Your Side](https://open.spotify.com/track/5Ux0zCT223DmKcjzISvSDW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Dreaming](https://open.spotify.com/album/6H6xD7PAqpdD7UU6MWbwb2) | 4:39 | 2022-03-30 | 2022-07-29 |
 | [Can You Hear a New World](https://open.spotify.com/track/5aokmmaTYynuYr1yNHealA) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Bishintai](https://open.spotify.com/album/00lHRf4ZxhpGzxtSguayFX) | 3:36 | 2022-03-31 | 2022-06-26 |
 | [Cat and Bird](https://open.spotify.com/track/1GroeXQf6heoXynUqOK6oM) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/5VukdAoxbJX1hVb8Jp1VMU) | 4:19 | 2022-10-13 | 2022-10-15 |
-| [Cat and Bird](https://open.spotify.com/track/4xdBmpPggvdUMgxhoDIwDU) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/7EPXZAQmlagFelPn83wYWV) | 4:19 | 2022-10-13 |  |
+| [Cat and Bird](https://open.spotify.com/track/4xdBmpPggvdUMgxhoDIwDU) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/7EPXZAQmlagFelPn83wYWV) | 4:19 | 2022-10-13 | 2022-11-28 |
+| [Cat and Bird](https://open.spotify.com/track/7gWYxwBMqbX00cDhvTYReK) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [A Painter's Diary](https://open.spotify.com/album/3hYzB1zT93RAsGczZ9mfIL) | 4:19 | 2022-11-17 |  |
 | [Catenary](https://open.spotify.com/track/4K5Ip7ZljdnSl3dedcLTft) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Ambient Sleeping Pill Compilation 1](https://open.spotify.com/album/6djoZyqVo0I70OLbq8bJzL) | 10:43 | 2022-03-31 | 2022-04-04 |
 | [Chiaroscuro](https://open.spotify.com/track/3dtlMAmpTUSYETfDEcUY6Q) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [Chiaroscuro](https://open.spotify.com/album/4sNceOj0dZ0LzTRbMMuYKc) | 4:17 | 2022-04-07 | 2022-07-24 |
 | [Childhood](https://open.spotify.com/track/7oji3HikVnxmuOoD1lQedg) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:56 | 2022-03-31 | 2022-07-28 |

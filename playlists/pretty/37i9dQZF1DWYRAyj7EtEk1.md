@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRAyj7EtEk1.md) - [plain]
 
 > Éxitos del Pop Latino para que los disfrute toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,258 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRAyj7EtEk1.md) - [plain]
 | 46 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
 | 47 | [Díganle \- Tainy Remix](https://open.spotify.com/track/1l89iNLbzfFN9TsWJORolB) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Díganle \(Tainy Remix\)](https://open.spotify.com/album/6riomP8beIR2o5VENYyZDd) | 3:31 |
 | 48 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 |
-| 49 | [Ahora Lloras Tú \(feat\. CNCO\)](https://open.spotify.com/track/7soFqD1nuVVsc5MOvo13Ad) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:27 |
-| 50 | [Hey DJ \- Pop Version](https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Hey DJ \(Pop Version\)](https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP) | 3:06 |
+| 49 | [Hey DJ \- Pop Version](https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Hey DJ \(Pop Version\)](https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP) | 3:06 |
+| 50 | [Ahora Lloras Tú \(feat\. CNCO\)](https://open.spotify.com/track/7soFqD1nuVVsc5MOvo13Ad) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:27 |
 
-Snapshot ID: `MTY2MjM2NjYwMywwMDAwMDAwMGM4YTJjZjcxZmNhNjAwZDU4YTYwYjA0NjFhN2EzOTkz`
+Snapshot ID: `MTY2MjM2NjYwMywwMDAwMDAwMGI2NjBhYTNiMzViN2IzMGE4NTg4MzU3YmUwMTlkZDNm`

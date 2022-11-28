@@ -4,7 +4,7 @@
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-365 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
+366 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Crisis](https://open.spotify.com/track/4QpvRKNHQEmyLes7zS86SY) | [Cevilain](https://open.spotify.com/artist/6XWwKgs6eaq7yZjhCELSvj) | [On Death & Dying](https://open.spotify.com/album/7bNkSAej1OUN3b6LlHPFZ2) | 4:00 | 2021-11-30 | 2022-07-26 |
 | [Crooked Smile](https://open.spotify.com/track/5yoX5wMeSivacYx6GpXVoF) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav) | [Crooked Smile](https://open.spotify.com/album/2y2hNkrEjhldLXVl1dxqJe) | 2:59 | 2022-03-11 | 2022-07-12 |
 | [Cut Your Losses](https://open.spotify.com/track/5Li2YgiJ39nQOhwkzu7yfg) | [No Eden](https://open.spotify.com/artist/638c40rFuhN8BQ5PG4F78h) | [Abandon](https://open.spotify.com/album/3B04uLIBgtGiwx22PuMoe3) | 3:15 | 2022-04-01 | 2022-04-19 |
-| [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 |  |
+| [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 | 2022-11-28 |
 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 | 2022-01-21 | 2022-07-29 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-21 |  |
 | [DEATH \(Ever Colder\)](https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [DEATH \(Ever Colder\)](https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4) | 4:47 | 2022-04-01 |  |
@@ -307,6 +307,7 @@
 | [Sleep Life Away](https://open.spotify.com/track/360n8IiJdbrlRelrPRsd5n) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Don't Leave Me This Way](https://open.spotify.com/album/4EJEijJaV4KjMc1niyqoyV) | 3:20 | 2021-11-30 | 2022-11-24 |
 | [Smashed into Pieces](https://open.spotify.com/track/78koTLpNZKZjz5Nikq4oIq) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 3:39 | 2021-11-30 | 2022-11-13 |
 | [Smile](https://open.spotify.com/track/4roKpz8Lr3mrTynVrFOD70) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Smile](https://open.spotify.com/album/5KV8G5odPoSh6lflXZTFoO) | 3:42 | 2022-01-21 | 2022-07-24 |
+| [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 | 2022-04-01 |  |
 | [Smoke Signals](https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Smoke Signals](https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv) | 3:34 | 2022-04-01 | 2022-11-20 |
 | [Social Anemia](https://open.spotify.com/track/6UyEBDe7mWh5HKDhLk8OVI) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Social Anemia](https://open.spotify.com/album/4OoSBTM6PWiT3fiTMAR99u) | 3:28 | 2022-03-11 | 2022-04-21 |
 | [Someone Else \- Underoath Remix](https://open.spotify.com/track/5zKBLSRXoRr94YOvkslsn8) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Someone Else \(Underoath Remix\)](https://open.spotify.com/album/3eXsyG5eK0VMeBMSfAVZPI) | 3:29 | 2021-11-30 |  |

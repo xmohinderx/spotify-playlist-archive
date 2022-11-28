@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1-800-IDONTKNOWYOUANYMORE",
+        "url": "https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA"
+      },
+      "artists": [
+        {
+          "name": "Chad Tepper",
+          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171112,
+      "name": "1-800-IDONTKNOWYOUANYMORE",
+      "url": "https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0"
+    },
+    {
+      "album": {
         "name": "2009",
         "url": "https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d"
       },
@@ -3847,7 +3865,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 176475,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b"

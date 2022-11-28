@@ -1,12 +1,12 @@
 {
   "description": "Fold time and space through sound to reach imaginary universes.",
-  "num_followers": 190120,
+  "num_followers": 190225,
   "original_name": "Sci-Fi Scapes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA5MTA4OSwwMDAwMDAwMGU1N2U0NTU0Y2M3NmMyM2EwYmRhZjViN2QxMjE1NTlh",
+  "snapshot_id": "MTY2ODA5MTA4OSwwMDAwMDAwMGFiYzZiZTBhMWMzYjAxZmM2OTY5NWE2NmZiNjhmY2U3",
   "tracks": [
     {
       "added_at": "2021-10-20 18:44:35",
@@ -539,18 +539,22 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
-        "name": "Erratics & Unconformities",
-        "url": "https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V"
+        "name": "Esc",
+        "url": "https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0"
       },
       "artists": [
         {
-          "name": "Craven Faults",
-          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
+          "name": "Matteo Vallicelli",
+          "url": "https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 475379,
-      "name": "Deipkier",
-      "url": "https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf"
+      "duration_ms": 377533,
+      "name": "Dietrofront",
+      "url": "https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl"
     },
     {
       "added_at": "2021-10-20 18:44:35",
@@ -587,6 +591,22 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
+        "name": "Erratics & Unconformities",
+        "url": "https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V"
+      },
+      "artists": [
+        {
+          "name": "Craven Faults",
+          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
+        }
+      ],
+      "duration_ms": 475379,
+      "name": "Deipkier",
+      "url": "https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf"
+    },
+    {
+      "added_at": "2021-10-20 18:44:35",
+      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 193310,
       "name": "White Cyclosa",
       "url": "https://open.spotify.com/track/4aoSnKywSeejCyNK9KmHg1"
-    },
-    {
-      "added_at": "2021-10-20 18:44:35",
-      "album": {
-        "name": "Esc",
-        "url": "https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0"
-      },
-      "artists": [
-        {
-          "name": "Matteo Vallicelli",
-          "url": "https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 377533,
-      "name": "Dietrofront",
-      "url": "https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl"
     },
     {
       "added_at": "2021-10-20 18:44:35",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
-        "name": "Patterns Of Consciousness",
-        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 570000,
-      "name": "SOTRS",
-      "url": "https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv"
-    },
-    {
-      "added_at": "2021-10-20 18:44:35",
-      "album": {
         "name": "Hollow Earth",
         "url": "https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 311836,
       "name": "Hollow Earth",
       "url": "https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm"
+    },
+    {
+      "added_at": "2021-10-20 18:44:35",
+      "album": {
+        "name": "Patterns Of Consciousness",
+        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 570000,
+      "name": "SOTRS",
+      "url": "https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv"
     },
     {
       "added_at": "2021-10-20 18:44:35",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
-        "name": "Nonlin",
-        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
-      },
-      "artists": [
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        }
-      ],
-      "duration_ms": 406856,
-      "name": "Subtractive Skies",
-      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
-    },
-    {
-      "added_at": "2021-10-20 18:44:35",
-      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM"
+        "name": "Nonlin",
+        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
       },
       "artists": [
         {
-          "name": "Pyramid",
-          "url": "https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD"
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
         }
       ],
-      "duration_ms": 190588,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b"
+      "duration_ms": 406856,
+      "name": "Subtractive Skies",
+      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
     },
     {
       "added_at": "2021-10-20 18:44:35",
@@ -871,6 +855,22 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM"
+      },
+      "artists": [
+        {
+          "name": "Pyramid",
+          "url": "https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b"
+    },
+    {
+      "added_at": "2021-10-20 18:44:35",
+      "album": {
         "name": "4T Recordings",
         "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 197249,
       "name": "4T Recordings",
       "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
-    },
-    {
-      "added_at": "2021-10-20 18:44:35",
-      "album": {
-        "name": "Canone Infinito",
-        "url": "https://open.spotify.com/album/6tbfwIkDEdGOURCQ2vMvYC"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Senni",
-          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
-        }
-      ],
-      "duration_ms": 299413,
-      "name": "Canone Infinito",
-      "url": "https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR"
     },
     {
       "added_at": "2021-10-20 18:44:35",
@@ -919,18 +903,18 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
-        "name": "I Can Hear the Birds",
-        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+        "name": "Canone Infinito",
+        "url": "https://open.spotify.com/album/6tbfwIkDEdGOURCQ2vMvYC"
       },
       "artists": [
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Lorenzo Senni",
+          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
         }
       ],
-      "duration_ms": 175026,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0zY2EvOMhmQEF2unzzfqqz"
+      "duration_ms": 299413,
+      "name": "Canone Infinito",
+      "url": "https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR"
     },
     {
       "added_at": "2021-10-20 18:44:35",
@@ -947,6 +931,38 @@
       "duration_ms": 410528,
       "name": "Dead Skin Cells",
       "url": "https://open.spotify.com/track/27W7GHUgfezHQ8krRZUfeX"
+    },
+    {
+      "added_at": "2021-10-20 18:44:35",
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0zY2EvOMhmQEF2unzzfqqz"
+    },
+    {
+      "added_at": "2021-10-20 18:44:35",
+      "album": {
+        "name": "Be Up A Hello",
+        "url": "https://open.spotify.com/album/1zcfHeYC0sEQs3D3fCAr4m"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 267299,
+      "name": "Detroit People Mover",
+      "url": "https://open.spotify.com/track/4FypYdsW2YXwrA8uJADsGk"
     },
     {
       "added_at": "2021-10-20 18:44:35",
@@ -971,22 +987,6 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
-        "name": "Be Up A Hello",
-        "url": "https://open.spotify.com/album/1zcfHeYC0sEQs3D3fCAr4m"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 267299,
-      "name": "Detroit People Mover",
-      "url": "https://open.spotify.com/track/4FypYdsW2YXwrA8uJADsGk"
-    },
-    {
-      "added_at": "2021-10-20 18:44:35",
-      "album": {
         "name": "Lost Album",
         "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-10-20 18:44:35",
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi"
-      },
-      "artists": [
-        {
-          "name": "The Dice Man",
-          "url": "https://open.spotify.com/artist/67znT4w9oHh5dpk4WAHVCM"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Polygon Window",
-      "url": "https://open.spotify.com/track/74yFgfBjzPASPr3wv79aWe"
-    },
-    {
-      "added_at": "2021-10-20 18:44:35",
-      "album": {
         "name": "Yes! Come Parade With Us",
         "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 294600,
       "name": "Yes! Come Parade With Us",
       "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
+    },
+    {
+      "added_at": "2021-10-20 18:44:35",
+      "album": {
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi"
+      },
+      "artists": [
+        {
+          "name": "The Dice Man",
+          "url": "https://open.spotify.com/artist/67znT4w9oHh5dpk4WAHVCM"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Polygon Window",
+      "url": "https://open.spotify.com/track/74yFgfBjzPASPr3wv79aWe"
     },
     {
       "added_at": "2021-10-20 18:44:35",

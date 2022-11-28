@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 373975,
+  "num_followers": 374021,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDZhZjdlODA4ZjZlZWY0N2UwMTUzZTMyMDE5NjlmZGNk",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGEwZTRlNTIwNjExN2YyYjcwZTUzOWY3MTYzZTU5YTU1",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
     },
     {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "More Smiles",
+        "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
+      },
+      "artists": [
+        {
+          "name": "The Kenny Clarke-Francy Boland Big Band",
+          "url": "https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO"
+        }
+      ],
+      "duration_ms": 254413,
+      "name": "Lullaby of the Leaves",
+      "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Legacy",
@@ -703,22 +719,6 @@
       "duration_ms": 300845,
       "name": "Brother J",
       "url": "https://open.spotify.com/track/0VyvxWyE0bYQxLu98XXJFk"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "More Smiles",
-        "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
-      },
-      "artists": [
-        {
-          "name": "The Kenny Clarke-Francy Boland Big Band",
-          "url": "https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO"
-        }
-      ],
-      "duration_ms": 254413,
-      "name": "Lullaby of the Leaves",
-      "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -797,26 +797,6 @@
       "url": "https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO"
     },
     {
-      "added_at": "2022-11-27 01:29:22",
-      "album": {
-        "name": "Rumble Jam - Big Band and Jazz Themes",
-        "url": "https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM"
-      },
-      "artists": [
-        {
-          "name": "Gregory Cotti",
-          "url": "https://open.spotify.com/artist/33t28I8epQR7UNrJXLgowa"
-        },
-        {
-          "name": "Gabriel Saban",
-          "url": "https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G"
-        }
-      ],
-      "duration_ms": 148166,
-      "name": "The Night Is Ours",
-      "url": "https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf"
-    },
-    {
       "added_at": "2020-03-06 16:28:56",
       "album": {
         "name": "Present Perfect",
@@ -835,6 +815,26 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
+    },
+    {
+      "added_at": "2022-11-28 01:29:26",
+      "album": {
+        "name": "Rumble Jam - Big Band and Jazz Themes",
+        "url": "https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Cotti",
+          "url": "https://open.spotify.com/artist/33t28I8epQR7UNrJXLgowa"
+        },
+        {
+          "name": "Gabriel Saban",
+          "url": "https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G"
+        }
+      ],
+      "duration_ms": 148166,
+      "name": "The Night Is Ours",
+      "url": "https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -877,20 +877,24 @@
       "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
+      "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
+        "name": "I Didn\u00b4t Tell Them Why",
+        "url": "https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Andrea Motis",
+          "url": "https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Luck Be a Lady",
-      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
+      "duration_ms": 297373,
+      "name": "I Didn\u00b4t Tell Them Why",
+      "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
     }
   ],
   "unique_name": "Big Band",

@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 275196,
+  "num_followers": 275331,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4MTk2MiwwMDAwMDAwMDA1NDA1YTMwNjU3MWE2YzMxODU4ZmRkNDIwMTEwNGJh",
+  "snapshot_id": "MTY2OTM4MTk2MiwwMDAwMDAwMDY0NDE0MjNiMTA3N2M4NWM5YWMwNTFiNjYzMDM2ZTc0",
   "tracks": [
     {
       "added_at": "2022-11-16 11:12:48",
@@ -29,23 +29,7 @@
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
-      "added_at": "2022-11-27 01:17:59",
-      "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 339013,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
-    },
-    {
-      "added_at": "2022-11-27 01:17:59",
+      "added_at": "2022-11-28 01:15:16",
       "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
@@ -63,6 +47,22 @@
       "duration_ms": 278400,
       "name": "Clara (the night is dark)",
       "url": "https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI"
+    },
+    {
+      "added_at": "2022-11-28 01:15:16",
+      "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
     },
     {
-      "added_at": "2022-11-27 01:17:59",
+      "added_at": "2022-11-28 01:15:16",
       "album": {
         "name": "Watergate 20 Years (Pt. 8/8)",
         "url": "https://open.spotify.com/album/5M9eVeNI6mG35HD3OvaPoc"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
     },
     {
-      "added_at": "2022-11-27 01:17:59",
+      "added_at": "2022-11-28 01:15:16",
       "album": {
         "name": "Immersion / Distance",
         "url": "https://open.spotify.com/album/2gBcnYz9kcl370rUijue7r"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
     },
     {
-      "added_at": "2022-11-27 01:17:59",
+      "added_at": "2022-11-28 01:15:16",
       "album": {
         "name": "Wolkenblau",
         "url": "https://open.spotify.com/album/2cntCEOxHrwMa08SlkxPa0"
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Purified Fragments Vi",
-        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Firmoral",
-      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Purified Fragments Vi",
+        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Firmoral",
+      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 332000,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "Now Is",
         "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 192972,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "In The Morning - Edit",
+      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "Quarantine",
         "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 352240,
-      "name": "Love We Found",
-      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
         "name": "Unconditional Love",
         "url": "https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H"
       },
@@ -1179,6 +1179,38 @@
       "duration_ms": 377305,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "Love We Found",
+      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -1227,38 +1259,6 @@
       "duration_ms": 287986,
       "name": "AvA",
       "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "In The Morning - Edit",
-      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
-      },
-      "artists": [
-        {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
-        }
-      ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
     },
     {
       "added_at": "2022-11-16 11:12:48",

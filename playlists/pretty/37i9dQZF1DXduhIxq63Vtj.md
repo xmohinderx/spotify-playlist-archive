@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Achis achis los mariachis!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,106 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,133 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 29 | [Negrita de Mis Pesares](https://open.spotify.com/track/4yHL70akK2dL99EU0DviKH) | [Mariachi Pablo Olmedo](https://open.spotify.com/artist/57eFfYB14GxTUGPoZCCtvR) | [Mexican Music: Best Mariachi Music\. Traditional & Popular Mexican Songs, Rancheras & Corridos](https://open.spotify.com/album/7ynAgcVHO5LuUTQ8SkkG2L) | 2:59 |
 | 30 | [La Interesada](https://open.spotify.com/track/5UbjsmHa2M69q2Q1bzmDBE) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [De Buen Humor, Con Las Canciones Y La Voz De Chava Flores](https://open.spotify.com/album/3AS7o4ZD2AYKG5VhuOJSmg) | 2:21 |
 | 31 | [El Pescuezo del Pollo](https://open.spotify.com/track/4frs1wdJNCBLiCPjfnROlz) | [El Mariachi Moya](https://open.spotify.com/artist/14VL0b6xKpHMRUj0mmp2QS) | [El Pescuezo del Pollo](https://open.spotify.com/album/6YRvAFY1eDocapKDlJc633) | 4:26 |
-| 32 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
+| 32 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 |
 | 33 | [El Dicharachero](https://open.spotify.com/track/5nOSFNSuftuAAt5cAVfsAa) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 3:47 |
-| 34 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 |
+| 34 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
 | 35 | [El copetín](https://open.spotify.com/track/2ZliolI7CuxldpgXgMOuYR) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rancheras Vol\. 2](https://open.spotify.com/album/7LYxHUJ2DHQg9Wd7sxfbA2) | 2:44 |
 | 36 | [El son de la negra](https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana Con Mariachi \(USA\)](https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp) | 2:59 |
 | 37 | [Los Gorrones](https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:16 |
-| 38 | [El Mecate](https://open.spotify.com/track/4GeAHN6TGFh32Yan6KgyAs) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/3XOL5NajeukV0zKqmexjC5) | 2:21 |
-| 39 | [Que Se Mueran los Feos](https://open.spotify.com/track/46GSlzR2O4cceIOBImlAnJ) | [Mariachi Loco](https://open.spotify.com/artist/68PBeAZ9MN8Nvg1UV1wiHq) | [Mariachi Loco: 30 Pegaditas](https://open.spotify.com/album/2sZm194vZ5Tm8sH6I8vNLK) | 2:21 |
+| 38 | [Que Se Mueran los Feos](https://open.spotify.com/track/46GSlzR2O4cceIOBImlAnJ) | [Mariachi Loco](https://open.spotify.com/artist/68PBeAZ9MN8Nvg1UV1wiHq) | [Mariachi Loco: 30 Pegaditas](https://open.spotify.com/album/2sZm194vZ5Tm8sH6I8vNLK) | 2:21 |
+| 39 | [El Mecate](https://open.spotify.com/track/4GeAHN6TGFh32Yan6KgyAs) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/3XOL5NajeukV0zKqmexjC5) | 2:21 |
 | 40 | [Alta Y Delgadita](https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 2:53 |
 | 41 | [La Huevona](https://open.spotify.com/track/7BfMKclY3GQ0opA0fK7d9N) | [Mariachi Tepalcatepec De Michoacan](https://open.spotify.com/artist/5mESQ2V39GTGfFbXcAIHJI) | [Puras Rancheritas](https://open.spotify.com/album/55D5G5C78fRVD5pcDKO2Ev) | 2:41 |
 | 42 | [Cien Años](https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 49 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
 | 50 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
 
-Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMGJiZDQyZmE2NTc1NGI2ZDQ4MDZhNmYyYzZlYTM0Zjdl`
+Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMDUzYzcyMWE1ZWU1OTQzMDU1Njg5NjQ2YThlZWVmNDlk`

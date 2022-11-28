@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=D6t3mgaNRoG34W61XJd0Qw">Lojay</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=KWN2MSIkRP2HPgX2t9QTMg">DJ Maphorisa</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=g31cPvUxRSGeNeezoaaKYg">Kabza De Small</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,516 likes - 54 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,532 likes - 54 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

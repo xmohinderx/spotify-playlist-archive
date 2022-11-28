@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,094 likes - 50 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,195 likes - 50 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 31 | [Ingoma \- Original Mix](https://open.spotify.com/track/7oyMweIaDux964WgeejCf7) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Mr.Cantata](https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0), [Bikie](https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu) | [Ingoma](https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0) | 7:10 |
 | 32 | [Day And Night \(Mmawe\) \- Original Mix](https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM) | [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [3 By 3](https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV) | 6:32 |
 | 33 | [Hold On](https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl) | [The Groove Experience](https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2), [Aiyon](https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr) | [Hold On](https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP) | 6:57 |
-| 34 | [Gotsom](https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN) | 6:42 |
-| 35 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 |
+| 34 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 |
+| 35 | [Gotsom](https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN) | 6:42 |
 | 36 | [She's On Fire](https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1) | [She's On Fire](https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS) | 6:42 |
 | 37 | [Don't 4get To Call Me](https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP) | [OUT OF ORDER](https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [OOO: AFRO](https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx) | 7:46 |
 | 38 | [Synonymous](https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Synonymous](https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55) | 6:52 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 42 | [My Heartbeat For You](https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [My Heartbeat For You](https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6) | 5:32 |
 | 43 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 |
 | 44 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 |
-| 45 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 |
+| 45 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
 | 46 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
-| 47 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
-| 48 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
+| 47 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
+| 48 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 |
 | 49 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 |
-| 50 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 |
+| 50 | [thinking 'bout you](https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS) | [Thabang Phaleng](https://open.spotify.com/artist/5AO6CbpKmGPMLYn5pS7Lp5), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Thinking 'bout you](https://open.spotify.com/album/0YPe7RdoxqfrtfExs73nRk) | 6:17 |
 
-Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMGFjOTgwYjZlZjRhODhlODg3YjQyOTFkM2U2NmUyZDZi`
+Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMGQ0ODJlMDUzYjFiZWM0ZTc2MTJjODlkYTljOTY1NzBm`

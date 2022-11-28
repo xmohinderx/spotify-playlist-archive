@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 27139,
+  "num_followers": 27158,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDc2YzIxMjAyMWUyZWI5MWRhNjBhYTExMjljZGY4MzE4",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMGVjMzEyOWQ1N2Y5N2QxNjhkYjQzYTBlYzlhNjBhZDk5",
   "tracks": [
     {
       "added_at": "2022-09-16 04:50:01",
@@ -189,6 +189,22 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
+      "added_at": "2022-08-13 02:18:09",
+      "album": {
+        "name": "Fr\u00edo Blues",
+        "url": "https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Fr\u00edo Blues",
+      "url": "https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX"
+    },
+    {
       "added_at": "2022-07-11 18:35:10",
       "album": {
         "name": "Morena",
@@ -211,22 +227,6 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
-      "added_at": "2022-08-13 02:18:09",
-      "album": {
-        "name": "Fr\u00edo Blues",
-        "url": "https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Fr\u00edo Blues",
-      "url": "https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX"
     },
     {
       "added_at": "2022-09-29 00:14:11",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
-      "added_at": "2022-09-02 05:18:03",
-      "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
-    },
-    {
       "added_at": "2022-09-02 05:54:39",
       "album": {
         "name": "Sal de Mar",
@@ -403,6 +387,22 @@
       "duration_ms": 267775,
       "name": "Sal de Mar",
       "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
+    },
+    {
+      "added_at": "2022-09-02 05:18:03",
+      "album": {
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2022-09-26 21:49:32",
@@ -609,6 +609,26 @@
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
     },
     {
+      "added_at": "2022-09-30 04:06:25",
+      "album": {
+        "name": "Coraz\u00f3n Usado",
+        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Isabel Aladro",
+          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
+        }
+      ],
+      "duration_ms": 232241,
+      "name": "Coraz\u00f3n Usado",
+      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
+    },
+    {
       "added_at": "2022-08-19 02:11:47",
       "album": {
         "name": "Last Spa on Earth",
@@ -661,26 +681,6 @@
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
     },
     {
-      "added_at": "2022-09-30 04:06:25",
-      "album": {
-        "name": "Coraz\u00f3n Usado",
-        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Isabel Aladro",
-          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
-        }
-      ],
-      "duration_ms": 232241,
-      "name": "Coraz\u00f3n Usado",
-      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
-    },
-    {
       "added_at": "2021-12-17 05:01:00",
       "album": {
         "name": "Sabe a Tu Nombre",
@@ -695,6 +695,22 @@
       "duration_ms": 228793,
       "name": "Sabe a Tu Nombre",
       "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
+    },
+    {
+      "added_at": "2022-04-20 18:21:19",
+      "album": {
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+        }
+      ],
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2022-09-03 03:44:59",
@@ -713,20 +729,20 @@
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     },
     {
-      "added_at": "2022-04-20 18:21:19",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+        "name": "Bailando Lento",
+        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
       },
       "artists": [
         {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
+      "duration_ms": 197333,
+      "name": "Bailando Lento",
+      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
       "added_at": "2022-09-12 20:24:34",
@@ -747,22 +763,6 @@
       "duration_ms": 179949,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/6MHN9H0xjXlBNqBu9vuYOt"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Bailando Lento",
-        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Bailando Lento",
-      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
       "added_at": "2022-09-07 01:11:32",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
     },
     {
-      "added_at": "2022-03-30 03:05:40",
-      "album": {
-        "name": "\u00bfPor Qu\u00e9 Te Vas?",
-        "url": "https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ"
-      },
-      "artists": [
-        {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "\u00bfPor Qu\u00e9 Te Vas?",
-      "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
-    },
-    {
       "added_at": "2022-02-25 03:53:48",
       "album": {
         "name": "Canoas",
@@ -919,6 +903,22 @@
       "duration_ms": 297000,
       "name": "Canoas",
       "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
+    },
+    {
+      "added_at": "2022-03-30 03:05:40",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Te Vas?",
+        "url": "https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
     },
     {
       "added_at": "2022-09-07 01:11:32",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "donde nadie m\u00e1s Respira",
-        "url": "https://open.spotify.com/album/4GNjJLSkWed2DAg8fI6AsE"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 190204,
-      "name": "donde nadie m\u00e1s Respira",
-      "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
-    },
-    {
       "added_at": "2022-08-31 04:48:40",
       "album": {
         "name": "Como Si Fuera Yo",
@@ -1027,6 +1011,22 @@
       "duration_ms": 196013,
       "name": "Como Si Fuera Yo",
       "url": "https://open.spotify.com/track/53KqQmPI1BNgb1g7O2hPHV"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "donde nadie m\u00e1s Respira",
+        "url": "https://open.spotify.com/album/4GNjJLSkWed2DAg8fI6AsE"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 190204,
+      "name": "donde nadie m\u00e1s Respira",
+      "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
     },
     {
       "added_at": "2022-01-14 01:12:21",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
       "added_at": "2021-11-10 05:48:01",
       "album": {
         "name": "Guerrera",
@@ -1107,6 +1091,22 @@
       "duration_ms": 251739,
       "name": "Guerrera",
       "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-09-15 12:46:11",
@@ -1177,26 +1177,6 @@
       "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Qui\u00e9n Podr\u00e1 Saberlo",
-        "url": "https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ"
-      },
-      "artists": [
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Qui\u00e9n Podr\u00e1 Saberlo",
-      "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
-    },
-    {
       "added_at": "2022-04-12 02:37:18",
       "album": {
         "name": "New Latam Beats from Mexico Curated by Diguital Trip",
@@ -1215,6 +1195,26 @@
       "duration_ms": 434406,
       "name": "Kiss the frog",
       "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Qui\u00e9n Podr\u00e1 Saberlo",
+        "url": "https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ"
+      },
+      "artists": [
+        {
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Qui\u00e9n Podr\u00e1 Saberlo",
+      "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
     },
     {
       "added_at": "2022-04-09 05:10:17",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
     },
     {
-      "added_at": "2022-09-11 03:47:52",
-      "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3tp5Dkyp89uBT3BUvCLTI3"
-      },
-      "artists": [
-        {
-          "name": "Abraxas",
-          "url": "https://open.spotify.com/artist/5WZcFSCHJoBfjHWNaNRUTV"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1jBwdd7dkhx9nVUx2gWc25"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "\u00datera",
@@ -1375,6 +1359,22 @@
       "duration_ms": 251007,
       "name": "Portales",
       "url": "https://open.spotify.com/track/0eYmU0Cda7T28C8i2ricFy"
+    },
+    {
+      "added_at": "2022-09-11 03:47:52",
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3tp5Dkyp89uBT3BUvCLTI3"
+      },
+      "artists": [
+        {
+          "name": "Abraxas",
+          "url": "https://open.spotify.com/artist/5WZcFSCHJoBfjHWNaNRUTV"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1jBwdd7dkhx9nVUx2gWc25"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "Frutas",
+        "url": "https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD"
+      },
+      "artists": [
+        {
+          "name": "Sin Color",
+          "url": "https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop"
+        }
+      ],
+      "duration_ms": 259741,
+      "name": "Frutas",
+      "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "wepa (Eggglub Remix)",
         "url": "https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Frutas",
-        "url": "https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD"
-      },
-      "artists": [
-        {
-          "name": "Sin Color",
-          "url": "https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop"
-        }
-      ],
-      "duration_ms": 259741,
-      "name": "Frutas",
-      "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
     },
     {
       "added_at": "2022-08-08 21:56:18",

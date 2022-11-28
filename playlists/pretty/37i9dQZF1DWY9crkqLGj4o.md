@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,765 likes - 70 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,041 likes - 70 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 27 | [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 |
 | 28 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
 | 29 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |
-| 30 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
-| 31 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 |
-| 32 | [Era Eu](https://open.spotify.com/track/4eYx3jlorPAz7qXo9husK5) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 4:32 |
+| 30 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 |
+| 31 | [Era Eu](https://open.spotify.com/track/4eYx3jlorPAz7qXo9husK5) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 4:32 |
+| 32 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
 | 33 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 |
 | 34 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
 | 35 | [Faz Um Milagre Em Mim \(Como Zaqueu, Eu Quero Subir\) \- Ao Vivo](https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w) | 5:24 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 50 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 51 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Toque no Altar \(Ao Vivo\)](https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5) | 5:24 |
 | 52 | [Em Teus Braços](https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Fornalha Laura Souguellis](https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW) | 12:15 |
-| 53 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
-| 54 | [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 |
-| 55 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 |
-| 56 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
+| 53 | [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 |
+| 54 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
+| 55 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
+| 56 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 |
 | 57 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 |
 | 58 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 |
 | 59 | [Deus de Promessas \- Ao Vivo](https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Simone](https://open.spotify.com/artist/1oVjhNDztl0fhT3y0iq5my) | [15 Anos \(ao Vivo\)](https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V) | 5:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Eu Cuido de Ti](https://open.spotify.com/track/3M9OF3VPZONrRJt39lGoOA) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Meu Alvo É o Céu](https://open.spotify.com/album/7BqrtNW10gHHuhilirLpzH) | 5:08 |
 | 70 | [Acredito \(We Believe\)](https://open.spotify.com/track/6sDmwH4Iy2NZ90crcH7Bk2) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Acredito \(We Believe\)](https://open.spotify.com/album/2yyY2cxS40YloTI3z567NC) | 3:49 |
 
-Snapshot ID: `MTY2NDg5ODUwMiwwMDAwMDAwMDM5NjM3Nzg4MGMzN2MwMjY5MzcxYjMxMTg1YTc0ZmUw`
+Snapshot ID: `MTY2NDg5ODUwMiwwMDAwMDAwMDY3YzdkOTMwNmRmMzRlMTI5Y2NjMWYyOWQxNjBiNGI0`

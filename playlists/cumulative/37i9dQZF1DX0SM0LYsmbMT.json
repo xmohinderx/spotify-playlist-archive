@@ -14959,7 +14959,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 157818,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/6ycjeSNFpfHJ1lUy3BSmjM"
@@ -19463,7 +19463,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 102723,
       "name": "Fortune",
       "url": "https://open.spotify.com/track/2namVvGAaBKjeIm4spCMBT"
@@ -36603,7 +36603,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 141333,
       "name": "Mr. Green",
       "url": "https://open.spotify.com/track/3bAHLJpPTfvbccpZAcDtJk"
@@ -48643,7 +48643,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Shibuya Station",
       "url": "https://open.spotify.com/track/3RPsh6RCp4bkxjjO2yZ0x1"
@@ -54782,6 +54782,24 @@
     },
     {
       "album": {
+        "name": "sweetness",
+        "url": "https://open.spotify.com/album/32aS36GhkqwIO916hViCuQ"
+      },
+      "artists": [
+        {
+          "name": "damaa.beats",
+          "url": "https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "sweetness",
+      "url": "https://open.spotify.com/track/24PeR3edxl2ywKf1ooCtLx"
+    },
+    {
+      "album": {
         "name": "Sweev",
         "url": "https://open.spotify.com/album/1HOCEZCmzrrIhYuhB7rPef"
       },
@@ -57977,6 +57995,32 @@
       "duration_ms": 97747,
       "name": "Train Tales",
       "url": "https://open.spotify.com/track/0QOwzo2WjLX7l30KMM9W9T"
+    },
+    {
+      "album": {
+        "name": "Train Tales",
+        "url": "https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft"
+      },
+      "artists": [
+        {
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+        },
+        {
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97747,
+      "name": "Train Tales",
+      "url": "https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB"
     },
     {
       "album": {

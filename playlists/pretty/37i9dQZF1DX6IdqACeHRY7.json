@@ -1,15 +1,15 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 65237,
+  "num_followers": 65240,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA1MjE0MCwwMDAwMDAwMGY0MzE3NjAyYmJiOTQ3MTgzYzZiOGMzODQ1MmFlNWYw",
+  "snapshot_id": "MTY2NTA1MjE0MCwwMDAwMDAwMDgzOTZjY2JmZDNkMmNhNTkzYjM0ZWM3M2Y5MDAxYWI3",
   "tracks": [
     {
-      "added_at": "2022-11-27 01:29:04",
+      "added_at": "2022-11-28 01:29:43",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2022-11-27 01:29:04",
+      "added_at": "2022-11-28 01:29:43",
       "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -655,26 +671,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "There's No Way",
-        "url": "https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 174860,
-      "name": "There's No Way",
-      "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "What a Time To Be Alive",
         "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
       },
@@ -703,6 +699,26 @@
       "duration_ms": 182666,
       "name": "Love You Anymore",
       "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "There's No Way",
+        "url": "https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 174860,
+      "name": "There's No Way",
+      "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -743,38 +759,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/5zA6sCY6TFsPBi2ZdMy58w"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 200347,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "barcelona",
-        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 175222,
-      "name": "barcelona",
-      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 217560,
       "name": "Change (feat. James Taylor)",
       "url": "https://open.spotify.com/track/17RMnDmv5CEo3s0tmipRyb"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "barcelona",
+        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 175222,
+      "name": "barcelona",
+      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Back in the Water",
+      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 235393,
       "name": "If That's Alright",
       "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Back in the Water",
-      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 211514,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Better Luck Next Time",
         "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 203546,
       "name": "For You",
       "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 211514,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Still the Same (feat. Boy In Space)",
         "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 178139,
       "name": "Still the Same (feat. Boy In Space)",
       "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+      },
+      "artists": [
+        {
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
+        }
+      ],
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Call Your Girlfriend",
         "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 212933,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
-      },
-      "artists": [
-        {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
-        }
-      ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2022-09-09 08:53:28",

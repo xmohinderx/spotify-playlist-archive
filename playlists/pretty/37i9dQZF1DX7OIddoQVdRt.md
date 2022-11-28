@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,683 likes - 40 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,790 likes - 40 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 4 | [Every Praise \- \(album edit\)](https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd) | [Azusa The Next Generation](https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1) | 7:21 |
 | 5 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 |
 | 6 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
-| 7 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 |
-| 8 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 |
+| 7 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 |
+| 8 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 |
 | 9 | [In Jesus Name](https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 6:24 |
 | 10 | [Jehovah Jireh \- Live](https://open.spotify.com/track/7l6yY4kttGsr96vM9vY7XX) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Changing Your Story](https://open.spotify.com/album/33Ew8vazpkcYhyyNMv8jhj) | 6:13 |
 | 11 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 40 | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF) | 3:40 |
 
-Snapshot ID: `MTYyNDYwNDA5OSwwMDAwMDAwMGIzMDMwNjliOGFhMWU5ZTRkYjU3ZDQ3MTk3YTU1N2Q4`
+Snapshot ID: `MTYyNDYwNDA5OSwwMDAwMDAwMDdkYjJhMTY3N2NmYjBiODUxY2RlNThhOTBiZmVjM2Ez`

@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: LE SSERAFIM\(르세라핌\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-406 songs - 22 hr 29 min - [published](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
+407 songs - 22 hr 32 min - [published](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-22 |  |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-12-20 |  |
 | [After We Ride](https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [After ‘We Ride’](https://open.spotify.com/album/2W8nXNoRaD7zm1IljosJAa) | 3:22 | 2021-12-20 | 2022-07-28 |
-| [Ah puh](https://open.spotify.com/track/1IJxbEXfgiKuRx6oXMX87e) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:20 | 2021-12-20 |  |
+| [Ah puh](https://open.spotify.com/track/1IJxbEXfgiKuRx6oXMX87e) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:20 | 2021-12-20 | 2022-11-28 |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2021-12-20 | 2022-08-27 |
 | [ALIVE](https://open.spotify.com/track/4zzzZIHr6AHXsivUku2WwU) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [ALIVE](https://open.spotify.com/album/24lTLXt5W0ZVtsqJhAfUPZ) | 3:28 | 2021-12-20 | 2022-07-29 |
 | [ALIVE](https://open.spotify.com/track/5maLccpDyplx47e5qwO5c3) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Alive Part.2 \- Im Yun Taek](https://open.spotify.com/album/24S8Rd9c3bYWoVju544nbP) | 3:27 | 2022-03-03 | 2022-07-29 |
@@ -130,6 +130,7 @@
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-22 | 2022-08-19 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-12 |  |
 | [Forever Yours](https://open.spotify.com/track/62txZsfsfNPkLDnnzZGRpu) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Forever Yours](https://open.spotify.com/album/7p9kyHQzs6rVOdlhhSaL06) | 3:29 | 2022-02-14 | 2022-05-23 |
+| [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-25 |  |
 | [Foxxay](https://open.spotify.com/track/5AQzdkHmlUJil4V82QmnBP) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Baeeori](https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c) | [Foxxay](https://open.spotify.com/album/5LYClhrqpS2jbr540cD8rA) | 3:10 | 2022-03-22 | 2022-04-15 |
 | [Full Moon](https://open.spotify.com/track/00vHOSgvVfyLzhlTZIJo1m) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Full Moon](https://open.spotify.com/album/6N7UA00H0IAexiQvOFGv5d) | 3:09 | 2022-04-05 | 2022-04-09 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 |  |

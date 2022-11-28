@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 37105,
+  "num_followers": 37154,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDUxODVhODVhNDBiNWQxYjU1YjdiZWQxOTY4MWVmNzg4",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGEyNmJlNjAzYzNkNzFhYTU2ZTZkYzRmODc5ZDA5OWMw",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Life Between The Exit Signs",
+        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Everything I Love",
+      "url": "https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY"
+    },
+    {
       "added_at": "2020-09-18 04:02:00",
       "album": {
         "name": "Kaiju Eats Cheeseburgers",
@@ -287,22 +303,6 @@
       "duration_ms": 310773,
       "name": "Charbon",
       "url": "https://open.spotify.com/track/1aAoU8KcgP5JQSkuWML8xG"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Life Between The Exit Signs",
-        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Everything I Love",
-      "url": "https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY"
     },
     {
       "added_at": "2020-11-14 05:01:00",
@@ -505,6 +505,26 @@
       "url": "https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Dolunay",
+        "url": "https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD"
+      },
+      "artists": [
+        {
+          "name": "Konstrukt",
+          "url": "https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9"
+        },
+        {
+          "name": "Peter Br\u00f6tzmann",
+          "url": "https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "Tepe",
+      "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Lebroba",
@@ -529,24 +549,60 @@
       "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2020-10-02 04:02:00",
       "album": {
-        "name": "Dolunay",
-        "url": "https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD"
+        "name": "On Common Ground",
+        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
       },
       "artists": [
         {
-          "name": "Konstrukt",
-          "url": "https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9"
+          "name": "Mike Sopko",
+          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
         },
         {
-          "name": "Peter Br\u00f6tzmann",
-          "url": "https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO"
+          "name": "Bill Laswell",
+          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
+        },
+        {
+          "name": "Tyshawn Sorey",
+          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
         }
       ],
-      "duration_ms": 207373,
-      "name": "Tepe",
-      "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
+      "duration_ms": 476000,
+      "name": "Equation",
+      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
+      },
+      "artists": [
+        {
+          "name": "Dejan Terzic",
+          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
+        },
+        {
+          "name": "Axiom",
+          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
+        },
+        {
+          "name": "Chris Speed",
+          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        },
+        {
+          "name": "Bojan Zulfikarpa\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
+        }
+      ],
+      "duration_ms": 334762,
+      "name": "Prometheus",
+      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -585,30 +641,6 @@
       "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
     },
     {
-      "added_at": "2020-10-02 04:02:00",
-      "album": {
-        "name": "On Common Ground",
-        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
-      },
-      "artists": [
-        {
-          "name": "Mike Sopko",
-          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
-        },
-        {
-          "name": "Bill Laswell",
-          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
-        },
-        {
-          "name": "Tyshawn Sorey",
-          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
-        }
-      ],
-      "duration_ms": 476000,
-      "name": "Equation",
-      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
-    },
-    {
       "added_at": "2020-10-23 19:03:00",
       "album": {
         "name": "Supersense",
@@ -623,38 +655,6 @@
       "duration_ms": 221520,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Prometheus",
-        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
-      },
-      "artists": [
-        {
-          "name": "Dejan Terzic",
-          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
-        },
-        {
-          "name": "Axiom",
-          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
-        },
-        {
-          "name": "Chris Speed",
-          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        },
-        {
-          "name": "Bojan Zulfikarpa\u0161i\u0107",
-          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
-        }
-      ],
-      "duration_ms": 334762,
-      "name": "Prometheus",
-      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -811,26 +811,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "The Dorothy Wallace Suite",
-        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
-      },
-      "artists": [
-        {
-          "name": "Ran Blake",
-          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
-        },
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Symphony in Green",
-      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Circle Down",
         "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 359466,
       "name": "Box Step",
       "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "The Dorothy Wallace Suite",
+        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
+      },
+      "artists": [
+        {
+          "name": "Ran Blake",
+          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
+        },
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Symphony in Green",
+      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
-      },
-      "artists": [
-        {
-          "name": "Rob Mazurek",
-          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
-        }
-      ],
-      "duration_ms": 563400,
-      "name": "Twombly at New Church",
-      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "In Cahoots",
         "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 227346,
       "name": "Shudder to Think",
       "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
+      },
+      "artists": [
+        {
+          "name": "Rob Mazurek",
+          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
+        }
+      ],
+      "duration_ms": 563400,
+      "name": "Twombly at New Church",
+      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
     }
   ],
   "unique_name": "Avant-Jazz",

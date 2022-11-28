@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 51283,
+  "num_followers": 51344,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDE1OWVkY2MwODQ2YmQyNzA0N2M2YTg2ZjZjNTNhYzE3",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDUxYWFjYjA2NzIyNjU3MzUwOWEwNDJmZjg4MzAzNDBl",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
-    },
-    {
       "added_at": "2021-12-07 19:02:16",
       "album": {
         "name": "Deuces Wild",
@@ -299,6 +283,22 @@
       "duration_ms": 190373,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 301720,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Howlin' Wolf",
         "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 293733,
       "name": "Chains And Things",
       "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 301720,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -507,18 +507,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
       "artists": [
         {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 412960,
-      "name": "Have You Ever Loved A Woman?",
-      "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
+      "duration_ms": 246573,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -539,18 +539,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
+      "duration_ms": 412960,
+      "name": "Have You Ever Loved A Woman?",
+      "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Nick Of Time",
+      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+    },
+    {
       "added_at": "2022-11-03 15:55:35",
       "album": {
         "name": "Inflation",
@@ -683,22 +699,6 @@
       "duration_ms": 199734,
       "name": "Inflation",
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Nick Of Time",
-      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Wolf Den",
-        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Wolf Den",
+        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Bloomfield-A Retrospective",
-        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        }
-      ],
-      "duration_ms": 414960,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "I Be Trying",
@@ -975,6 +959,22 @@
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Bloomfield-A Retrospective",
+        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        }
+      ],
+      "duration_ms": 414960,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Johnny Winter",
@@ -1091,6 +1075,22 @@
       "duration_ms": 232453,
       "name": "Mean Mistreater",
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "How Blue Can You Get?",
-      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "That's What I Heard",
@@ -1435,6 +1419,22 @@
       "duration_ms": 306533,
       "name": "This Man",
       "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "How Blue Can You Get?",
+      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2021-07-23 04:01:00",
       "album": {
-        "name": "Catfish",
-        "url": "https://open.spotify.com/album/0UHFzxUW8gPhFwjIj7y6E0"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Catfish",
-      "url": "https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW"
-    },
-    {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
         "name": "Chosen Line",
         "url": "https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn"
       },
@@ -1553,20 +1533,40 @@
       "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
+      "added_at": "2021-07-23 04:01:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+        "name": "Catfish",
+        "url": "https://open.spotify.com/album/0UHFzxUW8gPhFwjIj7y6E0"
       },
       "artists": [
         {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
         }
       ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+      "duration_ms": 231000,
+      "name": "Catfish",
+      "url": "https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Cry No More",
+        "url": "https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Cry No More",
-        "url": "https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y"
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
       "artists": [
         {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
         }
       ],
-      "duration_ms": 275800,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl"
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
       "added_at": "2022-02-25 05:02:00",

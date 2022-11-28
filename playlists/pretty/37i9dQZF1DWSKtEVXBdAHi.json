@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27121,
+  "num_followers": 27118,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGJlMjJhYzRlODU1ZmE0ODE5NWVjZmRjMjJlYWY5MmNi",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGViMTQ1NDdlYzBjMjdjN2M0ZWQ5ZjUyNWNmOGU4Nzlm",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -955,26 +955,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Not Ok",
-        "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 210943,
-      "name": "Not Ok",
-      "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 191248,
       "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
       "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Not Ok",
+        "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 210943,
+      "name": "Not Ok",
+      "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
     },
     {
       "added_at": "2020-02-18 13:31:30",

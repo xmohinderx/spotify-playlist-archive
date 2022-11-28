@@ -4,12 +4,12 @@
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 7 min - not published yet
+52 songs - 3 hr 10 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 | 2022-10-25 |  |
-| [A Song For Dan](https://open.spotify.com/track/54ZRdH8aJD9yUbkJmkFqKz) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Twenty](https://open.spotify.com/album/216CNxCLlMTynBoS9uZAb2) | 4:59 | 2022-10-25 |  |
+| [A Song For Dan](https://open.spotify.com/track/54ZRdH8aJD9yUbkJmkFqKz) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Twenty](https://open.spotify.com/album/216CNxCLlMTynBoS9uZAb2) | 4:59 | 2022-10-25 | 2022-11-28 |
 | [All Ready To Go](https://open.spotify.com/track/0rkg1WLUTCvzYM8ViG29d8) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Twenty](https://open.spotify.com/album/216CNxCLlMTynBoS9uZAb2) | 3:59 | 2022-10-25 |  |
 | [Beat Up Car](https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:11 | 2022-10-25 |  |
 | [Best Places To Be A Mom](https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:31 | 2022-10-25 |  |
@@ -18,14 +18,15 @@
 | [Bullet With Butterfly Wings](https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Bullet With Butterfly Wings](https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG) | 4:32 | 2022-10-25 |  |
 | [Call Come Running](https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 3:12 | 2022-10-25 |  |
 | [Call Me In The Morning](https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:59 | 2022-10-25 |  |
-| [Capital M\-E](https://open.spotify.com/track/7gZpGRd8lzWXBIMDWIN2LX) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 2:48 | 2022-10-25 |  |
+| [Capital M\-E](https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 2:48 | 2022-11-27 |  |
+| [Capital M\-E](https://open.spotify.com/track/7gZpGRd8lzWXBIMDWIN2LX) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 2:48 | 2022-10-25 | 2022-11-28 |
 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 | 2022-10-25 |  |
 | [Cute Without The E \(Ziri\)](https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Cute Without The E \(Ziri\)](https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0) | 3:22 | 2022-11-10 |  |
 | [Death Wolf](https://open.spotify.com/track/2D1i89f8JciKL4IOmUwdEy) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 4:12 | 2022-10-25 |  |
 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 | 2022-10-25 |  |
 | [Everything Must Go](https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 4:44 | 2022-10-25 |  |
 | [Faith \(When I Let You Down\)](https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:08 | 2022-10-25 |  |
-| [Fences](https://open.spotify.com/track/4XtYWu7zHWqBOBgjVbgd74) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 3:37 | 2022-10-25 | 2022-11-15 |
+| [Fences](https://open.spotify.com/track/4XtYWu7zHWqBOBgjVbgd74) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 3:37 | 2022-10-25 |  |
 | [Flicker, Fade](https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 4:33 | 2022-10-25 |  |
 | [Great Romances Of The 20th Century \- Remastered](https://open.spotify.com/track/3c8n08bk0XGdL3HKro1kpD) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:35 | 2022-10-25 |  |
 | [I Felt It Too](https://open.spotify.com/track/4gQGrIw38yZITh4JQNEVOO) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 5:22 | 2022-10-25 |  |

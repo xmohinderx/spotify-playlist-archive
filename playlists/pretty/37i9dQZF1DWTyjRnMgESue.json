@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 38422,
+  "num_followers": 38511,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDk3YjYyNzczZGExZWUwZDY2YzJiYjY5YWFjYWE0OGRh",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDU5NWIxYWUyMGM2OGU1MjJkMDRmZjhjMjliZDdmM2Fm",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Midnight",
@@ -819,6 +803,22 @@
       "duration_ms": 228066,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Sapling / Signs Of Life",
@@ -951,6 +935,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "saw ur mom at the grocery store",
+        "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 253968,
+      "name": "saw ur mom at the grocery store",
+      "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "APART",
         "url": "https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 180707,
       "name": "Bed I Made",
       "url": "https://open.spotify.com/track/1wdDPuoYhNk5Zr9XYgURww"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "saw ur mom at the grocery store",
-        "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 253968,
-      "name": "saw ur mom at the grocery store",
-      "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Hang On To Me",
-        "url": "https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        },
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Hang On To Me",
-      "url": "https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Heard You Got Love",
         "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 189254,
       "name": "Pink Razor",
       "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Hang On To Me",
+        "url": "https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        },
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Hang On To Me",
+      "url": "https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "With The Band / Bruises & Scratches",
         "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 173070,
       "name": "With The Band",
       "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": "2022-08-12 04:00:00",

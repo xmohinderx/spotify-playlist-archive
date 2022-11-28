@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,990 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,067 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 30 | [Check Yourself](https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR) | [909](https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Check Yourself](https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl) | 3:27 |
 | 31 | [Behind the Scenes](https://open.spotify.com/track/20tM3OtYXmpUtoZjFnmO1b) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Behind the Scenes / Reeces Pieces](https://open.spotify.com/album/7ygR5BaUAeQuCOWd1IMdZp) | 4:42 |
 | 32 | [Shutdown](https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Shutdown](https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT) | 3:43 |
-| 33 | [Only You](https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U) | 3:36 |
-| 34 | [Turn It Up](https://open.spotify.com/track/2x3Ho0q8Jlg4oeKLplVNF3) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/3CYXvbET6O38TCv5fHHykm) | 3:01 |
-| 35 | [Jurgen Kropper \(feat\. Local\)](https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Jurgen Kropper \(feat\. Local\)](https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp) | 2:56 |
+| 33 | [Jurgen Kropper \(feat\. Local\)](https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Jurgen Kropper \(feat\. Local\)](https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp) | 2:56 |
+| 34 | [Only You](https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U) | 3:36 |
+| 35 | [Turn It Up](https://open.spotify.com/track/2x3Ho0q8Jlg4oeKLplVNF3) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/3CYXvbET6O38TCv5fHHykm) | 3:01 |
 | 36 | [Secure the Bag](https://open.spotify.com/track/3cy2jsGqXCDVGyWzVQ9tu0) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Secure the Bag](https://open.spotify.com/album/1r4AXEEkYShSDf7iGTNmuL) | 4:08 |
 | 37 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 |
 | 38 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 66 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
 | 67 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
 | 68 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 |
-| 69 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
-| 70 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 |
+| 69 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 |
+| 70 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
 
-Snapshot ID: `MTY2OTM5MzAyNSwwMDAwMDAwMDViZDRlMzM3NjU4YTk3YWMwMjlhZDAyZDA5MGI2ZDhl`
+Snapshot ID: `MTY2OTM5MzAyNSwwMDAwMDAwMGNjZDJlMmRlZGFlNTA2NWQ0YjYwYTc0MjI2Nzc4NDM3`

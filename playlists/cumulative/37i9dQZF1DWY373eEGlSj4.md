@@ -4,7 +4,7 @@
 
 > The most unforgettable love songs from the 70s.
 
-162 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/6mYSua03CeoIAGskzYR38n)
+163 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/6mYSua03CeoIAGskzYR38n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 | 2021-12-27 |  |
 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 | 2022-03-28 |  |
 | [City Of Angels](https://open.spotify.com/track/4gEPgpyjzXjr0jEbaBNTgZ) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [City Of Angels](https://open.spotify.com/album/101T3Y64HDKs7vh8FdGOoO) | 4:51 | 2022-03-28 | 2022-04-21 |
-| [Danny's Song](https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [The Best: Loggins & Messina Sittin' In Again](https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf) | 4:14 | 2022-03-28 |  |
+| [Danny's Song](https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [The Best: Loggins & Messina Sittin' In Again](https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf) | 4:14 | 2022-03-28 | 2022-11-28 |
 | [Day Dreaming](https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:59 | 2022-03-28 | 2022-04-21 |
 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 | 2021-12-27 |  |
 | [Do That To Me One More Time](https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Make Your Move](https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk) | 4:16 | 2021-12-27 |  |
@@ -112,6 +112,7 @@
 | [Precious and Few](https://open.spotify.com/track/7uuM0HwvCG20e5ttu6ugmP) | [Climax](https://open.spotify.com/artist/1OzPxKCB5R3MLxvkdGN03X) | [Precious & Few: The Complete Album](https://open.spotify.com/album/28DyBcgHa02YeelSR0u9Up) | 2:44 | 2022-03-28 | 2022-04-20 |
 | [Rainy Night in Georgia](https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Brook Benton Today](https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx) | 3:53 | 2022-03-28 | 2022-04-20 |
 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 | 2022-03-28 | 2022-10-19 |
+| [Reminiscing \- Remastered 2022](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 | 2022-11-07 |  |
 | [Reunited](https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:45 | 2021-12-27 | 2022-07-19 |
 | [Reunited \- Single Version](https://open.spotify.com/track/6Py3xwH8bHaCPnTVz2TFb6) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | ['70s Pop \#1's](https://open.spotify.com/album/0EGFovrr9MRmTAqnTAaYMU) | 3:57 | 2022-03-28 | 2022-04-21 |
 | [Right Time of the Night](https://open.spotify.com/track/2XKMIB0VzXF22pJpBKV6xn) | [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Jennifer Warnes](https://open.spotify.com/album/0z3pNcmRF7iLX39M2QKxY9) | 2:53 | 2022-03-28 | 2022-04-21 |

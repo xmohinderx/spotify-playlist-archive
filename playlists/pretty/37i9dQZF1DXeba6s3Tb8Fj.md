@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,208 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,225 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 10 | [N'taki](https://open.spotify.com/track/6lQ3h23PdvrsBYdIN3yuW5) | [Idrissa Soumaoro](https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F) | [Köte](https://open.spotify.com/album/3YlyK4Y9bf36KcYotJB8kp) | 4:23 |
 | 11 | [Hona](https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 5:38 |
 | 12 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 |
-| 13 | [Alghafiat](https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3) | [Amanar](https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px) | [Music from Saharan Cellphones, Vol\. 1](https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU) | 6:37 |
-| 14 | [Heygana](https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 5:58 |
+| 13 | [Heygana](https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 5:58 |
+| 14 | [Alghafiat](https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3) | [Amanar](https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px) | [Music from Saharan Cellphones, Vol\. 1](https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU) | 6:37 |
 | 15 | [Jamm](https://open.spotify.com/track/3CfFUDH9nHSZslwsAGImfL) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 4:48 |
 | 16 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 17 | [Catfish Blues](https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 5:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 49 | [An Mataf Germanawen](https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid) | 4:00 |
 | 50 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGJmMGYyYTExYzUyYWRhZDAyZGViMzgzYjVjYmUxYmEx`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGJiM2VhYTU4ZWFlOGJiNTMyYmMyMWJkMzJhNmYwZmE0`

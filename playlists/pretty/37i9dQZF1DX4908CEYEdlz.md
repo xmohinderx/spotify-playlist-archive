@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,027 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,006 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 52 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 |
 | 53 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 |
 | 54 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
-| 55 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
-| 56 | [Take the Ride](https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Take the Ride](https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX) | 2:58 |
+| 55 | [Take the Ride](https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Take the Ride](https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX) | 2:58 |
+| 56 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
 | 57 | [Actions Speak Louder Than Words \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 4:01 |
-| 58 | [Worst Is On It's Way \- Requiem Mass](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
-| 59 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
+| 58 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
+| 59 | [Worst Is On It's Way \- Requiem Mass](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
 | 60 | [Enter Sandman](https://open.spotify.com/track/2XGnAEodeIvFvoH60V251s) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Enter Sandman](https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH) | 4:23 |
 | 61 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 |
 | 62 | [Maquiagem](https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde) | [Ani Belle](https://open.spotify.com/artist/0YyO7b5QpE2BfJxHlM6K2b), [André Perucci](https://open.spotify.com/artist/1Oa1N664mb9Hh4BFWvn4yk) | [Maquiagem](https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 75 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
 
-Snapshot ID: `MTY2OTM0NTI2MCwwMDAwMDAwMGEyMjFkMDhhYWM4YzQ4ZjY5ZmE2NTZhMTljZDI0ZjRi`
+Snapshot ID: `MTY2OTM0NTI2MCwwMDAwMDAwMDJkOGQxMDc2YTE3YjY4ZTM0ZDFkN2U2ZDUzM2I3OTk1`

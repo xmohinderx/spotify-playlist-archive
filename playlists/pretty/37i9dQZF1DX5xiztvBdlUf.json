@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 538306,
+  "num_followers": 538456,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4MTU3MiwwMDAwMDAwMDEzNzUzYTZmM2E2NGUwM2ViNzg5NjM3MDQyOWRkODM3",
+  "snapshot_id": "MTY2OTM4MTU3MiwwMDAwMDAwMDFlMmYxZGU0YzlhMDJhODgzNzA5NGYwZWY1NWNmM2E0",
   "tracks": [
     {
       "added_at": "2022-11-25 13:06:12",
@@ -655,6 +655,26 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Future Memories",
+        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Soundexile",
+          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
+        }
+      ],
+      "duration_ms": 383250,
+      "name": "Teleport - Future Mix",
+      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Voices Above",
         "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 190942,
       "name": "Voices Above",
       "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Future Memories",
-        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Soundexile",
-          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
-        }
-      ],
-      "duration_ms": 383250,
-      "name": "Teleport - Future Mix",
-      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Lay It All On Me",
-        "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
-      },
-      "artists": [
-        {
-          "name": "Phantoms",
-          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 227384,
-      "name": "Lay It All On Me",
-      "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 357283,
       "name": "Trojan Love - Original Club Mix",
       "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Lay It All On Me",
+        "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
+      },
+      "artists": [
+        {
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 227384,
+      "name": "Lay It All On Me",
+      "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "NOSTALGIA*",
+        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "NOSTALGIA*",
+      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Far Behind",
         "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 228187,
       "name": "All That Glitters",
       "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "NOSTALGIA*",
-        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "NOSTALGIA*",
-      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "10 Years From Now / Collide",
-        "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
-      },
-      "artists": [
-        {
-          "name": "PARIS",
-          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
-        },
-        {
-          "name": "Kaleida",
-          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
-        }
-      ],
-      "duration_ms": 275369,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Made of Wood Remixed",
         "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
       },
@@ -1311,18 +1291,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Sun Salutations EP",
-        "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
+        "name": "10 Years From Now / Collide",
+        "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
       },
       "artists": [
         {
-          "name": "Breach",
-          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+          "name": "PARIS",
+          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
+        },
+        {
+          "name": "Kaleida",
+          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
         }
       ],
-      "duration_ms": 484645,
-      "name": "Sun Salutations",
-      "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
+      "duration_ms": 275369,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1339,6 +1323,22 @@
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Sun Salutations EP",
+        "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        }
+      ],
+      "duration_ms": 484645,
+      "name": "Sun Salutations",
+      "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Feelin' / Don't Lose Control",
-        "url": "https://open.spotify.com/album/2lauqd4ZtaiPpgo45tpcQE"
-      },
-      "artists": [
-        {
-          "name": "Ivory (IT)",
-          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
-        }
-      ],
-      "duration_ms": 226352,
-      "name": "Feelin\u2019",
-      "url": "https://open.spotify.com/track/3u7ViRI0Yl94qqln4SH4SG"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Camaleon",
         "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 387302,
       "name": "Diving Into Minds - Club Mix",
       "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Feelin' / Don't Lose Control",
+        "url": "https://open.spotify.com/album/2lauqd4ZtaiPpgo45tpcQE"
+      },
+      "artists": [
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "duration_ms": 226352,
+      "name": "Feelin\u2019",
+      "url": "https://open.spotify.com/track/3u7ViRI0Yl94qqln4SH4SG"
     },
     {
       "added_at": "2022-11-25 13:06:12",

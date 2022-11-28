@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118192,
+  "num_followers": 118185,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGMxNjFjODc0NzZmYmE2NTk5ZmYyMTRjMmU0MWQ1NzQz",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDE5YjA5NWQ1NTlhNzFiODcxNDBmNDRjMTUwMmMyMTk3",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -31,22 +31,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 361026,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -295,26 +295,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "BLAME IT ON BABY",
         "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Um Pedido",
         "url": "https://open.spotify.com/album/7oXqiOeFY3lrUNg3UU1OeJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 211985,
       "name": "Um Pedido",
       "url": "https://open.spotify.com/track/71dwCpTZQpjLuqnJzyGbFz"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 217731,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
     },
     {
       "added_at": "2020-10-20 20:23:39",

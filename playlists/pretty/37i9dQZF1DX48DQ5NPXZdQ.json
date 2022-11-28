@@ -1,12 +1,12 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. En portada: Juan Gabriel",
-  "num_followers": 36477,
+  "num_followers": 36551,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzNTgxMSwwMDAwMDAwMDY0OGFmMjJjMTQ0ZGJhZTQ4NDlkYzA0NTM3YThjM2Fl",
+  "snapshot_id": "MTY2NjYzNTgxMSwwMDAwMDAwMDlmZjlkNTA3MjMxY2Q4NzZiOGQyMGM3ZDU3NWNmNGNh",
   "tracks": [
     {
       "added_at": "2022-10-24 18:23:31",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
         "name": "Day By Night (with Paul Weston & His Music From Hollywood)",
         "url": "https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 223373,
       "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
       "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2022-10-24 18:23:31",

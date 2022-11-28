@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 141697,
+  "num_followers": 142073,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE5MTczNywwMDAwMDAwMDQyYzQwM2U1YWQ3MzNmNjQwZWNkNDUwMjY5OGE0N2U1",
+  "snapshot_id": "MTY2OTE5MTczNywwMDAwMDAwMDdmZDMxNWMxYjZlZTAxZmIyYjJkMjE3NDA3OWIxMDFh",
   "tracks": [
     {
       "added_at": "2022-11-18 09:19:46",
@@ -143,26 +143,6 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
-        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
-    },
-    {
-      "added_at": "2022-11-18 09:19:46",
-      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 280000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
+    },
+    {
+      "added_at": "2022-11-18 09:19:46",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
-    },
-    {
-      "added_at": "2022-11-18 09:19:46",
-      "album": {
         "name": "The Complete Commodore Recordings",
         "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 194573,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
+    },
+    {
+      "added_at": "2022-11-18 09:19:46",
+      "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
-    },
-    {
-      "added_at": "2022-11-18 09:19:46",
-      "album": {
         "name": "Dream with Dean",
         "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 182653,
       "name": "Fools Rush In",
       "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
+    },
+    {
+      "added_at": "2022-11-18 09:19:46",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
-    },
-    {
-      "added_at": "2022-11-18 09:19:46",
-      "album": {
         "name": "Ultimate Peggy Lee",
         "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 125946,
       "name": "Have You Met Miss Jones",
       "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
+    },
+    {
+      "added_at": "2022-11-18 09:19:46",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -1015,22 +1015,6 @@
       "duration_ms": 216626,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
-    },
-    {
-      "added_at": "2022-11-18 09:19:46",
-      "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "All I Do Is Dream Of You - Remastered",
-      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "All I Do Is Dream Of You - Remastered",
+      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+    },
+    {
+      "added_at": "2022-11-18 09:19:46",
+      "album": {
         "name": "Some Nice Things I've Missed",
         "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 241733,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+    },
+    {
+      "added_at": "2022-11-18 09:19:46",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 104773,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
-    },
-    {
-      "added_at": "2022-11-18 09:19:46",
-      "album": {
         "name": "Anita Sings The Most",
         "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 104773,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
+      "duration_ms": 165400,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -1243,6 +1243,22 @@
       "duration_ms": 186133,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
+    },
+    {
+      "added_at": "2022-11-18 09:19:46",
+      "album": {
+        "name": "Vaughan And Violins",
+        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "That's All",
+      "url": "https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -1295,38 +1311,6 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "Meet Me Around Midnight",
-        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "One for My Baby",
-      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
-    },
-    {
-      "added_at": "2022-11-18 09:19:46",
-      "album": {
-        "name": "Vaughan And Violins",
-        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "That's All",
-      "url": "https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9"
-    },
-    {
-      "added_at": "2022-11-18 09:19:46",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 109813,
       "name": "Long Ago and Far Away",
       "url": "https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6"
+    },
+    {
+      "added_at": "2022-11-18 09:19:46",
+      "album": {
+        "name": "Meet Me Around Midnight",
+        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "One for My Baby",
+      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+        "name": "L.A. Is My Lady",
+        "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
       },
       "artists": [
         {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 132840,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
+      "duration_ms": 225933,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
     },
     {
       "added_at": "2022-11-18 09:19:46",
@@ -1423,22 +1427,18 @@
     {
       "added_at": "2022-11-18 09:19:46",
       "album": {
-        "name": "L.A. Is My Lady",
-        "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
+      "duration_ms": 132840,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
     },
     {
       "added_at": "2022-11-18 09:19:46",

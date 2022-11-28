@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Anna Lapwood continues The Classical Takeover with her all\-time favourite tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,001 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,515 likes - 50 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

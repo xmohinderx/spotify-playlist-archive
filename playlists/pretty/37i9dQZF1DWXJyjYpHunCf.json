@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 791660,
+  "num_followers": 791755,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDE4MTAzZmNhNTc5ZTc1Y2EyNmUwNjA2NTk4N2YxNDAy",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGFhZDFiN2YxMzk2NWQzM2I5MWEzNThiNjkyMTdmYjgz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Yellow Paper Daisy",
         "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 199772,
       "name": "Yellow Paper Daisy",
       "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 211579,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "All Day Long",
         "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 169433,
       "name": "All Day Long",
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 211579,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
-      },
-      "artists": [
-        {
-          "name": "Soll",
-          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "River",
-      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Spiders",
         "url": "https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 198040,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
+      },
+      "artists": [
+        {
+          "name": "Soll",
+          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "River",
+      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "In Tokens & Charms",
+        "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 211193,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Break Me Open",
         "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "In Tokens & Charms",
-        "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
       },
       "artists": [
         {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
         }
       ],
-      "duration_ms": 211193,
-      "name": "Oh Love",
-      "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
+      "duration_ms": 206706,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/6x7WJwbHiNoCKoKtGWawsZ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 236906,
       "name": "Revolution (feat. First Aid Kit)",
       "url": "https://open.spotify.com/track/0j1bpDEg44YsqDtvqBBJul"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/6x7WJwbHiNoCKoKtGWawsZ"
     },
     {
       "added_at": "2022-10-14 04:00:00",

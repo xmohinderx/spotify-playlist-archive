@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 50 | [Boys Do Cry](https://open.spotify.com/track/1gK4smjjI1rJWH8KzStaRI) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/1Y9CHStZf17ywRzOYAhYhC) | 2:46 |
 | 51 | [De l'or entre tes mains](https://open.spotify.com/track/0j7uxGJ7Epf7GhoZrbc4aH) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:17 |
 | 52 | [All I Know](https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [All I Know](https://open.spotify.com/album/6Md1me9GYeZdb1GBSHfUHt) | 3:11 |
-| 53 | [Curious](https://open.spotify.com/track/6APT6IH8fpzcnnPiI76XBH) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Curious](https://open.spotify.com/album/1hjSD6LF98EBRSQrL3Py88) | 3:38 |
-| 54 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
+| 53 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
+| 54 | [Curious](https://open.spotify.com/track/6APT6IH8fpzcnnPiI76XBH) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Curious](https://open.spotify.com/album/1hjSD6LF98EBRSQrL3Py88) | 3:38 |
 | 55 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 |
 | 56 | [When I'm Alone](https://open.spotify.com/track/7bFWZ8rbEt8qxddz44Is8W) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57) | 2:28 |
 | 57 | [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 73 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 74 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc4MjUxOTgsMDAwMDAwMDA3Y2EyZTU0NWM1MTE3YjBmMGYxZjE4YzAwNzU4OWNkOA==`
+Snapshot ID: `Mjc4MjY2MzgsMDAwMDAwMDBhOGEwNjIyMjlkYjE5NjI2YWNkNDE3MTJmMWNhMmVmMg==`

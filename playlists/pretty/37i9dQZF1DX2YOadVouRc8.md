@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,940 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,963 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 56 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 |
 | 57 | [Bordeaux](https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Muthoni](https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj), [Edwvn](https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn), [Narah](https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh), [Tronomie](https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA) | [Bordeaux](https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq) | 3:18 |
 | 58 | [Can You See Her](https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3) | [Tha Beatsmith](https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Vanity](https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0) | 3:44 |
-| 59 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 |
-| 60 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 |
+| 59 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 |
+| 60 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 |
 | 61 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 |
 | 62 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 |
-| 63 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
-| 64 | [Your Love \- Mogbe](https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Afro Nation](https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Your Love \(Mogbe\)](https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV) | 2:40 |
+| 63 | [Your Love \- Mogbe](https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Afro Nation](https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Your Love \(Mogbe\)](https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV) | 2:40 |
+| 64 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
 | 65 | [Suga Candy](https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Spring to Summer](https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo) | 4:14 |
 | 66 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 |
 | 67 | [Maria](https://open.spotify.com/track/31vGsbC3mF1BQN2yoAIbwM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Saturn](https://open.spotify.com/album/4RIkecgp5BwhKiYTt9tmwB) | 2:43 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 76 | [Somali Rose](https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Somali Rose](https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu) | 4:19 |
 | 77 | [Streets](https://open.spotify.com/track/17EfS2HABo1TrvP0IeXWZ4) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Rhaffy](https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL) | [Streets](https://open.spotify.com/album/1goCePe21K8C2PtUJ5ylFa) | 2:46 |
 | 78 | [Breathing](https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [Breathing](https://open.spotify.com/album/2vuKxwd9eHXmNP2AolZYp2) | 3:01 |
-| 79 | [Jo](https://open.spotify.com/track/3vQDViTCjRem00CGS7Rr6J) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Jo](https://open.spotify.com/album/5ibum2SHIL8CmOqguxiolN) | 3:13 |
-| 80 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 |
+| 79 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 |
+| 80 | [Jo](https://open.spotify.com/track/3vQDViTCjRem00CGS7Rr6J) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Jo](https://open.spotify.com/album/5ibum2SHIL8CmOqguxiolN) | 3:13 |
 
-Snapshot ID: `MTY2OTM2MTc5MywwMDAwMDAwMGVjNTU1NDZiYjM1ODllNTI1MjhjNjZiZjgwY2M3ZDMy`
+Snapshot ID: `MTY2OTM2MTc5MywwMDAwMDAwMDk5MmNkMzQ5NTNkOTM4YzQxYzA3OGFhMTMxOTFmM2E1`

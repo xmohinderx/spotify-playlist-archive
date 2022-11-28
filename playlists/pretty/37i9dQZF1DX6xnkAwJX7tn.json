@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 272179,
+  "num_followers": 272568,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI3NywwMDAwMDAwMDhkOGVmYTFkYTM1MDM0OGNmY2MzOTMzYmIzMDk4ODZm",
+  "snapshot_id": "MTY1MDkxNjI3NywwMDAwMDAwMGU0MzIxYTM4NDU3MDliNzAxOGM0NmU0OGY1MTViNTEx",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "The Age of Consent",
@@ -739,6 +723,22 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Tiffany",
-        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
-      },
-      "artists": [
-        {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Raising Hell",
@@ -1207,6 +1191,22 @@
       "duration_ms": 310386,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1625,6 +1625,22 @@
       "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Somebody's Watching Me",
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+        "name": "Fame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
       },
       "artists": [
         {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+      "duration_ms": 316066,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
       "added_at": "2021-09-18 06:09:03",
@@ -1671,22 +1687,6 @@
       "duration_ms": 208573,
       "name": "Hands Up - Single Version",
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Fame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1921,6 +1921,26 @@
       "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 285253,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Word Up",
@@ -1953,24 +1973,20 @@
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
       "artists": [
         {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 285253,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1987,22 +2003,6 @@
       "duration_ms": 215173,
       "name": "Raspberry Beret",
       "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Empty Glass",
-        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
-      },
-      "artists": [
-        {
-          "name": "Pete Townshend",
-          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Let My Love Open The Door",
-      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "The Lexicon Of Love",
         "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 209160,
       "name": "The Look Of Love, Pt.1",
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Empty Glass",
+        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
+      },
+      "artists": [
+        {
+          "name": "Pete Townshend",
+          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Let My Love Open The Door",
+      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2133,22 +2133,6 @@
       "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Arista Heritage Series: Ray Parker",
-        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "True (Special Edition)",
@@ -2179,6 +2163,22 @@
       "duration_ms": 255220,
       "name": "You Keep Me Hangin On",
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Arista Heritage Series: Ray Parker",
+        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
     },
     {
       "added_at": "2021-09-08 13:09:25",

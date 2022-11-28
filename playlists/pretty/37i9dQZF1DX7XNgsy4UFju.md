@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,628 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,619 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 14 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 |
 | 15 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 |
 | 16 | [When I Die](https://open.spotify.com/track/6lhhLvkwJniNGJmZ01MCtI) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong \(Deluxe Edition\)](https://open.spotify.com/album/55k2y2CMY7Xkw7T3t26MTS) | 4:45 |
-| 17 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
+| 17 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 18 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 |
 | 19 | [High Up](https://open.spotify.com/track/673Qsp2V9lhYhGaTfdStBc) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [High Up](https://open.spotify.com/album/3f4yPWECYZEfxhQtUB7BKJ) | 3:29 |
 | 20 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [First Time Caller](https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [First Time Caller](https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6) | 5:17 |
 | 100 | [Chemical Emotion](https://open.spotify.com/track/57KXGxtYYTZB0bLwrHHvTD) | [Jeen](https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz) | [Chemical Emotion](https://open.spotify.com/album/4VzLUZMDRGHN5vpyYbLBPd) | 3:10 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGQ4Mjc2MmM5YjViNjQ2ZWQ5NTYxZWE5OTNmNGNiYzBm`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDY1NWE1YjZiOGMyZTM5OTFhMGE5ZjQ2NDcxNjNiMzZk`

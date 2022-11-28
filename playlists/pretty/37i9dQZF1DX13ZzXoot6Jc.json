@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Luke Combs",
-  "num_followers": 424544,
+  "num_followers": 424760,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMyOTY2NiwwMDAwMDAwMDcwNTBkYTAyNDYxYTU3ODRlOGE2ZTExYmM4YWZjODQ2",
+  "snapshot_id": "MTY2OTMyOTY2NiwwMDAwMDAwMGQ1NWQ0N2IzZDllMzZiNTNlYjBmYjU5OTI3MjYwMzcx",
   "tracks": [
     {
       "added_at": "2022-11-17 17:01:51",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "One Man Band",
+      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "One Man Band",
-      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
     },
     {
       "added_at": "2022-11-17 17:01:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Country On",
-        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 236455,
-      "name": "Country On",
-      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 246760,
       "name": "Any Man Of Mine",
       "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
     },
     {
       "added_at": "2022-11-17 17:01:51",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        },
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Just the Way",
-      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -723,6 +703,26 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
         "name": "The Way It Feels",
         "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
         "name": "Doin' This",
         "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 254181,
       "name": "Doin' This",
       "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
     },
     {
       "added_at": "2022-11-17 17:01:51",
@@ -923,21 +923,25 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
+        "name": "Famous Friends",
+        "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
+      "duration_ms": 165569,
+      "name": "Famous Friends",
+      "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
     },
     {
-      "added_at": "2022-11-27 01:19:14",
+      "added_at": "2022-11-28 01:17:20",
       "album": {
         "name": "Water Under The Bridge",
         "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
@@ -955,22 +959,18 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Famous Friends",
-        "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
       "artists": [
         {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 165569,
-      "name": "Famous Friends",
-      "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2022-11-17 17:01:51",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Rolex\u00ae On A Redneck",
-        "url": "https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Rolex\u00ae On A Redneck",
-      "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/0s1A44tg1Y21SLHDylmugR"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
+        "name": "Rolex\u00ae On A Redneck",
+        "url": "https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Rolex\u00ae On A Redneck",
+      "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
     },
     {
       "added_at": "2022-11-17 17:01:51",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
+        "name": "Life Rolls On",
+        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Long Live",
+      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Life Rolls On",
-        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Long Live",
-      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
         "name": "Memory I Don't Mess With",
         "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-17 17:01:51",
       "album": {
-        "name": "Single Saturday Night",
-        "url": "https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 187683,
-      "name": "Single Saturday Night",
-      "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
-    },
-    {
-      "added_at": "2022-11-17 17:01:51",
-      "album": {
         "name": "Born Here Live Here Die Here",
         "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 193426,
       "name": "One Margarita",
       "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
+    },
+    {
+      "added_at": "2022-11-17 17:01:51",
+      "album": {
+        "name": "Single Saturday Night",
+        "url": "https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 187683,
+      "name": "Single Saturday Night",
+      "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
     },
     {
       "added_at": "2022-11-17 17:01:51",

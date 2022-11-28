@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-338 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+339 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2020-10-20\* | 2020-12-02 |
 | [Butterfly Princess](https://open.spotify.com/track/1kLzeHGRyVzACePnPikgsy) | [Midnight Sound Band](https://open.spotify.com/artist/17OGBXahBsPFrJWsHMhRzJ) | [She Stole My Heart](https://open.spotify.com/album/3VbY9AQXZ53DjldLT4sb23) | 3:39 | 2022-02-02 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2020-10-20\* |  |
-| [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-14 |  |
+| [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-14 | 2022-11-28 |
 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 |  |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2020-10-20\* | 2020-12-09 |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2021-11-30 |  |
@@ -111,6 +111,7 @@
 | [How Long Has This Been Going On](https://open.spotify.com/track/1va10gN1rrBJOCsBKY3ZZi) | [Kara Spiro](https://open.spotify.com/artist/7bsvOZbS47pVQPHPD8f2CO) | [My Romance EP](https://open.spotify.com/album/41DBv5rb9HsJkzmZ8okL4n) | 2:54 | 2020-10-20\* | 2021-01-21 |
 | [Hush](https://open.spotify.com/track/1DaqNS1d8PFJ3SmYl1lb0y) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Hush](https://open.spotify.com/album/2myqZD63aBJPgYjQ1N9vbu) | 3:46 | 2020-10-20\* | 2021-10-13 |
 | [I Can't Get Started](https://open.spotify.com/track/5L9Mumh1rUDSIaHPzLpVhj) | [Sal Ritter](https://open.spotify.com/artist/2ExFoyhPRTmehwcofSp2E0) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/3rIfaasfAx6n5CEbdnw8Ql) | 3:56 | 2020-10-20\* | 2022-08-22 |
+| [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2020-10-20\* | 2021-01-21 |
 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 | 2021-06-05 |  |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/55R3ErqINJB9SiOEMqv6mh) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 4:47 | 2020-10-20\* | 2022-09-23 |

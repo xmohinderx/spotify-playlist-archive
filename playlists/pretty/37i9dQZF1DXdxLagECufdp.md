@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,610 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,633 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 8 | [Parla più piano \(Love Theme from "The Godfather"\)](https://open.spotify.com/track/4vs7AkZvFE3T87rdfQEvVA) | [The Speakeasies' Swing Band!](https://open.spotify.com/artist/1oUi6Bbik9rnyUtnQUnC2g) | [Land of Plenty](https://open.spotify.com/album/2R4Nkyigz44hJbVd004zhS) | 4:51 |
 | 9 | [Me cago en el amor](https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK) | [Tonino Carotone](https://open.spotify.com/artist/6rM57PYs1352JJdgKFFG2n) | [Mondo Difficile](https://open.spotify.com/album/0UbCMQfV6mZZQi0lAPAWUG) | 6:04 |
 | 10 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 |
-| 11 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
-| 12 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 |
+| 11 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 |
+| 12 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
 | 13 | [Un Gran Circo](https://open.spotify.com/track/5BwVAAJzAuzpDHeWuKdFsN) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:10 |
 | 14 | [Moliendo Café](https://open.spotify.com/track/7eOtKm3fNAeAhAoIZmJuEY) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Iag Bari](https://open.spotify.com/album/6zUrmT5eJIG2lNajO4AxJj) | 2:27 |
 | 15 | [Canción Animal](https://open.spotify.com/track/4WEaMJomqn7EtH6frQe0dI) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd) | [Átoma](https://open.spotify.com/album/1GnZNhvpkEWW64WkjTyzfg) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Cantina Band](https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Bien Bonito](https://open.spotify.com/album/1nKWJPzzuboXqkeG8jntbR) | 2:49 |
 | 50 | [Oh My Girl \- French Version](https://open.spotify.com/track/6d2AYwXli3hQpnLyg1cfvl) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Antoine Villoutreix](https://open.spotify.com/artist/1LeuN4Zsd04HulaBIIRYVb) | [Strange Things Beyond the Sunny Side](https://open.spotify.com/album/2SpUhxXyFjsSS0XomMSUZw) | 3:31 |
 
-Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMGZiNGRjYTU5NTU3YmFiNDY1OGY3YjY4OWU1NDExYzcw`
+Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDMxZGU5ZjU5MzBkODE0ZGZiMGU5OTQ1OWUwYTc5NzEz`

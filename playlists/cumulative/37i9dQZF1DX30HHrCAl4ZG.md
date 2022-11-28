@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-744 songs - 1 day 16 hr 29 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+745 songs - 1 day 16 hr 32 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [adrenaline](https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 2:23 | 2022-11-18 |  |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-05 | 2022-04-19 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 |  |
+| [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2022-10-07 |  |
 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 | 2022-11-25 |
-| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 |  |
+| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-11-28 |
 | [Ain't Over You](https://open.spotify.com/track/2hHh28T8hwiKqLeQ6P8xx1) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [Ain't Over You](https://open.spotify.com/album/4T6RG1HJfpKQ5Y1Mbm3crO) | 3:29 | 2021-06-07 | 2022-01-23 |
 | [Air Guitar](https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs) | 3:03 | 2022-10-28 | 2022-10-30 |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-10-28 | 2022-11-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,943 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,957 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 7 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 |
 | 8 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
 | 9 | [Aben Wo Aha](https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:10 |
-| 10 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 |
-| 11 | [Ahomka Wo Mu](https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4), [Tic Tac,Frank Mensah,2\-Tee,Lil Kryz,Abortion](https://open.spotify.com/artist/373YE3CDdFni3txqURZTch) | [Ahomka Womu](https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG) | 5:27 |
+| 10 | [Ahomka Wo Mu](https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4), [Tic Tac,Frank Mensah,2\-Tee,Lil Kryz,Abortion](https://open.spotify.com/artist/373YE3CDdFni3txqURZTch) | [Ahomka Womu](https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG) | 5:27 |
+| 11 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 |
 | 12 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
 | 13 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 |
 | 14 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 34 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
 | 35 | [DADA BA](https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [DADA BA](https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby) | 3:04 |
 | 36 | [Money No Dey](https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7) | [O'baya](https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Money No Dey](https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh) | 3:15 |
-| 37 | [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 |
-| 38 | [Medo](https://open.spotify.com/track/6dO8RYtvSOTr2VLXVEQRVu) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/2Bg6vk2wOHQj5HJtTulISZ) | [Yeesom Sika](https://open.spotify.com/album/1ZdQbM6DD603nNABFvAYJe) | 4:52 |
+| 37 | [Medo](https://open.spotify.com/track/6dO8RYtvSOTr2VLXVEQRVu) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/2Bg6vk2wOHQj5HJtTulISZ) | [Yeesom Sika](https://open.spotify.com/album/1ZdQbM6DD603nNABFvAYJe) | 4:52 |
+| 38 | [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 |
 | 39 | [Made in Ghana](https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Made in Ghana](https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1) | 3:09 |
 | 40 | [Martha Matter](https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Martha Matter](https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5) | 3:14 |
 
-Snapshot ID: `MTY1Mjk4OTE4OCwwMDAwMDAwMDY4MWViMzI4ZDBiNzU2NjcyNGNkMjVlYmY1ODhmYTI3`
+Snapshot ID: `MTY1Mjk4OTE4OCwwMDAwMDAwMGM3YzEzNjdjMWYzNTM1YWE2OGViMTk4ZjBlMmIxODgx`

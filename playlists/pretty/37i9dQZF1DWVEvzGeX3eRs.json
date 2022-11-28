@@ -1,12 +1,12 @@
 {
   "description": "What we're gonna do right now is go back\u2014back in time. Here are all your favorite '90s R&B slow jams!",
-  "num_followers": 1474062,
+  "num_followers": 1474418,
   "original_name": "'90s Baby Makers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMDFmM2EwMjUyMTliYWY5YjBhNGViYWQ1NGI2NzM2OGE0",
+  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMDIyMzg0ZTQwYzA1NTkxMWZmMjUyMzg5NDRhNzIzMTIx",
   "tracks": [
     {
       "added_at": "2021-03-05 00:03:16",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 282333,
-      "name": "Kissin' You",
-      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 323826,
       "name": "Let's Chill",
       "url": "https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Kissin' You",
+      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "Best Of SWV",
+        "url": "https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Use Your Heart",
+      "url": "https://open.spotify.com/track/5mCQirG6bW3iDN0gpdoxrP"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "Diamonds and Pearls",
         "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 399666,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/3q4SUOc4upvsrFItSrELsX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Best Of SWV",
-        "url": "https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Use Your Heart",
-      "url": "https://open.spotify.com/track/5mCQirG6bW3iDN0gpdoxrP"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -775,18 +775,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Radio Waves Of The '90s: Urban Hits",
-        "url": "https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C"
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
       },
       "artists": [
         {
-          "name": "Lokey",
-          "url": "https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 257399,
-      "name": "I Got A Thang 4 Ya!",
-      "url": "https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0"
+      "duration_ms": 375706,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0"
     }
   ],
   "unique_name": "'90s Baby Makers",

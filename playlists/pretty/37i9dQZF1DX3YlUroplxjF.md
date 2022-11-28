@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,603 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,650 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 9 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 |
 | 10 | [Neon Grave](https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Neon Grave](https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8) | 3:59 |
 | 11 | [Like A Villain](https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:30 |
-| 12 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
-| 13 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
+| 12 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
+| 13 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
 | 14 | [Into The Dark \(feat\. Kellin Quinn\)](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
 | 15 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 |
 | 16 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 41 | [Infinite](https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Infinite](https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4) | 2:43 |
 | 42 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 |
 | 43 | [medicine](https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [medicine](https://open.spotify.com/album/1KGKzyp51fVDw8VsM73tGu) | 3:47 |
-| 44 | [Stars Before The Sun](https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:27 |
-| 45 | [Signs](https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj) | 4:28 |
+| 44 | [Losing Control](https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 3:28 |
+| 45 | [Stars Before The Sun](https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:27 |
 | 46 | [Down To Hell](https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:16 |
-| 47 | [Losing Control](https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 3:28 |
+| 47 | [Signs](https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj) | 4:28 |
 | 48 | [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 |
 | 49 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
 | 50 | [Hypochondria](https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:49 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 58 | [A Death In The Family](https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:18 |
 | 59 | [Feel It](https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:54 |
 | 60 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
-| 61 | [Blue](https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [The Truth in Your Eyes](https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm) | 3:47 |
-| 62 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
+| 61 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
+| 62 | [Blue](https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [The Truth in Your Eyes](https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm) | 3:47 |
 | 63 | [New England Palm Trees](https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [The Lost Boys](https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL) | 3:31 |
 | 64 | [Talking to Myself](https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
 | 65 | [Bury a Lie](https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [To Better Days](https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p) | 3:16 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 84 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
 | 85 | [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 |
 | 86 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
-| 87 | [Drive Me Home](https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU) | [Lilac Kings](https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT) | [Goodnight](https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk) | 2:38 |
-| 88 | [Monsters](https://open.spotify.com/track/55WJq2EsJoTSvvF15Q4gCy) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Monsters](https://open.spotify.com/album/5Z38H9q6QDcTmX3jW1j0Jw) | 3:42 |
+| 87 | [Monsters](https://open.spotify.com/track/55WJq2EsJoTSvvF15Q4gCy) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Monsters](https://open.spotify.com/album/5Z38H9q6QDcTmX3jW1j0Jw) | 3:42 |
+| 88 | [Drive Me Home](https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU) | [Lilac Kings](https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT) | [Goodnight](https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk) | 2:38 |
 | 89 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 |
 | 90 | [Distance](https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 2:59 |
 | 91 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 97 | [Sudden Sky](https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 4:20 |
 | 98 | [Demons](https://open.spotify.com/track/4KyUg4IdVVqJRoLGowHqyl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Let Light Overcome](https://open.spotify.com/album/1eaAMaWcmbP6YsZhUsbbkN) | 3:36 |
 | 99 | [Dirty Talk](https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Dirty Talk](https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT) | 2:40 |
-| 100 | [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 |
+| 100 | [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 |
 
-Snapshot ID: `MTY2OTQyNDAyNywwMDAwMDAwMGY5MmJmZjNjZGUxMDYyYWY2NzMwMGExMzI2Y2Y3YjA5`
+Snapshot ID: `MTY2OTQyNDAyNywwMDAwMDAwMDJlMjZkMjgzNDkzZTc5MzIwNmE5MWU1ZjgwMjIyZDk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,876 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,111 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 83 | [Thunder](https://open.spotify.com/track/1MrNveiYvWyKNAMiqn8xS8) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:56 |
 | 84 | [Pieces Of Me](https://open.spotify.com/track/7yXibbAYi4to5oQTeO738f) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Autobiography](https://open.spotify.com/album/0w11HUk0hE4WZ95Bvp6vNI) | 3:37 |
 | 85 | [Somewhere Out There](https://open.spotify.com/track/6fQJg7MdQssgZJDhTJtFtd) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Gravity](https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd) | 4:11 |
-| 86 | [Nothing](https://open.spotify.com/track/0c3yfC8zMRJGvmqphczhZb) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP) | 4:32 |
-| 87 | [Feels Like Home](https://open.spotify.com/track/7p8vwbbf9sMQbrdQrsmTlI) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pgz5zZ0umsGd4vKNhR2lV) | 4:39 |
+| 86 | [Feels Like Home](https://open.spotify.com/track/7p8vwbbf9sMQbrdQrsmTlI) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pgz5zZ0umsGd4vKNhR2lV) | 4:39 |
+| 87 | [Nothing](https://open.spotify.com/track/0c3yfC8zMRJGvmqphczhZb) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP) | 4:32 |
 | 88 | [Chances](https://open.spotify.com/track/1MzlQlMCHU4zSyHjVGbMln) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [Slice](https://open.spotify.com/album/2POpSYIitmzUOvw7i6lqKT) | 3:35 |
-| 89 | [Nothing Left to Lose](https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose](https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM) | 4:23 |
-| 90 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
+| 89 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
+| 90 | [Nothing Left to Lose](https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose](https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM) | 4:23 |
 | 91 | [Closing Time](https://open.spotify.com/track/6liaHE9iHh23PLVvw7lK8V) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine \(20th Anniversary Edition\)](https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T) | 4:33 |
 | 92 | [Into Your Arms](https://open.spotify.com/track/3skPCcteHhoPV6GkzxVl2p) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 3:59 |
 | 93 | [Someone's Watching Over Me](https://open.spotify.com/track/1wkl1b5DQZrVkFlp6qNNmu) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/51K6Op3c6XouBYKThO8OL6) | 4:11 |
-| 94 | [Screaming Infidelities](https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [The Places You Have Come to Fear the Most](https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv) | 3:46 |
-| 95 | [Samson](https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:09 |
-| 96 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
+| 94 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
+| 95 | [Screaming Infidelities](https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [The Places You Have Come to Fear the Most](https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv) | 3:46 |
+| 96 | [Samson](https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:09 |
 | 97 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 |
 | 98 | [Untitled \(How Could This Happen to Me?\)](https://open.spotify.com/track/3eRLKD1Lgc2OrYGxRxX62s) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:59 |
 | 99 | [The First Cut Is The Deepest](https://open.spotify.com/track/0wyOnrfGOlDdWHdIybLr4n) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The First Cut Is The Deepest](https://open.spotify.com/album/1L0XnWcJWHrsDtRP9XeUYG) | 3:46 |
 | 100 | [Where I Stood](https://open.spotify.com/track/76CYHISAJBBjQr0vgP9mrC) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [On a Clear Night](https://open.spotify.com/album/5g8Z9GwurUdRCm6SToBqvW) | 4:17 |
 
-Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMGY5MTlmY2EwYTc0MjliOGFmZTU2YWI3ZTExZWNmNTY5`
+Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMGI4NjNkNzY2M2VlNDAyNDlmYzk3YTk5NGMxYjE3YzZm`

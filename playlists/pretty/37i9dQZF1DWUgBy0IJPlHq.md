@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > The soundtrack for your road trips, campfires, and keeping you busy in between episodes of Yellowstone\. Curated by Yellowstone music supervisor, Andrea von Foerster\. Cover: Drayton Farley
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,221 likes - 155 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,425 likes - 155 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
