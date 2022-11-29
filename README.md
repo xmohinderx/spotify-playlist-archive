@@ -2563,6 +2563,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Mood Booster](/playlists/pretty/37i9dQZF1DX3rxVfibe1L0.md)
 - [Mood Ring](/playlists/pretty/37i9dQZF1DX2PG4mbkilf3.md)
 - [Mood Swing](/playlists/pretty/37i9dQZF1DXalD3w3b88aW.md)
+- [Moody Mix](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md)
 - [MoogTube](/playlists/pretty/37i9dQZF1DWUG71vGUBGjh.md)
 - [Moonlight Beats](/playlists/pretty/37i9dQZF1DXdipfKDeMPTE.md)
 - [More Banjo!](/playlists/pretty/1W2XJETQjFYdzT4GuhBHmS.md)
