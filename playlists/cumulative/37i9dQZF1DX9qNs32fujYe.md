@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Gojira
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Metallica
 
-678 songs - 2 day 2 hr 32 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+679 songs - 2 day 2 hr 36 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Crimson Skies](https://open.spotify.com/track/0Jj1US4hB3vCZrgN8rHvRh) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD) | 4:09 | 2022-11-18 |  |
 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 | 2022-08-30 |
 | [Crossing the Blades](https://open.spotify.com/track/4diHw8YPlaaKbcqATN3WBd) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Crossing the Blades](https://open.spotify.com/album/4FMF6kWNYex6Poy4GA8FQ3) | 5:26 | 2021-12-17 | 2022-05-11 |
-| [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 |  |
+| [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 | 2022-11-29 |
 | [Crucify Me](https://open.spotify.com/track/6xh1HHGZPLN0FsGg68Gm1c) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Crucify Me](https://open.spotify.com/album/3Y76qo9r5o9YPfwEPuJV7Y) | 4:10 | 2022-03-02 | 2022-05-20 |
 | [Cry for the Nations](https://open.spotify.com/track/0Kpi5PM6kwwm7sjlS3HVTy) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Cry for the Nations](https://open.spotify.com/album/5I4kXVMUAeH1fEhbmEUSf9) | 4:55 | 2022-01-07 | 2022-04-17 |
 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2022-08-19 |  |
@@ -338,6 +338,7 @@
 | [Living Pyre](https://open.spotify.com/track/7HK1HXXSc8Mxgkbb4rin5b) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Living Pyre](https://open.spotify.com/album/4EDlB1BRG6mo0EDNmVtDf1) | 5:12 | 2021-12-29 | 2022-05-28 |
 | [Long Live Rock N Roll](https://open.spotify.com/track/2ilsr4UkwAL10MspiJtKA3) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Long Live Rock 'n' Roll](https://open.spotify.com/album/0abggihGZTIzf1GfHhrjwE) | 4:24 | 2022-08-19 |  |
 | [Love is Gonna Get You Killed](https://open.spotify.com/track/4BopOUl5fmRZHrjKIR2L3S) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Love is Gonna Get You Killed](https://open.spotify.com/album/2eKvO8SeApDc4id1XahaiC) | 3:59 | 2021-12-29 | 2022-04-20 |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-29 |  |
 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 | 2022-08-19 |  |
 | [Magic Signs](https://open.spotify.com/track/3ds3h3P2TsIYofkxHc3mtB) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Magic Signs](https://open.spotify.com/album/1d8Ox6KeG0LC7RObcYR5eU) | 4:52 | 2021-12-17 | 2022-07-26 |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2022-07-29 |  |

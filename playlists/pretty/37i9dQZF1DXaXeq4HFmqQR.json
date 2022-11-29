@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9903,
+  "num_followers": 9900,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGY2MjdiMjI1MmU0YmYxYmI1N2E4NjVhZTFhYjFhNmQ2",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGMzNzBiMThkZGNlNjZjY2I2Yzc4ZDU3NjlhMTU5ODQz",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 182384,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "D\u00c1NDOTE <3",
         "url": "https://open.spotify.com/album/3905vpM8492afQRLpC3oXr"
       },
@@ -131,6 +147,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Blue V2",
+        "url": "https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 144048,
+      "name": "Blue V2",
+      "url": "https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Brujer\u00edas de Cantina",
         "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
       },
@@ -151,38 +183,6 @@
       "duration_ms": 199430,
       "name": "2 X 3",
       "url": "https://open.spotify.com/track/4MAZS1p2qSSAbCJfhmQdzW"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 182384,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Blue V2",
-        "url": "https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 144048,
-      "name": "Blue V2",
-      "url": "https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Mon Amour",
-        "url": "https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu"
+        "name": "No Se Quemar\u00e1",
+        "url": "https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO"
       },
       "artists": [
         {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+          "name": "Mikaela",
+          "url": "https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua"
+      "duration_ms": 175000,
+      "name": "No Se Quemar\u00e1",
+      "url": "https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "No Se Quemar\u00e1",
-        "url": "https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO"
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu"
       },
       "artists": [
         {
-          "name": "Mikaela",
-          "url": "https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew"
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
         }
       ],
-      "duration_ms": 175000,
-      "name": "No Se Quemar\u00e1",
-      "url": "https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU"
+      "duration_ms": 174626,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -503,38 +503,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "U.U",
-        "url": "https://open.spotify.com/album/2e4lfzoe549Xzs77onk8QO"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sad",
-      "url": "https://open.spotify.com/track/2gOC3Tk6XPByqRH4uLvTkU"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Scarlett O'hara",
-        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "Scarlett O'hara",
-      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/5hDAb0WyAfstchaz1jGSf0"
       },
@@ -547,6 +515,22 @@
       "duration_ms": 172557,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/0jKqTPDMe4esa5OhdHxUHp"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "U.U",
+        "url": "https://open.spotify.com/album/2e4lfzoe549Xzs77onk8QO"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/2gOC3Tk6XPByqRH4uLvTkU"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -567,6 +551,22 @@
       "duration_ms": 137750,
       "name": "Under",
       "url": "https://open.spotify.com/track/0edPhUydcczV9ouIcZtc8P"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Scarlett O'hara",
+        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "Scarlett O'hara",
+      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "INTERLUDIO",
-        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
-      },
-      "artists": [
-        {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
-        }
-      ],
-      "duration_ms": 130610,
-      "name": "FRE$H",
-      "url": "https://open.spotify.com/track/5xD8PWYISpU9Gu5EZrsUB5"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Rayo Polo",
         "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 159158,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/7cOqDi2xyjxSNfQQlH0X8l"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "INTERLUDIO",
+        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
+      },
+      "artists": [
+        {
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+        }
+      ],
+      "duration_ms": 130610,
+      "name": "FRE$H",
+      "url": "https://open.spotify.com/track/5xD8PWYISpU9Gu5EZrsUB5"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        }
+      ],
+      "duration_ms": 138060,
+      "name": "Avanzar",
+      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Madre Santa",
         "url": "https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+        "name": "\u00c0 PLUS",
+        "url": "https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr"
       },
       "artists": [
         {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
         }
       ],
-      "duration_ms": 138060,
-      "name": "Avanzar",
-      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
+      "duration_ms": 191499,
+      "name": "Volando en la Nube",
+      "url": "https://open.spotify.com/track/0T6MzqYdTDGu0FG0aP8duW"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -847,22 +863,6 @@
       "duration_ms": 235657,
       "name": "Te Har\u00e9 Mal",
       "url": "https://open.spotify.com/track/1UuWh7axz14T9ciaq5tXuy"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "\u00c0 PLUS",
-        "url": "https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr"
-      },
-      "artists": [
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        }
-      ],
-      "duration_ms": 191499,
-      "name": "Volando en la Nube",
-      "url": "https://open.spotify.com/track/0T6MzqYdTDGu0FG0aP8duW"
     },
     {
       "added_at": "2022-11-04 00:00:00",

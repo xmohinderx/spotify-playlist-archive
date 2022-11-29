@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1954,
+  "num_followers": 1961,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDg4OWE3NDYyZTkxZGEzYzllOTdhNjIwZmQ0OTJlOGIy",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDE2ZTk1M2JkYmUyMjdmN2I1YWNmMDIyMjg2ZDY5MGZm",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 231201,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "And July",
         "url": "https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 226128,
       "name": "And July",
       "url": "https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
       },
@@ -295,18 +311,18 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         }
       ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
+      "duration_ms": 213200,
+      "name": "2 KIDS",
+      "url": "https://open.spotify.com/track/7MYf8wY7RdOgT7fPxJKIR8"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -327,22 +343,6 @@
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "2 KIDS",
-      "url": "https://open.spotify.com/track/7MYf8wY7RdOgT7fPxJKIR8"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 224288,
+      "name": "WERE WE?",
+      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 224288,
-      "name": "WERE WE?",
-      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "#TUSM",
         "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 265000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "HEY RAIN",
+      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -791,38 +807,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Your Voice Makes Me Dream",
-        "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
-      },
-      "artists": [
-        {
-          "name": "Dinner Coat",
-          "url": "https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Your Voice Makes Me Dream",
-      "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 194611,
-      "name": "HEY RAIN",
-      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 116000,
       "name": "Go Your Way",
       "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Your Voice Makes Me Dream",
+        "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
+      },
+      "artists": [
+        {
+          "name": "Dinner Coat",
+          "url": "https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Your Voice Makes Me Dream",
+      "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
     },
     {
       "added_at": "2022-09-05 15:56:32",

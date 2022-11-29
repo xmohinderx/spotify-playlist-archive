@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4JIi4bjPGxzuez5Wn9lhj6)
+78 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/4JIi4bjPGxzuez5Wn9lhj6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Dulce Veneno \(En Vivo\)](https://open.spotify.com/track/33ohDUP2ekfFkKMsSnfXPS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 1](https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a) | 3:42 | 2022-06-01 | 2022-08-27 |
 | [El Amor De Mi Vida \(En Vivo\)](https://open.spotify.com/track/7oM97CJuWWbqVl1LB4929o) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 1](https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a) | 3:44 | 2022-06-01 | 2022-08-27 |
 | [El Brinquito de la Perra Roñosa](https://open.spotify.com/track/5t1g30K4DhRSkiIgichk5f) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:01 | 2022-06-02 | 2022-08-27 |
+| [El Brinquito de la Perra Roñosa](https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:01 | 2022-11-28 |  |
 | [El Caballito](https://open.spotify.com/track/3OanacoRGMSYjnedeXkUhQ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:03 | 2022-08-26 | 2022-08-28 |
 | [El Peor de Tus Antojos](https://open.spotify.com/track/39TLzNkNXqhNe0E3zvOHWl) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Le Digas a Nadie](https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO) | 3:35 | 2022-06-01 | 2022-08-27 |
 | [El Ultimo Trago](https://open.spotify.com/track/4pJvdhRnOhkK6JwRXcUEO0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:23 | 2022-06-01 |  |

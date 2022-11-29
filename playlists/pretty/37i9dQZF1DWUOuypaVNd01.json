@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 22835,
+  "num_followers": 22877,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTI2MCwwMDAwMDAwMDNkOTA5NTc0ODM5MjM5MmU0NDRkYTJkZTYyMDViNjQ4",
+  "snapshot_id": "MTY2OTM0NTI2MCwwMDAwMDAwMDYwNmQzYjcwYWM0YzMwMDc4YTliOWYzMmJhNGZmOWVh",
   "tracks": [
     {
       "added_at": "2022-11-25 03:01:00",
@@ -347,6 +347,46 @@
     {
       "added_at": "2022-11-25 03:01:00",
       "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Lembro",
+        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Lembro",
+      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
         "name": "Os Pitbull do Ano, Pt. 2",
         "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
       },
@@ -371,46 +411,6 @@
       "duration_ms": 207976,
       "name": "Os Pitbull do Ano, Pt. 2",
       "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
-        "name": "Lembro",
-        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Lembro",
-      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2022-11-25 03:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-11-25 03:01:00",
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 112764,
-      "name": "Mandrake",
-      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
         "name": "Favelado Chique",
         "url": "https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 267017,
       "name": "auri sacra fames",
       "url": "https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 112764,
+      "name": "Mandrake",
+      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
     },
     {
       "added_at": "2022-11-25 03:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-11-25 03:01:00",
       "album": {
+        "name": "Rumo ao Estrelato",
+        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "duration_ms": 169859,
+      "name": "Rumo ao Estrelato",
+      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
       },
@@ -727,18 +743,46 @@
     {
       "added_at": "2022-11-25 03:01:00",
       "album": {
-        "name": "Rumo ao Estrelato",
-        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
+        "name": "BRIME!",
+        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
       },
       "artists": [
         {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 169859,
-      "name": "Rumo ao Estrelato",
-      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
+      "duration_ms": 150064,
+      "name": "CHELSEA",
+      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
     },
     {
       "added_at": "2022-11-25 03:01:00",
@@ -775,50 +819,6 @@
       "duration_ms": 300000,
       "name": "Fura Bilion\u00e1rios",
       "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
-        "name": "BRIME!",
-        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 150064,
-      "name": "CHELSEA",
-      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
     },
     {
       "added_at": "2022-11-25 03:01:00",
@@ -903,34 +903,6 @@
     {
       "added_at": "2022-11-25 03:01:00",
       "album": {
-        "name": "Armamento do Ir\u00e3",
-        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "D r o p e",
-          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Olympio",
-          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
-        }
-      ],
-      "duration_ms": 259754,
-      "name": "Armamento do Ir\u00e3",
-      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
       },
@@ -975,6 +947,34 @@
       "duration_ms": 197000,
       "name": "Kenner",
       "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Armamento do Ir\u00e3",
+        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "D r o p e",
+          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Olympio",
+          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
+        }
+      ],
+      "duration_ms": 259754,
+      "name": "Armamento do Ir\u00e3",
+      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
     },
     {
       "added_at": "2022-11-25 03:01:00",

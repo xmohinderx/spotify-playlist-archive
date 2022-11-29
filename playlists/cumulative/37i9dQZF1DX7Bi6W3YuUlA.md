@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-342 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
+343 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Fall on Me](https://open.spotify.com/track/1cQkvIQ4VTRY6XKvVo8qPq) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [everywhere + nowhere](https://open.spotify.com/album/7gUHT1RKm9105NtC9tDuJe) | 3:52 | 2021-12-11 | 2022-05-17 |
 | [Father Abraham](https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 1:59 | 2022-11-18 |  |
 | [Feelin’ Blessed](https://open.spotify.com/track/2ra2e3dUMbtZj9c6H7NGqV) | [Message Muzik](https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Feelin’ Blessed](https://open.spotify.com/album/1vqIbWGFy0TchFrbS0ZMGP) | 2:37 | 2021-12-11 | 2022-07-28 |
+| [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 | 2022-11-18 |  |
 | [Fight for It](https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Fight for It](https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM) | 2:33 | 2022-11-18 |  |
 | [First Of Many \(feat\. George.Rose\)](https://open.spotify.com/track/0yiFuQgmMRhl5hVIZLMBGh) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [First Of Many \(feat\. George.Rose\)](https://open.spotify.com/album/0HVwrQkPvA6sjjC9TDNoVI) | 2:19 | 2021-12-11 | 2022-07-25 |
 | [Fo' Rilly Flow](https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz) | [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Fo' Rilly Flow](https://open.spotify.com/album/4NYHAo56V6kokxfU2w80VF) | 2:54 | 2021-12-11 | 2022-10-25 |
@@ -216,7 +217,7 @@
 | [New Legends](https://open.spotify.com/track/0JhFxi0sJDJd1JrNvTw3QA) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/0GPmI4EBn4BrmjlyQordOu) | 4:16 | 2021-12-11 | 2022-07-22 |
 | [New Legends](https://open.spotify.com/track/3QJTmlay3nLxhp0ol14N3l) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/18nkh2pT8cwaheJfw9p9ju) | 4:16 | 2022-05-28 | 2022-11-19 |
 | [New Level](https://open.spotify.com/track/28YWHjBQY8Thn65P7wnF4O) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [New Level](https://open.spotify.com/album/4aA8CI2CJv5gffAePjQAOe) | 2:36 | 2022-03-25 | 2022-07-29 |
-| [Nino Brown](https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Nino Brown](https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6) | 2:24 | 2022-11-18 |  |
+| [Nino Brown](https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Nino Brown](https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6) | 2:24 | 2022-11-18 | 2022-11-29 |
 | [NO GOOD](https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NO GOOD](https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl) | 2:57 | 2022-03-19 | 2022-11-19 |
 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 | 2022-11-18 |  |
 | [Not Gon' Do \(Acoustic\)](https://open.spotify.com/track/4hFTc150gq4Ue23UGmcQkr) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Not Gon' Do \(Acoustic\)](https://open.spotify.com/album/6F6rBDWKBwCKU7FENgQQ2u) | 2:54 | 2021-12-11 | 2022-03-21 |

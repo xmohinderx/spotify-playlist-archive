@@ -2100,6 +2100,28 @@
     },
     {
       "album": {
+        "name": "Not Beautiful (feat. Kenessi)",
+        "url": "https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl"
+      },
+      "artists": [
+        {
+          "name": "THE PIECES",
+          "url": "https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY"
+        },
+        {
+          "name": "kenessi",
+          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253040,
+      "name": "Not Beautiful (feat. Kenessi)",
+      "url": "https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5"
+    },
+    {
+      "album": {
         "name": "How",
         "url": "https://open.spotify.com/album/4coGyWNmRa8LQf3r1M2uAj"
       },
@@ -2585,7 +2607,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 182015,
       "name": "SHE IS MINE",
       "url": "https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM"

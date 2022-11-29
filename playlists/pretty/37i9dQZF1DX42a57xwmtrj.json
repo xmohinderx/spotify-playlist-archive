@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
-  "num_followers": 122263,
+  "num_followers": 122310,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDM5NzM2NGFkZWJlYzk1Yjc0ODVlZmMxZWVjZTk3Yzhi",
+  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDU3YjcxODdiN2E0NjBhNGVkMGU1YTg5OGU1NDQ0MTIz",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Una rola para los minusv\u00e1lidos",
-        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Las piedras rodantes",
-      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 230713,
       "name": "Cuarto para las Dos",
       "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -239,38 +239,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Llorando a Solas",
-        "url": "https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x"
-      },
-      "artists": [
-        {
-          "name": "Tres Vallejo",
-          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "No Me Arrepiento",
-      "url": "https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
-      },
-      "artists": [
-        {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
-        }
-      ],
-      "duration_ms": 214366,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Delincuentes Con Placa",
         "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 264289,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Llorando a Solas",
+        "url": "https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x"
+      },
+      "artists": [
+        {
+          "name": "Tres Vallejo",
+          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "No Me Arrepiento",
+      "url": "https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+      },
+      "artists": [
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "duration_ms": 214366,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Anda Borracho Pancho",
-        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
-      },
-      "artists": [
-        {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
-        }
-      ],
-      "duration_ms": 302091,
-      "name": "Anda Borracho Pancho",
-      "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Cuando t\u00fa no est\u00e1s",
         "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Suicida (Remastered)",
-        "url": "https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX"
+        "name": "Anda Borracho Pancho",
+        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
       },
       "artists": [
         {
-          "name": "Vago",
-          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
+          "name": "Sam Sam",
+          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
         }
       ],
-      "duration_ms": 243670,
-      "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
-      "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
+      "duration_ms": 302091,
+      "name": "Anda Borracho Pancho",
+      "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -431,18 +415,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
-        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
+        "name": "Suicida (Remastered)",
+        "url": "https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX"
       },
       "artists": [
         {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Me Dijiste",
-      "url": "https://open.spotify.com/track/630TIL2bWuseStelIhFT6L"
+      "duration_ms": 243670,
+      "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
+      "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -463,18 +447,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
       },
       "artists": [
         {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+      "duration_ms": 256394,
+      "name": "Vaquero Rockanrolero",
+      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -520,25 +504,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 188373,
-      "name": "Ahora Que No Vives Conmigo",
-      "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 256394,
-      "name": "Vaquero Rockanrolero",
-      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
+      "duration_ms": 210666,
+      "name": "Me Dijiste",
+      "url": "https://open.spotify.com/track/630TIL2bWuseStelIhFT6L"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -555,6 +523,22 @@
       "duration_ms": 181394,
       "name": "No Estoy Muerto",
       "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -607,40 +591,24 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
+        "name": "Rock Sin Visa, Vol. 2",
+        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
       },
       "artists": [
         {
-          "name": "Franco Escamilla",
-          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 166638,
-      "name": "El y Yo",
-      "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
+      "duration_ms": 187640,
+      "name": "Historia de un Minuto",
+      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
     },
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Quien Te Cantara",
-      "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
-        "name": "Lo Mejor de Tex Tex",
-        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
+        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
       },
       "artists": [
         {
@@ -648,25 +616,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 254275,
-      "name": "Un Toque M\u00e1gico",
-      "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
-      },
-      "artists": [
-        {
-          "name": "California Blues",
-          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Y Como Es \u00c9l",
-      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
+      "duration_ms": 188373,
+      "name": "Ahora Que No Vives Conmigo",
+      "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -687,6 +639,54 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Quien Te Cantara",
+      "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
+      },
+      "artists": [
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        }
+      ],
+      "duration_ms": 166638,
+      "name": "El y Yo",
+      "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
+      },
+      "artists": [
+        {
+          "name": "California Blues",
+          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Y Como Es \u00c9l",
+      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
         "name": "Lucha Rock",
         "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 223013,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
-        "name": "Rock Sin Visa, Vol. 2",
-        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Historia de un Minuto",
-      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -783,8 +767,24 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Los Nopales Tienen la Fuerza",
-        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+        "name": "Lo Mejor de Tex Tex",
+        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 254275,
+      "name": "Un Toque M\u00e1gico",
+      "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
         }
       ],
-      "duration_ms": 168948,
-      "name": "Fue en un Caf\u00e9",
-      "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
+      "duration_ms": 203685,
+      "name": "Asalto Chido",
+      "url": "https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -879,8 +879,8 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
+        "name": "Los Nopales Tienen la Fuerza",
+        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
         }
       ],
-      "duration_ms": 203685,
-      "name": "Asalto Chido",
-      "url": "https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz"
+      "duration_ms": 168948,
+      "name": "Fue en un Caf\u00e9",
+      "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -923,6 +923,22 @@
       "duration_ms": 221320,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Unidos Por El Rock, Vol. 1",
+        "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
+      },
+      "artists": [
+        {
+          "name": "Isis",
+          "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
+        }
+      ],
+      "duration_ms": 310706,
+      "name": "Peque\u00f1a y Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Unidos Por El Rock, Vol. 1",
-        "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
-      },
-      "artists": [
-        {
-          "name": "Isis",
-          "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
-        }
-      ],
-      "duration_ms": 310706,
-      "name": "Peque\u00f1a y Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Los Nopales Tienen la Fuerza",
         "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -1115,22 +1099,6 @@
       "duration_ms": 255053,
       "name": "Dolor de Madre",
       "url": "https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Abuso de autoridad",
-      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1167,6 +1135,38 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Abuso de autoridad",
+      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+        "name": "Para Coleccionistas, Vol. 1",
+        "url": "https://open.spotify.com/album/19F5N6hIdQfpCuRqyVmjGf"
       },
       "artists": [
         {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+          "name": "Mara",
+          "url": "https://open.spotify.com/artist/5NpJ55eRhoWSrnPwJkpmCA"
         }
       ],
-      "duration_ms": 162826,
-      "name": "Oye Cantinero",
-      "url": "https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129"
+      "duration_ms": 202266,
+      "name": "Me Gusta Tu Chava",
+      "url": "https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0"
     }
   ],
   "unique_name": "Rock Urbano",

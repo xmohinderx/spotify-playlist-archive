@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Pablo Alborán & Maria Becerra
 
-161 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
+162 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Castillos de arena](https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Castillos de arena](https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq) | 4:12 | 2022-01-14 |  |
 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2022-01-14 | 2022-07-23 |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2022-04-15 |  |
+| [Como Yo Te Veo](https://open.spotify.com/track/5N5YIsTtlXI3CyInlykZwa) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Como Yo Te Veo](https://open.spotify.com/album/3v3EhtXPlrA7fb3Vtgo167) | 3:10 | 2022-11-28 |  |
 | [Con la Falta Que Me Haces](https://open.spotify.com/track/04HbA6XyuQ5MduWJUPmwiP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Con la Falta Que Me Haces](https://open.spotify.com/album/6au2RlG5v26y1S5axAEmWw) | 2:44 | 2022-01-14 | 2022-07-29 |
 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 | 2022-07-22 |  |
 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 | 2022-07-22 |  |
@@ -62,7 +63,7 @@
 | [Ella vive en mí \(feat\. Antonio Orozco\)](https://open.spotify.com/track/0ovmTRD7DHaHZJTFeZVivT) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Ella vive en mí \(feat\. Antonio Orozco\)](https://open.spotify.com/album/7fOxTwcJRhIMemA2x0cWkf) | 3:31 | 2022-01-14 |  |
 | [En Coma](https://open.spotify.com/track/7hPB9qxK37bIzhltHlD5gv) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:23 | 2022-01-14 | 2022-04-02 |
 | [Entiéndelo](https://open.spotify.com/track/69QB9IQdyxt48WwcomJAmZ) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Entiéndelo](https://open.spotify.com/album/6SZQatuIqnVNMGojwai7ls) | 2:37 | 2022-07-22 |  |
-| [Entre las Nubes](https://open.spotify.com/track/7JxObO68A9tKaxwKOQZByz) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Entre las Nubes](https://open.spotify.com/album/4SlVC4vaeqOwso6amw6a8S) | 3:17 | 2022-01-14 |  |
+| [Entre las Nubes](https://open.spotify.com/track/7JxObO68A9tKaxwKOQZByz) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Entre las Nubes](https://open.spotify.com/album/4SlVC4vaeqOwso6amw6a8S) | 3:17 | 2022-01-14 | 2022-11-29 |
 | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/4lYGDM2P0P6NosnaoFiPqB) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/2NdVSWwmCmdCamPxCSt1er) | 3:54 | 2022-05-06 |  |
 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 | 2022-04-01 |  |
 | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc) | 2:04 | 2022-10-28 |  |

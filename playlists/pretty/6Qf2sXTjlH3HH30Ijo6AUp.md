@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 ### [100 Uplifting Songs](https://open.spotify.com/playlist/6Qf2sXTjlH3HH30Ijo6AUp)
 
-> 100 uplifting and happy songs to get you smiling, put a spring in your step &amp; lift your mood
+> Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-[Topsify](https://open.spotify.com/user/topsify) - 502,197 likes - 100 songs - 5 hr 51 min
+[Topsify](https://open.spotify.com/user/topsify) - 502,185 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [Let's Dance \- Single Version \[Remastered\]](https://open.spotify.com/track/5PJBrwKH7SdByGtDCBGJwb) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Legacy \(Deluxe Edition\)](https://open.spotify.com/album/3nSP0MJ9XyYZjCRowFaUbo) | 4:10 |
 | 100 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 |
 
-Snapshot ID: `MTcwMyxkNzc2MjhkYjdlNjVmZDBmZTBkOWQ1MjMyYTNlMWQzZmE5M2UxZDNl`
+Snapshot ID: `MTcwNCw0MjA5NjUzNDg4ZWZhNDYyZDE2N2ZhNDNjMmJlNjU3ZGU1Nzc0ZWNl`

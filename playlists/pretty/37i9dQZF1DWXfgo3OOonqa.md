@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > swe x fr connect
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,397 likes - 76 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,430 likes - 76 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All I Need \(feat\. Franglish\)](https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [All I Need \(feat\. Franglish\)](https://open.spotify.com/album/0ed4blzp0BbBtJLq0XugJ7) | 2:41 |
-| 2 | [Schack](https://open.spotify.com/track/2B4GEg6cLD3YlzOIBdOD7x) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Schack](https://open.spotify.com/album/1n7deqmRb4GVEgsNoFyGLZ) | 2:29 |
-| 3 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 |
-| 4 | [HARRAGAS](https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [HARRAGAS](https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L) | 2:20 |
-| 5 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 |
-| 6 | [WTF](https://open.spotify.com/track/5icviz5s1QVM5L8x5WRLE1) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [WTF](https://open.spotify.com/album/1aHDb79keEnYyij5TCyttJ) | 2:50 |
-| 7 | [En Unge](https://open.spotify.com/track/5uvimqIXQHfkV1kDPOnRvN) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [En Unge](https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P) | 2:50 |
-| 8 | [ED HARDY](https://open.spotify.com/track/6snsrXkJUzGLEqgpZDuVZ3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ED HARDY](https://open.spotify.com/album/1K6Yk1Eae12WUiozsnssOH) | 1:49 |
-| 9 | [Dum](https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 2:13 |
-| 10 | [XXX \(Bow Wow Wow\)](https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [XXX \(Bow Wow Wow\)](https://open.spotify.com/album/3FJTaFuP5szXBanrrZkANl) | 2:05 |
+| 1 | [Schack](https://open.spotify.com/track/2B4GEg6cLD3YlzOIBdOD7x) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Schack](https://open.spotify.com/album/1n7deqmRb4GVEgsNoFyGLZ) | 2:29 |
+| 2 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 |
+| 3 | [HARRAGAS](https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [HARRAGAS](https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L) | 2:20 |
+| 4 | [All I Need \(feat\. Franglish\)](https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [All I Need \(feat\. Franglish\)](https://open.spotify.com/album/0ed4blzp0BbBtJLq0XugJ7) | 2:41 |
+| 5 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 |
+| 6 | [XXX \(Bow Wow Wow\)](https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [XXX \(Bow Wow Wow\)](https://open.spotify.com/album/3FJTaFuP5szXBanrrZkANl) | 2:05 |
+| 7 | [WTF](https://open.spotify.com/track/5icviz5s1QVM5L8x5WRLE1) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [WTF](https://open.spotify.com/album/1aHDb79keEnYyij5TCyttJ) | 2:50 |
+| 8 | [En Unge](https://open.spotify.com/track/5uvimqIXQHfkV1kDPOnRvN) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [En Unge](https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P) | 2:50 |
+| 9 | [ED HARDY](https://open.spotify.com/track/6snsrXkJUzGLEqgpZDuVZ3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ED HARDY](https://open.spotify.com/album/1K6Yk1Eae12WUiozsnssOH) | 1:49 |
+| 10 | [Dum](https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 2:13 |
 | 11 | [Friendzone](https://open.spotify.com/track/4BJwLOyH7MpJCzEXZoBHYp) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Ofiltrerad](https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK) | 2:28 |
 | 12 | [MANDANA](https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [MANDANA](https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl) | 2:03 |
-| 13 | [Ooh](https://open.spotify.com/track/3E1y2Q6aRmaGT6LM8PxnSz) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Ooh](https://open.spotify.com/album/4mXzNKai3VRQ9HVVJW7T0i) | 2:16 |
-| 14 | [Chanser](https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Chanser](https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j) | 3:03 |
+| 13 | [Chanser](https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Chanser](https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j) | 3:03 |
+| 14 | [Ooh](https://open.spotify.com/track/3E1y2Q6aRmaGT6LM8PxnSz) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Ooh](https://open.spotify.com/album/4mXzNKai3VRQ9HVVJW7T0i) | 2:16 |
 | 15 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 |
 | 16 | [AGERA](https://open.spotify.com/track/22PS8HKGq8QpgYERf9dzRZ) | [Rozh](https://open.spotify.com/artist/3SRes7eoE3xRodLopFKXWb) | [Alltid varit här](https://open.spotify.com/album/4NgQrhhZ5a451lLJK47qgv) | 2:56 |
 | 17 | [Smooth](https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [No Borders: European Compilation Project](https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP) | 2:51 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 75 | [Försvinna](https://open.spotify.com/track/4sjoEJ5yxh3Ipn34WHtXUC) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Försvinna](https://open.spotify.com/album/0AiIiVTgeZnJHHkOZxwJGv) | 2:55 |
 | 76 | [SANDEN](https://open.spotify.com/track/0AYy1Pbcqp1PTnlDdHrmHt) | [GIDDE](https://open.spotify.com/artist/52wHLsSLdkVMLYo2ZXP8y6) | [SANDEN](https://open.spotify.com/album/4Wr7MPl8uUVtUhId9xqWVx) | 2:30 |
 
-Snapshot ID: `MTY2OTMzMDgwMCwwMDAwMDAwMDcwZGYzMTdlYWRjZjQxYmMzZTQ1ODRmZDk1ZjVjOGUw`
+Snapshot ID: `MTY2OTYzNDE1MSwwMDAwMDAwMGMxOWMyZGM0MWNiODM3NDA3Zjc4MWIzYzgxYTE2ZGZj`

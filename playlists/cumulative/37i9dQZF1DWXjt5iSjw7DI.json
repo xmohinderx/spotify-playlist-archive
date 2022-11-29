@@ -1970,6 +1970,28 @@
     },
     {
       "album": {
+        "name": "At The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216853,
+      "name": "I'm In A Hurry (And Don't Know Why) - Live",
+      "url": "https://open.spotify.com/track/7ztXOgnhclVmv4mUoaCKPr"
+    },
+    {
+      "album": {
         "name": "Alabama And Friends Live At The Ryman",
         "url": "https://open.spotify.com/album/6dXWnVNs7a5BmmOg0yQOuT"
       },
@@ -4563,7 +4585,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 213533,
       "name": "Who's Gonna Fill Their Shoes - Live",
       "url": "https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf"

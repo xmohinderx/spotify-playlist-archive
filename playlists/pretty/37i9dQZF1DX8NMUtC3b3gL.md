@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,019 likes - 178 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,040 likes - 178 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 72 | [counting sheep](https://open.spotify.com/track/3x2Y0A58sRnkx2PD9dcbCc) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [counting sheep](https://open.spotify.com/album/77vFl5Aox31AH8XroidWES) | 1:56 |
 | 73 | [Vacation Days](https://open.spotify.com/track/76cHnrbRZkkJzm6MbIrIHB) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/1l9PBk2Z5lUW5KuATKUMIu) | 2:18 |
 | 74 | [introspection](https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [introspection](https://open.spotify.com/album/2UckQg0YEvSSE9Ckzz7Uda) | 1:52 |
-| 75 | [Peach](https://open.spotify.com/track/2gnTR4wQ7EhwZYoRRZWnrT) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Peach](https://open.spotify.com/album/4NosSndHdk6qgy0OAs9Fay) | 2:03 |
+| 75 | [Peach](https://open.spotify.com/track/2gnTR4wQ7EhwZYoRRZWnrT) | [zxry.](https://open.spotify.com/artist/2EBMa1emZmsUTYcb1xJwIJ) | [Peach](https://open.spotify.com/album/4NosSndHdk6qgy0OAs9Fay) | 2:03 |
 | 76 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 |
 | 77 | [First Impressions](https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB) | [Hale Ztrike](https://open.spotify.com/artist/4D0c2cETxMrps8sKgzKQVH) | [First Impressions](https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx) | 2:11 |
 | 78 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [CLOCC](https://open.spotify.com/artist/1QNQOpFcbLjmKPiCDKSiGG) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 |

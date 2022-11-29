@@ -1,12 +1,12 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: iann dior",
-  "num_followers": 1369741,
+  "num_followers": 1370592,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMzk4MCwwMDAwMDAwMDkzMTA2NDI5NTE3MGNiYmNhODgyNjk3NmVkYWM1MjM2",
+  "snapshot_id": "MTY2ODcwMzk4MCwwMDAwMDAwMGFlZjAzYmJlNGQ0MjM1NWIyMWQzNTVhM2VkODc0Yzgw",
   "tracks": [
     {
       "added_at": "2022-10-07 04:18:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 165819,
-      "name": "All Girls Are The Same",
-      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 119133,
       "name": "Jocelyn Flores",
       "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 165819,
+      "name": "All Girls Are The Same",
+      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 194621,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Dead and Cold",
         "url": "https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU"
       },
@@ -331,22 +315,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "ONNAFRIDAY",
-        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Cherry Blossoms",
         "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 138367,
       "name": "Cherry Blossoms",
       "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 194621,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "ONNAFRIDAY",
+        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -407,22 +407,6 @@
       "duration_ms": 151704,
       "name": "ALWAYS DO",
       "url": "https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -487,18 +471,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -523,6 +507,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "TOTAL XANARCHY",
         "url": "https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 187173,
       "name": "Betrayed",
       "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -555,22 +571,6 @@
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "I\u2019ll Keep You Safe",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "mainstream sellout (life in pink deluxe)",
-        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 181496,
-      "name": "9 lives",
-      "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "dream girl",
         "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
       },
@@ -779,18 +763,38 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+        "name": "mainstream sellout (life in pink deluxe)",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
       "artists": [
         {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
+      "duration_ms": 181496,
+      "name": "9 lives",
+      "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "why am i crying",
+        "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
+      },
+      "artists": [
+        {
+          "name": "LRN Slime",
+          "url": "https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 204659,
+      "name": "Letter to Jarad",
+      "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "why am i crying",
-        "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
       },
       "artists": [
         {
-          "name": "LRN Slime",
-          "url": "https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
         }
       ],
-      "duration_ms": 204659,
-      "name": "Letter to Jarad",
-      "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1013,24 +1013,20 @@
       "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
     },
     {
-      "added_at": "2022-10-28 16:05:00",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+        "name": "F*ck Love",
+        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
       },
       "artists": [
         {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
         }
       ],
-      "duration_ms": 151318,
-      "name": "Fuck Around and Find Out (feat. $NOT)",
-      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
+      "duration_ms": 197368,
+      "name": "F*ck Love",
+      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1049,20 +1045,24 @@
       "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2022-10-28 16:05:00",
       "album": {
-        "name": "F*ck Love",
-        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
       },
       "artists": [
         {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 197368,
-      "name": "F*ck Love",
-      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 155673,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "You Don't Want Me Anymore",
         "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 155673,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "say goodbye",
         "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
       },
@@ -1155,6 +1155,42 @@
       "duration_ms": 86749,
       "name": "say goodbye",
       "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "would you be my baby",
+        "url": "https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki"
+      },
+      "artists": [
+        {
+          "name": "Enzo Iwamura",
+          "url": "https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 73421,
+      "name": "would you be my baby",
+      "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Childhood Dreams",
+        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Rather Do",
+      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1191,42 +1227,6 @@
       "duration_ms": 249475,
       "name": "KILL CUPID",
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Childhood Dreams",
-        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Rather Do",
-      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "would you be my baby",
-        "url": "https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki"
-      },
-      "artists": [
-        {
-          "name": "Enzo Iwamura",
-          "url": "https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 73421,
-      "name": "would you be my baby",
-      "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Anarchy",
-        "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
-      },
-      "artists": [
-        {
-          "name": "Lil Tracy",
-          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
-        }
-      ],
-      "duration_ms": 185886,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Hiding in the Dark",
         "url": "https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 160624,
       "name": "jaded",
       "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Anarchy",
+        "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
+      },
+      "artists": [
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "duration_ms": 185886,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "age tape 7",
-        "url": "https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "starstruck",
-      "url": "https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 159149,
       "name": "I fucked up",
       "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "age tape 7",
+        "url": "https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "starstruck",
+      "url": "https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
-      },
-      "artists": [
-        {
-          "name": "Yung Pinch",
-          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 206270,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
+      },
+      "artists": [
+        {
+          "name": "Yung Pinch",
+          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
     },
     {
       "added_at": "2022-10-07 04:18:00",

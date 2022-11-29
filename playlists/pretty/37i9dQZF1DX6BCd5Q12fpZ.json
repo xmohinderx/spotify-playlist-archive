@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 59180,
+  "num_followers": 59184,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGQxODg1NjE3YjRiMTViNDE4MDZiMDAyNDU3NDQ3ODg1",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGM3ZGEyNzM3NjljNzAxOTRmYmViNGIzNzJkNWE4OTk2",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Hits chanson fran\u00e7aise",
+        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 174626,
       "name": "Always - Single Version",
       "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Hits chanson fran\u00e7aise",
-        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
-      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
     },
     {
       "added_at": "2022-05-16 13:21:08",

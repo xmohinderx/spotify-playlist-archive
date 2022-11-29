@@ -1202,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Silver Screen",
+        "url": "https://open.spotify.com/album/3SJu0buwmV07qtrRSvHY7U"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402439,
+      "name": "Silver Screen",
+      "url": "https://open.spotify.com/track/6lBySALfpud2idAf6X6Pqi"
+    },
+    {
+      "album": {
         "name": "Simulacrum",
         "url": "https://open.spotify.com/album/3QLiQ0hFrcrlNoUjc8KGAb"
       },
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 485780,
       "name": "The Kid and the Planes",
       "url": "https://open.spotify.com/track/1hKOeHFbeGBadMDIeT3NT0"
@@ -1373,6 +1391,24 @@
       "duration_ms": 371903,
       "name": "The Mirage",
       "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
+    },
+    {
+      "album": {
+        "name": "The Navigator",
+        "url": "https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363103,
+      "name": "The Navigator",
+      "url": "https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw"
     },
     {
       "album": {
@@ -1511,7 +1547,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 445440,
       "name": "Urania",
       "url": "https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4"

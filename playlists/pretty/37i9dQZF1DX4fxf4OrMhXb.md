@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,269 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,348 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 14 | [If I Could](https://open.spotify.com/track/4iTuPWFi9iJL5Zq6W0EEtK) | [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [If I Could](https://open.spotify.com/album/505Vr2AdwZ5hXYwY8eheU9) | 5:11 |
 | 15 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 |
 | 16 | [Fragments of a Butterfly’s Face \- Edit](https://open.spotify.com/track/2tjotfP0A3kTyx71G42exR) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 3:28 |
-| 17 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
-| 18 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 |
+| 17 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 |
+| 18 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
 | 19 | [Kill The System \- Matrixxman Remix](https://open.spotify.com/track/6TGaoiwDkG3w4d2UMQermN) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Kill The System \(Matrixxman Remix\)](https://open.spotify.com/album/4NjxEVbDf07XEk4k3Rpc2C) | 6:30 |
 | 20 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 |
 | 21 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 47 | [Untitled IV](https://open.spotify.com/track/1m6l9yUMnbFpBdaxYZXsuj) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Untitled IV](https://open.spotify.com/album/1z4Q3HjmtpRViik5kb1fGZ) | 4:44 |
 | 48 | [Volca](https://open.spotify.com/track/28NpDrD2786HAM55WX21ux) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Volca](https://open.spotify.com/album/3mbTIUXfzrkP1frqjZbjY8) | 6:36 |
 | 49 | [Muzik](https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Muzik](https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44) | 5:51 |
-| 50 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 |
-| 51 | [You](https://open.spotify.com/track/5bDaY6dCXp6obvN6MKV23v) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Vol\. 1 \- The Mixtape](https://open.spotify.com/album/1ZZSNrohitWJIhvm4ThElN) | 3:22 |
+| 50 | [You](https://open.spotify.com/track/5bDaY6dCXp6obvN6MKV23v) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Vol\. 1 \- The Mixtape](https://open.spotify.com/album/1ZZSNrohitWJIhvm4ThElN) | 3:22 |
+| 51 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 |
 | 52 | [Survival Mode](https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/2jye5HOLZkOmO2p97B3fgU) | 3:31 |
 | 53 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 |
 | 54 | [Nisida](https://open.spotify.com/track/6rExvAWFcBNl0RGE2S7Fw2) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Nisida](https://open.spotify.com/album/3bpoKXTJmgbgYmWoNZYssg) | 7:27 |
 | 55 | [IQarus](https://open.spotify.com/track/5xYWdZVRcU81zYwlB29uJC) | [Brain De Palma](https://open.spotify.com/artist/44VVWk4YFJFoiv7oRNt5wO) | [IQarus](https://open.spotify.com/album/1oiwy4ZjFGIIcJE4DIu1Vu) | 5:24 |
 | 56 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 |
 | 57 | [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 |
-| 58 | [Moments](https://open.spotify.com/track/30YAjV3UwFbCwYaYzTqHyE) | [Kid Kun](https://open.spotify.com/artist/4rQ2NFicaqDkXbmATxbReQ) | [Lost City Archives, Vol\. 6](https://open.spotify.com/album/564WpzxRdvGxi2QW3px5QM) | 4:42 |
-| 59 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
+| 58 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
+| 59 | [Moments](https://open.spotify.com/track/30YAjV3UwFbCwYaYzTqHyE) | [Kid Kun](https://open.spotify.com/artist/4rQ2NFicaqDkXbmATxbReQ) | [Lost City Archives, Vol\. 6](https://open.spotify.com/album/564WpzxRdvGxi2QW3px5QM) | 4:42 |
 | 60 | [Into The Light](https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 5:01 |
 
-Snapshot ID: `MTY2ODQ2NjgwMCwwMDAwMDAwMDg2Nzk0MmFjOGIwNzNmZWMzOGFlNDZhYzZkOTBhNDI4`
+Snapshot ID: `MTY2ODQ2NjgwMCwwMDAwMDAwMDAzNjI0NDFlNTQ0NzVmNDZlOTViNWIyMjc4ZWRmYzQw`

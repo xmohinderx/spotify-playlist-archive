@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 83742,
+  "num_followers": 83864,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDEyMzIyZjRiYTgzNDBlMDBjMGRiZjM2MTYxZDNmYThj",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDMzMDRkMDUyOGU2ZDU1NmExMzJjZjBmZWYzZTg3Njg1",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -319,6 +319,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 250200,
       "name": "Gavil\u00e1n o Paloma",
       "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/7LUl8V8OkpiygImst4pOmk"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Yo No Nac\u00ed para Amar",
+      "url": "https://open.spotify.com/track/5dzyCRgh6GpLg4bUnYWgGI"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 228026,
       "name": "Desesperado (with Mijares)",
       "url": "https://open.spotify.com/track/74CUfw3VJsGdu1OsQdFlOl"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/7LUl8V8OkpiygImst4pOmk"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 270826,
-      "name": "Yo No Nac\u00ed para Amar",
-      "url": "https://open.spotify.com/track/5dzyCRgh6GpLg4bUnYWgGI"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 428466,
-      "name": "Amor Eterno - En Vivo [En el Palacio de Bellas Artes]",
-      "url": "https://open.spotify.com/track/0QI38in0PP6LVZSl6NnKaI"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga",
         "url": "https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 155440,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 428466,
+      "name": "Amor Eterno - En Vivo [En el Palacio de Bellas Artes]",
+      "url": "https://open.spotify.com/track/0QI38in0PP6LVZSl6NnKaI"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "El Mexico Que Se Nos Fue",
         "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 277120,
       "name": "El M\u00e9xico Que Se Nos Fue",
       "url": "https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Me Basta (with Leonel Garc\u00eda)",
-      "url": "https://open.spotify.com/track/3OEIHCmRGzhcG3BI8ybSNm"
     }
   ],
   "unique_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",

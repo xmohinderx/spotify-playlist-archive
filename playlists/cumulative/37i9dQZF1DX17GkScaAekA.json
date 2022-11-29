@@ -340,6 +340,28 @@
     },
     {
       "album": {
+        "name": "Debussy, Ravel: Piano Music",
+        "url": "https://open.spotify.com/album/0RnAJzvGCJPn7igIlHGBsQ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "Deux Arabesques, L66: No. 1: Andantino con moto",
+      "url": "https://open.spotify.com/track/6VnSkysUFuLEayG0LIQlVF"
+    },
+    {
+      "album": {
         "name": "Kathryn Stott: The Complete Solo Recordings",
         "url": "https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP"
       },
@@ -355,7 +377,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 272133,
       "name": "Deux Arabesques, L66: No. 1: Andantino con moto",
       "url": "https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n"

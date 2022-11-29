@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685,803 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,529 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [Disposable Heroes](https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:16 |
 | 50 | [You Really Got Me](https://open.spotify.com/track/0Cn4x7JH0p50y3wn5u8GPU) | [Ray Davies](https://open.spotify.com/artist/6spXkXEP6teMn2cu9sWbBR), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [See My Friends \(International Version\)](https://open.spotify.com/album/2dyCzJ71jPInWYrLyNXi3O) | 2:15 |
 
-Snapshot ID: `Mjc4MjU5OTYsMDAwMDAwMDAyOTEzN2I0NjkzMzYxOWNhMGQyODE1ODhiMzdlN2VmZg==`
+Snapshot ID: `Mjc4Mjc1MjMsMDAwMDAwMDBmOGE1NDAwOTgzOGQxN2Y5ZWE1MGNjM2FlZTAwMGMwMA==`

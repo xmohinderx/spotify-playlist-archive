@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 835251,
+  "num_followers": 835700,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1MDg5NSwwMDAwMDAwMDRlYzNlNGExNjJhYWNjZmExN2ZkM2E4ZGRkMDUyMmMz",
+  "snapshot_id": "MTY2ODc1MDg5NSwwMDAwMDAwMGU0MGRiNTRmMDFiNWM1MzBmNmRlODliODgzNzE2MjE4",
   "tracks": [
     {
       "added_at": "2022-11-17 15:13:56",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 198305,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -839,6 +839,42 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -871,22 +907,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 186853,
       "name": "Cissy Strut",
       "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "I Got Sunshine",
-      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "I Got Sunshine",
+      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
         "name": "S.O.S.: Save Our Soul",
         "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Used to Love U",
-      "url": "https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Bad (Remastered)",
         "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 298120,
       "name": "The Way You Make Me Feel - 2012 Remaster",
       "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Used to Love U",
+      "url": "https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Fool to Love",
-      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Letters of Irrelevance",
         "url": "https://open.spotify.com/album/3KwPkAnQNxvO80FLhvaH9h"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 221787,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/3oCwuhp1k10uK25z3U2LFb"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Fool to Love",
+      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU"
-      },
-      "artists": [
-        {
-          "name": "Saint Joshua",
-          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
-        }
-      ],
-      "duration_ms": 272211,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Loose Tonight",
         "url": "https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 272333,
       "name": "Loose Tonight",
       "url": "https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU"
+      },
+      "artists": [
+        {
+          "name": "Saint Joshua",
+          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
+        }
+      ],
+      "duration_ms": 272211,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
+        "name": "Limbo/Lagune",
+        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 190903,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
         "name": "Take Me To The Alley",
         "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
       },
@@ -2303,22 +2319,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Feng Shui",
-        "url": "https://open.spotify.com/album/4kgZWpYtNIay03B0OdYW53"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Eva",
-          "url": "https://open.spotify.com/artist/6q0y2ncZ4ugyKsakT67az2"
-        }
-      ],
-      "duration_ms": 180900,
-      "name": "Feng Shui",
-      "url": "https://open.spotify.com/track/1end0EyKQFFKX8l3Z0wmyo"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Between Thought And Expression",
         "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
       },
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Limbo/Lagune",
-        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
+        "name": "Feng Shui",
+        "url": "https://open.spotify.com/album/4kgZWpYtNIay03B0OdYW53"
       },
       "artists": [
         {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+          "name": "Gabriela Eva",
+          "url": "https://open.spotify.com/artist/6q0y2ncZ4ugyKsakT67az2"
         }
       ],
-      "duration_ms": 190903,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx"
+      "duration_ms": 180900,
+      "name": "Feng Shui",
+      "url": "https://open.spotify.com/track/1end0EyKQFFKX8l3Z0wmyo"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "The Love & War MasterPeace",
-        "url": "https://open.spotify.com/album/0mnSA6vwMV26v6GWIrRM7Q"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/5GIp3XwoMW9bbdUvGB2ydO"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Now (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 254480,
       "name": "To Each His Own",
       "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "The Love & War MasterPeace",
+        "url": "https://open.spotify.com/album/0mnSA6vwMV26v6GWIrRM7Q"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/5GIp3XwoMW9bbdUvGB2ydO"
     },
     {
       "added_at": "2022-11-07 15:45:19",

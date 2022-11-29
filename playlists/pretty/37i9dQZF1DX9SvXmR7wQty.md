@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Jay Scøtt
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,567 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,569 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 43 | [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 |
 | 44 | [THÉMISTOCLE](https://open.spotify.com/track/4EESHVnsX0GLc40MI1lBPn) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [THÉMISTOCLE](https://open.spotify.com/album/5gmIkClhwBRAvO4wo1h4lS) | 3:57 |
 | 45 | [Parmi ces âmes](https://open.spotify.com/track/00aV6YbJQmkTMUuNNIj0Zh) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Pour tuer le temps](https://open.spotify.com/album/4n5gKWJsbpOqgXLpt8tMGy) | 4:41 |
-| 46 | [Saigne](https://open.spotify.com/track/1asVdZ0iYxCfmlIZ97C9z1) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Cullinan](https://open.spotify.com/album/5ChxUxNLebxMXdHGtveexw) | 2:44 |
-| 47 | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/track/1H0M4RGGYBF5pOViL9UdPB) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/album/1s6iknRE2vRWB91XnmaUnm) | 2:54 |
-| 48 | [La money](https://open.spotify.com/track/3C0NbYg52qoQtUovS9lC3b) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [IOTA](https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn) | 2:58 |
-| 49 | [KILLA \- From The "Falcon Lake" Soundtrack](https://open.spotify.com/track/0e3l1WD8ir3uHDnvgD8nwu) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [KILLA \(From The "Falcon Lake" Soundtrack\)](https://open.spotify.com/album/2JjZCqrpGOE07sajCd9OWV) | 3:14 |
-| 50 | [Je retourne à la maison](https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Je retourne à la maison](https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl) | 3:20 |
+| 46 | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/track/1H0M4RGGYBF5pOViL9UdPB) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/album/1s6iknRE2vRWB91XnmaUnm) | 2:54 |
+| 47 | [La money](https://open.spotify.com/track/3C0NbYg52qoQtUovS9lC3b) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [IOTA](https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn) | 2:58 |
+| 48 | [KILLA \- From The "Falcon Lake" Soundtrack](https://open.spotify.com/track/0e3l1WD8ir3uHDnvgD8nwu) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [KILLA \(From The "Falcon Lake" Soundtrack\)](https://open.spotify.com/album/2JjZCqrpGOE07sajCd9OWV) | 3:14 |
+| 49 | [Je retourne à la maison](https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Je retourne à la maison](https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl) | 3:20 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGMzY2VhMzEzZDVhZTA5ZDRlYTQ1N2I1ZWM0YjU4NDNm`
+Snapshot ID: `MTY2OTY1MzA1NiwwMDAwMDAwMDA5NGYxMTYzMmVkNDliYTBiYzk5ZjgwZDg2OTAyMjAz`

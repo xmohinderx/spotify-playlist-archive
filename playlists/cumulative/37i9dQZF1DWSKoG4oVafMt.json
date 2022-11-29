@@ -1922,6 +1922,28 @@
     },
     {
       "album": {
+        "name": "Connection, Vol.1",
+        "url": "https://open.spotify.com/album/026NTTddiAuFbp2oynZnIN"
+      },
+      "artists": [
+        {
+          "name": "Dreamboydb",
+          "url": "https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u"
+        },
+        {
+          "name": "Harinder Samra",
+          "url": "https://open.spotify.com/artist/3DW8E00HNAKSAjy9uK3dAA"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/12iksVmCMQzkwNyoNwZkXj"
+    },
+    {
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo"
       },
@@ -4101,6 +4123,28 @@
       "duration_ms": 157192,
       "name": "Hypnotize (From \"Honeymoon\")",
       "url": "https://open.spotify.com/track/1jUdVhaRk0PwJCK5PvDTsq"
+    },
+    {
+      "album": {
+        "name": "It's a Good Life",
+        "url": "https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h"
+      },
+      "artists": [
+        {
+          "name": "Amantej Hundal",
+          "url": "https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq"
+        },
+        {
+          "name": "Anker Deol",
+          "url": "https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "I T 's a G O O D D a Y",
+      "url": "https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14730,
+  "num_followers": 14735,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDkzNjk4OTFhMGMzYmY4MGU4Zjg0MDczYmZlOWNlMjli",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDllYjJhYmRiZDU4NmIyMzZkYTg4NTY2MjczMWQ2YWIw",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -591,34 +591,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "One By One (Remixes)",
-        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "One By One - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Neon Jungle Remixes",
         "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
       },
@@ -635,30 +607,6 @@
       "duration_ms": 249919,
       "name": "Neon Jungle - Lane 8 Remix",
       "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Stay (Blinkie Remix)",
-        "url": "https://open.spotify.com/album/4E2XszIl63rkDrfwBkA3Ef"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Blinkie",
-          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
-        }
-      ],
-      "duration_ms": 151820,
-      "name": "Stay (Blinkie Remix)",
-      "url": "https://open.spotify.com/track/0HQlgAyTXnZ9TJU7SA4xj6"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -691,6 +639,58 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "One By One (Remixes)",
+        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "One By One - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Stay (Blinkie Remix)",
+        "url": "https://open.spotify.com/album/4E2XszIl63rkDrfwBkA3Ef"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
+          "name": "Blinkie",
+          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
+        }
+      ],
+      "duration_ms": 151820,
+      "name": "Stay (Blinkie Remix)",
+      "url": "https://open.spotify.com/track/0HQlgAyTXnZ9TJU7SA4xj6"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Alive - Solomun Remix Edit",
+      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Higher (feat. iann dior) [VIZE Remix]",
         "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 151820,
       "name": "Higher (feat. iann dior) - VIZE Remix",
       "url": "https://open.spotify.com/track/7AY9zVsDed72P0CytpQpL3"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Alive - Solomun Remix Edit",
-      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1559,6 +1559,26 @@
       "duration_ms": 188437,
       "name": "Show Me Love - Sander van Doorn Remix",
       "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1639,26 +1659,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Oops (I'm Sorry) (Remixes)",
         "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
       },
@@ -1731,38 +1731,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Hearts on Fire (The Remixes)",
-        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        },
-        {
-          "name": "Willim",
-          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "Hearts on Fire - CORSAK & Willim Remix",
-      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Underwater (Dombresky Remix)",
         "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
       },
@@ -1783,30 +1751,6 @@
       "duration_ms": 161500,
       "name": "Underwater - Dombresky Remix",
       "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1839,6 +1783,82 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Hearts on Fire (The Remixes)",
+        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+        }
+      ],
+      "duration_ms": 213878,
+      "name": "Hearts on Fire - CORSAK & Willim Remix",
+      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Set Me Free (feat. MAX) [Martin Ikin Remix]",
         "url": "https://open.spotify.com/album/3s0XyHRWHzvB3oIApjgA7H"
       },
@@ -1867,22 +1887,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Hadal Ahbek (R3HAB Club Remix)",
-        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+        "name": "ENERGY (Special Edition)",
+        "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
       "artists": [
         {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Picard Brothers",
+          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
         }
       ],
-      "duration_ms": 176343,
-      "name": "Hadal Ahbek - R3HAB Club Remix",
-      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+      "duration_ms": 207785,
+      "name": "Watch Your Step (Picard Brothers Remix)",
+      "url": "https://open.spotify.com/track/0FG75O6h2uy6Xjxe1fK63N"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1911,30 +1935,6 @@
       "duration_ms": 240000,
       "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
       "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "ENERGY (Special Edition)",
-        "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        },
-        {
-          "name": "Picard Brothers",
-          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
-        }
-      ],
-      "duration_ms": 207785,
-      "name": "Watch Your Step (Picard Brothers Remix)",
-      "url": "https://open.spotify.com/track/0FG75O6h2uy6Xjxe1fK63N"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2255,30 +2255,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Thing Called Love (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 338442,
-      "name": "Thing Called Love - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Moving Blind (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
       },
@@ -2299,6 +2275,30 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Thing Called Love (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 338442,
+      "name": "Thing Called Love - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
         "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
       },
@@ -2391,6 +2371,26 @@
       "duration_ms": 185652,
       "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
       "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     }
   ],
   "unique_name": "mint Remix",

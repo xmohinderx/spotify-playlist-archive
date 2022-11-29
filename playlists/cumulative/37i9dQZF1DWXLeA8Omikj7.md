@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-771 songs - 2 day 7 hr 12 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+772 songs - 2 day 7 hr 19 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Claudi](https://open.spotify.com/track/5oVbaTDGaCgaaVYk2jHUdy) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 2:54 | 2022-07-01 |  |
 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2021-08-20 |  |
 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 | 2021-01-11 |  |
+| [Cloudy](https://open.spotify.com/track/3X669cI3mLFk0RVmqVcp4d) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 6:51 | 2022-09-09 |  |
 | [Cloudy](https://open.spotify.com/track/47aSZv8FWDnGRtWnFItGzT) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cloudy](https://open.spotify.com/album/5WvztQo4j7Faf25GIGxSNW) | 6:51 | 2022-07-01 | 2022-11-26 |
 | [Club der Ewigkeiten](https://open.spotify.com/track/2ywFTaCXKedBFlYA0XcHJM) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:09 | 2019-06-19\* | 2022-04-13 |
 | [Common Ground](https://open.spotify.com/track/2QsMIusYv7LSVnFVPbe7Bd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:52 | 2019-07-25 | 2020-10-21 |
@@ -594,7 +595,7 @@
 | [Shibori](https://open.spotify.com/track/3cUYvBTqGjS6zknck89Yio) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr) | [Boro](https://open.spotify.com/album/6F8oFWdnaDZKe7PuEPI2Gk) | 6:28 | 2021-07-12 | 2022-07-28 |
 | [Shimmer](https://open.spotify.com/track/7dy1n3TtiCfmCYG1EeAXGZ) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:02 | 2019-06-19\* | 2022-04-18 |
 | [Show Me](https://open.spotify.com/track/5k4MVfklNSMZZHB1jxvKrr) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:38 | 2019-06-19\* | 2020-10-21 |
-| [Signal \- Jean\-Michel Blais Piano Version](https://open.spotify.com/track/0L5j9vktiQmWZ34gvf1UCM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Juvenile \(Remixed\)](https://open.spotify.com/album/3yjnnlJE5S5cbRQ1zGOFsf) | 4:29 | 2022-07-01 |  |
+| [Signal \- Jean\-Michel Blais Piano Version](https://open.spotify.com/track/0L5j9vktiQmWZ34gvf1UCM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Juvenile \(Remixed\)](https://open.spotify.com/album/3yjnnlJE5S5cbRQ1zGOFsf) | 4:29 | 2022-07-01 | 2022-11-29 |
 | [Signal \- Jean\-Michel Blais Piano Version](https://open.spotify.com/track/1VUqvjcQ7KGp5M1R7VVkXe) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Juvenile \(Remixed\)](https://open.spotify.com/album/4ZH8fZnDpk1B1L7hZqdew4) | 4:29 | 2021-07-06 | 2022-07-29 |
 | [Signal \- Jean\-Michel Blais Piano Version](https://open.spotify.com/track/5JCUGvJDcnGzl6Paoo7koR) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Signal \(Jean\-Michel Blais Piano Version\)](https://open.spotify.com/album/2c03yWZ5VQa5Wez98iMlhx) | 4:29 | 2021-03-07 | 2021-10-02 |
 | [Signal From The Noise](https://open.spotify.com/track/2yb37ZX3btCqyNZnf7Jhsi) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Signal From The Noise](https://open.spotify.com/album/6wEN3iDpvHf1e7wYrImOaX) | 9:02 | 2021-07-23 | 2022-04-13 |

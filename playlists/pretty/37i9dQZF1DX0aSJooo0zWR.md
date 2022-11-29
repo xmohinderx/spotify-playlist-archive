@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea & Nino Josele
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,878 likes - 80 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,929 likes - 80 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 22 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 |
 | 23 | [Medieval Overture \- Instrumental](https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Romantic Warrior](https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt) | 5:13 |
 | 24 | [Sorbet](https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [The Rhinebeck Sessions](https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq) | 7:25 |
-| 25 | [Hard\-Wired](https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 4:03 |
-| 26 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
+| 25 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
+| 26 | [Hard\-Wired](https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 4:03 |
 | 27 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 |
 | 28 | [U.T.F.F.](https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt) | [Chapter One: Shredemption](https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L) | 3:27 |
 | 29 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 |
 | 30 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 |
 | 31 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 |
 | 32 | [Nightfall](https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 4:45 |
-| 33 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 |
-| 34 | [Hell's Bells](https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx) | [Bill Bruford](https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz) | [Master Strokes 1978\-1985](https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl) | 3:34 |
+| 33 | [Hell's Bells](https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx) | [Bill Bruford](https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz) | [Master Strokes 1978\-1985](https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl) | 3:34 |
+| 34 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 |
 | 35 | [Chromazone](https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Time In Place](https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP) | 7:42 |
 | 36 | [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 |
 | 37 | [Blue Wind](https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:54 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 72 | [As the Spirit Sings](https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9) | 5:21 |
 | 73 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 |
 | 74 | [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 |
-| 75 | [close tail](https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [カワイヒデヒロ](https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM) | [close tail](https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA) | 4:49 |
-| 76 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 |
+| 75 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 |
+| 76 | [close tail](https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [カワイヒデヒロ](https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM) | [close tail](https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA) | 4:49 |
 | 77 | [Catch me if you can!](https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n) | [Umziky](https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB) | [Catch me if you can!](https://open.spotify.com/album/1RyHcCPpsYLiMvY87EibNF) | 3:58 |
 | 78 | [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 |
 | 79 | [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 |
 | 80 | [Guinnevere](https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1) | 10:53 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDM4ODJkYzQ2NmIyNTAxZjkxYWQzZWY3N2U0NTU0Njdl`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDE3Mzk1YjUxYWQ5Zjk3ZjE1ZDYzNmJmNWMyYjMxMmVh`

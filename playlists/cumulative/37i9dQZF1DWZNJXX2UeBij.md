@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZNJXX2UeBij.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZNJXX2UeBij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZNJXX2UeBij)
 
-### [All Out 00s](https://open.spotify.com/playlist/37i9dQZF1DWZNJXX2UeBij)
+### [All Out 00s Hindi](https://open.spotify.com/playlist/37i9dQZF1DWZNJXX2UeBij)
 
 > Top Bollywood songs from 2000s till 2010
 

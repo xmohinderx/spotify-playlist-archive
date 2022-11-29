@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1402275,
+  "num_followers": 1402830,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMDhjOGM5ZjU4MjAwZjcxMWQ5OTU5M2ZlYTNhZjk2MTlk",
+  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMDUwYjAwNDE4ODNkY2MwMjkwOGE3MzY4N2VhMDM1MDY0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -617,6 +617,26 @@
       "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "I Want You",
@@ -655,26 +675,6 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -783,42 +783,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+        "name": "Hide and Seek (Le Youth Remix)",
+        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Out Of Reach",
-        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         }
       ],
-      "duration_ms": 255991,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+      "duration_ms": 231288,
+      "name": "Hide and Seek - Le Youth Remix",
+      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -847,22 +827,42 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Hide and Seek (Le Youth Remix)",
-        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
       },
       "artists": [
         {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
         }
       ],
-      "duration_ms": 231288,
-      "name": "Hide and Seek - Le Youth Remix",
-      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
+      "duration_ms": 255991,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Say Hello EP",
+        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Meliha",
+          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
+        }
+      ],
+      "duration_ms": 207111,
+      "name": "Say Hello",
+      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "The World You See",
         "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 217515,
       "name": "The World You See",
       "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Say Hello EP",
-        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
-      },
-      "artists": [
-        {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
-        },
-        {
-          "name": "Meliha",
-          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
-        }
-      ],
-      "duration_ms": 207111,
-      "name": "Say Hello",
-      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "To The Ground",
         "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
       },
@@ -1163,6 +1143,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "I / Y",
         "url": "https://open.spotify.com/album/0g0YKewBtW9livkmiAnCOH"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 354098,
       "name": "I / Y",
       "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
       },
@@ -1243,6 +1243,26 @@
       "duration_ms": 168319,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1279,22 +1299,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Kensh\u014d",
-        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
-      },
-      "artists": [
-        {
-          "name": "Fatum",
-          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
-        }
-      ],
-      "duration_ms": 220161,
-      "name": "Kensh\u014d",
-      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Golden (feat. Blondfire)",
         "url": "https://open.spotify.com/album/3lUeNPdccSYi4LK4pLvBiv"
       },
@@ -1313,24 +1317,40 @@
       "url": "https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
+        "name": "Kensh\u014d",
+        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
       },
       "artists": [
         {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
         }
       ],
-      "duration_ms": 195000,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
+      "duration_ms": 220161,
+      "name": "Kensh\u014d",
+      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "duration_ms": 403902,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1355,26 +1375,6 @@
       "duration_ms": 209081,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        },
-        {
-          "name": "Stylo",
-          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
-        }
-      ],
-      "duration_ms": 403902,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "All I Want (feat. Goatchy)",
-        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
-      },
-      "artists": [
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Goatchy",
-          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
-        }
-      ],
-      "duration_ms": 224978,
-      "name": "All I Want (feat. Goatchy)",
-      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "LINE IN THE SAND",
         "url": "https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 305078,
       "name": "LINE IN THE SAND",
       "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "All I Want (feat. Goatchy)",
+        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
+      },
+      "artists": [
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Goatchy",
+          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
+        }
+      ],
+      "duration_ms": 224978,
+      "name": "All I Want (feat. Goatchy)",
+      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1669,6 +1669,26 @@
       "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
+      },
+      "artists": [
+        {
+          "name": "i_o",
+          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Atlas (Shall Ocin & Artbat Remix)",
@@ -1715,26 +1735,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
-      },
-      "artists": [
-        {
-          "name": "i_o",
-          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Temper Temper (feat. ONR)",
         "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
       },
@@ -1751,30 +1751,6 @@
       "duration_ms": 213571,
       "name": "Temper Temper (feat. ONR)",
       "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Everyday (Jennifer Cardini Remix)",
-        "url": "https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Jennifer Cardini",
-          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
-        }
-      ],
-      "duration_ms": 440106,
-      "name": "Everyday - Jennifer Cardini Remix",
-      "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1817,6 +1793,30 @@
       "url": "https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG"
     },
     {
+      "added_at": "2022-11-29 01:29:32",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Burko",
+          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
+        }
+      ],
+      "duration_ms": 189102,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Gamma",
@@ -1853,6 +1853,30 @@
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Everyday (Jennifer Cardini Remix)",
+        "url": "https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Jennifer Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+        }
+      ],
+      "duration_ms": 440106,
+      "name": "Everyday - Jennifer Cardini Remix",
+      "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Feel Again, Pt. 1",
@@ -1871,30 +1895,6 @@
       "duration_ms": 178750,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
-    },
-    {
-      "added_at": "2022-11-28 01:28:25",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Burko",
-          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
-        }
-      ],
-      "duration_ms": 189102,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
     },
     {
       "added_at": "2022-07-01 11:37:35",

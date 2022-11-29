@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 64289,
+  "num_followers": 64381,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDY3MGUwMDJiMTVhYTZmNDI2NTExN2M1YWRiMDJlMTVm",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDI0NzZmZTYzYTA2MWVlY2QzYzg5MDA1YWZiYWY0ZDg3",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -155,38 +155,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Under Cover of Darkness",
-      "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Gold on the Ceiling",
-      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -203,6 +171,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Under Cover of Darkness",
+      "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 202466,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Little Black Submarines",
-      "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 343253,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Little Black Submarines",
+      "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The King Of Limbs",
         "url": "https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7"
       },
@@ -571,38 +571,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Last Night On Earth",
-        "url": "https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "L.I.F.E.G.O.E.S.O.N.",
-      "url": "https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Taken for a Fool",
-      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 174920,
       "name": "Don't Stop (Color on the Walls)",
       "url": "https://open.spotify.com/track/4HRa9ZWcmZ8JD7UySPu0wT"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Last Night On Earth",
+        "url": "https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "L.I.F.E.G.O.E.S.O.N.",
+      "url": "https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -635,22 +619,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "A Different Kind Of Fix",
-        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "How Can You Swallow So Much Sleep",
-      "url": "https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Bon Iver (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 188040,
       "name": "Towers",
       "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "A Different Kind Of Fix",
+        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "How Can You Swallow So Much Sleep",
+      "url": "https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -683,6 +667,38 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "I Would Do Anything for You",
+      "url": "https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Taken for a Fool",
+      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "The Year of Hibernation",
         "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
       },
@@ -699,6 +715,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "A Different Kind Of Fix",
+        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 301346,
+      "name": "Lights Out, Words Gone",
+      "url": "https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/4XvCeI5IFiB569sJwbZxB9"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 258186,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/3p0rvHL2zfHAlXAgnHC4GI"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "I Would Do Anything for You",
-      "url": "https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -795,22 +811,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "A Different Kind Of Fix",
-        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Lights Out, Words Gone",
-      "url": "https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Everything Goes My Way",
-      "url": "https://open.spotify.com/track/67wcAJeaNwGm0fcB4HzzYm"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 257786,
       "name": "Colours",
       "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Everything Goes My Way",
+      "url": "https://open.spotify.com/track/67wcAJeaNwGm0fcB4HzzYm"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "Love is a Laserquest",
-      "url": "https://open.spotify.com/track/7wsEZh68qX7jY0dziXMb0H"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "Love is a Laserquest",
+      "url": "https://open.spotify.com/track/7wsEZh68qX7jY0dziXMb0H"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r"
     },
     {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Cults",
-        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 150373,
-      "name": "You Know What I Mean",
-      "url": "https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK"
-    },
-    {
       "added_at": "2022-01-03 14:20:47",
       "album": {
         "name": "Rome",
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 216604,
-      "name": "Montezuma",
-      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 232440,
       "name": "Minnesota, WI",
       "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Cults",
+        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 150373,
+      "name": "You Know What I Mean",
+      "url": "https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 216604,
+      "name": "Montezuma",
+      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "SBTRKT",
-        "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "We Must Become the Pitiless Censors of Ourselves",
         "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 293320,
       "name": "Candles",
       "url": "https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "SBTRKT",
+        "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "East Harlem",
+      "url": "https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "His Young Heart",
         "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "East Harlem",
-      "url": "https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 202589,
       "name": "Get Some",
       "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Black Treacle",
+      "url": "https://open.spotify.com/track/3s4OT5Si1n9TFSNEPjNs0s"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1579,22 +1595,6 @@
       "duration_ms": 265866,
       "name": "Amor Fati",
       "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Black Treacle",
-      "url": "https://open.spotify.com/track/3s4OT5Si1n9TFSNEPjNs0s"
     },
     {
       "added_at": "2021-09-02 08:15:11",

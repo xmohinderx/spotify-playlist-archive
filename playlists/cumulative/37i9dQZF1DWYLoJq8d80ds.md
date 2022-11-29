@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-137 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+138 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [La Bicicleta](https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Bicicleta](https://open.spotify.com/album/6tC0mVd9UooFsdbD2hwe1o) | 3:30 | 2022-04-29 |  |
 | [La Canción de la Alegría](https://open.spotify.com/track/41rWjU20AiwfVN5pmOtn6I) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6BT25DiCRkOLy3om6fE23O) | 3:31 | 2022-07-01 |  |
 | [La Canción de la Alegría](https://open.spotify.com/track/4ecpwcIuLSrnon9Te6aMxf) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6wfZc70VuJqOIdIh67ZwwJ) | 3:31 | 2021-12-31 | 2022-07-29 |
+| [La de los Violineros](https://open.spotify.com/track/0BuGlPsJYERQO0sTtIAaYW) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [La de los Violineros](https://open.spotify.com/album/6JaE72sn3c5Gnj80EVSb5C) | 2:41 | 2022-11-28 |  |
 | [La Gringa](https://open.spotify.com/track/0KVEYVcWNe1ElvxWUz8ytv) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Gringa](https://open.spotify.com/album/70JjRfi0iqNze4DinXtLfy) | 4:17 | 2021-12-31 |  |
 | [La Leyenda de la Brasita de Fuego](https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:12 | 2021-12-31 |  |
 | [La Llama Que Baila](https://open.spotify.com/track/2m6x7oUG9zUtdPpqcwhHRW) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Llama Que Baila](https://open.spotify.com/album/2L9HQCa7QjweXkoolZdY6u) | 2:51 | 2021-12-31 | 2022-08-24 |

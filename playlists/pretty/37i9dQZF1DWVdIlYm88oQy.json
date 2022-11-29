@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 28941,
+  "num_followers": 28971,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMGIxMzBkOWY1ZjAyYmMyNjI2MDkwMjMzNGExMmQwYWMx",
+  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMDJlNzdmNjQxMTRhZjkxMTQwNDM3MjBjNWM4YTVmMjZi",
   "tracks": [
     {
       "added_at": "2022-08-31 07:29:23",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -255,6 +239,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "Un Gato En La Oscuridad",
         "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
       },
@@ -287,26 +287,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
       },
@@ -323,18 +303,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -367,6 +351,22 @@
       "duration_ms": 205226,
       "name": "Mediterraneo",
       "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "La Nave del Olvido",
+        "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "A Mi Amor Con Mi Amor",
         "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
@@ -443,18 +459,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "La Nave del Olvido",
-        "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 215400,
-      "name": "La Nave del Olvido",
-      "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
+      "duration_ms": 401880,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -475,22 +495,18 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "15 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 401880,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
+      "duration_ms": 256200,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -599,22 +615,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Maelo...El \u00danico",
         "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Confesiones de Invierno",
-      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Te Tuve Y Te Perd\u00ed",
         "url": "https://open.spotify.com/album/7v5b8xqXgv2JUJrTjaJrh5"
       },
@@ -727,22 +711,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "15 A\u00f1os Baladas \u00c9xitos",
-        "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/0Sa8iYYa4GrOmEQ2krwnTq"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 229493,
       "name": "Linda",
       "url": "https://open.spotify.com/track/5xUq5PLTPA7CTlAXihrxSD"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Confesiones de Invierno",
+      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "15 A\u00f1os Baladas \u00c9xitos",
+        "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Se a Cabo",
+      "url": "https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "Joyas Rancheras Al Estilo",
         "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 235906,
       "name": "Ma\u00f1ana Te Acordaras",
       "url": "https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Se a Cabo",
-      "url": "https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Mi Historia: Paco De Lucia",
-        "url": "https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 360426,
-      "name": "Entre Dos Aguas",
-      "url": "https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "La Mas Completa Coleccion",
         "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "Mi Historia: Paco De Lucia",
+        "url": "https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 360426,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "Reina de la Canci\u00f3n Latina",
         "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 174186,
       "name": "Busamba",
       "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "L\u00e1grimas y Lluvia",
-      "url": "https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1047,6 +1031,22 @@
       "duration_ms": 154148,
       "name": "Te Recuerdo Amanda",
       "url": "https://open.spotify.com/track/6FuMNYFqISPu4zhFyRnzkv"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "L\u00e1grimas y Lluvia",
+      "url": "https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "Live At The Cheetah, Vol. 1",
         "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+        "name": "La Absoluta Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 161800,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
+      "duration_ms": 215093,
+      "name": "No Lastimes M\u00e1s",
+      "url": "https://open.spotify.com/track/5NBBPD7iyOk34gtKgWz3IW"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1187,22 +1203,6 @@
       "duration_ms": 206666,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "La Absoluta Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "No Lastimes M\u00e1s",
-      "url": "https://open.spotify.com/track/5NBBPD7iyOk34gtKgWz3IW"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Amor Del Alma (Los Mejores Boleros Y Baladas De rocio Durcal)",
-        "url": "https://open.spotify.com/album/589YR8hhnGQp2ucKKbIfUj"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "Amor del Alma",
-      "url": "https://open.spotify.com/track/0tNhDyaUDr2CY9rStDbc2l"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Alma con Alma",
         "url": "https://open.spotify.com/album/7sbG3cmyJzRI5QAA5fK1uf"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 187431,
       "name": "Murmullo Del Mar",
       "url": "https://open.spotify.com/track/2XAyyJigU8OPixEtBLXAIi"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Amor Del Alma (Los Mejores Boleros Y Baladas De rocio Durcal)",
+        "url": "https://open.spotify.com/album/589YR8hhnGQp2ucKKbIfUj"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "Amor del Alma",
+      "url": "https://open.spotify.com/track/0tNhDyaUDr2CY9rStDbc2l"
     },
     {
       "added_at": "2022-08-31 07:29:23",

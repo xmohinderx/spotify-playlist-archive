@@ -1,31 +1,35 @@
 {
   "description": "Il meglio del jazz italiano, in una selezione speciale a cura degli <a href=\"spotify:artist:1rWbZmR5D63aZU60lMtVZx\">Studio Murena</a>.",
-  "num_followers": 19859,
+  "num_followers": 19884,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgxMjAyNywwMDAwMDAwMDg1ZjFmN2E2ZWViMjkyNGU5NzY0NTgwNGRhNTRmZjky",
+  "snapshot_id": "MTY2OTYyMzg2MywwMDAwMDAwMDcwNzc2ZWYwMzJmZjFiYmZkMzJjZTY2MmI3ZmJjZjAz",
   "tracks": [
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
-        "name": "CORRI",
-        "url": "https://open.spotify.com/album/1N1byTuOKyJu0IHiwaoLLP"
+        "name": "MARIONETTE (feat. Danno)",
+        "url": "https://open.spotify.com/album/6TCKONF2sJiakUZEoxtpam"
       },
       "artists": [
         {
           "name": "Studio Murena",
           "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN"
         }
       ],
-      "duration_ms": 234260,
-      "name": "CORRI",
-      "url": "https://open.spotify.com/track/4neBNkqlzqkJRsuUpte3Fp"
+      "duration_ms": 219130,
+      "name": "MARIONETTE (feat. Danno)",
+      "url": "https://open.spotify.com/track/7EYYeV2YB8qhYC0KtpXpMC"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "In the Eyes of the Whale",
         "url": "https://open.spotify.com/album/3UHWBfnOeU7pyX7hylXVU9"
@@ -41,7 +45,7 @@
       "url": "https://open.spotify.com/track/0bqTEAffuz1uSJaSJSZBLR"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Scenario",
         "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
@@ -61,7 +65,7 @@
       "url": "https://open.spotify.com/track/4TfE5s0ptWgiKBKG4LchDW"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Make It Pure",
         "url": "https://open.spotify.com/album/6jYUbst4sqwUQAQ3xJt1cl"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/48FYBcHOQAvt0wFtmKDp7x"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
@@ -109,7 +113,23 @@
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
+      "album": {
+        "name": "CORRI",
+        "url": "https://open.spotify.com/album/1N1byTuOKyJu0IHiwaoLLP"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 234260,
+      "name": "CORRI",
+      "url": "https://open.spotify.com/track/4neBNkqlzqkJRsuUpte3Fp"
+    },
+    {
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Spears of Leaves",
         "url": "https://open.spotify.com/album/4ZM5RWTu7VvQDc3FV9wSK8"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/0fMtkZWxfjmmIalaAfeUM0"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Kuni",
         "url": "https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Aut Aut",
         "url": "https://open.spotify.com/album/0QBw8PAScglDL7C4957qy9"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/7dsgdcIu2Pby6wnbsjRqSy"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
@@ -213,7 +233,7 @@
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Unconscious Collective",
         "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "THEMONOLITH",
         "url": "https://open.spotify.com/album/42Q8OzlHyzXOyFjclIbMMA"
@@ -245,7 +265,7 @@
       "url": "https://open.spotify.com/track/5iUOEeKtwgy2PgdQz0hVq0"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Plastic Breath",
         "url": "https://open.spotify.com/album/0bSzQXxY4rtXhjY1IDJ9RI"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/5moUMG6e7WVJzU0AlOKotS"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Post Momentum",
         "url": "https://open.spotify.com/album/3xMxVoRW5cUMzZKdffnINk"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/1tv82hvJ88GOseKWEYsW3L"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "The Enja Heritage Collection: Thorn",
         "url": "https://open.spotify.com/album/67rTLugyNX03X8zatBUAWx"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/1F1Nm8dXWjSqmQItbENbAD"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Different, Us",
         "url": "https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw"
@@ -365,7 +385,7 @@
       "url": "https://open.spotify.com/track/02U4H3RvIptfhh4xMWtuqo"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "La Valle Dei Templi",
         "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Dionysia",
         "url": "https://open.spotify.com/album/5vZuXWCLv1U3uBL6Es50OX"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/2kuj7UgWG37nOOSpvdfybm"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Correspondence",
         "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Kugelf\u00f6rmigkeit",
         "url": "https://open.spotify.com/album/2qSvHGDuG7IEOpOhUMyLau"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/4XZbcXMibHpv1FaMRTJhSr"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Stasi",
         "url": "https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes"
@@ -481,23 +501,7 @@
       "url": "https://open.spotify.com/track/0SMctGz6hAXgbZWCD8DsjZ"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
-      "album": {
-        "name": "Arpa e tamburo",
-        "url": "https://open.spotify.com/album/2IARHAh6n5Xfa5tHkbKVzu"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Arpa e tamburo",
-      "url": "https://open.spotify.com/track/1mu0gMpgqraGpXZh0wJf9f"
-    },
-    {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Cosmica Italiana",
         "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
@@ -517,7 +521,7 @@
       "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Meridies",
         "url": "https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN"
@@ -537,7 +541,7 @@
       "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Bizarre City",
         "url": "https://open.spotify.com/album/5U4aIqg68PwGMfwm73CFFG"
@@ -553,7 +557,7 @@
       "url": "https://open.spotify.com/track/10I2bf5nDphrLZOOVBqLSc"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "OLTRE",
         "url": "https://open.spotify.com/album/7I1F5rBYk8uZrywPFRvfHh"
@@ -569,7 +573,7 @@
       "url": "https://open.spotify.com/track/0fFCDbJHkoGWid7vVK2ljW"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/6SsRFfNQHautbq2pQHT3Gm"
@@ -597,7 +601,7 @@
       "url": "https://open.spotify.com/track/6rKtQFk8Lbz2QDD3Jpssn5"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Easter Monday LO-FI",
         "url": "https://open.spotify.com/album/38axByQg4nt6fGvLfcMEYp"
@@ -613,7 +617,7 @@
       "url": "https://open.spotify.com/track/16S7jdyKXnNknTl5yTWOzt"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Av\u00f2",
         "url": "https://open.spotify.com/album/7DP5eWGJUI7hxPMYv9Co54"
@@ -629,7 +633,7 @@
       "url": "https://open.spotify.com/track/4MLHNowxBayqfnt4iFy2Jb"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Yellowblack",
         "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
@@ -645,7 +649,7 @@
       "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Quando le canzoni finiscono",
         "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
@@ -665,7 +669,7 @@
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
@@ -681,7 +685,7 @@
       "url": "https://open.spotify.com/track/4d9ATc15ejCgSjq7mQJwM1"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",
         "url": "https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI"
@@ -701,7 +705,7 @@
       "url": "https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "La bambina e il trapezista",
         "url": "https://open.spotify.com/album/5yg8TJ5OUVsbUbnmwWWZU7"
@@ -729,7 +733,7 @@
       "url": "https://open.spotify.com/track/6a4MlOyKbaaQi6o0IaONKn"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "PHYSIS",
         "url": "https://open.spotify.com/album/54jguMfvEG7k8XuZaJR43E"
@@ -749,7 +753,7 @@
       "url": "https://open.spotify.com/track/151H6RkyTGT8Ly2rXqk9hI"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Irene of Boston - Conversation Avec Corto Maltese",
         "url": "https://open.spotify.com/album/35n9ryD9cWUZ6QtBA1U8BS"
@@ -765,7 +769,7 @@
       "url": "https://open.spotify.com/track/1Pv9Zh7qPiz7SpFokXkXlr"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Carpet Stories",
         "url": "https://open.spotify.com/album/3xkny56lTHms8WJnVfv0xV"
@@ -781,7 +785,7 @@
       "url": "https://open.spotify.com/track/36vagOuWa9n4dZOAVbcwEp"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Catarsi Aiwa Maxibon",
         "url": "https://open.spotify.com/album/4gITwZE87JIxjyRXXDHQJ7"
@@ -801,7 +805,7 @@
       "url": "https://open.spotify.com/track/7lU45TUW7JN0XQIR5BTyuX"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Il Labirinto dei Topi",
         "url": "https://open.spotify.com/album/4fWmsQbCZ2EV9fuXUnmIXF"
@@ -829,7 +833,7 @@
       "url": "https://open.spotify.com/track/4TPhRoIPxaRrEkpFSHiqUU"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Marco Rauchbombe Cesarini & Uqbar Orchestra (Transumanza)",
         "url": "https://open.spotify.com/album/3R5GXfe3stleBEXcJgI7TW"
@@ -845,7 +849,7 @@
       "url": "https://open.spotify.com/track/43iMiq89wNufHlFljWDAzz"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Stammi Veramente Molto Bene",
         "url": "https://open.spotify.com/album/2kt9cHDSQLEKPIjqegkKoS"
@@ -861,7 +865,7 @@
       "url": "https://open.spotify.com/track/4RtOrvuNEd7sVmPA44OWVn"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
@@ -881,7 +885,7 @@
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "M'berra",
         "url": "https://open.spotify.com/album/5BblnhMflAtl1Iz1FCoFsG"
@@ -897,7 +901,7 @@
       "url": "https://open.spotify.com/track/5u2BJIr3c9kazCyBFQevvn"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Desertico",
         "url": "https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt"
@@ -913,7 +917,7 @@
       "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Insight",
         "url": "https://open.spotify.com/album/3gzI0SA10GGTzeN0UTXnOi"
@@ -937,7 +941,7 @@
       "url": "https://open.spotify.com/track/549O2wQgtQNcXkJIEpRB2f"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Alchimia",
         "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
@@ -953,7 +957,7 @@
       "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
-      "added_at": "2022-11-07 09:07:06",
+      "added_at": "2022-11-28 08:24:23",
       "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"

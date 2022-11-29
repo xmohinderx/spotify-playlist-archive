@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,135 likes - 57 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,468 likes - 57 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 19 | [6 Chorale Preludes, BV B 50: Herzlich tut mich verlangen, Op\. 122/10](https://open.spotify.com/track/0Ck1w9drSHl9NrWV9diIXv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Encounter](https://open.spotify.com/album/1Deu0jSVqpCLj6QtUn5f6a) | 3:01 |
 | 20 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 |
 | 21 | [Lieder ohne Worte \(Songs without Words\), Book 2, Op\. 30: No\. 7 in E\-Flat Major, Op\. 30, No\. 1](https://open.spotify.com/track/00CXUMREit80f2McJsjcIz) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Péter Nagy](https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM) | [Mendelssohn, Felix: Songs Without Words, Vol\. 1](https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT) | 4:42 |
-| 22 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 |
+| 22 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6VnSkysUFuLEayG0LIQlVF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Debussy, Ravel: Piano Music](https://open.spotify.com/album/0RnAJzvGCJPn7igIlHGBsQ) | 4:32 |
 | 23 | [Deux valses pour deux pianos: I\. Valse lente \(arr\. for Solo Piano\)](https://open.spotify.com/track/2g8J31ZSDiHfpbj4SDiwMD) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Eric Le Sage](https://open.spotify.com/artist/6JSdWtNdhfjutA5r16UOpx) | [Deux valses pour deux pianos: I\. Valse lente \(arr\. for Solo Piano\)](https://open.spotify.com/album/1L9ROmc0o1iDp79dUGQdcP) | 1:42 |
 | 24 | [Kreisleriana, Op\. 16: IV\. Sehr langsam](https://open.spotify.com/track/117UK0UdhuFikHiKUUquUp) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Jean\-Baptiste Doulcet](https://open.spotify.com/artist/0UNH738aPkyYpDpcXO5ga5) | [Schumann : Kreisleriana, Op\. 16: IV\. Sehr langsam](https://open.spotify.com/album/0aRCmGD4UnHLGP1EsR3Kub) | 3:08 |
 | 25 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 56 | [Rêverie, L\. 68](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 |
 | 57 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 
-Snapshot ID: `MTY2OTM4ODQ0OCwwMDAwMDAwMDAyMDkyM2NmZDBkNmFmMzY0ZTMwYTY5NDM5NzE4ODFi`
+Snapshot ID: `MTY2OTM4ODQ0OCwwMDAwMDAwMDg1OGQwZGJlOTdiYjQ0OGM4OWM4YjEwYWMwNWExZDY3`

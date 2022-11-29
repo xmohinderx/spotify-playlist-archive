@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 131722,
+  "num_followers": 131767,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMGZhMDM1M2JlY2I2NDZmNjljNzQzYjdlZmExMTkzN2Fh",
+  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMDJmYjAzMDZlNjZhMjU0MGRlZDRkZDEwOTAzMjViM2E3",
   "tracks": [
     {
       "added_at": "2022-11-07 16:02:06",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "9 de Julio",
-      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 248400,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "9 de Julio",
+      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -331,38 +331,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Esp\u00edritu",
-        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
-        "name": "Presi\u00f3n",
-        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "Una Nueva Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -395,18 +363,50 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
         }
       ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Presi\u00f3n",
+        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "Una Nueva Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Esp\u00edritu",
+        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -423,22 +423,6 @@
       "duration_ms": 253933,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -471,6 +455,22 @@
       "duration_ms": 259813,
       "name": "Sr. Cobranza",
       "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 321706,
-      "name": "Otra Vuelta de Tuerca",
-      "url": "https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Verde Paisaje del Infierno",
         "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 321706,
+      "name": "Otra Vuelta de Tuerca",
+      "url": "https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 207280,
       "name": "Loco Un Poco",
       "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 303866,
-      "name": "Tantas Escaleras",
-      "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -731,22 +715,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Casi Justicia Social I",
         "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
@@ -763,6 +731,22 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 303866,
+      "name": "Tantas Escaleras",
+      "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
         "name": "La Renga",
         "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 295773,
       "name": "Cuando Est\u00e9s Ac\u00e1",
       "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+        "name": "Lo Que Somos",
+        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
         }
       ],
-      "duration_ms": 312760,
-      "name": "De La Guitarra",
-      "url": "https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg"
+      "duration_ms": 191530,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Lo Que Somos",
-        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
       "artists": [
         {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 191530,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
+      "duration_ms": 308666,
+      "name": "Clarobscuro",
+      "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -907,24 +907,8 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Clarobscuro",
-      "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
       "artists": [
         {
@@ -932,9 +916,9 @@
           "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 214090,
-      "name": "Las cosas que no se tocan",
-      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
+      "duration_ms": 312760,
+      "name": "De La Guitarra",
+      "url": "https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Las cosas que no se tocan",
+      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
         "name": "Mundo Perfecto",
         "url": "https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 228786,
       "name": "Hasta La Victoria",
       "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Alma en Pe\u00f1a",
+        "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
+      },
+      "artists": [
+        {
+          "name": "Salamandra",
+          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
+        }
+      ],
+      "duration_ms": 236605,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Alma en Pe\u00f1a",
-        "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
-      },
-      "artists": [
-        {
-          "name": "Salamandra",
-          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Solito",
-      "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 188586,
       "name": "Down",
       "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 324053,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 324053,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
         "name": "Aunque Cueste Ver El Sol",
         "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 244093,
       "name": "Cielo De Un Solo Color",
       "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Fiesta Sudaka (Parte 1)",
+        "url": "https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu"
+      },
+      "artists": [
+        {
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+        }
+      ],
+      "duration_ms": 335560,
+      "name": "Amando A Mi Guitarra",
+      "url": "https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Fiesta Sudaka (Parte 1)",
-        "url": "https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu"
-      },
-      "artists": [
-        {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
-        }
-      ],
-      "duration_ms": 335560,
-      "name": "Amando A Mi Guitarra",
-      "url": "https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Solo Canciones",
         "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "A Cielo Abierto - El a\u00f1o del tigre",
+        "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 241946,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
+      "duration_ms": 194597,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK"
     }
   ],
   "unique_name": "Rock Barrial",

@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: LYELL & SkyDxddy
 
-2,449 songs - 5 day 19 hr 24 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+2,451 songs - 5 day 19 hr 29 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-23 | 2022-07-01 |
 | [A Beautiful Life](https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl) | 3:35 | 2022-04-22 | 2022-04-29 |
 | [A Better Universe](https://open.spotify.com/track/2x70QbN0F4YgImvZcrUPee) | [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [A Better Universe](https://open.spotify.com/album/1kcVb1SDDztuChpMHHWCrr) | 4:00 | 2022-02-10 | 2022-02-25 |
-| [A Conversation With Billy Bragg About The Purpose Of Art](https://open.spotify.com/track/71vxfBCdBBqTLcNJr23OCc) | [The Smith Street Band](https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp) | [A Conversation With Billy Bragg About The Purpose Of Art](https://open.spotify.com/album/4WtjQc8jCo20w7j7Pdox0t) | 2:06 | 2022-11-25 |  |
+| [A Conversation With Billy Bragg About The Purpose Of Art](https://open.spotify.com/track/2i3DzL4TkrbgxZ36xdrwDN) | [The Smith Street Band](https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp) | [Life After Football](https://open.spotify.com/album/4ugpwLPofSrkJueFSYl9Jp) | 2:06 | 2022-11-28 |  |
+| [A Conversation With Billy Bragg About The Purpose Of Art](https://open.spotify.com/track/71vxfBCdBBqTLcNJr23OCc) | [The Smith Street Band](https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp) | [A Conversation With Billy Bragg About The Purpose Of Art](https://open.spotify.com/album/4WtjQc8jCo20w7j7Pdox0t) | 2:06 | 2022-11-25 | 2022-11-29 |
 | [A Disappearing Act](https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:29 | 2022-06-23 | 2022-07-01 |
 | [A Line Of Shots](https://open.spotify.com/track/0yTKvwsgpRIDpa2W3pYRDq) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [A Line Of Shots](https://open.spotify.com/album/7ekIjKgyvtHauGdQkhWwZX) | 3:27 | 2022-07-22 | 2022-07-30 |
 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-03-18 | 2022-03-25 |
@@ -1291,6 +1292,7 @@
 | [Lucky Ones](https://open.spotify.com/track/3ko12vQlZ4eOah2bbTP7c4) | [Julian Lennon](https://open.spotify.com/artist/4Tvos0a5rRrBu4Oodu5f79) | [Lucky Ones](https://open.spotify.com/album/7jmgdERMgJQAzgN4SXVIat) | 4:41 | 2022-08-05 | 2022-08-13 |
 | [Lupa](https://open.spotify.com/track/0BdZGPjIfihtxbB8YfGgLe) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [King Stingray](https://open.spotify.com/album/1I0ZpUzinqCX3rSEgADGJX) | 3:15 | 2022-08-05 | 2022-08-13 |
 | [Lust for Life](https://open.spotify.com/track/3VkY2jHjBcXY1Q21cc6glF) | [EMMERICH](https://open.spotify.com/artist/6GkVK4rEmqtj1STUQCuDQh) | [UFO EMO 2](https://open.spotify.com/album/1S6hS6T275XBv0jbsjW0NX) | 2:32 | 2022-03-24 | 2022-04-01 |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-28 |  |
 | [M.O.V.E\. O.N.](https://open.spotify.com/track/3RmQI3xna784PYNgNi1NBw) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/1eKFeDkE9jlbnGw8dGWX85) | 3:21 | 2022-09-30 | 2022-10-08 |
 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 | 2022-08-26 | 2022-09-09 |
 | [M4U](https://open.spotify.com/track/3naiigMnD5a77xdGcMnt8r) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [M4U](https://open.spotify.com/album/51xS6EMZTwOX8Wljl7vPm0) | 3:24 | 2022-11-18 | 2022-11-26 |

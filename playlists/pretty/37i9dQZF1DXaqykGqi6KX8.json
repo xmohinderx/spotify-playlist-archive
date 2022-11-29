@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 30508,
+  "num_followers": 30536,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMGIyZDIwNzBlMWU1Njc4M2Q3NzMwZTM2NTMxNDRlNzhh",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDUwYTYzZWVlZmMwYTA5OWEyZGUyZTgxNTM3NWM1M2Yy",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Znousland 2",
-        "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
-      },
-      "artists": [
-        {
-          "name": "Znous",
-          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Khoroto (Gultrah Sound System)",
-      "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Line of Fear",
         "url": "https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "The Order of Amenti",
-        "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
+        "name": "Znousland 2",
+        "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
       },
       "artists": [
         {
-          "name": "Crescent",
-          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
+          "name": "Znous",
+          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
         }
       ],
-      "duration_ms": 240000,
-      "name": "The Twelfth Gate",
-      "url": "https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog"
+      "duration_ms": 242000,
+      "name": "Khoroto (Gultrah Sound System)",
+      "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -295,6 +279,22 @@
       "duration_ms": 340426,
       "name": "Forever and A Day",
       "url": "https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "The Order of Amenti",
+        "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
+      },
+      "artists": [
+        {
+          "name": "Crescent",
+          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "The Twelfth Gate",
+      "url": "https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "GILGAMESH",
-        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
+        "name": "Timeless Truths",
+        "url": "https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA"
       },
       "artists": [
         {
-          "name": "Acrassicauda",
-          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
+          "name": "Luay Rifai",
+          "url": "https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g"
         }
       ],
-      "duration_ms": 188734,
-      "name": "The Cost Of Everything And The Value Of Nothing",
-      "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
+      "duration_ms": 342266,
+      "name": "Leap of Faith",
+      "url": "https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH"
     }
   ],
   "unique_name": "Arab Metal",

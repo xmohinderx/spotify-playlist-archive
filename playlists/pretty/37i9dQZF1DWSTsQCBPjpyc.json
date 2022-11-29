@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 16915,
+  "num_followers": 16940,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGZiMmMwNGI0MDU2ODI2YTY1MWYyYmEwMjczOTdkZWFm",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDNiOWMwNTQyODdiYTI4YmMyMGMzMDE5ZTM3YWNiOGFj",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Deluxe Edition",
@@ -527,22 +543,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "On Tap",
-        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Watch Me Move",
-      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -557,20 +557,20 @@
       "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+        "name": "On Tap",
+        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 227880,
-      "name": "Put That Back",
-      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+      "duration_ms": 245826,
+      "name": "Watch Me Move",
+      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
     },
     {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Ashton",
+          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
+    },
+    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -673,22 +689,6 @@
       "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
-      },
-      "artists": [
-        {
-          "name": "Samuel Ashton",
-          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Let's Talk It Over",
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let's Roll",
-        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Lie No Better",
-      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 225666,
       "name": "Meet Me in Chicago",
       "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let's Roll",
+        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Lie No Better",
+      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Iceman",
-        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 250333,
-      "name": "I'm Beginning To Wonder",
-      "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Alligator Records Years",
         "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 231026,
       "name": "I Smell Smoke",
       "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Iceman",
+        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 250333,
+      "name": "I'm Beginning To Wonder",
+      "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
     }
   ],
   "unique_name": "Funky Blues",

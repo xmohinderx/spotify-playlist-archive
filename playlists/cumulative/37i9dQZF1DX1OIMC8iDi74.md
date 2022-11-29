@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-232 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+233 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Kaleidoscope \(Feat\. Crystalline\)](https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Crystalline](https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ) | [Starman](https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z) | 3:31 | 2022-02-01 |  |
 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 | 2022-11-11 |  |
 | [Kings](https://open.spotify.com/track/6X38QEOERzDXI5HPvwAJw7) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Kings](https://open.spotify.com/album/2FBcJivmFru1auQqyrSKwl) | 2:34 | 2021-11-19 | 2022-02-02 |
+| [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-11-28 |  |
 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 | 2022-02-01 |  |
 | [Lights Go Down \- Peekaboo Remix](https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Lights Go Down \(Peekaboo Remix\)](https://open.spotify.com/album/5dqobhABvWXbytvUKbPpnB) | 5:25 | 2021-11-19 |  |
 | [Like That](https://open.spotify.com/track/7MFahU9vl5TWlei936k7n6) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Like That](https://open.spotify.com/album/3f3XdsftL1mF8LBTduqECp) | 4:20 | 2021-11-19 |  |
@@ -186,7 +187,7 @@
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-11-19 |  |
 | [Run Around](https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Run Around](https://open.spotify.com/album/6PEApdxop2cHLXra7RScde) | 2:19 | 2021-11-19 | 2022-07-29 |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-11-19 |  |
-| [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 |  |
+| [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 | 2022-11-29 |
 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 | 2021-11-19 |  |
 | [Schism](https://open.spotify.com/track/6ORBymYSqdRRqAyZvybcXq) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Schism](https://open.spotify.com/album/7DM9QTovHnLVjFjRkDNQ1F) | 2:33 | 2021-11-19 | 2022-02-02 |
 | [Sense](https://open.spotify.com/track/3mAHtO5lWZmVmZ898Vp3mB) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Pryzms](https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Sense](https://open.spotify.com/album/2Ll4zYTAQXnBHi18Jg4K04) | 2:46 | 2022-06-17 | 2022-07-29 |

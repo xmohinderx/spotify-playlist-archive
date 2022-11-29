@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 200631,
+  "num_followers": 200837,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDYzYmIyNGM3NjI0ZjJkMjllY2E1NWRlNGM0NzIxZDQ1",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGVjNGU4YTEyYmU3MGQ4ZmYzY2I0OGY4ZDA5NzZmYjM2",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 232548,
+      "name": "When Doves Cry - Radio Edit",
+      "url": "https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Beat It",
         "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 162690,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Ruthless",
-        "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 232548,
-      "name": "When Doves Cry - Radio Edit",
-      "url": "https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "By The People, For The People",
-        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "King Of Pain",
-      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/5833BTHlYCmErR58ED2wmu"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Wind of Change",
-        "url": "https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG"
+        "name": "By The People, For The People",
+        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
       "artists": [
         {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 322804,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
+      "duration_ms": 276306,
+      "name": "King Of Pain",
+      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -515,18 +499,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+        "name": "Wind of Change",
+        "url": "https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG"
       },
       "artists": [
         {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
         }
       ],
-      "duration_ms": 229499,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
+      "duration_ms": 322804,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 248333,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Born Dead",
-        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 171428,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Born Dead",
+        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Graveyard Classics",
         "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 258564,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-        "url": "https://open.spotify.com/album/4LSbhtzHdQtsE6XPF4xNdy"
-      },
-      "artists": [
-        {
-          "name": "Unfound Reliance",
-          "url": "https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq"
-        }
-      ],
-      "duration_ms": 264125,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/0d76QXv2R4RIvWWb2y1MIu"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 217600,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "url": "https://open.spotify.com/album/4LSbhtzHdQtsE6XPF4xNdy"
+      },
+      "artists": [
+        {
+          "name": "Unfound Reliance",
+          "url": "https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq"
+        }
+      ],
+      "duration_ms": 264125,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/0d76QXv2R4RIvWWb2y1MIu"
     },
     {
       "added_at": "2022-11-25 05:00:00",

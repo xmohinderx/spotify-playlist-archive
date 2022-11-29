@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 143841,
+  "num_followers": 144010,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDlhM2FiZDg2NTZlODgyNmQ4NjRiMDBlMWEwZTU1ODhi",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDc2NGRhMmEzYjkzYmE5Yzg3NzBhNGI4MzM4NTdiNDg5",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Wintermusik",
+        "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 227184,
+      "name": "Ambre",
+      "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Small Craft On A Milk Sea",
         "url": "https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 132306,
       "name": "Emerald and Stone",
       "url": "https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Wintermusik",
-        "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 227184,
-      "name": "Ambre",
-      "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Saw You for the First Time",
-        "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 404630,
-      "name": "Saw You for the First Time",
-      "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Ardour",
         "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Saw You for the First Time",
+        "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 404630,
+      "name": "Saw You for the First Time",
+      "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "acceptance",
-        "url": "https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs"
-      },
-      "artists": [
-        {
-          "name": "poolsideconvo",
-          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
-        }
-      ],
-      "duration_ms": 311978,
-      "name": "acceptance",
-      "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "acceptance",
+        "url": "https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs"
+      },
+      "artists": [
+        {
+          "name": "poolsideconvo",
+          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
+        }
+      ],
+      "duration_ms": 311978,
+      "name": "acceptance",
+      "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Equal Amounts Afraid",
-        "url": "https://open.spotify.com/album/6NtQEro3xWLSkFwLuBOiIo"
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
       },
       "artists": [
         {
-          "name": "LA Timpa",
-          "url": "https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC"
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
         }
       ],
-      "duration_ms": 252946,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/0N1Wlo3BogRj4o1ObpGegv"
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+        "name": "Equal Amounts Afraid",
+        "url": "https://open.spotify.com/album/6NtQEro3xWLSkFwLuBOiIo"
       },
       "artists": [
         {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+          "name": "LA Timpa",
+          "url": "https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC"
         }
       ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+      "duration_ms": 252946,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/0N1Wlo3BogRj4o1ObpGegv"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1567,6 +1567,22 @@
       "duration_ms": 242000,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1627,38 +1643,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Far Away Trains Passing By",
-        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 397986,
-      "name": "Passing By - 2019 remaster",
-      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Come To Canada You Will Like It",
         "url": "https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 245510,
       "name": "Fine Match",
       "url": "https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Far Away Trains Passing By",
+        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 397986,
+      "name": "Passing By - 2019 remaster",
+      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     }
   ],
   "unique_name": "Electronica Romantica",

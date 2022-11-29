@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Favole",
+        "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102567,
+      "name": "Favole",
+      "url": "https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8"
+    },
+    {
+      "album": {
         "name": "Febbre a febbraio",
         "url": "https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd"
       },

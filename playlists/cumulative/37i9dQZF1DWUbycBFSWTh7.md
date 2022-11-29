@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-128 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+129 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Clap & Stomp](https://open.spotify.com/track/5Cs8GSuYsD7gSq0lbL5hqC) | [Javonntte](https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi) | [Return of the Private Party](https://open.spotify.com/album/55SMgIcyCEkwCEv2ahugt7) | 5:37 | 2022-09-15 |  |
 | [Closer](https://open.spotify.com/track/5A8rwVPuBWN1oUw7lD4jzP) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 7:04 | 2022-09-15 |  |
 | [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2022-11-10 |  |
+| [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 | 2022-11-28 |  |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-09-15 |  |
 | [Desire](https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Desire](https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o) | 5:52 | 2022-10-13 |  |
 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 | 2022-09-15 |  |

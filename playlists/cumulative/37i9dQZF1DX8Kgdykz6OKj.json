@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 205000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/7Et3XDHUjTjNs6CaUgpikz"
@@ -2141,6 +2141,40 @@
       "duration_ms": 249373,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/50iCTSYg5gE5QTKgSvIGe8"
+    },
+    {
+      "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Majical",
+          "url": "https://open.spotify.com/artist/6G1msbNwej8ibSdhWTFY6w"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251068,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2uweJu8oFGaj7F3cMCX2Ha"
     },
     {
       "album": {

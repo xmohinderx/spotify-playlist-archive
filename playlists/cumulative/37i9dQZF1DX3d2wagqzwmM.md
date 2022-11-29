@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Maddix
 
-215 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+216 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Dumb \(Feat\. BOSS\)](https://open.spotify.com/track/2CaFENbuuAiVhSoQUiPdTq) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [BOSS](https://open.spotify.com/artist/2qXlwHI0XFxS3SC8NiUjI1) | [Dumb \(Feat\. BOSS\)](https://open.spotify.com/album/0acKFXUQjTjY1R8u5INkjt) | 2:43 | 2022-04-14 | 2022-09-02 |
 | [Dust](https://open.spotify.com/track/5p4ZYlGkKTOJHcrVKY4j2L) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Dust](https://open.spotify.com/album/6BZZ5Xp4GUDHQcwyvyItGM) | 3:15 | 2022-04-14 | 2022-07-29 |
 | [EDM](https://open.spotify.com/track/5WAx7JU09H1jJaaIdUJcVh) | [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [EDM](https://open.spotify.com/album/7Kjwp4YuatuRzoxoGjVVGE) | 2:16 | 2022-09-22 |  |
-| [Empty City](https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Empty City](https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy) | 3:11 | 2022-09-08 |  |
+| [Empty City](https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Empty City](https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy) | 3:11 | 2022-09-08 | 2022-11-29 |
 | [F\*CKING SOCIETY](https://open.spotify.com/track/45857Pj90KZO6U0hzjfLfT) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [F\*CKING SOCIETY](https://open.spotify.com/album/2q0daVPSG8ly1LK8MSrFfv) | 4:39 | 2022-04-14 | 2022-06-24 |
 | [Faith](https://open.spotify.com/track/2SkUvut5VXp5CUlXsBYldr) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Faith](https://open.spotify.com/album/7CuT99I5LIPVtYb5knItiy) | 2:40 | 2022-04-14 | 2022-09-09 |
 | [Fall](https://open.spotify.com/track/77gg2iID0drmIb7bvj3pqo) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [L3N](https://open.spotify.com/artist/1CPGHY0C0ju8YUFVSXAWOy) | [Fall](https://open.spotify.com/album/5c7KBGm5itLGnklFh2JSeh) | 2:30 | 2022-06-30 |  |
@@ -200,6 +200,7 @@
 | [The Motto \- Tiësto’s VIP Mix](https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto \(Tiësto’s VIP Mix\)](https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ) | 3:26 | 2022-04-14 |  |
 | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \- Gabry Ponte Festival Mix](https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOKABY](https://open.spotify.com/artist/3AXI2Qfty5IVrmtQzi8weo) | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \[Gabry Ponte Festival Mix\]](https://open.spotify.com/album/4FzZTh4CGJ6WJhR84F2T2o) | 2:42 | 2022-04-14 | 2022-07-29 |
 | [The Phoenix](https://open.spotify.com/track/3FQ7o0hI7lM1j9DfLKl7RJ) | [REVLIN](https://open.spotify.com/artist/3pScnrwwm1UK3sczkyDq33) | [The Phoenix](https://open.spotify.com/album/13GDnb6X5qI16ZyNbuHPDr) | 3:52 | 2022-04-14 | 2022-04-21 |
+| [The Soulcatcher](https://open.spotify.com/track/3Q4CHVn8Gln5uhTFiPuTnn) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [The Soulcatcher](https://open.spotify.com/album/6PtttpAoiPsQClj2V58ZKx) | 2:48 | 2022-11-29 |  |
 | [The Weekend](https://open.spotify.com/track/1mA59ka5t7zodO1FO0Xzzj) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [The Weekend](https://open.spotify.com/album/4053RHHeqwePbdghoqM1i9) | 2:48 | 2022-04-14 | 2022-10-14 |
 | [Thrill](https://open.spotify.com/track/0n8PMT5vyu8lffykqYvOIo) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Thrill](https://open.spotify.com/album/5TqgtXhlVZi0KwEdWr1AST) | 3:37 | 2022-11-10 |  |
 | [Thunder](https://open.spotify.com/track/0bCMosuR81mPp5qsLbHcw0) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Thunder](https://open.spotify.com/album/7ne1Slu4DJbb60X986utXU) | 3:08 | 2022-06-23 | 2022-06-27 |

@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 41735,
+  "num_followers": 41772,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI2NTMwMywwMDAwMDAwMDE4MTE2ZTZiMjNhNGYwYjg3OGRjNjEwNjdlYTY5OGE4",
+  "snapshot_id": "MTY2OTI2NTMwMywwMDAwMDAwMGNhMDRjZDk1ZTY4ZDIxN2Q4NzFlNGUxYzUxMTViOTA5",
   "tracks": [
     {
       "added_at": "2022-11-22 15:00:00",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt"
     },
     {
-      "added_at": "2022-11-28 01:16:07",
+      "added_at": "2022-11-29 01:17:51",
       "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/0noNZlQ3ecnWvtrNSpMi50"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/6o4KLywJfGXPuuwZDEoYSt"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
         "name": "Dancing With A Stranger (With Normani) [Acoustic]",
         "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/0noNZlQ3ecnWvtrNSpMi50"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/6o4KLywJfGXPuuwZDEoYSt"
     },
     {
       "added_at": "2022-11-22 15:00:00",

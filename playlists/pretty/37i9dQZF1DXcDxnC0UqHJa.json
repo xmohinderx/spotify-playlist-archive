@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 467389,
+  "num_followers": 467425,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDgwNTA4YjYxMWU3NmFlMDQ2MTY1Zjc5MGM4ZTg2Y2Mw",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDdiMmY4ODBhNWMxNTUyZWYxNDRmNzdiZTYxMTllYWM0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "brightside bonus tracks",
+        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "just like heaven",
+      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
       },
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "NUDES",
         "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 235871,
       "name": "Right Down The Line",
       "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "brightside bonus tracks",
-        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "just like heaven",
-      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Caves",
+        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 179234,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Singing Other People's Love Songs",
         "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 140741,
       "name": "As I Rise",
       "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Caves",
-        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 179234,
-      "name": "Caves",
-      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Boxer",
         "url": "https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 151817,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -855,34 +855,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Free Fallin'",
-        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
+        "name": "To Emmylou",
+        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
       "artists": [
         {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 291930,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
+      "duration_ms": 173714,
+      "name": "Prayer in Open D",
+      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -907,18 +891,34 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "To Emmylou",
-        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Prayer in Open D",
-      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Free Fallin'",
+        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 291930,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 191757,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Genuine Negro Jig",
         "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 236600,
       "name": "Hit 'Em up Style",
       "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 191757,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Other People's Songs Volume One",
-        "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
-      },
-      "artists": [
-        {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
-        },
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Other People's Songs Volume One",
+        "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
+      },
+      "artists": [
+        {
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+        },
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/404DH5KgWamwVcCincjRJE"
-      },
-      "artists": [
-        {
-          "name": "Stu Larsen",
-          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "You Don't Know How It Feels",
         "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/404DH5KgWamwVcCincjRJE"
+      },
+      "artists": [
+        {
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "To Ramona",
@@ -1433,6 +1417,22 @@
       "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Talk to Me of Mendocino",
@@ -1451,26 +1451,6 @@
       "duration_ms": 200666,
       "name": "Talk to Me of Mendocino",
       "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Polyhymnia",
-        "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        },
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 395120,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1515,6 +1495,26 @@
       "duration_ms": 225151,
       "name": "That's How You Know",
       "url": "https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Polyhymnia",
+        "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 395120,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Gentle On My Mind",
-        "url": "https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 245315,
-      "name": "Gentle On My Mind",
-      "url": "https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "By Your Side / Landslide",
         "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
       },
@@ -1787,18 +1771,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
+        "name": "Gentle On My Mind",
+        "url": "https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 246722,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
+      "duration_ms": 245315,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1815,6 +1799,22 @@
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 246722,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2022-10-14 04:00:00",

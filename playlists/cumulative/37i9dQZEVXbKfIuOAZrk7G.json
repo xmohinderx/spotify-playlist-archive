@@ -2336,6 +2336,24 @@
     },
     {
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/0fb9XUbxSZOEdo2mtD5Tbr"
+      },
+      "artists": [
+        {
+          "name": "The Endorphins",
+          "url": "https://open.spotify.com/artist/6lxMgbHCSwSRL4LuoUkAJQ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2cJeo87Z6YUwldXih1A4S9"
+    },
+    {
+      "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
       },
@@ -6789,7 +6807,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 206069,
       "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
       "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"

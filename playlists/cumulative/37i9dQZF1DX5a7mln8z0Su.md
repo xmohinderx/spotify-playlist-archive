@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-194 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+195 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 | 2022-08-23 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-08 |  |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-09 | 2022-07-29 |
+| [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl) | 4:13 | 2022-11-29 |  |
 | [On the Move](https://open.spotify.com/track/67fJZxkkyzjDie41PzN2lg) | [MONA](https://open.spotify.com/artist/1cFDUoQ5wYnwrHsSkwvUHr) | [How](https://open.spotify.com/album/4coGyWNmRa8LQf3r1M2uAj) | 3:20 | 2022-05-11 | 2022-07-26 |
 | [One minute later \(23:59\)](https://open.spotify.com/track/7GFQQOqyP8lcH553RaR7da) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [One minute later](https://open.spotify.com/album/6S80y8b6eYzuSA2bofnpSn) | 3:21 | 2022-05-11 | 2022-07-27 |
 | [Our \(Feat\. Mingginyu\)](https://open.spotify.com/track/2ZexaxtrIyolzcKn3c589I) | [tomikyo](https://open.spotify.com/artist/2cTujCk32WajqlZo67hsrg), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Our](https://open.spotify.com/album/1s680UYikXJhZu8SE3GRMX) | 3:55 | 2022-06-09 | 2022-07-05 |
@@ -141,7 +142,7 @@
 | [Saying Goodbye](https://open.spotify.com/track/2HAXwK6Zgh8ZWRnGidKd2m) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Saying Goodbye](https://open.spotify.com/album/0MnhrWm9MVLySsFSEKYfVz) | 3:04 | 2022-05-11 | 2022-07-28 |
 | [SESAME](https://open.spotify.com/track/3pUzXCDNb9Zt2W6WOqGEm2) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0), [Bell the blu](https://open.spotify.com/artist/4OHNwCbAI5UPSb2gMZljAO) | [SESAME](https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv) | 3:24 | 2022-08-12 | 2022-09-10 |
 | [She is](https://open.spotify.com/track/27fzxgx6nK8NI4CylNEBBw) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l) | [She is](https://open.spotify.com/album/1o06vrnnHvOREmYI49q8MY) | 2:48 | 2022-05-11 | 2022-07-28 |
-| [SHE IS MINE](https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:02 | 2022-05-11 |  |
+| [SHE IS MINE](https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:02 | 2022-05-11 | 2022-11-29 |
 | [She lives in Paris](https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [She lives in Paris](https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2) | 3:17 | 2022-05-11 |  |
 | [Shooting Star](https://open.spotify.com/track/4V64n9p1OqlZTwgNGuDRmo) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Shooting Star](https://open.spotify.com/album/5EAsZOx6DFvj7roiv8FVDb) | 3:07 | 2022-05-11 |  |
 | [Sleep](https://open.spotify.com/track/4uhliO1T7YJNXDbvpTCzuJ) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 4:09 | 2022-05-11 | 2022-07-16 |

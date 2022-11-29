@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 25243,
+  "num_followers": 25307,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MjU0NSwwMDAwMDAwMGY1NTNhYzM5NmRiMmM4MGZmYzgzZWVhZjdkMTgzYjM5",
+  "snapshot_id": "MTY2OTM2MjU0NSwwMDAwMDAwMDM3MmYwYmQ2OTQ0M2U3ZWI0MWY3NWU2MTVmZjkxM2Fh",
   "tracks": [
     {
       "added_at": "2022-09-09 09:05:38",
@@ -347,6 +347,26 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chigozie Achugo",
+          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
+        }
+      ],
+      "duration_ms": 271438,
+      "name": "You Are God (feat. Chigozie Achugo)",
+      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -371,26 +391,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chigozie Achugo",
-          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
-        }
-      ],
-      "duration_ms": 271438,
-      "name": "You Are God (feat. Chigozie Achugo)",
-      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk"
       },
@@ -407,6 +407,26 @@
       "duration_ms": 218506,
       "name": "Know You Will",
       "url": "https://open.spotify.com/track/5PrA5flawVAz8XTBsli1JV"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Believe For It (Eu Creio)",
+        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Believe For It (Eu Creio)",
+      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -463,26 +483,6 @@
       "duration_ms": 696179,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Believe For It (Eu Creio)",
-        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It (Eu Creio)",
-      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Onyedikagi",
         "url": "https://open.spotify.com/album/3nM8ld6vFNii5Pp7i96I3J"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 297966,
       "name": "Onyedikagi",
       "url": "https://open.spotify.com/track/7HoUxUs2aHd6Jl57lxAA99"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "No One Like You",
         "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 317675,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
     },
     {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
-    },
-    {
       "added_at": "2022-06-09 11:11:30",
       "album": {
         "name": "Better Me",
@@ -759,6 +743,22 @@
       "duration_ms": 505147,
       "name": "Be Lifted (Live)",
       "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Yes And Amen",
         "url": "https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 405865,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2022-08-12 05:34:00",
@@ -843,42 +843,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "The Name of Jesus: Sinach Live in Concert",
-        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 626674,
-      "name": "Great Are You Lord (Live)",
-      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "As I Am (with Peter CottonTale)",
-        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale)",
-      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -907,6 +871,26 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "As I Am (with Peter CottonTale)",
+        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "As I Am (with Peter CottonTale)",
+      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Jesus Never Fails",
         "url": "https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 328051,
       "name": "Jesus Never Fails",
       "url": "https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "The Name of Jesus: Sinach Live in Concert",
+        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 626674,
+      "name": "Great Are You Lord (Live)",
+      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "Always Win (Solo Version)",
+        "url": "https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 300562,
+      "name": "Always Win (Solo Version)",
+      "url": "https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "Always Win (Solo Version)",
-        "url": "https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 300562,
-      "name": "Always Win (Solo Version)",
-      "url": "https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7"
+      "duration_ms": 374706,
+      "name": "Confidence - Live",
+      "url": "https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 374706,
-      "name": "Confidence - Live",
-      "url": "https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Nsenkyerene Nyankopon (Live)",
         "url": "https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1"
       },
@@ -1091,6 +1091,26 @@
       "duration_ms": 464677,
       "name": "Nsenkyerene Nyankopon (Live)",
       "url": "https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Greatest Lord",
+        "url": "https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "King of Glory",
+      "url": "https://open.spotify.com/track/27E4LObyzj6OiszOv221pI"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1139,26 +1159,6 @@
       "duration_ms": 350981,
       "name": "No Longer Slaves",
       "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Greatest Lord",
-        "url": "https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        },
-        {
-          "name": "Darlene Zschech",
-          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "King of Glory",
-      "url": "https://open.spotify.com/track/27E4LObyzj6OiszOv221pI"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "Yahweh: Song of Moses",
-        "url": "https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj"
+        "name": "Heal Our Land (Live)",
+        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
       },
       "artists": [
         {
           "name": "Akesse Brempong",
           "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        },
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 464348,
-      "name": "Yahweh: Song of Moses",
-      "url": "https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0"
+      "duration_ms": 461003,
+      "name": "Spontaneous Worship 1 - Live",
+      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2022-06-09 11:11:30",

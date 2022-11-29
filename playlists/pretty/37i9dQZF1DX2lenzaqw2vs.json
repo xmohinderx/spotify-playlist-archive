@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123948,
+  "num_followers": 123955,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGY5MGE5ZjU2NzljNzZjMTA5MzEyNDAxZTRlNTFmZTFm",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDJmODdiYzA2ZjQyMjBkYmEzMTBhMjQ4ODAzYWRiOWQw",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -319,6 +319,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "LA COMBI VERSACE",
+      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Sereno",
         "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "LA COMBI VERSACE",
-      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -619,6 +619,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "fue mejor (feat. SZA)",
+        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 230964,
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 239400,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "fue mejor (feat. SZA)",
-        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 230964,
-      "name": "fue mejor (feat. SZA)",
-      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -779,6 +779,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 157248,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -863,42 +883,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 157248,
-      "name": "B\u00fascame",
-      "url": "https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Castillos de arena",
-        "url": "https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 252221,
-      "name": "Castillos de arena",
-      "url": "https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Paradinha",
         "url": "https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 224066,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Castillos de arena",
+        "url": "https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 252221,
+      "name": "Castillos de arena",
+      "url": "https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173255,
+      "name": "I'd Rather Have Sex",
+      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Tiburones (Remix)",
         "url": "https://open.spotify.com/album/6DA3B00tS2tz6kaSlxyjrK"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 232466,
       "name": "Grande",
       "url": "https://open.spotify.com/track/0DhGX4TE274nIY837mnMoX"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173255,
-      "name": "I'd Rather Have Sex",
-      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 177564,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "LOVE? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2l8HCTHlnWSUwK47umlJ2C"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3STTVKfJGTdhbg5aLppEzX"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 177564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1347,30 +1347,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
-        "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Brabo",
-          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
-        }
-      ],
-      "duration_ms": 174988,
-      "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
-      "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -1383,22 +1359,6 @@
       "duration_ms": 140742,
       "name": "Mequetrefe",
       "url": "https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "La Gran Esfera",
-        "url": "https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh"
-      },
-      "artists": [
-        {
-          "name": "La Casa Azul",
-          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
-        }
-      ],
-      "duration_ms": 270895,
-      "name": "El Momento",
-      "url": "https://open.spotify.com/track/3YlFNZ4iquJHPX6scKROns"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1423,6 +1383,30 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
+        "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Brabo",
+          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
+        }
+      ],
+      "duration_ms": 174988,
+      "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
+      "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Monstruo",
         "url": "https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 154013,
       "name": "Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/465cCQFJkrfroDREqB7sej"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "La Gran Esfera",
+        "url": "https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh"
+      },
+      "artists": [
+        {
+          "name": "La Casa Azul",
+          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
+        }
+      ],
+      "duration_ms": 270895,
+      "name": "El Momento",
+      "url": "https://open.spotify.com/track/3YlFNZ4iquJHPX6scKROns"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Terrible, Perriemos",
-        "url": "https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr"
-      },
-      "artists": [
-        {
-          "name": "Sailorfag",
-          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
-        },
-        {
-          "name": "Aku P",
-          "url": "https://open.spotify.com/artist/73ObzeoTtpADlTm4Y9RfOG"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Terrible, Perriemos",
-      "url": "https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "WUT WUT",
         "url": "https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 152136,
       "name": "Look At That Butt",
       "url": "https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Terrible, Perriemos",
+        "url": "https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr"
+      },
+      "artists": [
+        {
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+        },
+        {
+          "name": "Aku P",
+          "url": "https://open.spotify.com/artist/73ObzeoTtpADlTm4Y9RfOG"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Terrible, Perriemos",
+      "url": "https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Jap\u00f3n",
-        "url": "https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU"
-      },
-      "artists": [
-        {
-          "name": "Carlos Zaur",
-          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Jap\u00f3n",
-      "url": "https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "PODER - Lilith: 6",
         "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 191158,
       "name": "PODER - Lilith: 6",
       "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Jap\u00f3n",
+        "url": "https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU"
+      },
+      "artists": [
+        {
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Jap\u00f3n",
+      "url": "https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "MANLY FRESA",
+        "url": "https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm"
+      },
+      "artists": [
+        {
+          "name": "Kuinvi",
+          "url": "https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr"
+        }
+      ],
+      "duration_ms": 95121,
+      "name": "MANLY FRESA",
+      "url": "https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "TODOELORO",
         "url": "https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 171500,
       "name": "TODOELORO",
       "url": "https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "MANLY FRESA",
-        "url": "https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm"
-      },
-      "artists": [
-        {
-          "name": "Kuinvi",
-          "url": "https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr"
-        }
-      ],
-      "duration_ms": 95121,
-      "name": "MANLY FRESA",
-      "url": "https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2499,6 +2499,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Hi-def Femme",
+        "url": "https://open.spotify.com/album/1KOFFgfz2ax4baSBqlyBBP"
+      },
+      "artists": [
+        {
+          "name": "Nomi Ruiz",
+          "url": "https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM"
+        }
+      ],
+      "duration_ms": 232197,
+      "name": "Coca\u00edno",
+      "url": "https://open.spotify.com/track/5NtClnWq7XKckE810jIBOw"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "La Mala Introducci\u00f3n",
         "url": "https://open.spotify.com/album/2rXmqm76mF6qneMLib4xiw"
       },
@@ -2515,22 +2531,6 @@
       "duration_ms": 220800,
       "name": "Llama A Tu Novio",
       "url": "https://open.spotify.com/track/29xiEKkbavb1wM1NTHxmq7"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Hi-def Femme",
-        "url": "https://open.spotify.com/album/1KOFFgfz2ax4baSBqlyBBP"
-      },
-      "artists": [
-        {
-          "name": "Nomi Ruiz",
-          "url": "https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM"
-        }
-      ],
-      "duration_ms": 232197,
-      "name": "Coca\u00edno",
-      "url": "https://open.spotify.com/track/5NtClnWq7XKckE810jIBOw"
     },
     {
       "added_at": "2022-07-05 19:20:04",

@@ -1,12 +1,12 @@
 {
   "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 frada in cover",
-  "num_followers": 30299,
+  "num_followers": 30311,
   "original_name": "sanguegiovane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMDEwMDUwMWJlN2EzNTY2MmI1MWU3Y2QzODE3NGE5ZGJj",
+  "snapshot_id": "MTY2OTY0NTg1MiwwMDAwMDAwMDNlMTA3M2E1NzlkMDNjMjM3NTczNTViMDI2ODM0Njkx",
   "tracks": [
     {
       "added_at": "2022-11-24 23:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "La tua laurea",
-        "url": "https://open.spotify.com/album/7vdObNu7UCLkAI4eVeHtPv"
-      },
-      "artists": [
-        {
-          "name": "Sami River",
-          "url": "https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6"
-        }
-      ],
-      "duration_ms": 191928,
-      "name": "La tua laurea",
-      "url": "https://open.spotify.com/track/0fW72MeciQU95GEXe3LMzB"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 147586,
       "name": "7 su 7",
       "url": "https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "VADO IN CRASH",
-        "url": "https://open.spotify.com/album/0CgueHFglJjrzTU1QO8aTv"
-      },
-      "artists": [
-        {
-          "name": "Aspettativa",
-          "url": "https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk"
-        }
-      ],
-      "duration_ms": 172181,
-      "name": "VADO IN CRASH",
-      "url": "https://open.spotify.com/track/008Eu3VYrBfrLfJ0lujTYh"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -1531,6 +1499,38 @@
       "duration_ms": 188148,
       "name": "dove non posso guardare",
       "url": "https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "VADO IN CRASH",
+        "url": "https://open.spotify.com/album/0CgueHFglJjrzTU1QO8aTv"
+      },
+      "artists": [
+        {
+          "name": "Aspettativa",
+          "url": "https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk"
+        }
+      ],
+      "duration_ms": 172181,
+      "name": "VADO IN CRASH",
+      "url": "https://open.spotify.com/track/008Eu3VYrBfrLfJ0lujTYh"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "La tua laurea",
+        "url": "https://open.spotify.com/album/7vdObNu7UCLkAI4eVeHtPv"
+      },
+      "artists": [
+        {
+          "name": "Sami River",
+          "url": "https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6"
+        }
+      ],
+      "duration_ms": 191928,
+      "name": "La tua laurea",
+      "url": "https://open.spotify.com/track/0fW72MeciQU95GEXe3LMzB"
     }
   ],
   "unique_name": "sanguegiovane",

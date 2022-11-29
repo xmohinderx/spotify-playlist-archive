@@ -2,7 +2,7 @@
 
 ### [Wedding Songs 2022](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
-> Make your wedding ceremony the most memorable one\. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party.
+> Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
 207 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/4J0AmxAoPjBsvkBleG9MtI)
 

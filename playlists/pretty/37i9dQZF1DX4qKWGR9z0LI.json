@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
-  "num_followers": 1795597,
+  "num_followers": 1795695,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGNjODg4NWYzYWMzNTY0ZWViOWU0NTczMDY0MWI4ZWY0",
+  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMDczYzIxNWU1NjBlNDg5NzE3YjZlY2Y3Y2I3NzA1OTVj",
   "tracks": [
     {
       "added_at": "2022-09-09 15:09:32",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Que Suenen los Tambores",
-        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 321200,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Hasta El Cielo Lloro",
         "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -743,6 +727,22 @@
       "duration_ms": 267891,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/2IKJ403d0JPRMbjYhSgdIm"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -807,6 +807,22 @@
       "duration_ms": 191081,
       "name": "Cartas Sobre La Mesa",
       "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 269231,
+      "name": "Se\u00f1or Mentira",
+      "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -895,22 +911,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Esa Soy Yo",
-        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 269231,
-      "name": "Se\u00f1or Mentira",
-      "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "A Mi Estilo...",
         "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Por Culpa de Alguien",
-        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
-      },
-      "artists": [
-        {
-          "name": "Josimar y Su Yamb\u00fa",
-          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
-        }
-      ],
-      "duration_ms": 327563,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Exploring Latin Heritage, Vol.3",
         "url": "https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Por Culpa de Alguien",
+        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
+      },
+      "artists": [
+        {
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        }
+      ],
+      "duration_ms": 327563,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 449640,
       "name": "Aparentemente - En Vivo",
       "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 229945,
+      "name": "Con Mi Amiga",
+      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1059,22 +1075,6 @@
       "duration_ms": 188364,
       "name": "Suma y Resta",
       "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Esa Soy Yo",
-        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 229945,
-      "name": "Con Mi Amiga",
-      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Baila Salsa",
+        "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
+      },
+      "artists": [
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        }
+      ],
+      "duration_ms": 249160,
+      "name": "Viene Y Se Va",
+      "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Los Oscares De Oscar",
         "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
       },
@@ -1499,18 +1515,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Baila Salsa",
-        "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
+        "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
+        "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
       },
       "artists": [
         {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+        },
+        {
+          "name": "Tony Succar",
+          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
         }
       ],
-      "duration_ms": 249160,
-      "name": "Viene Y Se Va",
-      "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
+      "duration_ms": 298906,
+      "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
+      "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1527,22 +1547,6 @@
       "duration_ms": 291106,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Salsa At It's Best",
-        "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
-      },
-      "artists": [
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 304946,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1571,22 +1575,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
-        "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
+        "name": "Salsa At It's Best",
+        "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
       },
       "artists": [
         {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
-        },
-        {
-          "name": "Tony Succar",
-          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
         }
       ],
-      "duration_ms": 298906,
-      "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
-      "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
+      "duration_ms": 304946,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
     },
     {
       "added_at": "2022-09-09 15:09:32",

@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 246151,
+  "num_followers": 246191,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGIxZjAwMzNiMTY1MDI3YTM0OTEzODQ4MzJjODYxYTli",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDZlNDU3OGE1MzlhZmNmNGEyZDM0YjNiZDg2ZTc2M2Vh",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -125,20 +125,28 @@
       "url": "https://open.spotify.com/track/5mY8nk4BPdPmX3MBCaXUWK"
     },
     {
-      "added_at": "2022-09-30 16:41:21",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Kill Her Freak Out",
-        "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Kill Her Freak Out",
-      "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -155,6 +163,22 @@
       "duration_ms": 215795,
       "name": "Too In Love To Die",
       "url": "https://open.spotify.com/track/3MtmuBO41qbBp9qkg7o1Hh"
+    },
+    {
+      "added_at": "2022-09-30 16:41:21",
+      "album": {
+        "name": "Kill Her Freak Out",
+        "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Kill Her Freak Out",
+      "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -187,30 +211,6 @@
       "duration_ms": 435080,
       "name": "yellow is the color of her eyes",
       "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Big Wheel",
-      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 246666,
       "name": "Everything I had",
       "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Man Who Sees Tomorrow / Lodarore",
         "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -495,6 +479,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
-        }
-      ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 175777,
       "name": "...Familiar Place",
       "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+        "name": "Friends With Feelings",
+        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+          "name": "Alice Skye",
+          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
         }
       ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+      "duration_ms": 255426,
+      "name": "Friends with Feelings",
+      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Friends With Feelings",
-        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
-      },
-      "artists": [
-        {
-          "name": "Alice Skye",
-          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Friends with Feelings",
-      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The World We Built",
         "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 257173,
       "name": "Capable",
       "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Silk",
         "url": "https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 192000,
       "name": "Silk",
       "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Man I'll Never Find (Piano Version)",
-        "url": "https://open.spotify.com/album/3CVhK0IZWbHi1s2JXW8zu2"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 221135,
-      "name": "The Man I'll Never Find - Piano Version",
-      "url": "https://open.spotify.com/track/70DCnj3cDWbVil403EvDi5"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Unmoved (A Black Woman Truth)",
@@ -1111,6 +1095,22 @@
       "duration_ms": 256451,
       "name": "Unmoved (A Black Woman Truth)",
       "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "The Man I'll Never Find (Piano Version)",
+        "url": "https://open.spotify.com/album/3CVhK0IZWbHi1s2JXW8zu2"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 221135,
+      "name": "The Man I'll Never Find - Piano Version",
+      "url": "https://open.spotify.com/track/70DCnj3cDWbVil403EvDi5"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Calming Night Partner",
-        "url": "https://open.spotify.com/album/3Xy8Iod03tm1nOXCQCq0p7"
-      },
-      "artists": [
-        {
-          "name": "Land of Talk",
-          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
-        }
-      ],
-      "duration_ms": 267148,
-      "name": "Moment Feed",
-      "url": "https://open.spotify.com/track/6JsUqtsVNboWCl8fWZMX1o"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Lincoln, Nebraska",
         "url": "https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 143674,
       "name": "Lincoln, Nebraska",
       "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Calming Night Partner",
+        "url": "https://open.spotify.com/album/3Xy8Iod03tm1nOXCQCq0p7"
+      },
+      "artists": [
+        {
+          "name": "Land of Talk",
+          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
+        }
+      ],
+      "duration_ms": 267148,
+      "name": "Moment Feed",
+      "url": "https://open.spotify.com/track/6JsUqtsVNboWCl8fWZMX1o"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Meet Me on the Edge of Our Ruin",
-        "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
-      },
-      "artists": [
-        {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "My Love Is Cool",
         "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 187933,
       "name": "Turn To Dust",
       "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Meet Me on the Edge of Our Ruin",
+        "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
+      },
+      "artists": [
+        {
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "This Is What Our Love Looks Like Now",
         "url": "https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 243242,
       "name": "This Is What Our Love Looks Like Now",
       "url": "https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Vampire Weeknight",
-        "url": "https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV"
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
       "artists": [
         {
-          "name": "Jenny Owen Youngs",
-          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Vampire Weeknight",
-      "url": "https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr"
+      "duration_ms": 307613,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb"
     }
   ],
   "unique_name": "noir",

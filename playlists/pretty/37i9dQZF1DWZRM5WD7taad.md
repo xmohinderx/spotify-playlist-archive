@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Mare Advertencia Lirika en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,251 likes - 97 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,261 likes - 97 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

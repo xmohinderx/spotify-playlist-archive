@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Lee Fields",
-  "num_followers": 159892,
+  "num_followers": 160152,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDlhOTUzOWNiYTE5MTMxYjUzOTc3MDRmMjBlNjMwZDEy",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDBkNjhkNDI3ZmM5NTVkMDU3NmRiZjY5YjY0NzZlYzEz",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -389,30 +389,6 @@
       "url": "https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 284870,
-      "name": "Blast Off",
-      "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Love & Hate",
@@ -475,6 +451,30 @@
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 284870,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 224730,
+      "name": "Piece Of Me",
+      "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
+    },
+    {
       "added_at": "2021-12-13 16:49:02",
       "album": {
         "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
@@ -613,6 +629,22 @@
       "url": "https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu"
     },
     {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
+    },
+    {
       "added_at": "2021-08-02 16:49:06",
       "album": {
         "name": "Private Space",
@@ -631,38 +663,6 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 224730,
-      "name": "Piece Of Me",
-      "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
-      },
-      "artists": [
-        {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 200686,
-      "name": "Don\u2019t You Know",
-      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 251853,
       "name": "Do You Wanna Do Nothing with Me?",
       "url": "https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 200686,
+      "name": "Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -873,6 +873,22 @@
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Cruisin' To The Parque feat. Y La Bamba",
@@ -891,22 +907,6 @@
       "duration_ms": 215204,
       "name": "Cruisin' to the Parque feat. Y La Bamba",
       "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -957,20 +957,20 @@
       "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
       },
       "artists": [
         {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
+      "duration_ms": 174586,
+      "name": "Trade of Hearts",
+      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -987,22 +987,6 @@
       "duration_ms": 225312,
       "name": "By Design [Evel Knievel]",
       "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Trade of Hearts",
-      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 242640,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
       "added_at": "2021-12-17 05:01:00",

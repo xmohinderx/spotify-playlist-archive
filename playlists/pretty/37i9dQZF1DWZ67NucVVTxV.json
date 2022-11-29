@@ -1,12 +1,12 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 13109,
+  "num_followers": 13156,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MzIxMywwMDAwMDAwMDA5NDZmNzRjOGI5MTA5NDBiZDE0MjkzZjQ4ODk2YmVi",
+  "snapshot_id": "MTY2OTYxOTA0NCwwMDAwMDAwMDAwMTA2OGNjNzdjMjc1MGEwNDRmOTQyNWFkZjYzZjEw",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -167,6 +167,38 @@
       "duration_ms": 180715,
       "name": "Rise",
       "url": "https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB"
+    },
+    {
+      "added_at": "2022-11-28 06:31:43",
+      "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2022-11-28 07:04:04",
+      "album": {
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
     },
     {
       "added_at": "2022-11-18 11:48:20",

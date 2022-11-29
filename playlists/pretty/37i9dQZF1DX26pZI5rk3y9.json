@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2869,
+  "num_followers": 2882,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMGM2ZDI1ZDdmMjlkNGZlNTdiNGNjZWI1YWU3YzI3ODI1",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDczZmU0ZjRjOWNiNWZmYjM4NWVlNTFhZjhlNjY4ZjZm",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -155,6 +171,26 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -167,22 +203,6 @@
       "duration_ms": 231333,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -235,22 +255,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Groove Juice: The Norman Granz Recordings + More",
         "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
       },
@@ -267,22 +271,18 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
         "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 322760,
       "name": "Herbert Harper's Free Press News",
       "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Eisenhower Blues - Single Version",
-      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Steady Gettin' It: The Complete Recordings 1964-67",
         "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 172866,
       "name": "Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Eisenhower Blues - Single Version",
+      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
+      },
+      "artists": [
+        {
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
+        }
+      ],
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "No Border Blues",
         "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Blues For Everybody",
         "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 156746,
       "name": "She Cooks Me Cabbage",
       "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "The Road Is Rough and Rocky",
+        "url": "https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U"
+      },
+      "artists": [
+        {
+          "name": "Nugrape Twins",
+          "url": "https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "I Got Your Ice Cold Nugrape",
+      "url": "https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -1087,22 +1103,6 @@
       "duration_ms": 163760,
       "name": "Atomic Cocktail",
       "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "The Road Is Rough and Rocky",
-        "url": "https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U"
-      },
-      "artists": [
-        {
-          "name": "Nugrape Twins",
-          "url": "https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "I Got Your Ice Cold Nugrape",
-      "url": "https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3"
     },
     {
       "added_at": "2022-09-12 16:38:21",

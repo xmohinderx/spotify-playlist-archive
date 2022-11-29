@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 105665,
+  "num_followers": 106004,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzODgyMiwwMDAwMDAwMDJhMmFjYzg2ZjY4MTMwYTgxOGMzNzBiYmZkNzI1ODE2",
+  "snapshot_id": "MTY2NzgzODgyMiwwMDAwMDAwMGJhZjcxOTVlNTMxMTkwNWZjZjZlMTliNjg5NTU5NDk4",
   "tracks": [
     {
       "added_at": "2022-11-04 07:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
+        "name": "Baia",
+        "url": "https://open.spotify.com/album/1u5tVyHknrgMtdMW2i6TLG"
+      },
+      "artists": [
+        {
+          "name": "Pongo",
+          "url": "https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34"
+        }
+      ],
+      "duration_ms": 235136,
+      "name": "Kuzola",
+      "url": "https://open.spotify.com/track/2aDPkl4GCO2b53goL5Ia4W"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 234480,
       "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
       "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Baia",
-        "url": "https://open.spotify.com/album/1u5tVyHknrgMtdMW2i6TLG"
-      },
-      "artists": [
-        {
-          "name": "Pongo",
-          "url": "https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34"
-        }
-      ],
-      "duration_ms": 235136,
-      "name": "Kuzola",
-      "url": "https://open.spotify.com/track/2aDPkl4GCO2b53goL5Ia4W"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/0aoEwfCRcCSe4HKgdSGPXp"
     },
     {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "Ten\u00eda Raz\u00f3n",
+        "url": "https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 173826,
+      "name": "Ten\u00eda Raz\u00f3n",
+      "url": "https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw"
+    },
+    {
       "added_at": "2022-09-23 16:03:45",
       "album": {
         "name": "Hela V\u00e4gen Upp",
@@ -1207,22 +1223,6 @@
       "duration_ms": 181448,
       "name": "Hela V\u00e4gen Upp",
       "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Ten\u00eda Raz\u00f3n",
-        "url": "https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 173826,
-      "name": "Ten\u00eda Raz\u00f3n",
-      "url": "https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "Kis\u00e9",
-        "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 130472,
-      "name": "Kis\u00e9",
-      "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "Payback (feat. Knucks)",
         "url": "https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 164560,
       "name": "Payback (feat. Knucks)",
       "url": "https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "Kis\u00e9",
+        "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 130472,
+      "name": "Kis\u00e9",
+      "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "Mama Used to Say",
-        "url": "https://open.spotify.com/album/1gYQbg0itVL6DyE4zA7oox"
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
       "artists": [
         {
-          "name": "Edd",
-          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 176712,
-      "name": "Mama Used to Say",
-      "url": "https://open.spotify.com/track/5nBxSUHByokFink81qOwbx"
+      "duration_ms": 125312,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+        "name": "Mama Used to Say",
+        "url": "https://open.spotify.com/album/1gYQbg0itVL6DyE4zA7oox"
       },
       "artists": [
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
         }
       ],
-      "duration_ms": 125312,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
+      "duration_ms": 176712,
+      "name": "Mama Used to Say",
+      "url": "https://open.spotify.com/track/5nBxSUHByokFink81qOwbx"
     },
     {
       "added_at": "2022-09-22 12:56:00",

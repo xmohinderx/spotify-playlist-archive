@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 61696,
+  "num_followers": 61732,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMGI1MTAxYzNhNzU3Njg0Y2JmYWU3OTk2MDNmODIzMDUx",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMGE5MTU0NDhlMzFhNDcwNTYxYjAyNDNiMmZjZGY0MTVj",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
-        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bang! Bang!",
-      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
-    },
-    {
       "added_at": "2022-04-09 04:26:32",
       "album": {
         "name": "Talkin' Verve",
@@ -155,6 +139,22 @@
       "duration_ms": 160826,
       "name": "Evil Ways",
       "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Tiempo pa' Matar",
+        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 299373,
+      "name": "Tiempo Pa\u2019 Matar",
+      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
     },
     {
       "added_at": "2022-04-09 04:25:14",
@@ -173,20 +173,20 @@
       "url": "https://open.spotify.com/track/09T4yz1emL9O1yt3txtUKy"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
+      "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "Tiempo pa' Matar",
-        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
+        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
+        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 299373,
-      "name": "Tiempo Pa\u2019 Matar",
-      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
+      "duration_ms": 246600,
+      "name": "Bang! Bang!",
+      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -279,6 +279,46 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
         "name": "De Panama A Nueva York",
         "url": "https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR"
       },
@@ -333,44 +373,40 @@
       "url": "https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI"
     },
     {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 317813,
-      "name": "Eso Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
-    },
-    {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+        "name": "La Cuna",
+        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
       },
       "artists": [
         {
           "name": "Ray Barretto",
           "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
         }
       ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+      "duration_ms": 514866,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "En Fiesta Navide\u00f1a",
+        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Seis Chorreao",
+      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -407,22 +443,18 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "En Fiesta Navide\u00f1a",
-        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
       },
       "artists": [
         {
-          "name": "Ricardo Ray",
-          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Seis Chorreao",
-      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
+      "duration_ms": 446400,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -495,38 +527,6 @@
       "duration_ms": 216360,
       "name": "Arrecot\u00edn Arrecot\u00e1n",
       "url": "https://open.spotify.com/track/4YvQolXPImTRwrhG40hqsf"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "A Man And His Music: The Player",
-        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 446400,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "La Cuna",
-        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 514866,
-      "name": "Pastime Paradise",
-      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
     }
   ],
   "unique_name": "Boogaloo Essentials",

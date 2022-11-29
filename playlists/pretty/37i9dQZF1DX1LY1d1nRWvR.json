@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 24027,
+  "num_followers": 24046,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGFlMTBmNWRhMDkyNmUyMjE2Zjg3NDY3N2RlM2Y1ZGNj",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGM2NmM3ZjhmOWRiOWE4MTk5ZWJmMGE0MWE5MTBiNThm",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -159,30 +159,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Soweto Blues",
-        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 298997,
-      "name": "Soweto Blues",
-      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -239,6 +215,50 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Finding Foundations (The Remixes)",
+        "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 367413,
+      "name": "Learn Your Lesson - Photay Remix",
+      "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Soweto Blues",
+        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 298997,
+      "name": "Soweto Blues",
+      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
       },
@@ -283,26 +303,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Finding Foundations (The Remixes)",
-        "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        },
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 367413,
-      "name": "Learn Your Lesson - Photay Remix",
-      "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Movementt",
         "url": "https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN"
       },
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Make This Right",
         "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 197000,
       "name": "Make This Right - Radio Edit",
       "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Rye Lane Vol. 1",
         "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 132864,
       "name": "Nankoo on Keys",
       "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "Been A Long Night",
-      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Tanto Tiempo",
         "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 307360,
       "name": "Youth Jazz",
       "url": "https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "Been A Long Night",
+      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",

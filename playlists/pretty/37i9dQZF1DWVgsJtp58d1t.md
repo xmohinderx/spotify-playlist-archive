@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Stomrzy, Tone Stith, Pinkpantheress, GloRilla, MFnMelo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,826 likes - 97 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,981 likes - 97 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

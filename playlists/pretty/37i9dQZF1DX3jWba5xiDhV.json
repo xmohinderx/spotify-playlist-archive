@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 65106,
+  "num_followers": 65352,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDRkODY4MmU3NjNjZGI4ZDIyOGFmNTA4MTE0M2UxYzEx",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMGIwMDE2ZTUyMjUzYmFlM2Y1MTgyNjM1ZTNkNzkwODhh",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Barbara e altri Carella",
         "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
       },
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
         "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 359333,
       "name": "Il veliero",
       "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Color My Love",
+        "url": "https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Color My Love",
+      "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "For You (LP)",
         "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 259773,
       "name": "Morir\u00f2 Per Te - 2001 Remaster",
       "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Color My Love",
-        "url": "https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH"
-      },
-      "artists": [
-        {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Color My Love",
-      "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "My Magic Number",
         "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
       },
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "When I Let You Down / Boogie Tonight",
-        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
-      },
-      "artists": [
-        {
-          "name": "M & G",
-          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
-        }
-      ],
-      "duration_ms": 366076,
-      "name": "When I Let You Down - Extended Mix",
-      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "The Sound of Tony Esposito",
         "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
       },
@@ -1167,6 +1135,38 @@
       "duration_ms": 313133,
       "name": "Kalimba de luna",
       "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        }
+      ],
+      "duration_ms": 404766,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "When I Let You Down / Boogie Tonight",
+        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
+      },
+      "artists": [
+        {
+          "name": "M & G",
+          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
+        }
+      ],
+      "duration_ms": 366076,
+      "name": "When I Let You Down - Extended Mix",
+      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Dancing on Townsquare",
         "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 210186,
       "name": "Il Veliero - Single Version",
       "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2022-10-07 08:10:31",

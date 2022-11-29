@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-124 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+125 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,13 +32,14 @@
 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 | 2022-11-24 |  |
 | [Blowin' In The Wind](https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Reflections](https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu) | 2:32 | 2022-09-13 |  |
 | [Both Sides Now](https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 5:28 | 2022-09-13 |  |
-| [Both Sides Now](https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 7:38 | 2022-10-05 |  |
+| [Both Sides Now](https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 7:38 | 2022-10-05 | 2022-11-29 |
 | [Bullet With Butterfly Wings](https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [Change of Plans](https://open.spotify.com/album/71b64FExhGoCgtbDzWPTc3) | 4:42 | 2022-09-13 | 2022-11-24 |
 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 | 2022-09-13 |  |
 | [Can't Buy Me Love](https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 2:37 | 2022-09-13 |  |
 | [Car Wash](https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Live at the Village Vanguard](https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB) | 7:12 | 2022-09-13 |  |
 | [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 |  |
 | [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 | 2022-10-08 |
+| [Conversation](https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB) | [Aubrey Johnson](https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi), [Randy Ingram](https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG) | [Play Favorites](https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H) | 4:23 | 2022-11-24 |  |
 | [Creep](https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:31 | 2022-09-13 |  |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2022-09-13 |  |
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2022-09-13 |  |

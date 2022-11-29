@@ -382,6 +382,32 @@
     },
     {
       "album": {
+        "name": "Boss Party (From \"Waltair Veerayya\")",
+        "url": "https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200208,
+      "name": "Boss Party",
+      "url": "https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe"
+    },
+    {
+      "album": {
         "name": "George Reddy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4W5lHMWP7Nr2cr1SEc5WNP"
       },

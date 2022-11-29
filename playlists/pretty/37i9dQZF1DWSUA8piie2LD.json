@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 49649,
+  "num_followers": 49774,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NjYzMiwwMDAwMDAwMDA3OGJhZjNjOTg4YTJkNjFhZDM1MDc1ZDAzMDI2ODky",
+  "snapshot_id": "MTY2OTI3NjYzMiwwMDAwMDAwMDc3NWIwZDU2ZWZkZjFhMjJhZjE3NzNjMDZkZTM3OWU3",
   "tracks": [
     {
       "added_at": "2022-11-16 14:13:12",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
+        "name": "Sweet Thing",
+        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/2XzZV3u8qwJLOke0J8DvGB"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 250746,
       "name": "Blue Water",
       "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "Sweet Thing",
-        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Soul Dance",
+      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Soul Dance",
-      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+      "duration_ms": 313066,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -463,18 +479,50 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 313066,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -511,70 +559,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Here With You",
-      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 249680,
       "name": "Ain't No Woman Like The One I Got",
       "url": "https://open.spotify.com/track/1PICa2dTwmmHgJOVcyJt4L"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+        "name": "Soul Express",
+        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
       "artists": [
         {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Nice And Easy",
-      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
+      "duration_ms": 278666,
+      "name": "Soul Express",
+      "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Soul Express",
-        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
       "artists": [
         {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
         }
       ],
-      "duration_ms": 278666,
-      "name": "Soul Express",
-      "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
+      "duration_ms": 263400,
+      "name": "Nice And Easy",
+      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 392506,
-      "name": "Sensuality",
-      "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 266693,
       "name": "The Closer I Get To You",
       "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "It's On Tonight",
+        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 392506,
+      "name": "Sensuality",
+      "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "Can't Tell You Why",
+      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
         "name": "Island Life",
         "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+        "name": "Excusez-Moi",
+        "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 254746,
-      "name": "Can't Tell You Why",
-      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
+      "duration_ms": 356040,
+      "name": "Dreamwalk",
+      "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -955,22 +971,6 @@
       "duration_ms": 304400,
       "name": "Sneak a Peek",
       "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "Excusez-Moi",
-        "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 356040,
-      "name": "Dreamwalk",
-      "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Above The Clouds",
-        "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Seduction",
         "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
       },
@@ -1083,22 +1067,6 @@
       "duration_ms": 238053,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "The Collected",
-        "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
-      },
-      "artists": [
-        {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "Take-Out Dreams",
-      "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1119,18 +1087,50 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "Above The Clouds",
+        "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+      "duration_ms": 222853,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "The Collected",
+        "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
+      },
+      "artists": [
+        {
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+        }
+      ],
+      "duration_ms": 325666,
+      "name": "Take-Out Dreams",
+      "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Somethin' Bout Love",
+        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "Somethin' Bout Love",
+      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Somethin' Bout Love",
-        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 285733,
-      "name": "Somethin' Bout Love",
-      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "For The Love",
-        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 280868,
-      "name": "I Just Can't Let Go",
-      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 302506,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "For The Love",
+        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 280868,
+      "name": "I Just Can't Let Go",
+      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "In Joy",
-        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
+        "name": "Body And Soul",
+        "url": "https://open.spotify.com/album/6NJ38pECn4SDnsUXJuzGdi"
       },
       "artists": [
         {
-          "name": "Gordon James",
-          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 305680,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+      "duration_ms": 256506,
+      "name": "Missing in Venice",
+      "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Body And Soul",
-        "url": "https://open.spotify.com/album/6NJ38pECn4SDnsUXJuzGdi"
+        "name": "In Joy",
+        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
       },
       "artists": [
         {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+          "name": "Gordon James",
+          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
         }
       ],
-      "duration_ms": 256506,
-      "name": "Missing in Venice",
-      "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
+      "duration_ms": 305680,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Kisses In The Rain",
         "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 280240,
       "name": "Grover's Groove",
       "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
+        "name": "Believing",
+        "url": "https://open.spotify.com/album/3PMe70a4lVLhawiCJmsrkq"
+      },
+      "artists": [
+        {
+          "name": "Marcio Rocha",
+          "url": "https://open.spotify.com/artist/0NnpQP7ESvBerYZhbjbRr5"
+        },
+        {
+          "name": "Hoto Jr.",
+          "url": "https://open.spotify.com/artist/7lOwbBviHzCCv92wSSDelt"
+        }
+      ],
+      "duration_ms": 289071,
+      "name": "Brownie",
+      "url": "https://open.spotify.com/track/1roZdXQPBHOvYK2SQXmvgH"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
         "name": "One Special Moment",
         "url": "https://open.spotify.com/album/4OzVLEUQ8StLgWCarWmyvC"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 317066,
       "name": "Secrets Told",
       "url": "https://open.spotify.com/track/5lj52TLx3oa8qoVdTCpvZH"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "Believing",
-        "url": "https://open.spotify.com/album/3PMe70a4lVLhawiCJmsrkq"
-      },
-      "artists": [
-        {
-          "name": "Marcio Rocha",
-          "url": "https://open.spotify.com/artist/0NnpQP7ESvBerYZhbjbRr5"
-        },
-        {
-          "name": "Hoto Jr.",
-          "url": "https://open.spotify.com/artist/7lOwbBviHzCCv92wSSDelt"
-        }
-      ],
-      "duration_ms": 289071,
-      "name": "Brownie",
-      "url": "https://open.spotify.com/track/1roZdXQPBHOvYK2SQXmvgH"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/0xxiiLV2wZraHsNUnROvyW"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 242000,
       "name": "Shelbi",
       "url": "https://open.spotify.com/track/3THBbgiNAp43CpeU5knmFn"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
     },
     {
       "added_at": "2022-11-16 14:13:12",

@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 146744,
       "name": "Bartleby Finnegan",
       "url": "https://open.spotify.com/track/05iojOqYgGy4SU89O5paby"
@@ -382,6 +382,24 @@
     },
     {
       "album": {
+        "name": "Blue's Clues & You Theme Song",
+        "url": "https://open.spotify.com/album/4JTzi9TBFwIbQAtXIHAHRQ"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93195,
+      "name": "Blue's Clues & You Theme Song",
+      "url": "https://open.spotify.com/track/73vWnvPaf0yNifYIkadY9N"
+    },
+    {
+      "album": {
         "name": "Bluey Theme Tune / Bluey Theme Tune (Extended)",
         "url": "https://open.spotify.com/album/0mUZuEh2lynrgooJLC8FBc"
       },
@@ -415,6 +433,24 @@
       "duration_ms": 49902,
       "name": "Bringing This Baby Home",
       "url": "https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf"
+    },
+    {
+      "album": {
+        "name": "Bubble Guppies Bubble Bops!",
+        "url": "https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38863,
+      "name": "Bubble Guppies Theme Song",
+      "url": "https://open.spotify.com/track/4rFqjPwAo2DpzKsZ6umPvf"
     },
     {
       "album": {
@@ -1289,7 +1325,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 40593,
       "name": "PAW Patrol Opening Theme",
       "url": "https://open.spotify.com/track/1yWYXhJCbiWHH9bLcG1ptK"
@@ -1307,7 +1343,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 40593,
       "name": "PAW Patrol Opening Theme",
       "url": "https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M"
@@ -1791,7 +1827,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 165160,
       "name": "The Bha Bha Song - We Baby Bears Theme",
       "url": "https://open.spotify.com/track/4V8udbNRFRxdMOpAt9XhY8"

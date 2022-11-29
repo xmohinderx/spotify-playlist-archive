@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 277409,
+  "num_followers": 277549,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTQxMiwwMDAwMDAwMGRhZjk2Mjg5ZGM2MWRjOGJlNzQxYjI1Y2M1YzliOGZi",
+  "snapshot_id": "MTY2OTM4NTQxMiwwMDAwMDAwMDFmMjg5NGQwYjUxNDJkY2UwNzhkZjA2YWU1M2YzMzlj",
   "tracks": [
     {
       "added_at": "2022-11-11 09:37:05",
@@ -71,26 +71,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Off Of My Mind",
         "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
     },
     {
-      "added_at": "2022-11-28 01:35:02",
+      "added_at": "2022-11-29 01:34:57",
       "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 148657,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -851,30 +851,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Little Do You Know",
-        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
-      },
-      "artists": [
-        {
-          "name": "Mike Gudmann",
-          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
-        },
-        {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
-        },
-        {
-          "name": "Rotciv & Revilo",
-          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
-        }
-      ],
-      "duration_ms": 194091,
-      "name": "Little Do You Know",
-      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Little Do You Know",
+        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
+      },
+      "artists": [
+        {
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Rotciv & Revilo",
+          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
+        }
+      ],
+      "duration_ms": 194091,
+      "name": "Little Do You Know",
+      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Send Me An Angel",
-        "url": "https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm"
-      },
-      "artists": [
-        {
-          "name": "Perfect Pitch",
-          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
         "url": "https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 162580,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Send Me An Angel",
+        "url": "https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm"
+      },
+      "artists": [
+        {
+          "name": "Perfect Pitch",
+          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
+      },
+      "artists": [
+        {
+          "name": "HIMATE",
+          "url": "https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc"
+        },
+        {
+          "name": "Dwin",
+          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
+        }
+      ],
+      "duration_ms": 139322,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
         "name": "Ghost in My Bed",
         "url": "https://open.spotify.com/album/6IWPmmrOiwFINNwTYwLMK1"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 164880,
       "name": "Ghost in My Bed",
       "url": "https://open.spotify.com/track/3prlSDDBKA3kvIaPRK3wca"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
-      },
-      "artists": [
-        {
-          "name": "HIMATE",
-          "url": "https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc"
-        },
-        {
-          "name": "Dwin",
-          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
-        }
-      ],
-      "duration_ms": 139322,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
-      },
-      "artists": [
-        {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
-        }
-      ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 158181,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
+      },
+      "artists": [
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+        }
+      ],
+      "duration_ms": 154904,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
     },
     {
       "added_at": "2022-11-11 09:37:05",

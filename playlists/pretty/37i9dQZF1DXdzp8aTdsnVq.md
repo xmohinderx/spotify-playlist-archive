@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Peter Manjarrés
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,076 likes - 65 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,086 likes - 65 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Me Vale Ver...T](https://open.spotify.com/track/6NXE0MUQCfWKSElHh7PaHb) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL) | [PEDRO](https://open.spotify.com/album/3H5A0XAVLqPIc6p1UyFx0q) | 3:19 |
-| 2 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 |
-| 3 | [Mi Persona Favorita](https://open.spotify.com/track/4uBQV15RHdpSplqLUFwOOl) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [El Vallenato Vive](https://open.spotify.com/album/7meR91D6T5UHFQV978Kx52) | 4:22 |
+| 2 | [Mi Persona Favorita](https://open.spotify.com/track/4uBQV15RHdpSplqLUFwOOl) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [El Vallenato Vive](https://open.spotify.com/album/7meR91D6T5UHFQV978Kx52) | 4:22 |
+| 3 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 |
 | 4 | [Un Beso Y Una Flor](https://open.spotify.com/track/5wVv9KObFL175Ng3Qlyd2i) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Un Beso Y Una Flor](https://open.spotify.com/album/37s4nHhHGs9wGOwxXwNdtR) | 4:16 |
 | 5 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 |
 | 6 | [Un Ser Extraño](https://open.spotify.com/track/6tOCCQOAeYQEzERHAXSqrd) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Un Ser Extraño](https://open.spotify.com/album/0f5LtYautf6UfoVdoTXS9k) | 4:22 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 64 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 |
 | 65 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `MTY2NjMyOTQyMCwwMDAwMDAwMDY0MDkwY2I2NTI4Mjk2NjdiNjViODc4MjA4MWUyNmM2`
+Snapshot ID: `MTY2OTY4MDczOSwwMDAwMDAwMDZiNjMzZDEzNTllZDAwNjg4NTQ4Njk5YzE4OGQzYmRm`

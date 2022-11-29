@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\uddc8 Smooth joints. Cover: Adi Oasis",
-  "num_followers": 756234,
+  "num_followers": 756473,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDE4ZDQ5MDAwNjdkNzU4ZTk1ZmNmNTk5NmIxZTk1ODEy",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDA5M2ExN2IwZTdkOTZkMThhN2Q5MjgwMTE0ZjQzYjlh",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 137546,
+      "name": "The Room",
+      "url": "https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Make Me Say It Again, Girl",
         "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
       },
@@ -859,22 +879,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3"
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
       "artists": [
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 137546,
-      "name": "The Room",
-      "url": "https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa"
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -919,22 +935,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Like Neptune",
         "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
@@ -967,6 +967,30 @@
       "duration_ms": 264412,
       "name": "TAKE A CHANCE (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
+      },
+      "artists": [
+        {
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Quintin Gulledge",
+          "url": "https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf"
+        }
+      ],
+      "duration_ms": 312341,
+      "name": "Soul Caliber",
+      "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1019,30 +1043,6 @@
       "duration_ms": 247133,
       "name": "Envy",
       "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
-      },
-      "artists": [
-        {
-          "name": "Aron",
-          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Quintin Gulledge",
-          "url": "https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf"
-        }
-      ],
-      "duration_ms": 312341,
-      "name": "Soul Caliber",
-      "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8"
-      },
-      "artists": [
-        {
-          "name": "JMSN",
-          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
-        }
-      ],
-      "duration_ms": 258650,
-      "name": "Talk Is Cheap",
-      "url": "https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -1259,6 +1243,38 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "duration_ms": 258650,
+      "name": "Talk Is Cheap",
+      "url": "https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Little Q, Pt. 2",
+      "url": "https://open.spotify.com/track/4W15aoR7Rl8ppUJxm05IFw"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "SUNRISE (feat. Arlo Parks)",
         "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 226453,
-      "name": "Little Q, Pt. 2",
-      "url": "https://open.spotify.com/track/4W15aoR7Rl8ppUJxm05IFw"
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1327,18 +1343,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+        "name": "MOVIN'",
+        "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Ar\u00e9na",
+          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+      "duration_ms": 153028,
+      "name": "MOVIN'",
+      "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1411,26 +1435,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "MOVIN'",
-        "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
       },
       "artists": [
         {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Ar\u00e9na",
-          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 153028,
-      "name": "MOVIN'",
-      "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1467,22 +1483,6 @@
       "duration_ms": 262466,
       "name": "Compassion (feat. Chiiild)",
       "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Rainforest",
-        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 162436,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "DRONES",
         "url": "https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 223991,
       "name": "This Morning (feat. Arin Ray & Smino)",
       "url": "https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1607,6 +1607,30 @@
       "duration_ms": 223925,
       "name": "First Thing Smokin'",
       "url": "https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Whoeva?",
+          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1647,30 +1671,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
-        },
-        {
-          "name": "Whoeva?",
-          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/58jh2fv0ZWkGTNzQ1O7Tsq"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 253306,
       "name": "Isolated",
       "url": "https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 262727,
       "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO"
     },
     {
       "added_at": "2022-11-25 05:00:00",

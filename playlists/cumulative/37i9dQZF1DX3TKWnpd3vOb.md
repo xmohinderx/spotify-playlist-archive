@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-213 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
+214 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bella Vu](https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Bella Vu](https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR) | 2:35 | 2022-10-14 |  |
 | [Besos de Mentira](https://open.spotify.com/track/4Q8tPuSefGBkqA0Di28SHV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe) | 4:18 | 2022-07-08 |  |
 | [Besos de Mentira](https://open.spotify.com/track/6mw673LImrCKhhaSuREN77) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/59YXxHDuctzI9DD49Or8yb) | 4:18 | 2022-04-08 | 2022-07-29 |
+| [Besos de Papel \(Hoy Te Vi\)](https://open.spotify.com/track/4WzSCOmQIjAdP3J3lDxcOa) | [Mera](https://open.spotify.com/artist/2STjZWySdM3zCSVv1E0Qrn) | [Besos de Papel \(Hoy Te Vi\)](https://open.spotify.com/album/1fIraWCcYR9mK4BJcTtbmL) | 3:36 | 2022-11-29 |  |
 | [Bichos / Vicious](https://open.spotify.com/track/56L0VuYBkJzslZes40qjuf) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Loumania](https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8) | 2:58 | 2022-04-08 | 2022-07-26 |
 | [Bola de Fuego](https://open.spotify.com/track/555e5RYDYUbGDib7NbD7m6) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Bola de Fuego](https://open.spotify.com/album/1IcdO8wRlwQGFY4rMCEWdZ) | 3:07 | 2022-04-08 |  |
 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 | 2022-04-08 |  |
@@ -134,7 +135,7 @@
 | [Milagro](https://open.spotify.com/track/4IbgQmI6Pwh7fchypm4EEW) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Milagro](https://open.spotify.com/album/43Qds07LHMxKUDjTJ6N57L) | 3:33 | 2022-04-08 |  |
 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 | 2022-04-08 | 2022-10-15 |
 | [Morada](https://open.spotify.com/track/6KQeXWaC0MW1w7Csykf1ME) | [Implos](https://open.spotify.com/artist/56YpnBaRqcv4nmiNmwV6k6) | [Morada](https://open.spotify.com/album/7jlHr6be9TdEtZtfDQsnWn) | 4:37 | 2022-04-08 | 2022-07-29 |
-| [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 | 2022-04-08 |  |
+| [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 | 2022-04-08 | 2022-11-29 |
 | [Mágico](https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Éxitos Chilenos](https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw) | 3:07 | 2022-07-08 |  |
 | [Mágico](https://open.spotify.com/track/4CtI6hFwdR0xlCdap0Fhyn) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Para noventeros chilenos](https://open.spotify.com/album/5PT5a0e9OJhMeejCDXdqqN) | 3:07 | 2022-09-05 | 2022-09-11 |
 | [Mágico](https://open.spotify.com/track/5xjomARNn4eeQ9yXVTIXBJ) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 3:07 | 2022-04-08 | 2022-07-29 |

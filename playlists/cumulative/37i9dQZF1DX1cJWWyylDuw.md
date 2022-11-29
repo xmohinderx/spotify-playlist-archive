@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-412 songs - 1 day 2 hr 55 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+413 songs - 1 day 2 hr 58 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Borderline Existence](https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O) | [Drown This City](https://open.spotify.com/artist/0miE6U5IB1KocKNfn8Cxt7) | [Borderline Existence](https://open.spotify.com/album/7t2LxAFsO0hzvPSUFsk7XY) | 3:07 | 2021-12-17 | 2022-07-28 |
 | [Born in the Gutter](https://open.spotify.com/track/02QkzsPhuMw5Yw5AbZgXPE) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Born in the Gutter](https://open.spotify.com/album/3oMrRh0JthESxivGMjMbZk) | 3:46 | 2021-12-17 | 2022-07-12 |
 | [Boy](https://open.spotify.com/track/3XhrFBIBskDUeujyzNFwXf) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2CL5UiUdXNe1EKoOObuNui) | 3:50 | 2021-12-17 | 2022-11-21 |
+| [Boy](https://open.spotify.com/track/4F1awMDl4eLNdzm5m5ylGo) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2bawGtzScFeuFxEhsrx4Sa) | 3:50 | 2022-10-27 |  |
 | [Break The Cycle](https://open.spotify.com/track/0R3V1qnan4rbDvoubYi5Zu) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Break The Cycle](https://open.spotify.com/album/1Iyd7yCUDVzoMBgvVOARPz) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-04-01 | 2022-10-22 |
 | [Catatonia](https://open.spotify.com/track/1yKyN555vTcZun8SLVDd8Y) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Catatonia](https://open.spotify.com/album/7rdTTF62eg3jRAMcAamljf) | 3:44 | 2021-12-31 | 2022-07-28 |
@@ -228,7 +229,7 @@
 | [Love Me to Death](https://open.spotify.com/track/2AIOCjZ46W7adtRBaqT2XW) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Love Me to Death](https://open.spotify.com/album/1s7syJTvVBjlbZuthJfFJa) | 4:15 | 2021-12-17 | 2022-07-27 |
 | [Love Me to Death](https://open.spotify.com/track/30xWVpvct6LewWIHFEWHdn) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Become the Hunter](https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC) | 4:15 | 2022-07-08 |  |
 | [Lust](https://open.spotify.com/track/0g9rKVt9lXwne5bhy0ptbU) | [Kneel Before the Death](https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK) | [Lust](https://open.spotify.com/album/1BVCpyEynUaxaLYtsdOaYt) | 3:41 | 2022-04-01 | 2022-07-24 |
-| [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 |  |
+| [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 | 2022-11-29 |
 | [Make America Hate Again](https://open.spotify.com/track/74iLd2zlEeNAJ1ptEQIZsn) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Make America Hate Again](https://open.spotify.com/album/2Sxvj7SYVFDWP6XPTdAeUM) | 3:14 | 2021-12-17 | 2022-07-29 |
 | [Make America Hate Again](https://open.spotify.com/track/2HzQnBbzfJIUYIub2UlccS) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM) | 3:14 | 2022-07-08 |  |
 | [Malediction](https://open.spotify.com/track/0uT6SSzA93yxuWZea8bmxk) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Malediction](https://open.spotify.com/album/5ebvrBFdm6sSF9YPs4vfvy) | 5:40 | 2021-12-17 | 2022-07-29 |

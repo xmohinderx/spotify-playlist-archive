@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-592 songs - 1 day 8 hr 2 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+594 songs - 1 day 8 hr 8 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Anxious](https://open.spotify.com/track/3oHu4UWGFkZ44PcBGELEdf) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Aurora](https://open.spotify.com/album/7zqw1bn9eX0xi6ZjL9SYH0) | 2:40 | 2022-01-14 | 2022-06-04 |
 | [Anywhere You Want](https://open.spotify.com/track/5ELKE3vp9qZ2war37maWN3) | [BB Cooper](https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi) | [In My Dreams](https://open.spotify.com/album/6VMdhmUtWuoZtG866uXm9j) | 3:02 | 2022-08-26 | 2022-10-08 |
 | [Apogee](https://open.spotify.com/track/783dzFJfeOk2UeayUPZ6Ct) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I) | [Apogee](https://open.spotify.com/album/2FxL8igcB5IhOs8wsauSnH) | 4:17 | 2022-01-14 | 2022-09-15 |
+| [Apollo](https://open.spotify.com/track/19obumBjyuSJdlY7RFBwn6) | [YL](https://open.spotify.com/artist/15nuHLW9M5qmHl7k6zyHr3), [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Apollo](https://open.spotify.com/album/430Gcc2DdJiWPXQ6yhpJNS) | 2:57 | 2022-11-28 |  |
 | [Arena](https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR) | 3:26 | 2022-01-14 | 2022-09-15 |
 | [Around Me](https://open.spotify.com/track/4LLOxPu28AkzPzduMdjFQ3) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Around Me](https://open.spotify.com/album/6KDafdaAofYekbxpydMlxH) | 3:15 | 2022-11-10 |  |
 | [Arp](https://open.spotify.com/track/4axPG5OCPf70ybte4djW0N) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 2:30 | 2022-08-12 |  |
@@ -234,6 +235,7 @@
 | [High on Life](https://open.spotify.com/track/6ZX9CSWDRpf6C0aSP59pym) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [High on Life](https://open.spotify.com/album/1CSE2niI6bZxdFRxLoAg41) | 3:16 | 2022-05-04 | 2022-11-24 |
 | [High You Are \(Branchez Remix\)](https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [High You Are \(Remixes\)](https://open.spotify.com/album/0h2G6kf2j9OoqdvS2fcwr8) | 3:33 | 2022-11-22 |  |
 | [Hislerim](https://open.spotify.com/track/32Mh7kOCWmNTZgre0cGvCV) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD), [Zerrin](https://open.spotify.com/artist/32Wdf3LOdSMeo8ituCMxqY) | [Hislerim](https://open.spotify.com/album/6xEqzdQRxuioh1onPW2mT9) | 3:34 | 2022-11-22 |  |
+| [Hit Like](https://open.spotify.com/track/5Vgp6BOv4PPMCA3dc6r0fJ) | [The Funk Hunters](https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R), [RUSUR](https://open.spotify.com/artist/4gTKDU9Pj2UNRnpheTNpdh) | [Hit Like](https://open.spotify.com/album/01uSeIbqR6l6WyBtdpipzU) | 2:57 | 2022-11-28 |  |
 | [Hold Me Close](https://open.spotify.com/track/6w8vKNoQ2EiAoeVdfFYkcF) | [3.](https://open.spotify.com/artist/2OUF2KY2wowaSsQHMCAoI4), [SHERIFF](https://open.spotify.com/artist/4WAVgrrw6O5sNu4iTVU487) | [Hold Me Close](https://open.spotify.com/album/7C8Ad9qXWfhCJWgCtqvzBs) | 2:26 | 2022-04-29 | 2022-06-04 |
 | [Hold On](https://open.spotify.com/track/2LV8jZnk49W7fKF5Q2gZTF) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO) | [Hold On](https://open.spotify.com/album/3XcugVPtbESr3O3ApSXZ63) | 3:49 | 2022-08-05 | 2022-09-07 |
 | [Holdin' My Own \- Anki Remix](https://open.spotify.com/track/0WQ6qsZk8VaKjK2babb8PI) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:55 | 2022-07-29 | 2022-11-24 |

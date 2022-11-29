@@ -4,12 +4,12 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: GHENGAR
 
-274 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+275 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Never Gonna\) Be Alone](https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [\(Never Gonna\) Be Alone](https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba) | 3:18 | 2022-06-17 |  |
-| [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-28 |  |
+| [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-28 | 2022-11-29 |
 | [776](https://open.spotify.com/track/6REKxS2cHlZxLgdGcxtwCv) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0), [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [776](https://open.spotify.com/album/5vEzgYeS6UyCHKlXKNWho9) | 2:38 | 2022-01-21 | 2022-10-30 |
 | [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-10-28 |  |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 |  |
@@ -146,6 +146,7 @@
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 |  |
 | [Lasers](https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW) | [Lasers](https://open.spotify.com/album/4wx2Az0dfbr23XFjOXQgsg) | 3:31 | 2022-01-07 | 2022-03-12 |
 | [Last One Standing \- Ace Aura Remix](https://open.spotify.com/track/0I0ZJ1IBED5wOAlm7RvRjP) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Last One Standing \(Ace Aura Remix\)](https://open.spotify.com/album/0oaPiQBOy6KkiwfCDTtMo8) | 3:53 | 2022-10-28 |  |
+| [Let Me Go](https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Let Me Go](https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus) | 3:42 | 2022-11-28 |  |
 | [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 | 2022-09-23 |  |
 | [Let You Know](https://open.spotify.com/track/64GlbmPkapZqVmgOcnaziU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Let You Know](https://open.spotify.com/album/2eU57jKQamWytlwmcXvNAK) | 3:24 | 2021-12-17 | 2022-05-07 |
 | [Level](https://open.spotify.com/track/2EaQrkCOe5Esv3NWSnk4sX) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Level](https://open.spotify.com/album/60Td5Qx0Cs0ua9sAqePcPX) | 2:40 | 2022-04-15 |  |

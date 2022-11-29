@@ -1062,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "La de los Violineros",
+        "url": "https://open.spotify.com/album/6JaE72sn3c5Gnj80EVSb5C"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161865,
+      "name": "La de los Violineros",
+      "url": "https://open.spotify.com/track/0BuGlPsJYERQO0sTtIAaYW"
+    },
+    {
+      "album": {
         "name": "La Gringa",
         "url": "https://open.spotify.com/album/70JjRfi0iqNze4DinXtLfy"
       },

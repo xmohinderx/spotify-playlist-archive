@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 202434,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1qX54AHbcvUeGCLM9lzorU"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 212137,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0sSldZiqaPK4YmhDui7tN8"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 183410,
       "name": "DUST",
       "url": "https://open.spotify.com/track/6ZuqI6qd0nqYAwL8NIVUQS"
@@ -3751,7 +3751,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 229565,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1y8J9syUTH1TrB2P0oLLa9"
@@ -3919,7 +3919,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 209464,
       "name": "New Horizons",
       "url": "https://open.spotify.com/track/67ApDC2MLl6hJXc2iwKNcx"
@@ -4423,6 +4423,28 @@
       "duration_ms": 162000,
       "name": "Ready For Love",
       "url": "https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV"
     },
     {
       "album": {
@@ -5397,7 +5419,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 204000,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/1Ic5GlyRW3eTYC9Yx6kHnb"
@@ -6041,7 +6063,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 179428,
       "name": "WHAT THE HELL - OBLVYN Remix",
       "url": "https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd"

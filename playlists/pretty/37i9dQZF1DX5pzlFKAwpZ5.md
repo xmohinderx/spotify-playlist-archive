@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,394 likes - 103 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,470 likes - 103 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

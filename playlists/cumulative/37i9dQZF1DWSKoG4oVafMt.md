@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-638 songs - 1 day 10 hr 39 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+640 songs - 1 day 10 hr 44 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Chunni](https://open.spotify.com/track/2vZ7SA9jkaV3JqHiQKdoEA) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp) | [Chitti Chunni](https://open.spotify.com/album/4Kq3o0uXjaBiyMtFx2IX0L) | 3:50 | 2022-03-08 | 2022-04-06 |
 | [Close](https://open.spotify.com/track/0MpMnxzwiF4dfzDwrd21MI) | [Saheb](https://open.spotify.com/artist/2ShbFK8mw2wWXf0EkD36ch) | [Close](https://open.spotify.com/album/0O9YcekE4hqY003nZQ9W3b) | 3:21 | 2022-05-05 | 2022-05-11 |
 | [Closer](https://open.spotify.com/track/14kDPgrfj2jv6z4FmAZd4Q) | [Anirudh Sharma](https://open.spotify.com/artist/4lMtdJMEHNQok5YLbgUBEz) | [Closer](https://open.spotify.com/album/0b5hxi1Nqhy6Qq0EnlYqVJ) | 3:59 | 2022-08-17 | 2022-09-01 |
+| [Connection](https://open.spotify.com/track/12iksVmCMQzkwNyoNwZkXj) | [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u), [Harinder Samra](https://open.spotify.com/artist/3DW8E00HNAKSAjy9uK3dAA) | [Connection, Vol.1](https://open.spotify.com/album/026NTTddiAuFbp2oynZnIN) | 2:19 | 2022-11-28 |  |
 | [Conversation](https://open.spotify.com/track/169eHrJhaAKOPJJoda2Pgz) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Conversation](https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo) | 3:22 | 2022-04-06 | 2022-05-11 |
 | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/6CP0jsIBEM5VEEKLr4tf69) | [Jovan Dhillon](https://open.spotify.com/artist/2EW4LUtzs9hLVAZTRzphS0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/6GXPVaPJPeQFhcheqd1tP7) | 2:48 | 2021-12-02 |  |
 | [DARDA DI DOSE](https://open.spotify.com/track/77PCdb5SjE2CEHP9JKWuP6) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i) | [DARDA DI DOSE](https://open.spotify.com/album/5EsDaLxmdFpzywBC1Ka8h1) | 2:35 | 2022-05-26 | 2022-07-06 |
@@ -210,6 +211,7 @@
 | [Hometown](https://open.spotify.com/track/4LvIeOXZ4b9duvPEDUogot) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:16 | 2022-01-17 | 2022-02-01 |
 | [Hon Ni Dena](https://open.spotify.com/track/1Zn3Je9Gain80ZPQwLZQUv) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq) | [Hon Ni Dena](https://open.spotify.com/album/3qp16rbNpjW8hyLebTMCDU) | 2:51 | 2022-06-28 | 2022-07-06 |
 | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/track/1jUdVhaRk0PwJCK5PvDTsq) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/album/6Ry57BDPUmf63YyjKWGZsz) | 2:37 | 2022-10-25 |  |
+| [I T 's a G O O D D a Y](https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [It's a Good Life](https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h) | 2:36 | 2022-11-28 |  |
 | [I Wish](https://open.spotify.com/track/5gUNkD57jpcdjXv9ODiSmf) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [I Wish](https://open.spotify.com/album/3eQ91uxeqINSduxCL6zlba) | 3:13 | 2022-09-30 |  |
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2022-10-11 |  |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |

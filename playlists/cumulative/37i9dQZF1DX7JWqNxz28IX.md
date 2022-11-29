@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, chiello\)
 
-147 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+148 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dove sei??](https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE) | [Agon](https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK) | [Dove sei??](https://open.spotify.com/album/647emruUfFnCax2xaYKh6N) | 3:01 | 2022-04-21 |  |
 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 | 2022-04-21 |  |
 | [Empatia](https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:52 | 2022-04-21 |  |
+| [Favole](https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Favole](https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi) | 1:42 | 2022-11-28 |  |
 | [Febbre a Febbraio \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Febbre a febbraio](https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd) | 3:06 | 2022-04-21 |  |
 | [Ferite Aperte](https://open.spotify.com/track/0JK7W7HO6Dbtpzby8iYvRZ) | [KAYLER](https://open.spotify.com/artist/3RfIKCBcJ6Nb7OLrk2fV4S), [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0) | [Via Crucis](https://open.spotify.com/album/0fDcE7kqHKR4kCzfYkCGmI) | 2:48 | 2022-05-24 | 2022-07-29 |
 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 | 2022-05-24 |  |

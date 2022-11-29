@@ -2,7 +2,7 @@
 
 ### [100 Uplifting Songs](https://open.spotify.com/playlist/6Qf2sXTjlH3HH30Ijo6AUp)
 
-> 100 uplifting and happy songs to get you smiling, put a spring in your step &amp; lift your mood
+> Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
 165 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/1kdYqyrvSgLGyOvVSgusQG)
 

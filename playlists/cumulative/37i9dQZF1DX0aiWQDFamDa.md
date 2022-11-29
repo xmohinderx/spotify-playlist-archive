@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-238 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
+240 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-09-08 |  |
 | [Something To Remember You By](https://open.spotify.com/track/4bkvCWSHI5vKDyfS8ujpa0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 7:11 | 2022-05-18 | 2022-09-23 |
 | [Sorrowful](https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Sorrowful](https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk) | 3:28 | 2022-11-10 |  |
-| [Spartacus Love Theme](https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 7:53 | 2022-05-18 |  |
+| [Spartacus Love Theme](https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 7:53 | 2022-05-18 | 2022-11-29 |
 | [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 | 2022-05-18 |  |
 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/0vTF65diZnYgBD6fHKklAG) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Hello Love](https://open.spotify.com/album/2W0aI00N2KZJyRpGqD8cMn) | 3:17 | 2022-05-18 | 2022-08-18 |
 | [Star\-Crossed Lovers](https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Encounter!](https://open.spotify.com/album/7DkZ2AIH5OifT32a1HLBK5) | 3:55 | 2022-05-18 | 2022-11-11 |
@@ -220,7 +220,7 @@
 | [There's No You](https://open.spotify.com/track/26ORtzOnZdW8K9NgvI3sEj) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis For Lovers \(Deluxe Edition\)](https://open.spotify.com/album/23Fc6CSX7gbd4HOuptoyO5) | 2:16 | 2022-05-18 | 2022-09-23 |
 | [These Foolish Things](https://open.spotify.com/track/5RxZwg8IMvhgaGieGEVVeC) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Is Back](https://open.spotify.com/album/0OrYAj73Jdex3jgq4ppbO7) | 4:54 | 2022-05-18 | 2022-07-29 |
 | [These Foolish Things \(Remind Me of You\)](https://open.spotify.com/track/59VHmPVQP4XPbOeiiIwqG6) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 6:00 | 2022-09-08 | 2022-11-11 |
-| [Time Remembered \- Live](https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Time Remembered](https://open.spotify.com/album/4F1Rr08dCuQjaeTrho8qrX) | 5:35 | 2022-05-18 |  |
+| [Time Remembered \- Live](https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Time Remembered](https://open.spotify.com/album/4F1Rr08dCuQjaeTrho8qrX) | 5:35 | 2022-05-18 | 2022-11-29 |
 | [Too Young To Go Steady](https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 5:41 | 2022-05-18 | 2022-08-27 |
 | [Unsentimental](https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Unsentimental](https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d) | 5:00 | 2022-05-18 |  |
 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 | 2022-09-08 |  |
@@ -238,6 +238,8 @@
 | [Who Can I Turn To?](https://open.spotify.com/track/5QUGJBVRj59tCxosNP7G6X) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:10 | 2022-05-18 | 2022-08-27 |
 | [Willow Weep for Me](https://open.spotify.com/track/07jrvCmNfEglvbjxPZ3GIv) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 5:21 | 2022-05-18 | 2022-07-26 |
 | [Willow Weep for Me \- Remastered](https://open.spotify.com/track/111VqNnQA1m6enKxaO77B5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 5:15 | 2022-06-29 | 2022-09-23 |
+| [Winter in Munich](https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Anyone Can Dream](https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m) | 3:12 | 2022-11-24 |  |
+| [Withered Flowers](https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Withered Flowers](https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU) | 3:53 | 2022-11-24 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 5:11 | 2022-05-18 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2022-11-10 |  |
 | [You Keep Coming Back Like A Song](https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red Garland Revisited!](https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD) | 5:35 | 2022-09-08 |  |

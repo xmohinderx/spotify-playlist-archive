@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 142917,
+  "num_followers": 142975,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDY3NjVmYjY2ZWY4NzBhNzcyZjcyMWFkY2RlY2FjYTky",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGQyNTNiZGFhYjNkZmMyZmUyMzIyYTQ1YzA1YmQwMzli",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "Un homme et une femme - Instrumental",
-      "url": "https://open.spotify.com/track/062Cv5UXgBHWkMoRScGkt0"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Blue Midnight (Remastered)",
         "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
@@ -123,6 +107,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "Un homme et une femme - Instrumental",
+      "url": "https://open.spotify.com/track/062Cv5UXgBHWkMoRScGkt0"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
         "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
       },
@@ -135,6 +135,38 @@
       "duration_ms": 260746,
       "name": "The Lonely Shepherd",
       "url": "https://open.spotify.com/track/3OQEVjVEQ6CvfAJ6XhTs6c"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Say It With Music",
+        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Stranger In Paradise",
+      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 125544,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -171,22 +203,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 125544,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Say It With Music",
-        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Stranger In Paradise",
-      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
         "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Legge Dei Gangsters",
         "url": "https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 167314,
       "name": "Crepuscolo Sul Mare",
       "url": "https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+      "duration_ms": 221174,
+      "name": "Fandango",
+      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -727,6 +727,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
         "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 164360,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 221174,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -979,6 +979,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "14 Estelares",
+        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Il",
+      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Boleros Bonitos",
         "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 216800,
       "name": "Amore Grande Amore Libero",
       "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "14 Estelares",
-        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Il",
-      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
-        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
-      },
-      "artists": [
-        {
-          "name": "Pablo Beltran Ruiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
-        }
-      ],
-      "duration_ms": 135613,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Fiesta Mexicana de Pepe Jaramillo",
         "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 111200,
       "name": "Capullito de Alel\u00ed",
       "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
+        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
+      },
+      "artists": [
+        {
+          "name": "Pablo Beltran Ruiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
+        }
+      ],
+      "duration_ms": 135613,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Born Losers",
-        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
-      },
-      "artists": [
-        {
-          "name": "The Sidewalk Sounds",
-          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
-        }
-      ],
-      "duration_ms": 121333,
-      "name": "Billy Jack's Theme",
-      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
         "url": "https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Born Losers",
+        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
+      },
+      "artists": [
+        {
+          "name": "The Sidewalk Sounds",
+          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "Billy Jack's Theme",
+      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "The Ferrante & Teicher Collection",
         "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 403466,
       "name": "Ravel's Bolero",
       "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Java",
-      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "A Swingin' Safari",
         "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 135666,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Collection Francis Lai - Erotique, Vol. 3 (Bandes originales de films)",
-        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "M\u00e9lissa (Bilitis)",
-      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Caravelli & His Orchestra",
         "url": "https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 166000,
       "name": "Ave Maria No Morro",
       "url": "https://open.spotify.com/track/2js8y9eYf3pe4Otk24Yr57"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Collection Francis Lai - Erotique, Vol. 3 (Bandes originales de films)",
+        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "M\u00e9lissa (Bilitis)",
+      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Latin-Esque",
         "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 157010,
       "name": "Star Dust",
       "url": "https://open.spotify.com/track/36JolOfhgRcjujpMuH37Fj"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
     }
   ],
   "unique_name": "Golden Instrumentals",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDU1ZmI1MzAwNjgwOWQzNjAyMzllOTI0ODYwYTExNzY1",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMGI0ZWEyNTgwODg0MzlkYzljOWQyNzRhYWI1OWFhZDI5",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 212666,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Some People's Lives",
         "url": "https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "A Few Small Repairs",
-        "url": "https://open.spotify.com/album/3EZXmJz03Dj8sB3K26Gmx8"
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
       "artists": [
         {
-          "name": "Shawn Colvin",
-          "url": "https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
         }
       ],
-      "duration_ms": 264200,
-      "name": "Sunny Came Home",
-      "url": "https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX"
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -755,6 +739,22 @@
       "duration_ms": 234866,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "A Few Small Repairs",
+        "url": "https://open.spotify.com/album/3EZXmJz03Dj8sB3K26Gmx8"
+      },
+      "artists": [
+        {
+          "name": "Shawn Colvin",
+          "url": "https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Sunny Came Home",
+      "url": "https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "The Very Best Of Judy Collins",
-        "url": "https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Send in the Clowns",
-      "url": "https://open.spotify.com/track/7iL8UcftjwLe6eosb3pgUH"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3WmggKO4chLNbPJvtPMoXi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 253400,
       "name": "Little Green Apples",
       "url": "https://open.spotify.com/track/2nuMRtlTTp6hwPOsRsBu7n"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "The Very Best Of Judy Collins",
+        "url": "https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Send in the Clowns",
+      "url": "https://open.spotify.com/track/7iL8UcftjwLe6eosb3pgUH"
     },
     {
       "added_at": "2022-02-16 05:37:41",

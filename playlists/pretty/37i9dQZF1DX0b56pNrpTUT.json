@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 1443,
+  "num_followers": 1472,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDUzOWU1ZDljODc3OGM1NThmMDlhYWEyOTdmOGNmNzk5",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDE5MDczOTFjNzAyMThmNWNlODQ0MTY5YjE4NWJkYWM0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 192106,
       "name": "NEON PEACH feat. Tyler, The Creator",
       "url": "https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 229413,
-      "name": "Pick Up Your Feelings",
-      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Pick Up Your Feelings",
+      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Often Enough - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6Or2VkTQisIFoo3qCGQGk7"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 157220,
       "name": "Often Enough - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7bpBqvHwczID6y7itqQ7V2"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Serial",
-        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 227535,
-      "name": "Serial",
-      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "November (feat. Hak Baker)",
         "url": "https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Serial",
+        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Undertones",
         "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 214320,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Syrup",
-        "url": "https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 145964,
-      "name": "Syrup",
-      "url": "https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -627,6 +611,22 @@
       "duration_ms": 177666,
       "name": "MIA (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Syrup",
+        "url": "https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 145964,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C"
     },
     {
       "added_at": "2022-10-01 16:00:00",

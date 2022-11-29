@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-224 songs - 20 hr 18 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+225 songs - 20 hr 20 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Ham Hocks and Cabbage](https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:24 | 2020-03-31 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 | 2022-11-12 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1) | [Alvin Queen Trio](https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F) | [Have You Met Miss Jones?](https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ) | 3:44 | 2022-02-18 |  |
+| [Have You Seen Me Lately](https://open.spotify.com/track/3yuopzkhJwwBCkvHhsEFjV) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Have You Seen Me Lately](https://open.spotify.com/album/7xiIJ61hKINcqgrLQo1csQ) | 2:19 | 2022-11-24 |  |
 | [Hello](https://open.spotify.com/track/3QD2pXczFr1qGEhXik03lQ) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [Hello](https://open.spotify.com/album/33rIozmB2h2fgKErvau15a) | 5:56 | 2022-02-18 | 2022-06-01 |
 | [Here's That Rainy Day](https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S) | [The Role of the Rhythm Section](https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH) | 5:46 | 2022-04-14 | 2022-11-14 |
 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 | 2022-09-16 |  |
@@ -178,7 +179,7 @@
 | [September Song](https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Marco Fratini](https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX), [Roberto Gatto](https://open.spotify.com/artist/1NCnU3PlLALiTCr6bgQEH8) | [September Song](https://open.spotify.com/album/3QUqV83KlKSJerVhvwH1VA) | 6:08 | 2022-09-16 | 2022-11-12 |
 | [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 | 2022-11-12 |  |
 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 | 2022-02-18 |  |
-| [Skies](https://open.spotify.com/track/1sKp0Z228vwYcC1xvuzM7c) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh) | [Second Strike](https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F) | 4:43 | 2022-07-28 |  |
+| [Skies](https://open.spotify.com/track/1sKp0Z228vwYcC1xvuzM7c) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh) | [Second Strike](https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F) | 4:43 | 2022-07-28 | 2022-11-29 |
 | [Skies](https://open.spotify.com/track/7GlssS4q7XvUJUgkyO5Js1) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh) | [Skies](https://open.spotify.com/album/3ltnGdeZPFYDmWaspSwgRh) | 4:43 | 2022-02-18 | 2022-07-28 |
 | [Skylla](https://open.spotify.com/track/3R8AWBWbqkWTvWx9Tjd16p) | [Tobias Stavngaard](https://open.spotify.com/artist/0xE90kt9Ep1DwjmFgYCckA), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Aske Drasbæk](https://open.spotify.com/artist/0Hvho6Koqqy0L3x8W1eQpi), [Carl\-Emil Dons Christensen](https://open.spotify.com/artist/27SjjVrhLG67xZPGl5tnfJ), [William Mannerland](https://open.spotify.com/artist/2W3TmmwZ3G8WwbMUQlI3yB), [Nikolaj Bangsgaard](https://open.spotify.com/artist/4uDLtTKpXFUSlKBjGX7B5i) | [Skylla](https://open.spotify.com/album/1pqpgB49R4Mtw8YvYFX2EZ) | 7:37 | 2022-02-18 | 2022-11-12 |
 | [So What \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:22 | 2020-03-31 | 2022-02-27 |

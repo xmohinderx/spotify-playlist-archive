@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-292 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+293 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Mistificar](https://open.spotify.com/track/63cd1HLiFFWrelMezvFyBO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mistificar](https://open.spotify.com/album/4mvVkLGZeUGm0D6C8zZuiZ) | 3:07 | 2022-06-03 | 2022-08-06 |
 | [MONTANHA RUSSA](https://open.spotify.com/track/4dpjIj2Mg9Glx2k67yutvz) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [HENZEE](https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54) | [MONTANHA RUSSA](https://open.spotify.com/album/4QJTU1v37HrAEc0JlJwReF) | 3:13 | 2022-08-05 |  |
 | [Msg de Áudio](https://open.spotify.com/track/62kL2GyXXniX2DhlRmdzfr) | [Graveto](https://open.spotify.com/artist/6PQ1kr8rh2TpYJDAO3q1VY), [By Zero](https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ) | [Msg de Áudio](https://open.spotify.com/album/2jT9ZxW7w0ShPcn7QeQtTw) | 2:13 | 2022-01-14 | 2022-02-12 |
+| [Muita Pose, Pouca Yoga](https://open.spotify.com/track/1epVWSgLX4B4OwSzf03b25) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Muita Pose, Pouca Yoga](https://open.spotify.com/album/7ylHlK3RxWnrxLzuauKTAa) | 3:26 | 2022-11-28 |  |
 | [Muito Além](https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo) | [Gabriela Lery](https://open.spotify.com/artist/273Al938zyiMfS04Mh6lNr), [tiagobello](https://open.spotify.com/artist/35QrpCpY1Tn5bKk8Uxz3YE) | [Muito Além](https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp) | 3:14 | 2022-08-12 |  |
 | [Mãezinha](https://open.spotify.com/track/5lTBK3xacLGrxZBENGm4qt) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Mãezinha](https://open.spotify.com/album/5MPqMjZfJDiki2lbH6Bujf) | 3:38 | 2022-01-14 | 2022-08-06 |
 | [Na Beleza da Vida](https://open.spotify.com/track/4MuzCQ8IreSdP8yoQTvRNY) | [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [Na Beleza da Vida](https://open.spotify.com/album/4akQEfvDqszJ5Y9JVjk8d4) | 3:48 | 2022-07-01 | 2022-08-06 |

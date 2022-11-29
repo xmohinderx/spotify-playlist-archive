@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,305,056 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,318,673 likes - 100 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 27 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 |
 | 28 | [SCARFACE](https://open.spotify.com/track/24wHwQ23F2QlC31YGGiejn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [SCARFACE](https://open.spotify.com/album/46IEkRQXYXNZNJCrOQyy0x) | 1:33 |
 | 29 | [Diamond Drift](https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Diamond Drift](https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD) | 2:00 |
-| 30 | [NEW ERA](https://open.spotify.com/track/1IjGb3x3n6mzEllLf1qLsT) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [NEW ERA](https://open.spotify.com/album/4WGwYGhoVWhbT4Ey5nHkDY) | 2:34 |
+| 30 | [NEW ERA](https://open.spotify.com/track/4AJUMa3GvsVI3HIt4WEW22) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [NEW ERA](https://open.spotify.com/album/7cRlkjz0YyUIsgonvmtZPJ) | 2:34 |
 | 31 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
 | 32 | [9 In My Hand \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5z5UZgDSVbH9VDswlmtBSO) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [9 In My Hand \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/2Hy5ngIePxQLHlQ00iqeBa) | 1:26 |
 | 33 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DAMAGE](https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DAMAGE](https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7) | 2:21 |
 | 100 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY2OTM2ODA0NCwwMDAwMDAwMGRiNGEyYzgwYmRjYjFiOGQyMDhjYmI0ZTA1ZjVlMjZm`
+Snapshot ID: `MTY2OTM2ODA0NCwwMDAwMDAwMGM1Yzk1N2U1NzU1NmI0NTc1MDlhYzk2YTFjOGQ1ZTJj`

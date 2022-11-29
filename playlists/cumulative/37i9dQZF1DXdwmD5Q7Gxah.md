@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: omar apollo
 
-1,958 songs - 4 day 8 hr 50 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,961 songs - 4 day 9 hr 0 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [4ever](https://open.spotify.com/track/1UgaioSUNBZQ5xyCiAhfAU) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:41 | 2021-07-17 | 2022-01-08 |
 | [4Tounce](https://open.spotify.com/track/0uJ3orpKS4UjIf7WRZodJ5) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [4Tounce](https://open.spotify.com/album/6nyKY8shGVDEz5qXrZDHIY) | 2:47 | 2019-11-08 | 2020-05-07 |
 | [54321](https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [54321](https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z) | 2:20 | 2022-08-18 | 2022-10-26 |
+| [7 Weeks & 3 Days](https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:14 | 2022-11-28 |  |
 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 | 2019-07-30\* | 2021-11-13 |
 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 | 2022-04-15 | 2022-06-22 |
 | [97 Avalon](https://open.spotify.com/track/37f1s7mlrRXKoHmFn53wmY) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [97 Avalon](https://open.spotify.com/album/1J7dujPQV4tAQpObLon2hb) | 6:04 | 2022-03-25 | 2022-04-23 |
@@ -280,6 +281,7 @@
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-03 | 2022-06-11 |
 | [California](https://open.spotify.com/track/3zxqTbepxLQesm41y2NoE4) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 3:18 | 2019-07-30\* | 2019-08-02 |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2021-08-05 | 2021-12-02 |
+| [Call Me Hank](https://open.spotify.com/track/0su4ERFKzOPBVhyRe3F7KQ) | [Hank](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Call Me Hank](https://open.spotify.com/album/6lKbgIIe7H597ik14sQ9GA) | 2:33 | 2022-11-28 |  |
 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 | 2021-06-26 | 2021-12-02 |
 | [Calvaire](https://open.spotify.com/track/3KzDBZYfyIPYadSYwrQkPL) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/0lLMXOCjwCQsqCE0VNBnQa) | 1:57 | 2020-03-13 | 2021-01-12 |
 | [Can I Call You Tonight?](https://open.spotify.com/track/15RPEE4Xjz1dQK71zdAJSA) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5Hat6LZW3N4auL7QnydoS6) | 4:38 | 2019-10-11 | 2020-01-10 |
@@ -436,7 +438,7 @@
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-08-12 | 2021-12-02 |
 | [Darling](https://open.spotify.com/track/47o0JpUemOGkFRY3gEUwxA) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Milksop / Darling](https://open.spotify.com/album/75qzX7cNsdU6k6HUAlsgNe) | 2:45 | 2019-07-30\* | 2019-11-14 |
 | [Dart Hill](https://open.spotify.com/track/0YpUVgGuf05PIlIY7HVWRY) | [Natalie Green](https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T) | [So Far, So Good](https://open.spotify.com/album/3PY0pKbleUj9YhoozzTXpn) | 3:28 | 2019-12-21 | 2020-02-20 |
-| [daydream](https://open.spotify.com/track/1t0faf8iw1XbaJ0yznpPcB) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6uyX7aeHjV89017CRZ2CuU) | 1:09 | 2022-09-23 |  |
+| [daydream](https://open.spotify.com/track/1t0faf8iw1XbaJ0yznpPcB) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6uyX7aeHjV89017CRZ2CuU) | 1:09 | 2022-09-23 | 2022-11-29 |
 | [daydream](https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI) | 1:09 | 2022-09-23 | 2022-10-13 |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-20 | 2022-07-22 |
 | [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-10-30 | 2022-01-08 |
@@ -769,7 +771,7 @@
 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 | 2020-12-23 | 2021-03-06 |
 | [Hello?](https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:15 | 2020-01-28 | 2020-07-29 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-02-03 | 2021-05-03 |
-| [help herself \(dnb remix\) \- spotify single](https://open.spotify.com/track/79tCD94biwEmzQ3g0Yqe5c) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:06 | 2022-11-18 |  |
+| [help herself \(dnb remix\) \- spotify single](https://open.spotify.com/track/79tCD94biwEmzQ3g0Yqe5c) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:06 | 2022-11-18 | 2022-11-29 |
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2021-05-03 | 2021-07-31 |
 | [Henni Heartbreak](https://open.spotify.com/track/3fMTz1KF77Ou49C7laEoJl) | [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [Henni Heartbreak](https://open.spotify.com/album/5RI7jKxwpcqYUCwWAS4A8r) | 3:02 | 2020-02-14 | 2020-05-28 |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-22 | 2022-10-07 |
@@ -1417,6 +1419,7 @@
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-08-05 | 2022-01-22 |
 | [Riot](https://open.spotify.com/track/30jsniIB04n3TTpsXboq9Q) | [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J) | [Riot](https://open.spotify.com/album/1lEf6qRu9m0FtXYckM4nKV) | 3:34 | 2021-01-15 | 2021-01-23 |
 | [ripped jeans](https://open.spotify.com/track/1hkrrzCHWx3SwwrBp3i9h7) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/5O7x0cAksWA4GPvOCgsu0P) | 2:02 | 2020-05-06 | 2020-08-20 |
+| [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2022-11-28 |  |
 | [Rockstar](https://open.spotify.com/track/4ui2HoMD04KdlWjsTM343e) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/7CpHZgBT4UFz8eJWr659KU) | 3:28 | 2020-10-10 | 2021-04-02 |
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-02-19 | 2021-06-05 |
 | [Roi](https://open.spotify.com/track/5JBsL87pkYEqxR9ybfarfV) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Roi](https://open.spotify.com/album/1egOGiFQP2N9LYbO1VTneO) | 3:42 | 2019-07-30\* | 2019-09-27 |

@@ -4,7 +4,7 @@
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-175 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
+176 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Money Speak](https://open.spotify.com/track/4DU4PwzxDybrG45bTwX3Lx) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Money Speak](https://open.spotify.com/album/2I3728gIAymNzCrRquA3gu) | 3:21 | 2022-07-29 | 2022-09-10 |
 | [MONEY\-POWER\-RESPECT](https://open.spotify.com/track/0y9CkHtdAEIvI768jEsTTi) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [RUFF!!!](https://open.spotify.com/album/5zs40keHHDm2RRLPdkYOaa) | 3:04 | 2022-07-29 | 2022-09-10 |
 | [No Limit](https://open.spotify.com/track/7cr9p0T8NrbLk0P3WTH3We) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [No Limit](https://open.spotify.com/album/6T7EDV6Ft8eBWbvcPY0mDR) | 2:38 | 2021-12-20 | 2022-03-22 |
-| [Not](https://open.spotify.com/track/2A6nUIicRakdC5VwkytMa9) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Quenga](https://open.spotify.com/artist/3SCF5O7tDI61AtzlE5z8Vv) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 3:33 | 2021-12-20 |  |
+| [Not](https://open.spotify.com/track/2A6nUIicRakdC5VwkytMa9) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Quenga](https://open.spotify.com/artist/3SCF5O7tDI61AtzlE5z8Vv) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 3:33 | 2021-12-20 | 2022-11-29 |
+| [Not](https://open.spotify.com/track/6xRCEBOJtUdN3aMKGvqX5f) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Quenga](https://open.spotify.com/artist/1mQUQqw776B6DJDEIkqi1D) | [The Prodigy](https://open.spotify.com/album/1jTCrR34ciKYVJA5j4z6kq) | 3:33 | 2022-09-09 |  |
 | [Numbers Don't Lie](https://open.spotify.com/track/2lqrfOU4ZDlVnbDQi9FQAN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vanquish](https://open.spotify.com/album/6h9zRriP6rftIyWyqzrJRp) | 2:41 | 2022-07-29 | 2022-09-10 |
 | [Ocean Wave](https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Soul Survivor Riddim](https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o) | 2:43 | 2021-12-20 | 2022-03-22 |
 | [Pain](https://open.spotify.com/track/6ULweuw2Nah5Ha0F6zrBei) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:27 | 2021-12-20 | 2022-09-10 |

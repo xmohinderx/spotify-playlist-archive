@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 72560,
+  "num_followers": 72587,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE4YzdjOWZmMjQ1MzQ2YmVkY2UwZGE1YmUzNjg5ZThj",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGE3MjBiNWVkNjg2NDA1YTMwMGM3MGE4YzkzYmMwNTUy",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -363,42 +363,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "+Positive Vibes For Negative Times",
-        "url": "https://open.spotify.com/album/3niU1RC3W3hY9iNRq4ez8M"
-      },
-      "artists": [
-        {
-          "name": "King Green",
-          "url": "https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c"
-        },
-        {
-          "name": "Vanela",
-          "url": "https://open.spotify.com/artist/1v3Hk0YPwZXnxnKKyXOrmu"
-        }
-      ],
-      "duration_ms": 134276,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/1TQCfMfITNGtj9Vc4wSHDP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -423,6 +387,26 @@
       "duration_ms": 162146,
       "name": "Vex Oh (feat. Eight9FLY)",
       "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "+Positive Vibes For Negative Times",
+        "url": "https://open.spotify.com/album/3niU1RC3W3hY9iNRq4ez8M"
+      },
+      "artists": [
+        {
+          "name": "King Green",
+          "url": "https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c"
+        },
+        {
+          "name": "Vanela",
+          "url": "https://open.spotify.com/artist/1v3Hk0YPwZXnxnKKyXOrmu"
+        }
+      ],
+      "duration_ms": 134276,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/1TQCfMfITNGtj9Vc4wSHDP"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -463,22 +447,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
-      },
-      "artists": [
-        {
-          "name": "Sweet Micky",
-          "url": "https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc"
-        }
-      ],
-      "duration_ms": 512940,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Quoi qu'il advienne (QQA)",
         "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 303725,
       "name": "Rete La",
       "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
+      },
+      "artists": [
+        {
+          "name": "Sweet Micky",
+          "url": "https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc"
+        }
+      ],
+      "duration_ms": 512940,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -555,6 +555,50 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Akouna",
+        "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
+      },
+      "artists": [
+        {
+          "name": "Manno Beats",
+          "url": "https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj"
+        },
+        {
+          "name": "Afrotronix",
+          "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
+        },
+        {
+          "name": "Vox Sambou",
+          "url": "https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b"
+        }
+      ],
+      "duration_ms": 230679,
+      "name": "Akouna",
+      "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "African Sun (Remix)",
         "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
       },
@@ -595,26 +639,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Patron",
         "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
       },
@@ -635,30 +659,6 @@
       "duration_ms": 280383,
       "name": "Se Pa Pou Dat",
       "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Akouna",
-        "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
-      },
-      "artists": [
-        {
-          "name": "Manno Beats",
-          "url": "https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj"
-        },
-        {
-          "name": "Afrotronix",
-          "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
-        },
-        {
-          "name": "Vox Sambou",
-          "url": "https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b"
-        }
-      ],
-      "duration_ms": 230679,
-      "name": "Akouna",
-      "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Sammy Sosa",
-        "url": "https://open.spotify.com/album/1WrEcubpRe8wHHzmZqRJ1p"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "LASTMONDAY",
-          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Sammy Sosa",
-      "url": "https://open.spotify.com/track/27gKiEShJtM0aUGN2brwEn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Eskize Mwen",
         "url": "https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 194545,
       "name": "Eskize Mwen - Raboday Mix",
       "url": "https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Sammy Sosa",
+        "url": "https://open.spotify.com/album/1WrEcubpRe8wHHzmZqRJ1p"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "LASTMONDAY",
+          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Sammy Sosa",
+      "url": "https://open.spotify.com/track/27gKiEShJtM0aUGN2brwEn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Anthology, Vol. IV",
         "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 526373,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Trap King",
-        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Fanm Ch\u00e8",
-      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Ba L on Bye (Remix)",
         "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 198533,
       "name": "Kote moun yo",
       "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Trap King",
+        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Fanm Ch\u00e8",
+      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Touche'm",
-        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Touche'm",
-      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "K\u00c8M",
         "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
       },
@@ -1539,22 +1519,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "House Life",
-        "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
         }
       ],
-      "duration_ms": 225000,
-      "name": "House Life",
-      "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1575,18 +1551,42 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+        "name": "Touche'm",
+        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
       },
       "artists": [
         {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+      "duration_ms": 212783,
+      "name": "Touche'm",
+      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "House Life",
+        "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "House Life",
+      "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
-      },
-      "artists": [
-        {
-          "name": "NEVRMIND",
-          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1747,6 +1731,38 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
+      },
+      "artists": [
+        {
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Can't Catch Me",
         "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
@@ -1759,6 +1775,42 @@
       "duration_ms": 229991,
       "name": "Can't Catch Me",
       "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "La Vibe Tropicale EP",
+        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+      },
+      "artists": [
+        {
+          "name": "DZgot",
+          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Bout Konpa - Original Mix",
+      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/1BrlwVcweV89LH95CtdsZ4"
+      },
+      "artists": [
+        {
+          "name": "Amara La Negra",
+          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
+        },
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/3Iltb5dK3PtsMTDRRvshOz"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1791,38 +1843,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "La Vibe Tropicale EP",
-        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
-      },
-      "artists": [
-        {
-          "name": "DZgot",
-          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Bout Konpa - Original Mix",
-      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "REFLEXION",
         "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 166400,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/3KOhDk9R0Ze1hgEMCK0GLM"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "I Don't Mind",
-        "url": "https://open.spotify.com/album/1BrlwVcweV89LH95CtdsZ4"
-      },
-      "artists": [
-        {
-          "name": "Amara La Negra",
-          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
-        },
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/3Iltb5dK3PtsMTDRRvshOz"
     },
     {
       "added_at": "2022-11-18 05:00:00",

@@ -4,7 +4,7 @@
 
 > FMG check je in La Vida Loca! Hier alleen maar good vibes en motion.
 
-298 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+299 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Tricks](https://open.spotify.com/track/2xgL1NT5nk0zw6chUtWH9x) | [Babybang](https://open.spotify.com/artist/5AE51Ys60V4FluAz6NQQup), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Tricks](https://open.spotify.com/album/10zUSiruePJMcNy4nuYkRS) | 3:00 | 2022-10-13 | 2022-10-28 |
 | [Tunup \(feat\. Konshens & Bokoesam\)](https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Highest Grade Vol\. 2.0 \- Caribbean Kush](https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5) | 2:29 | 2022-07-14 | 2022-08-26 |
 | [Tuurlijk Voelt Ze Mij](https://open.spotify.com/track/5cwLimOJagMF4vAiZK60Wc) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Birthday Pack](https://open.spotify.com/album/38XUKcoyObX0WtOdIvbBFy) | 2:12 | 2022-11-07 | 2022-11-26 |
+| [Ulala](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Ulala](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 | 2022-11-28 |  |
 | [UNO](https://open.spotify.com/track/4OjKntAuj6ztxjwgXPu9QQ) | [Jorda](https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [UNO](https://open.spotify.com/album/0WaIrfyzHaOzTAb4jPjPGY) | 2:17 | 2022-08-25 | 2022-09-16 |
 | [Vamonos \(Kidd Keo Remix\)](https://open.spotify.com/track/6NK4btvHCxKGYiklcAt2vs) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Vamonos \(Kidd Keo Remix\)](https://open.spotify.com/album/1Aerjdt5Au1xvhPbzguLpF) | 3:07 | 2022-07-21 | 2022-09-02 |
 | [Vamonos Viral \(feat\. Afro Bros, Dixson Waz & Morry\)](https://open.spotify.com/track/3fNgQatiRxYCWWngqxfJeN) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl), [WZ Beat](https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Vamonos Viral \(feat\. Afro Bros, Dixson Waz & Morry\)](https://open.spotify.com/album/5bRx3CbEFL7CSfMQaRNUEZ) | 2:27 | 2022-08-23 | 2022-09-09 |

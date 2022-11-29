@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: GOMAK BOYS\(고막소년단\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: Yang Da Il\(양다일\)\) \(당신의 감성에 발라드, 려요\)
 
-599 songs - 1 day 14 hr 50 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+601 songs - 1 day 14 hr 59 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Will I be able to love again?](https://open.spotify.com/track/6plPoVDY8WZqG0HHc7lXfq) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Will I be able to love again?](https://open.spotify.com/album/08Yq9DdLCdxymYMKhqqvGN) | 4:04 | 2022-07-07 | 2022-07-27 |
 | [Willow Tree](https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B) | 4:39 | 2022-09-05 |  |
 | [Winter Poem](https://open.spotify.com/track/1WIoLsx3aZ83yAJn76vwLD) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6) | [W](https://open.spotify.com/album/2xTWhqmw4ulmDTMgQC97Jc) | 2:39 | 2021-12-23 | 2022-01-21 |
+| [Wish I could tell you](https://open.spotify.com/track/38kJ3LV1n9dIBfs1hFksAI) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Wish I could tell you](https://open.spotify.com/album/1O02PUbV0l0kfpzcodoCNe) | 3:54 | 2022-11-28 |  |
 | [With and Without You](https://open.spotify.com/track/5E8LKTFF9UpIiuyq1O1vJn) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [With and Without You](https://open.spotify.com/album/1Ixz7I4AEGQ1zJhrGbJr7x) | 3:51 | 2022-03-24 | 2022-04-19 |
 | [With My Tears](https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0pYCXVuGMKDRCrN05doHXA) | 4:13 | 2021-12-20 | 2022-07-08 |
 | [With the night blanket](https://open.spotify.com/track/52nkKvx43lcg3OAxnQWyOv) | [Bubble Sisters](https://open.spotify.com/artist/1jZ9R8RNpwVBJTf8Qg96a7) | [With the night blanket](https://open.spotify.com/album/3Mc5Esn48xpIkGIraYEaze) | 3:28 | 2022-07-07 | 2022-08-13 |
@@ -605,6 +606,7 @@
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-07-26 | 2022-10-15 |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2021-12-23 | 2022-07-06 |
 | [지나오다](https://open.spotify.com/track/5ndgHth5hDc2dFPDC9Sq9N) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About You](https://open.spotify.com/album/2tInxH0GgKYLdoclP1YjiM) | 4:41 | 2022-03-29 | 2022-04-08 |
+| [첫 눈에 멜로디](https://open.spotify.com/track/4nf6sG5wQe9q41xN3EpbME) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Themselves \(Original Soundtrack\) Chapter\. 1](https://open.spotify.com/album/5PScVaBc0KtkXDzEVJ7xWU) | 5:04 | 2022-11-28 |  |
 | [홀로 핀 아이](https://open.spotify.com/track/7HKQdNF6zTVj0QBLheWD7O) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,](https://open.spotify.com/album/50ypPSIjofQu7iEkA4ILTr) | 4:09 | 2022-10-06 |  |
 | [히말라야 \(feat\. 장명서\)](https://open.spotify.com/track/2FHpY8AcIkQZq9lHnKaMMx) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV), [Jang Myeongseo](https://open.spotify.com/artist/7I1SCP4IejyDD29rrRv4Qt) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 4:14 | 2022-08-12 | 2022-11-02 |
 

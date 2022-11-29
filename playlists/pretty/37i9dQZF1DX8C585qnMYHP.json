@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Lucrecia Dalt Artwork: Thami Nabil",
-  "num_followers": 96936,
+  "num_followers": 97004,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwMTg4MCwwMDAwMDAwMDU2NWNlZWU5NjBiMGUzZjBkZjhlZjYwMzA0ZTYwNDk0",
+  "snapshot_id": "MTY2ODAwMTg4MCwwMDAwMDAwMGM1NzBhMjZiMGY4MDUwOTlkODUyOGU5Y2UwNmY1YTg3",
   "tracks": [
     {
       "added_at": "2022-11-09 13:51:20",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
     },
     {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
       "added_at": "2022-09-14 04:00:00",
       "album": {
         "name": "Heaven Come Crashing",
@@ -499,6 +483,22 @@
       "duration_ms": 210520,
       "name": "Our Wretched Fantasy",
       "url": "https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E"
+    },
+    {
+      "added_at": "2022-09-27 23:34:16",
+      "album": {
+        "name": "First Fall",
+        "url": "https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5"
+      },
+      "artists": [
+        {
+          "name": "Surgeons Girl",
+          "url": "https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP"
+        }
+      ],
+      "duration_ms": 250562,
+      "name": "First Fall",
+      "url": "https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -517,20 +517,20 @@
       "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
     },
     {
-      "added_at": "2022-09-27 23:34:16",
+      "added_at": "2022-09-21 02:54:10",
       "album": {
-        "name": "First Fall",
-        "url": "https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5"
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
       "artists": [
         {
-          "name": "Surgeons Girl",
-          "url": "https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP"
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
-      "duration_ms": 250562,
-      "name": "First Fall",
-      "url": "https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo"
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2022-08-31 04:02:01",
@@ -597,6 +597,26 @@
       "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
     },
     {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Eyeline",
+        "url": "https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx"
+      },
+      "artists": [
+        {
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+        },
+        {
+          "name": "Claire Rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 104544,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy"
+    },
+    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "Theory",
@@ -627,26 +647,6 @@
       "duration_ms": 354645,
       "name": "The Clearing Pt. 2",
       "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
-    },
-    {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx"
-      },
-      "artists": [
-        {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
-        },
-        {
-          "name": "Claire Rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 104544,
-      "name": "DOG",
-      "url": "https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy"
     },
     {
       "added_at": "2022-09-21 02:54:10",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc"
     },
     {
-      "added_at": "2022-09-27 23:34:16",
-      "album": {
-        "name": "Inner Rage",
-        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
-      },
-      "artists": [
-        {
-          "name": "Edgar Mondrag\u00f3n",
-          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
-        }
-      ],
-      "duration_ms": 374679,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
-    },
-    {
       "added_at": "2022-09-21 02:54:10",
       "album": {
         "name": "Castlefields",
@@ -723,6 +707,22 @@
       "duration_ms": 494686,
       "name": "Castlefields",
       "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
+    },
+    {
+      "added_at": "2022-09-27 23:34:16",
+      "album": {
+        "name": "Inner Rage",
+        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
+      },
+      "artists": [
+        {
+          "name": "Edgar Mondrag\u00f3n",
+          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
+        }
+      ],
+      "duration_ms": 374679,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
     },
     {
-      "added_at": "2022-09-27 23:34:16",
-      "album": {
-        "name": "Cosmic Planta",
-        "url": "https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Liquid Planta Seeds",
-      "url": "https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew"
-    },
-    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "J\u00e4rnn\u00e4tter",
@@ -817,6 +801,22 @@
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
+      "added_at": "2022-09-27 23:34:16",
+      "album": {
+        "name": "Cosmic Planta",
+        "url": "https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Liquid Planta Seeds",
+      "url": "https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew"
+    },
+    {
       "added_at": "2022-09-07 04:00:00",
       "album": {
         "name": "Say Goodbye To The Wind",
@@ -831,6 +831,22 @@
       "duration_ms": 1544292,
       "name": "Spopolatore",
       "url": "https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Archeological Longing",
+      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
     },
     {
       "added_at": "2022-09-14 04:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 215330,
       "name": "Archivos Corruptos",
       "url": "https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 233610,
-      "name": "Archeological Longing",
-      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Prince
 
-97 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+98 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alai Alaiyaaga \- From "Navarasa"](https://open.spotify.com/track/3BA7DwnFY3wo2P6vtTpcvm) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Alai Alaiyaaga \(From "Navarasa"\)](https://open.spotify.com/album/1JSsWtXQT3mVFtefwk3D5F) | 1:36 | 2021-11-29 | 2022-10-19 |
 | [Alaikadal](https://open.spotify.com/track/7kcMEKsmqgfq68gSQk6F9c) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Antara Nandy](https://open.spotify.com/artist/5t0Sf8M5KByD2fIBiVKavT) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 5:14 | 2022-09-13 |  |
 | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/track/78xl1agm6jjt1u7YvgWtLo) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH) | 3:44 | 2022-07-23 |  |
+| [Annapoorani](https://open.spotify.com/track/3siHw6IyoSjclNZXdbttCQ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Lalitha Vijaykumar](https://open.spotify.com/artist/1U7WlO4O1AD6LbFuLMuqfW), [Ponram](https://open.spotify.com/artist/5P5VAzbGY1lA2g7CDkJJTS) | [DSP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UgjttUimzckiOaK6CdlN8) | 4:35 | 2022-11-28 |  |
 | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/track/5TCmpwdXWcTvUvX52tHuOa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/album/5wGTuwwxCEhotwZpDTs6nL) | 3:01 | 2021-12-22 |  |
 | [Azhagula Rasathi \- From "Pistha"](https://open.spotify.com/track/2fmRdVTuJV8pvxEP972DHI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Vaishali Jaishankar](https://open.spotify.com/artist/2X0hRi1b1JJboBlbgHYtak), [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF) | [Pistha](https://open.spotify.com/album/2m9Ps55nhonZ3Lggc4IHJT) | 4:13 | 2022-10-03 | 2022-11-06 |
 | [Azhaikiradhae](https://open.spotify.com/track/1hsGje3u3fxklQlKXF39xY) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Samrat Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:02 | 2022-05-19 | 2022-06-29 |

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-78 songs - 8 hr 3 min - not published yet
+80 songs - 8 hr 16 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Return to Forever](https://open.spotify.com/track/7l4p4jwpwtXgbJVZTjbU8s) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Return to Forever](https://open.spotify.com/album/47I45xg9PGxwy3k8kCeWUr) | 8:08 | 2022-11-23 |  |
 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 | 2022-11-23 |  |
 | [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 |  |
+| [Silver Screen](https://open.spotify.com/track/6lBySALfpud2idAf6X6Pqi) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Silver Screen](https://open.spotify.com/album/3SJu0buwmV07qtrRSvHY7U) | 6:42 | 2022-11-28 |  |
 | [Simulacrum](https://open.spotify.com/track/1W1uFNsvlGIpC2WFNCVNIr) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/3QLiQ0hFrcrlNoUjc8KGAb) | 6:06 | 2022-11-27 |  |
 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 | 2022-11-23 |  |
 | [Something Unreal \- Oliver Huntemann & André Winter Remix](https://open.spotify.com/track/052FRbHApjMoCKHxJfqPro) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR), [André Winter](https://open.spotify.com/artist/3uGjpxycNoFU7hQYQduP4k) | [Something Unreal \(Oliver Huntemann & André Winter Remix\)](https://open.spotify.com/album/47f47tiAbZQvh7dIK7jlNn) | 6:42 | 2022-11-27 |  |
@@ -75,15 +76,16 @@
 | [System](https://open.spotify.com/track/5E8Q6eXY1EGAnf9a8vF8eT) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:07 | 2022-11-23 |  |
 | [Take Me 7](https://open.spotify.com/track/3ZDQDKDD7QaIaH6BaKwXJa) | [MOLLA](https://open.spotify.com/artist/2mtAqjFc61b8S8as9ZFvBN) | [Take Me 7](https://open.spotify.com/album/0cKigbWtjzuptUBAWOy6gE) | 6:02 | 2022-11-23 |  |
 | [Tataki](https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Tataki](https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses) | 5:28 | 2022-11-23 |  |
-| [The Kid and the Planes](https://open.spotify.com/track/1hKOeHFbeGBadMDIeT3NT0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [The Kid and the Planes](https://open.spotify.com/album/6Qcay3XgV5sa1nrQm2bSwv) | 8:05 | 2022-11-23 |  |
+| [The Kid and the Planes](https://open.spotify.com/track/1hKOeHFbeGBadMDIeT3NT0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [The Kid and the Planes](https://open.spotify.com/album/6Qcay3XgV5sa1nrQm2bSwv) | 8:05 | 2022-11-23 | 2022-11-29 |
 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 | 2022-11-23 |  |
+| [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2022-11-28 |  |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-11-23 |  |
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-11-23 |  |
 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-23 |  |
 | [Trust The Hours](https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Trust The Hours](https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV) | 6:11 | 2022-11-23 |  |
 | [Try](https://open.spotify.com/track/6dYp9gwmnHvLdjwHhhiJbV) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Try / I Need You Now](https://open.spotify.com/album/4bPpSY4RfqWXcPrlLP8v1G) | 3:39 | 2022-11-23 |  |
 | [Under the Sun](https://open.spotify.com/track/32v7oXsd2S8XcZoPGO488S) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Under the Sun EP](https://open.spotify.com/album/18UianFgcKByeelb2c1lWN) | 6:15 | 2022-11-23 |  |
-| [Urania](https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Urania](https://open.spotify.com/album/6HNtAXj6JDQbfQeKPzTcYR) | 7:25 | 2022-11-23 |  |
+| [Urania](https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Urania](https://open.spotify.com/album/6HNtAXj6JDQbfQeKPzTcYR) | 7:25 | 2022-11-23 | 2022-11-29 |
 | [Virgo](https://open.spotify.com/track/1OgmO9reLha6OiQ8PwMCz7) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Vomee](https://open.spotify.com/artist/7AoYKqkWmyz20OmuMC8OeS) | [Talisman](https://open.spotify.com/album/0Dnvoqw5glxqd4uVVDA0cy) | 7:54 | 2022-11-23 |  |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-11-23 |  |
 

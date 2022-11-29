@@ -1750,6 +1750,28 @@
     },
     {
       "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/3phpGituVhLMV9cPFcv2Go"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "A.X.L.",
+          "url": "https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184180,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/3RuxiOnq4PdK9ti61U2HgT"
+    },
+    {
+      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/3euaYIstrU817nB22OxCdu"
       },
@@ -2826,6 +2848,32 @@
     },
     {
       "album": {
+        "name": "Linhas de Fogo",
+        "url": "https://open.spotify.com/album/6IWUjideWJcH9PsuTE8V9R"
+      },
+      "artists": [
+        {
+          "name": "Nocivo Shomon",
+          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
+        },
+        {
+          "name": "Mano Fler",
+          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+        },
+        {
+          "name": "Maur\u00edcio DTS",
+          "url": "https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280990,
+      "name": "Linhas de Fogo",
+      "url": "https://open.spotify.com/track/7rVlzobevLRio65jZum1qc"
+    },
+    {
+      "album": {
         "name": "Linhas de Tiro",
         "url": "https://open.spotify.com/album/7fDmvO4n6HOYfgmAQ5CnC8"
       },
@@ -3189,7 +3237,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 136303,
       "name": "Menor Sagaz",
       "url": "https://open.spotify.com/track/0YDDA1BvbyRUXVLkjHJ6zp"
@@ -3259,7 +3307,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 192000,
       "name": "Metaverso",
       "url": "https://open.spotify.com/track/7eT5cvZWhxuL3RaPjlfnsB"
@@ -5616,6 +5664,32 @@
     },
     {
       "album": {
+        "name": "Sigo Ligeiro",
+        "url": "https://open.spotify.com/album/25j5RfWjKk0LmeIHKZMimu"
+      },
+      "artists": [
+        {
+          "name": "ZET",
+          "url": "https://open.spotify.com/artist/7HfY5nt8LrS4Wo4s7LFPA3"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "DJ Abu",
+          "url": "https://open.spotify.com/artist/19fNZK8ixDsGsn0z3ThEQb"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220661,
+      "name": "Sigo Ligeiro",
+      "url": "https://open.spotify.com/track/1jwQLspfvLF5YdMFwfJj6F"
+    },
+    {
+      "album": {
         "name": "Remix",
         "url": "https://open.spotify.com/album/1dH9642vJFgXBMLeUN7hLY"
       },
@@ -6567,7 +6641,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 237048,
       "name": "\u00daltimos Tempos",
       "url": "https://open.spotify.com/track/2yhTmf4KmClUh48usRciM1"

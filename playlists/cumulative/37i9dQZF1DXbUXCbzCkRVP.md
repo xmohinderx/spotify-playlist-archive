@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-75 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
+76 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Avalanche](https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 2:39 | 2022-05-25 |  |
 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 | 2022-05-25 |  |
 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 | 2022-05-25 |  |
+| [Blues After Hours](https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues On Blues](https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V) | 3:03 | 2022-11-24 |  |
 | [Blues After Hours](https://open.spotify.com/track/0RDC5acwFJydRC4MYHRi7S) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [The Modern Legacy](https://open.spotify.com/album/5KYO0eRr8nZwQESUhUreBy) | 3:04 | 2022-05-25 | 2022-07-29 |
 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2022-05-25 |  |
 | [Blues For Duke Robillard](https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 7:43 | 2022-05-25 |  |
@@ -38,7 +39,7 @@
 | [Hawaiian Boogie](https://open.spotify.com/track/50IAP78bUna2exWkQiGhrM) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Saga Blues: Chicago Slide Guitar Masters "From Tampa Red to Elmore James"](https://open.spotify.com/album/34KpwnL6xD2nYfX8hgoEPA) | 2:19 | 2022-05-25 | 2022-07-28 |
 | [Hey Jose](https://open.spotify.com/track/4TlQkA6zJH3tKsHrlphGqP) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 5:11 | 2022-07-08 | 2022-07-24 |
 | [Hide Away](https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 2:37 | 2022-05-25 |  |
-| [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 | 2022-05-25 |  |
+| [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 | 2022-05-25 | 2022-11-29 |
 | [Hot and Heavy](https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 1:56 | 2022-05-25 | 2022-07-29 |
 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 | 2022-05-25 |  |
 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 | 2022-05-25 |  |

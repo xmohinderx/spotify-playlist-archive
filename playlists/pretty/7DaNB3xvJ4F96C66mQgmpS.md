@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > The best workout playlist is here\. Listen to rap, rock, and electronic bangers from a variety of artists, and discover new favorite tracks to power you through.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 89,675 likes - 52 songs - 2 hr 44 min
+[Digster](https://open.spotify.com/user/digster.fm) - 89,658 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-175 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
+177 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Adulthood Anthem](https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Adulthood Anthem](https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky) | 2:44 | 2022-06-13 |  |
 | [Ale Yi](https://open.spotify.com/track/7G4q3FqZSngbAxGcyyHXlz) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Ale Yi](https://open.spotify.com/album/0pJnSycgzDRYVjH9dIqOYt) | 2:41 | 2021-10-08 | 2022-10-14 |
 | [Anthem](https://open.spotify.com/track/2se2ioj0MpIqDl7doDHmOX) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Anthem](https://open.spotify.com/album/22cggFEzLwSE5qvfGGqVyJ) | 2:53 | 2022-09-09 | 2022-09-20 |
+| [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-28 |  |
 | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 |  |
 | [Balance](https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:10 | 2022-06-03 |  |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-07-14 |  |
@@ -171,6 +172,7 @@
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2022-11-19 |
 | [Timoti](https://open.spotify.com/track/1HG9yS1bhOSsrUoHdUEnbW) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:19 | 2022-08-05 |  |
 | [Trabaye](https://open.spotify.com/track/3q1cSJlfVFGfE7sMWPYJGm) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:51 | 2022-02-17 |  |
+| [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 |  |
 | [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 | 2022-02-17 |  |
 | [Turkey Nla](https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Turkey Nla](https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd) | 3:00 | 2022-09-30 | 2022-11-19 |
 | [Virgin](https://open.spotify.com/track/2ejOZkQspClRT6XBmisNgR) | [A.BEEB](https://open.spotify.com/artist/3as6yHHx8871JLAU4hfD7T) | [Virgin](https://open.spotify.com/album/6iR7uhRbK8A9pTrLEEkez5) | 2:50 | 2022-09-09 | 2022-09-24 |

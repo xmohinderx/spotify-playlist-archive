@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 110312,
       "name": "Aclima\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5ul4MZmzojMYEB6N8BWVF0"
@@ -24499,7 +24499,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 133793,
       "name": "Hydration",
       "url": "https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z"
@@ -24659,7 +24659,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 118620,
       "name": "I Do",
       "url": "https://open.spotify.com/track/4aKZ2t4wiRgiNxXSaffotF"
@@ -28955,7 +28955,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 139440,
       "name": "Krispl Alone",
       "url": "https://open.spotify.com/track/64VtmW9P5rbYb0y6btPCNg"
@@ -30935,6 +30935,24 @@
     {
       "album": {
         "name": "Lights Out",
+        "url": "https://open.spotify.com/album/1PjzWg4NKA4MO6a1yN4yMv"
+      },
+      "artists": [
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108571,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1xYrQE0XStZEJ9Z5QnFsJL"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
         "url": "https://open.spotify.com/album/2ZCPxfJJJLdh3EO11edL6C"
       },
       "artists": [
@@ -31051,6 +31069,24 @@
       "duration_ms": 91764,
       "name": "Lil' Trumpet Thingy",
       "url": "https://open.spotify.com/track/0V0DUGOVmvXnLScy3efvtT"
+    },
+    {
+      "album": {
+        "name": "Lilac",
+        "url": "https://open.spotify.com/album/307gPdPkvlkjMIbgoyjwL1"
+      },
+      "artists": [
+        {
+          "name": "Jk Beatbook",
+          "url": "https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Lilac",
+      "url": "https://open.spotify.com/track/6hRHaEUjl2cHW2P60wPywi"
     },
     {
       "album": {
@@ -43632,6 +43668,28 @@
     },
     {
       "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/0Q6unK81dRKqX5mIAlFrMW"
+      },
+      "artists": [
+        {
+          "name": "Roelo",
+          "url": "https://open.spotify.com/artist/427NoskGkRLFdKbxUEsEPr"
+        },
+        {
+          "name": "Kyefii",
+          "url": "https://open.spotify.com/artist/6jTxLqHhCNVbodPAJB77Sw"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101647,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/0ICLmKVuRYleOtxyrp2fQ8"
+    },
+    {
+      "album": {
         "name": "Pretend",
         "url": "https://open.spotify.com/album/7N1BcwHeBapwoPaiNwwCE7"
       },
@@ -48643,7 +48701,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 135000,
       "name": "Shibuya Station",
       "url": "https://open.spotify.com/track/3RPsh6RCp4bkxjjO2yZ0x1"
@@ -52683,7 +52741,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 160000,
       "name": "Submerged",
       "url": "https://open.spotify.com/track/4MJ84OQBFamI9IPzArsKQU"
@@ -53267,6 +53325,24 @@
       "duration_ms": 115384,
       "name": "Summer Picnic",
       "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
+    },
+    {
+      "album": {
+        "name": "Summer Sunset",
+        "url": "https://open.spotify.com/album/7yFlrAv2d26AdS0OtzbGxK"
+      },
+      "artists": [
+        {
+          "name": "Mindscape",
+          "url": "https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Summer Sunset",
+      "url": "https://open.spotify.com/track/0UI7l0ejPAknjRsm7FjcSw"
     },
     {
       "album": {
@@ -55633,6 +55709,24 @@
       "duration_ms": 166048,
       "name": "Temptations",
       "url": "https://open.spotify.com/track/7oxthPPk7zr1qGblcEXBLp"
+    },
+    {
+      "album": {
+        "name": "Tender Springs",
+        "url": "https://open.spotify.com/album/3nsOfqwCTTqo6vMJsPE4s0"
+      },
+      "artists": [
+        {
+          "name": "Civin",
+          "url": "https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118536,
+      "name": "Tender Springs",
+      "url": "https://open.spotify.com/track/2V3D4xFe5bUwogudJsZIEJ"
     },
     {
       "album": {
@@ -60725,6 +60819,32 @@
       "duration_ms": 159043,
       "name": "Void",
       "url": "https://open.spotify.com/track/7fbEC2LZjgreEeVS9aVkc9"
+    },
+    {
+      "album": {
+        "name": "Volpaia",
+        "url": "https://open.spotify.com/album/1ELKh52boFPAkRyVYAUpm8"
+      },
+      "artists": [
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        },
+        {
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
+        },
+        {
+          "name": "Webmoms",
+          "url": "https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Volpaia",
+      "url": "https://open.spotify.com/track/1lrgfwOihRFHBUy3xGIeBB"
     },
     {
       "album": {

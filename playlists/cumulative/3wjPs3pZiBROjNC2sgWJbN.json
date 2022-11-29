@@ -1554,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Tipsy",
+        "url": "https://open.spotify.com/album/1ppJv1ob2g180U4mHFJ8lc"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "Tipsy",
+      "url": "https://open.spotify.com/track/3rshg8fOyT2sjPZy7mnhlZ"
+    },
+    {
+      "album": {
         "name": "Trigger Protection Mantra",
         "url": "https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,121 likes - 51 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,289 likes - 51 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 50 | [The Forgers](https://open.spotify.com/track/3byEuIFkJboGhU6wBvSg0B) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:13 |
 | 51 | [Bondman](https://open.spotify.com/track/75oYpYVq6NJBKMxE5LoX8p) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:41 |
 
-Snapshot ID: `MTY2OTAwNzI1OCwwMDAwMDAwMDA2MjVhMzMwOWI4Mjg1ZTBlZDBjNWIwZDEyMWNmYWQ4`
+Snapshot ID: `MTY2OTYxOTQ5OCwwMDAwMDAwMDk0NjNhYjA2MTQ0MTg0N2E5ODU0OGFhZDE5MjlhY2My`

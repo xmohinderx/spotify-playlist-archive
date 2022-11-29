@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 347477,
+  "num_followers": 347535,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMxOTIxMywwMDAwMDAwMGE0NTdlYzQxMDIyYTJhMWE0ZWJkNDJjM2I5ODY4MWRh",
+  "snapshot_id": "MTY2OTMxOTIxMywwMDAwMDAwMDg2OTUwOTY4NzEwZjQyOWEyYzkwYjEyYTBlNjVhODRj",
   "tracks": [
     {
       "added_at": "2022-11-24 19:46:53",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
+    },
+    {
+      "added_at": "2022-11-24 19:46:53",
+      "album": {
         "name": "Trust the change",
         "url": "https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
-    },
-    {
-      "added_at": "2022-11-24 19:46:53",
-      "album": {
         "name": "Departure : My New Me",
         "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
       },
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2022-11-24 19:46:53",
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "duration_ms": 216634,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/620i08CTZIo1K9ycN144lg"
+    },
+    {
+      "added_at": "2022-11-24 19:46:53",
+      "album": {
         "name": "\u6708\u306b\u5420\u3048\u308b",
         "url": "https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 205920,
       "name": "\u6708\u306b\u5420\u3048\u308b",
       "url": "https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ"
-    },
-    {
-      "added_at": "2022-11-24 19:46:53",
-      "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p"
-      },
-      "artists": [
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
-        }
-      ],
-      "duration_ms": 197135,
-      "name": "Lights (feat. Blu)",
-      "url": "https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn"
     },
     {
       "added_at": "2022-11-24 19:46:53",

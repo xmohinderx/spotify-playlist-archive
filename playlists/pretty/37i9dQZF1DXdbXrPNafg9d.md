@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Tennis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,715 likes - 199 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,896 likes - 199 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 3 | [How You Like](https://open.spotify.com/track/441hmfeV0ZRRtGb944CblT) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [How You Like](https://open.spotify.com/album/61JrdyepvurPf5TRUUlQ5A) | 3:40 |
 | 4 | [Colin](https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Colin](https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7) | 3:39 |
 | 5 | [making out at the cemetery](https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [making out at the cemetery](https://open.spotify.com/album/4svnzibfqU4IMugrAwPn5s) | 2:30 |
-| 6 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 |
-| 7 | [The Hands \- From the Original Motion Picture “The Inspection”](https://open.spotify.com/track/1VYLPa8PSEeypLXwbncLfx) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [The Hands \(From the Original Motion Picture “The Inspection”\)](https://open.spotify.com/album/71nyj9LZWPJwEHViGRvD02) | 6:16 |
-| 8 | [I don’t care about the rain](https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [I don’t care about the rain](https://open.spotify.com/album/0X9D08RXensTJaGFiHH09i) | 3:34 |
-| 9 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
-| 10 | [THE SUN WON'T COME UP \(feat\. Bearcubs\)](https://open.spotify.com/track/0EzTR9aMCFJucFOvfGTNxy) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [THE SUN WON'T COME UP \(feat\. Bearcubs\)](https://open.spotify.com/album/2e1nqckCsd4R619nkObgkI) | 2:12 |
-| 11 | [Odyssey](https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Odyssey](https://open.spotify.com/album/4uuWpzTfQzJp6dV6HrlhgG) | 3:03 |
+| 6 | [I don’t care about the rain](https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [I don’t care about the rain](https://open.spotify.com/album/0X9D08RXensTJaGFiHH09i) | 3:34 |
+| 7 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 |
+| 8 | [Odyssey](https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Odyssey](https://open.spotify.com/album/4uuWpzTfQzJp6dV6HrlhgG) | 3:03 |
+| 9 | [realistic](https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [realistic](https://open.spotify.com/album/6AT3vx5geFUXbuo89ZJcfW) | 3:33 |
+| 10 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
+| 11 | [THE SUN WON'T COME UP \(feat\. Bearcubs\)](https://open.spotify.com/track/0EzTR9aMCFJucFOvfGTNxy) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [THE SUN WON'T COME UP \(feat\. Bearcubs\)](https://open.spotify.com/album/2e1nqckCsd4R619nkObgkI) | 2:12 |
 | 12 | [Ticking Bomb](https://open.spotify.com/track/7KCqSmpnDXwuhHgaMZ5wli) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Chameleon](https://open.spotify.com/album/0ciwiJcDpW1mrYiu3ZMBIV) | 2:18 |
-| 13 | [Don't Wanna Waste Your Time](https://open.spotify.com/track/4XKMVeSh9awnnq8ofOs9yp) | [crêpe girl](https://open.spotify.com/artist/46dxD5cIrBqD171NQ84rVz) | [Deux](https://open.spotify.com/album/278yXpiMAUtKzVkqei6iBF) | 2:36 |
-| 14 | [realistic](https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [realistic](https://open.spotify.com/album/6AT3vx5geFUXbuo89ZJcfW) | 3:33 |
+| 13 | [The Hands \- From the Original Motion Picture “The Inspection”](https://open.spotify.com/track/1VYLPa8PSEeypLXwbncLfx) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [The Hands \(From the Original Motion Picture “The Inspection”\)](https://open.spotify.com/album/71nyj9LZWPJwEHViGRvD02) | 6:16 |
+| 14 | [Don't Wanna Waste Your Time](https://open.spotify.com/track/4XKMVeSh9awnnq8ofOs9yp) | [crêpe girl](https://open.spotify.com/artist/46dxD5cIrBqD171NQ84rVz) | [Deux](https://open.spotify.com/album/278yXpiMAUtKzVkqei6iBF) | 2:36 |
 | 15 | [What’s on Your Mind?](https://open.spotify.com/track/4W2c3LX6S00WBhqUpdTy1A) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [What’s on Your Mind?](https://open.spotify.com/album/5Mb8GVBFQNPoLtiLHBGCTF) | 2:07 |
 | 16 | [metamorphosis](https://open.spotify.com/track/0zMWdqZT6CuAo4fzL6bdPX) | [Jayomi](https://open.spotify.com/artist/6MVYxlLs0btUQrDIPFfGbI) | [metamorphosis](https://open.spotify.com/album/1jA6QqInqvAxsB3m9mEMDB) | 3:13 |
 | 17 | [Groupie](https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Groupie](https://open.spotify.com/album/2CDCVRa5raNL9q7NfiGJcZ) | 2:00 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 20 | [Crash](https://open.spotify.com/track/0SbDFDcMbXWBhts2Ydnoug) | [Andrew Kamen](https://open.spotify.com/artist/2lfHp2l2V3e1OmZGZzLabi) | [Crash](https://open.spotify.com/album/7bSQg6wFwZ31ep6sLflvlb) | 2:13 |
 | 21 | [Alone](https://open.spotify.com/track/7M1UJSaliSR5dVDIpsbCFz) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Alone](https://open.spotify.com/album/69kBL0Dc4S1P9o8AX8x0jL) | 4:28 |
 | 22 | [MMM](https://open.spotify.com/track/5pFt1ySRfbR5gpk8sVdmeg) | [Swordes](https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb) | [humanmusic4humans](https://open.spotify.com/album/27UgcdqBr5KuD97xrvjHgU) | 2:34 |
-| 23 | [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 |
-| 24 | [Dirty Shoes](https://open.spotify.com/track/1w1vqj9peesTLCyiO3yX2U) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [Dirty Shoes](https://open.spotify.com/album/5qlIh1U73Zvdunvgch1ajx) | 2:50 |
-| 25 | [I Know You Care](https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I Know You Care](https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t) | 3:08 |
+| 23 | [I Know You Care](https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I Know You Care](https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t) | 3:08 |
+| 24 | [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 |
+| 25 | [Dirty Shoes](https://open.spotify.com/track/1w1vqj9peesTLCyiO3yX2U) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [Dirty Shoes](https://open.spotify.com/album/5qlIh1U73Zvdunvgch1ajx) | 2:50 |
 | 26 | [made of](https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X) | [Skyler Acord](https://open.spotify.com/artist/1phSD0yoDFOv2kUbXzM1d4) | [made of](https://open.spotify.com/album/6wHWVoohwI1MJZl3tiY28f) | 3:02 |
 | 27 | [Eveningpol](https://open.spotify.com/track/2etXkxlwIPZyFLfUpfaFHO) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu), [Levingtquatre](https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA) | [Eveningpol](https://open.spotify.com/album/6UySJRBKHW19DYB8jx9dlY) | 2:48 |
 | 28 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 198 | [Love Factory](https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Love Factory](https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3) | 5:19 |
 | 199 | [Potion](https://open.spotify.com/track/2X8RVQYgF9UDM2lX3zCPh7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Potion](https://open.spotify.com/album/0YkTZRgC8diVjV1AoD5s5b) | 4:08 |
 
-Snapshot ID: `MTY2OTM1MjcwMCwwMDAwMDAwMDNjMWFjMTE4OTExMWZjOWFjZGEzNzI3MDUwNjMzMDBk`
+Snapshot ID: `MTY2OTY2Nzk4MiwwMDAwMDAwMDMwOGRjZWEwMjgyNDI4ZGZmNWZlYjAyODI2MjIwMzU1`

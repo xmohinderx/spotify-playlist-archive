@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim
 
-200 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+201 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Anjo ou Mulher](https://open.spotify.com/track/5eyNyhKJARZvv1jdtzd5mR) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU) | 2:45 | 2022-05-13 | 2022-07-29 |
 | [Aonde Eu Aperto Pra Voltar](https://open.spotify.com/track/2XBrtjxK2u5pcFXPfA8kzF) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [World, Vol\. 3](https://open.spotify.com/album/46yoelkmItoAKBPjdfoXjH) | 3:00 | 2022-08-01 | 2022-08-06 |
 | [Autoescola](https://open.spotify.com/track/38RdJm43LRcoWuGCnccbjy) | [DFONNSO](https://open.spotify.com/artist/1wd9IiAXbROc1j9woj6yOR), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Autoescola](https://open.spotify.com/album/1tNR1h6w1J8fHcjQRjZvSS) | 2:33 | 2022-05-13 | 2022-06-04 |
+| [Babaca Favorito](https://open.spotify.com/track/0c00puA1qPYN5BQEXYrNlc) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Babaca Favorito](https://open.spotify.com/album/6WQM6P5TlwSZoZVUs6y0dq) | 2:37 | 2022-11-28 |  |
 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 | 2022-08-26 |  |
 | [Bora Se Pegar \- Ao Vivo](https://open.spotify.com/track/6ijwpIpePgnwSAON00jDpf) | [Rafa Almeida](https://open.spotify.com/artist/7vnlJ5bdedonMAORNPB72Y) | [Impacto, Ep\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3Q6q4nxY87NqQrlq6WYYfl) | 3:30 | 2022-06-14 | 2022-06-18 |
 | [Cabelo Bagunçado](https://open.spotify.com/track/5HnS5kHBcUEleSVO0IooQD) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Cabelo Bagunçado](https://open.spotify.com/album/6MCVay89JujxBCqEBy2vn0) | 3:51 | 2022-05-13 |  |
@@ -70,7 +71,7 @@
 | [Do Jeito Que Você Me Ilude](https://open.spotify.com/track/2FFaJrEQven5YnYcRL7U5r) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Do Jeito Que Você Me Ilude](https://open.spotify.com/album/4xZzsW2CUOKRSEkPaIemmr) | 2:35 | 2022-05-13 | 2022-06-15 |
 | [Doideira](https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Doideira](https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN) | 2:37 | 2022-06-17 |  |
 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 | 2022-05-13 | 2022-10-01 |
-| [Ela É Só Dela \(Ela Tá Voando 2.0\)](https://open.spotify.com/track/2lTXBZaGlHA4V43pBmQpzV) | [Gabi Luthai](https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV) | [Ela É Só Dela \(Ela Tá Voando 2.0\)](https://open.spotify.com/album/6AKzS7OH5Mtf3OQmQwQu70) | 2:55 | 2022-10-10 |  |
+| [Ela É Só Dela \(Ela Tá Voando 2.0\)](https://open.spotify.com/track/2lTXBZaGlHA4V43pBmQpzV) | [Gabi Luthai](https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV) | [Ela É Só Dela \(Ela Tá Voando 2.0\)](https://open.spotify.com/album/6AKzS7OH5Mtf3OQmQwQu70) | 2:55 | 2022-10-10 | 2022-11-29 |
 | [ELA É UM 10](https://open.spotify.com/track/0ZzaOfISh45LGsb3NLz8Yy) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [ELA É UM 10](https://open.spotify.com/album/6zFcmzYKrpJT9rTs9FAovf) | 1:51 | 2022-10-21 | 2022-11-26 |
 | [Embriagado de Saudade](https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Embriagado de Saudade](https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX) | 2:35 | 2022-08-05 |  |
 | [Então Volta](https://open.spotify.com/track/398kKBfVzVZk3WKgslVegy) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Então Volta](https://open.spotify.com/album/37DaFtlhCpwYVDiS8w5c69) | 3:09 | 2022-05-13 | 2022-10-11 |

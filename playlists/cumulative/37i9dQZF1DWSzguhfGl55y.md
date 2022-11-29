@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-109 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
+110 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Im Ascheregen](https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 4:59 | 2022-03-17 |  |
 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 | 2022-03-17 |  |
 | [Jein](https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Außen Top Hits, innen Geschmack](https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy) | 5:54 | 2022-03-17 | 2022-11-21 |
+| [Jein](https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Außen Top Hits, innen Geschmack](https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH) | 5:54 | 2022-11-21 |  |
 | [Kids \(2 Finger an den Kopf\)](https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft II](https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT) | 3:49 | 2022-03-17 |  |
 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 | 2022-03-17 |  |
 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 | 2022-07-21 |  |
@@ -103,7 +104,7 @@
 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 | 2022-03-17 |  |
 | [So wie du bist](https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp) | [MoTrip](https://open.spotify.com/artist/69u5rPwWBKP7pJHpCGB9O5), [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [Mama](https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY) | 4:28 | 2022-03-17 | 2022-07-29 |
 | [Stumm \(Xenja\)](https://open.spotify.com/track/2i7JKHuJsmbVIle3b7rxCx) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Dis Wo Ich Herkomm](https://open.spotify.com/album/22rhzumalcslUugg4P8oBT) | 3:20 | 2022-03-17 | 2022-07-29 |
-| [Stumm \(Xenja\)](https://open.spotify.com/track/3MxUAsVtyFpJHObz3aeIws) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Dis Wo Ich Herkomm](https://open.spotify.com/album/5KCUTya0utfXxt1sXNq7kp) | 3:20 | 2022-07-21 |  |
+| [Stumm \(Xenja\)](https://open.spotify.com/track/3MxUAsVtyFpJHObz3aeIws) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Dis Wo Ich Herkomm](https://open.spotify.com/album/5KCUTya0utfXxt1sXNq7kp) | 3:20 | 2022-07-21 | 2022-11-29 |
 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 | 2022-03-17 |  |
 | [Und was ist jetzt \- Single Version](https://open.spotify.com/track/3GBYS5utUTjLGhmiTKKeam) | [Curse](https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi) | [Curse EP: Famous Five \(with Silbermond\)](https://open.spotify.com/album/6H3hW8IMnRN8ODHsG5uTTr) | 4:13 | 2022-03-17 | 2022-07-22 |
 | [Urlaub fürs Gehirn](https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Urlaub fürs Gehirn](https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR) | 4:01 | 2022-03-17 |  |

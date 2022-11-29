@@ -4,7 +4,7 @@
 
 > Il meglio del jazz italiano, in una selezione speciale a cura degli <a href="spotify:artist:1rWbZmR5D63aZU60lMtVZx">Studio Murena</a>.
 
-156 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
+157 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amanti Di Valore \- 2001 Remaster](https://open.spotify.com/track/639VCzKkpuvvm95vYZuTyf) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Amanti Di Valore](https://open.spotify.com/album/51z3JDln4n8UxadU0KPgTR) | 4:24 | 2022-09-30 | 2022-11-03 |
 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 | 2022-09-30 | 2022-11-03 |
 | [Aperture](https://open.spotify.com/track/6rKtQFk8Lbz2QDD3Jpssn5) | [Collettivo Immaginario](https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2), [Alberto Lincetto](https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62), [Nicolò Masetto](https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq) | [Aperture](https://open.spotify.com/album/6SsRFfNQHautbq2pQHT3Gm) | 3:26 | 2022-11-02 |  |
-| [Arpa e tamburo](https://open.spotify.com/track/1mu0gMpgqraGpXZh0wJf9f) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [Arpa e tamburo](https://open.spotify.com/album/2IARHAh6n5Xfa5tHkbKVzu) | 3:58 | 2022-11-02 |  |
+| [Arpa e tamburo](https://open.spotify.com/track/1mu0gMpgqraGpXZh0wJf9f) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [Arpa e tamburo](https://open.spotify.com/album/2IARHAh6n5Xfa5tHkbKVzu) | 3:58 | 2022-11-02 | 2022-11-29 |
 | [As praias desertas](https://open.spotify.com/track/738Da3DlBn2cBTg3L3xS5b) | [Daniele di Bonaventura](https://open.spotify.com/artist/2FfQ9VP66RZxG0lmiMAKT6), [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Camille Bertault](https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n) | [Eu te amo \(The Music of Tom Jobim\)](https://open.spotify.com/album/6CSPFYEcaEzaC4OR2rQ6NE) | 4:44 | 2022-08-31 | 2022-10-01 |
 | [Avec le temps](https://open.spotify.com/track/5uBpbSDljWMFtKxMYHsmpY) | [Giovanni Guidi](https://open.spotify.com/artist/0VAje6P3IhEGip401fqMAY) | [Avec le temps](https://open.spotify.com/album/5fdgxokqyJvryTNsva6nwr) | 6:33 | 2022-08-31 | 2022-10-01 |
 | [Avò](https://open.spotify.com/track/4MLHNowxBayqfnt4iFy2Jb) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Avò](https://open.spotify.com/album/7DP5eWGJUI7hxPMYv9Co54) | 4:35 | 2022-11-02 |  |
@@ -100,6 +100,7 @@
 | [Love is a Temple](https://open.spotify.com/track/3wj0rOntfKekxkJrqsOU8y) | [Mario Biondi](https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088) | [Beyond](https://open.spotify.com/album/25jvCMfUzOBiwjPoLnRQpy) | 3:36 | 2022-08-31 | 2022-10-01 |
 | [Luz Negra](https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q) | [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7) | [Carioca](https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp) | 5:00 | 2022-09-30 | 2022-11-03 |
 | [LYN](https://open.spotify.com/track/1VcYoVIyPOJRgy8163bXJR) | [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [MAGICAL](https://open.spotify.com/album/0qDJyxOL6E1J4EoHXMbaOn) | 4:05 | 2022-10-06 | 2022-11-03 |
+| [MARIONETTE \(feat\. Danno\)](https://open.spotify.com/track/7EYYeV2YB8qhYC0KtpXpMC) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Danno](https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN) | [MARIONETTE \(feat\. Danno\)](https://open.spotify.com/album/6TCKONF2sJiakUZEoxtpam) | 3:39 | 2022-11-28 |  |
 | [Matias](https://open.spotify.com/track/1iwZBe9UWzlJB68qst8FeL) | [Fabrizio Bosso](https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ), [Javier Girotto](https://open.spotify.com/artist/2spXBSuWcNeXqaq1GxKz25) | [Sol!](https://open.spotify.com/album/6gR6DWjELEjlmszgXKn1Tj) | 3:32 | 2022-08-31 | 2022-10-01 |
 | [Meditazione Urbana](https://open.spotify.com/track/0SMctGz6hAXgbZWCD8DsjZ) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes) | 4:46 | 2022-11-02 |  |
 | [Michelangelo Antonioni \(feat\. Caetano Veloso\)](https://open.spotify.com/track/09AVoedIvM5WqdJA2j4tIb) | [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Que Bom](https://open.spotify.com/album/5026kdJj7O7U2ucEbJQ2LT) | 3:20 | 2022-09-30 | 2022-11-03 |

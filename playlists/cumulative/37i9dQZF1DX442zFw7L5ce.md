@@ -2,7 +2,7 @@
 
 ### [\#GRWM Telugu](https://open.spotify.com/playlist/37i9dQZF1DX442zFw7L5ce)
 
-> Songs that will remind you of the QUEEN you are, while you get ready to slay the world! <br/>Cover : Pooja Hegde
+> Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
 109 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
 

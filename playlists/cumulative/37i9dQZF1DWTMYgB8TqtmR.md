@@ -4,7 +4,7 @@
 
 > It's Hits – bästa och största hitsen just nu.
 
-326 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
+327 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,14 @@
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-12-16 | 2022-02-18 |
 | [Aktiverad](https://open.spotify.com/track/1fFPsFvak7nFZa354u7H1r) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng) | 2:34 | 2022-09-29 | 2022-10-02 |
 | [Aktiverad \(Klick Klack\)](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad \(Klick Klack\)](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 | 2022-09-29 | 2022-11-11 |
-| [Aktiverad \(Remix\)](https://open.spotify.com/track/0pWGH2bShzIr8PEtd3ngey) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Aktiverad \(Remix\)](https://open.spotify.com/album/6Cox8rBFZpO7gDRZ1rzck2) | 1:48 | 2022-11-10 |  |
+| [Aktiverad \(Remix\)](https://open.spotify.com/track/0pWGH2bShzIr8PEtd3ngey) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Aktiverad \(Remix\)](https://open.spotify.com/album/6Cox8rBFZpO7gDRZ1rzck2) | 1:48 | 2022-11-10 | 2022-11-29 |
 | [Aldrig säga aldrig](https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Aldrig säga aldrig](https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8) | 3:10 | 2022-04-07 | 2022-05-04 |
 | [Alien](https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Alien](https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh) | 2:45 | 2021-12-16 | 2022-02-25 |
 | [All I Need \(feat\. Franglish\)](https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [All I Need \(feat\. Franglish\)](https://open.spotify.com/album/0ed4blzp0BbBtJLq0XugJ7) | 2:41 | 2022-11-24 |  |
 | [Alla våra minnen](https://open.spotify.com/track/7kV2ZRMkpozWRusXJ8Lr2q) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Alla våra minnen](https://open.spotify.com/album/7MqregKC8Neq9ab630ZeGI) | 3:10 | 2022-04-21 | 2022-08-26 |
 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 | 2021-12-16 | 2022-01-08 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-21 |  |
+| [Anything You Say](https://open.spotify.com/track/0QybIH9tGbiqh6I2pZsb9b) | [Nike Sellmar](https://open.spotify.com/artist/61drgErIKJq61Lbqdd62GP) | [Anything You Say](https://open.spotify.com/album/3LJS13iiVWy31x8WhEumNA) | 3:04 | 2022-11-28 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-03-31 | 2022-11-04 |
 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 | 2022-11-24 |  |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-03 | 2022-11-11 |

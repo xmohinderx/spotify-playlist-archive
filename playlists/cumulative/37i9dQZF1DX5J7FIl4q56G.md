@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Currents
 
-2,190 songs - 6 day 4 hr 3 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+2,191 songs - 6 day 4 hr 6 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1177,6 +1177,7 @@
 | [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 | 2022-03-03 | 2022-03-18 |
 | [Lunar Eclipse](https://open.spotify.com/track/5y3QjfkAaRtqAOH6UUqvSc) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Reincarnation](https://open.spotify.com/album/6QGnH7XRbACQIqZndEqLLS) | 5:16 | 2022-05-13 | 2022-05-20 |
 | [Lunatic Fringe](https://open.spotify.com/track/5iRYVhTzQLxcrH7gthRJ8t) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMFB …Sides](https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw) | 4:07 | 2022-02-25 | 2022-03-11 |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-28 |  |
 | [LXVE](https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [LXVE](https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi) | 3:11 | 2022-02-25 | 2022-03-11 |
 | [M.O.A.B.](https://open.spotify.com/track/2R5VkpwntZikyvWLoeW0tp) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [M.O.A.B.](https://open.spotify.com/album/0jOS8ADvtpLrB8vkKV5JAx) | 4:04 | 2022-03-03 | 2022-03-11 |
 | [M.U.T.O.](https://open.spotify.com/track/7qUpvrmbGEiRRLBYJ7ahC7) | [HOSTAGE](https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD), [Alleviate](https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm), [Marius Wedler](https://open.spotify.com/artist/4DokQOG2tBlQOin52nhh5M) | [M.U.T.O.](https://open.spotify.com/album/2gysco87M6YpKC4doFe6c4) | 3:39 | 2022-05-27 | 2022-06-07 |

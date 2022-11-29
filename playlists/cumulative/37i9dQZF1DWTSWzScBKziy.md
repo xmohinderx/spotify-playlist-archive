@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-174 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+175 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2022-05-27 | 2022-10-30 |
 | [I'm Open](https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [I'm Open](https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM) | 3:34 | 2022-05-27 | 2022-10-30 |
 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 | 2022-10-29 |  |
+| [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 | 2022-10-29 |  |
 | [If The Lord Builds The House](https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ) | 3:55 | 2022-10-29 | 2022-11-07 |
 | [In You](https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO) | 3:25 | 2022-05-27 |  |
 | [In You](https://open.spotify.com/track/04i7lHNiTQfSnt0FTkL9Oc) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/0dzyMrEMalmslY1kKOPkWG) | 3:25 | 2022-05-27 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-10-29 |  |
 | [You Have My Yes](https://open.spotify.com/track/4qiVh3U2Qgd5RPOWjZcbLU) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Paul Daugherty](https://open.spotify.com/artist/4QU4v85xepqUOPZzHP6Cwc) | [both the night and day are the same to You](https://open.spotify.com/album/30FSDbzkZGcUciU1hCKK0x) | 5:54 | 2022-10-29 |  |
 | [You Win](https://open.spotify.com/track/4PdWih41tMrAtyx5HEubpv) | [Jovan Whyte](https://open.spotify.com/artist/2aSIiyJpZUCU89Ed202JAC) | [You Win](https://open.spotify.com/album/0LGElNOFWB10C2P9nsv5iz) | 3:38 | 2022-05-27 | 2022-10-30 |
-| [Your Glory, My Good](https://open.spotify.com/track/5Cami3MlUbdCUhUZDPw9SM) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Your Glory, My Good](https://open.spotify.com/album/2IjKRlnB7r203mvIIbUlsl) | 3:30 | 2022-10-29 |  |
+| [Your Glory, My Good](https://open.spotify.com/track/5Cami3MlUbdCUhUZDPw9SM) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Your Glory, My Good](https://open.spotify.com/album/2IjKRlnB7r203mvIIbUlsl) | 3:30 | 2022-10-29 | 2022-11-29 |
 | [YOUTH \(spring\)](https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [YOUTH \(spring\)](https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3) | 3:16 | 2022-05-27 | 2022-10-30 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

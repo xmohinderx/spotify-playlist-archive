@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-177 songs - 11 hr 9 min - not published yet
+179 songs - 11 hr 17 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Mule Skinner Blues \(Blue Yodel No\. 8\)](https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:08 | 2022-11-14 |  |
 | [My Diamond Is Too Rough](https://open.spotify.com/track/5wblL7xwegkfOsyJscWrU8) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 5:36 | 2019-06-27 |  |
 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 | 2019-07-25 |  |
+| [New Friends](https://open.spotify.com/track/3UXO74viaatyxa6vIxsK3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 4:15 | 2022-11-28 |  |
 | [Nose On The Grindstone \(OurVinyl Sessions\)](https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 3:24 | 2019-07-25 |  |
 | [Off the Wagon](https://open.spotify.com/track/5DiJtgFAtFQIVZ5OIkXYID) | [Isaac Hoskins](https://open.spotify.com/artist/7FSF3vuIliCSshbpPAnA7E) | [Bender](https://open.spotify.com/album/6pDo5cqQYdCekqJthJFFBk) | 3:38 | 2022-11-21 |  |
 | [Old Man](https://open.spotify.com/track/4WVHW2IphBHRmKpeHkJLYF) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Old Man](https://open.spotify.com/album/5uM3jw9awipHZUyRzxZGSV) | 3:13 | 2019-08-08 |  |
@@ -145,6 +146,7 @@
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2019-06-27 |  |
 | [That Would Be Alright](https://open.spotify.com/track/6Jee1gQ5P42GHckmnGleL2) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Start Right Here](https://open.spotify.com/album/78RCzBIDEJymGU98erPOzG) | 3:22 | 2019-08-23 |  |
 | [The Cowboy In Me \- Yellowstone Edition](https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [The Cowboy In Me \(Yellowstone Edition\)](https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR) | 3:37 | 2021-12-17 |  |
+| [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2022-11-28 |  |
 | [The Humbling River](https://open.spotify.com/track/69GE6yPZZldvqtgBHrKXxg) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [C Is For \(Please Insert Sophomoric Genitalia Reference Here\)](https://open.spotify.com/album/5dKl1Mg0MWV7m4Yhu76b9F) | 5:05 | 2019-06-27 |  |
 | [The Light](https://open.spotify.com/track/4ynqu9dZHY2LeyDzVUjpXc) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [The Light](https://open.spotify.com/album/4bHF4d67wEchsDA8D1AY5K) | 3:58 | 2022-01-03 |  |
 | [The Low Road](https://open.spotify.com/track/2nQG1tuHcVNf2NJcol24oT) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [The Other Life](https://open.spotify.com/album/6dl36IjRdRcQyTrnTNYUK0) | 3:04 | 2021-11-23 |  |

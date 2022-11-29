@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 185625,
       "name": "Cute Boy",
       "url": "https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn"
@@ -4795,7 +4795,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -7110,6 +7110,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d0\u05d7\u05e8\u05d9\u05da (\u200fProd. By Tamar Yahalomy & Yonatan Kalimi)",
+        "url": "https://open.spotify.com/album/7kcDQOhUa1aPr9A7bRlg14"
+      },
+      "artists": [
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170142,
+      "name": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d0\u05d7\u05e8\u05d9\u05da (\u200fProd. By Tamar Yahalomy & Yonatan Kalimi)",
+      "url": "https://open.spotify.com/track/0urIdTVIjmPX5i9dsIusQj"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
         "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
       },
@@ -9145,7 +9163,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 129882,
       "name": "\u05de\u05e1\u05d9\u05d1\u05d4 \u05e1\u05d2\u05d5\u05e8\u05d4",
       "url": "https://open.spotify.com/track/6yxcOGpAvcmrQSuS5hB0Se"
@@ -9395,7 +9413,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 140408,
       "name": "\u05e0\u05e0\u05d4 \u05d1\u05e0\u05e0\u05d4",
       "url": "https://open.spotify.com/track/2un3eax2X0XgvF1ixBlw8O"
@@ -10995,7 +11013,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
       "url": "https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB"

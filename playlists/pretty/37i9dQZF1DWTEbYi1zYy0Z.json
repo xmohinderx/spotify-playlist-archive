@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 39819,
+  "num_followers": 39876,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGQxNWU3ZmY5ZDQ4MmRmMThjNzI0NDU4NDFiYjEzNWY4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDNkZmNkN2ExZTMxY2QzZmI1ZGMxYmJlZGY0Yjg1MGE5",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -113,6 +113,22 @@
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "The Trilogy, Pt. 3: White",
+        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 308092,
+      "name": "Step into Love",
+      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "III",
@@ -145,38 +161,6 @@
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "The Trilogy, Pt. 3: White",
-        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 308092,
-      "name": "Step into Love",
-      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "One More Night - Single Edit",
-      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "A Song for Peace",
@@ -195,6 +179,22 @@
       "duration_ms": 273515,
       "name": "A Song for Peace",
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "One More Night - Single Edit",
+      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
-      "added_at": "2022-10-24 14:43:12",
-      "album": {
-        "name": "Breakthrough (Radio Version)",
-        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 252877,
-      "name": "Breakthrough - Radio Version",
-      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "G-Stream 2-Turn It Up",
@@ -429,20 +413,20 @@
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-10-24 14:43:12",
       "album": {
-        "name": "Step to This",
-        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+        "name": "Breakthrough (Radio Version)",
+        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
       },
       "artists": [
         {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
         }
       ],
-      "duration_ms": 232146,
-      "name": "Step to This",
-      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
+      "duration_ms": 252877,
+      "name": "Breakthrough - Radio Version",
+      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -459,6 +443,22 @@
       "duration_ms": 254346,
       "name": "Stride",
       "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Step to This",
+        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Step to This",
+      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
       "added_at": "2022-10-17 15:45:13",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 261562,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Summertime in Nyc (Instrumental Mix)",
@@ -559,6 +543,22 @@
       "duration_ms": 210179,
       "name": "Summertime in Nyc (Instrumental Mix)",
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 261562,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
       "added_at": "2022-10-24 14:43:12",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
-      "added_at": "2022-11-28 00:59:31",
-      "album": {
-        "name": "Cupid Shuffle",
-        "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 232810,
-      "name": "Cupid Shuffle",
-      "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Donut Jam",
@@ -627,6 +611,22 @@
       "duration_ms": 216437,
       "name": "Donut Jam",
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
+    },
+    {
+      "added_at": "2022-11-29 01:02:05",
+      "album": {
+        "name": "Cupid Shuffle",
+        "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 232810,
+      "name": "Cupid Shuffle",
+      "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Look Both Ways",
-        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Look Both Ways",
-      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Ticket to Pittsburgh",
@@ -769,6 +753,22 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Look Both Ways",
+      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Radio Vibe",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
+        "name": "Piano Tales",
+        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "duration_ms": 248712,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
         "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
         "url": "https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a"
       },
@@ -807,38 +823,6 @@
       "duration_ms": 293280,
       "name": "Weekend Groove",
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Piano Tales",
-        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 248712,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -859,6 +843,22 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
       "added_at": "2022-07-01 04:02:00",

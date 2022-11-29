@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Luis Vazquez ",
+  "description": "Lo nuevo del mundo tropical. Cover: Christian Alicea ",
   "name": "el nuevo tropical",
   "published_playlist_ids": [
     "2Ht3c63z2gjsw6cH26GdKD"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1 Millon",
+        "url": "https://open.spotify.com/album/28wVEWil46hss81yatWiDR"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198950,
+      "name": "1 Millon",
+      "url": "https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R"
+    },
     {
       "album": {
         "name": "100 A\u00f1os",
@@ -405,6 +423,24 @@
       "duration_ms": 240555,
       "name": "Besame XXX",
       "url": "https://open.spotify.com/track/3Vpw562wr7JptY0d2HwrfG"
+    },
+    {
+      "album": {
+        "name": "Bluetooth",
+        "url": "https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj"
+      },
+      "artists": [
+        {
+          "name": "Brenda Aliendro",
+          "url": "https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160560,
+      "name": "Bluetooth",
+      "url": "https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz"
     },
     {
       "album": {
@@ -1738,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203327,
+      "name": "Me Voy a Quitar de en Medio",
+      "url": "https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us"
+    },
+    {
+      "album": {
         "name": "Mereng\u00f3n",
         "url": "https://open.spotify.com/album/23DfVLJCPAjFJNCXcFJAOk"
       },
@@ -2534,6 +2588,28 @@
     },
     {
       "album": {
+        "name": "Que Rica",
+        "url": "https://open.spotify.com/album/7dCSJbxphSUmZjMTDziBSJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        },
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219601,
+      "name": "Que Rica",
+      "url": "https://open.spotify.com/track/0GFhxvcbEKTzsc8VjiLipD"
+    },
+    {
+      "album": {
         "name": "Que Se Vayan Ya",
         "url": "https://open.spotify.com/album/2LhM6MMQ9gQ98x6aNtmPaG"
       },
@@ -2875,6 +2951,28 @@
       "duration_ms": 183250,
       "name": "Si Acaso Vuelves",
       "url": "https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP"
+    },
+    {
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "album": {

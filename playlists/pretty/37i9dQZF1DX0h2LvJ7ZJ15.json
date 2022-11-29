@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 597636,
+  "num_followers": 599244,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0ODg2MCwwMDAwMDAwMDlmMmQ1NGZmMWM0MGZmYmI1MmVjYWUyM2Q3MWI2ZWE5",
+  "snapshot_id": "MTY2ODE0ODg2MCwwMDAwMDAwMGE2ZDJkNWRhMzZlN2M0NmVhODZiODhkNzhhMDI4Y2Ey",
   "tracks": [
     {
       "added_at": "2022-10-07 04:56:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
-        "name": "Mary On A Cross (slowed + reverb)",
-        "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 274783,
-      "name": "Mary On A Cross - slowed + reverb",
-      "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
         "name": "No Idea (DJ Purpberry Chopped and Screwed)",
         "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 117399,
       "name": "vendetta! - Slowed + Reverb",
       "url": "https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
+        "name": "Mary On A Cross (slowed + reverb)",
+        "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 274783,
+      "name": "Mary On A Cross - slowed + reverb",
+      "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
     },
     {
       "added_at": "2022-10-07 04:56:00",

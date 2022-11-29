@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 447598,
+  "num_followers": 447627,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NzYwNywwMDAwMDAwMGI5NTljNjczOGFmMjVjMTJjOGE3YTFjNThjN2Q4Yzhj",
+  "snapshot_id": "MTY2ODE0NzYwNywwMDAwMDAwMDgwOWI1NmMyODkzNTllMTBkMWQ4NDdlYTBmN2I1Njg5",
   "tracks": [
     {
       "added_at": "2022-11-11 06:15:22",
@@ -113,22 +113,6 @@
       "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
-      "added_at": "2022-09-30 02:46:01",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 277239,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
-    },
-    {
       "added_at": "2022-07-15 05:29:55",
       "album": {
         "name": "Eat Your Own Ears Recordings EP 1",
@@ -145,20 +129,20 @@
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
     },
     {
-      "added_at": "2022-09-21 01:58:52",
+      "added_at": "2022-09-30 02:46:01",
       "album": {
-        "name": "C.A.",
-        "url": "https://open.spotify.com/album/5UguzHZtztr352RQ9froFT"
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 186624,
-      "name": "C.A.",
-      "url": "https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803"
+      "duration_ms": 277239,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
     },
     {
       "added_at": "2022-09-27 23:10:12",
@@ -175,6 +159,22 @@
       "duration_ms": 300392,
       "name": "Right to Riot",
       "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
+    },
+    {
+      "added_at": "2022-09-21 01:58:52",
+      "album": {
+        "name": "C.A.",
+        "url": "https://open.spotify.com/album/5UguzHZtztr352RQ9froFT"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 186624,
+      "name": "C.A.",
+      "url": "https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803"
     },
     {
       "added_at": "2022-08-19 01:55:26",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
     },
     {
-      "added_at": "2022-10-06 00:12:04",
-      "album": {
-        "name": "Puppy (Feel The Beat Mix)",
-        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Puppy - Feel The Beat Mix",
-      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
-    },
-    {
       "added_at": "2022-07-15 18:13:54",
       "album": {
         "name": "Eden Portal",
@@ -315,6 +299,22 @@
       "duration_ms": 366500,
       "name": "Eden Portal",
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
+      "added_at": "2022-10-06 00:12:04",
+      "album": {
+        "name": "Puppy (Feel The Beat Mix)",
+        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Puppy - Feel The Beat Mix",
+      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
     },
     {
       "added_at": "2022-01-21 20:14:08",
@@ -353,26 +353,6 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
-      "added_at": "2022-07-08 04:48:31",
-      "album": {
-        "name": "Closer (Daniel Avery Edit)",
-        "url": "https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G"
-      },
-      "artists": [
-        {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
-        },
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 246696,
-      "name": "Closer - Daniel Avery Edit",
-      "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -391,6 +371,26 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-07-08 04:48:31",
+      "album": {
+        "name": "Closer (Daniel Avery Edit)",
+        "url": "https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G"
+      },
+      "artists": [
+        {
+          "name": "Rolo Tomassi",
+          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 246696,
+      "name": "Closer - Daniel Avery Edit",
+      "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
       "added_at": "2022-08-03 03:56:04",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "So",
-        "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 279501,
-      "name": "So",
-      "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
-    },
-    {
       "added_at": "2022-08-19 02:33:31",
       "album": {
         "name": "Order",
@@ -667,6 +651,22 @@
       "duration_ms": 206657,
       "name": "Warm Fuzzies: The Glory",
       "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "So",
+        "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 279501,
+      "name": "So",
+      "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
       "added_at": "2022-08-31 03:28:18",
       "album": {
         "name": "Solar Plexus",
@@ -855,22 +871,6 @@
       "duration_ms": 291400,
       "name": "bda creature",
       "url": "https://open.spotify.com/track/6dnZv0EmSwCoBq91rFK0IH"
-    },
-    {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     }
   ],
   "unique_name": "Genre Glitch",

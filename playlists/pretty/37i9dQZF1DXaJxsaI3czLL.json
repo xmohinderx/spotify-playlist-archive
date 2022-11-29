@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 117859,
+  "num_followers": 117891,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTU2MTIwMCwwMDAwMDAwMDIyY2JlNWQzMmFmMzJlN2ZiNTE3MjA2ZDFjYzQwNDJk",
+  "snapshot_id": "MTY2OTU2MTIwMCwwMDAwMDAwMDQ3NWFlZjg3OTM1ZDRlZmYyNDdlZjUzMWQwOGQyYzVi",
   "tracks": [
     {
       "added_at": "2022-11-27 15:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-11-27 15:00:00",
       "album": {
-        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 344749,
-      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2022-11-27 15:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-11-27 15:00:00",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
+      "duration_ms": 344749,
+      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
     },
     {
       "added_at": "2022-11-27 15:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-11-27 15:00:00",
       "album": {
-        "name": "Retronym",
-        "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
-      },
-      "artists": [
-        {
-          "name": "NRQ",
-          "url": "https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
-      "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
-    },
-    {
-      "added_at": "2022-11-27 15:00:00",
-      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-11-27 15:00:00",
       "album": {
-        "name": "Apartment",
-        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
+        "name": "Retronym",
+        "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
       },
       "artists": [
         {
-          "name": "Hikaru Arata",
-          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+          "name": "NRQ",
+          "url": "https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf"
         }
       ],
-      "duration_ms": 243846,
-      "name": "Apartment",
-      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
+      "duration_ms": 161813,
+      "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
+      "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
     },
     {
       "added_at": "2022-11-27 15:00:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 242573,
       "name": "Beautiful Sleep",
       "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
+    },
+    {
+      "added_at": "2022-11-27 15:00:00",
+      "album": {
+        "name": "Apartment",
+        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Arata",
+          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+        }
+      ],
+      "duration_ms": 243846,
+      "name": "Apartment",
+      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
     },
     {
       "added_at": "2022-11-27 15:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-27 15:00:00",
       "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
-    },
-    {
-      "added_at": "2022-11-27 15:00:00",
-      "album": {
         "name": "BLUEHARLEM",
         "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
+    },
+    {
+      "added_at": "2022-11-27 15:00:00",
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

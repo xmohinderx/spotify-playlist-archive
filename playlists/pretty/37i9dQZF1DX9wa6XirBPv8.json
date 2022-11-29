@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1389244,
+  "num_followers": 1389858,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMGZkMWU4MmRhYjQ1YWFkNTU4MmRjMGFlMWVmMDY4ZGYw",
+  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMGMwNjJkNWM0NDQ4YTU3ZTg0M2Y4NWYwOTBjNzEzZjY1",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+      "duration_ms": 161920,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -175,18 +175,34 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 161920,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -203,22 +219,6 @@
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2022-08-22 21:47:47",
@@ -239,18 +239,34 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -287,22 +303,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Famous Last Words",
-      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 209093,
       "name": "The Downfall Of Us All",
       "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "Famous Last Words",
+      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "If It Means A Lot To You",
-      "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -591,6 +575,38 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "If It Means A Lot To You",
+      "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Dirty Little Secret",
+      "url": "https://open.spotify.com/track/5ZdzNVOmCSp5HFLk0EgvJS"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
         "name": "Dying Is Your Latest Fashion",
         "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 167200,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Dirty Little Secret",
-      "url": "https://open.spotify.com/track/5ZdzNVOmCSp5HFLk0EgvJS"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "In Keeping Secrets Of Silent Earth: 3",
-        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "A Favor House Atlantic",
-      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "The Same Old Blood Rush With A New Touch",
         "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 203626,
       "name": "The Curse of Curves",
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "In Keeping Secrets Of Silent Earth: 3",
+        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "A Favor House Atlantic",
+      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2"
-      },
-      "artists": [
-        {
-          "name": "Matchbook Romance",
-          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
-        }
-      ],
-      "duration_ms": 243746,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 237680,
       "name": "F.C.P.R.E.M.I.X.",
       "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2"
+      },
+      "artists": [
+        {
+          "name": "Matchbook Romance",
+          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
+        }
+      ],
+      "duration_ms": 243746,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Leaving Through The Window",
-        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
+        "name": "Is a Real Boy",
+        "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"
       },
       "artists": [
         {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Punk Rock Princess",
-      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
+      "duration_ms": 255175,
+      "name": "Alive With the Glory of Love",
+      "url": "https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n"
     }
   ],
   "unique_name": "Emo Forever",

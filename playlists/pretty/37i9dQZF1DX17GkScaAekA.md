@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,746 likes - 54 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,748 likes - 54 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 40 | [A Model of the Universe](https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:52 |
 | 41 | [Barber: Adagio for Strings, Op\. 11](https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Samuel Barber \- Adagio \(100th anniversary\)](https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu) | 8:57 |
 | 42 | [Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 \(Spohr\)](https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Soyeon Kate Lee](https://open.spotify.com/artist/1w6YJTzpXOjMCO8bJ66CBb) | [Liszt Complete Piano Music, Vol\. 38: Transcriptions and Arrangements of Handel, Gounod, Spohr & Raff](https://open.spotify.com/album/3Q4kJgSNcPqfbaBNzlXEcz) | 4:47 |
-| 43 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 |
+| 43 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6VnSkysUFuLEayG0LIQlVF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Debussy, Ravel: Piano Music](https://open.spotify.com/album/0RnAJzvGCJPn7igIlHGBsQ) | 4:32 |
 | 44 | [Orphée Suite: VI\. Orphée's Return](https://open.spotify.com/track/1NYElq76ajtGZWEOubEK8b) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Paul Barnes](https://open.spotify.com/artist/0kCnsDiTKJdgcugllOjbXN) | [Philip Glass: The Orphée Suite for Piano](https://open.spotify.com/album/5fPm1IKxHPRFOeZIU40f58) | 7:51 |
 | 45 | [Rondeau: Paula](https://open.spotify.com/track/5GeLatpepLly0qTAqP5VHm) | [Jean Rondeau](https://open.spotify.com/artist/2KodXBuxZLmcqy3R1Oun4g), [Laurent Muller](https://open.spotify.com/artist/6ZAxbpBVkZB2ydRapWuThE), [Alice Bourlier](https://open.spotify.com/artist/1nTQ9Kn7NvnRHLyHg06EoQ), [Maria Mosconi](https://open.spotify.com/artist/54HcZQKC6S01pMUnUfo6v1), [Tanguy de Williencourt](https://open.spotify.com/artist/2j31b8VuqHDIsGnGMvThiD) | [Paula](https://open.spotify.com/album/1FCRdm2C1zrho2PfZ7tWPy) | 2:41 |
 | 46 | [Spiriteaux](https://open.spotify.com/track/5rpw2ag9jizRl9VdaLNT61) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Spiriteaux](https://open.spotify.com/album/2GZpYfqw49QYOYtGlNg3EQ) | 3:54 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 53 | [Music for a While \(from Oedipus, Z\. 583\)](https://open.spotify.com/track/2gqSse5NXNCpk898aExGqT) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF) | [Night Passages](https://open.spotify.com/album/3rtPQEquVFQAOUntfiPMvC) | 4:10 |
 | 54 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
 
-Snapshot ID: `MTY2ODA5Nzc1MywwMDAwMDAwMDQyYTUzNzNjNmU4ZWZjNmMyODQyZjZkYWZhZDM4YjY5`
+Snapshot ID: `MTY2ODA5Nzc1MywwMDAwMDAwMDBmZWUzOWI2MmViNmQ5NTI0MjRiZDk3ZDM3YmU0M2M1`

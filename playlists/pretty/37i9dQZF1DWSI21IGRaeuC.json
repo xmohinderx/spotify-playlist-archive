@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 11417,
+  "num_followers": 11473,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDZmYmU1NGYxNjA3MWE0YTlkNDU0MjgwMjI0YmQ1NDIx",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDkzYWM3NjBhNmFhMjM1NTM0YWE2ZGRlM2NjZDM1MWE3",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -421,24 +421,20 @@
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B"
+        "name": "Club Vibes Part 01",
+        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
       },
       "artists": [
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 223880,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
+      "duration_ms": 518400,
+      "name": "Geh\u00f6rschadengenerator",
+      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -469,20 +465,24 @@
       "url": "https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Club Vibes Part 01",
-        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
         }
       ],
-      "duration_ms": 518400,
-      "name": "Geh\u00f6rschadengenerator",
-      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
+      "duration_ms": 223880,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
-      },
-      "artists": [
-        {
-          "name": "Low Blow",
-          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "N NIGHT",
@@ -699,6 +683,22 @@
       "duration_ms": 454000,
       "name": "N NIGHT",
       "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
+      },
+      "artists": [
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
     },
     {
       "added_at": "2022-06-10 14:45:01",
@@ -785,24 +785,20 @@
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "So Sweet (Matthias Tanzmann Remix)",
-        "url": "https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5"
+        "name": "The True Secrets",
+        "url": "https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Matthias Tanzmann",
-          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
         }
       ],
-      "duration_ms": 333026,
-      "name": "So Sweet - Matthias Tanzmann Remix",
-      "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
+      "duration_ms": 384115,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -861,20 +857,24 @@
       "url": "https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The True Secrets",
-        "url": "https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i"
+        "name": "So Sweet (Matthias Tanzmann Remix)",
+        "url": "https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5"
       },
       "artists": [
         {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
         }
       ],
-      "duration_ms": 384115,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
+      "duration_ms": 333026,
+      "name": "So Sweet - Matthias Tanzmann Remix",
+      "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
     },
     {
       "added_at": "2022-06-17 04:01:00",

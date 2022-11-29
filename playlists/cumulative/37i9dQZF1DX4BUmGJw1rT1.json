@@ -1043,6 +1043,28 @@
     {
       "album": {
         "name": "He Was a Friend of Mine",
+        "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
+      },
+      "artists": [
+        {
+          "name": "Tom Freund",
+          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197739,
+      "name": "He Was a Friend of Mine",
+      "url": "https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn"
+    },
+    {
+      "album": {
+        "name": "He Was a Friend of Mine",
         "url": "https://open.spotify.com/album/2kFK4iDjsStJ0fgFjZOfag"
       },
       "artists": [
@@ -1407,7 +1429,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 332310,
       "name": "If You're Gonna Leave Me",
       "url": "https://open.spotify.com/track/1XtppgAPSCRwfDlLy2Rv4a"

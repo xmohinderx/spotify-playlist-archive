@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-339 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+341 songs - 22 hr 53 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-16 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP) | 3:04 | 2020-11-05 |  |
-| [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-04-26 |  |
+| [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-04-26 | 2022-11-29 |
 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 | 2022-06-01 |  |
 | [Blame It on My Youth](https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:17 | 2021-01-21 | 2022-06-01 |
 | [Blame It On My Youth](https://open.spotify.com/track/6uq779w0sV8nS7MSPAlHvY) | [The Lenny Ryan Trio](https://open.spotify.com/artist/4PygpE5Q24zDtDvRHUEV4E) | [Blame It On My Youth](https://open.spotify.com/album/1PmJCSHqGdX1YATC6CKiSE) | 4:45 | 2020-10-20\* | 2021-01-21 |
@@ -128,6 +128,7 @@
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2021-10-01 |  |
 | [I Only Have Eyes for You](https://open.spotify.com/track/2ripUOoce7Cc9A26fQAoxE) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 3:27 | 2020-10-20\* | 2021-01-21 |
 | [I Remember You \- Remastered](https://open.spotify.com/track/5mXNuN2Mxd8y0i051Dv6uC) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:52 | 2021-01-21 | 2021-03-10 |
+| [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-11-24 |  |
 | [I Should Care](https://open.spotify.com/track/1AlVEuRHDTK0ozcFrgF6mf) | [Gregory Silver](https://open.spotify.com/artist/27EDLqLD3ymWe2mcyMNjhw) | [Tea For Two EP](https://open.spotify.com/album/7n96Uwf6DeQkSaG1J4NtzD) | 3:15 | 2020-10-20\* | 2022-09-10 |
 | [I Sing This Song for You](https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:38 | 2021-01-21 | 2022-10-31 |
 | [I Will Wait For You](https://open.spotify.com/track/0YFqTbYqglQhH2mkj1Cb1z) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [I Will Wait For You](https://open.spotify.com/album/0O6hlZssMqH4QAG1zDoWhH) | 2:16 | 2021-06-18 | 2022-10-08 |
@@ -146,6 +147,7 @@
 | [If You Could See Me Now](https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [If You Could See Me Now](https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm) | 4:15 | 2022-08-10 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/1pmJqguzNoGzzV7Ik36Ptz) | [Domingo Ruiz](https://open.spotify.com/artist/2aGFMdirMckTtP8J6A0Vpx) | [If You Could See Me Now](https://open.spotify.com/album/0LtWRbwbQfGTwXSN0ncFIZ) | 2:57 | 2020-10-20\* | 2020-12-09 |
 | [Ill Wind](https://open.spotify.com/track/1fGWnQDdV8CTQoB2Fdh7en) | [Gustav Scheringer Duo](https://open.spotify.com/artist/3CfxR9NQPgG8w5QumsF3ca) | [Ill Wind](https://open.spotify.com/album/5i2aRJc5JY9sZP4yNhT3lO) | 5:26 | 2020-10-20\* | 2022-08-14 |
+| [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-11-24 |  |
 | [in a sentimental mood](https://open.spotify.com/track/202XN6CAnO0d2XzCbCtPvI) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [I left my heart in San Francisco](https://open.spotify.com/album/2MGGSNeNpJWgxqw48z0IV2) | 4:14 | 2020-10-20\* | 2021-01-21 |
 | [In a Sentimental Mood](https://open.spotify.com/track/7JNNtslGExM27L7sCMzQiS) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a Sentimental Mood](https://open.spotify.com/album/5rOOiUweJ8OZ7eDqlRHURS) | 4:34 | 2021-02-24 | 2022-10-08 |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-06-01 |  |
@@ -221,7 +223,7 @@
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-02-02 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-06-01 |  |
 | [Nuages](https://open.spotify.com/track/3uhqvSTHzgDeTpsTriYQG0) | [Dan Eifler](https://open.spotify.com/artist/78SnoNKuvk2IpHtOojhf9T) | [Teach Me Tonight](https://open.spotify.com/album/4KepWEHEQFDYfvJR4SebwZ) | 3:48 | 2020-10-20\* | 2021-01-21 |
-| [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 | 2020-12-09 |  |
+| [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 | 2020-12-09 | 2022-11-29 |
 | [Oh Good Grief](https://open.spotify.com/track/2Xa7KXq1fLZ6A4WyQSU6kF) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:08 | 2020-10-20\* | 2021-01-21 |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2020-10-20\* | 2020-12-15 |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2020-10-20\* |  |

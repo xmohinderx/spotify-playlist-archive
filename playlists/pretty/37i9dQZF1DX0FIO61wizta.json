@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 60717,
+  "num_followers": 60753,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGQ5NGZlMmI0OWUwMDQ0ZmE5NDM0YTg3YjM3ZmVmYjM5",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDMyYTQ2MzExMGE3OWZlNTFiYTg2YTdjYWViNzQ4ZTU3",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -715,46 +715,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Rigoletto - Highlights",
-        "url": "https://open.spotify.com/album/48AEXVEQNEgVfgV0krkxZI"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Renato Bruson",
-          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
-        },
-        {
-          "name": "Edita Gruberova",
-          "url": "https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0"
-        },
-        {
-          "name": "Neil Shicoff",
-          "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
-        },
-        {
-          "name": "Brigitte Fassbaender",
-          "url": "https://open.spotify.com/artist/4BhpzQLhDh71GNvzKraKsu"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Rigoletto / Act 3: \"Bella figlia dell'amore\"",
-      "url": "https://open.spotify.com/track/6E2M3tcn1YJiQHorpGnpxY"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Trovatore (Il)",
         "url": "https://open.spotify.com/album/2kVWXeLcNkNmZO5u0dONiH"
       },
@@ -815,6 +775,46 @@
       "duration_ms": 146520,
       "name": "Il trovatore: Act I: Di tale amor che dirsi",
       "url": "https://open.spotify.com/track/7v5UuWX5bVomJtrKs7eHul"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Rigoletto - Highlights",
+        "url": "https://open.spotify.com/album/48AEXVEQNEgVfgV0krkxZI"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Renato Bruson",
+          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
+        },
+        {
+          "name": "Edita Gruberova",
+          "url": "https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0"
+        },
+        {
+          "name": "Neil Shicoff",
+          "url": "https://open.spotify.com/artist/1n9yPqM0i14Ny5KLZ3QJfZ"
+        },
+        {
+          "name": "Brigitte Fassbaender",
+          "url": "https://open.spotify.com/artist/4BhpzQLhDh71GNvzKraKsu"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Rigoletto / Act 3: \"Bella figlia dell'amore\"",
+      "url": "https://open.spotify.com/track/6E2M3tcn1YJiQHorpGnpxY"
     },
     {
       "added_at": "2022-06-27 14:42:44",

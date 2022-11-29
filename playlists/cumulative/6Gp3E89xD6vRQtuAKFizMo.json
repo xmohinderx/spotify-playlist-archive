@@ -2120,6 +2120,28 @@
     },
     {
       "album": {
+        "name": "Toxic Rain (prod. David Mugratsch) [VIP Mix]",
+        "url": "https://open.spotify.com/album/0YDquXUQDJ58JD6fp7XTzR"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "David Mugratsch",
+          "url": "https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116308,
+      "name": "Toxic Rain (prod. David Mugratsch) - VIP Mix",
+      "url": "https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi"
+    },
+    {
+      "album": {
         "name": "Tuxedo (feat. 24hrs)",
         "url": "https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk"
       },
@@ -2433,7 +2455,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 189595,
       "name": "Young & Lit (feat. Bok Nero)",
       "url": "https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN"

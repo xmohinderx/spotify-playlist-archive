@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=Sc\-Svwx5Tdm5QCYsoAD6XQ">MaWhoo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,440 likes - 49 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,137 likes - 49 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 14404,
+  "num_followers": 14419,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMDE4M2I2OTg0Yzg5ODU2MDFmNGE5NTlhMjJhNDRlZmNk",
+  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMGM3Nzg2M2Y1OGE3YzE1NDAxZDYzYWNhMjhlMGViOWEw",
   "tracks": [
     {
       "added_at": "2022-08-01 21:43:45",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "Negro Drama",
+      "url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 219334,
       "name": "Planos",
       "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
-        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 411866,
-      "name": "Negro Drama",
-      "url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8"
     },
     {
       "added_at": "2022-08-01 21:43:45",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
         "name": "Heresia",
         "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
       },
@@ -431,42 +447,6 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
-        "name": "Mandona (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Mandona - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
         "name": "Com os Neur\u00f4nios Evoluidos",
         "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 231240,
       "name": "Convoque Seu Buda",
       "url": "https://open.spotify.com/track/2FtVRCIZmGxORMNVyHKLbg"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
+        "name": "Mandona (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Mandona - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6"
     },
     {
       "added_at": "2022-08-01 21:43:45",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
+        "name": "Wallpaper",
+        "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        }
+      ],
+      "duration_ms": 191798,
+      "name": "Wallpaper",
+      "url": "https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 249490,
       "name": "Castelos & Ru\u00ednas",
       "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
-        "name": "Wallpaper",
-        "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
-      },
-      "artists": [
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        }
-      ],
-      "duration_ms": 191798,
-      "name": "Wallpaper",
-      "url": "https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1"
     },
     {
       "added_at": "2022-08-01 21:43:45",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
         "name": "The Cypher Deffect 2",
         "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
       },
@@ -1239,8 +1259,8 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
+        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
+        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
       },
       "artists": [
         {
@@ -1248,13 +1268,17 @@
           "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+          "name": "Santzu",
+          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         }
       ],
-      "duration_ms": 186709,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
+      "duration_ms": 294913,
+      "name": "Vem Tranquilo",
+      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
     },
     {
       "added_at": "2022-08-01 21:43:45",
@@ -1331,30 +1355,6 @@
       "duration_ms": 300042,
       "name": "Estilo Vagabundo 1",
       "url": "https://open.spotify.com/track/5Yxn11dDQeByH8mdA1Tgoa"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
-        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
-        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Santzu",
-          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 294913,
-      "name": "Vem Tranquilo",
-      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

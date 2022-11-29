@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 286340,
+  "num_followers": 286400,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDQ3NGJkNTFiZGY4ZGNkMjNhMjNkNGVjNWEyZjJmNGQ5",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDIxMGM4N2NmN2ExMzcxYmFjZGM1ZmI1NzBlOWI0NDVh",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Navidad, Navidad",
+      "url": "https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE"
       },
@@ -219,38 +235,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Por Ti - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Navidad, Navidad",
-      "url": "https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/0RmTfZy4N0l2q7EAzrbXH9"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 221520,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3ERzzgIgx84qcS8RtUrjRO"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Por Ti - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -379,6 +379,30 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Lleg\u00f3 la Navidad",
+        "url": "https://open.spotify.com/album/4XqCASKfjF950apeiJkmmt"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Generacion Escogida",
+          "url": "https://open.spotify.com/artist/3zdXxojrGhIyEgKvHABKim"
+        },
+        {
+          "name": "Christian Nieves",
+          "url": "https://open.spotify.com/artist/6WRxocw99UTRWQyHgLhVuJ"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "Lleg\u00f3 la Navidad",
+      "url": "https://open.spotify.com/track/0Biqb9UJEsimAKNSxTuJYM"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Los Peces En El R\u00edo",
         "url": "https://open.spotify.com/album/2Xa5PK3vGkxnmonjoOBX89"
       },
@@ -415,30 +439,6 @@
       "duration_ms": 156213,
       "name": "Los Peces En El R\u00edo",
       "url": "https://open.spotify.com/track/5p1pTmxWcGcCXO7czBADDB"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Lleg\u00f3 la Navidad",
-        "url": "https://open.spotify.com/album/4XqCASKfjF950apeiJkmmt"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Generacion Escogida",
-          "url": "https://open.spotify.com/artist/3zdXxojrGhIyEgKvHABKim"
-        },
-        {
-          "name": "Christian Nieves",
-          "url": "https://open.spotify.com/artist/6WRxocw99UTRWQyHgLhVuJ"
-        }
-      ],
-      "duration_ms": 223695,
-      "name": "Lleg\u00f3 la Navidad",
-      "url": "https://open.spotify.com/track/0Biqb9UJEsimAKNSxTuJYM"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Santa, Te Espero A Las 10",
-        "url": "https://open.spotify.com/album/4zPbYPL2cP6MD8cDyXQ6fi"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Santa, Te Espero A Las 10",
-      "url": "https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Navidad Con Tatiana",
         "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 183772,
       "name": "Los Peces en el Rio",
       "url": "https://open.spotify.com/track/5ZqjpXE2c5ek9jJ3CpHGA9"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Santa, Te Espero A Las 10",
+        "url": "https://open.spotify.com/album/4zPbYPL2cP6MD8cDyXQ6fi"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Santa, Te Espero A Las 10",
+      "url": "https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Navidad Con Tatiana",
-        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
-      },
-      "artists": [
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 153705,
-      "name": "Arre Borriquito",
-      "url": "https://open.spotify.com/track/3la1H2hlydLcLzvMiOtojp"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Mi Navidad (Remastered)",
         "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+        "name": "Navidad Con Tatiana",
+        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
         }
       ],
-      "duration_ms": 221302,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+      "duration_ms": 153705,
+      "name": "Arre Borriquito",
+      "url": "https://open.spotify.com/track/3la1H2hlydLcLzvMiOtojp"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -771,6 +755,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 221302,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Posada",
         "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 187933,
       "name": "Adeste Fideles",
       "url": "https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Navidad Con Tatiana",
-        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
-      },
-      "artists": [
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 207152,
-      "name": "Feliz A\u00f1o Nuevo, Feliz Navidad",
-      "url": "https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 128729,
       "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Navidad Con Tatiana",
+        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 207152,
+      "name": "Feliz A\u00f1o Nuevo, Feliz Navidad",
+      "url": "https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
+      },
+      "artists": [
+        {
+          "name": "Parchis",
+          "url": "https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Ya Viene la Vieja",
+      "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6"
       },
@@ -967,6 +983,26 @@
       "duration_ms": 243626,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/0dpvn7oYZIBFXGaug3SbV8"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1003,26 +1039,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Amor Navide\u00f1o",
         "url": "https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 225125,
       "name": "Santa Quiero",
       "url": "https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
-      },
-      "artists": [
-        {
-          "name": "Parchis",
-          "url": "https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Ya Viene la Vieja",
-      "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Este Diciembre",
+        "url": "https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Este Diciembre",
+      "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Laura Xmas (Deluxe)",
         "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 181146,
       "name": "Va a nevar (with the Patrick Williams Orchestra)",
       "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Este Diciembre",
-        "url": "https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Este Diciembre",
-      "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 215851,
-      "name": "Mis Deseos",
-      "url": "https://open.spotify.com/track/1s3oRXdJVLMPvsqCZMOGxz"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Navidad Sin Ti",
         "url": "https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 209739,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 215851,
+      "name": "Mis Deseos",
+      "url": "https://open.spotify.com/track/1s3oRXdJVLMPvsqCZMOGxz"
     },
     {
       "added_at": "2022-11-25 05:00:00",

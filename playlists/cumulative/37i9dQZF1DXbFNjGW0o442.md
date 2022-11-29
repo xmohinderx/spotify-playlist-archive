@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Marion Raw.
 
-220 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
+221 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 | 2022-01-20 | 2022-07-15 |
 | [Como una Loba](https://open.spotify.com/track/29tQfkBARLAFauXxjlogvv) | [Pequeño Bambi](https://open.spotify.com/artist/3n1OdWz1pWxa0GjpjFtLmH) | [Como una Loba](https://open.spotify.com/album/07hW7tEa9LNg3mI2b1lHbX) | 3:17 | 2022-01-20 | 2022-07-26 |
 | [Confusion](https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj) | [Actitud María Marta](https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea) | [Acorralar a la Bestia](https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe) | 5:31 | 2022-01-20 |  |
+| [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 | 2022-11-29 |  |
 | [Corazón Licántropo](https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 4:09 | 2022-01-20 |  |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-03-08 |  |
 | [Creo](https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:53 | 2022-01-20 |  |
@@ -97,7 +98,7 @@
 | [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 |  |
 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 | 2022-09-27 |
 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 | 2022-01-20 |  |
-| [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-13 |  |
+| [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-11 |  |
 | [Imagina](https://open.spotify.com/track/36YLNt1sPqaFJw2LXyXHZH) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Latidos y Culebras](https://open.spotify.com/album/3AP47uH2hSqW7k1xeJcEFF) | 3:11 | 2022-01-20 | 2022-07-26 |
 | [Infierno](https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN) | [Afterlife](https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm) | [Mil Gritos Tiene la Noche, Vol\. 1](https://open.spotify.com/album/6JkIhyOobANHUF235OWntk) | 4:29 | 2022-01-20 | 2022-07-27 |
 | [Keep The Horse](https://open.spotify.com/track/6FxzdvawNcoSKOyWnodIao) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Kellies](https://open.spotify.com/album/0aYjQDM6UX9HlB7Ugzjlnt) | 2:01 | 2022-01-20 | 2022-07-24 |
@@ -105,7 +106,7 @@
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2022-01-20 |  |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-01-20 |  |
 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 | 2022-01-20 | 2022-10-26 |
-| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-12 |  |
+| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 |  |
 | [La Voz de Iemanya](https://open.spotify.com/track/4niTRWovfbM4093jChuCuu) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [La Voz de Iemanya](https://open.spotify.com/album/5kZeMUMDGm2b6rgBvCRpHN) | 3:37 | 2022-01-20 | 2022-07-29 |
 | [La Vuelta de Adán](https://open.spotify.com/track/61MJzxnWfquKkns6ImXYgh) | [Mirtha Defilpo](https://open.spotify.com/artist/5jN2wYqhUCltMC9RnxavSa), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Canciones para Perdedores](https://open.spotify.com/album/4aKGpSwyYPNswB5InDZqvm) | 2:49 | 2022-01-20 | 2022-07-11 |
 | [Las Horas Se Destiñen](https://open.spotify.com/track/1ct4eypbDqzT2r3Xd78q04) | [Púrpura](https://open.spotify.com/artist/3htuTMjp7p0JS7sL8NhlXl) | [Púrpura](https://open.spotify.com/album/0LbklSYO5D9ECDjePxZfFd) | 3:39 | 2022-01-20 | 2022-07-22 |
@@ -212,14 +213,14 @@
 | [Tormenta](https://open.spotify.com/track/78Zb0J40S65I818RCqyjz5) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Tormenta](https://open.spotify.com/album/06vxDpg3EJvkv2FzFuq572) | 3:59 | 2022-01-20 | 2022-07-28 |
 | [Transformarme](https://open.spotify.com/track/4rkf8GAsnpt2zed4MVqf7l) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 3:23 | 2022-07-15 | 2022-07-29 |
 | [Tu Caminar](https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:40 | 2022-01-20 | 2022-07-28 |
-| [Tuya](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 | 2022-11-12 |  |
+| [Tuya](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 | 2022-11-11 |  |
 | [Un Mal Sueño](https://open.spotify.com/track/7priZ433GloZU7gGj1IZLI) | [Bloodparade](https://open.spotify.com/artist/4ql688bGGarhYenzPdCzQQ) | [Un Mal Sueño](https://open.spotify.com/album/2Bi7t2H84FYRB9rS5zzvfZ) | 4:01 | 2022-01-20 | 2022-07-29 |
 | [Un Millón de Amigos](https://open.spotify.com/track/07jewZXmvV87jf9WhfNyMY) | [Romina Peluffo](https://open.spotify.com/artist/002eNGtf6Rd05jJbriqoMS) | [Un Millón de Amigos](https://open.spotify.com/album/3KUS8aq2LwgSebO5fx76Sw) | 1:50 | 2022-01-20 | 2022-07-29 |
 | [una mierda](https://open.spotify.com/track/4LHhCe6lsP0SjHCc9p4JUz) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [una mierda](https://open.spotify.com/album/5k0nwJYBXi7ThDotmYzjuq) | 3:09 | 2022-01-20 | 2022-07-29 |
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-01-20 |  |
 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 | 2022-07-15 |  |
 | [Vamos Viendo](https://open.spotify.com/track/6BLNsWM0GsKNBYltVEIe0X) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Y Lo Dejamos Venir](https://open.spotify.com/album/3HSsECEEN0ufcFLw30nCap) | 3:48 | 2022-01-20 | 2022-08-07 |
-| [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 | 2022-01-20 |  |
+| [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 | 2022-01-20 | 2022-11-29 |
 | [Vente Conmigo](https://open.spotify.com/track/4yoj0Vo01nBLb4OI73p3Ba) | [Árida](https://open.spotify.com/artist/5bmRDivRMo2IWCgKn65cpY) | [Días Salvajes](https://open.spotify.com/album/10Sor0ABQEhyfGXNjyt6ex) | 3:16 | 2022-01-20 | 2022-07-29 |
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-01-20 | 2022-07-27 |
 | [Vocales](https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V) | [HTML](https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8) | [17](https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb) | 2:36 | 2022-01-20 | 2022-09-17 |

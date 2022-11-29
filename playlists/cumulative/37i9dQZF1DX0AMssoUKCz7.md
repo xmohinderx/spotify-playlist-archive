@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-538 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+539 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-01 |  |
 | [Maaya](https://open.spotify.com/track/6p8uFTidsF68EHK5p753gU) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5) | [Maaya](https://open.spotify.com/album/6eW0O5Pw4fGnyVBS3avc79) | 3:13 | 2022-01-14 | 2022-04-22 |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-05-20 |  |
-| [Magnificent](https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/38QksNTcfrNeEHAqIQRd6F) | 2:20 | 2022-10-28 |  |
+| [Magnificent](https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/38QksNTcfrNeEHAqIQRd6F) | 2:20 | 2022-10-28 | 2022-11-29 |
 | [Malibu](https://open.spotify.com/track/7J54b6dPrL7obVHhxtSAJf) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Malibu](https://open.spotify.com/album/27kBIneDwz5OgFKNkv0HKG) | 2:27 | 2022-09-30 |  |
 | [Memories \- Remix](https://open.spotify.com/track/2HNVCgBarGerVr2NhfYIVl) | [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Remix Tape](https://open.spotify.com/album/5p7mlL4Sx5QaOmPFL0Lyxu) | 3:00 | 2022-01-14 | 2022-07-29 |
 | [Messiah](https://open.spotify.com/track/3876zu2BcDL39vLkkJGKLZ) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Messiah \(The Mixes\)](https://open.spotify.com/album/7jIoj0HfLJpyzq5aDN1gPh) | 3:04 | 2022-01-14 | 2022-04-20 |
@@ -353,6 +353,7 @@
 | [Once You Go Up \- Original Mix](https://open.spotify.com/track/5Xq0GIfQuQMPGxqKxl2UDe) | [Nungwi](https://open.spotify.com/artist/3vaa2G88L3aJ7YMXNhYZpY) | [Once You Go Up](https://open.spotify.com/album/37mKGlnusMlO8ahWjkxsE0) | 3:29 | 2022-01-21 | 2022-04-08 |
 | [One Call Away](https://open.spotify.com/track/3s4cYYRI8Prz7nqZRVDv8J) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [One Call Away](https://open.spotify.com/album/3xb5jbTtWPyIj52NmMMXm2) | 2:23 | 2022-04-15 |  |
 | [One Day \(Vandaag\) \- Radio Edit](https://open.spotify.com/track/0GSU6yLOJqO10ziQuBLWOE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [One Day \(Vandaag\) \[Radio Edit\]](https://open.spotify.com/album/1N00DzAsGJbOqUgITlQUxU) | 3:39 | 2022-01-14 | 2022-04-08 |
+| [One Headlight](https://open.spotify.com/track/6hR8J7Hk0cED6CIpbJFpwA) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg) | [One Headlight](https://open.spotify.com/album/5rPBVzOPFvvqIsGkzsWkVL) | 2:28 | 2022-11-18 |  |
 | [One More Summer Night](https://open.spotify.com/track/2tLkXhAiKtDG1ygrA7nAJK) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Eva Vinjor](https://open.spotify.com/artist/1qw47pHkgC9PbqlO0Qevgj) | [One More Summer Night](https://open.spotify.com/album/0aKLq4yKXfXihz0T2uyBBA) | 2:43 | 2022-07-01 | 2022-07-29 |
 | [One Night](https://open.spotify.com/track/41CmNFqb3dQV6djcpsGLSj) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [One Night](https://open.spotify.com/album/2i1qNn0UIsTCupkvwYjzES) | 2:36 | 2022-01-14 |  |
 | [Only For The Better](https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Only For The Better](https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl) | 2:48 | 2022-04-01 |  |

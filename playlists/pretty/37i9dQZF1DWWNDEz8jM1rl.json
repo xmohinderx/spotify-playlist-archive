@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 99283,
+  "num_followers": 99333,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDI4ODk3Njg5ZDYyZGJkM2E0NjQwMDQ2OTgzN2U1ODUy",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDY1MjRhMmM2NTlmOTQ4YWM5MmQ2ZTExMjNhMmQzOTk0",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -123,18 +123,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Contra Nosotros?",
-        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
+        "name": "Alegr\u00eda y Gozo 2020",
+        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Banda Alternativa",
+          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
+      "duration_ms": 229272,
+      "name": "Una Se\u00f1al",
+      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -179,22 +183,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Alegr\u00eda y Gozo 2020",
-        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
       "artists": [
         {
-          "name": "Banda Alternativa",
-          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 229272,
-      "name": "Una Se\u00f1al",
-      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
+      "duration_ms": 264826,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Acceso Total Tour Edition",
+        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mi Maestro",
+      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Vive en M\u00ed",
         "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
       },
@@ -259,6 +275,22 @@
       "duration_ms": 234042,
       "name": "Soy Tu Padre",
       "url": "https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -295,38 +327,6 @@
       "duration_ms": 250493,
       "name": "Dame Tus Ojos (feat. Laurie Col\u00f3n)",
       "url": "https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Acceso Total Tour Edition",
-        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mi Maestro",
-      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Soy Bendecido",
+      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "No Hay Nada Imposible",
         "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Soy Bendecido",
-      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "#BendecidoAmen",
         "url": "https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt"
       },
@@ -791,18 +791,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
+        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
       },
       "artists": [
         {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Le Llaman Jesus",
-      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
+      "duration_ms": 259626,
+      "name": "Un adorador",
+      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
-        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Nicold Frias",
-          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 259626,
-      "name": "Un adorador",
-      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
+      "duration_ms": 232360,
+      "name": "Le Llaman Jesus",
+      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
     },
     {
       "added_at": "2020-09-18 05:02:00",

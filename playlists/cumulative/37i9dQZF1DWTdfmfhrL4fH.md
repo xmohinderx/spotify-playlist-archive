@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-527 songs - 1 day 9 hr 2 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+528 songs - 1 day 9 hr 6 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Mouth Of The River](https://open.spotify.com/track/1dekgAFF9uTCqLsklDaCWb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:41 | 2022-05-25 |  |
 | [Move](https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:07 | 2022-05-25 |  |
 | [Move Your Body](https://open.spotify.com/track/29JkmIEHcUg0R4BQ8o4PmJ) | [My Darkest Days](https://open.spotify.com/artist/64g59lHsc4g2jMFokrKDGW) | [My Darkest Days](https://open.spotify.com/album/2vFTIDhi10W1AdzL6GKpgO) | 3:13 | 2022-05-25 |  |
+| [Moving On](https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [From Death To Destiny](https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D) | 4:02 | 2022-05-25 |  |
 | [Moving On](https://open.spotify.com/track/7IiqF2tYiixnpBcFjkocjA) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [From Death To Destiny](https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi) | 4:02 | 2022-05-25 | 2022-11-05 |
 | [My Body](https://open.spotify.com/track/0vz75UFiIRLKJJiBqZ8rc8) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/0MNiO7qCmDHphcsefaAjEy) | 3:41 | 2022-05-25 | 2022-07-26 |
 | [My Disaster](https://open.spotify.com/track/51vrcSF9BauU7OtXXKq42D) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 4:32 | 2022-05-25 | 2022-07-29 |
@@ -348,7 +349,7 @@
 | [One Finger and a Fist](https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2) | 3:06 | 2022-05-25 |  |
 | [One Night Only](https://open.spotify.com/track/3DRZp9kykKCfnaU1Kd2AWY) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [One Night Only](https://open.spotify.com/album/6q0O4Hlf2h3BntR0TAwdTl) | 4:16 | 2022-05-25 | 2022-07-28 |
 | [Our Song](https://open.spotify.com/track/25JGo37w1o4LqeztjPGMp4) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [Formalities](https://open.spotify.com/album/3FLHbz0phIqAWQI55BMHln) | 3:43 | 2022-05-25 | 2022-07-19 |
-| [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 | 2022-05-25 |  |
+| [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 | 2022-05-25 | 2022-11-29 |
 | [Outside](https://open.spotify.com/track/4EjeZcEerQdn05uBd4lzeO) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Notes From The Underground](https://open.spotify.com/album/05ofL0H4dSj3jCuzEtVzZN) | 4:43 | 2022-05-25 | 2022-07-29 |
 | [Over my head](https://open.spotify.com/track/0nobr3bpEbLBCkHpLCo3ZG) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9) | 3:15 | 2022-05-25 | 2022-07-18 |
 | [Painkiller](https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 2:59 | 2022-05-25 |  |

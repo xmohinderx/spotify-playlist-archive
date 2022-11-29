@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-147 songs - 9 hr 32 min - not published yet
+149 songs - 9 hr 36 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Don't Pretend This Isn't Life](https://open.spotify.com/track/6J40JYnrFu0malMYOwapr6) | [Slumberjunkie](https://open.spotify.com/artist/0zAn9gUyAiM0429iD25RV0) | [Don't Pretend This Isn't Life](https://open.spotify.com/album/0CUqcnVzwNrpW37xhzYV9S) | 4:49 | 2022-11-18 |  |
 | [DONT STOP!](https://open.spotify.com/track/7v64y3exJmZAGQW7ttLrKO) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX) | [DONT STOP!](https://open.spotify.com/album/7oPHDjysNX2JLh05u76jLy) | 5:02 | 2022-10-15 | 2022-11-01 |
 | [Dos Blokes](https://open.spotify.com/track/2qHAcmIO5aCy5BDb9pwnSx) | [Orion Agassi](https://open.spotify.com/artist/6NYO4az8FEZJfWwTJM4dud) | [RM Danser](https://open.spotify.com/album/4e39NWGUwTLqu72z2RGvtP) | 5:04 | 2022-10-31 | 2022-11-05 |
+| [Down Together](https://open.spotify.com/track/0cyZ9beolmygVLAsKAWMOS) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS) | [Down Together](https://open.spotify.com/album/4Igef9YV4M3yNaPPraPOFg) | 2:28 | 2022-11-28 |  |
 | [Dream About You](https://open.spotify.com/track/4VLjG1xYxMN7jKgDjqWw9s) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Dream About You](https://open.spotify.com/album/505Swy2YfuiUBAGNjYsQGH) | 4:01 | 2022-11-12 | 2022-11-19 |
 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-18 |  |
 | [DuDuDu](https://open.spotify.com/track/4PfrCntphqH3KEfe2QEJS5) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [DuDuDu](https://open.spotify.com/album/16hjrnSiJDIjmHYpaAy16L) | 3:20 | 2022-10-31 | 2022-11-13 |
@@ -57,6 +58,7 @@
 | [Ghost](https://open.spotify.com/track/6nRh4WwS6Xf8j87U8YFWnh) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Ghost](https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy) | 3:03 | 2022-10-31 | 2022-11-05 |
 | [Glow](https://open.spotify.com/track/42YoJrbvUuBO24EYNBqdqH) | [Asomnia](https://open.spotify.com/artist/5EkRfwQG7aHpXFCXjb67hy), [Diskay](https://open.spotify.com/artist/0jhEMuo7mHO0SS3ikkimR5) | [Glow](https://open.spotify.com/album/18jvNTEJfcATyeePEHd4M7) | 4:12 | 2022-11-04 | 2022-11-13 |
 | [Goin Up](https://open.spotify.com/track/13IZ9V3RSmEnXMdKjEHF4n) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Goin Up](https://open.spotify.com/album/48fBGzVbo9W5c46o01R8hl) | 3:07 | 2022-11-04 | 2022-11-13 |
+| [Good People](https://open.spotify.com/track/31YHoSHFbOu4wOgg34skBq) | [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Good People](https://open.spotify.com/album/71FVP2XraXCJuu7bDEjjrL) | 2:02 | 2022-11-28 |  |
 | [Gushtose](https://open.spotify.com/track/0d0s4aEVoWcO8DyoRVBdCm) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Gushtose](https://open.spotify.com/album/2O4yQ8clSD8CC5s1eDd1p6) | 4:17 | 2022-10-31 | 2022-11-05 |
 | [Hide & Seek](https://open.spotify.com/track/1QsZGlLxvzISodQJeVF8wT) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Nonsens](https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi) | [Hide & Seek](https://open.spotify.com/album/4og9aWRMdUApceZpBldJY4) | 3:49 | 2022-10-15 | 2022-11-01 |
 | [House Magic](https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY) | [Peter Schumann](https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I) | [Deeper Conversations EP](https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR) | 8:01 | 2022-11-04 | 2022-11-13 |

@@ -5732,6 +5732,24 @@
     },
     {
       "album": {
+        "name": "Omnium Gatherum",
+        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364599,
+      "name": "Magenta Mountain",
+      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+    },
+    {
+      "album": {
         "name": "Venus And Mars",
         "url": "https://open.spotify.com/album/4P12KrXWSN8CspOvIuD4rl"
       },

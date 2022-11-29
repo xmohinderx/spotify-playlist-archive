@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 221959,
       "name": "Au Revoir (K\u00e5 S\u00e5 Danmark vol. 2)",
       "url": "https://open.spotify.com/track/7tmHWO1fTrU9T2oCwl4OrM"
@@ -3435,7 +3435,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 212411,
       "name": "Den (u)officielle VM-sang",
       "url": "https://open.spotify.com/track/7rr0ERtwcVJIllxqqTN03s"
@@ -4943,7 +4943,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 221811,
       "name": "Feberdr\u00f8mmer Xx Dubai",
       "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
@@ -5059,7 +5059,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 231080,
       "name": "Finally It's Christmas Again",
       "url": "https://open.spotify.com/track/58K5nAWRgdHtdUdrQaScGv"
@@ -6059,7 +6059,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 140089,
       "name": "Gode Dage, Gode Drinks",
       "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
@@ -6783,7 +6783,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 240689,
       "name": "HERE (For Christmas)",
       "url": "https://open.spotify.com/track/13S94fbOuw2M66UchaCz2k"
@@ -6863,7 +6863,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 187551,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/0WWgeQQ4sklycJK1lR6fmB"
@@ -8021,7 +8021,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -8793,7 +8793,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 359040,
       "name": "Jul Det' Cool",
       "url": "https://open.spotify.com/track/4QOTOTJsJjgrAf0BgnfaRF"
@@ -8811,10 +8811,32 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 239200,
       "name": "Jul i Angora",
       "url": "https://open.spotify.com/track/4LTUBsLeIn8qcopkFwhwK9"
+    },
+    {
+      "album": {
+        "name": "Jul I Valhal",
+        "url": "https://open.spotify.com/album/3XnjrnOFZ3qVtPTuYEIvQE"
+      },
+      "artists": [
+        {
+          "name": "Martin Brygmann",
+          "url": "https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17"
+        },
+        {
+          "name": "Sarah West",
+          "url": "https://open.spotify.com/artist/2d6fU7pGHJDtMXbcX2fpvr"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "Jul i Valhal",
+      "url": "https://open.spotify.com/track/2sYa8IysQXY2F1NiLTqj2Y"
     },
     {
       "album": {
@@ -8873,6 +8895,24 @@
       "duration_ms": 206965,
       "name": "Julefeber",
       "url": "https://open.spotify.com/track/0Q7nzEj102gwTkql3azU8p"
+    },
+    {
+      "album": {
+        "name": "Julehjertets Hemmelighed",
+        "url": "https://open.spotify.com/album/5Kq4xMn9jnLuMozqTKiQGN"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Julehjertets Hemmelighed",
+      "url": "https://open.spotify.com/track/1t11cr48B1olNdfs2TlxHE"
     },
     {
       "album": {
@@ -10657,7 +10697,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-08",
+      "date_removed": null,
       "duration_ms": 175186,
       "name": "Ludvig Og Julemanden",
       "url": "https://open.spotify.com/track/5CfFiZrV7IPYbM7IcP7CMs"
@@ -11091,6 +11131,28 @@
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
       "album": {
@@ -12825,7 +12887,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 206019,
       "name": "Ozonlag A Energi (feat. Niels Brandt)",
       "url": "https://open.spotify.com/track/3fe2pEkW24bNn4WCOt1b0s"
@@ -12883,7 +12945,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 136710,
       "name": "Paid",
       "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
@@ -13543,7 +13605,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 323400,
       "name": "Re-sepp-ten - VM-sang 1986",
       "url": "https://open.spotify.com/track/6UPcylAJnEKnRanHyL64Qb"
@@ -13699,7 +13761,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -13753,7 +13815,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 174367,
       "name": "Romario",
       "url": "https://open.spotify.com/track/7DzV3IBvCHicokoiUCpWda"
@@ -14669,7 +14731,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -15199,7 +15261,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 182816,
       "name": "STOR MAND (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
@@ -15571,7 +15633,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 219802,
       "name": "Tag Mig Med - Fra julekalenderen 'Theo og Den Magiske Talisman'",
       "url": "https://open.spotify.com/track/1fhLYVIe9s7pwYHxtbdiZ1"
@@ -16285,7 +16347,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 158957,
       "name": "Tro P\u00e5 K\u00e6rlighed",
       "url": "https://open.spotify.com/track/5O6qenUvH31dan0pojwLj1"
@@ -16307,7 +16369,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 188499,
       "name": "Tror Kun P\u00e5 \u00c9n Hjulemand (feat. Christopher)",
       "url": "https://open.spotify.com/track/7gB1km97zCmOGTOv5gS6fF"
@@ -16575,7 +16637,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -17587,7 +17649,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

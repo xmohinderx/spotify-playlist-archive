@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 440650,
+  "num_followers": 440705,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTQyNDAyNywwMDAwMDAwMDJlMjZkMjgzNDkzZTc5MzIwNmE5MWU1ZjgwMjIyZDk3",
+  "snapshot_id": "MTY2OTQyNDAyNywwMDAwMDAwMGVmMjZiMGRhYmZkYTZmYjgyNmNlMjU1OWI2M2ZhOGUw",
   "tracks": [
     {
       "added_at": "2022-04-01 16:19:20",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Neon Grave",
-        "url": "https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 239353,
-      "name": "Neon Grave",
-      "url": "https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -207,22 +191,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Resentment",
-        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Brand New Vision",
         "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
@@ -239,6 +207,38 @@
       "duration_ms": 198000,
       "name": "Into The Dark (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Neon Grave",
+        "url": "https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 239353,
+      "name": "Neon Grave",
+      "url": "https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Resentment",
+        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Carry the Weight / From the First Note",
-        "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Carry the Weight",
-      "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Finding God Before God Finds Me (Deluxe)",
         "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 213851,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/2K1ENoIs1y6M5nFdJhLpvU"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Carry the Weight / From the First Note",
+        "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Carry the Weight",
+      "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 216571,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 195390,
       "name": "They Don't Want What We Want (And They Don't Care)",
       "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Do You Feel O.K?",
-        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Holding Me Down",
-      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+        "name": "Do You Feel O.K?",
+        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
       },
       "artists": [
         {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
         }
       ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
+      "duration_ms": 209720,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -539,18 +523,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 235186,
-      "name": "Like a Shadow",
-      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
     },
     {
       "added_at": "2022-11-26 00:53:47",
@@ -583,6 +567,22 @@
       "duration_ms": 261398,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Like a Shadow",
+      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Ghost Like You",
-        "url": "https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 268727,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+        "name": "Ghost Like You",
+        "url": "https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
         }
       ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+      "duration_ms": 268727,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -827,6 +811,22 @@
       "duration_ms": 229896,
       "name": "Hypochondria",
       "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "I'm Hard To Love, But So Are You, Vol. 4",
+        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "wet milk",
         "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "I'm Hard To Love, But So Are You, Vol. 4",
-        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
       "artists": [
         {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
+      "duration_ms": 174733,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -959,22 +975,6 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "The Love You Let Too Close",
-        "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Tradition",
-      "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
-    },
-    {
       "added_at": "2022-11-26 00:53:47",
       "album": {
         "name": "Bye Bye Big Bear",
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+        "name": "The Love You Let Too Close",
+        "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
       },
       "artists": [
         {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
         }
       ],
-      "duration_ms": 227573,
-      "name": "We\u2019ll Always Have Paris",
-      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
+      "duration_ms": 202025,
+      "name": "Tradition",
+      "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
     },
     {
       "added_at": "2022-11-26 00:53:47",
@@ -1247,6 +1231,22 @@
       "duration_ms": 145190,
       "name": "One Blood We Bleed",
       "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "We\u2019ll Always Have Paris",
+      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
-      },
-      "artists": [
-        {
-          "name": "Lilac Kings",
-          "url": "https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT"
-        }
-      ],
-      "duration_ms": 158444,
-      "name": "Drive Me Home",
-      "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 219900,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
+      },
+      "artists": [
+        {
+          "name": "Lilac Kings",
+          "url": "https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT"
+        }
+      ],
+      "duration_ms": 158444,
+      "name": "Drive Me Home",
+      "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Afterlife - Single Edit",
+      "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Disease (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Afterlife - Single Edit",
-      "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1635,22 +1651,6 @@
       "duration_ms": 160701,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
-      },
-      "artists": [
-        {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        }
-      ],
-      "duration_ms": 214057,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
     }
   ],
   "unique_name": "Crash Course",

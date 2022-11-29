@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 8982,
+  "num_followers": 9043,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMGM0NzkwZmQ2YTUzMmRlZTQ2YmZkNGVmMjQwYzk3NDBm",
+  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMDY4ZTVkZDZkODMwMzgwNzExOTBjZDI4Zjc0NDhkOWIy",
   "tracks": [
     {
       "added_at": "2022-11-01 04:02:48",
@@ -407,26 +407,6 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
-      },
-      "artists": [
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 245786,
       "name": "Tel\u00e9fono Remix",
       "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
+      },
+      "artists": [
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -867,6 +867,30 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "Thuggin 4 My Baby",
+        "url": "https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Thuggin 4 My Baby",
+      "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "Playinwitme (Remix) [feat. Jay Park]",
         "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
       },
@@ -907,6 +931,26 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "Dior Socks",
+        "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
+      },
+      "artists": [
+        {
+          "name": "Jay Loud",
+          "url": "https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Dior Socks",
+      "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
@@ -931,50 +975,6 @@
       "duration_ms": 194120,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "Thuggin 4 My Baby",
-        "url": "https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Thuggin 4 My Baby",
-      "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "Dior Socks",
-        "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
-      },
-      "artists": [
-        {
-          "name": "Jay Loud",
-          "url": "https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Dior Socks",
-      "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -2131,34 +2131,6 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "Birthday Gamble",
-        "url": "https://open.spotify.com/album/2oSy345wiVnqgSEqPcTiOK"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 282279,
-      "name": "Birthday - Remix",
-      "url": "https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
         "name": "SOJU (Remix)",
         "url": "https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8"
       },
@@ -2183,6 +2155,34 @@
       "duration_ms": 318747,
       "name": "SOJU - Remix",
       "url": "https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
+        "name": "Birthday Gamble",
+        "url": "https://open.spotify.com/album/2oSy345wiVnqgSEqPcTiOK"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 282279,
+      "name": "Birthday - Remix",
+      "url": "https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG"
     },
     {
       "added_at": "2022-11-01 04:02:48",

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55186,
+  "num_followers": 55189,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MzMwOSwwMDAwMDAwMDMxOTdjZWU3ZWY1MmYxZWFlYmM1N2E1ZGYwZGM5MjRl",
+  "snapshot_id": "MTY2OTM0MzMwOSwwMDAwMDAwMDIxMGU1NDFmZTdlYTFhMDM4MTVjMGM5YjA2OGViMTk0",
   "tracks": [
     {
       "added_at": "2022-09-29 23:31:37",
@@ -247,6 +247,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Pa' Eso Se Hizo",
+        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Pa' Eso Se Hizo",
+      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "INESTABLE",
         "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
       },
@@ -279,22 +299,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Pa' Eso Se Hizo",
-        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         }
       ],
-      "duration_ms": 149600,
-      "name": "Pa' Eso Se Hizo",
-      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -339,22 +355,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Me Doli\u00f3",
         "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
       },
@@ -383,26 +383,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -455,6 +455,22 @@
       "duration_ms": 207499,
       "name": "La Oportunidad - Spotify Singles",
       "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -499,22 +515,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "LA PUERTA",
         "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
       },
@@ -527,26 +527,6 @@
       "duration_ms": 183225,
       "name": "LA PUERTA",
       "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
-        }
-      ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -583,6 +563,26 @@
       "duration_ms": 189986,
       "name": "Pereza",
       "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Mala Suerte",
-        "url": "https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33"
-      },
-      "artists": [
-        {
-          "name": "Sofi Mata",
-          "url": "https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Mala Suerte",
-      "url": "https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Webcam",
         "url": "https://open.spotify.com/album/0QTW7ygeF5Uoz3r8mCD8z3"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 180000,
       "name": "Webcam",
       "url": "https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Mala Suerte",
+        "url": "https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33"
+      },
+      "artists": [
+        {
+          "name": "Sofi Mata",
+          "url": "https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "La Duda",
-        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
-      },
-      "artists": [
-        {
-          "name": "Matt Paris",
-          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "La Duda",
-      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Mi Plan B",
         "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 197142,
       "name": "Mi Plan B",
       "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "La Duda",
+        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
+      },
+      "artists": [
+        {
+          "name": "Matt Paris",
+          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "La Duda",
+      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
-      },
-      "artists": [
-        {
-          "name": "Siho Villalobos",
-          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
-        }
-      ],
-      "duration_ms": 196744,
-      "name": "14",
-      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Loco Demente",
         "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 211809,
       "name": "Shot de Tequila",
       "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
+      },
+      "artists": [
+        {
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+        }
+      ],
+      "duration_ms": 196744,
+      "name": "14",
+      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
     },
     {
       "added_at": "2022-09-29 23:31:37",

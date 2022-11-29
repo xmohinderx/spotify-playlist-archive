@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. zand & banshee
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,582 likes - 89 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,677 likes - 89 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

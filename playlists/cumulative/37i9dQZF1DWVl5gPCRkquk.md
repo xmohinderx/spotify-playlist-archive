@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-240 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/2Mk0biWQ3SbPyW9OyWlNSJ)
+241 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/2Mk0biWQ3SbPyW9OyWlNSJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2021-10-29 | 2022-07-29 |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2022-04-15 |  |
 | [Ends of the Earth](https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:44 | 2021-10-29 |  |
+| [Evergreen \(feat\. Molly Tuttle\)](https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Evergreen \(feat\. Molly Tuttle\)](https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf) | 3:11 | 2022-11-18 |  |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2021-10-29 | 2022-07-29 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 | 2022-04-15 |  |
 | [Everything Changed](https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:05 | 2021-10-29 | 2022-04-18 |
@@ -235,7 +236,7 @@
 | [Weather2020](https://open.spotify.com/track/726E9Bz9YOJUD65r155ZXQ) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Charlie Whitten](https://open.spotify.com/artist/2s49L4iq7P9PdxKOAXgcLg) | [290520](https://open.spotify.com/album/4dlBHjqNQvkOTnKTOVsUta) | 4:49 | 2021-10-29 | 2022-01-29 |
 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 | 2021-10-29 |  |
 | [Weeds](https://open.spotify.com/track/71iWjFGvH1mnBZiMziR6cu) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Weeds](https://open.spotify.com/album/6BD4Jo940ZvwYNp01Ex34n) | 4:15 | 2021-10-29 | 2022-07-19 |
-| [What Have We Got to Lose](https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [What Have We Got to Lose](https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf) | 2:49 | 2022-10-07 |  |
+| [What Have We Got to Lose](https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [What Have We Got to Lose](https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf) | 2:49 | 2022-10-07 | 2022-11-29 |
 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/1E0vSW2F5dlVF2gP14pqKs) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Heron](https://open.spotify.com/album/7csQzflMm21S2om4y9HpGX) | 4:39 | 2022-04-15 |  |
 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/7D7bQZtXupVSEdBrQ3c1dl) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Whatever Brings You Peace of Mind](https://open.spotify.com/album/1Yl6PSxDGN2Kh9Z8DNva24) | 4:39 | 2021-10-29 | 2022-07-29 |
 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 | 2021-10-29 | 2022-11-19 |

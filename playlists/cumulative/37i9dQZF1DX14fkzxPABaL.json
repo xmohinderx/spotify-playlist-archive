@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Como Yo Te Veo",
+        "url": "https://open.spotify.com/album/3v3EhtXPlrA7fb3Vtgo167"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "Como Yo Te Veo",
+      "url": "https://open.spotify.com/track/5N5YIsTtlXI3CyInlykZwa"
+    },
+    {
+      "album": {
         "name": "Con la Falta Que Me Haces",
         "url": "https://open.spotify.com/album/6au2RlG5v26y1S5axAEmWw"
       },
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 197107,
       "name": "Entre las Nubes",
       "url": "https://open.spotify.com/track/7JxObO68A9tKaxwKOQZByz"

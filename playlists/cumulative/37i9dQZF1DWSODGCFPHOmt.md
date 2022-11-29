@@ -4,7 +4,7 @@
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-83 songs - 4 hr 33 min - not published yet
+84 songs - 4 hr 36 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Rodolfo El Reno](https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Rodolfo El Reno](https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ) | 3:27 | 2022-11-25 |  |
 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 | 2022-11-25 |  |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Kenia Ríos](https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr), [Anahi Ríos](https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa) | 2:00 | 2022-11-25 |  |
-| [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/7x545dFXOgtfLpXUyjKUoA) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:06 | 2022-11-25 |  |
+| [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/7x545dFXOgtfLpXUyjKUoA) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:06 | 2022-11-25 | 2022-11-29 |
 | [Santa Quiero](https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV) | 3:45 | 2022-11-25 |  |
 | [Se Acerca Navidad](https://open.spotify.com/track/0SLJQuE1QvGq4Q2VWH43ZG) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Se Acerca Navidad](https://open.spotify.com/album/2QZTrlrTV3ipvIrWSChX2B) | 3:02 | 2022-11-25 |  |
 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 | 2022-11-25 |  |
@@ -85,6 +85,7 @@
 | [Tristes Navidades](https://open.spotify.com/track/4Dk2BuZpuzIbUQCBKuw884) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tristes Navidades](https://open.spotify.com/album/20NYes8NcMzekr9z9AZFZp) | 3:46 | 2022-11-25 |  |
 | [Tristes Navidades](https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tristes Navidades](https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc) | 3:59 | 2022-11-25 |  |
 | [Un Diciembre Diferente](https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Un Diciembre Diferente](https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym) | 3:22 | 2022-11-25 |  |
+| [Vamonos de Fiesta](https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Feliz Navidad Con Banda el Recodo de Cruz Lizárraga](https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE) | 3:14 | 2022-11-25 |  |
 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 | 2022-11-25 |  |
 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Navidad Desde El Meritito Norte](https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia) | 3:23 | 2022-11-25 |  |
 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/7cWMHZIakSw3ANHmNSyndX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:00 | 2022-11-25 |  |

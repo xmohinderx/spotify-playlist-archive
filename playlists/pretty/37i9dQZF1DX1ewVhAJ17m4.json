@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 534080,
+  "num_followers": 534220,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDk3Y2Y1ZTZiOGM5ZWIzZDBiYmRjODIxOWJhOTg5ZDYy",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGNiODViNThmZjMxZTQ3MTZhODNkMjAwNGUyMDRmYWVl",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 179707,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "HOLY FVCK",
-        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 171678,
-      "name": "CITY OF ANGELS",
-      "url": "https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "HOLY FVCK",
+        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 171678,
+      "name": "CITY OF ANGELS",
+      "url": "https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "hurricane",
         "url": "https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 164533,
       "name": "hurricane",
       "url": "https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Cavalier",
-        "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Cavalier",
-      "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "A Session With My Therapist",
         "url": "https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 199666,
       "name": "A Session With My Therapist",
       "url": "https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Cavalier",
+        "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Cavalier",
+      "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "What's Up?",
+        "url": "https://open.spotify.com/album/471qHpHrvs92sYyQgPHLYz"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 141908,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/1rCQdw3dnvVexJwu1c7EAL"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Teenage Runaways",
         "url": "https://open.spotify.com/album/58FSurGGBFmANZssX5QhEw"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "What's Up?",
-        "url": "https://open.spotify.com/album/471qHpHrvs92sYyQgPHLYz"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 141908,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/1rCQdw3dnvVexJwu1c7EAL"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 217094,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "2009",
         "url": "https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
       },
       "artists": [
         {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
         }
       ],
-      "duration_ms": 218656,
-      "name": "The King and Queen of Gasoline",
-      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
+      "duration_ms": 217094,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1019,6 +1003,22 @@
       "duration_ms": 165682,
       "name": "My Type",
       "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "The King and Queen of Gasoline",
+      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "WE'RE NOT STRANGERS",
+        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "WE'RE NOT STRANGERS",
+      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Best Kept Secret",
         "url": "https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "WE'RE NOT STRANGERS",
-        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 138720,
-      "name": "WE'RE NOT STRANGERS",
-      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "1-800-IDONTKNOWYOUANYMORE",
-        "url": "https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA"
+        "name": "SUP",
+        "url": "https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq"
       },
       "artists": [
         {
-          "name": "Chad Tepper",
-          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
         }
       ],
-      "duration_ms": 171112,
-      "name": "1-800-IDONTKNOWYOUANYMORE",
-      "url": "https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0"
+      "duration_ms": 194751,
+      "name": "together",
+      "url": "https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

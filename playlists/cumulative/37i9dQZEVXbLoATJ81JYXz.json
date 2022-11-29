@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2725,7 +2725,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
@@ -3449,7 +3449,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 219051,
       "name": "Come Whatever, Come What May",
       "url": "https://open.spotify.com/track/7h6dAktpx3MeQMfqN84JBW"
@@ -3929,7 +3929,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 148000,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo"
@@ -4808,6 +4808,24 @@
     },
     {
       "album": {
+        "name": "Klart det ska bli jul",
+        "url": "https://open.spotify.com/album/3dWjkVHO5WjzqmUeHl4AUe"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "Dr\u00f6m om december",
+      "url": "https://open.spotify.com/track/3q9cACWZfW0sT8vV25pkYa"
+    },
+    {
+      "album": {
         "name": "Dr\u00f6mmare",
         "url": "https://open.spotify.com/album/7AEwJqMf2dlz3Qx659C6Xd"
       },
@@ -4927,7 +4945,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 133894,
       "name": "Dum",
       "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
@@ -5553,7 +5571,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 189000,
       "name": "ENSAM (feat. estraden)",
       "url": "https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R"
@@ -7831,7 +7849,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -8097,6 +8115,24 @@
       "duration_ms": 189440,
       "name": "Hej hall\u00e5!",
       "url": "https://open.spotify.com/track/6BT8CwzsMOi2FSIDa5zZwN"
+    },
+    {
+      "album": {
+        "name": "God Jul",
+        "url": "https://open.spotify.com/album/7Kcam4JUB8giz4JlRyPw3I"
+      },
+      "artists": [
+        {
+          "name": "Judit",
+          "url": "https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134817,
+      "name": "Hej mitt vinterland",
+      "url": "https://open.spotify.com/track/1xdmPfCpuGC9GuUXF24UND"
     },
     {
       "album": {
@@ -9680,6 +9716,24 @@
     },
     {
       "album": {
+        "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg"
+    },
+    {
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -9886,6 +9940,24 @@
     },
     {
       "album": {
+        "name": "God Jul",
+        "url": "https://open.spotify.com/album/7Kcam4JUB8giz4JlRyPw3I"
+      },
+      "artists": [
+        {
+          "name": "Judit",
+          "url": "https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127777,
+      "name": "Jag s\u00e5g mamma kyssa tomten",
+      "url": "https://open.spotify.com/track/0JE1JQKvROHum6OoeMWogx"
+    },
+    {
+      "album": {
         "name": "Jag vill bara va med dej",
         "url": "https://open.spotify.com/album/10JTOhisVeDfvxsNSQsD8E"
       },
@@ -10042,6 +10114,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126360,
+      "name": "Jingle Bell Rock - Daryl's Version",
+      "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
+    },
+    {
+      "album": {
         "name": "JOKER",
         "url": "https://open.spotify.com/album/7JFn8WQbABOPZcOWHyukRk"
       },
@@ -10089,7 +10179,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 221217,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
@@ -10183,7 +10273,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 168280,
       "name": "Juligen",
       "url": "https://open.spotify.com/track/1MMeScdLmniNyO4WMuoIxb"
@@ -10437,6 +10527,24 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "Klart det ska bli jul",
+        "url": "https://open.spotify.com/album/3dWjkVHO5WjzqmUeHl4AUe"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Klart det ska bli jul",
+      "url": "https://open.spotify.com/track/3MdqzcjluoNb75BPRcbn75"
     },
     {
       "album": {
@@ -12463,7 +12571,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 143680,
       "name": "MER & MER",
       "url": "https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD"
@@ -12859,7 +12967,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -15521,7 +15629,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 173000,
       "name": "Rymden och tillbaks",
       "url": "https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5"
@@ -18499,7 +18607,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
@@ -20741,7 +20849,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 221913,
       "name": "What's The Point",
       "url": "https://open.spotify.com/track/43xz0Ed6oE5r3FSblGZtE0"

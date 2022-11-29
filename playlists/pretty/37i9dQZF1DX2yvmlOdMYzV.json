@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 816214,
+  "num_followers": 816582,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDdjYzE5YTI1MWU3NWQ1ZDZlMGJmNzU5NDBjMjY0MWRh",
+  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMDUyOTk3MDRkNmZlNzZiMzY3MmMzYzVhOWNhMjBlZDA4",
   "tracks": [
     {
       "added_at": "2022-11-09 20:14:28",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "MANGO (feat. Adi Oasis)",
         "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 245994,
       "name": "MANGO (feat. Adi Oasis)",
       "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Jay Love Japan",
+        "url": "https://open.spotify.com/album/1JKqsdbwfOK1233EOT67ZM"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 71426,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Jay Love Japan",
-        "url": "https://open.spotify.com/album/1JKqsdbwfOK1233EOT67ZM"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 71426,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d"
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -659,22 +675,6 @@
       "duration_ms": 213800,
       "name": "Verbs",
       "url": "https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Two Worlds Apart",
-      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Love and Hate in a Different Time",
-        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 282177,
-      "name": "Love and Hate in a Different Time - Demo",
-      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -1071,6 +1055,38 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Love and Hate in a Different Time",
+        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 282177,
+      "name": "Love and Hate in a Different Time - Demo",
+      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1107,22 +1123,6 @@
       "duration_ms": 200000,
       "name": "Do 2 Me",
       "url": "https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "I Got It",
-      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh"
-      },
-      "artists": [
-        {
-          "name": "Manwolves",
-          "url": "https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr"
-        }
-      ],
-      "duration_ms": 239425,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "You Can't Steal My Joy",
         "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 154426,
       "name": "Space is the Place",
       "url": "https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh"
+      },
+      "artists": [
+        {
+          "name": "Manwolves",
+          "url": "https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr"
+        }
+      ],
+      "duration_ms": 239425,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Flight 99",
+        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
+      },
+      "artists": [
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "matt mcwaters",
+          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Flight 99",
+      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "lived to love",
         "url": "https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD"
       },
@@ -1367,26 +1391,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Flight 99",
-        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
+        "name": "Telefone",
+        "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
       "artists": [
         {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        },
-        {
-          "name": "matt mcwaters",
-          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Noname feat. Smino, Phoelix, Saba",
+          "url": "https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Flight 99",
-      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
+      "duration_ms": 311000,
+      "name": "Shadow Man",
+      "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1403,22 +1419,6 @@
       "duration_ms": 129882,
       "name": "CYCLOPS",
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Telefone",
-        "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
-      },
-      "artists": [
-        {
-          "name": "Noname feat. Smino, Phoelix, Saba",
-          "url": "https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Shadow Man",
-      "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Lava/Treacle",
         "url": "https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 201253,
       "name": "Lava/Treacle",
       "url": "https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1667,6 +1667,30 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Whoeva?",
+          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Demos",
         "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
       },
@@ -1747,30 +1771,6 @@
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
-        },
-        {
-          "name": "Whoeva?",
-          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
     }
   ],
   "unique_name": "Lowkey",

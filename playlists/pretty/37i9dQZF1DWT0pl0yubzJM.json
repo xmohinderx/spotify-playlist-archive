@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 12179,
+  "num_followers": 12180,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGU3ODBiZDk0MTg2YmRjOWM4M2YyNTQwNDZiOTczMmE1",
+  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGQyMmRhMGNmNWMzZmI3MjQyMmNmYzEzNzE3N2I3Njhl",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Secuencia Inicial - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Secuencia Inicial - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Peligrosos Gorriones",
         "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 224893,
       "name": "Siempre Acampa",
       "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Dopadromo",
+        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Viva Satana",
+      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -223,18 +239,34 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dopadromo",
-        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
         }
       ],
-      "duration_ms": 231386,
-      "name": "Viva Satana",
-      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
+      "duration_ms": 173293,
+      "name": "Escafandra",
+      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Mate",
+      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -275,34 +307,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+        "name": "Trance Zomba",
+        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Mate",
-      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
-      },
-      "artists": [
-        {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Escafandra",
-      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
+      "duration_ms": 209640,
+      "name": "Monta\u00f1as de Agua",
+      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -371,22 +387,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Trance Zomba",
-        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Monta\u00f1as de Agua",
-      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -419,18 +419,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
-        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
+        "name": "Pasto",
+        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
       },
       "artists": [
         {
-          "name": "Jaime Sin Tierra",
-          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 143866,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
+      "duration_ms": 230626,
+      "name": "D-Generaci\u00f3n",
+      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -451,6 +451,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
+        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
+      },
+      "artists": [
+        {
+          "name": "Jaime Sin Tierra",
+          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
       },
@@ -463,38 +479,6 @@
       "duration_ms": 240333,
       "name": "Lo Que Se Ve No Es Lo Real",
       "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Pasto",
-        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 230626,
-      "name": "D-Generaci\u00f3n",
-      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
-        }
-      ],
-      "duration_ms": 318906,
-      "name": "Travesia",
-      "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -531,6 +515,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
+      },
+      "artists": [
+        {
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
+        }
+      ],
+      "duration_ms": 318906,
+      "name": "Travesia",
+      "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Megaton",
         "url": "https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Chaco (Serie Rock Nacional 2004)",
-        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Remisero",
-      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
         "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 282600,
       "name": "Marmota",
       "url": "https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Chaco (Serie Rock Nacional 2004)",
+        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Remisero",
+      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
     }
   ],
   "unique_name": "Rock S\u00f3nico",

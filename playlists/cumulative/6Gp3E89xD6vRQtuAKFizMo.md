@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-114 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+115 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [The Whistle](https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [The Whistle](https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR) | 2:11 | 2022-08-05 |  |
 | [Time](https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Time](https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv) | 2:36 | 2022-09-02 |  |
 | [Toxic Rain \(prod\. David Mugratsch\)](https://open.spotify.com/track/7b2FGXLZY3ABSxVgkpccCf) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\)](https://open.spotify.com/album/5ijTP9RBfREShGfAQ90rrP) | 2:27 | 2022-11-04 |  |
+| [Toxic Rain \(prod\. David Mugratsch\) \- VIP Mix](https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\) \[VIP Mix\]](https://open.spotify.com/album/0YDquXUQDJ58JD6fp7XTzR) | 1:56 | 2022-11-28 |  |
 | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk) | 2:46 | 2022-09-30 |  |
 | [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 | 2022-11-08 |  |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 | 2022-11-19 |
@@ -121,6 +122,6 @@
 | [Wild Nights](https://open.spotify.com/track/5ZUgzZBOQmi8ARjnJckxeP) | [Axsara](https://open.spotify.com/artist/7dAmxDhUmmH7sVxpsxQC53) | [Wild Nights](https://open.spotify.com/album/3eh0EMLQ9M42KHXZ6If1bw) | 2:15 | 2022-07-06 | 2022-11-09 |
 | [Wild Things](https://open.spotify.com/track/7KRW2oPclZY26GJCa8zYQG) | [SUNDRESS](https://open.spotify.com/artist/4QLFBPW2qkQiYUv9yL3wwn), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Wild Things](https://open.spotify.com/album/58IBI9deFJ3VDvZv6Z7CMT) | 4:00 | 2022-05-06 | 2022-09-25 |
 | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/track/6y2CAqnt5ZyrwOC7NDoWGw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/album/1aJRxY9BMTN8SXC97rvKov) | 3:38 | 2022-05-06 | 2022-10-18 |
-| [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/album/0cwp9pwywIQAjMfIuezSJM) | 3:09 | 2022-09-02 |  |
+| [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/album/0cwp9pwywIQAjMfIuezSJM) | 3:09 | 2022-09-02 | 2022-11-29 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

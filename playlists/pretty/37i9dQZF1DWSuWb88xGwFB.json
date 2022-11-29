@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 23168,
+  "num_followers": 23182,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDU1Mjk5OGM3Mzg1ZjAwMzhiMDA5ZjkzYTE1ZTczMzU0",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGI5MTViZTc2YjRjMTQ1ZTBlMTVlMDYxNmY1NTIxNDBh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "(Who?) Keeps Changing Your Mind",
+        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
+      },
+      "artists": [
+        {
+          "name": "South Street Player",
+          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
+        }
+      ],
+      "duration_ms": 460939,
+      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
+      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
         "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 566026,
       "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
       "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "(Who?) Keeps Changing Your Mind",
-        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
-      },
-      "artists": [
-        {
-          "name": "South Street Player",
-          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
-        }
-      ],
-      "duration_ms": 460939,
-      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
-      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor - The Dark Ages Mix",
-      "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Thang",
         "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 430867,
       "name": "Unbe - Erick 'More' Mix",
       "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 595093,
+      "name": "Witch Doktor - The Dark Ages Mix",
+      "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise From Your Grave",
-        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        },
-        {
-          "name": "Wild Pitch",
-          "url": "https://open.spotify.com/artist/6R4fSnpT0N5UpaBWShqc9z"
-        }
-      ],
-      "duration_ms": 390986,
-      "name": "Rise From Your Grave - Wild Pitch Mix",
-      "url": "https://open.spotify.com/track/45XOa7QJGnCic5PoVJlwwG"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Jazz It Up",
         "url": "https://open.spotify.com/album/7G78QRI6RD7qTREeJq81he"
       },
@@ -583,22 +563,6 @@
       "duration_ms": 310420,
       "name": "Jazz It Up - Extended Jazz",
       "url": "https://open.spotify.com/track/3MPFOSe3B4XUjZiWwXglUa"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Asuca (Remixes)",
-        "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 356676,
-      "name": "Asuca - Tribal Mix",
-      "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -647,18 +611,38 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "So Deep, So Good",
-        "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
+        "name": "Rise From Your Grave",
+        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
       },
       "artists": [
         {
-          "name": "M & M",
-          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        },
+        {
+          "name": "Wild Pitch",
+          "url": "https://open.spotify.com/artist/6R4fSnpT0N5UpaBWShqc9z"
         }
       ],
-      "duration_ms": 456240,
-      "name": "So Deep, So Good - Ndako Gboya Mix",
-      "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
+      "duration_ms": 390986,
+      "name": "Rise From Your Grave - Wild Pitch Mix",
+      "url": "https://open.spotify.com/track/45XOa7QJGnCic5PoVJlwwG"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Asuca (Remixes)",
+        "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 356676,
+      "name": "Asuca - Tribal Mix",
+      "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -695,6 +679,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "So Deep, So Good",
+        "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
+      },
+      "artists": [
+        {
+          "name": "M & M",
+          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
+        }
+      ],
+      "duration_ms": 456240,
+      "name": "So Deep, So Good - Ndako Gboya Mix",
+      "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/3Wa1lKL5IpFzy9D0m16vAn"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Boom / I Need Your Love",
-        "url": "https://open.spotify.com/album/0BWUAbShTEdJTLS6ItN1G8"
-      },
-      "artists": [
-        {
-          "name": "House 2 House",
-          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
-        }
-      ],
-      "duration_ms": 358573,
-      "name": "Boom - Radio Mix",
-      "url": "https://open.spotify.com/track/4q7MvQw4TISBAW2UHsMs7W"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Muevete Mama",
         "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 413346,
       "name": "Muevete Mama - Broder Mix",
       "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Boom / I Need Your Love",
+        "url": "https://open.spotify.com/album/0BWUAbShTEdJTLS6ItN1G8"
+      },
+      "artists": [
+        {
+          "name": "House 2 House",
+          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
+        }
+      ],
+      "duration_ms": 358573,
+      "name": "Boom - Radio Mix",
+      "url": "https://open.spotify.com/track/4q7MvQw4TISBAW2UHsMs7W"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Set My Spirit Free (feat. Sandy Rivera)",
-        "url": "https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN"
-      },
-      "artists": [
-        {
-          "name": "Kings Of Tomorrow",
-          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
-        },
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        }
-      ],
-      "duration_ms": 468520,
-      "name": "Set My Spirit Free (feat. Sandy Rivera)",
-      "url": "https://open.spotify.com/track/1waCufNVr5c5kfOBzUEEPM"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
         "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 297037,
       "name": "Wanna Be Your Girl - A 'G' Thang Mix",
       "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Set My Spirit Free (feat. Sandy Rivera)",
+        "url": "https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN"
+      },
+      "artists": [
+        {
+          "name": "Kings Of Tomorrow",
+          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
+        },
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        }
+      ],
+      "duration_ms": 468520,
+      "name": "Set My Spirit Free (feat. Sandy Rivera)",
+      "url": "https://open.spotify.com/track/1waCufNVr5c5kfOBzUEEPM"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "duration_ms": 473477,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythms, Vol. 1",
         "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 473477,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
-      },
-      "artists": [
-        {
-          "name": "R.B.M.",
-          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
-        }
-      ],
-      "duration_ms": 372800,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 337901,
       "name": "Just An Organ - Just An Organ Mix",
       "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
+      },
+      "artists": [
+        {
+          "name": "R.B.M.",
+          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
+        }
+      ],
+      "duration_ms": 372800,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        }
-      ],
-      "duration_ms": 427132,
-      "name": "Hey! - The Rhythm Hype Mix",
-      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Carnival 93",
         "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 374946,
       "name": "Carnival 93 - The Mardi Gras Mix",
       "url": "https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        }
+      ],
+      "duration_ms": 427132,
+      "name": "Hey! - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
     },
     {
       "added_at": "2022-03-03 13:59:16",

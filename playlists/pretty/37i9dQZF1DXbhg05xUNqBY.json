@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 261471,
+  "num_followers": 261616,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDBmODkwZDE4ZDYyZDM3ZTRjYjRlZmE3YTM1NTEzMzBl",
+  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDQ5MDUzMzE3MTg5NGFiNThlZDA0ZGRiNTNmZTg5YzIy",
   "tracks": [
     {
       "added_at": "2021-10-31 01:35:26",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 194102,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Belovedness",
-        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Belovedness",
-      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 378379,
       "name": "Providence",
       "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Belovedness",
+        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Belovedness",
+      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Psalm 42 (Loudest Praise)",
         "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 355820,
       "name": "Psalm 42 (Loudest Praise)",
       "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Better View",
+        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Better View",
+      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
     }
   ],
   "unique_name": "Calming Christian",

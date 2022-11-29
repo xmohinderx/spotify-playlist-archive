@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-364 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+365 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 | 2022-06-10 |  |
 | [NEON BLADE 2](https://open.spotify.com/track/2wGnZ4Dq2LKKyJ7fy7kv2H) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE 2](https://open.spotify.com/album/6qyLhhRxrfoBbd4jjKypOQ) | 3:07 | 2022-08-05 | 2022-09-24 |
 | [never enough](https://open.spotify.com/track/48jRCynldeK3WQbvd3jr73) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [never enough](https://open.spotify.com/album/1x7nBWXp9m8qM6b8twdRND) | 2:22 | 2022-05-13 | 2022-06-18 |
-| [NEW ERA](https://open.spotify.com/track/1IjGb3x3n6mzEllLf1qLsT) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [NEW ERA](https://open.spotify.com/album/4WGwYGhoVWhbT4Ey5nHkDY) | 2:34 | 2022-11-11 |  |
+| [NEW ERA](https://open.spotify.com/track/1IjGb3x3n6mzEllLf1qLsT) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [NEW ERA](https://open.spotify.com/album/4WGwYGhoVWhbT4Ey5nHkDY) | 2:34 | 2022-11-11 | 2022-11-29 |
+| [NEW ERA](https://open.spotify.com/track/4AJUMa3GvsVI3HIt4WEW22) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [NEW ERA](https://open.spotify.com/album/7cRlkjz0YyUIsgonvmtZPJ) | 2:34 | 2022-11-11 |  |
 | [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 | 2021-11-12 | 2022-06-11 |
 | [Night Finding](https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1) | [yellow pixie](https://open.spotify.com/artist/0OeJ57WX4JoCw1FdTM8Uwe) | [Night Finding](https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME) | 1:54 | 2022-08-12 | 2022-10-08 |
 | [Night Ride](https://open.spotify.com/track/1yVcviVfd5qtBab5Vzynoq) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Night Ride](https://open.spotify.com/album/4Ite7FdD6MJrwD8XDcAChg) | 3:07 | 2022-11-18 |  |

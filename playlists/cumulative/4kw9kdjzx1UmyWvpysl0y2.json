@@ -928,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Bring Me Back",
+        "url": "https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213931,
+      "name": "Bring Me Back",
+      "url": "https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44"
+    },
+    {
+      "album": {
         "name": "BXU",
         "url": "https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ"
       },
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 213000,
       "name": "Dreaming Awake",
       "url": "https://open.spotify.com/track/0gz3HMJHno5uiLUaxexT59"
@@ -3641,7 +3659,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 168624,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/0YYghi9h8fntXyNlOfbMJl"
@@ -3845,7 +3863,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 152827,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB"
@@ -5317,7 +5335,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 167172,
       "name": "Sell Your Soul",
       "url": "https://open.spotify.com/track/5IwjMN4NyKLbPzLbgUbSEt"
@@ -5997,7 +6015,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 196250,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/3bhhWM9zuWeUDyR4ODiaaD"

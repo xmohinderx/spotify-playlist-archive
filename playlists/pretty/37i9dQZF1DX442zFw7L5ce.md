@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 ### [\#GRWM Telugu](https://open.spotify.com/playlist/37i9dQZF1DX442zFw7L5ce)
 
-> Songs that will remind you of the QUEEN you are, while you get ready to slay the world! <br/>Cover : Pooja Hegde
+> Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,684 likes - 42 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,732 likes - 42 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 41 | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/track/0Vjckx1G9Nt1S4GVfVKEdo) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/album/3RcUaHobHgt8eRQY7fPADf) | 2:26 |
 | 42 | [Vachindamma](https://open.spotify.com/track/7sQs1t47PqfKa1L7kOtLko) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Expectional Music Of Gopi Sundar](https://open.spotify.com/album/2YjU5LftLFtIiKDLa7cJ33) | 4:10 |
 
-Snapshot ID: `MTY2NTk4NjI3MywwMDAwMDAwMGRlYWQyNzkyZmFmYzQ2YzFiYzEwNWEzYjM0MWNmNjlj`
+Snapshot ID: `MTY2OTYxMDk5OSwwMDAwMDAwMDA0Zjg1ZWY4MDExOTMyZDgyNTI1YjY2MmNhZjUwN2Ri`

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 7045,
+  "num_followers": 7075,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEwNzU3MCwwMDAwMDAwMDdiNjQ2ZTBmMThlZmM0NmJmNmNiODY2ZGFmMjIxOGM0",
+  "snapshot_id": "MTY2OTEwNzU3MCwwMDAwMDAwMGVjNTBmYTljOWUyZjAyYjlhMDZlNmU3ODEyODY1OWE2",
   "tracks": [
     {
       "added_at": "2022-11-03 09:24:26",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 192430,
-      "name": "Forgetting You",
-      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 192430,
+      "name": "Forgetting You",
+      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
         "name": "My Liberation Notes OST Part 11",
         "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 259056,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -235,18 +219,18 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Spring Again",
-        "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
       "artists": [
         {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 236071,
-      "name": "The Snowman",
-      "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -263,6 +247,22 @@
       "duration_ms": 211999,
       "name": "Can't Go",
       "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Spring Again",
+        "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 236071,
+      "name": "The Snowman",
+      "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 281944,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 281944,
-      "name": "Love Alone",
-      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 219133,
       "name": "Dear you (Romance 101 X LeeHi)",
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -431,6 +431,22 @@
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2022-11-29 01:38:30",
+      "album": {
+        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
+        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -485,22 +501,6 @@
       "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
     },
     {
-      "added_at": "2022-11-28 01:38:52",
-      "album": {
-        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
-        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "You Are The Sea",
-      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
-    },
-    {
       "added_at": "2022-11-03 09:24:26",
       "album": {
         "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "Despite it all",
         "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 236693,
       "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 199577,
-      "name": "Into My Heart",
-      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 240532,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Encounter (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 199577,
+      "name": "Into My Heart",
+      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "\uaf43",
-        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 258872,
-      "name": "\uc81c\ubc1c",
-      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "girl in red",
         "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 159365,
       "name": "girl in red",
       "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "\uaf43",
+        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 258872,
+      "name": "\uc81c\ubc1c",
+      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
     },
     {
       "added_at": "2022-11-03 09:24:26",

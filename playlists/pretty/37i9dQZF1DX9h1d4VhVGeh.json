@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 134810,
+  "num_followers": 134927,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk5MzI4MywwMDAwMDAwMDc5YjkxMzIxODU0NjY2YWQxZTcxZjYxMmNiZjBhZTFh",
+  "snapshot_id": "MTY2Nzk5MzI4MywwMDAwMDAwMDdlN2ZhMjE3ZmYzMmFhMGFkOTU1MGVlOGIxNjBkMjMy",
   "tracks": [
     {
       "added_at": "2022-11-09 11:28:03",
@@ -223,6 +223,26 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Samer Doumet",
+          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "3abali",
+      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
         "name": "A Vava Inouva",
         "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 305653,
       "name": "Ghir Enta",
       "url": "https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
-      },
-      "artists": [
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        },
-        {
-          "name": "Samer Doumet",
-          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "3abali",
-      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Shahrazad (Live)",
-        "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "Ya Ana Ya Ana - Live",
-      "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Yawman Ma",
         "url": "https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 202422,
       "name": "Yawman Ma",
       "url": "https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Shahrazad (Live)",
+        "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "Ya Ana Ya Ana - Live",
+      "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Poco a Poco",
-        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
-      },
-      "artists": [
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Bala Wala Shi",
         "url": "https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Shahrazad (Live)",
-        "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
       },
       "artists": [
         {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
         }
       ],
-      "duration_ms": 211617,
-      "name": "Habbaitak Be El Saif - Live",
-      "url": "https://open.spotify.com/track/1QJ2l3k2BFJypRUT5M4mLg"
+      "duration_ms": 222440,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -791,6 +775,22 @@
       "duration_ms": 154635,
       "name": "LYA",
       "url": "https://open.spotify.com/track/0VgcPBRN0cVOJ2e2x7Qbhv"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Shahrazad (Live)",
+        "url": "https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 211617,
+      "name": "Habbaitak Be El Saif - Live",
+      "url": "https://open.spotify.com/track/1QJ2l3k2BFJypRUT5M4mLg"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Hobb W Mkattar",
-        "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
-      },
-      "artists": [
-        {
-          "name": "Joseph Attieh",
-          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
-        }
-      ],
-      "duration_ms": 212767,
-      "name": "Weilak Acoustik",
-      "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "A Sea Between Us",
         "url": "https://open.spotify.com/album/6noo6zD7yYBk2tF9fzWrce"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 237127,
       "name": "Fi Al Tariki Ilaik",
       "url": "https://open.spotify.com/track/55syUs2h389vqBFEVL2kMM"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Hobb W Mkattar",
+        "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
+      },
+      "artists": [
+        {
+          "name": "Joseph Attieh",
+          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
+        }
+      ],
+      "duration_ms": 212767,
+      "name": "Weilak Acoustik",
+      "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
+        "name": "Mustaheel",
+        "url": "https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 189332,
+      "name": "Mustaheel",
+      "url": "https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
         "name": "Ya Zalamez",
         "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 233215,
       "name": "Albi",
       "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
-        "name": "Mustaheel",
-        "url": "https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 189332,
-      "name": "Mustaheel",
-      "url": "https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-11-09 11:28:03",
       "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 248952,
-      "name": "Ella Enta (Live Session)",
-      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
         "name": "Denia Dour",
         "url": "https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 330152,
       "name": "Denia Dour",
       "url": "https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Ensanein",
+        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 189130,
+      "name": "Zuruni",
+      "url": "https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1563,22 +1563,6 @@
       "duration_ms": 204705,
       "name": "Hasaruha",
       "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
-    },
-    {
-      "added_at": "2022-11-09 11:28:03",
-      "album": {
-        "name": "Ensanein",
-        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 189130,
-      "name": "Zuruni",
-      "url": "https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6"
     },
     {
       "added_at": "2022-11-09 11:28:03",
@@ -1675,6 +1659,22 @@
       "duration_ms": 232618,
       "name": "Bala Wala Shi (Live)",
       "url": "https://open.spotify.com/track/0EP3x8Yh2JtvWmFjEOENU3"
+    },
+    {
+      "added_at": "2022-11-09 11:28:03",
+      "album": {
+        "name": "Ella Enta (Live Session)",
+        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 248952,
+      "name": "Ella Enta (Live Session)",
+      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
     },
     {
       "added_at": "2022-11-09 11:28:03",

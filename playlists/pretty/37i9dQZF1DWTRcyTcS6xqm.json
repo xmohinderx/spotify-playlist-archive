@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 7441,
+  "num_followers": 7446,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGRjNDFlYTFlNjZkZDA5MWJhNDhlODI2OWI2YWZlOTA3",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDg0MjQ4ZjA1M2Y0ZmZkMTM2MWYwOTQ5YjVhMTk3NDM1",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -781,6 +781,38 @@
       "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Stronger For It",
+        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Whoop And Holler",
+      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Son Of A Bluesman",
+        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
+    },
+    {
       "added_at": "2021-03-19 05:01:00",
       "album": {
         "name": "Big Mama's Soul Food",
@@ -803,38 +835,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Stronger For It",
-        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Whoop And Holler",
-      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Blues Survivor",
-        "url": "https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 410360,
-      "name": "Shake For Me",
-      "url": "https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Girls With Guitars",
         "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
       },
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-11-05 04:00:00",
       "album": {
-        "name": "Down Home Mojo",
-        "url": "https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz"
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
       },
       "artists": [
         {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
         }
       ],
-      "duration_ms": 291720,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
+      "duration_ms": 149895,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
     }
   ],
   "unique_name": "Blues Party",

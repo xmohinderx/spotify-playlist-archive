@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 238000,
       "name": "Arpa e tamburo",
       "url": "https://open.spotify.com/track/1mu0gMpgqraGpXZh0wJf9f"
@@ -1857,6 +1857,28 @@
       "duration_ms": 245211,
       "name": "LYN",
       "url": "https://open.spotify.com/track/1VcYoVIyPOJRgy8163bXJR"
+    },
+    {
+      "album": {
+        "name": "MARIONETTE (feat. Danno)",
+        "url": "https://open.spotify.com/album/6TCKONF2sJiakUZEoxtpam"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "MARIONETTE (feat. Danno)",
+      "url": "https://open.spotify.com/track/7EYYeV2YB8qhYC0KtpXpMC"
     },
     {
       "album": {

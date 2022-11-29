@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=Y5cs7Ga0Tza8ZbozPyrZdw">DBN Gogo</a>
 
-142 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+143 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,9 +136,10 @@
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2022-05-05 | 2022-11-19 |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-10-08 | 2022-05-06 |
 | [This Year](https://open.spotify.com/track/72yBgL4r5tmrPnvDtBLqOI) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [This Year](https://open.spotify.com/album/5ZnsRZ5JTSOMDaQ9HjAufJ) | 3:10 | 2021-05-03 | 2022-05-06 |
+| [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 |  |
 | [Twenties](https://open.spotify.com/track/1li8msSlPGNuiMPUNqz0Ys) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Twenties](https://open.spotify.com/album/1ofj7jvoMEFCMts0v4ZjqI) | 2:24 | 2022-05-05 | 2022-09-24 |
 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 | 2022-05-05 | 2022-06-17 |
-| [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 4:31 | 2022-05-05 |  |
+| [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 4:31 | 2022-05-05 | 2022-11-29 |
 | [Universe](https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Universe](https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB) | 4:25 | 2022-06-30 | 2022-08-23 |
 | [Uthando To The T](https://open.spotify.com/track/64UhamKOp5B4FHkHhdD4Bl) | [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Debra Nist](https://open.spotify.com/artist/1vsudt2lY3JLZQ540M2ffW) | [uShukela eTiyeni](https://open.spotify.com/album/0KhIspDpJ86o85vMvoMwfT) | 5:15 | 2022-05-05 | 2022-07-01 |
 | [UYATHANDEKA](https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [UYATHANDEKA](https://open.spotify.com/album/1xJnRQlIhkJsZSwLgZxEGp) | 7:51 | 2022-11-25 |  |

@@ -2073,10 +2073,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 213066,
       "name": "Not",
       "url": "https://open.spotify.com/track/2A6nUIicRakdC5VwkytMa9"
+    },
+    {
+      "album": {
+        "name": "The Prodigy",
+        "url": "https://open.spotify.com/album/1jTCrR34ciKYVJA5j4z6kq"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Quenga",
+          "url": "https://open.spotify.com/artist/1mQUQqw776B6DJDEIkqi1D"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Not",
+      "url": "https://open.spotify.com/track/6xRCEBOJtUdN3aMKGvqX5f"
     },
     {
       "album": {

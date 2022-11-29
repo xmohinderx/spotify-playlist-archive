@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-102 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+103 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Hollow](https://open.spotify.com/track/43dWASmdtGOOI0yOyx9zAH) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Hollow](https://open.spotify.com/album/4N7w5vzvRIAfxjNPaSAMXN) | 3:39 | 2022-05-27 | 2022-08-05 |
 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 | 2021-11-05 |  |
 | [I Can Talk](https://open.spotify.com/track/0Krxo9CPCj98TR3QHqSb8N) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Kitsuné: I Can Talk \(Remixes\)](https://open.spotify.com/album/0DDPS6mumu79yYixnXOVZF) | 2:57 | 2021-11-05 |  |
+| [I Don't](https://open.spotify.com/track/5yFtC081hlnMkXiZruPMmf) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [I Don't](https://open.spotify.com/album/51dAGL3zPrDnGfKj24Sqz2) | 3:10 | 2022-11-28 |  |
 | [I'll Give You Dedication](https://open.spotify.com/track/5V6zXDdVD7l87y5AxtvUoR) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [I'll Give You Dedication](https://open.spotify.com/album/4vrGADeX4iagpCw2MnOORv) | 2:47 | 2022-10-14 |  |
 | [Icy](https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws) | [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Icy](https://open.spotify.com/album/4ZAkDbkETjOwhUAt6f0fV5) | 2:44 | 2022-09-05 |  |
 | [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 | 2022-07-09 |
@@ -106,7 +107,7 @@
 | [We Are Shadows](https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [We Are Shadows](https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX) | 3:39 | 2022-07-15 | 2022-10-08 |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
 | [Why Do?](https://open.spotify.com/track/1HutpfzBYz0KdSo4TUiaRx) | [We Are Neurotic](https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA) | [Why Do?](https://open.spotify.com/album/0kXuLvPHLYV2OsvqWcdPxh) | 5:48 | 2022-11-11 |  |
-| [Willow Tree](https://open.spotify.com/track/7HyQKWEzycUMPaKnPWcZet) | [Frances Baker](https://open.spotify.com/artist/5ANQ3S3Wf5JRqJaEwlOUnw) | [Willow Tree](https://open.spotify.com/album/1ZpdgCDupRZoCP6STmmwcb) | 3:27 | 2022-09-02 |  |
+| [Willow Tree](https://open.spotify.com/track/7HyQKWEzycUMPaKnPWcZet) | [Frances Baker](https://open.spotify.com/artist/5ANQ3S3Wf5JRqJaEwlOUnw) | [Willow Tree](https://open.spotify.com/album/1ZpdgCDupRZoCP6STmmwcb) | 3:27 | 2022-09-02 | 2022-11-29 |
 | [Worship](https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY) | [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU) | [Worship](https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF) | 4:26 | 2022-07-08 | 2022-10-06 |
 | [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 |  |
 | [You and I](https://open.spotify.com/track/3vulAtIt4ZWhugoTDpD7ak) | [LLOYD PAUL](https://open.spotify.com/artist/2SjfyRr3Jg4w0DL4kKmxTH), [BRUNAJ](https://open.spotify.com/artist/7j9wSYmlFpmTjMOEvBQsrk) | [You and I](https://open.spotify.com/album/3NdL9odlpnHutVVFlPtIfZ) | 3:03 | 2022-08-01 | 2022-10-29 |

@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: Larkin Poe\n",
-  "num_followers": 461966,
+  "num_followers": 461962,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGI1YzY0YmM2NTYxYjg3MzBhY2VhMGZmOTkwOTdkNDZl",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDViOTc2YWM1YTM0Y2RiNTBkZTkwOWY0MWNmMjliNWMy",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "See Where The Night Goes",
-        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 247895,
-      "name": "Step Aside",
-      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 241800,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "See Where The Night Goes",
+        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 247895,
+      "name": "Step Aside",
+      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 227267,
+      "name": "My Babe",
+      "url": "https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 295776,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 227267,
-      "name": "My Babe",
-      "url": "https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Tour Death Song",
-        "url": "https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 297471,
-      "name": "Tour Death Song",
-      "url": "https://open.spotify.com/track/0aQpkTdFY2WYJSbdyGlHHO"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 197737,
       "name": "Head Right",
       "url": "https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Tour Death Song",
+        "url": "https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 297471,
+      "name": "Tour Death Song",
+      "url": "https://open.spotify.com/track/0aQpkTdFY2WYJSbdyGlHHO"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "scream!",
-        "url": "https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "scream!",
-      "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Love & Algorhythms",
-        "url": "https://open.spotify.com/album/4mQO6EHGG1jGPPFJtCVIPs"
+        "name": "scream!",
+        "url": "https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY"
       },
       "artists": [
         {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 187319,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/5FV4pXdYZzG9CYcHDLkGHl"
+      "duration_ms": 199873,
+      "name": "scream!",
+      "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 214000,
       "name": "Watching Strangers Smile",
       "url": "https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Love & Algorhythms",
+        "url": "https://open.spotify.com/album/4mQO6EHGG1jGPPFJtCVIPs"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 187319,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/5FV4pXdYZzG9CYcHDLkGHl"
     },
     {
       "added_at": "2022-11-11 05:00:00",

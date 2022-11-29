@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of classic and new piano rock and pop.",
-  "num_followers": 149906,
+  "num_followers": 149934,
   "original_name": "The Piano Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMGNlYTA2YmJhYTY2YTk2YzUwOTc2ZmZkOTY5MmRmNWYy",
+  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMDczY2Q3ZjI3ZDkzYzY5ODUxNGQ5NmQ3NDY5MmI4N2Rm",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -399,38 +399,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Tidal",
-        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 341533,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 308973,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Vibrate: The Best Of (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS"
       },
@@ -447,6 +415,22 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
+        "name": "Tidal",
+        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 341533,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 213373,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 308973,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "added_at": "2021-10-01 04:01:00",

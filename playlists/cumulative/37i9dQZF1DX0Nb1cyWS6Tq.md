@@ -4,7 +4,7 @@
 
 > Release The Bats! Siouxsie and the Banshees on the cover.
 
-259 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
+260 songs - 19 hr 42 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 | 2022-03-30 |  |
 | [Blasphemous Rumours](https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 6:21 | 2021-10-15 | 2022-07-29 |
 | [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 | 2021-10-15 |  |
-| [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 | 2022-09-29 |  |
+| [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 | 2022-09-29 | 2022-11-29 |
 | [Break the Chain](https://open.spotify.com/track/77YOzvmOdCpB7PH0Uji5od) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [The Best Of Gene Loves Jezebel \- Voodoo Dollies](https://open.spotify.com/album/68sEF2g8cRMtrhcbR0Pf6d) | 4:46 | 2021-10-15 | 2022-04-21 |
 | [Break The Chain](https://open.spotify.com/track/19ZQ1EOicYOZn5eamUrWFQ) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/0xJ8E1zEm9QBkzfEXP3agI) | 4:48 | 2021-10-15 |  |
 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 | 2021-10-15 |  |
@@ -56,7 +56,7 @@
 | [Cities In Dust \- Extended Version](https://open.spotify.com/track/630WO6Hx9ma8QSx2Ey1WKx) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox \(Remastered & Expanded\)](https://open.spotify.com/album/1dGCktgKqiCSlf5PxDZ6Up) | 6:49 | 2021-10-15 | 2022-06-27 |
 | [Cosmos](https://open.spotify.com/track/1aNUGgqEc82XTww92M7WM9) | [Transmission](https://open.spotify.com/artist/5UUwxW4pwQAwTDefyPzcvD) | [Cosmos](https://open.spotify.com/album/1aMjqS4T9NdrNsYyjx9oOg) | 4:53 | 2021-10-15 | 2022-04-15 |
 | [Cossacks Are](https://open.spotify.com/track/4ihCn6wzja5AOxVZdahR5z) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [The Drift](https://open.spotify.com/album/3A7Gfj808zT13fi4M4OrwT) | 4:32 | 2021-10-15 | 2022-07-29 |
-| [Cut The Tree](https://open.spotify.com/track/5qqLatt5qjPHoIUpZYGhgw) | [The Wolfgang Press](https://open.spotify.com/artist/30JExXexrTakSa79ce2mn8) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 5:35 | 2022-08-09 |  |
+| [Cut The Tree](https://open.spotify.com/track/5qqLatt5qjPHoIUpZYGhgw) | [The Wolfgang Press](https://open.spotify.com/artist/30JExXexrTakSa79ce2mn8) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 5:35 | 2022-08-09 | 2022-11-29 |
 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 | 2021-10-15 |  |
 | [Cuts You Up](https://open.spotify.com/track/4ijNab1GM0JSZoe0I2KCOd) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh) | 5:27 | 2021-10-15 | 2022-04-19 |
 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 | 2021-10-15 |  |
@@ -95,6 +95,7 @@
 | [Go! \(Club Mix\)](https://open.spotify.com/track/6jUtVy8AXICRmH85U3QjQU) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/2HLe3MOLEKEhuGIbrGSN3i) | 4:28 | 2021-10-15 | 2022-04-20 |
 | [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 | 2021-10-15 |  |
 | [Golden Age / Labyrinth of Memories](https://open.spotify.com/track/5JwaphAXyuQwuQpQfpMFA8) | [Winter Severity Index](https://open.spotify.com/artist/5RxKFWH5QHNCQkEhjYHkUC) | [Disgelo](https://open.spotify.com/album/4YWrhGrjcelQnkXmiwG6DX) | 5:47 | 2022-03-03 | 2022-05-22 |
+| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-11-28 |  |
 | [Gothic Girl](https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gothic Essential Tracks](https://open.spotify.com/album/540DrBi3W4doXmlMpmohj5) | 4:28 | 2022-01-11 | 2022-07-27 |
 | [Haarlem](https://open.spotify.com/track/2vWdAMGwkOG6ShH2ro2uq4) | [Roninn](https://open.spotify.com/artist/3LCmqX73OjKvEPLMMB0Zy0) | [Haarlem](https://open.spotify.com/album/5xEtD56zMH5cHa2b81NPVL) | 3:06 | 2021-10-15 | 2022-05-11 |
 | [Haunted When the Minutes Drag](https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0) | 8:01 | 2021-10-15 | 2022-11-13 |
@@ -106,7 +107,7 @@
 | [His Box](https://open.spotify.com/track/4auQElRGeVu94YhwonIdek) | [Dalis Car](https://open.spotify.com/artist/26K835MEHI621LFChKL16Z) | [The Waking Hour](https://open.spotify.com/album/7HmNnZyCLb2tkxwdwDtpqd) | 4:42 | 2021-10-15 | 2022-07-29 |
 | [Hit](https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 2:58 | 2021-10-15 | 2022-04-21 |
 | [Holiday on the Moon](https://open.spotify.com/track/5ND2AEOcEZX4xD1w0Mgl5W) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 6:05 | 2021-10-15 | 2022-07-29 |
-| [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 | 2021-10-15 | 2022-11-19 |
+| [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 | 2021-10-15 |  |
 | [Hollow Eyes](https://open.spotify.com/track/1Vm4cPqMS50k2zM70viOOl) | [Red Lorry Yellow Lorry](https://open.spotify.com/artist/6ixeWfTvnU1VOVPEVP5Bcq) | [Talk About The Weather](https://open.spotify.com/album/3uAvHdRx5uat8LE97Uq9c8) | 3:39 | 2021-10-15 | 2022-07-27 |
 | [I Put A Spell On You \- Remastered 2020](https://open.spotify.com/track/7cls5t47NYg0pfP1djxGu5) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [I Put A Spell On You \(Remastered 2020\)](https://open.spotify.com/album/5SDB6dlRVY9YsW4qHC4cP5) | 2:16 | 2021-10-15 | 2022-07-24 |
 | [I Walk The Line](https://open.spotify.com/track/4c7JcQKPQP3o5ojUcrZ42B) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/3ycsLfUjtUL3pjSk96bB3S) | 4:51 | 2021-10-15 | 2022-07-29 |

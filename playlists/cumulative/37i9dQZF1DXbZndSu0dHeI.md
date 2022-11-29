@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-342 songs - 20 hr 43 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+343 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 | 2022-03-19 |  |
 | [Apologies](https://open.spotify.com/track/7a7FV38RE6FLqPSfAsRbz7) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Apologies](https://open.spotify.com/album/6N5O4PGF6cnWoPci1sKqjG) | 2:59 | 2022-03-19 | 2022-04-14 |
 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 | 2022-08-05 | 2022-11-17 |
+| [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2022-08-05 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/3XpXhVtZwqh2eM5d9ieXT5) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/28a7IkiQxDoxGpAr8Cy0fP) | 3:16 | 2021-11-12 | 2022-07-29 |
 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2022-06-22 | 2022-11-26 |
 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 | 2021-11-12 |  |
@@ -48,7 +49,7 @@
 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 | 2021-11-12 |  |
 | [Blossom](https://open.spotify.com/track/3JvSdMghhVpTkn30dRl6v0) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Blossom](https://open.spotify.com/album/3hgvTuVKxb6ONvcl7BOTFJ) | 3:25 | 2021-11-12 | 2022-07-29 |
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-11-12 |  |
-| [Cadillac](https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [You Do Not Have To Be Good](https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN) | 2:51 | 2022-08-05 |  |
+| [Cadillac](https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [You Do Not Have To Be Good](https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN) | 2:51 | 2022-08-05 | 2022-11-29 |
 | [california dreamin](https://open.spotify.com/track/4mZvaHRlXLgGIIO9fh7yZ1) | [Me Not You](https://open.spotify.com/artist/0vqILHF92UEDMJ5vjViLID) | [california dreamin](https://open.spotify.com/album/1onl7ZfaMgW9n5uQGFq9Km) | 3:39 | 2022-03-19 | 2022-04-25 |
 | [Call Me in the Afternoon](https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F) | 3:13 | 2022-08-05 |  |
 | [Call Me in the Afternoon](https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg) | 3:13 | 2022-03-19 | 2022-10-13 |

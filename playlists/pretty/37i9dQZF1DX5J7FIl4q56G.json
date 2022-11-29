@@ -1,15 +1,31 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Currents",
-  "num_followers": 660045,
+  "num_followers": 660201,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDRmNzNjMGM3OGIxODU1MzA5ZjE5NGExMzQzMDEwZGM5",
+  "snapshot_id": "MTY2OTY0ODQ0NSwwMDAwMDAwMGE3ODc2NmU1Nzc5NjkyZjUzMGNkZWRhYjAzOTgyMjJj",
   "tracks": [
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
+      "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
+    },
+    {
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Vengeance",
         "url": "https://open.spotify.com/album/1hPFFfkRIrIIaTqiHzD6OF"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/087mtS3g2C2oL1V1hSmOvB"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "THE SHADOW",
         "url": "https://open.spotify.com/album/0JTvX40LajZNV6pyNVC1ZW"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/2jSPZh9sNf3qSMlLJrRyZX"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Berry Blender",
         "url": "https://open.spotify.com/album/2YL7kVxRkPeroZnQtLBLNG"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/2lLVAWLDvN5XfiDgT82FIq"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "GTO (Japan Bonus Track)",
         "url": "https://open.spotify.com/album/0ElJNM2pqh9H3SZw4Y7AKE"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/2v7FPieafXMSmpqSgHzbsz"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/3iQzsXaCoEeNAP1bt1tqFn"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/1qsPbldREgR4wRvmK1FMBl"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Fight Fire With Gasoline",
         "url": "https://open.spotify.com/album/4IXfMV0iTA3p0cjPQavnAY"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/78frUxVotRtpMrNMcyYtns"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Vad vill du ha",
         "url": "https://open.spotify.com/album/6vGcd4LLefu1oS7qe0a6Ak"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/2I8bcPoyUptO31CrogEOHo"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "The Inevitable Fork, Vol. 1",
         "url": "https://open.spotify.com/album/6bGnZP6yIFIyVzSmiOEjal"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/2gV5U6vzqS0QtXdUUjlF5g"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Der F\u00fcsilier",
         "url": "https://open.spotify.com/album/7fXQt09YTxA8wAcOFIuiVA"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/5qVtgLu94WO1ZBPcELOJ1k"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "The Lie",
         "url": "https://open.spotify.com/album/3Vhulv4lPcQN76ZC48X2NP"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/50cXxEZBcCdsyiqyvDmWlv"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/7nQPjvGZUoGPDmOkpHYO9H"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/2Wq4wVXPnJYaK214y26y1H"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Somewhere Better",
         "url": "https://open.spotify.com/album/2EUYd6YEvWysmyuc8CEo0q"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/0GyV45JIZhjYxDqMEDc3vz"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/6sorRXpfRCmwBRiJiVXRRb"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/4l1evzF4AXxzBtkOZcQLis"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET",
         "url": "https://open.spotify.com/album/0pOdTGdqc1p8iizWzoE64G"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/2KIFDLjfHIIkRum4fNmonY"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "I'm a Monster (Garou Theme) [From \"One Punch Man\"]",
         "url": "https://open.spotify.com/album/4DNCbkA8JN65hvGasdwZfD"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/6MBOnWC0UVeaAnKOpitfDS"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Disquisition on an Execution",
         "url": "https://open.spotify.com/album/6zkX4vP7RsXPcfmHEf43lE"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/3kIwyUzenGqnKjbOo6QHw8"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Hell Is Where The Heart Is, Pt. III: Clarity",
         "url": "https://open.spotify.com/album/7lt5GA2p1R951h7cg6IycG"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/4jZFmBhYpwwiWjuEYmlEYq"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/73AyzXKc4qXlftYhOaxU5n"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/3nz7bMqaBbYZD7HgiZJz9z"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Felt Like Home",
         "url": "https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Find You Soon",
         "url": "https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Into Flames",
         "url": "https://open.spotify.com/album/7GoXhnhL9M7wSSpDVOKP3T"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/1VZGJAIIQ7Ny8XSEPkOjTw"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Hourglass",
         "url": "https://open.spotify.com/album/39iuQQx2fRjDI5zzWYoghA"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/0di3huH62wremIYopBXn3d"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Born From Fire",
         "url": "https://open.spotify.com/album/1DJu0m65a7He0lyFRVN28Z"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/1rkVk1EbDzzTxED8Zm6c4C"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Crown Of Corruption",
         "url": "https://open.spotify.com/album/5D2a9bRklsmngNensvatI5"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/5aEB83g9oetC5CtkCwip1R"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Dark",
         "url": "https://open.spotify.com/album/56ZA4yqiQHpyvsVNMKvpL8"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/0qgIAUq7IqPL8eURNGKKLm"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Death Throne",
         "url": "https://open.spotify.com/album/3aB9yQNlRqF8sH0j0WcZyU"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/7eBKGFcoYCpacx4EKIs024"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Amidst the Hallowed and the Vanquished",
         "url": "https://open.spotify.com/album/33x1LsDvM0ythOdkb1NWY1"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/60ci76KDoAZ1bne0n3FSOE"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Dig My Grave",
         "url": "https://open.spotify.com/album/3XbLTegeReM58PZrhTUGPe"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/4u3sNuRStPyc6sDKdy0xdU"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "STIGMVTA",
         "url": "https://open.spotify.com/album/1BlryPErvLF6aBXhrIvF7P"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/64MvQ5TAt9mtFaKG4jGiSZ"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Elegy",
         "url": "https://open.spotify.com/album/059xWq1XZy9oHy3whDGeAm"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/4FntoxvIjPGnyh2nyGlLT4"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Disbelief",
         "url": "https://open.spotify.com/album/1dnn9vqzxUPXSLBZHRB9J0"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/52wbpYYgEH90Vs1gIdFePI"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Obliterate",
         "url": "https://open.spotify.com/album/59TsIGwDTYAYBHj5jmhuK0"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/1aH8ml5SlSEUrhoBWIhnbe"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5oAbYfHwEtebk9H58QXxMi"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/41y7j0afdMocjig4tgwN29"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Ambivalence 2.0",
         "url": "https://open.spotify.com/album/0t1FjGdnw5LfuTNrc2Cw6R"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/30nDWv2kCT1onpw9JeKv9S"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Kthullu",
         "url": "https://open.spotify.com/album/10oYTRB7OGp6LslyFt0grk"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/6OV6ZWY1zCKNPyWL9vHHSZ"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Diversum",
         "url": "https://open.spotify.com/album/395PGtLKWOIa5iXNpy3fhK"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/4YdBtLa8tmbBqDlilUXvLj"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "I'm a Bitch",
         "url": "https://open.spotify.com/album/0e7czic09TCc01f86aAfIe"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/2SSSMiq3pI4l634QWf5KGy"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "DEATHWESTERN",
         "url": "https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "The Stories We Are Afraid of, Vol. 1",
         "url": "https://open.spotify.com/album/239phSIKZTJKZ3OaXe63vQ"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/0L4lziwpGvyX6MsVGODbom"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Fortified by Bloodshed",
         "url": "https://open.spotify.com/album/0l7KbR4AxPTAVs9R22MrIM"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/3A54tdbCgDX2vYzjjqGMlv"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Once Awake",
         "url": "https://open.spotify.com/album/1gulCnYaZsTqxyCsMXEKe5"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/39ycD9T9gPd6UNszAYEJOd"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/15RHRZ70C3XRsU6qlJGKwX"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/1TthKu5VBunmmOL7q3V5ww"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Antigone",
         "url": "https://open.spotify.com/album/37n4oOLQma4cgUQRE3EWPr"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/2n7ooBd8x6STgBv7o2FMh7"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/39FnlpkJ1ddCPixBLy8CTu"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/3LRwx1MGD4Ot5a4PoKogwY"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Soul Furnace",
         "url": "https://open.spotify.com/album/52WJ9wMMAHC5F7mr9O5nEu"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/1tQe4PNcgNH2vdBwGHKmW8"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "We Are the Chosen",
         "url": "https://open.spotify.com/album/3lpI462zG9k80PomAkvEb1"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/1bEtADg0l120iuJ20KEZaE"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/0jLBKT1DGzBjKsimgdKawQ"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/4UfMlUermceyT9UOYs7X6B"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Eternal Fire",
         "url": "https://open.spotify.com/album/1ilPEP5adbszRiAJGW5H4E"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/6N0XPko4GqEnK0mfFVywu6"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Meanwhile",
         "url": "https://open.spotify.com/album/5dfQ2bxP5Xax0Z9Ss94gCG"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/2csGPtTAHPNunYSMLe6OQU"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-28 15:14:05",
       "album": {
         "name": "Better Off Dead",
         "url": "https://open.spotify.com/album/3tNBfquIhf2M8P7GTcogrL"

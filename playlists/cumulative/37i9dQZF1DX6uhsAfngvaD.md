@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-322 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+323 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Never Enough](https://open.spotify.com/track/7bogCrQMfTovtzuHx0Nszr) | [Low Hummer](https://open.spotify.com/artist/2bI3bjQZZKrlKYfiBczobD) | [Never Enough](https://open.spotify.com/album/07ac7JEnYJ2PeAsZPSuo7h) | 3:48 | 2021-02-06 | 2022-07-28 |
 | [never had a place](https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [never had a place](https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX) | 2:53 | 2022-04-01 |  |
 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 | 2022-02-24 |  |
-| [Now It's Gone](https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Now It's Gone](https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr) | 4:05 | 2021-08-01 |  |
+| [Now It's Gone](https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Now It's Gone](https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr) | 4:05 | 2021-08-01 | 2022-11-29 |
 | [Ocho Domingos](https://open.spotify.com/track/4Z3kYIFtzf69vXdRDGTLfP) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [não não](https://open.spotify.com/album/1YGOwQRrbTILIXICx0KiGz) | 2:34 | 2021-04-30 | 2022-04-18 |
 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 | 2020-11-06 | 2022-11-18 |
 | [Old Canvas](https://open.spotify.com/track/5JREM5ZdkL20Yeiv71nssh) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Old Canvas](https://open.spotify.com/album/6ITW1wLstKHkOUMin1G3ew) | 4:30 | 2021-07-19 | 2022-07-29 |
@@ -282,6 +282,7 @@
 | [Temps](https://open.spotify.com/track/5jh147eWeuNyimT2Oo1A5J) | [Mellow Gang](https://open.spotify.com/artist/048vFxJzjmNds1zJjeZ3mP) | [Temps](https://open.spotify.com/album/4zLS3ANkrGUVlKjz7PvG73) | 3:46 | 2019-11-19\* | 2021-02-06 |
 | [Tenderness](https://open.spotify.com/track/0l4cR2AZ18MktMd0BU3zwh) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/7zNsEEBdQImuX9pFfDMblw) | 4:01 | 2020-12-22 | 2022-07-29 |
 | [Tenderness](https://open.spotify.com/track/2HsKkeVWys5Ts20z3e5lT0) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 4:01 | 2022-07-06 | 2022-11-25 |
+| [Tenderness](https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 4:01 | 2022-07-06 |  |
 | [Tenue](https://open.spotify.com/track/2uQ5w2gLmKxdQD9KJNj0g8) | [Salvana](https://open.spotify.com/artist/7t30OuyAfbI9kVdWBtoQFu) | [Tenue](https://open.spotify.com/album/5ppUv3i6B7SBmiIQhpV5sI) | 3:46 | 2022-04-13 | 2022-04-20 |
 | [Terrestrial Changeover Blues \(2007 – 2012\)](https://open.spotify.com/track/5I324DQSe589WK21l83G6X) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Terrestrial Changeover Blues \(2007 – 2012\)](https://open.spotify.com/album/1VgHTIASNa1VxN6PdEFykb) | 5:01 | 2019-11-19\* | 2020-08-09 |
 | [Thankful](https://open.spotify.com/track/2eN6V8hiaW2BB7ol4UVvYf) | [Andrew Younker](https://open.spotify.com/artist/0vtP0a9XL5ZWM8HvOusFHA) | [Thankful](https://open.spotify.com/album/6nrNvv3xEdW2e6Rd3QRvLO) | 3:43 | 2019-11-19\* | 2020-08-09 |

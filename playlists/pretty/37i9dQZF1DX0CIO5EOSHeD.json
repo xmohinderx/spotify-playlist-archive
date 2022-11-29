@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 393148,
+  "num_followers": 393537,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMGNhNjhhODU4ODlkMDI0NjI3Y2JlNWRlZTZkMmY1YzMz",
+  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMDNhYzRiNDVmMjgwYzU1NGE3Y2U0MDBhNzU3NDJiNGM0",
   "tracks": [
     {
       "added_at": "2022-09-23 10:47:53",
@@ -159,26 +159,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 165671,
       "name": "haunt me (x 3)",
       "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Luxury Beverage",
+        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "lavender blood",
+      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "concussion",
         "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 132000,
       "name": "Car Crash in G Major",
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Luxury Beverage",
-        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
-      },
-      "artists": [
-        {
-          "name": "Fox Academy",
-          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "lavender blood",
-      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Blue Suicide",
         "url": "https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153234,
       "name": "Her Sinking Sun",
       "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -903,6 +903,22 @@
       "duration_ms": 191641,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -971,22 +987,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 131174,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1047,22 +1063,6 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "at least, I tried",
-        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
       },
       "artists": [
         {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
         }
       ],
-      "duration_ms": 194060,
-      "name": "at least, I tried",
-      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
+      "duration_ms": 312400,
+      "name": "Deaf",
+      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
+        "name": "at least, I tried",
+        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
       },
       "artists": [
         {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
         }
       ],
-      "duration_ms": 312400,
-      "name": "Deaf",
-      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
+      "duration_ms": 194060,
+      "name": "at least, I tried",
+      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1319,42 +1319,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Body Jumper (Deluxe)",
-        "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        },
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Mystery Key - Eyedress Remix",
-      "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1371,6 +1335,22 @@
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1431,6 +1411,26 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Body Jumper (Deluxe)",
+        "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Mystery Key - Eyedress Remix",
+      "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "i wish things were different",
         "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
       },
@@ -1475,6 +1475,26 @@
       "duration_ms": 202818,
       "name": "Dreams of Losing Teeth",
       "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Ways To Get Out",
+        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "BOYO",
+          "url": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Ways To Get Out",
-        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "BOYO",
-          "url": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "blood on the pavement",
         "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 221333,
       "name": "blood on the pavement",
       "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN"
+      },
+      "artists": [
+        {
+          "name": "rainbow frog biscuits",
+          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1583,18 +1599,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN"
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
       },
       "artists": [
         {
-          "name": "rainbow frog biscuits",
-          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC"
+      "duration_ms": 172729,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1647,22 +1667,6 @@
       "duration_ms": 203444,
       "name": "Fade",
       "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Arp-87",
-        "url": "https://open.spotify.com/album/3XEUvW827y0tEadUoLhssf"
-      },
-      "artists": [
-        {
-          "name": "bloody/bath",
-          "url": "https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc"
-        }
-      ],
-      "duration_ms": 169728,
-      "name": "Arp-87",
-      "url": "https://open.spotify.com/track/5On6JIPxzzvVZ40ViSzydm"
     }
   ],
   "unique_name": "Lo-fi Indie",

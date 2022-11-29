@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-241 songs - 21 hr 9 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
+242 songs - 21 hr 15 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bloom](https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Bloom](https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq) | 4:44 | 2022-10-07 | 2022-11-14 |
 | [Blóð](https://open.spotify.com/track/5XLPGis2GkyXNtTRzpFuWQ) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Blóð](https://open.spotify.com/album/6pB1TTndHh2TUYZuiySCNA) | 4:55 | 2021-12-23 | 2022-07-25 |
 | [Blurred Mind](https://open.spotify.com/track/6pfGL6jUXO00ogAsTxr5C4) | [Feinheitsbrei](https://open.spotify.com/artist/5kSE2CEyHc2XC9lQCAH1ET) | [From Mind To Set](https://open.spotify.com/album/7mX4xS9kuoLJe9B9gnMCsm) | 7:55 | 2022-04-04 | 2022-04-21 |
-| [Bosque](https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosquemar](https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5) | 6:33 | 2021-12-23 |  |
+| [Bosque](https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosquemar](https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5) | 6:33 | 2021-12-23 | 2022-11-29 |
 | [Breaking Hearts feat\. Amos \- Black Coffee Remix](https://open.spotify.com/track/67Jq82bDcQipORC0yBiZcc) | [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Breaking Hearts feat\. Amos](https://open.spotify.com/album/42Qi6nkOLmcUoMK3tJI7Ah) | 8:18 | 2022-01-21 | 2022-05-03 |
 | [Broken Promises](https://open.spotify.com/track/7wYm3DH6khozGDQ7wrrjXT) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Remind Me Tomorrow](https://open.spotify.com/album/5EYZr4IlOijDD05kllzVUk) | 7:00 | 2022-06-17 | 2022-07-22 |
 | [Burning Out](https://open.spotify.com/track/4G3pmmd9wvdU526OfIRZ0t) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out](https://open.spotify.com/album/7iyQSMVIGjqaexRkvNGEqz) | 4:44 | 2021-12-23 | 2022-07-29 |
@@ -230,6 +230,7 @@
 | [Unite](https://open.spotify.com/track/3oIybLlADYuhdinp3LB8Ct) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l), [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Unite](https://open.spotify.com/album/3mobiZAUlWOmLEtcasYTTh) | 5:20 | 2022-01-14 | 2022-07-28 |
 | [Unknown Colors](https://open.spotify.com/track/6WObyUzuwHeNGX3gbxRQtQ) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a) | [Unknown Colors](https://open.spotify.com/album/3n7wRiu9DGoYoFj5M5o2HX) | 3:57 | 2022-01-14 | 2022-07-22 |
 | [Vaal](https://open.spotify.com/track/1VwrgkMDeccLvOdX9q5QJs) | [Crouwel](https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE) | [Vaal](https://open.spotify.com/album/7FuSN7H620KARGtXqV9LK6) | 3:48 | 2022-11-17 | 2022-11-26 |
+| [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 | 2022-11-16 |  |
 | [Vanishing Point](https://open.spotify.com/track/1isn773FL9xsRDYUIB58i2) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Vanishing Point](https://open.spotify.com/album/3B88Mga9CKtKfN5936bxg8) | 4:43 | 2022-04-04 | 2022-07-29 |
 | [Ve](https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Ve](https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA) | 5:04 | 2022-09-09 | 2022-10-15 |
 | [Verdammt \- Radio Edit](https://open.spotify.com/track/6B8hCZtANfdTrU4y9P9R5i) | [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Verdammt](https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT) | 3:37 | 2022-11-17 | 2022-11-26 |

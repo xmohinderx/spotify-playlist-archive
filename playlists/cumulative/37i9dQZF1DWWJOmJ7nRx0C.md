@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Smashing Pumpkins
 
-565 songs - 1 day 10 hr 3 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+566 songs - 1 day 10 hr 6 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 | 2022-02-11 | 2022-05-20 |
 | [Love is Red](https://open.spotify.com/track/7Bv3EeVZG2U79f51j483rk) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Love is Red](https://open.spotify.com/album/4oEGYiFN0HZvJJZNUnUMXJ) | 3:43 | 2022-06-10 | 2022-11-26 |
 | [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 | 2022-03-04 |  |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-28 |  |
 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 | 2022-08-26 | 2022-11-19 |
 | [Make Believe](https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Make Believe](https://open.spotify.com/album/1GJWSnfxaODYIrS6uoqiB6) | 3:49 | 2022-02-18 |  |
 | [Mama I'm Coming Home](https://open.spotify.com/track/1MKea3qAeUgkpoHYAMcDhK) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters \(Deluxe\)](https://open.spotify.com/album/0Rr7MekxYWWO1u1Ph3onQY) | 3:50 | 2022-10-28 |  |

@@ -1,11 +1,37 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Hip-Hop tracks from the Arab world. Cover: Don Bigg",
+  "description": "Hip-Hop tracks from the Arab world. Cover: Soulja",
   "name": "Arab Hip-Hop",
   "published_playlist_ids": [
     "70MdVBD0r1zGbWmfrHFVvq"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/6FJG9netL0WN7AtQlvh8z6"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        },
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "100",
+      "url": "https://open.spotify.com/track/62OHA0jRO6x5JFofdeZ5Tr"
+    },
     {
       "album": {
         "name": "Z5M",
@@ -258,6 +284,28 @@
     },
     {
       "album": {
+        "name": "Law Makonash 7awelna",
+        "url": "https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu"
+    },
+    {
+      "album": {
         "name": "Baghdad Drill",
         "url": "https://open.spotify.com/album/3Hm4AUiaym0kardXgz1qJl"
       },
@@ -370,6 +418,32 @@
     },
     {
       "album": {
+        "name": "BEL 3AKS",
+        "url": "https://open.spotify.com/album/4ds49GyngSgvVoUt8TEtLE"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        },
+        {
+          "name": "Lella Fadda",
+          "url": "https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "BEL 3AKS",
+      "url": "https://open.spotify.com/track/6ar3PwuylnywVRKfIFAyJN"
+    },
+    {
+      "album": {
         "name": "Bip Bip",
         "url": "https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0"
       },
@@ -421,6 +495,28 @@
       "duration_ms": 180000,
       "name": "Briya",
       "url": "https://open.spotify.com/track/79wJvtTKL8iHMz4yWpfjzO"
+    },
+    {
+      "album": {
+        "name": "Caribby",
+        "url": "https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        },
+        {
+          "name": "77",
+          "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136001,
+      "name": "Caribby",
+      "url": "https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi"
     },
     {
       "album": {
@@ -587,7 +683,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 101239,
       "name": "Doos",
       "url": "https://open.spotify.com/track/10p9dAdwouu6jqsb0vzeJg"
@@ -828,6 +924,24 @@
     },
     {
       "album": {
+        "name": "FORSSA",
+        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197785,
+      "name": "FORSSA",
+      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
+    },
+    {
+      "album": {
         "name": "Mamluk",
         "url": "https://open.spotify.com/album/1fHgXqSDYYSUxvrBOg6XJu"
       },
@@ -901,7 +1015,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 206808,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje"
@@ -1282,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "MESAMA3EEN",
+        "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "KATAFAST",
+      "url": "https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm"
+    },
+    {
+      "album": {
         "name": "Keify Keda",
         "url": "https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq"
       },
@@ -1488,6 +1620,28 @@
     },
     {
       "album": {
+        "name": "Law Makonash 7awelna",
+        "url": "https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186897,
+      "name": "Law Makonash 7awelna",
+      "url": "https://open.spotify.com/track/1KjEG5GBB8aUSkMTwGglWv"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
       },
@@ -1676,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Mouja",
+        "url": "https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195195,
+      "name": "Mouja",
+      "url": "https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa"
       },
@@ -1705,7 +1877,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 205297,
       "name": "Najem Leil",
       "url": "https://open.spotify.com/track/0XGjH4TgvARhLq5s2tPMHU"
@@ -2013,7 +2185,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 210607,
       "name": "Sami Khedira",
       "url": "https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op"
@@ -2137,6 +2309,24 @@
       "duration_ms": 151000,
       "name": "Shiva",
       "url": "https://open.spotify.com/track/61hQTYj7rPofrmQl9GIX65"
+    },
+    {
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265806,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
     },
     {
       "album": {
@@ -2637,6 +2827,24 @@
       "duration_ms": 188666,
       "name": "Wakti Yejri",
       "url": "https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr"
+    },
+    {
+      "album": {
+        "name": "Wayli",
+        "url": "https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259506,
+      "name": "Wayli",
+      "url": "https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-658 songs - 1 day 20 hr 13 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+659 songs - 1 day 20 hr 19 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Lust for Kicks \- 2016 Remaster](https://open.spotify.com/track/46wNKPMsxTt3Rzrrf245tB) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O \(Expanded Edition\)](https://open.spotify.com/album/4KnAHiizOLIE3O6Taypr8t) | 3:52 | 2019-09-08 |  |
 | [M.E.](https://open.spotify.com/track/3OiBc6E43P6Y5LoqNbbMKf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 5:37 | 2018-12-20 |  |
 | [Made of Stone \- Remastered](https://open.spotify.com/track/0bZelokqNQicLQfLU1Ayw8) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:14 | 2021-06-23 |  |
+| [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 | 2022-11-28 |  |
 | [Magneto And Titanium Man \- 1993 Digital Remaster](https://open.spotify.com/track/1oHJqJn5Y7lwCqZNWEdaMe) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Venus And Mars](https://open.spotify.com/album/4P12KrXWSN8CspOvIuD4rl) | 3:16 | 2020-08-10 |  |
 | [Major League Chemicals](https://open.spotify.com/track/2gK0a8pexduIfOODoxujNp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 3:53 | 2019-06-06 |  |
 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 | 2019-01-05 |  |

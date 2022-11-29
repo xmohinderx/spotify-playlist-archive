@@ -4,7 +4,7 @@
 
 > West African love stories wrapped up in song
 
-148 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/6ktLbnDhV5PLxAEX8at8Ai)
+149 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/6ktLbnDhV5PLxAEX8at8Ai)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Wedding Ring](https://open.spotify.com/track/2GTSiA8p1PLsArt4PCJJ5a) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Wedding Ring](https://open.spotify.com/album/0zpZR5u7gzRiIEtLQ3rVui) | 3:01 | 2022-07-07 | 2022-08-14 |
 | [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 | 2022-09-09 | 2022-11-19 |
 | [Winner](https://open.spotify.com/track/0VNpGyvGm4x4G78K2htr5Y) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Winner](https://open.spotify.com/album/5qHcpK4aGNBpAXkxk3XBd0) | 2:53 | 2022-11-04 | 2022-11-12 |
-| [WINNER](https://open.spotify.com/track/14FRaNhhJ0hbgtFdY48Ed1) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [WINNER](https://open.spotify.com/album/38OBkuvhiliWmf7N2sllyP) | 2:53 | 2022-11-04 |  |
+| [WINNER](https://open.spotify.com/track/14FRaNhhJ0hbgtFdY48Ed1) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [WINNER](https://open.spotify.com/album/38OBkuvhiliWmf7N2sllyP) | 2:53 | 2022-11-04 | 2022-11-29 |
+| [WINNER](https://open.spotify.com/track/2OiYtmHf9LWj7xaxjg09rA) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [What A Time To Bee Alive](https://open.spotify.com/album/362skm7l6Vuafp2JwJdqIL) | 2:53 | 2022-11-04 |  |
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 |  |
 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 | 2022-09-01 | 2022-10-22 |
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2022-10-13 |  |

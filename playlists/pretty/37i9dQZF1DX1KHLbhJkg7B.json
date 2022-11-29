@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 80569,
+  "num_followers": 80594,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGFmZDI5MWZlNWEwZjAxYmI5NmE2YjBhYjMzZjIzMzA4",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDBlYzdmMGU2NzUwMjhhM2M1N2MyYjY2YWYzYjE0OTFm",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 198786,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "He Got the Best of Me",
+        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "He Got the Best of Me",
+      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "It's Only Rock 'N' Roll (But I Like It)",
         "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 322346,
       "name": "It's Only Rock 'N' Roll (But I Like It)",
       "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "He Got the Best of Me",
-        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "He Got the Best of Me",
-      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "15 Years, the Wild Ride",
         "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 272786,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Your Body Is a Wonderland",
         "url": "https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 217659,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Under the Covers",
-        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Into the Mystic",
-      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Kellyoke",
         "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 232005,
       "name": "Blue Bayou",
       "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Into the Mystic",
+      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Re-Dunn",
-        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Long Cool Woman (In a Black Dress)",
-      "url": "https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Just to See You Smile",
         "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 269525,
       "name": "Just to See You Smile",
       "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Re-Dunn",
+        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Long Cool Woman (In a Black Dress)",
+      "url": "https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "If We Were Vampires",
-        "url": "https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK"
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS"
       },
       "artists": [
         {
-          "name": "Motel Drive",
-          "url": "https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD"
-        },
-        {
-          "name": "Poor Mans Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 253370,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM"
+      "duration_ms": 247765,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
     }
   ],
   "unique_name": "Country Covers",

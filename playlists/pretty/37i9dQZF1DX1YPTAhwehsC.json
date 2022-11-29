@@ -1,13 +1,81 @@
 {
   "description": "Up and down I-95. Cover: Lil Uzi Vert",
-  "num_followers": 424800,
+  "num_followers": 424917,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDVlN2U3NDNiZDdlZjA2MzZlYmUwYTgzNGM5M2U2YTQ5",
+  "snapshot_id": "MTY2OTYxODIxOCwwMDAwMDAwMDZiNzc4NTE4NzIzMDA0MzQ3MTU3YWMzMTQ1OTYyZTZi",
   "tracks": [
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Why Would I Lack? (feat. SPMB Bills)",
+        "url": "https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "name": "SPMB BILLS",
+          "url": "https://open.spotify.com/artist/50DbCckCwUGuAvBlktc1VS"
+        }
+      ],
+      "duration_ms": 176681,
+      "name": "Why Would I Lack? (feat. SPMB Bills)",
+      "url": "https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "40s N 9s",
+        "url": "https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 145606,
+      "name": "40s N 9s",
+      "url": "https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/1pnwc4c5qjgxr2tVdSU4C5"
+    },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
@@ -31,42 +99,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The Fuse Is Lit",
-        "url": "https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 214368,
-      "name": "Bulletproof Skin",
-      "url": "https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Take Shots (feat. Tory Lanez)",
         "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
       },
@@ -85,20 +117,56 @@
       "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Marie",
-        "url": "https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA"
+        "name": "No Passes",
+        "url": "https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/1pnwc4c5qjgxr2tVdSU4C5"
+      "duration_ms": 160993,
+      "name": "No Passes",
+      "url": "https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Don't Play With It (feat. Billy B)",
+        "url": "https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Billy B",
+          "url": "https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Don't Play With It (feat. Billy B)",
+      "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi"
+      },
+      "artists": [
+        {
+          "name": "Is0kenny",
+          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
+        }
+      ],
+      "duration_ms": 104960,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -133,26 +201,6 @@
       "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Why Would I Lack? (feat. SPMB Bills)",
-        "url": "https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T"
-      },
-      "artists": [
-        {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        },
-        {
-          "name": "SPMB BILLS",
-          "url": "https://open.spotify.com/artist/50DbCckCwUGuAvBlktc1VS"
-        }
-      ],
-      "duration_ms": 176681,
-      "name": "Why Would I Lack? (feat. SPMB Bills)",
-      "url": "https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Nobody Bigger",
@@ -167,22 +215,6 @@
       "duration_ms": 119074,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/023xjgk2PLyIhF8g112Wfp"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -203,6 +235,42 @@
       "duration_ms": 96000,
       "name": "1 On 3 (feat. Rvssian)",
       "url": "https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "added_at": "2022-11-28 06:50:18",
+      "album": {
+        "name": "Rollin in the Dope (feat. Zack)",
+        "url": "https://open.spotify.com/album/2e9v7OITguQCCSz4DJu5JI"
+      },
+      "artists": [
+        {
+          "name": "Chinx",
+          "url": "https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS"
+        },
+        {
+          "name": "Zack",
+          "url": "https://open.spotify.com/artist/6Bynz2a2jXzjPCWDFs3Qxf"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "Rollin in the Dope (feat. Zack)",
+      "url": "https://open.spotify.com/track/0kV9y2UQ4KjcfwkRbOEXw1"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -245,6 +313,26 @@
       "url": "https://open.spotify.com/track/1C41orKYTaul2aYazWzQ0E"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Fuse Is Lit",
+        "url": "https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 214368,
+      "name": "Bulletproof Skin",
+      "url": "https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "O to the G",
@@ -275,6 +363,22 @@
       "duration_ms": 153600,
       "name": "INFLUENCE",
       "url": "https://open.spotify.com/track/0vcCzkD7GK0641SPcHM6XF"
+    },
+    {
+      "added_at": "2022-11-28 06:50:18",
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/21SdIqju7srs1SNntOX9Jq"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "duration_ms": 225088,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/3WT6yVyFwS38gGiftAG8qv"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -449,22 +553,6 @@
       "url": "https://open.spotify.com/track/7EueLkefPMk3k2oj9tSroP"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Speak Up",
-        "url": "https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi"
-      },
-      "artists": [
-        {
-          "name": "Is0kenny",
-          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
-        }
-      ],
-      "duration_ms": 104960,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Krash Out",
@@ -481,20 +569,36 @@
       "url": "https://open.spotify.com/track/0feZz6FZLnuBACiRNIVvWL"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-11-28 06:50:18",
       "album": {
-        "name": "No Passes",
-        "url": "https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/437kvwYTzkpwEnWe0ev5wc"
       },
       "artists": [
         {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
         }
       ],
-      "duration_ms": 160993,
-      "name": "No Passes",
-      "url": "https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K"
+      "duration_ms": 189544,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/2KF1l4TqQ1e6NiblLyrnWC"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Telfy",
+        "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Telfy",
+      "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -553,6 +657,22 @@
       "url": "https://open.spotify.com/track/2XZqsIRtWvPjWxGg8ag6mp"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Beat the Odds",
+        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Beat the Odds",
+      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Sweet Yamz",
@@ -571,22 +691,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Telfy",
-        "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
-      },
-      "artists": [
-        {
-          "name": "Maiya The Don",
-          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
-        }
-      ],
-      "duration_ms": 187376,
-      "name": "Telfy",
-      "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Bikini Bottom",
         "url": "https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq"
       },
@@ -599,26 +703,6 @@
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Don't Play With It (feat. Billy B)",
-        "url": "https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Billy B",
-          "url": "https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "Don't Play With It (feat. Billy B)",
-      "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1143,22 +1227,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Walkin Lick",
-        "url": "https://open.spotify.com/album/58soLgHviEngUxntjwGyDf"
-      },
-      "artists": [
-        {
-          "name": "FCG Heem",
-          "url": "https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Walkin Lick",
-      "url": "https://open.spotify.com/track/3pgkWyXIFjeyAC8JVDCwqY"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "WHATCHUEXPECT",
         "url": "https://open.spotify.com/album/0YPgJF6eLxQgtQeKJheW9V"
       },
@@ -1179,22 +1247,6 @@
       "duration_ms": 123480,
       "name": "WHATCHUEXPECT",
       "url": "https://open.spotify.com/track/06DkMPykiPT6roBlEi0oHY"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "40s N 9s",
-        "url": "https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 145606,
-      "name": "40s N 9s",
-      "url": "https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1467,22 +1519,6 @@
       "duration_ms": 123428,
       "name": "Winning",
       "url": "https://open.spotify.com/track/65qBYY6NRQ9yWNVSZyQ69N"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Beat the Odds",
-        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Beat the Odds",
-      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1827,38 +1863,6 @@
       "duration_ms": 159626,
       "name": "What You Do",
       "url": "https://open.spotify.com/track/0mn3Xrxr3GuRf3Pq1AlsKK"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Players Card",
-        "url": "https://open.spotify.com/album/68mLcJKmbTNHuIEfZv6XHj"
-      },
-      "artists": [
-        {
-          "name": "Corey Lee",
-          "url": "https://open.spotify.com/artist/3dxk8qxVs3og7n9WEi7KAQ"
-        }
-      ],
-      "duration_ms": 143699,
-      "name": "Players Card",
-      "url": "https://open.spotify.com/track/2wnRPs7i0wWa2zqPv6FNIV"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/16ku1ffXsoeJI5I5rxJv1k"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 162236,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/7B2jL3UDbYPXO4zE1WBXw7"
     }
   ],
   "unique_name": "State of Mind",

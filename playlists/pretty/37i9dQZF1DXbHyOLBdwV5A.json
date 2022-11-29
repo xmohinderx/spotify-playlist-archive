@@ -1,15 +1,15 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Gui Brazil",
-  "num_followers": 89695,
+  "num_followers": 89740,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1Mzg3MiwwMDAwMDAwMGRiZjg4ZGY4YmE0NTFlOTNiZjE4Y2YyNjQ5YTUzMzY0",
+  "snapshot_id": "MTY2OTM1Mzg3MiwwMDAwMDAwMDBkM2M5MWQxYzNmNWUzODhlZjE2ZWVlOTYwMjZjN2Yz",
   "tracks": [
     {
-      "added_at": "2022-11-28 01:39:21",
+      "added_at": "2022-11-29 01:39:00",
       "album": {
         "name": "Fim de Tarde",
         "url": "https://open.spotify.com/album/4kcDWDDlPyxkgj0h3mtlu2"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
     },
     {
-      "added_at": "2022-11-28 01:39:21",
+      "added_at": "2022-11-29 01:39:00",
       "album": {
         "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
         "url": "https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq"
@@ -275,50 +275,6 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 191552,
-      "name": "Eu Tenho Voc\u00ea (Remix)",
-      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "S\u00f3 o Come\u00e7o (Remix)",
-        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "S\u00f3 o Come\u00e7o - Remix",
-      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Controle (Remix)",
         "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
@@ -379,32 +335,8 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "A Casa Sou Eu",
-        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "A Casa Sou Eu - Remix",
-      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
+        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
       },
       "artists": [
         {
@@ -414,11 +346,15 @@
         {
           "name": "Marcelo Markes",
           "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 151945,
-      "name": "Me Faz Viver",
-      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
+      "duration_ms": 191552,
+      "name": "Eu Tenho Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -443,6 +379,50 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
+        "name": "S\u00f3 o Come\u00e7o (Remix)",
+        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "S\u00f3 o Come\u00e7o - Remix",
+      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "A Casa Sou Eu",
+        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "A Casa Sou Eu - Remix",
+      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
         "name": "Sou Casa (Remix)",
         "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
       },
@@ -459,26 +439,38 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Eu Confio Em Ti (Remix)",
-        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
       },
       "artists": [
         {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
         },
         {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "MAYK",
-          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 235468,
-      "name": "Eu Confio Em Ti - Remix",
-      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+      "duration_ms": 151945,
+      "name": "Me Faz Viver",
+      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -507,42 +499,26 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea",
-        "url": "https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O"
+        "name": "Eu Confio Em Ti (Remix)",
+        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
       "artists": [
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
         },
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
         },
         {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze"
+          "name": "MAYK",
+          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
         }
       ],
-      "duration_ms": 258750,
-      "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
-      "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
+      "duration_ms": 235468,
+      "name": "Eu Confio Em Ti - Remix",
+      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -587,6 +563,50 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
+        "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea",
+        "url": "https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
+      "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Loucura (Remix)",
+        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        }
+      ],
+      "duration_ms": 225519,
+      "name": "Loucura - Remix",
+      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
         "name": "Furioso Oceano (Remix)",
         "url": "https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0"
       },
@@ -627,26 +647,6 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Loucura (Remix)",
-        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
-      },
-      "artists": [
-        {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
-        },
-        {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
-        }
-      ],
-      "duration_ms": 225519,
-      "name": "Loucura - Remix",
-      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Encontrei o Meu Lugar (Remix)",
         "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
@@ -671,26 +671,6 @@
       "duration_ms": 165967,
       "name": "Encontrei o Meu Lugar - Remix",
       "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Melhor Lugar (Remix)",
-        "url": "https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Melhor Lugar - Remix",
-      "url": "https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -739,26 +719,22 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Eu Vou",
-        "url": "https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8"
+        "name": "Melhor Lugar (Remix)",
+        "url": "https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh"
       },
       "artists": [
         {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         },
         {
-          "name": "Tau",
-          "url": "https://open.spotify.com/artist/40fjdEnFbsUttaYODZDk3f"
-        },
-        {
-          "name": "Fernanda Reis",
-          "url": "https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX"
+      "duration_ms": 206250,
+      "name": "Melhor Lugar - Remix",
+      "url": "https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -811,30 +787,6 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Deus \u00c9 Bom o Tempo Todo",
         "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
       },
@@ -859,6 +811,54 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Tau",
+          "url": "https://open.spotify.com/artist/40fjdEnFbsUttaYODZDk3f"
+        },
+        {
+          "name": "Fernanda Reis",
+          "url": "https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 247862,
       "name": "Controle",
       "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Tudo Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        },
+        {
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+        }
+      ],
+      "duration_ms": 209998,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -919,46 +939,22 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Tudo Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/3MChRzTGZ69uEyDa76Qusl"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
         },
         {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         }
       ],
-      "duration_ms": 209998,
-      "name": "Tudo Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
-        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
-        },
-        {
-          "name": "Izaac Santos",
-          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
-        }
-      ],
-      "duration_ms": 161169,
-      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
-      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+      "duration_ms": 165000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/3gkNnS1ANFvOKhji7QEGoa"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1007,22 +1003,26 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/3MChRzTGZ69uEyDa76Qusl"
+        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
+        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
       "artists": [
         {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+        },
+        {
+          "name": "Izaac Santos",
+          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/3gkNnS1ANFvOKhji7QEGoa"
+      "duration_ms": 161169,
+      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
+      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1039,6 +1039,26 @@
       "duration_ms": 151330,
       "name": "Sobre Todo Nome",
       "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+        }
+      ],
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1063,42 +1083,26 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/4z5oXRNJSmrvsvm6oJgbEX"
+        "name": "Dias de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
       },
       "artists": [
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
         },
         {
-          "name": "Lorhann",
-          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
-        }
-      ],
-      "duration_ms": 145194,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/2dcHLyqHr0OFEUfw4nmmuA"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+          "name": "Bruno Jovita",
+          "url": "https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL"
         }
       ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
+      "duration_ms": 200476,
+      "name": "Dias de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1129,27 +1133,7 @@
       "url": "https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D"
     },
     {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
-    },
-    {
-      "added_at": "2022-11-28 01:39:21",
+      "added_at": "2022-11-29 01:39:00",
       "album": {
         "name": "O Vazio",
         "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
@@ -1171,6 +1155,46 @@
       "duration_ms": 176746,
       "name": "O Vazio",
       "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/4z5oXRNJSmrvsvm6oJgbEX"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+        }
+      ],
+      "duration_ms": 145194,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/2dcHLyqHr0OFEUfw4nmmuA"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1215,50 +1239,18 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Dias de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
       "artists": [
         {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Bruno Jovita",
-          "url": "https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL"
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
         }
       ],
-      "duration_ms": 200476,
-      "name": "Dias de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Meu Pastor",
-        "url": "https://open.spotify.com/album/2pYrFe5fNwevFR7Tj4yhpo"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Paulo Roberto",
-          "url": "https://open.spotify.com/artist/75cRf4Gt2Us0LtN5pDBQuE"
-        }
-      ],
-      "duration_ms": 179523,
-      "name": "Meu Pastor",
-      "url": "https://open.spotify.com/track/04aufbCqQ5adE5h4bPSgGk"
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1279,42 +1271,6 @@
       "duration_ms": 232500,
       "name": "S\u00f3 em Ti",
       "url": "https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1357,7 +1313,7 @@
       "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
-      "added_at": "2022-11-28 01:39:21",
+      "added_at": "2022-11-29 01:39:00",
       "album": {
         "name": "Templo Fit Remix",
         "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
@@ -1373,7 +1329,7 @@
       "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
     },
     {
-      "added_at": "2022-11-28 01:39:21",
+      "added_at": "2022-11-29 01:39:00",
       "album": {
         "name": "Alvo",
         "url": "https://open.spotify.com/album/4IHa4QvURqyaLTBidFdwLg"
@@ -1391,6 +1347,50 @@
       "duration_ms": 166428,
       "name": "Alvo",
       "url": "https://open.spotify.com/track/6aNbfAAucaaVlqtmqBVIu5"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Meu Pastor",
+        "url": "https://open.spotify.com/album/2pYrFe5fNwevFR7Tj4yhpo"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Paulo Roberto",
+          "url": "https://open.spotify.com/artist/75cRf4Gt2Us0LtN5pDBQuE"
+        }
+      ],
+      "duration_ms": 179523,
+      "name": "Meu Pastor",
+      "url": "https://open.spotify.com/track/04aufbCqQ5adE5h4bPSgGk"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
     },
     {
       "added_at": "2022-10-14 05:49:13",

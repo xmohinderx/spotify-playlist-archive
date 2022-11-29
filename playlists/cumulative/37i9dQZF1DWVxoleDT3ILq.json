@@ -35,7 +35,7 @@
           "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
         }
       ],
-      "date_added": "2022-11-12",
+      "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 142106,
@@ -2541,7 +2541,7 @@
           "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "date_added": "2022-11-12",
+      "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241500,
@@ -2801,7 +2801,7 @@
           "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "date_added": "2022-11-12",
+      "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222543,
@@ -3579,7 +3579,7 @@
           "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
         }
       ],
-      "date_added": "2022-11-12",
+      "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 282490,
@@ -4719,7 +4719,7 @@
           "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
         }
       ],
-      "date_added": "2022-11-12",
+      "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219031,
@@ -5010,6 +5010,28 @@
     },
     {
       "album": {
+        "name": "Ultravioleta",
+        "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
+      },
+      "artists": [
+        {
+          "name": "mitimitis",
+          "url": "https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F"
+        },
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314026,
+      "name": "Ultravioleta",
+      "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
+    },
+    {
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
       },
@@ -5123,7 +5145,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 271162,
       "name": "Una Calma",
       "url": "https://open.spotify.com/track/5nQj5zdIaN4saUEfwMTUWF"

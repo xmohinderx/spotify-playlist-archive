@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=wK5EehwHQWy9\_J\-fJBJmXw">Kwesta</a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=BCrd0kdJTleJFFu8BxC\-\-w">Kabza De Small</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,040 likes - 52 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,077 likes - 52 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

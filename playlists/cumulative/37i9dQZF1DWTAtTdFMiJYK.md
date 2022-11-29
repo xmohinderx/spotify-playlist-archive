@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Twin Strings
 
-190 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+191 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Be Easy](https://open.spotify.com/track/385HQiCjv8SupdPX2XAX8e) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [YodaDrunk](https://open.spotify.com/artist/1n1QC4XCxAiLh3pnnwiK7I) | [Be Easy](https://open.spotify.com/album/41nTEAqZy01P9q6XTxYNlK) | 2:59 | 2021-12-06 | 2022-01-11 |
 | [Bekhabar](https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Bekhabar](https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV) | 2:50 | 2022-08-02 |  |
 | [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 | 2022-06-10 |  |
-| [Bill Hilly](https://open.spotify.com/track/2zRbsZPA9Q0zQFcUPmYXyU) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 2:15 | 2022-03-21 |  |
+| [Bill Hilly](https://open.spotify.com/track/2zRbsZPA9Q0zQFcUPmYXyU) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 2:15 | 2022-03-21 | 2022-11-29 |
 | [Bina Tere](https://open.spotify.com/track/4vbHPgMizyrdNMYbCnxseY) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Avish](https://open.spotify.com/artist/6Xmihw4G1rNjdUI3eH1QBv) | [Bina Tere](https://open.spotify.com/album/7BOELerzdNBiNf9igd9V6s) | 3:08 | 2021-12-06 | 2022-06-11 |
 | [Blush](https://open.spotify.com/track/6IjeHG6oLIkZeSq2SMEAtd) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Blush](https://open.spotify.com/album/5XLBXjciXLRxhhRI99zaOP) | 3:19 | 2021-12-06 | 2022-01-11 |
 | [Boonda Baandi](https://open.spotify.com/track/1CwU0cJqshRIJ14YFAFytm) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Boonda Baandi](https://open.spotify.com/album/7Kxpe3psy5jJQZwBL0JA3S) | 4:22 | 2021-12-06 | 2022-08-09 |
@@ -77,6 +77,7 @@
 | [I'm On Holiday](https://open.spotify.com/track/1o80HBoapHZKj4DfiEAvE2) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/2qUiZUyvXbvqyDXEUrkPIC) | 3:32 | 2022-01-10 | 2022-02-01 |
 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2021-12-06 | 2022-01-11 |
 | [idk](https://open.spotify.com/track/6EPAW0VyoXqJBEmgQXnFfV) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [idk](https://open.spotify.com/album/0tO2P9QpZ0QeVTojBuQ9Yw) | 2:45 | 2022-06-02 | 2022-06-11 |
+| [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi) | 3:16 | 2022-11-28 |  |
 | [Ilm Na Mujhe Ishq Ki](https://open.spotify.com/track/50UEBQ956XJj1tEYU11Q29) | [Iram](https://open.spotify.com/artist/03vOPjk4buG4luOCylcWVh) | [Ilm Na Mujhe Ishq Ki](https://open.spotify.com/album/1qJfNKu5Iazzgfc1PwMX9T) | 4:23 | 2021-12-06 | 2022-01-11 |
 | [internet friends](https://open.spotify.com/track/7eGJxi6rL5Z0p7yQKJD8ID) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [internet friends](https://open.spotify.com/album/7h2qB3e507wkDaa3syS7l5) | 3:14 | 2022-02-08 | 2022-02-25 |
 | [Ishq Ke Sheher Mein](https://open.spotify.com/track/79IhwHGuF3XLbzZQuGPmWs) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Ishq Ke Sheher Mein](https://open.spotify.com/album/14LTcY8KKrT8VZTC5KkUK0) | 3:01 | 2022-03-21 | 2022-11-10 |

@@ -1,15 +1,31 @@
 {
   "description": "It's Hits \u2013 b\u00e4sta och st\u00f6rsta hitsen just nu.",
-  "num_followers": 651287,
+  "num_followers": 651325,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGRiOWJiZjk3NDExMTczYjI5NGE0MzllMGJkZmNjMjY2",
+  "snapshot_id": "MTY2OTYzNDA2OCwwMDAwMDAwMDdmNjY3YWEwMjRiZDRlZTRiMDQyNjdkNjdiZGE0YWM4",
   "tracks": [
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
+      "album": {
+        "name": "Anything You Say",
+        "url": "https://open.spotify.com/album/3LJS13iiVWy31x8WhEumNA"
+      },
+      "artists": [
+        {
+          "name": "Nike Sellmar",
+          "url": "https://open.spotify.com/artist/61drgErIKJq61Lbqdd62GP"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Anything You Say",
+      "url": "https://open.spotify.com/track/0QybIH9tGbiqh6I2pZsb9b"
+    },
+    {
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
@@ -29,103 +45,7 @@
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
-        "url": "https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA"
-      },
-      "artists": [
-        {
-          "name": "Daniela Rathana",
-          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
-      "url": "https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "H\u00e4lsa Gud",
-        "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 148799,
-      "name": "H\u00e4lsa Gud",
-      "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Ingen annan r\u00f6r mig som du",
-        "url": "https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 217854,
-      "name": "Ingen annan r\u00f6r mig som du",
-      "url": "https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "The Ballet Girl",
-        "url": "https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 201424,
-      "name": "The Ballet Girl",
-      "url": "https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
@@ -145,7 +65,87 @@
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
+      "album": {
+        "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
+        "url": "https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
+      "url": "https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv"
+    },
+    {
+      "added_at": "2022-11-28 11:14:28",
+      "album": {
+        "name": "The Ballet Girl",
+        "url": "https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 201424,
+      "name": "The Ballet Girl",
+      "url": "https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd"
+    },
+    {
+      "added_at": "2022-11-28 11:14:28",
+      "album": {
+        "name": "Ingen annan r\u00f6r mig som du",
+        "url": "https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 217854,
+      "name": "Ingen annan r\u00f6r mig som du",
+      "url": "https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn"
+    },
+    {
+      "added_at": "2022-11-28 11:14:28",
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "added_at": "2022-11-28 11:14:28",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2022 \u2013 Tolkningarna",
         "url": "https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon"
@@ -165,23 +165,23 @@
       "url": "https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
-        "name": "f\u00f6r oss",
-        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
+        "name": "H\u00e4lsa Gud",
+        "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
       },
       "artists": [
         {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 181000,
-      "name": "f\u00f6r oss",
-      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
+      "duration_ms": 148799,
+      "name": "H\u00e4lsa Gud",
+      "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "ENSAM (feat. estraden)",
         "url": "https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5"
@@ -201,7 +201,23 @@
       "url": "https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
+      "album": {
+        "name": "f\u00f6r oss",
+        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "f\u00f6r oss",
+      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
+    },
+    {
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Weapons",
         "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "What's the Point",
         "url": "https://open.spotify.com/album/3hx0O19NU7TD8eAzg48v34"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/1Cuthw0weFlC2xFEq0Pdlc"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X"
@@ -269,7 +285,23 @@
       "url": "https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "L\u00e5t mig g\u00e5",
         "url": "https://open.spotify.com/album/4fU7tWWq6MAiOq5g7RDqAn"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/4tlGcxLzdWUxrabEPpflvC"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "All I Need (feat. Franglish)",
         "url": "https://open.spotify.com/album/0ed4blzp0BbBtJLq0XugJ7"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Down In Atlanta",
         "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "AVION / BRING EM",
         "url": "https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "S\u00e4g N\u00e5t",
         "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "you were there for me",
         "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
@@ -373,23 +405,7 @@
       "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Vi \u00c4r P\u00e5 Riktigt",
         "url": "https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Haglar \u2013 Spotify Studio It\u2019s Hits Recording",
         "url": "https://open.spotify.com/album/5r7W2jDIx805Fhx5ahwFUr"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/5yoafZ4sNIlX4BuQwlKQCX"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Simon's Song (from the Netflix Series Young Royals)",
         "url": "https://open.spotify.com/album/2Vw1hsZFTihZd6sPhSedUY"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/0cEjzw52873lbcxhgjXNGl"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Escapism. / The Thrill Is Gone.",
         "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "N\u00e5t i vattnet",
         "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Skavlan",
         "url": "https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "St\u00e5 med mig i regnet - Spotify Studio It's Hits Recording",
         "url": "https://open.spotify.com/album/3pcUoFcxYue6mWBKPFr3c0"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/5TFJLlEljmmlxS3s58oQN8"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Din l\u00e5t",
         "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Tappat - Spotify Singles",
         "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "L\u00e4ttdistraherad",
         "url": "https://open.spotify.com/album/6JSgAWoN9pLS9Jn6O4NiXX"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/6CXc1Q9IBBxfOQVQCYBMhk"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Walkerverse Pt. I & II",
         "url": "https://open.spotify.com/album/3oTCD9IDNU5KLinnV9u7JF"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/0oIeGuhmaT9nvA2bCG66Ft"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "DAY ONE",
         "url": "https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "The Only Wan (Deluxe)",
         "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
@@ -773,27 +789,7 @@
       "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Aktiverad (Remix)",
-        "url": "https://open.spotify.com/album/6Cox8rBFZpO7gDRZ1rzck2"
-      },
-      "artists": [
-        {
-          "name": "Alawee",
-          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
-        },
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        }
-      ],
-      "duration_ms": 108720,
-      "name": "Aktiverad (Remix)",
-      "url": "https://open.spotify.com/track/0pWGH2bShzIr8PEtd3ngey"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "N\u00c4R RADION D\u00c5NAR",
         "url": "https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "Hjertel\u00f8s",
         "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
@@ -857,7 +853,7 @@
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
@@ -873,7 +869,7 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-11-28 11:14:28",
       "album": {
         "name": "The Best Is Yet to Come",
         "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"

@@ -368,6 +368,24 @@
     },
     {
       "album": {
+        "name": "So Us Vol. 1",
+        "url": "https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372335,
+      "name": "Deep Gone Far",
+      "url": "https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot"
       },

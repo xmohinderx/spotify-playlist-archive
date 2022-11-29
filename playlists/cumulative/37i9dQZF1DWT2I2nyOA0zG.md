@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-156 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+157 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2021-10-11 |  |
 | [Anybody](https://open.spotify.com/track/59m6kW2uMfVN2htib54Z7b) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Happy Hits](https://open.spotify.com/album/2SGaiEBfGSAdJYgvsDLTuY) | 3:08 | 2021-10-11 | 2022-11-14 |
 | [Anybody](https://open.spotify.com/track/4cyUTdVRJNxjcI9W4TezDW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Anybody](https://open.spotify.com/album/5DPMC3g3iWqpWFzg7NoIG4) | 3:09 | 2021-10-11 | 2022-07-29 |
+| [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-28 |  |
 | [Bad Influence](https://open.spotify.com/track/2RaHreAi8lXvQOM0prMvXT) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/7udDaiv9Mgh1LrHvObls1I) | 2:18 | 2021-10-11 |  |
 | [Bad Man Wicked](https://open.spotify.com/track/7FMQObjJyy8iEOnhgrjRyb) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:51 | 2022-08-26 | 2022-11-04 |
 | [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-02-18 | 2022-07-08 |

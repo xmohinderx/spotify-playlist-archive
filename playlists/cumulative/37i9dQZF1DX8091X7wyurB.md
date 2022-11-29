@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-90 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
+91 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Blessings Follow Me](https://open.spotify.com/track/6K2Pm2e6qTqb1vC8qT3INV) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [KS Bloom](https://open.spotify.com/artist/5tjO5VGPByZF90lhuAQc6A) | [Blessings Follow Me](https://open.spotify.com/album/2x7GuHDER800C7nHwUTZrm) | 2:45 | 2022-09-30 |  |
 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 |  |
 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 | 2022-06-30 |  |
+| [Come & See](https://open.spotify.com/track/6u15MnjmTHU0eeSn5ulhYZ) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Come & See \(Creative Version\)](https://open.spotify.com/album/6DIEcOqCnFOmwMw9TAxInT) | 7:13 | 2022-11-25 |  |
 | [Come Alive \(feat\. Todd Dulaney\)](https://open.spotify.com/track/0vbNaNFCWorlaHrzsCli4w) | [All Nations Music](https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Come Alive \(Deluxe\)](https://open.spotify.com/album/4D4aX5yCP3QMb8Thp10WHF) | 5:11 | 2022-06-30 |  |
 | [D'oluwa Mu](https://open.spotify.com/track/4cSPBQ0i1tZ4VL4cxZjMxh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Faaji Friday 4.0](https://open.spotify.com/album/4FYxjlNN5ScDJjQnlq15WX) | 11:18 | 2022-06-30 |  |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |
@@ -75,7 +76,7 @@
 | [Provider](https://open.spotify.com/track/5XmBjBjVxyhZGK7tR4u7GH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 4:07 | 2022-06-30 |  |
 | [Relief](https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Relief](https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3) | 2:37 | 2022-09-19 |  |
 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 | 2022-06-30 |  |
-| [Satisfy](https://open.spotify.com/track/6DGi6J7yowxdGkzWBuXa28) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Satisfy](https://open.spotify.com/album/3fxGuECzrTfEaPpQOOHbUh) | 2:07 | 2022-06-30 |  |
+| [Satisfy](https://open.spotify.com/track/6DGi6J7yowxdGkzWBuXa28) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Satisfy](https://open.spotify.com/album/3fxGuECzrTfEaPpQOOHbUh) | 2:07 | 2022-06-30 | 2022-11-29 |
 | [Savior](https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Savior](https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs) | 2:33 | 2022-09-19 |  |
 | [Shine](https://open.spotify.com/track/4wDlHsa0h7kg42T94CWmU2) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Shine](https://open.spotify.com/album/3s9EGrEnTKHlBS24KT2M6K) | 3:14 | 2022-09-30 |  |
 | [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2022-10-21 |  |

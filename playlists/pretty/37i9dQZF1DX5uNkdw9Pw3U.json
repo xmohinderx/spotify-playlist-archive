@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 54895,
+  "num_followers": 54982,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNjAwMCwwMDAwMDAwMGU0Yjk0OTY4ZjRmYjM2MjRjYzgxY2FjNDhhM2NiZWFl",
+  "snapshot_id": "MTY2ODcyNjAwMCwwMDAwMDAwMDJlODBkNzg1NmE2NTViNDgwODM3OGUxM2NlZTM4YzEx",
   "tracks": [
     {
       "added_at": "2022-11-17 23:00:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 208395,
+      "name": "Jet Black (feat. Brandy)",
+      "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
         "name": "Mixer",
         "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 176876,
       "name": "killer",
       "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 208395,
-      "name": "Jet Black (feat. Brandy)",
-      "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Do To Me",
-        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Do To Me",
-      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Phases II - EP",
         "url": "https://open.spotify.com/album/6VIjrQlk9cTrufxWJX8pi1"
       },
@@ -691,22 +675,18 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+        "name": "Do To Me",
+        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 234866,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+      "duration_ms": 225103,
+      "name": "Do To Me",
+      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -727,6 +707,26 @@
       "duration_ms": 266812,
       "name": "Come Home (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Measure of a Man (feat. Central Cee)",
-        "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Measure of a Man (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/5SEQL40XcXX1FUHtiqa8PG"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 210279,
       "name": "Time",
       "url": "https://open.spotify.com/track/05v5mPkLAOoa7M5tnXXOwq"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Measure of a Man (feat. Central Cee)",
+        "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Measure of a Man (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X"
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 226232,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos"
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "And Then Life Was Beautiful",
-        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+      "duration_ms": 226232,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Booty",
-        "url": "https://open.spotify.com/album/1wZUA48qppx695AaNY97a4"
-      },
-      "artists": [
-        {
-          "name": "Lil Halima",
-          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
-        },
-        {
-          "name": "Canto",
-          "url": "https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN"
-        }
-      ],
-      "duration_ms": 140924,
-      "name": "Booty",
-      "url": "https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Hair Down (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/4rgYc1sBdFQg2bOJvXSd2I"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 216959,
       "name": "Hair Down (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5nh0W1TTi4LxxxVYAVJCh1"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Booty",
+        "url": "https://open.spotify.com/album/1wZUA48qppx695AaNY97a4"
+      },
+      "artists": [
+        {
+          "name": "Lil Halima",
+          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
+        },
+        {
+          "name": "Canto",
+          "url": "https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN"
+        }
+      ],
+      "duration_ms": 140924,
+      "name": "Booty",
+      "url": "https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Love Me Like (feat. DUCKWRTH)",
-        "url": "https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I"
-      },
-      "artists": [
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Love Me Like (feat. DUCKWRTH)",
-      "url": "https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 173809,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Love Me Like (feat. DUCKWRTH)",
+        "url": "https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Love Me Like (feat. DUCKWRTH)",
+      "url": "https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL"
     },
     {
       "added_at": "2022-11-17 23:00:00",

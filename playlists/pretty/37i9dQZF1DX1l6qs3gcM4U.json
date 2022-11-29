@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.  ",
-  "num_followers": 146514,
+  "num_followers": 146651,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMGNjNDhjMWE4Y2U1YzU5MTUwZTgxMzUxYTE5YjJjMjQ3",
+  "snapshot_id": "MTY2OTMzNDQwMCwwMDAwMDAwMDc4YzIyZDAxZmU0NTkyYzJmNzI0NzI2Yzc4MGZkMWJm",
   "tracks": [
     {
       "added_at": "2022-11-25 00:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "A.N.V.",
-        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "A Nossa Vez",
-      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -367,6 +351,30 @@
       "duration_ms": 276880,
       "name": "Tu \u00c9s a Mulher",
       "url": "https://open.spotify.com/track/3AxKlhbCVMwrDbP4laSyys"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Suleban",
+      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -419,42 +427,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Dem\u00f3nio da Tarraxinha",
-        "url": "https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh"
+        "name": "A.N.V.",
+        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
         }
       ],
-      "duration_ms": 217276,
-      "name": "Dem\u00f3nio da Tarraxinha",
-      "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 200598,
-      "name": "Suleban",
-      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
+      "duration_ms": 217853,
+      "name": "A Nossa Vez",
+      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -471,6 +455,22 @@
       "duration_ms": 256979,
       "name": "Sincera",
       "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Ado\u00e7o",
+        "url": "https://open.spotify.com/album/78htzYNaNcNaB3TN7W8cD5"
+      },
+      "artists": [
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "duration_ms": 183817,
+      "name": "Ado\u00e7o",
+      "url": "https://open.spotify.com/track/7ffN1srH0lM39dddrG84Gs"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Dem\u00f3nio da Tarraxinha",
+        "url": "https://open.spotify.com/album/7BGYpyDY0a1pzAW6bqlTTh"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 217276,
+      "name": "Dem\u00f3nio da Tarraxinha",
+      "url": "https://open.spotify.com/track/2qNtAzgJYODcFPDskUAzE0"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Tudo por Amor",
         "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 206290,
       "name": "Tudo por Amor",
       "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Ado\u00e7o",
-        "url": "https://open.spotify.com/album/78htzYNaNcNaB3TN7W8cD5"
-      },
-      "artists": [
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        }
-      ],
-      "duration_ms": 183817,
-      "name": "Ado\u00e7o",
-      "url": "https://open.spotify.com/track/7ffN1srH0lM39dddrG84Gs"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -599,6 +599,26 @@
       "duration_ms": 212147,
       "name": "Batom",
       "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "duration_ms": 205996,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -675,26 +695,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Mininu Di Oru",
-        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
-        }
-      ],
-      "duration_ms": 205996,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Fala so",
         "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Jeito Dela",
-        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Jeito Dela",
-      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Tellin Me Something",
         "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 192641,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Jeito Dela",
+        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Jeito Dela",
+      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Zolana",
-        "url": "https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 234971,
-      "name": "Kuyuyu",
-      "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Cigana Linda",
         "url": "https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 207640,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Zolana",
+        "url": "https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "duration_ms": 234971,
+      "name": "Kuyuyu",
+      "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1075,42 +1075,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
-        }
-      ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Africana",
-        "url": "https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 200940,
-      "name": "Africana",
-      "url": "https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Dando Love",
         "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
       },
@@ -1127,6 +1091,22 @@
       "duration_ms": 182173,
       "name": "Dando Love",
       "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Africana",
+        "url": "https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 200940,
+      "name": "Africana",
+      "url": "https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+        }
+      ],
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
       },
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Perigosa (feat. Anselmo Ralph)",
+        "url": "https://open.spotify.com/album/4qqYgCeX9DdyG9Seds57QX"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "duration_ms": 218718,
+      "name": "Perigosa (feat. Anselmo Ralph)",
+      "url": "https://open.spotify.com/track/0r2ZBAHKX36U3do2a3E0Vd"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Jaj\u00e3o (feat. Eddy Flow)",
         "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 258324,
       "name": "Me Leva Contigo",
       "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Perigosa (feat. Anselmo Ralph)",
-        "url": "https://open.spotify.com/album/4qqYgCeX9DdyG9Seds57QX"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        }
-      ],
-      "duration_ms": 218718,
-      "name": "Perigosa (feat. Anselmo Ralph)",
-      "url": "https://open.spotify.com/track/0r2ZBAHKX36U3do2a3E0Vd"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Se Eu Pudesse",
         "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
       },
@@ -1471,6 +1455,26 @@
       "duration_ms": 183889,
       "name": "Lambuxa na Bo",
       "url": "https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Si Ki Min Kr\u00e8",
+        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Si Ki Min Kr\u00e8",
+      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     }
   ],
   "unique_name": "Dancing Kizomba",

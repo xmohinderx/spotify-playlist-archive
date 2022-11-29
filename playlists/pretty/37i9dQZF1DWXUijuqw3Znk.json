@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMGUzNTE2YTllMjczY2RkMzVkNWNlMjdjMmI3YzY0ODQz",
+  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMDFjYzcyNTY3OTgyOGQxZmJiNzM3ZTM2ZTdmNTMxZjE2",
   "tracks": [
     {
       "added_at": "2022-11-03 09:17:29",
@@ -379,26 +379,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "A Giant Step",
-        "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 316944,
-      "name": "AEAO",
-      "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "Coming To You Live",
         "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 204218,
       "name": "Know Me (Feat. DEAN)",
       "url": "https://open.spotify.com/track/0c0Gf3FpG1NKKThB434Qbl"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "A Giant Step",
+        "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 316944,
+      "name": "AEAO",
+      "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "Man proposes God disposes",
+        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Man proposes God disposes",
+      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
       },
@@ -723,6 +739,22 @@
       "duration_ms": 191187,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -803,22 +835,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Man proposes God disposes",
-        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Man proposes God disposes",
-      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2",
         "url": "https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq"
       },
@@ -839,18 +855,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+        "name": "ENGINE",
+        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
       },
       "artists": [
         {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
+      "duration_ms": 220717,
+      "name": "ENGINE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -899,26 +919,6 @@
       "duration_ms": 235186,
       "name": "iii (Feat. Basick, Kid Milli & Paloalto) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "ENGINE",
-        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 220717,
-      "name": "ENGINE (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -979,6 +979,30 @@
       "duration_ms": 250986,
       "name": "Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/18KL3cwcbZ5bOlfo9y94h0"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "duration_ms": 235364,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1119,30 +1143,6 @@
       "duration_ms": 208771,
       "name": "Predator",
       "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
-        }
-      ],
-      "duration_ms": 235364,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "MultrillVerse",
+        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 167571,
+      "name": "Retirement (feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "BLEACHED",
         "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 253800,
       "name": "Upgrade 2020",
       "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "MultrillVerse",
-        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
-      },
-      "artists": [
-        {
-          "name": "Blase",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 167571,
-      "name": "Retirement (feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1715,26 +1715,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "RESPECT",
-        "url": "https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT"
+        "name": "UNDERGROUND ROCKSTAR",
+        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         },
         {
-          "name": "DJ Pumkin",
-          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
         }
       ],
-      "duration_ms": 184586,
-      "name": "RESPECT (feat.GRAY & DJ Pumkin)",
-      "url": "https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR"
+      "duration_ms": 197266,
+      "name": "Little Brothers (Feat. LIL GIMCHI)",
+      "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1763,26 +1759,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "UNDERGROUND ROCKSTAR",
-        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "Little Brothers (Feat. LIL GIMCHI)",
-      "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
         "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
@@ -1807,6 +1783,30 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "RESPECT (feat.GRAY & DJ Pumkin)",
+      "url": "https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "changes",
-        "url": "https://open.spotify.com/album/3K8JviLmeuvMixS8N9oWbn"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        }
-      ],
-      "duration_ms": 249875,
-      "name": "changes (feat. Loopy)",
-      "url": "https://open.spotify.com/track/6Mc2Kn5zFjmAHDN9vIzywI"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -2003,18 +1983,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+        "name": "changes",
+        "url": "https://open.spotify.com/album/3K8JviLmeuvMixS8N9oWbn"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
         }
       ],
-      "duration_ms": 177220,
-      "name": "Ride it like",
-      "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
+      "duration_ms": 249875,
+      "name": "changes (feat. Loopy)",
+      "url": "https://open.spotify.com/track/6Mc2Kn5zFjmAHDN9vIzywI"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -2043,6 +2027,22 @@
       "duration_ms": 258893,
       "name": "Career High (Feat. Paloalto, nafla, Chancellor)",
       "url": "https://open.spotify.com/track/3huX6IPP80pZmLAgiDtiqy"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "dreamin'",
+      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

@@ -4,7 +4,7 @@
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-264 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/2hpXWqqsWv0BL9jLIqph0K)
+265 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/2hpXWqqsWv0BL9jLIqph0K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [I'm Gonna Be Somebody \(Live\)](https://open.spotify.com/track/0jLSri81zxyN6LvwZZTL8a) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [A Man and His Guitar \(Live from the Franklin Theatre\)](https://open.spotify.com/album/1IfTe0jbCH6cEu4DKwNuye) | 4:23 | 2021-07-23 | 2022-07-29 |
 | [I'm Gonna Be Somebody \- Live](https://open.spotify.com/track/7MrG4eeHwaxOVu6l2UW0f1) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [A Man and His Guitar \(Live from the Franklin Theatre\)](https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH) | 4:25 | 2022-07-22 |  |
 | [I'm Gonna Miss Her \(Live\)](https://open.spotify.com/track/4uVcSmPriCKI6L7Ah4GkFT) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:47 | 2021-07-23 |  |
+| [I'm In A Hurry \(And Don't Know Why\) \- Live](https://open.spotify.com/track/7ztXOgnhclVmv4mUoaCKPr) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [At The Ryman \(Live\)](https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd) | 3:36 | 2022-11-18 |  |
 | [I'm In A Hurry \(And Don't Know Why\) \- Live](https://open.spotify.com/track/2ITGB1oDQnYWj70pON7HQm) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Alabama And Friends Live At The Ryman](https://open.spotify.com/album/6dXWnVNs7a5BmmOg0yQOuT) | 3:36 | 2021-07-23 | 2022-07-28 |
 | [I've Been a Long Time Leaving \(But I'll Be a Long Time Gone\) \- Live at the Fillmore New York at Irving Plaza, 2010](https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 6:07 | 2021-07-23 |  |
 | [I've Got a Tiger By the Tail](https://open.spotify.com/track/1BlvL8ZW6OSjJYyxk1krjA) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Carnegie Hall Concert](https://open.spotify.com/album/6wX2ZCo6yoB3H6lmTvpJc2) | 2:24 | 2021-07-23 | 2022-07-27 |
@@ -252,7 +253,7 @@
 | [Whiskey Girl \- Live](https://open.spotify.com/track/3eV5JB75Wu3sC7bHWyzMmL) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Hope on the Rocks](https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs) | 4:17 | 2021-07-23 |  |
 | [Whiskey if You Were a Woman \- Live](https://open.spotify.com/track/6w1dZfbY5vgQ4F9AEKuUwU) | [Paulette Carlson](https://open.spotify.com/artist/691WdPHfLbOfoqZ6Z9eehR) | [Frizzell & Friends LeftyFest \(Live\)](https://open.spotify.com/album/43GKieo1Mwujyi7TWf1pur) | 3:00 | 2021-10-22 | 2022-07-28 |
 | [Whiskey River \- Live at Harrah's Casino, Lake Tahoe, NV \- April 1978](https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie And Family Live](https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB) | 3:38 | 2021-07-23 |  |
-| [Who's Gonna Fill Their Shoes \- Live](https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Setlist: The Very Best of George Jones LIVE](https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK) | 3:33 | 2021-07-23 |  |
+| [Who's Gonna Fill Their Shoes \- Live](https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Setlist: The Very Best of George Jones LIVE](https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK) | 3:33 | 2021-07-23 | 2022-11-29 |
 | [Whole Lotta Shakin' Goin' On \- Live At The Municipal Auditorium, Birmingham, Alabama/1964](https://open.spotify.com/track/2L8QMbzt6ivEdQ3aQIJ8cK) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Greatest Live Show On Earth \(Live At The Municipal Auditorium, Birmingham, Alabama/1964\)](https://open.spotify.com/album/7pHGti1C51afG7dnl9goap) | 5:07 | 2021-07-23 |  |
 | [Whose Bed Have Your Boots Been Under? \- Live](https://open.spotify.com/track/3CAjCIp6vqAYutYtyLtaSe) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:46 | 2021-07-23 |  |
 | [Why Me \- Live](https://open.spotify.com/track/6m8OOi2u7gre29fIYYHrJi) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live From Austin, TX](https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF) | 3:48 | 2021-07-23 | 2022-07-28 |

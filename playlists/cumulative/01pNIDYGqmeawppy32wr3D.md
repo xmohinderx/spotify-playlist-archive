@@ -2,7 +2,7 @@
 
 ### [2000's Hip Hop](https://open.spotify.com/playlist/01pNIDYGqmeawppy32wr3D)
 
-> All the best Hip Hop from the 2000's Tap in to the throwback party hits\. Cover: Missy Elliott
+> Best hip hop throwbacks from the 2000 – 2010's with hits from Missy Elliott, T.I., Wiz Khalifa, Dr\. Dre, and more!
 
 173 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/2TZdjNCzsZfyRq4YZq5QRl)
 

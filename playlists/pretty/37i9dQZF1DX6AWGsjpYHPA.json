@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 90733,
+  "num_followers": 90834,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDNlYTI1M2ViMzU3MjgxMTBjMDkxYjk1YjFlYmZlNGI5",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGQxZTJkZDMxNWM1MmM1ZWM5MmJkMjBjMDc1NmExMGNh",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -199,26 +199,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Another Dose (feat. Mick Jenkins)",
-        "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
-      },
-      "artists": [
-        {
-          "name": "Gamblers",
-          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "Another Dose (feat. Mick Jenkins)",
-      "url": "https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Another Dose (feat. Mick Jenkins)",
+        "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
+      },
+      "artists": [
+        {
+          "name": "Gamblers",
+          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 138760,
+      "name": "Another Dose (feat. Mick Jenkins)",
+      "url": "https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Szikra",
         "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
         }
       ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -927,6 +911,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Wisdom Through Music",
-        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 318626,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Little Dragon",
         "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 273546,
       "name": "Constant Surprises",
       "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Wisdom Through Music",
+        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 318626,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Lazy",
-        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mitch",
-          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
-        }
-      ],
-      "duration_ms": 265378,
-      "name": "In the Hills",
-      "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "La Perla",
         "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
       },
@@ -1303,18 +1287,34 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Fantastic Freeriding the Next Chapter",
-        "url": "https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE"
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
       },
       "artists": [
         {
-          "name": "Kabanjak",
-          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
+          "name": "Mr. Mitch",
+          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Revelation Dub",
-      "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"
+      "duration_ms": 265378,
+      "name": "In the Hills",
+      "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
     }
   ],
   "unique_name": "Turntable",

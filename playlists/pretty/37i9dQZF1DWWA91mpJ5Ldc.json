@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 105557,
+  "num_followers": 105598,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGZiNDg5OWU5NmFmZjY0Nzc3ZDg0Yzk0MWI4ZWJhNzc1",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGJlYTU3MTE2OTU4YmEzYjc3MzJkYzlhMzZiMGUyOTU5",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Num Mundo de Paz",
         "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 342514,
       "name": "Num Mundo de Paz",
       "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 269285,
+      "name": "Todo Carinho",
+      "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
         }
       ],
-      "duration_ms": 269285,
-      "name": "Todo Carinho",
-      "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 283137,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
-      },
-      "artists": [
-        {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 265557,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "AMAR \u00e9 para os FORTES",
         "url": "https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 254200,
       "name": "DEPOIS DA TEMPESTADE}",
       "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 265557,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
     },
     {
       "added_at": "2022-11-25 03:00:00",

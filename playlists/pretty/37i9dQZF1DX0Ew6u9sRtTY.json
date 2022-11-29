@@ -1,12 +1,12 @@
 {
   "description": "Remember these?",
-  "num_followers": 1181952,
+  "num_followers": 1182070,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5Mzc3NTQ3MSwwMDAwMDAwMGYyYzBjNjNkN2ZkMTIxODA5ZjVhMjAzNjYxMjY4NWYw",
+  "snapshot_id": "MTU5Mzc3NTQ3MSwwMDAwMDAwMDQyZmJmYmM0NzI1Yzc0ZWE4YTQ0MWVlZGJhNGRkMmY4",
   "tracks": [
     {
       "added_at": "2018-12-12 11:34:22",
@@ -367,22 +367,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "Marc Cohn",
-        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
-      },
-      "artists": [
-        {
-          "name": "Marc Cohn",
-          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Walking in Memphis",
-      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "Billionaire (feat. Bruno Mars)",
         "url": "https://open.spotify.com/album/1PruwGvQDfgh6CTSFWPNtn"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "Marc Cohn",
+        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
+      },
+      "artists": [
+        {
+          "name": "Marc Cohn",
+          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Walking in Memphis",
+      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
     },
     {
       "added_at": "2018-12-12 11:34:22",

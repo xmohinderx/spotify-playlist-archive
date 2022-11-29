@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 15153,
+  "num_followers": 15169,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDc3ZTY4MjkzNzE5Y2U4MTM4ZDlhYmU1NTlmZDFlMmU4",
+  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDM3ZTlhYmMwZTA4MjFjZmIzMmMyOTNlZmViNzIxN2Yz",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The Pious Bird of Good Omen",
         "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
       },
@@ -171,22 +155,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Somebody Loan Me A Dime",
-      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -199,6 +167,38 @@
       "duration_ms": 297373,
       "name": "Lenny",
       "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Somebody Loan Me A Dime",
+      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Blow By Blow",
-        "url": "https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Freeway Jam",
-      "url": "https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 338333,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Blow By Blow",
+        "url": "https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Freeway Jam",
+      "url": "https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -627,6 +627,26 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 910573,
+      "name": "Blues At Sunrise",
+      "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 195693,
       "name": "Cuttin' In",
       "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "In Session",
-        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 910573,
-      "name": "Blues At Sunrise",
-      "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
     },
     {
       "added_at": "2020-10-21 20:41:20",

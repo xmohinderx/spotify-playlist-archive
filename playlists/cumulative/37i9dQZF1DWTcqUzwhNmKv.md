@@ -4,7 +4,7 @@
 
 > Black Veil Brides on top of the biggest Metal playlist!
 
-333 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
+334 songs - 22 hr 10 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2021-12-20 | 2022-05-06 |
 | [Loveletting \- 7" Cut](https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Loveletting \(7" Cut\)](https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU) | 3:55 | 2022-04-08 | 2022-05-27 |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2021-12-20 | 2022-01-21 |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-28 |  |
 | [Make Believe](https://open.spotify.com/track/3aF7RDw2A7hnRn2lWOrIky) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Remade In Misery](https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1) | 3:49 | 2022-09-23 |  |
 | [Make Believe](https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Make Believe](https://open.spotify.com/album/1GJWSnfxaODYIrS6uoqiB6) | 3:49 | 2022-02-24 | 2022-04-01 |
 | [March of the Insane](https://open.spotify.com/track/5Jn0Kw1DtNLFWB8z1vrIwP) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [March of the Insane](https://open.spotify.com/album/2JGSRUldESbdFxQIMw2OQT) | 3:18 | 2022-02-24 | 2022-03-04 |

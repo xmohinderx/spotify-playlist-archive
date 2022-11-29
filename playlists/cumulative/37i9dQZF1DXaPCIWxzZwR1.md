@@ -4,7 +4,7 @@
 
 > next gen pop cover: Isabel LaRosa
 
-1,240 songs - 2 day 12 hr 14 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,241 songs - 2 day 12 hr 16 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,6 +795,7 @@
 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 | 2022-10-07 |  |
 | [Not Into You](https://open.spotify.com/track/4ZJwt3yb5gVCufioOQHBKS) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/0XXB3NjTAInL9dSZkMBVHI) | 2:37 | 2021-07-28 | 2021-12-04 |
 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-07-15 |  |
+| [Not OK](https://open.spotify.com/track/06V8tMMLJS1lNNejvWFzDt) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK](https://open.spotify.com/album/6oXcqvLT6Pi4ZorJetT4Gg) | 2:39 | 2022-11-28 |  |
 | [not okay \(feat\. mazie\)](https://open.spotify.com/track/3hf7tTSZ6jgIdLIiT9Kgq0) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [not okay \(feat\. mazie\)](https://open.spotify.com/album/660EN7ZkbkMuho9k4ajJgC) | 2:43 | 2021-08-14 | 2021-08-31 |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2021-11-08 | 2022-02-12 |
 | [Nothing](https://open.spotify.com/track/2DhYQXK6ZkOTB1665GTagQ) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Nothing](https://open.spotify.com/album/3eVCwZNAC04pBYjnx2ITLF) | 2:54 | 2022-03-25 | 2022-04-23 |

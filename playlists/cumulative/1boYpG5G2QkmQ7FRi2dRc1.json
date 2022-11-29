@@ -640,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Down Together",
+        "url": "https://open.spotify.com/album/4Igef9YV4M3yNaPPraPOFg"
+      },
+      "artists": [
+        {
+          "name": "Badflite",
+          "url": "https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148598,
+      "name": "Down Together",
+      "url": "https://open.spotify.com/track/0cyZ9beolmygVLAsKAWMOS"
+    },
+    {
+      "album": {
         "name": "Dream About You",
         "url": "https://open.spotify.com/album/505Swy2YfuiUBAGNjYsQGH"
       },
@@ -965,6 +983,28 @@
       "duration_ms": 187619,
       "name": "Goin Up",
       "url": "https://open.spotify.com/track/13IZ9V3RSmEnXMdKjEHF4n"
+    },
+    {
+      "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/71FVP2XraXCJuu7bDEjjrL"
+      },
+      "artists": [
+        {
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+        },
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122480,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/31YHoSHFbOu4wOgg34skBq"
     },
     {
       "album": {

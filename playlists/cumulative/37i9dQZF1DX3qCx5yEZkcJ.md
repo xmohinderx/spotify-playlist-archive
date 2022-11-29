@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-424 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+425 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Camberwell](https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Camberwell](https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y) | 2:13 | 2020-10-02 |  |
 | [Candles](https://open.spotify.com/track/4L9NChljxi1xu4NdV0Uruo) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Candles](https://open.spotify.com/album/3M69AADOD8W0LbsG523sfh) | 2:15 | 2020-03-27 | 2022-04-21 |
 | [Cargo Rhodes](https://open.spotify.com/track/1MmFMp0sgwl7liFDKJdEyY) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Cargo Rhodes / Deliverance](https://open.spotify.com/album/73wgRhPJUpKXr8k49lHVQy) | 2:29 | 2019-06-14 | 2022-07-29 |
-| [Carpet](https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Hot Water](https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9) | 2:22 | 2020-01-14 | 2022-07-23 |
+| [Carpet](https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Hot Water](https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9) | 2:22 | 2020-01-14 |  |
 | [Cenario](https://open.spotify.com/track/7KQGUqom3BIzU0UB8XltUN) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR) | [Home Grown](https://open.spotify.com/album/2zWWibkLVYNp39mnQoGMJb) | 2:04 | 2019-05-26\* | 2020-01-14 |
 | [Change](https://open.spotify.com/track/7oD6a9yGIHCqtlqIplK4tN) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Change](https://open.spotify.com/album/7raWI0KFGJ2nVuUbvCkFus) | 1:48 | 2020-11-06 | 2022-07-28 |
 | [Chet's Dip Cuts](https://open.spotify.com/track/31SKs7K6vBqP83AaQ578pn) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Chet's Dip Cuts](https://open.spotify.com/album/0ii1o8MN8EHstHRmU2nJHP) | 1:27 | 2020-06-19 | 2021-10-29 |
@@ -159,7 +159,7 @@
 | [I Don't Know](https://open.spotify.com/track/1MjFP2nL6oYKCCuLyXCvwp) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Beats That Collected Dust Vol\. 2](https://open.spotify.com/album/6VDSvx3Z6cfz6GXkFBNYLX) | 4:05 | 2019-05-26\* | 2020-01-14 |
 | [I love it](https://open.spotify.com/track/6juVtd4rGuI2QEZq1J6ynW) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Snuggles](https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX) | [I love it](https://open.spotify.com/album/056GhecTPMIPkXqFoTehqf) | 1:35 | 2020-08-30 | 2022-06-23 |
 | [Idkanymore](https://open.spotify.com/track/6pFiKji7aJCwMIYKROgQw9) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Lately](https://open.spotify.com/album/4YhoDyn5WAPosG9mHsVY6F) | 1:24 | 2019-05-26\* | 2021-12-21 |
-| [Ill](https://open.spotify.com/track/4323T7gQ9C4lbPo8qKfOoe) | [U\-LEE](https://open.spotify.com/artist/30v2h3jcT6xjq4wl9KTFNN), [100KILOGRAMS](https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP) | [BEAT TAPE VOL.1](https://open.spotify.com/album/78IHrBIWAaWblwiMtAZaYu) | 2:13 | 2022-08-25 |  |
+| [Ill](https://open.spotify.com/track/4323T7gQ9C4lbPo8qKfOoe) | [U\-LEE](https://open.spotify.com/artist/30v2h3jcT6xjq4wl9KTFNN), [100KILOGRAMS](https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP) | [BEAT TAPE VOL.1](https://open.spotify.com/album/78IHrBIWAaWblwiMtAZaYu) | 2:13 | 2022-08-25 | 2022-11-29 |
 | [Ill](https://open.spotify.com/track/4AzgTPH2g48lzCouXzfuI6) | [U\-LEE](https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf), [100KILOGRAMS](https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP) | [BEAT TAPE VOL.1](https://open.spotify.com/album/1j7AF82YktleBZEnfPLKgk) | 2:13 | 2022-02-15 | 2022-07-29 |
 | [In A Dream](https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [In A Dream](https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y) | 2:39 | 2022-07-28 | 2022-10-18 |
 | [Ingleside](https://open.spotify.com/track/0S93H7eyA5mCZdjrZAk85p) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Ingleside](https://open.spotify.com/album/7vBTC4qkmg5CQsYBp6eKsQ) | 1:24 | 2019-05-26\* | 2021-05-27 |
@@ -337,6 +337,7 @@
 | [Smooth Stones](https://open.spotify.com/track/0b4WYHrVYbIMKLyDHLua03) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Smooth Stones](https://open.spotify.com/album/1PYZ4y5W26UQxe74eUdCgJ) | 1:56 | 2019-05-26\* | 2021-05-28 |
 | [Snow Cap](https://open.spotify.com/track/4URLqvRCn4FOt367artiRa) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lo Tide](https://open.spotify.com/album/6sbEmWEhSE3YziLBPwa2hh) | 2:20 | 2019-05-26\* | 2022-04-20 |
 | [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 | 2021-12-16 | 2022-07-04 |
+| [So They Say](https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd) | 2:18 | 2022-11-17 |  |
 | [So They Say](https://open.spotify.com/track/1DniIBl2EA2OtOrrW8CJJe) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/0rMhANpygU5WO7RYo2xq54) | 2:18 | 2022-07-28 | 2022-11-20 |
 | [So They Say](https://open.spotify.com/track/74lV5FmHUsOobeO2LhvK2R) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [So They Say](https://open.spotify.com/album/0QfciNzmUbcv769u2mP1pO) | 2:18 | 2019-06-14 | 2022-07-29 |
 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 | 2019-05-26\* |  |
@@ -420,7 +421,7 @@
 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 | 2020-06-29 |  |
 | [Whiskey Sour](https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Whiskey Sour / Strammer Max](https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8) | 1:42 | 2020-07-18 | 2022-04-06 |
 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 |  |
-| [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 |  |
+| [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 | 2022-11-29 |
 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 | 2022-07-28 |  |
 | [winter in rio](https://open.spotify.com/track/2FKsGoYghIBDdxsXXBIfJg) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/7brRaqvhSGMhAV5cCRb3LQ) | 1:40 | 2019-07-26 | 2022-04-19 |
 | [Within 2 Days](https://open.spotify.com/track/7ecgSXG1hWOAbanFbWFGj2) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Within 2 Days](https://open.spotify.com/album/3EETnuqXGJCgR7BA1LRYwc) | 2:02 | 2020-07-18 | 2022-04-20 |

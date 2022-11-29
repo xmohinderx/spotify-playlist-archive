@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 55597,
+  "num_followers": 55627,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDgxMmJlYTU2NGE0ZDM1YTc3OWYxMzYzYWM3ZTI5OTEz",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDI4ZDllZWU4ZWE3ZGUxOGY3Zjk1YWJkMTlmZWFkMTgx",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Maladie d'amour",
-        "url": "https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Hunt",
-          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Maladie d'amour",
-      "url": "https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Pour que tu m'aimes encore",
         "url": "https://open.spotify.com/album/7F0oYlWbXKjecsCJS9wUMW"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+        "name": "Maladie d'amour",
+        "url": "https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
         }
       ],
-      "duration_ms": 263693,
-      "name": "J'attendais",
-      "url": "https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c"
+      "duration_ms": 204720,
+      "name": "Maladie d'amour",
+      "url": "https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -923,6 +907,22 @@
       "duration_ms": 237266,
       "name": "Une chance qu'on s'a",
       "url": "https://open.spotify.com/track/3zgQHblUM4t8JkX7rRLAZI"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "J'attendais",
+      "url": "https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c"
     },
     {
       "added_at": "2022-01-18 23:00:02",

@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-109 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
+110 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Home On Christmas](https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Home On Christmas](https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv) | 2:32 | 2022-11-25 |  |
 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 | 2021-12-15 |  |
 | [I Saw Mommy Kissing Santa Claus \- Live At Union Chapel / BBC Radio 2](https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [I Saw Mommy Kissing Santa Claus \(Live At Union Chapel / BBC Radio 2\)](https://open.spotify.com/album/6dqlzQqdAogeEjI8ORSXAj) | 2:12 | 2021-12-15 |  |
+| [I Want To Come Home For Christmas](https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Another Kind Of Christmas](https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe) | 3:40 | 2022-11-25 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/5Dxh4Vuy9eBI8h99kqwGfn) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:11 | 2021-12-15 | 2022-11-26 |
 | [It's Christmas \(All Over The World\)](https://open.spotify.com/track/5mhTmyVJvZLUXGpbyCNTXD) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Christmas All Over The World](https://open.spotify.com/album/3eQ9tz14sXjPXXNH0sGlFP) | 4:17 | 2021-12-15 | 2022-07-27 |
 | [Jesus What A Wonderful Child](https://open.spotify.com/track/6wxKZGJPphOUm6p4JpIEIr) | [Stevie Mackey](https://open.spotify.com/artist/6yb7iR9KSHvoITAvoxz3ia), [THE ELEVEN](https://open.spotify.com/artist/59u9R3yNVw4PWC3Rg1JZhk), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [The Most Wonderful Time](https://open.spotify.com/album/0w8kuceNScFrj2fDOipHEz) | 4:07 | 2021-12-15 | 2022-07-29 |
@@ -90,7 +91,7 @@
 | [Someday At Christmas](https://open.spotify.com/track/2GQnHafw2F53REsJctsPCC) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Weihnachten 2020](https://open.spotify.com/album/2jM3hSRUb1U55ok8ad85tb) | 2:49 | 2021-12-15 | 2022-11-13 |
 | [Someday At Christmas](https://open.spotify.com/track/6VqLlCjW2IPuNWyVa6Ramd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Motown Christmas](https://open.spotify.com/album/109y0mnkGZAYVQNdT0SN3q) | 2:50 | 2021-12-15 | 2022-07-28 |
 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 | 2021-12-15 |  |
-| [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 | 2021-12-15 |  |
+| [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 | 2021-12-15 | 2022-11-29 |
 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 | 2021-12-15 | 2022-07-29 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf) | 2:54 | 2022-11-25 |  |
 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 | 2021-12-15 |  |

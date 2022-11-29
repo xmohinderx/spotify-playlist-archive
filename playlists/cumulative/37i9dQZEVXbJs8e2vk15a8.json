@@ -2811,7 +2811,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 149083,
       "name": "Dos Besitos",
       "url": "https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO"
@@ -3053,7 +3053,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 208529,
       "name": "El Ladr\u00f3n de Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/71BXZPdeQHoyVqWJdj7lyH"
@@ -4527,7 +4527,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 206069,
       "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
       "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
@@ -6332,6 +6332,28 @@
     },
     {
       "album": {
+        "name": "Me Vivo la Movie",
+        "url": "https://open.spotify.com/album/4SicWqMvC9pxQRzZhJfqQY"
+      },
+      "artists": [
+        {
+          "name": "Pr1mogeni7o",
+          "url": "https://open.spotify.com/artist/2PjqSdXDRYsXR3YBF6dB7r"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170365,
+      "name": "Me Vivo la Movie",
+      "url": "https://open.spotify.com/track/2F03gCJTPmEsI2LfGCx5pN"
+    },
+    {
+      "album": {
         "name": "La Mejor Fiesta Dieciochera",
         "url": "https://open.spotify.com/album/6F5qMCFpPR1tfIVN6yc26H"
       },
@@ -6463,7 +6485,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 177066,
       "name": "Menthol",
       "url": "https://open.spotify.com/track/2TiaktqJAtI0CsTL9NfyAS"
@@ -8057,7 +8079,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 207908,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
