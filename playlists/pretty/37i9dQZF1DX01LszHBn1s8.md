@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > “i could eat girl scouts for breakfast" \- wednesday addams 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,336 likes - 601 songs - 1 day 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,085 likes - 601 songs - 1 day 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

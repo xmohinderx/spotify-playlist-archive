@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sandy
 
-252 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+253 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Vaa Poraadalam \(feat\. The BpBoy, Bala Kumar, Narash, Sreejith Ravi, Vignesh Karuppasamy\)](https://open.spotify.com/track/1hQw23TWNHgrmOF7rLyO7j) | [Sudharsan Sundararajan](https://open.spotify.com/artist/3wMqzFpqoElO7tFXJ9BexI), [Lyrical Thozha](https://open.spotify.com/artist/1gVLhxMopz9TNrrf5kOHYx), [The BpBoy](https://open.spotify.com/artist/7FI4EVViAXOcrjL9l4grnL), [Bala Kumar](https://open.spotify.com/artist/4eN017iks6RjThvPGI9rza), [Narash](https://open.spotify.com/artist/6r7NhanjoorJHrNEp5QA6Z), [Sreejith Ravi](https://open.spotify.com/artist/5sjS81l4Qc1TdrUa1TAQam), [Vignesh Karuppasamy](https://open.spotify.com/artist/7sTt6xG1YWU09I202ddbMo) | [Vaa Poraadalam \(feat\. The BpBoy, Bala Kumar, Narash, Sreejith Ravi, Vignesh Karuppasamy\)](https://open.spotify.com/album/6NQZ7Fj7znBsFqBs6cEvf1) | 4:47 | 2022-07-01 | 2022-11-25 |
 | [Vaada Raasa](https://open.spotify.com/track/6RfgIiqwQNi6b1n0qaa6g0) | [Ken](https://open.spotify.com/artist/6uYgB2FmDEimp0hJJouph1), [Eshwar](https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S), [Grace Karunaas](https://open.spotify.com/artist/2zEQ0pc1VWUHsXv5gXXBHO) | [Vaada Raasa](https://open.spotify.com/album/0ZmshsAYVZrMktBsNXTsDA) | 3:56 | 2021-12-01 | 2022-11-17 |
 | [Vaadi En Chellakutty](https://open.spotify.com/track/4kn6th3uhNQtDxOrizmGuc) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Vaadi En Chellakutty](https://open.spotify.com/album/2ojS8OYg4oQwuzCEHSjUux) | 3:16 | 2022-04-08 | 2022-08-12 |
+| [Vaanam \- 1 Min Music](https://open.spotify.com/track/66ngKz4R3ObPG2O9PuIpo0) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA) | [Vaanam \(1 Min Music\)](https://open.spotify.com/album/3WEMMiq3ytkVVuc2PnnaYh) | 1:02 | 2022-11-29 |  |
 | [Vaanavil Pole \(From "Karthik & Kika"\)](https://open.spotify.com/track/7o67V6N8WkCytc1KoUisMx) | [Anandh](https://open.spotify.com/artist/6AH7FJ9QjdEM9tWFdqKg39), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Vrusha Balu](https://open.spotify.com/artist/0GNSRY7lJdxsHKgQqiPI9u) | [Vaanavil Pole \(From "Karthik & Kika"\)](https://open.spotify.com/album/5kX0ghz4dMr0ENd6ksiNVG) | 2:41 | 2022-08-24 | 2022-10-11 |
 | [Vainko](https://open.spotify.com/track/1nLdzIq6U8wavefMS1fou7) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Vainko](https://open.spotify.com/album/2roNgyh1Jymvnt17NBgPic) | 2:53 | 2021-12-01 |  |
 | [Valimai Kooduthey](https://open.spotify.com/track/0DB2f8fIetpuxtvz4VVHR1) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Valimai Kooduthey](https://open.spotify.com/album/0pMNdeffLwJaVnaPMnStz0) | 3:24 | 2022-06-30 | 2022-07-08 |

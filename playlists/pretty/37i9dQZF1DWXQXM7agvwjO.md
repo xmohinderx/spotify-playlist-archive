@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Oslo Ibrahim \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,793 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,824 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 19 | [PRINCESS](https://open.spotify.com/track/5Y5B9OVHB3sxXPshcEFZBT) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [PRINCESS](https://open.spotify.com/album/3h2try4O3hFUsn426joVqV) | 3:38 |
 | 20 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
 | 21 | [Margarita](https://open.spotify.com/track/07wmygzJZ8HG3j9Iu0YCIQ) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Margarita](https://open.spotify.com/album/14QSWeqDCKgesoarHCKntL) | 3:36 |
-| 22 | [Ang$a](https://open.spotify.com/track/4u16zGIdHrOkMyJOInkF6y) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Oranye](https://open.spotify.com/album/2Y9GAh9rRYsw1PiS6FDJcy) | 2:43 |
+| 22 | [Ang$a](https://open.spotify.com/track/4u16zGIdHrOkMyJOInkF6y) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Oranye](https://open.spotify.com/album/2Y9GAh9rRYsw1PiS6FDJcy) | 2:47 |
 | 23 | [Has it all](https://open.spotify.com/track/0r7ldyewgd6Rv3pF0L8rSL) | [Sugar Club](https://open.spotify.com/artist/2SYNq4ziATc0sU8qeiAirU) | [Has it all](https://open.spotify.com/album/5N9A9SdqSNstzmUfln9BU2) | 3:19 |
 | 24 | [Florida Sunset Motel](https://open.spotify.com/track/5zd7EY6ueuuQ83SAYNJBdo) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO), [Katie Glasgow](https://open.spotify.com/artist/7aYZm7onOdAyYbrVwHD6SR) | [Florida Sunset Motel](https://open.spotify.com/album/2rd9Iuzm7fbQ1o4VCpm4gl) | 3:28 |
 | 25 | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD) | 3:43 |

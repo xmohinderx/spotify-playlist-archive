@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Stormzy, Quando Rondo and more\. Cover: Roddy Ricch
 
-1,872 songs - 3 day 15 hr 57 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,873 songs - 3 day 16 hr 0 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1116,7 +1116,8 @@
 | [Nice \(feat\. Blxst\)](https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:57 | 2022-01-21 | 2022-02-05 |
 | [Nice Guy](https://open.spotify.com/track/3zVBnFMVe9XMOLigMPjpsv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Nice Guy](https://open.spotify.com/album/1qGq80zAWFFmOTXQ7Iqvh8) | 2:53 | 2022-10-21 | 2022-10-29 |
 | [Nino](https://open.spotify.com/track/3vkQqaIM82rW6ovsT2Paeg) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Nino](https://open.spotify.com/album/12iv9VXqpbk8zTormKRAno) | 2:29 | 2022-04-15 | 2022-04-29 |
-| [No Attempts](https://open.spotify.com/track/4yCV8Sue17TOavzbqDKT6A) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [No Attempts](https://open.spotify.com/album/7w8fmv7ujaSegwGZVbkHGr) | 3:16 | 2022-11-18 |  |
+| [No Attempts](https://open.spotify.com/track/4yCV8Sue17TOavzbqDKT6A) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [No Attempts](https://open.spotify.com/album/7w8fmv7ujaSegwGZVbkHGr) | 3:16 | 2022-11-18 | 2022-11-30 |
+| [No Attempts \(feat\. Anti Da Menace\)](https://open.spotify.com/track/5Wh2yfCIUydSKzkBe9Ta9d) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [No Attempts \(feat\. Anti Da Menace\)](https://open.spotify.com/album/0mxoJVqUVCaqj62OlqBTun) | 3:16 | 2022-11-18 |  |
 | [No Biggie](https://open.spotify.com/track/00oRfr5OEgNfvLSKLEcJhp) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [No Biggie](https://open.spotify.com/album/0OKewi7TDzhOdiCl3ILJLv) | 2:25 | 2022-08-19 | 2022-08-27 |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-03-18 | 2022-03-26 |
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 | 2022-07-23 |

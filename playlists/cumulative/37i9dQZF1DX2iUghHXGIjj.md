@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-155 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+156 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/08CShCm5L8jopYYkpF6bVY) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Alligator Records 35th Anniversary Collection](https://open.spotify.com/album/5oNBMrK7Upa0tbWsmlDQAt) | 2:55 | 2020-08-11 | 2022-11-13 |
 | [Lead Me On](https://open.spotify.com/track/6i7pokV2JiF1et71olScGO) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Lead Me On \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4YQ7qU3Se2TBdFg7FpROPs) | 4:47 | 2020-08-11 |  |
 | [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 | 2020-08-11 |  |
-| [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 | 2021-08-20 |  |
+| [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 | 2021-08-20 | 2022-11-30 |
+| [Letter from Bluewater Man](https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh) | 2:24 | 2021-08-20 |  |
 | [Life by the Drop](https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:27 | 2020-08-11 |  |
 | [Life By The Drop](https://open.spotify.com/track/4KENBGgFQIxliSjJGb8FYa) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Double Trouble](https://open.spotify.com/artist/05m9VGwNd8glcJ2o5UN8H3) | [The Essential Stevie Ray Vaughan And Double Trouble 3.0](https://open.spotify.com/album/44gP7lSICNoSqTSCDyScnA) | 2:27 | 2020-08-11 | 2022-07-29 |
 | [Living With The Blues](https://open.spotify.com/track/5NJkdnML8tFQ3wzh91BQAp) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Wishing Well](https://open.spotify.com/album/6BKMOyKifmcINqpBWIcG6D) | 3:02 | 2020-08-11 |  |

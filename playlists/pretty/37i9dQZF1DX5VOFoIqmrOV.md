@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,660 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,812 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dosti](https://open.spotify.com/track/04gj1dTfKOsir4SB70LLgS) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [RRR](https://open.spotify.com/album/3kBrgReuEedduqXf27qgn9) | 5:40 |
-| 2 | [Chitti](https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Jathi Ratnalu](https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA) | 3:04 |
-| 3 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
-| 4 | [Boss Party](https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Boss Party \(From "Waltair Veerayya"\)](https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl) | 3:20 |
+| 2 | [Boss Party](https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Boss Party \(From "Waltair Veerayya"\)](https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl) | 3:20 |
+| 3 | [Chitti](https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Jathi Ratnalu](https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA) | 3:04 |
+| 4 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
 | 5 | [Kalaavathi \(From "Sarkaru Vaari Paata"\)](https://open.spotify.com/track/0RjQR5QfKREKE9wQki8spV) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Kalaavathi \(From "Sarkaru Vaari Paata"\) \- Single](https://open.spotify.com/album/0PuturA4rrgnBAf4mP9dfE) | 4:02 |
 | 6 | [Ramuloo Ramulaa](https://open.spotify.com/track/3qWfqpB8KJFxwvbpqbuLCh) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 4:05 |
 | 7 | [Anaganaganaga](https://open.spotify.com/track/47BZ5zznG2jzc2hjsEbvxH) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 59 | [Mandaara](https://open.spotify.com/track/51O5cmwTOopxgVQuB5tZsG) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Valentine'S Day Special](https://open.spotify.com/album/5WZOo6UgGdbVgzWazeSfjo) | 4:51 |
 | 60 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 |
 
-Snapshot ID: `MTY2OTYxMDEwNywwMDAwMDAwMDJkZmY4ODkzNDEwODhjMjBjM2ZmN2Q4ZTExNzdmNzZk`
+Snapshot ID: `MTY2OTcwOTk3NywwMDAwMDAwMGVhYzg3N2ZjYzJkZmI3NDkzZTIyNGYyYzM4MjQwYzRj`

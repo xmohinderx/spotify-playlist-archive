@@ -3018,6 +3018,24 @@
     },
     {
       "album": {
+        "name": "Crab Rave",
+        "url": "https://open.spotify.com/album/2lppc5R9jiNgGoB7qXPWlr"
+      },
+      "artists": [
+        {
+          "name": "Noisestorm",
+          "url": "https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Crab Rave",
+      "url": "https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd"
+    },
+    {
+      "album": {
         "name": "INDUSTRY GAMES",
         "url": "https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0"
       },

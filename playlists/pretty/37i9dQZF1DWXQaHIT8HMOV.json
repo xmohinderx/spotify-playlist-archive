@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1084,
+  "num_followers": 1086,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM3NzI4NCwwMDAwMDAwMGEwNjNmNTg0ODNhMGQyZmNlODkwMzc0ZTQ2MWVjZDEz",
+  "snapshot_id": "MTY2OTM3NzI4NCwwMDAwMDAwMGMwOGMyNDg4NTZjNWZiNjIyZjYxZGQ3ZWI1MzI3ZDRh",
   "tracks": [
     {
       "added_at": "2022-11-25 11:45:40",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Thc ( Too High to Concentrate )",
-        "url": "https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q"
-      },
-      "artists": [
-        {
-          "name": "Blaqface",
-          "url": "https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Thc ( Too High to Concentrate )",
-      "url": "https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Nkwata Bulungi (Bailamos)",
         "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 187200,
       "name": "Nkwata Bulungi (Bailamos)",
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Thc ( Too High to Concentrate )",
+        "url": "https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q"
+      },
+      "artists": [
+        {
+          "name": "Blaqface",
+          "url": "https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Thc ( Too High to Concentrate )",
+      "url": "https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
-      "added_at": "2022-11-29 01:10:00",
+      "added_at": "2022-11-30 01:09:46",
       "album": {
         "name": "Toora Love",
         "url": "https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE"
@@ -449,24 +449,20 @@
       "url": "https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm"
     },
     {
-      "added_at": "2022-10-07 10:52:01",
+      "added_at": "2022-11-17 20:59:00",
       "album": {
-        "name": "Biwamiel",
-        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
       },
       "artists": [
         {
-          "name": "Udulele",
-          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
-        },
-        {
-          "name": "Umoja",
-          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
         }
       ],
-      "duration_ms": 155007,
-      "name": "Biwamiel",
-      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -509,6 +505,26 @@
       "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
+      "added_at": "2022-10-07 10:52:01",
+      "album": {
+        "name": "Biwamiel",
+        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
+      },
+      "artists": [
+        {
+          "name": "Udulele",
+          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
+        },
+        {
+          "name": "Umoja",
+          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+        }
+      ],
+      "duration_ms": 155007,
+      "name": "Biwamiel",
+      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Personal",
@@ -523,22 +539,6 @@
       "duration_ms": 190000,
       "name": "Personal",
       "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        }
-      ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
       "added_at": "2022-11-17 20:59:00",
       "album": {
         "name": "Bajooga",
@@ -639,6 +623,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Awo",
         "url": "https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 260075,
       "name": "Akahama",
       "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "The Road to Kirya",
-        "url": "https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 232967,
-      "name": "Entebbe",
-      "url": "https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -707,6 +691,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "The Road to Kirya",
+        "url": "https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 232967,
+      "name": "Entebbe",
+      "url": "https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
       },
@@ -730,10 +730,6 @@
         {
           "name": "Ruyonga",
           "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
         }
       ],
       "duration_ms": 216960,
@@ -887,18 +883,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Baibe",
-        "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR"
       },
       "artists": [
         {
-          "name": "Henry Tigan",
-          "url": "https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo"
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
         }
       ],
-      "duration_ms": 254850,
-      "name": "Baibe",
-      "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
+      "duration_ms": 167627,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6"
     }
   ],
   "unique_name": "Made In Uganda",

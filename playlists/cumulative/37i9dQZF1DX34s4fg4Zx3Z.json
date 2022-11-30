@@ -12541,6 +12541,32 @@
     {
       "album": {
         "name": "White Love 07 (feat. TANDAT)",
+        "url": "https://open.spotify.com/album/7sHTRBgcfHqF6AsWWoMSAB"
+      },
+      "artists": [
+        {
+          "name": "C\u00f4ngg",
+          "url": "https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf"
+        },
+        {
+          "name": "Flo",
+          "url": "https://open.spotify.com/artist/5g7lYuYodpAnCItem79gWo"
+        },
+        {
+          "name": "T\u1ea5n \u0110\u1ea1t",
+          "url": "https://open.spotify.com/artist/282BXAqmQC17lPo9AQ3C0B"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233072,
+      "name": "White Love 07 (feat. TANDAT)",
+      "url": "https://open.spotify.com/track/1ArkXoiYog9UMUCMUbQwDo"
+    },
+    {
+      "album": {
+        "name": "White Love 07 (feat. TANDAT)",
         "url": "https://open.spotify.com/album/69vYaI221x74ysstUMm0dO"
       },
       "artists": [
@@ -12559,7 +12585,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 233072,
       "name": "White Love 07 (feat. TANDAT)",
       "url": "https://open.spotify.com/track/27GEOac98FsLBpUNbuElqu"

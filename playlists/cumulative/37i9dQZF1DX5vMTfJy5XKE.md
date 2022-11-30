@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Sam Smith
 
-322 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
+323 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Home On Christmas](https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Home On Christmas](https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv) | 2:32 | 2022-11-11 |  |
 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 | 2021-12-24 | 2022-09-28 |
 | [How Christmas Is Supposed To Be \(feat\. Sheridan Smith\)](https://open.spotify.com/track/3zw1izLVNY4kWcIyrRULeM) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Sheridan Smith](https://open.spotify.com/artist/2x1Bwuwa2yM1Tnxb8Lj6BE) | [The Dream of Christmas](https://open.spotify.com/album/1JcDlQRrS0E3EgnxLs27SD) | 2:39 | 2021-12-24 | 2022-09-28 |
+| [I Don't Know What Christmas Is \(But Christmastime Is Here\)](https://open.spotify.com/track/7AD4sAsJJQm0Bog0zhwYrf) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [The Guardians of the Galaxy Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M) | 3:02 | 2022-11-29 |  |
 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 | 2021-12-24 | 2022-10-24 |
 | [I Feel Like A Kid Again](https://open.spotify.com/track/4THXOQpQKTRHWNyyadHUHt) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [I Feel Like A Kid Again](https://open.spotify.com/album/2HIZIJK5KNJ2pJFMvmMFou) | 3:32 | 2021-12-24 | 2022-09-28 |
 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 | 2021-12-24 | 2022-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,905 likes - 108 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,980 likes - 108 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

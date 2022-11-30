@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-269 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+270 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bootstrap Jubilee](https://open.spotify.com/track/3NARbwmd4ssFkmFyYzTZkt) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [The Zug](https://open.spotify.com/album/20mNGpd1RlPbS0PZEW5uB5) | 2:32 | 2022-06-08 | 2022-06-23 |
 | [Boy Girl](https://open.spotify.com/track/5zR0jyCSe6lPmjycRIuiHZ) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Boy Girl](https://open.spotify.com/album/4vPiad7HD61wqTLgshRrYB) | 3:14 | 2022-10-20 | 2022-11-24 |
 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 | 2022-08-24 | 2022-10-07 |
+| [Broken \- Jacques Lu Cont Mix](https://open.spotify.com/track/4Ovys7emm2gWoPUynSKJdS) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Jacques Lu Cont](https://open.spotify.com/artist/4SINYGzldpKMExpCjseS9o) | [Broken \(Remixes\)](https://open.spotify.com/album/6ggsZZrmUNFR7NxPC8X9sN) | 4:09 | 2022-11-29 |  |
 | [Bubble Guts \- Braxe + Falcon Remix](https://open.spotify.com/track/6la7L4Q1gUg7tvuDT5wMXI) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Bubble Guts \(Braxe + Falcon Remix\) \[feat\. Alan Braxe & DJ Falcon\]](https://open.spotify.com/album/64bSE3p846wtptM5cIaoAn) | 4:01 | 2022-06-16 | 2022-07-14 |
 | [Butterflies](https://open.spotify.com/track/6g1X0WTodEi1Bi7x4Gglsb) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Butterflies](https://open.spotify.com/album/20RjVDmdcpimsojioOGET0) | 3:25 | 2022-06-16 | 2022-07-28 |
 | [C Tactile Afferent](https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [C Tactile Afferent](https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2) | 3:36 | 2022-06-22 | 2022-08-04 |

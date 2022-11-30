@@ -4,7 +4,7 @@
 
 > The ultimate playlist to water your plants to.
 
-36 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
+37 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:58 | 2021-05-17 |  |
 | [Loading](https://open.spotify.com/track/4vzJrkfHbCGaodPA5RY5BV) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:53 | 2021-05-17 |  |
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2021-05-17 |  |
-| [Nine Is God](https://open.spotify.com/track/6sChW7Z0IwSvvBR6m4dMws) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 4:57 | 2021-05-17 |  |
+| [Nine Is God](https://open.spotify.com/track/5ZGM626be3ItMW4UPjfqdY) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 4:57 | 2021-05-17 |  |
+| [Nine Is God](https://open.spotify.com/track/6sChW7Z0IwSvvBR6m4dMws) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 4:57 | 2021-05-17 | 2022-11-30 |
 | [Opaul](https://open.spotify.com/track/4areFtLMjGt4GmO4IAbGo0) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Pink Lotus](https://open.spotify.com/album/1NVKzLWcSGbCaWS6tOn66Q) | 2:20 | 2021-05-17 | 2022-07-29 |
 | [Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Opaul](https://open.spotify.com/album/7GkpKBGqHwo8SgHtIUhhHv) | 2:20 | 2021-05-17 |  |
 | [Plants](https://open.spotify.com/track/0vMr3GXZJi1IIIWE8bBJuZ) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR) | 3:11 | 2021-05-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
-  "num_followers": 109319,
+  "num_followers": 109355,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NDkxNywwMDAwMDAwMDRiNGUyYjg3NDE4N2Y0ODk0NjBiYTliMDJkOTU1MjUy",
+  "snapshot_id": "MTY2OTM1NDkxNywwMDAwMDAwMGM2NDMwOGNmNGIxMzhjNWIxOTA2NDk1ZGY5YTBiYmY1",
   "tracks": [
     {
       "added_at": "2022-11-25 05:41:57",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
+        "name": "Estamos de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG"
+      },
+      "artists": [
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 396911,
+      "name": "Estamos de P\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/715slv9zyByop7EttlmTjQ"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
         "name": "A Alegria do Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 220185,
       "name": "A Alegria do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "Estamos de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 396911,
-      "name": "Estamos de P\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/715slv9zyByop7EttlmTjQ"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
       "artists": [
         {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
         }
       ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "LIVE",
-        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
-      },
-      "artists": [
-        {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
-        }
-      ],
-      "duration_ms": 353791,
-      "name": "Hoje Tem Cor",
-      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 244457,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
+      },
+      "artists": [
+        {
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+        }
+      ],
+      "duration_ms": 353791,
+      "name": "Hoje Tem Cor",
+      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Mateus 6:6",
-        "url": "https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH"
+        "name": "Meu Valor",
+        "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
         }
       ],
-      "duration_ms": 293793,
-      "name": "Mateus 6:6",
-      "url": "https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P"
+      "duration_ms": 173026,
+      "name": "Meu Valor",
+      "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Meu Valor",
-        "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
+        "name": "Mateus 6:6",
+        "url": "https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH"
       },
       "artists": [
         {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
         }
       ],
-      "duration_ms": 173026,
-      "name": "Meu Valor",
-      "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
+      "duration_ms": 293793,
+      "name": "Mateus 6:6",
+      "url": "https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P"
     },
     {
       "added_at": "2022-11-25 05:41:57",

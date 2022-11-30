@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 59698,
+  "num_followers": 59844,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3Nzg5OSwwMDAwMDAwMDAzYmIzZjQ4ZWYyM2QzMTRmMTlkMGVlMGRjYjk2MWQ4",
+  "snapshot_id": "MTY2ODc3Nzg5OSwwMDAwMDAwMDE1NjE1ZjJiYTZkZmIzZmFmOTFjZGFhNTlmZDgwZTUw",
   "tracks": [
     {
       "added_at": "2022-11-17 14:44:01",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "My Blues Pathway",
-        "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
-      },
-      "artists": [
-        {
-          "name": "Kirk Fletcher",
-          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
-        }
-      ],
-      "duration_ms": 313253,
-      "name": "Struggle for Grace",
-      "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "People Get Ready",
         "url": "https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 274560,
       "name": "People Get Ready",
       "url": "https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "My Blues Pathway",
+        "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "duration_ms": 313253,
+      "name": "Struggle for Grace",
+      "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
     },
     {
       "added_at": "2022-11-17 14:44:01",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "I Hear Some Blues Downstairs",
-        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 373920,
       "name": "Same Old Blues Again",
       "url": "https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "I Hear Some Blues Downstairs",
+        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
     },
     {
       "added_at": "2022-11-17 14:44:01",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "Put In a Little Time",
-        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
-      },
-      "artists": [
-        {
-          "name": "James Cooke",
-          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "Put In a Little Time",
+        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
+      },
+      "artists": [
+        {
+          "name": "James Cooke",
+          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
     },
     {
       "added_at": "2022-11-17 14:44:01",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "Someday You'll Have These Blues",
-        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
-      },
-      "artists": [
-        {
-          "name": "Phillip Walker",
-          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Beaumont Blues",
-      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "The Delta Meets Detroit: Aretha's Blues",
         "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 290106,
       "name": "Night Time Is the Right Time",
       "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "Someday You'll Have These Blues",
+        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
+      },
+      "artists": [
+        {
+          "name": "Phillip Walker",
+          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Beaumont Blues",
+      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
     },
     {
       "added_at": "2022-11-17 14:44:01",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "Soul Of The Blues",
-        "url": "https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Along About Midnight",
-      "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "Reflection (Digitally Remastered Version)",
         "url": "https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 447520,
       "name": "Twenty-Four Hours - Digitally Remastered Version",
       "url": "https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "Soul Of The Blues",
+        "url": "https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Along About Midnight",
+      "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
     },
     {
       "added_at": "2022-11-17 14:44:01",

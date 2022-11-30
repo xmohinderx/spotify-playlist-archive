@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain](/playlists/plain/37i9dQZF1DX1lt6pbD2kAi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1lt6pbD2kAi)
 
-### [\. \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX1lt6pbD2kAi)
+### [\. \(3\)](https://open.spotify.com/playlist/37i9dQZF1DX1lt6pbD2kAi)
 
 > .
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,801 likes - 10 songs - 28 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 29,780 likes - 10 songs - 28 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

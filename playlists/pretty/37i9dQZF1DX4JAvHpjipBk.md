@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Stormzy, Machine Gun Kelly, Avril Lavigne, Jung Kook of BTS, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,000,622 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,001,252 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 79 | [Help Me \(feat\. Kiiara\)](https://open.spotify.com/track/4Fjht8itjlw42rshNIkzRb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Help Me \(feat\. Kiiara\)](https://open.spotify.com/album/6HuF4uBgOUhLQtkXL7lkBY) | 2:52 |
 | 80 | [Switch](https://open.spotify.com/track/5D4s8L8HQ1kh2YGbczUonD) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Switch](https://open.spotify.com/album/7EDiA9kZvIW9pcVFKB9cnh) | 2:06 |
 | 81 | [ALIVE](https://open.spotify.com/track/6oudjrcW0NjYCX71cMJy2c) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [ALIVE](https://open.spotify.com/album/2kqCjpvl8mEJU2GQ64EYGF) | 1:54 |
-| 82 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
+| 82 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
 | 83 | [Higher \(feat\. David Rawlings\)](https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Higher](https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8) | 3:23 |
 | 84 | [CLONES](https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [CLONES](https://open.spotify.com/album/4eAI0f1nna07Mz5v86KgNe) | 2:04 |
 | 85 | [Odyssey](https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Odyssey](https://open.spotify.com/album/4uuWpzTfQzJp6dV6HrlhgG) | 3:03 |

@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Freddie Dredd
 
-341 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+342 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [DELIRIOUS!](https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [DELIRIOUS!](https://open.spotify.com/album/7LiafuGVnC731meL4S6cmi) | 1:32 | 2021-10-08 | 2022-04-21 |
 | [DELIRIUM](https://open.spotify.com/track/3dpXWb3vTMzyL6KbFqB61Y) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL) | [DELIRIUM](https://open.spotify.com/album/5UpCybC6vRO1n444JQwCez) | 2:10 | 2022-08-10 | 2022-11-19 |
 | [DESERT STORM](https://open.spotify.com/track/5VJRDNBmIQdggjfz1RXQPC) | [Mexelio](https://open.spotify.com/artist/5yR8KXW7sRjSHOp0XnFT0U), [AntXres](https://open.spotify.com/artist/7v9CZIFskqQfiHrQbI8B3z), [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [DESERT STORM](https://open.spotify.com/album/75KpUBu2QuWpHFMvzAp8iE) | 2:53 | 2022-08-26 | 2022-11-19 |
+| [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2022-11-29 |  |
 | [dignity](https://open.spotify.com/track/1Ov0gxcMyTR2zwm2Xs9Bb8) | [KevinKempt](https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a) | [dignity](https://open.spotify.com/album/7nbZ5aIEgcTYtxJv3esZl6) | 2:58 | 2021-12-10 | 2022-04-20 |
 | [DISINTEGRATE](https://open.spotify.com/track/5M3T7YoQFE9xzxRZXzTBKX) | [K.V.N](https://open.spotify.com/artist/0spgIsDeSqUcUjfejGzMXc), [Cyberdrip$](https://open.spotify.com/artist/3FoS8RMVwPAVPfkHdeBygg) | [DISINTEGRATE](https://open.spotify.com/album/1NAyYqFwiV6v0t1e4Ztzea) | 1:54 | 2022-03-18 | 2022-04-20 |
 | [DON'T BREATHE!](https://open.spotify.com/track/77Aac38YQDZ14cN4A5JAFx) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [DON'T BREATHE!](https://open.spotify.com/album/0GwJVs8lPoM0uvlaWBesUd) | 2:33 | 2022-06-24 | 2022-11-19 |
@@ -125,7 +126,7 @@
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-04-22 |  |
 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-06-24 | 2022-11-19 |
 | [Floor 555](https://open.spotify.com/track/6r7ULK6c5CLVvImjTIztl1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:33 | 2022-04-05 | 2022-05-16 |
-| [FMZ](https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [FMZ](https://open.spotify.com/album/49fyTqDk38lgABCzMRNahd) | 2:36 | 2022-09-26 |  |
+| [FMZ](https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [FMZ](https://open.spotify.com/album/49fyTqDk38lgABCzMRNahd) | 2:36 | 2022-09-26 | 2022-11-30 |
 | [Fontanelle](https://open.spotify.com/track/7ovC65S6EK1dba4ZtqSTcF) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Fontanelle](https://open.spotify.com/album/1eNLWw4IjuHik1LWh288ii) | 2:53 | 2022-03-25 | 2022-05-14 |
 | [Fragments](https://open.spotify.com/track/7pmn83nmJSBTWg3IXW48yB) | [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675), [Edris Ali](https://open.spotify.com/artist/2mivWRyLMbsS3WyP3yaiZC) | [Fragments](https://open.spotify.com/album/6nxXGMrd5FhaQfCH9HEU0t) | 1:55 | 2022-04-15 | 2022-05-21 |
 | [from hell, with love](https://open.spotify.com/track/1atUX5yDsZpz82R6B55UEP) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [from hell, with love](https://open.spotify.com/album/5Z1wCaNwpco3vL0q42r1ph) | 1:49 | 2022-10-14 |  |

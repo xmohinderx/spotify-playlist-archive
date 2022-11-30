@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWULHbs82dshJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWULHbs82dshJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWULHbs82dshJ)
 
-### [.](https://open.spotify.com/playlist/37i9dQZF1DWULHbs82dshJ)
+### [\. \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWULHbs82dshJ)
 
 > .
 

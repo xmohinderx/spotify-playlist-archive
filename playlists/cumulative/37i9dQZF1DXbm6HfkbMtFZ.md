@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-457 songs - 1 day 3 hr 41 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+458 songs - 1 day 3 hr 45 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Lookalike](https://open.spotify.com/track/5DUUtqdazjxp0S6bzuCV3i) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [The Fashion Bruises](https://open.spotify.com/artist/4tVp1atvT34nU3pjRIn8ro) | [Humanoid](https://open.spotify.com/album/40dxvDZ9IQxlQJoOC2I6q0) | 3:47 | 2021-12-16 | 2022-07-29 |
 | [Loose Tonight](https://open.spotify.com/track/3PE4AQbEvRXZf8Vdj1ph1V) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/25zR8MQUJTJyj3TJecBRki) | 4:32 | 2022-03-30 | 2022-10-13 |
 | [Losing Touch](https://open.spotify.com/track/2ryXP4NxcAPXgE7KPoZ6x4) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Losing Touch](https://open.spotify.com/album/0GfYAzaPprg7myHy4OeemX) | 3:55 | 2021-12-16 | 2022-04-20 |
+| [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 | 2022-11-11 |  |
 | [Lost In This City](https://open.spotify.com/track/2Z4GLUVtWq0C95WSeJtWIM) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 4:29 | 2022-03-30 | 2022-04-21 |
 | [Love Survive](https://open.spotify.com/track/34nEzGUaDhG63sgBoql2EL) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/4FRWa4MJSeId62zVtrYMQw) | 2:48 | 2021-12-16 | 2022-04-21 |
 | [Love Survive](https://open.spotify.com/track/50Hylr3XgpE10oDIahc6Cm) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/2xdoZZGPjIn7atH79XSSvS) | 2:48 | 2022-07-26 | 2022-10-04 |
@@ -449,7 +450,7 @@
 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 | 2021-12-16 | 2022-05-15 |
 | [Woman of the Ghetto \- Original Mix](https://open.spotify.com/track/2wQ9EG969cquLD8qM9y9am) | [Karim](https://open.spotify.com/artist/5sfz2hvM9gel30bFjopH44) | [Kicking Cancer in the Nuts, Vol\. 2](https://open.spotify.com/album/6nsLigwqevCF3hZpZeJWaC) | 7:18 | 2021-12-16 | 2022-06-19 |
 | [wyd](https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/2CH2VAYcNjvq5xA6zeudTt) | 2:54 | 2021-12-16 | 2022-06-15 |
-| [You Ain't The Problem \- Claptone Remix](https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [You Ain't The Problem \(Claptone Remix\)](https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0) | 2:44 | 2021-12-16 |  |
+| [You Ain't The Problem \- Claptone Remix](https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [You Ain't The Problem \(Claptone Remix\)](https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0) | 2:44 | 2021-12-16 | 2022-11-30 |
 | [You Can Have It All](https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM) | 2:54 | 2022-03-30 | 2022-11-13 |
 | [You Don’t Want Me](https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V) | [Wesley Bright](https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj), [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [You Don't Want Me](https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e) | 4:25 | 2022-07-26 |  |
 | [You Don’t Want Me](https://open.spotify.com/track/7uQQG43MouzO3JmZfnchoc) | [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [Happiness / You Don't Want Me](https://open.spotify.com/album/1NQYKIeybp3YoB8hecwbJu) | 4:25 | 2021-12-16 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 105598,
+  "num_followers": 105623,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGJlYTU3MTE2OTU4YmEzYjc3MzJkYzlhMzZiMGUyOTU5",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDEzYzI1ODEzMGU4NzY5MDQ5NmQ5ZWVjMGIyYWRjNDNk",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "O Funk Mais Triste da Cidade",
+        "url": "https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        }
+      ],
+      "duration_ms": 170288,
+      "name": "Mais Uma de Carnaval",
+      "url": "https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Coisa de Acender",
         "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 218655,
       "name": "Seu Fim em Mim",
       "url": "https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "O Funk Mais Triste da Cidade",
-        "url": "https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        }
-      ],
-      "duration_ms": 170288,
-      "name": "Mais Uma de Carnaval",
-      "url": "https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM"
     },
     {
       "added_at": "2022-11-25 03:00:00",

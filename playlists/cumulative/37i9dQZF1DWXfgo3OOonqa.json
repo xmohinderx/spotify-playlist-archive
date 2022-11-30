@@ -672,25 +672,7 @@
     },
     {
       "album": {
-        "name": "Aktiverad (Klick Klack)",
-        "url": "https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4"
-      },
-      "artists": [
-        {
-          "name": "Alawee",
-          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
-        }
-      ],
-      "date_added": "2022-09-29",
-      "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
-      "duration_ms": 154122,
-      "name": "Aktiverad (Klick Klack)",
-      "url": "https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la"
-    },
-    {
-      "album": {
-        "name": "Aktiverad (Remix)",
+        "name": "Aktiverad (feat. Beathoven) - Remix",
         "url": "https://open.spotify.com/album/6Cox8rBFZpO7gDRZ1rzck2"
       },
       "artists": [
@@ -707,8 +689,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 108720,
-      "name": "Aktiverad (Remix)",
+      "name": "Aktiverad (feat. Beathoven) - Remix",
       "url": "https://open.spotify.com/track/0pWGH2bShzIr8PEtd3ngey"
+    },
+    {
+      "album": {
+        "name": "Aktiverad (Klick Klack)",
+        "url": "https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 154122,
+      "name": "Aktiverad (Klick Klack)",
+      "url": "https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la"
     },
     {
       "album": {

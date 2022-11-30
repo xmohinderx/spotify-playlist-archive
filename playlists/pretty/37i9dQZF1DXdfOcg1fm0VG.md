@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,956 likes - 105 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,266 likes - 105 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 12 | [The Last of Us Part II](https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:52 |
 | 13 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
 | 14 | [Star Guardian 2022 \- Official Orchestral Theme](https://open.spotify.com/track/0VNqKLUyplTxCPZbIaVKls) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Star Guardian 2022 \(Official Orchestral Theme\)](https://open.spotify.com/album/3bxxma5xoyxqMaE3l4YHl5) | 5:09 |
-| 15 | [\(Theme From\) Red Dead Redemption](https://open.spotify.com/track/2cnhi0n4UMWCXQIEaVjnm5) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 5:38 |
+| 15 | [\(Theme From\) Red Dead Redemption](https://open.spotify.com/track/4BL3XnXe40ZS2YuRXWS4wX) | [Bill Elm](https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) | 5:38 |
 | 16 | [The First Hunter](https://open.spotify.com/track/33eoaqosKfgXYHd6HyYmPh) | [SIE Sound Team](https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376) | [Bloodborne Original Soundtrack](https://open.spotify.com/album/5nRwiGsiEtrFN847UULpzL) | 5:11 |
 | 17 | [Arkham City Main Theme](https://open.spotify.com/track/1m73S45l5u5Al1jQCNBVsf) | [Nick Arundel](https://open.spotify.com/artist/28nfdxDKC9hymmAjsfrdIP) | [Batman: Arkham City \(Original Video Game Score\)](https://open.spotify.com/album/1TXy0eNffZssA66lDpoAPL) | 2:47 |
 | 18 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 104 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 105 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MTY2OTA0ODMwMywwMDAwMDAwMDQ2NzI5ZTJiY2FkNjU3MGQ3YWUxMDI5OTc5ZDc0OTY3`
+Snapshot ID: `MTY2OTA0ODMwMywwMDAwMDAwMGM2YzRkNDAyZDM1YTlkNjc4YWU5Y2U1NmQzYzRiODI1`

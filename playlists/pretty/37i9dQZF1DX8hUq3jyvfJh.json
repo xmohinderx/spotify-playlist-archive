@@ -1,12 +1,12 @@
 {
   "description": "Deize Tigrona e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 129776,
+  "num_followers": 129765,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM1ODAwMCwwMDAwMDAwMDQzODM2ODg3NjE2YTcwM2M4YzgwZTJmNjQ1Mzg1MjA4",
+  "snapshot_id": "MTY2NzM1ODAwMCwwMDAwMDAwMDAxZjhmOGJmOGJhZjg0NmI1MDI0ZDg0ZDFjZDkyYTZh",
   "tracks": [
     {
       "added_at": "2022-11-02 03:00:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2022-11-02 03:00:00",
       "album": {
-        "name": "Boladona",
-        "url": "https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo"
-      },
-      "artists": [
-        {
-          "name": "Tati Quebra Barraco",
-          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
-        },
-        {
-          "name": "DJ Marlboro",
-          "url": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
-        }
-      ],
-      "duration_ms": 126520,
-      "name": "Boladona",
-      "url": "https://open.spotify.com/track/5ylZRbTn28rfKILSrBRKM2"
-    },
-    {
-      "added_at": "2022-11-02 03:00:00",
-      "album": {
         "name": "Quer Ir no Meu Show ?",
         "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 205902,
       "name": "Aguenta Caladinha",
       "url": "https://open.spotify.com/track/5vUQOsGWg3wyMClrSiQ3Yo"
+    },
+    {
+      "added_at": "2022-11-02 03:00:00",
+      "album": {
+        "name": "Boladona",
+        "url": "https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo"
+      },
+      "artists": [
+        {
+          "name": "Tati Quebra Barraco",
+          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
+        },
+        {
+          "name": "DJ Marlboro",
+          "url": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
+        }
+      ],
+      "duration_ms": 126520,
+      "name": "Boladona",
+      "url": "https://open.spotify.com/track/5ylZRbTn28rfKILSrBRKM2"
     },
     {
       "added_at": "2022-11-02 03:00:00",

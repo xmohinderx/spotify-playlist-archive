@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-534 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+535 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [la di die \(feat\. jxdn\)](https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [la di die \(feat\. jxdn\)](https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO) | 3:15 | 2022-03-17 |  |
 | [LAST CIGARETTE \(feat\. Au/Ra\)](https://open.spotify.com/track/2XvOZXnY0CKTRIo186QE9e) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [LAST CIGARETTE \(feat\. Au/Ra\)](https://open.spotify.com/album/3dK2iIjUFadIeePyqL6zel) | 2:13 | 2022-05-06 | 2022-07-28 |
 | [Last Man Standing](https://open.spotify.com/track/2eSnHL3f5YDGw7kSH9H3K5) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Last Man Standing](https://open.spotify.com/album/1W7NMW3BM91epM63BFcEM7) | 3:05 | 2022-03-24 | 2022-04-18 |
-| [Left Handed](https://open.spotify.com/track/05VzVcYcNv254mkVPpT01i) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/5g4eiLltqMt2v1NzSq505b) | 2:34 | 2022-11-11 |  |
+| [Left Handed](https://open.spotify.com/track/05VzVcYcNv254mkVPpT01i) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/5g4eiLltqMt2v1NzSq505b) | 2:34 | 2022-11-11 | 2022-11-30 |
+| [Left Handed](https://open.spotify.com/track/6QgGrnkenUSXi5gkdkAsNc) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/3adwq4kY3Ql6jiBwEtgu0M) | 2:34 | 2022-11-11 |  |
 | [Let You Go](https://open.spotify.com/track/3TxFI3Mm7FfdyAF2lt5aSa) | [Anthony Kavanagh](https://open.spotify.com/artist/6PnzwaATnHONRc26Zs81XO) | [Let You Go](https://open.spotify.com/album/40J64s8cSAUpWcfIjS9rcK) | 3:17 | 2022-03-24 | 2022-04-20 |
 | [let's consume](https://open.spotify.com/track/5sqSY6wfpHjShaAqP5jnRK) | [superserious](https://open.spotify.com/artist/34T4k3cBCZQWauiohowYjS) | [let's consume](https://open.spotify.com/album/2btuz86GHBkBEXsnbHAHFL) | 2:40 | 2022-03-24 | 2022-04-15 |
 | [Level of Concern](https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Level of Concern](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY) | 3:40 | 2022-03-24 |  |

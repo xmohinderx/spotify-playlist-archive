@@ -1,29 +1,13 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 221140,
+  "num_followers": 221808,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NDgwMCwwMDAwMDAwMDA5ZThhN2MyNDI5OTI2Y2FmZDNlZjAzMzIzMzhlZmM0",
+  "snapshot_id": "MTY2OTczNDIwNCwwMDAwMDAwMDBjOWNjNjNlYzQzZDY1ZTQ4ZmQ4YmRlODlhMDA1NTkw",
   "tracks": [
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The DJ Is Crying For Help",
-        "url": "https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "The DJ Is Crying For Help",
-      "url": "https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD"
-    },
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
@@ -73,6 +57,22 @@
       "url": "https://open.spotify.com/track/6lKRMylSZMtA7EqPl0pcdI"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The DJ Is Crying For Help",
+        "url": "https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "The DJ Is Crying For Help",
+      "url": "https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD"
+    },
+    {
       "added_at": "2022-10-21 23:40:01",
       "album": {
         "name": "THE INSIDE OUTTAKES",
@@ -87,22 +87,6 @@
       "duration_ms": 146654,
       "name": "1985",
       "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "Tikkle Me",
-        "url": "https://open.spotify.com/album/0tNO6EN9i6at8omQTYkcch"
-      },
-      "artists": [
-        {
-          "name": "Tikkle Me",
-          "url": "https://open.spotify.com/artist/6oWIS1UZp9dR74eYez74vX"
-        }
-      ],
-      "duration_ms": 222403,
-      "name": "Blow My Brains Out",
-      "url": "https://open.spotify.com/track/4ZlQzskKkK4jsbcqO96luB"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -283,58 +267,6 @@
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
-        "name": "Everything's Fine (Nuke Song)",
-        "url": "https://open.spotify.com/album/3n8o6aNvxgEESt00ncoVLR"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 134896,
-      "name": "Everything's Fine (Nuke Song)",
-      "url": "https://open.spotify.com/track/2BRdwCOzgzF0S1edWdCRUd"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Bless This Mess",
-        "url": "https://open.spotify.com/album/0DShhASR18vMDEA27fVa8o"
-      },
-      "artists": [
-        {
-          "name": "U.S. Girls",
-          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
-        }
-      ],
-      "duration_ms": 242789,
-      "name": "Bless This Mess",
-      "url": "https://open.spotify.com/track/07c1JDEzG7AQNci3xFFAAA"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "Let You Break My Heart Again",
-        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Let You Break My Heart Again",
-      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
         "name": "Sunset on Summerville",
         "url": "https://open.spotify.com/album/6IA6npG3aDtFpcVwNNBT9r"
       },
@@ -371,22 +303,6 @@
       "duration_ms": 172826,
       "name": "Candy Store",
       "url": "https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "Fuck The Supreme Court (Rant Song)",
-        "url": "https://open.spotify.com/album/462TZxbkxvWlvQrxHk8iAN"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 170774,
-      "name": "Fuck The Supreme Court (Rant Song)",
-      "url": "https://open.spotify.com/track/4V2cyPgdRKrK2MxMsk5m5U"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -521,22 +437,6 @@
       "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
     },
     {
-      "added_at": "2022-11-25 05:40:00",
-      "album": {
-        "name": "Doomscrollers",
-        "url": "https://open.spotify.com/album/0i9pDfwACtlX4kkXd9tE6I"
-      },
-      "artists": [
-        {
-          "name": "Quasi",
-          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
-        }
-      ],
-      "duration_ms": 263551,
-      "name": "Doomscrollers",
-      "url": "https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8"
-    },
-    {
       "added_at": "2022-10-21 23:40:01",
       "album": {
         "name": "I've Had Enough",
@@ -593,22 +493,6 @@
       "url": "https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Queen of Ears",
-        "url": "https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA"
-      },
-      "artists": [
-        {
-          "name": "Quasi",
-          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
-        }
-      ],
-      "duration_ms": 186128,
-      "name": "Queen of Ears",
-      "url": "https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9"
-    },
-    {
       "added_at": "2022-10-21 23:40:01",
       "album": {
         "name": "Body Paint",
@@ -623,22 +507,6 @@
       "duration_ms": 290584,
       "name": "Body Paint",
       "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 124959,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -1479,22 +1347,6 @@
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
-        "name": "Ants From Up There",
-        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Chaos Space Marine",
-      "url": "https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
         "name": "gravity",
         "url": "https://open.spotify.com/album/6xjOlvvlcBxUGiCWWGNeBv"
       },
@@ -1543,22 +1395,6 @@
       "duration_ms": 285746,
       "name": "Ooh! Sumthin' New",
       "url": "https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "Infinite Jest",
-        "url": "https://open.spotify.com/album/0qgrQvpCkOLz3kCTUPr1CZ"
-      },
-      "artists": [
-        {
-          "name": "Annie DiRusso",
-          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
-        }
-      ],
-      "duration_ms": 274070,
-      "name": "Infinite Jest",
-      "url": "https://open.spotify.com/track/4qH2jxgvGcGuxh2JReRte4"
     },
     {
       "added_at": "2022-10-21 23:40:01",

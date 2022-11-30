@@ -4,7 +4,7 @@
 
 > French scene makes some noise! Cover: Storm Orchestra
 
-211 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
+212 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Daddy Is Drunk Again](https://open.spotify.com/track/5LsRmuc3NJgGEsJSNY6dgf) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Daddy Is Drunk Again](https://open.spotify.com/album/5jmkzwcqR2q6gqbsfOvC8R) | 2:56 | 2022-06-30 | 2022-07-23 |
 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 | 2021-12-31 | 2022-04-18 |
 | [Death Sound](https://open.spotify.com/track/0BFNt26WzWcIkVyn6yPPD5) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Death Sound](https://open.spotify.com/album/59WBiX12rBMJkVXpStVGWe) | 4:03 | 2021-12-15 | 2022-07-27 |
+| [Despite](https://open.spotify.com/track/129whHjHOOX5AyxEXGwh9N) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Despite](https://open.spotify.com/album/7CIoj4MTGannSHp7Tp7dCa) | 4:46 | 2022-11-28 |  |
 | [Devil in sight](https://open.spotify.com/track/7t6rd88j5ie44uHFzDO5kP) | [Cold Valley](https://open.spotify.com/artist/1w1u8ebvhNqRMCv2GeBRrQ) | [Devil in sight](https://open.spotify.com/album/7a6PGGG9hVl4VicBn6iwYL) | 3:50 | 2021-12-31 | 2022-07-25 |
 | [Disappear](https://open.spotify.com/track/5cOYvRvQ31Ff0sTeNTDPAV) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Disappear](https://open.spotify.com/album/62ncD2u49O0QFm0voLVzoX) | 3:54 | 2022-11-28 |  |
 | [Disappointed](https://open.spotify.com/track/5iEBZQZTvAAAJBFi4FwsRd) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/0LTjFQ67GmORc4ttbXWOJu) | 5:20 | 2022-06-30 |  |
@@ -100,7 +101,7 @@
 | [I Want Her](https://open.spotify.com/track/0WwappRzOx2WD4ns9CqAuz) | [Von Pariahs](https://open.spotify.com/artist/1ZTgRXHRnEsxf1pwq25GQK) | [Genuine Feelings](https://open.spotify.com/album/30dc25H7Z3AMEAiPuyhKJj) | 3:47 | 2022-01-03 | 2022-06-24 |
 | [I Was Told](https://open.spotify.com/track/2zaAzeUiTErdnNpnD6Cuz2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [I Was Told](https://open.spotify.com/album/0zWiTtWOkCq97ilSJOO5A1) | 3:33 | 2022-06-30 |  |
 | [I'll Never Let You Down](https://open.spotify.com/track/6csJiNDFkSveL0m9GimnLJ) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Storm Orchestra \(Deluxe\)](https://open.spotify.com/album/4GOQKvNxE2SBS8s5wjqjwi) | 3:00 | 2022-04-17 | 2022-07-29 |
-| [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 | 2021-12-31 |  |
+| [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 | 2021-12-31 | 2022-11-30 |
 | [If Only They Could](https://open.spotify.com/track/2TJdettbWrIvxsUsTki1S4) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/230xxMa21n51rU8HT8e9OK) | 3:51 | 2021-12-15 | 2022-07-29 |
 | [If Only They Could](https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa) | 3:51 | 2022-11-28 |  |
 | [In Friends We Trust](https://open.spotify.com/track/3yJbGoyLue9B5R6guLIVjI) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Something For Nothing](https://open.spotify.com/album/2pMtWnQ1jQH6sfsh5tBLzl) | 3:27 | 2021-12-30 | 2022-01-01 |

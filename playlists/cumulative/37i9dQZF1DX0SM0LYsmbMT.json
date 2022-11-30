@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 167770,
       "name": "Air",
       "url": "https://open.spotify.com/track/2WPlQnqZ3VMkv09nme29W3"
@@ -5879,7 +5879,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 144000,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Rcj4TlzlxJllSm1GZkef4"
@@ -19200,6 +19200,24 @@
     },
     {
       "album": {
+        "name": "For Those Who Love... (Beat Edit)",
+        "url": "https://open.spotify.com/album/6JDOPDxpMo2hRaqPqNOHyx"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "For Those Who Love... - Beat Edit",
+      "url": "https://open.spotify.com/track/57aDumntS8xTRXNXHRgKux"
+    },
+    {
+      "album": {
         "name": "For U",
         "url": "https://open.spotify.com/album/6bVnnozFMuj4EDXVC9Yr7d"
       },
@@ -21249,7 +21267,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 158079,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/2okugVOve4zNsK1a3ZkvWj"
@@ -23243,6 +23261,24 @@
       "duration_ms": 117988,
       "name": "Hey Chuck",
       "url": "https://open.spotify.com/track/1ZjyCYFu9OtCY54IQr6eqh"
+    },
+    {
+      "album": {
+        "name": "Hey Now",
+        "url": "https://open.spotify.com/album/04IPVzmlgi07XK6XtaXETb"
+      },
+      "artists": [
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/6SPgOxBRjbliqObVYwO6qs"
     },
     {
       "album": {
@@ -30673,6 +30709,24 @@
       "duration_ms": 133636,
       "name": "Levante",
       "url": "https://open.spotify.com/track/3kJCHq0jKF9cf6MUIb8cih"
+    },
+    {
+      "album": {
+        "name": "Levitate Interlude",
+        "url": "https://open.spotify.com/album/7zHglrgCB7F7Y9oFlJgNqm"
+      },
+      "artists": [
+        {
+          "name": "Dentist",
+          "url": "https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89302,
+      "name": "Levitate Interlude",
+      "url": "https://open.spotify.com/track/0e0ox39T7ePziUepsEJVhQ"
     },
     {
       "album": {

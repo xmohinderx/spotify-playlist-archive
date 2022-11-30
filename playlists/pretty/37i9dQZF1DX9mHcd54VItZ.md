@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock\. Cover: <a href="https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349?si=eZI2cZr1Q\_KCg5\-BCJVRAw">Posduif</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,348 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,355 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1437,6 +1437,24 @@
     {
       "album": {
         "name": "Fairytale",
+        "url": "https://open.spotify.com/album/6N42runs7cRl23N7D3XQeg"
+      },
+      "artists": [
+        {
+          "name": "NOURI",
+          "url": "https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118951,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/0mjyBpBzqZQney3yk9BP7l"
+    },
+    {
+      "album": {
+        "name": "Fairytale",
         "url": "https://open.spotify.com/album/59qUkMkvIeP043jMXBVUtX"
       },
       "artists": [
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 118951,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/1E0syS6k7fxeFj8IooFkQr"

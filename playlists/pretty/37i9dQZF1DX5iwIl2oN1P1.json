@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 72100,
+  "num_followers": 72113,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDM0ZDIzMDgwYTNkMzFlMjM5NjIwYjY5OWVkZGUyZmIy",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMGI1ZWIyYWU1NjNkYzMyZjYwMGZmZmIzODM1ZjljMTVh",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "The Dolly Express",
-        "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dolly",
-          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
-        }
-      ],
-      "duration_ms": 345625,
-      "name": "You",
-      "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Deitrick Haddon & Hill City Worship Camp",
         "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 458498,
       "name": "A Billion People",
       "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Dolly Express",
+        "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "duration_ms": 345625,
+      "name": "You",
+      "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
     },
     {
       "added_at": "2020-06-03 14:33:10",

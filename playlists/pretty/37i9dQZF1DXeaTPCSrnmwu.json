@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 19436,
+  "num_followers": 19444,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDU3OTFlNjBlMDViYTRmNmM4NTU1YTNlMDczODhkODYz",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGM3NGJlYzM0MmVhZWI0N2Q0OTdjYzJkY2IzMTVjZGU5",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Fin de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
+      },
+      "artists": [
+        {
+          "name": "Falerina Paquet",
+          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Fin de l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Juntos para Siempre",
         "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 224173,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Fin de l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
-      },
-      "artists": [
-        {
-          "name": "Falerina Paquet",
-          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Fin de l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -351,26 +351,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
         "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 192220,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -487,6 +487,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
+        "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
+      },
+      "artists": [
+        {
+          "name": "Luis Siu Riveron",
+          "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "La Paloma - Yradier",
+      "url": "https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Z\u00e9phyrine",
         "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 140374,
       "name": "Z\u00e9phyrine",
       "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Manh\u00e3 de Carnaval",
-        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
-      },
-      "artists": [
-        {
-          "name": "Pedro Santos",
-          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
-      "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -539,18 +539,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
-        "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
       },
       "artists": [
         {
-          "name": "Luis Siu Riveron",
-          "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
         }
       ],
-      "duration_ms": 195120,
-      "name": "La Paloma - Yradier",
-      "url": "https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup"
+      "duration_ms": 296106,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
     },
     {
       "added_at": "2021-01-18 15:57:14",

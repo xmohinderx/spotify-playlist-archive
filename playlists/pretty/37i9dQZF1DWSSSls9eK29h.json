@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 87497,
+  "num_followers": 87587,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDdkMGI3N2Q2ZjZlMzg5YTZjZTNkNTAyNzFlOTE3YmVh",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDM4ZmEzNWQ4YmI3NTM2ZTBlMTZkMjcwMjc2MDI5MmI3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Where the Night Begins",
-      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Caravan Of Dreams",
         "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 360160,
       "name": "Caravan of Dreams",
       "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where the Night Begins",
+      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Alone / But Never Alone",
-        "url": "https://open.spotify.com/album/5X5BHIsKnBpvIybs83eQ4j"
-      },
-      "artists": [
-        {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
-        }
-      ],
-      "duration_ms": 347000,
-      "name": "Smiles And Smiles To Go",
-      "url": "https://open.spotify.com/track/3mbzzlkaNM3ur4nVHAr1dO"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "From The Heart",
         "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 313066,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Alone / But Never Alone",
+        "url": "https://open.spotify.com/album/5X5BHIsKnBpvIybs83eQ4j"
+      },
+      "artists": [
+        {
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+        }
+      ],
+      "duration_ms": 347000,
+      "name": "Smiles And Smiles To Go",
+      "url": "https://open.spotify.com/track/3mbzzlkaNM3ur4nVHAr1dO"
     },
     {
       "added_at": "2020-08-19 00:00:21",

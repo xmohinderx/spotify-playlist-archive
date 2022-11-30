@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-761 songs - 1 day 18 hr 20 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+762 songs - 1 day 18 hr 23 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Cool Up](https://open.spotify.com/track/4pTi5P2JRx9SeejIV3Xudb) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Cool Up](https://open.spotify.com/album/0qa2ZWIyvzn8ST0mXtE4rp) | 4:58 | 2021-04-27 | 2021-05-20 |
 | [Cornfield Chase](https://open.spotify.com/track/18z7tK7u9DcDw85LYRR5Fe) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a78GiEowpaCa7ZJs44xUU) | 2:06 | 2019-09-29\* | 2021-03-11 |
 | [Count Me In](https://open.spotify.com/track/1q0jS20WymGaQCFpZsBZvV) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ) | [Madden NFL 22 Soundtrack](https://open.spotify.com/album/42WcUIaTj6ggCHj6bNelpB) | 2:20 | 2021-08-14 | 2021-10-14 |
+| [Crab Rave](https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [Crab Rave](https://open.spotify.com/album/2lppc5R9jiNgGoB7qXPWlr) | 2:41 | 2022-11-29 |  |
 | [CROWN](https://open.spotify.com/track/7yewACUEo8jX7oLhSaNzBs) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 2:55 | 2021-04-22 | 2022-02-24 |
 | [Crusaders](https://open.spotify.com/track/1NpSdOfFA7XPpEKlTV4OTr) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Kingdom of Heaven \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ma0m844SCFpeSFTv7uaKR) | 1:40 | 2019-09-29\* | 2021-03-14 |
 | [Crystal Ball](https://open.spotify.com/track/264py48l3YjixQ3OhlGutW) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 2:51 | 2021-03-16 | 2021-05-28 |

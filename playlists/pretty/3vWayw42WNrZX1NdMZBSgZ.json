@@ -6,7 +6,7 @@
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzU1OCwxYmExMDZiZjkyNDM5ZjFjOTI1YzJhMWEyZDIzODgyYzFiNjM4N2Ey",
+  "snapshot_id": "MzU2MCwzMGY2N2U3NTI5NmViNzMzMjg3OTNkNTYxNTJiNTk0NGE3YTEzNGJk",
   "tracks": [
     {
       "added_at": "2022-11-10 17:03:45",
@@ -81,6 +81,30 @@
       "url": "https://open.spotify.com/track/17BqQS5Cj899fQR8e6gvk9"
     },
     {
+      "added_at": "2022-11-25 06:06:22",
+      "album": {
+        "name": "LACONE",
+        "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 260952,
+      "name": "LACONE",
+      "url": "https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J"
+    },
+    {
       "added_at": "2022-11-24 19:57:38",
       "album": {
         "name": "Mil Maneras de Morir",
@@ -131,7 +155,7 @@
     {
       "added_at": "2022-11-28 22:48:09",
       "album": {
-        "name": "LO TENGO",
+        "name": "Lo Tengo",
         "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
       },
       "artists": [
@@ -171,30 +195,6 @@
       "duration_ms": 256200,
       "name": "Me Siento Bien",
       "url": "https://open.spotify.com/track/1NHnuko5D0e6SBGP5Mw2xC"
-    },
-    {
-      "added_at": "2022-11-25 06:06:22",
-      "album": {
-        "name": "LACONE",
-        "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 260952,
-      "name": "LACONE",
-      "url": "https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J"
     },
     {
       "added_at": "2022-11-25 14:13:44",

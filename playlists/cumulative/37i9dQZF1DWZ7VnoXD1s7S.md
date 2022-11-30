@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-83 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
+84 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/track/2mei1NCzlPpkh98PzEqc4N) | [Maria Pseftoga](https://open.spotify.com/artist/0eiGR5RtOEfEFqRhSp6mIa), [May Roosevelt](https://open.spotify.com/artist/3Fs0Rcn2Ss2fqbrLvLN4Kt) | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/album/5bQrNKusEFt4fgS5z0Pjog) | 1:57 | 2022-08-22 |  |
 | [Mice On Venus](https://open.spotify.com/track/5fqjfiMOFapIb8uFcxBStH) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:41 | 2022-08-22 | 2022-09-21 |
 | [Mirror Universe](https://open.spotify.com/track/1BqWKidiIXJCUBrZCuZKW2) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Mirror Universe](https://open.spotify.com/album/7u8bP4ULhdE0MxfaeLfXQe) | 2:36 | 2022-08-22 | 2022-08-24 |
+| [Moog City](https://open.spotify.com/track/4Ar3oSp4bAw5gz22F70GM7) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 2:40 | 2022-11-29 |  |
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2022-08-22 |  |
 | [Never](https://open.spotify.com/track/7fwE3Nr0RsTzYOocfu2XbV) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y), [O Super](https://open.spotify.com/artist/5pkyK1GpSOzRAYqs7XclPo) | [Never](https://open.spotify.com/album/6UXGi2ZR2aJ8JfXqnEaI3t) | 6:24 | 2022-08-22 |  |
 | [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 | 2022-08-22 |  |

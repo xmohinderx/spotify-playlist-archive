@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 433357,
       "name": "Dum Dum Boys",
       "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 450560,
       "name": "Get Your Shirt",
       "url": "https://open.spotify.com/track/7mhsxGnDd4Hjz7g5luuCd8"
@@ -507,6 +507,24 @@
       "duration_ms": 184240,
       "name": "La Belle Vie",
       "url": "https://open.spotify.com/track/6ZiyU4U2GlSz814vTTBBDo"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08"
     },
     {
       "album": {
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 304680,
       "name": "You Want It Darker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"

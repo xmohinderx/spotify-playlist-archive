@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,769 likes - 52 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,812 likes - 52 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 39 | [Endless Thoughts](https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK) | [Endless Thoughts](https://open.spotify.com/album/14rKM6D986UMKoXe62UCNb) | 3:57 |
 | 40 | [Intuition](https://open.spotify.com/track/7bK5fHHqzAUtQJlm5qMwbM) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Intuition](https://open.spotify.com/album/0NWMYeboKfGcIFnIFtmOkG) | 2:19 |
 | 41 | [BERGMAN LL \(feat\. Savannah Harris\)](https://open.spotify.com/track/2N5Ip1pZ4rlqMmRtzGZvp2) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Savannah Harris](https://open.spotify.com/artist/0V3HEHjTbwlM0Tf89lTT2j) | [BERGMAN LL \(feat\. Savannah Harris\)](https://open.spotify.com/album/21QZVsUoSVLdVHwnjATd0X) | 4:52 |
-| 42 | [Fight Back](https://open.spotify.com/track/0wzcUa1qdSNX6U5rovQSeR) | [Raffaele Casarano](https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB), [Mirko Signorile](https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq), [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD), [ALESSANDRO MONTEDURO](https://open.spotify.com/artist/10KotdBBPwNBbdAyQNGe8c), [M1](https://open.spotify.com/artist/1KqjO5UJvhSyBu2D91BBOQ), [Bonnot](https://open.spotify.com/artist/1o9wwykqREid81XQEElOJ1), [Marco D'Orlando](https://open.spotify.com/artist/6lx8bRPo7DLXG4t7QM5dIG) | [Fight Back](https://open.spotify.com/album/7Ivhbc9SvFfJJ6rQfQ7akx) | 3:48 |
+| 42 | [Fight Back](https://open.spotify.com/track/0wzcUa1qdSNX6U5rovQSeR) | [Raffaele Casarano](https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB), [M1](https://open.spotify.com/artist/1KqjO5UJvhSyBu2D91BBOQ), [Bonnot](https://open.spotify.com/artist/1o9wwykqREid81XQEElOJ1), [Mirko Signorile](https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq), [ALESSANDRO MONTEDURO](https://open.spotify.com/artist/10KotdBBPwNBbdAyQNGe8c), [Marco D'Orlando](https://open.spotify.com/artist/6lx8bRPo7DLXG4t7QM5dIG) | [Fight Back](https://open.spotify.com/album/7Ivhbc9SvFfJJ6rQfQ7akx) | 3:48 |
 | 43 | [feather in your cap](https://open.spotify.com/track/4qLEYDLDfpMs6oamchkUlt) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [feather in your cap](https://open.spotify.com/album/7oTMJQD4M0kSVpVtbglMI5) | 4:21 |
 | 44 | [Magic Shop](https://open.spotify.com/track/7ljKBQPWcds0VXdaWgyEDP) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Magic Shop](https://open.spotify.com/album/2ttPPKupvKMLn1HRF1O7yh) | 6:26 |
 | 45 | [The Sensitive Ear](https://open.spotify.com/track/1FC1GiHKFKFTBfKK4Yl9I3) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Sensitive Ear](https://open.spotify.com/album/52fu0rsBfFqOLSB2e9Xxe9) | 7:38 |

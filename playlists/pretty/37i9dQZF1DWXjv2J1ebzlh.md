@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,791 likes - 1,201 songs - 3 day 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,856 likes - 1,201 songs - 3 day 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -373,7 +373,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 363 | [Lgira](https://open.spotify.com/track/4HrlCSrt21riW04z9LcFkw) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 5:55 |
 | 364 | [El Sofá](https://open.spotify.com/track/2ayZhIuBT2GCqP6LO3x8EX) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos De Oro](https://open.spotify.com/album/42E9an12E6T1nvEX1mRqem) | 3:12 |
 | 365 | [East of Handsworth](https://open.spotify.com/track/5nYkj0yywG0NPXioW2nPxq) | [Linton Haugton](https://open.spotify.com/artist/5Xjjsxt3NDbfv4uBQce0xJ) | [Beach Diggin', Vol\. 2](https://open.spotify.com/album/0jcchLWlPZ193PmcFV9WnP) | 6:40 |
-| 366 | [La Pastorcita](https://open.spotify.com/track/6Kh547PrBuJKYyBqtTeG9A) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [El Millón de los Destellos](https://open.spotify.com/album/67nMH31vYYHvOeJ6wI9gN4) | 2:51 |
+| 366 | [La Pastorcita](https://open.spotify.com/track/7C6GTp0DjWK435LPUGdh1R) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf), [Enrique Delgado](https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx) | [Para Todo el Mundo, Vol\. 2](https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2) | 2:51 |
 | 367 | [Talagh](https://open.spotify.com/track/0Khekj2ZgnHQaL6Q3K825M) | [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [40 Golden Hits Of Googoosh](https://open.spotify.com/album/3XPnOwdFm6LmNY8pndc6i9) | 4:46 |
 | 368 | [Longa 79](https://open.spotify.com/track/4674J8wqzOhLLSQGbqbvKq) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 3:31 |
 | 369 | [Ominira](https://open.spotify.com/track/5ylffq5ppAHSXPyWQx6qta) | [West African Rhythm Brothers](https://open.spotify.com/artist/6eHx0IIRZoz1ja4upKwXNj) | [London Is the Place for Me 2](https://open.spotify.com/album/17wJJfHgD2HJmM8YextErD) | 3:12 |
@@ -820,7 +820,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 810 | [Big Bamboo \- Remastered](https://open.spotify.com/track/2ZLFZXg2USaVzWTKrj5g35) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Independent Jamaica / Big Bamboo](https://open.spotify.com/album/03zXrtUH7hQtZ0h0kIiAXk) | 2:37 |
 | 811 | [La Piojosa](https://open.spotify.com/track/0WLZ4Ld5myuUWegj8lPn4Y) | [La Sonora Cienaguera](https://open.spotify.com/artist/6K3zhZGG3obiWmkbIdhscY) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3JoaLNavAXOlnbp0FUVF9b) | 2:58 |
 | 812 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 |
-| 813 | [Elsa](https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Mundial....](https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH) | 3:40 |
+| 813 | [Elsa](https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf), [Enrique Delgado](https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx) | [Para Todo el Mundo, Vol\. 2](https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2) | 3:40 |
 | 814 | [Cumbia Del Puerto](https://open.spotify.com/track/6GzE6gVVu35Bzpro5zRO11) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:43 |
 | 815 | [Mahlalela](https://open.spotify.com/track/30qQIKaWcWn5U5h724YDDv) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Chisa Years 1965\-1975 \(Rare and Unreleased\)](https://open.spotify.com/album/3GWyP7C2a9aydvTavoMtgZ) | 4:28 |
 | 816 | [Judith](https://open.spotify.com/track/2RtB72NnXkwCCVQxHtV0NH) | [Lucho Peréz](https://open.spotify.com/artist/5wpftV0otFlqs8t04aWONu) | [La Edad De Oro De La Cumbia Colombiana, Vol\. 2](https://open.spotify.com/album/1sJyr6gkGhXkMP9DvYqREB) | 2:36 |
@@ -1210,4 +1210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1200 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1201 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2NzIwNjgwMCwwMDAwMDAwMDM4NWIxNDVkZDk5ZjU0ZWRiYWFhMzE4MzI0NTdhZDRj`
+Snapshot ID: `MTY2NzIwNjgwMCwwMDAwMDAwMDQ5MDU0YTE5YjY4ODBmZDBmNDA5MzZjMDVlN2Y1YWU1`

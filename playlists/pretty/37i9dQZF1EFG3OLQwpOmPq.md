@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 59 | [paper ceilings](https://open.spotify.com/track/40a9j0j933mlcCEgokySHT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:36 |
 | 60 | [Give Up the Gold](https://open.spotify.com/track/5j9jatJTdfmJKJ7tFYbf32) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Give Up the Gold](https://open.spotify.com/album/0qpYNafkpUcFR6OFRCQcGL) | 2:03 |
 | 61 | [Don't Make Me Miss You](https://open.spotify.com/track/607gOHvtj1UmM6youCL7aG) | [Wayne Regretzky](https://open.spotify.com/artist/1afYZ4zkRfwrgjz0OVhy1v), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Don't Make Me Miss You](https://open.spotify.com/album/6JFoyy1Ndxe0dhjWROVmzP) | 2:06 |
-| 62 | [Elouise](https://open.spotify.com/track/2XHyh3INyHUK48Ums6ShOt) | [Ian Nelson](https://open.spotify.com/artist/0Qz341hUw2KNrPpassp9HQ) | [Elouise](https://open.spotify.com/album/06SBSILEyeDpD3kucveNMf) | 3:34 |
-| 63 | [love notes and hate mail](https://open.spotify.com/track/7F25Xwb7FWYlx2GBj5i8Wv) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 3:18 |
+| 62 | [love notes and hate mail](https://open.spotify.com/track/7F25Xwb7FWYlx2GBj5i8Wv) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 3:18 |
+| 63 | [Elouise](https://open.spotify.com/track/2XHyh3INyHUK48Ums6ShOt) | [Ian Nelson](https://open.spotify.com/artist/0Qz341hUw2KNrPpassp9HQ) | [Elouise](https://open.spotify.com/album/06SBSILEyeDpD3kucveNMf) | 3:34 |
 | 64 | [Blue](https://open.spotify.com/track/4FSVM0jbDn8cspWfuJ3srv) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Blue](https://open.spotify.com/album/1yATfEBCy2ZuTSDpixl6VM) | 2:10 |
 | 65 | [Work](https://open.spotify.com/track/7LHf7zXbYdBOcTN7ZrEPUs) | [Crush Effect](https://open.spotify.com/artist/5zH3mqX70eMohRdwUWY2XJ) | [Work](https://open.spotify.com/album/5spSfPDkIm0WdVfqieJi3s) | 2:38 |
 | 66 | [Running in Place](https://open.spotify.com/track/4fJPDl0e9eftGofdO2cZea) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Running in Place](https://open.spotify.com/album/7JQP3efrsVzxkB3mimXxAB) | 3:08 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 72 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 73 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc4MjgwNzgsMDAwMDAwMDA3MTIxM2NkYjEyYjBiMTI3MDkyOGNiNjQyMWI5MTJkNw==`
+Snapshot ID: `Mjc4Mjk1MTgsMDAwMDAwMDA2MWE2YWVhNjUwYTgzNzI2NGI2YTczOWJhODQ5ZGEwMw==`

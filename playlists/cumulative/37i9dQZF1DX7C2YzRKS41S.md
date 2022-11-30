@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-380 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
+381 songs - 22 hr 38 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Be on the Top](https://open.spotify.com/track/24ymh9zD41jAXiLGfDehVd) | [Dela Fiori](https://open.spotify.com/artist/69YvTaFFQ5Fi9SNvO6x4Cc), [Bruno Cunha](https://open.spotify.com/artist/7BRalUBpDkkEu9lbgu05dv) | [Be on the Top](https://open.spotify.com/album/2Wl6gbAtlMKdjSLphPzU4L) | 3:16 | 2021-12-24 | 2022-07-13 |
 | [Bellyache \- Ao Vivo](https://open.spotify.com/track/0bXZ7DQaWSj15TbvWW1TFS) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Acústico MTV Tiago Iorc \(Ao Vivo\)](https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV) | 4:19 | 2022-01-21 | 2022-05-09 |
 | [Benzin](https://open.spotify.com/track/5JYSlt9iKSWrGWt16trfMZ) | [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Manual](https://open.spotify.com/album/3THs8EgoGs9oSKahSlN4yP) | 4:10 | 2022-03-25 | 2022-04-18 |
+| [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 | 2022-11-25 |  |
 | [Big Jet Plane \- Radio Edit](https://open.spotify.com/track/7xCkZq0aRtFoTFROPM63l8) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Big Jet Plane](https://open.spotify.com/album/6nhLs4qiFClX5ef3YaCfFm) | 3:44 | 2022-03-25 | 2022-04-14 |
 | [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2022-04-06 |  |
 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 | 2022-04-06 |  |
@@ -269,7 +270,7 @@
 | [Pra Não Esquecer](https://open.spotify.com/track/7AOMtxV8loRbNU0CCowKg5) | [Lucas Gottardello](https://open.spotify.com/artist/2qjG119rhgzBH4oKq1aOfU) | [O Que Te Faz Sentir](https://open.spotify.com/album/0nADgMSO5BqMPOUjPzQZzz) | 3:03 | 2022-01-21 | 2022-05-26 |
 | [Pra Seguir Viagem](https://open.spotify.com/track/2j1edCLsLNawgyk352oSnm) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Dentro](https://open.spotify.com/album/3T94D9NiOZr79Y7eit90CZ) | 4:53 | 2022-01-21 | 2022-06-09 |
 | [Pra Te Iluminar](https://open.spotify.com/track/0cchF6GS8r28iyHrCdsEJa) | [David Mour](https://open.spotify.com/artist/3fgi1hfJkAETgn5Yp2LuiY) | [Pra Te Iluminar](https://open.spotify.com/album/4dwyaJb4tpBBIpmHlIIjK7) | 3:32 | 2021-12-24 | 2022-07-29 |
-| [Princess of China \- Acoustic](https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Princess of China](https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7) | 3:26 | 2022-03-25 |  |
+| [Princess of China \- Acoustic](https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Princess of China](https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7) | 3:26 | 2022-03-25 | 2022-11-30 |
 | [Pro Mundo Que Virá](https://open.spotify.com/track/3Z8wkGzmV0tD1zIQt1CrjH) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [O Amor Liberta](https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd) | 3:23 | 2021-12-24 | 2022-07-28 |
 | [Pronto\-Socorro](https://open.spotify.com/track/5vNJgxyvc33hvghUcRWqyd) | [Bi Santana](https://open.spotify.com/artist/3hDjCoC42FAM8I5owulSPd) | [Pronto\-Socorro](https://open.spotify.com/album/4WxXz08rp01NpXhIG2HfpS) | 2:55 | 2022-03-25 | 2022-04-18 |
 | [Pássaros a Voar](https://open.spotify.com/track/4gqmeOswvOrXrDkKRslx1X) | [Ana Rafaela](https://open.spotify.com/artist/7dyTdzLmMI3GXV53f6SY1e) | [Pássaros a Voar](https://open.spotify.com/album/4ReG6Dn2IDo0zHDtas5nlC) | 3:05 | 2021-12-24 | 2022-07-20 |

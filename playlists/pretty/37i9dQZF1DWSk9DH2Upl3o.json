@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 10247,
+  "num_followers": 10284,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGVlYTUwODNhNjIxMmZmZDBhMzAxMTRmOWUyZTNmNjNj",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDhmNGZiOGY1MDE2MzdmYjdmOTUxZTdhZjk0OThiZjVk",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -333,20 +333,20 @@
       "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "The Arcade",
-        "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
+        "name": "Circles Around the Sun",
+        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
       },
       "artists": [
         {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
         }
       ],
-      "duration_ms": 193101,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
+      "duration_ms": 357053,
+      "name": "Babyman",
+      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -365,20 +365,20 @@
       "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Circles Around the Sun",
-        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
+        "name": "The Arcade",
+        "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
       },
       "artists": [
         {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
         }
       ],
-      "duration_ms": 357053,
-      "name": "Babyman",
-      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+      "duration_ms": 193101,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Not Just a Word",
-        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 338011,
-      "name": "Not Just a Word",
-      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Casino Cabaret",
@@ -575,6 +559,22 @@
       "duration_ms": 448385,
       "name": "Mr. Scientist",
       "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Not Just a Word",
+        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 338011,
+      "name": "Not Just a Word",
+      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 304826,
-      "name": "Nuff",
-      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 412707,
       "name": "Galactic Passport",
       "url": "https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
       "added_at": "2022-09-30 04:01:00",

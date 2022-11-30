@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-108 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5JHMYs72YwVvrpNONBNFT3)
+109 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/5JHMYs72YwVvrpNONBNFT3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Tear the House Up](https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da) | 4:40 | 2022-09-30 | 2022-11-05 |
 | [Tell Me \[VMIX\]](https://open.spotify.com/track/3OStRo9VxvsqXWbdsry07j) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [Tell Me \[VMIX\]](https://open.spotify.com/album/76pa55CcZvQaRyk5DOIbJ2) | 3:13 | 2022-10-12 |  |
 | [Tell Me What To Do](https://open.spotify.com/track/3kqk3kfgy6ENe1Y6YdrJVH) | [Lake Stovall](https://open.spotify.com/artist/1EEuN5YJWn70WP9YkfW38X) | [Tell Me What To Do](https://open.spotify.com/album/0dv69CwaPecupmMpu0cocl) | 3:25 | 2022-09-08 | 2022-10-26 |
-| [Temperature \(DJ ReMix\) \(As Made Famous by Sean Paul\)](https://open.spotify.com/track/5dmLs1hlebFHb4QnUUqeJC) | [DJ Remix Factory](https://open.spotify.com/artist/0TvkwyCGv8xIaJ9bP8SL0i) | [100 Pop Hits Remixed!](https://open.spotify.com/album/53NqvHW1F3dBmx3vHSdLk0) | 3:31 | 2022-11-10 |  |
+| [Temperature \(DJ ReMix\) \(As Made Famous by Sean Paul\)](https://open.spotify.com/track/5dmLs1hlebFHb4QnUUqeJC) | [DJ Remix Factory](https://open.spotify.com/artist/0TvkwyCGv8xIaJ9bP8SL0i) | [100 Pop Hits Remixed!](https://open.spotify.com/album/53NqvHW1F3dBmx3vHSdLk0) | 3:31 | 2022-11-10 | 2022-11-30 |
+| [Temperature \(Workout Mix\)](https://open.spotify.com/track/7vJ52BTjE4m8F0Jk0joptq) | [Workout Buddy](https://open.spotify.com/artist/7JfutRemdlJGyQsIZ7wWQ9) | [50 Hip Hop Superhits! Workout Mix](https://open.spotify.com/album/14Ckwtc0cHcqgO9c0lKvfy) | 3:31 | 2022-11-10 |  |
 | [These Days](https://open.spotify.com/track/20vHCWboPFuhfLVYWyL27T) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [These Days](https://open.spotify.com/album/6guB22g2F0QDgRuQCT57DK) | 3:03 | 2022-09-08 | 2022-10-01 |
 | [Til Forever](https://open.spotify.com/track/1IMbMfRCMHUm1XnyZpY8v6) | [Corbin Canvas](https://open.spotify.com/artist/6hOhMbElh6ly2fMJyRkaHr) | [Til Forever](https://open.spotify.com/album/04zfbLDjeXsLQH9Xo3tobw) | 4:08 | 2022-09-08 |  |
 | [Til The World Blow Up \(feat\. Mike Dunn\) \- Mike Dunn BlackBall Classic Soul MixX](https://open.spotify.com/track/1ke99PglMpxh7q1Ez6mFQa) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Til The World Blow Up \(feat\. Mike Dunn\) \[Mike Dunn MixXes\]](https://open.spotify.com/album/3oj2sqwnaMFhk3JU4Ixtfc) | 3:28 | 2022-09-08 | 2022-10-01 |

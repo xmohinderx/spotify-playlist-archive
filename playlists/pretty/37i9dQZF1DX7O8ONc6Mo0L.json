@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Clovis, Ton Carfi",
-  "num_followers": 229867,
+  "num_followers": 229976,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4OTU1MSwwMDAwMDAwMGU2YzM1YWU2NjY2MmM3ZGI5N2MzYTNiNzMxYmJkOGYx",
+  "snapshot_id": "MTY2OTM4OTU1MSwwMDAwMDAwMDEyZWMxM2JmMGRjOTM1ODYzNDI4NjlkNmE3MGFiMzdm",
   "tracks": [
     {
       "added_at": "2022-11-25 15:19:11",
@@ -135,18 +135,22 @@
     {
       "added_at": "2022-11-25 15:19:11",
       "album": {
-        "name": "Nos Bra\u00e7os do Pai",
-        "url": "https://open.spotify.com/album/3il2SE9rmAIqStzbzGm94l"
+        "name": "Minha Calmaria",
+        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
       },
       "artists": [
         {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 372144,
-      "name": "Nos Bra\u00e7os do Pai",
-      "url": "https://open.spotify.com/track/7sSwgBxIAbYfijM34gTxOw"
+      "duration_ms": 219240,
+      "name": "Minha Calmaria",
+      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
     },
     {
       "added_at": "2022-11-25 15:19:11",
@@ -167,22 +171,18 @@
     {
       "added_at": "2022-11-25 15:19:11",
       "album": {
-        "name": "Minha Calmaria",
-        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
+        "name": "Nos Bra\u00e7os do Pai",
+        "url": "https://open.spotify.com/album/3il2SE9rmAIqStzbzGm94l"
       },
       "artists": [
         {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
         }
       ],
-      "duration_ms": 219240,
-      "name": "Minha Calmaria",
-      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
+      "duration_ms": 372144,
+      "name": "Nos Bra\u00e7os do Pai",
+      "url": "https://open.spotify.com/track/7sSwgBxIAbYfijM34gTxOw"
     },
     {
       "added_at": "2022-11-25 15:19:11",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-11-25 15:19:11",
       "album": {
+        "name": "Prossiga",
+        "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 307319,
+      "name": "Prossiga",
+      "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
+    },
+    {
+      "added_at": "2022-11-25 15:19:11",
+      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2022-11-25 15:19:11",
-      "album": {
-        "name": "Prossiga",
-        "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 307319,
-      "name": "Prossiga",
-      "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
     },
     {
       "added_at": "2022-11-25 15:19:11",

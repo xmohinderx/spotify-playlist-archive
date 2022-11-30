@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Story Of The Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,800 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,896 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 75 | [girls just wanna have sex](https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [girls just wanna have sex](https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg) | 2:04 |
 | 76 | [SOS!](https://open.spotify.com/track/5N5PENdTH9qAq8dMJFtQym) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ) | [SOS!](https://open.spotify.com/album/0UtGfbUX6fBUwwWzRC9fT6) | 2:45 |
 | 77 | [Carnage](https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9) | [Carnage](https://open.spotify.com/album/1V4PSOqCvobqCAZcbLsBc0) | 3:36 |
-| 78 | [Left Handed](https://open.spotify.com/track/05VzVcYcNv254mkVPpT01i) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/5g4eiLltqMt2v1NzSq505b) | 2:34 |
+| 78 | [Left Handed](https://open.spotify.com/track/6QgGrnkenUSXi5gkdkAsNc) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/3adwq4kY3Ql6jiBwEtgu0M) | 2:34 |
 | 79 | [Promise](https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP), [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Promise](https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz) | 3:13 |
 | 80 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 |
 | 81 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
 | 125 | [Beachtown](https://open.spotify.com/track/1hiN1elmKq5lK4cepuFhrP) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Beachtown](https://open.spotify.com/album/425tOEXepyVo5xnKObzq5h) | 3:54 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGZlYTRkYjFiYzJhZGQyZGFhMzAwZDFmMzU4ODU1ZDVm`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGZkNWI0MjU1YWFjMTU1NDlhMzk3ZjA3NjhjNTU3MDE3`

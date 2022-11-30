@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-299 songs - 1 day 4 hr 14 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+300 songs - 1 day 4 hr 21 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 | 2021-11-26 |  |
 | [Deía \- AVEM Remix](https://open.spotify.com/track/4pgBB90REWf829lym8RE6N) | [Mira \(Berlin\)](https://open.spotify.com/artist/6p31dmLI4jnatyEQmrVPDc), [Christopher Schwarzwälder](https://open.spotify.com/artist/11i3tISGuOUmWFuXTRNrtD), [AVEM](https://open.spotify.com/artist/7xu4DQ5wfoGi4koqPFfXAe) | [Deía Remixes](https://open.spotify.com/album/4kCjJCTbwQiHDIjSIZpFtv) | 6:54 | 2021-11-26 | 2022-07-28 |
 | [Differences](https://open.spotify.com/track/7pAcSh8OXgAVAWT7VdqUDs) | [Kalyma](https://open.spotify.com/artist/08Qus19mV9XncqLz2bL6eo) | [Differences](https://open.spotify.com/album/6y08yLAEY6TKovLXFMJKIK) | 6:09 | 2022-01-14 | 2022-07-13 |
-| [Dig Deep](https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [WAIRUNGA](https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk) | 10:30 | 2021-11-26 |  |
+| [Dig Deep](https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [WAIRUNGA](https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk) | 10:30 | 2021-11-26 | 2022-11-30 |
 | [Dilemma](https://open.spotify.com/track/1BTExvMirjnjdYDND60zjV) | [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU) | [Phantom Nova / Dilemma](https://open.spotify.com/album/4vPQGnb9suKVKSG6gqsbVQ) | 4:58 | 2022-02-18 | 2022-04-15 |
 | [Disappear \- Short Edit](https://open.spotify.com/track/0dEjDFIY7aLwNj2DAcy98s) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Mery Kilic](https://open.spotify.com/artist/2Vlx9Gl4A2rI2fjEe97PR5) | [Disappear](https://open.spotify.com/album/3M8am3fJKzNubjgDktouA5) | 4:36 | 2021-11-26 | 2022-07-28 |
 | [Disco Voador \- Oliver Koletzki Remix](https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Disco Voador \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL) | 6:21 | 2022-09-30 |  |
@@ -248,6 +248,7 @@
 | [Someone \(Just Like Her\)](https://open.spotify.com/track/2Y2KgeqU0yJP4jfjTfx999) | [Citizenn](https://open.spotify.com/artist/2QSNe0Uh0lZ3A6yHXy5ZFz), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Someone \(Just Like Her\)](https://open.spotify.com/album/5LsJqDuCXOKlHPZrg5P3et) | 6:51 | 2022-01-14 | 2022-01-15 |
 | [Sonneries de la Rose+Croix: I\. Air de l'Ordre \- Sascha Braemer 5pm Remix \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/0kjtIirdAUbkV2WtjElwjF) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond) | [Sonneries de la Rose+Croix: I\. Air de l'Ordre \[Sascha Braemer Remix \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/2B6pYkxBcKlRY6HxF2CsTB) | 6:58 | 2021-11-26 | 2022-07-29 |
 | [Speed of Sound](https://open.spotify.com/track/4UFmK1Cvam4YaAoISiyUJG) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Speed Of Sound](https://open.spotify.com/album/0saoiEzAyhQ3ihzzGflYnW) | 7:11 | 2022-06-24 | 2022-10-17 |
+| [Speed of Sound](https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Speed Of Sound](https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb) | 7:11 | 2022-11-25 |  |
 | [St Claire](https://open.spotify.com/track/7qrch7xVClA6bB299puPoz) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [St Claire](https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q) | 3:34 | 2022-02-04 |  |
 | [Stellar Hearts](https://open.spotify.com/track/4hETDMTvvuvP9IgOnhkOVS) | [MKLY](https://open.spotify.com/artist/0o00HLhwBnmX6OYwwROflD) | [Foundations, Vol\. 3](https://open.spotify.com/album/451v1P1Ty15jtLooRGV2Es) | 7:28 | 2021-11-26 | 2022-07-26 |
 | [Steps](https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Steps](https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk) | 5:58 | 2021-11-26 | 2022-06-18 |

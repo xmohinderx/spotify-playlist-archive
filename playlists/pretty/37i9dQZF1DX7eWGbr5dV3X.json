@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 7187,
+  "num_followers": 7203,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGE1Yzc2NTE4ZDZjOGVhOWM0MTA2NGUwNTcxZjkzMTA1",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDM0ZGFlNDI2MzE2Nzc0ZjhjMGE4YmMwMTVjZmVhNmJm",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Rules!",
-        "url": "https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga"
+        "name": "good juju : vol. 1",
+        "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
       },
       "artists": [
         {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+          "name": "Jujubee",
+          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
         }
       ],
-      "duration_ms": 202389,
-      "name": "Robbed",
-      "url": "https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq"
+      "duration_ms": 181424,
+      "name": "Need Ya",
+      "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "good juju : vol. 1",
-        "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
+        "name": "Rules!",
+        "url": "https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga"
       },
       "artists": [
         {
-          "name": "Jujubee",
-          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
         }
       ],
-      "duration_ms": 181424,
-      "name": "Need Ya",
-      "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
+      "duration_ms": 202389,
+      "name": "Robbed",
+      "url": "https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -567,38 +567,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "out!",
-        "url": "https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp"
-      },
-      "artists": [
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "out!",
-      "url": "https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "Open up Babe (Perry twins remix)",
         "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
       },
@@ -619,6 +587,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 216842,
       "name": "Round and Round (Bright Light Bright Light Remix)",
       "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "out!",
+        "url": "https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp"
+      },
+      "artists": [
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "out!",
+      "url": "https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN"
     },
     {
       "added_at": "2022-08-25 15:45:44",

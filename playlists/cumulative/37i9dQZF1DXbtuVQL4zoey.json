@@ -1404,6 +1404,24 @@
     },
     {
       "album": {
+        "name": "Ovrhaul",
+        "url": "https://open.spotify.com/album/570JUS87mJeLPVsa5sQq8k"
+      },
+      "artists": [
+        {
+          "name": "whknws.",
+          "url": "https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85843,
+      "name": "candy",
+      "url": "https://open.spotify.com/track/7DAlxFXwgtXy7gaLWNOEII"
+    },
+    {
+      "album": {
         "name": "candy",
         "url": "https://open.spotify.com/album/04CTvp4lpryXBremwXAnKt"
       },
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 85874,
       "name": "candy",
       "url": "https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq"

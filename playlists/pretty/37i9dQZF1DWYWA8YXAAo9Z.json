@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 32827,
+  "num_followers": 32904,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDY1YmFiMTZjNmM2ZWVlMGQ5OGRjNjQ3N2U5ZDAzY2I3",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDdjMDAzNDE2ZWFmNDFmMWMyNGMwNzgzNTQxMDM3NDA3",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -311,22 +311,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Secret Garden",
-        "url": "https://open.spotify.com/album/5XSfsdujTPlwsr4zCup4p2"
+        "name": "Entanglement",
+        "url": "https://open.spotify.com/album/2ulqyHaLOAzuCKrd5WyAyV"
       },
       "artists": [
         {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        },
-        {
-          "name": "Mrs Jynx",
-          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
+          "name": "Pulse Mandala",
+          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
         }
       ],
-      "duration_ms": 281229,
-      "name": "The Secret Garden",
-      "url": "https://open.spotify.com/track/5nQzwQJAMxPR8TV6BXhthc"
+      "duration_ms": 273750,
+      "name": "Aether Vibrations",
+      "url": "https://open.spotify.com/track/1JgeUGhBGB4jzpFZAFpEnx"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -351,18 +347,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Entanglement",
-        "url": "https://open.spotify.com/album/2ulqyHaLOAzuCKrd5WyAyV"
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/5XSfsdujTPlwsr4zCup4p2"
       },
       "artists": [
         {
-          "name": "Pulse Mandala",
-          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+          "name": "Mrs Jynx",
+          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
         }
       ],
-      "duration_ms": 273750,
-      "name": "Aether Vibrations",
-      "url": "https://open.spotify.com/track/1JgeUGhBGB4jzpFZAFpEnx"
+      "duration_ms": 281229,
+      "name": "The Secret Garden",
+      "url": "https://open.spotify.com/track/5nQzwQJAMxPR8TV6BXhthc"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -379,6 +379,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Contemplation",
+        "url": "https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne Vogelsinger",
+          "url": "https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA"
+        }
+      ],
+      "duration_ms": 351276,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -451,22 +467,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Contemplation",
-        "url": "https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9l\u00e8ne Vogelsinger",
-          "url": "https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA"
-        }
-      ],
-      "duration_ms": 351276,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Journey To The Underworld EP",
-        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 389000,
-      "name": "Dissolution",
-      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 382111,
       "name": "Plonk III",
       "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Journey To The Underworld EP",
+        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 389000,
+      "name": "Dissolution",
+      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "wander into",
-        "url": "https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "wander into",
-      "url": "https://open.spotify.com/track/3E9IXQVQhaf79PXNr24GDy"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Together in Static",
         "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 155375,
       "name": "Together in Static",
       "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "wander into",
+        "url": "https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "wander into",
+      "url": "https://open.spotify.com/track/3E9IXQVQhaf79PXNr24GDy"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
+      },
+      "artists": [
+        {
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
+        }
+      ],
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Vu Hijera",
         "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 225054,
       "name": "My Birthday Suit",
       "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
-      },
-      "artists": [
-        {
-          "name": "Bostro Pesopeo",
-          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
-        }
-      ],
-      "duration_ms": 289642,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
-      },
-      "artists": [
-        {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Scene Memory 2",
         "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
       },
@@ -947,22 +931,6 @@
       "duration_ms": 186774,
       "name": "Alternations",
       "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
-      },
-      "artists": [
-        {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -987,6 +955,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Liquid Planta Seeds",
         "url": "https://open.spotify.com/album/2qobaujPblxqumcde6yjVY"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Orange Blue Green",
         "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 165925,
       "name": "Orange Blue Green",
       "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Raum (Single Edit)",
+        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 442500,
+      "name": "Raum - Single Edit",
+      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1039,22 +1055,6 @@
       "duration_ms": 166965,
       "name": "Sonic Winds",
       "url": "https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Raum (Single Edit)",
-        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 442500,
-      "name": "Raum - Single Edit",
-      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Breathing Instruments",
-        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
-      },
-      "artists": [
-        {
-          "name": "Sunmoonstar",
-          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
-        }
-      ],
-      "duration_ms": 120280,
-      "name": "Sleepy Dragon",
-      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Geoglyph",
         "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "St / Fr / Sp",
-        "url": "https://open.spotify.com/album/2mc5e0hJxfsVAwzqJWRnBL"
+        "name": "Breathing Instruments",
+        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "Sunmoonstar",
+          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Starethrough - Transition Mix",
-      "url": "https://open.spotify.com/track/2eWzfakfq1LO1tE1luft3n"
+      "duration_ms": 120280,
+      "name": "Sleepy Dragon",
+      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1151,6 +1135,22 @@
       "duration_ms": 145000,
       "name": "The Station Is Alive Again",
       "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "St / Fr / Sp",
+        "url": "https://open.spotify.com/album/2mc5e0hJxfsVAwzqJWRnBL"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Starethrough - Transition Mix",
+      "url": "https://open.spotify.com/track/2eWzfakfq1LO1tE1luft3n"
     },
     {
       "added_at": "2022-10-04 14:14:28",

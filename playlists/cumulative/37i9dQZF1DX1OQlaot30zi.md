@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Disme e Izi, Shiva, Neima Ezza e tanti altri.
 
-980 songs - 1 day 21 hr 3 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+981 songs - 1 day 21 hr 6 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,7 +771,7 @@
 | [SCOMPARIRE](https://open.spotify.com/track/2S5LU1179mVkOYXVFKCh0V) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [UN'ALTRA NOTTE/SCOMPARIRE](https://open.spotify.com/album/1US94SSA7UeuZCfL4vXqo0) | 2:41 | 2022-09-22 | 2022-10-07 |
 | [Screenshot](https://open.spotify.com/track/5BU3xMLodFwLcgjamARI9d) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Screenshot](https://open.spotify.com/album/2qfz2KOd4sFv9hiMjN7DY1) | 2:03 | 2022-09-29 | 2022-11-11 |
 | [SDA \(Sangue dall’anima\) \[feat\. Carl Brave, Pretty Solero\]](https://open.spotify.com/track/0akI9rL4OfOYiOJOuve1mO) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Pretty Solero](https://open.spotify.com/artist/3kgjDFMkBBMlr7DXoBYDA0), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:52 | 2022-05-27 | 2022-06-03 |
-| [Se me la dai te la do](https://open.spotify.com/track/3vfaKMkM79YtE8iHA7LURH) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Se me la dai te la do](https://open.spotify.com/album/2INlDg0vYtyTn3xQM8qGK1) | 2:59 | 2022-11-10 |  |
+| [Se me la dai te la do](https://open.spotify.com/track/3vfaKMkM79YtE8iHA7LURH) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Se me la dai te la do](https://open.spotify.com/album/2INlDg0vYtyTn3xQM8qGK1) | 2:59 | 2022-11-10 | 2022-11-30 |
 | [Se Mi Chiedi](https://open.spotify.com/track/15TWKmVkfhkvx9JuYj8J4d) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [WVNNV](https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp) | [Se Mi Chiedi](https://open.spotify.com/album/5v9BWXJPvKHAeRGt5qyKIp) | 2:37 | 2022-08-18 | 2022-09-01 |
 | [SE MI VUOI RISPONDI](https://open.spotify.com/track/4hvFntfCUxVUFXrRjepCHa) | [HOOD](https://open.spotify.com/artist/5IbmWnYEykGQK5N8pUn8ng) | [SANT'EMERENZIANA](https://open.spotify.com/album/1qRqXo0KwYfDxTAnVW9bfU) | 2:55 | 2022-05-10 | 2022-05-23 |
 | [SECONDI](https://open.spotify.com/track/2F0lfSnO8D3crTWQkeXfCQ) | [fuckpietro](https://open.spotify.com/artist/6cv1Z8SFYYSPpRSm1TOmxB), [shark34](https://open.spotify.com/artist/3zyZvgvM9daKsobrqK0Md4) | [SECONDI / CAMOUFLAGE](https://open.spotify.com/album/5EimBXpohd2DCC2lY7iObx) | 3:00 | 2022-08-18 | 2022-08-26 |
@@ -800,6 +800,7 @@
 | [SHAKE IT](https://open.spotify.com/track/0uwLyfh8ig8RXchJDtNJqY) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [SHAKE IT](https://open.spotify.com/album/1IJ6WQ3Tdk6LEL4ZuSQAfe) | 2:40 | 2022-11-18 |  |
 | [Shaku Shaku](https://open.spotify.com/track/1SMvDYaCWQyjsLwikMqqSU) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ) | [Shaku Shaku](https://open.spotify.com/album/56fJVTIdGXOeHo2Q7diujr) | 3:36 | 2022-06-23 | 2022-07-01 |
 | [Sharm El Sheikh](https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Sharm El Sheikh](https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW) | 2:05 | 2022-10-24 | 2022-11-25 |
+| [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd) | 3:04 | 2022-11-29 |  |
 | [SIAMO NOI \(feat\. Axos\)](https://open.spotify.com/track/40QIYPzlsjzVAG1edc3okW) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [SIAMO NOI \(feat\. Axos\)](https://open.spotify.com/album/6K3IirbBHHa4lXX9dwKLsi) | 2:32 | 2022-06-23 | 2022-07-15 |
 | [SIDE HOE](https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [SIDE HOE](https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr) | 2:09 | 2022-05-12 | 2022-05-25 |
 | [SIEMPRE](https://open.spotify.com/track/6xzeICggqPPTytLBN9Z3BA) | [SouthSide Ciccio](https://open.spotify.com/artist/5GFocCPyR9s1EjhRCh0ZE9), [Stefy Que Pasa](https://open.spotify.com/artist/3uXmkmHWBIGWZjGV8xvM3H) | [SIEMPRE](https://open.spotify.com/album/2u72uXE5a9dy9waKg4AyMG) | 2:48 | 2022-10-20 | 2022-10-28 |

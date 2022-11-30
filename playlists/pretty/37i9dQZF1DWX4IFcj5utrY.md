@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=bSTf1MajQS6L2ajf\-MJZAA">Dlala Thukzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,102 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,169 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 25 | [Buya Faanaa](https://open.spotify.com/track/7ekBzUvEIfjA97jEfRN7QF) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Coolkruger](https://open.spotify.com/artist/4QetKXwMztESdkPNuBy1Wu), [Dj Couza](https://open.spotify.com/artist/4dAuZsVP2DOlv0mwtWEU1L) | [Groovy Since 90 Sumthin'](https://open.spotify.com/album/6RICRX15ckBZRTkleAgyPX) | 7:47 |
 | 26 | [For Love](https://open.spotify.com/track/2tUtE7MXLpUD6YPMzKqdxU) | [T E M P O](https://open.spotify.com/artist/6h2OcKtozbMmWKL5cROcQ6), [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Savana](https://open.spotify.com/artist/3TS9GT1YP9KSzhpnLmXLdt) | [For Love](https://open.spotify.com/album/42joxDMhGX2HTpWqaPdiGB) | 5:34 |
 | 27 | [Maya](https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ) | 6:39 |
-| 28 | [Mhungana](https://open.spotify.com/track/4geNXVubg5QYEDx8zDuw0Z) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Brenden Praise](https://open.spotify.com/artist/1GAH7U4r58tl9af9n5aLhH), [Fatso AMG](https://open.spotify.com/artist/1DkPgvRMOTHVi0mGoSor7V) | [Asante](https://open.spotify.com/album/6JDD5mOfpytom3PFSySw8J) | 5:43 |
+| 28 | [Munghana](https://open.spotify.com/track/4geNXVubg5QYEDx8zDuw0Z) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Brenden Praise](https://open.spotify.com/artist/1GAH7U4r58tl9af9n5aLhH), [Fatso AMG](https://open.spotify.com/artist/1DkPgvRMOTHVi0mGoSor7V) | [Asante](https://open.spotify.com/album/6JDD5mOfpytom3PFSySw8J) | 5:43 |
 | 29 | [Afro Brotherz \(Emhlabeni\)](https://open.spotify.com/track/2xB4MkD3D4o4ByIjt7Bn5I) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN), [LuckyKeyz](https://open.spotify.com/artist/5nOVG0B4alLpEzRUf0lDYK) | [Sunrise Music](https://open.spotify.com/album/0aKRQm4iXhtj5bE9Q8gvuV) | 7:10 |
 | 30 | [Loosing Time](https://open.spotify.com/track/0A7APmNK9Jf3TaV4YvyWPj) | [Don Diego](https://open.spotify.com/artist/4xsPF3eWcrzcFYtZnyuVtY), [The Fabulous Joker](https://open.spotify.com/artist/4cKE8QbqfWIakIafzl8DgB) | [Loosing Time](https://open.spotify.com/album/4W74BWiDUF2doTYdyGyKBO) | 5:30 |
 | 31 | [My Intentions](https://open.spotify.com/track/03ZCukkFExJxMeT420qP4T) | [TorQue MuziQ](https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK), [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ) | [My Intentions](https://open.spotify.com/album/3TK63BqeRAkTrwTK9N57M1) | 6:42 |

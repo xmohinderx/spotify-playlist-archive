@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: DEETRANADA
 
-282 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+283 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Paper Cuts \(ft\. Gunna\)](https://open.spotify.com/track/0bjZhofoOjWDUsz4TxJYNN) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Paper Cuts \(ft\. Gunna\)](https://open.spotify.com/album/7xb6UUXerFdAFX8sf9POt8) | 3:12 | 2022-02-18 | 2022-05-21 |
 | [Payphone](https://open.spotify.com/track/2zVSmpDlM4BoqOEQtaSVfi) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [Payphone](https://open.spotify.com/album/1Y4BnxtHxPI7JWB62USySV) | 2:03 | 2022-06-24 | 2022-09-10 |
 | [Perfect Nature](https://open.spotify.com/track/3FAWQ9ajByND1Ygb1LWqe4) | [SAUCITO](https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK) | [Perfect Nature](https://open.spotify.com/album/249AgQEmB6ZfgHHNL3AB1q) | 2:32 | 2022-05-20 | 2022-08-13 |
-| [Peroxide](https://open.spotify.com/track/4Fg6yQEcIG1EGdpiYzFGHg) | [CHIBI LOL](https://open.spotify.com/artist/62PYvzCDoQOXCe2BT7oEuF), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Peroxide](https://open.spotify.com/album/1qhqZRDL3ENjAcqwxwNzRq) | 2:28 | 2022-09-23 |  |
+| [Peroxide](https://open.spotify.com/track/4Fg6yQEcIG1EGdpiYzFGHg) | [CHIBI LOL](https://open.spotify.com/artist/62PYvzCDoQOXCe2BT7oEuF), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Peroxide](https://open.spotify.com/album/1qhqZRDL3ENjAcqwxwNzRq) | 2:28 | 2022-09-23 | 2022-11-30 |
+| [Peroxide](https://open.spotify.com/track/74gx7xWHWD0giGuG92HpRN) | [CHIBI LOL](https://open.spotify.com/artist/62PYvzCDoQOXCe2BT7oEuF), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Peroxide](https://open.spotify.com/album/4WRbCEzyNQL6VknwDs7yQw) | 2:28 | 2022-09-23 |  |
 | [Plenty Honey](https://open.spotify.com/track/3nfQjISeLWePhsc92J9kgi) | [Swan Lingo](https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x) | [Plenty Honey](https://open.spotify.com/album/1DXVzBnPe7HZZz5ihNj3ks) | 1:20 | 2022-03-18 | 2022-05-21 |
 | [Plz](https://open.spotify.com/track/5LpFrJLrMX5yHgqlICQm00) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Plz](https://open.spotify.com/album/2EE7hekD46YWmkblAhC0qZ) | 2:37 | 2021-08-11 | 2022-06-26 |
 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/0wi5NYT0upjIHOG4FWSqdH) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:03 | 2021-10-29 | 2022-06-26 |

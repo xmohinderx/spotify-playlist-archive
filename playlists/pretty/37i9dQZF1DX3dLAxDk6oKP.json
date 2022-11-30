@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 226000,
+  "num_followers": 226574,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGY0ZThlZTE4ODg5OGU4NTc0ODI1ZTU4MDUxMmMwYjZi",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDE1Nzg1M2NhNjYzNTE5YzQzYTQ1Yjc1ZGE2ZDMyNDVm",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -347,8 +347,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cruisin' with Junior H",
-        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 235858,
-      "name": "Se Amerita",
-      "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
+      "duration_ms": 225152,
+      "name": "Como Jordan",
+      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -511,8 +511,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+        "name": "Cruisin' with Junior H",
+        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 225152,
-      "name": "Como Jordan",
-      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
+      "duration_ms": 235858,
+      "name": "Se Amerita",
+      "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Desde Morro",
-        "url": "https://open.spotify.com/album/2DWCXF8yMB1zyeDuoWJsMR"
-      },
-      "artists": [
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
-        }
-      ],
-      "duration_ms": 146380,
-      "name": "Desde Morro",
-      "url": "https://open.spotify.com/track/4F0wyvl0ot7RrZ8P9IzMME"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Seguimos Avanzando",
         "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 202800,
       "name": "Pa' Andar Relax",
       "url": "https://open.spotify.com/track/4GEx3rzkF42MVcFPLGxGir"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Desde Morro",
+        "url": "https://open.spotify.com/album/2DWCXF8yMB1zyeDuoWJsMR"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "duration_ms": 146380,
+      "name": "Desde Morro",
+      "url": "https://open.spotify.com/track/4F0wyvl0ot7RrZ8P9IzMME"
     },
     {
       "added_at": "2022-10-14 04:00:00",

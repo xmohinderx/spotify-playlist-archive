@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9900,
+  "num_followers": 9901,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGMzNzBiMThkZGNlNjZjY2I2Yzc4ZDU3NjlhMTU5ODQz",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDVhNGMwMjI5YmE2MWIyZjc2Yzk5MmExMTkyOWQ1Mzk5",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/1UoiFGmShHYzW6Oa1CZcYA"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 193474,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7EjkDOse4oGeeZHjG8JN9C"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 206646,
       "name": "Jui$y",
       "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/1UoiFGmShHYzW6Oa1CZcYA"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 193474,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/7EjkDOse4oGeeZHjG8JN9C"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -487,6 +487,38 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "INTERLUDIO",
+        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
+      },
+      "artists": [
+        {
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+        }
+      ],
+      "duration_ms": 130610,
+      "name": "FRE$H",
+      "url": "https://open.spotify.com/track/5xD8PWYISpU9Gu5EZrsUB5"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Scarlett O'hara",
+        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "Scarlett O'hara",
+      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Pros y Contras de Llamarte",
         "url": "https://open.spotify.com/album/1gmLau7BNKmYVbc0oirlnn"
       },
@@ -499,22 +531,6 @@
       "duration_ms": 196295,
       "name": "Pros y Contras de Llamarte",
       "url": "https://open.spotify.com/track/0ADASZpWNjvJgUS9xvDWYS"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/5hDAb0WyAfstchaz1jGSf0"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        }
-      ],
-      "duration_ms": 172557,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/0jKqTPDMe4esa5OhdHxUHp"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -535,6 +551,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/5hDAb0WyAfstchaz1jGSf0"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "duration_ms": 172557,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/0jKqTPDMe4esa5OhdHxUHp"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Under",
         "url": "https://open.spotify.com/album/71z6a8fMecncWOBHhpQ7QU"
       },
@@ -551,22 +583,6 @@
       "duration_ms": 137750,
       "name": "Under",
       "url": "https://open.spotify.com/track/0edPhUydcczV9ouIcZtc8P"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Scarlett O'hara",
-        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "Scarlett O'hara",
-      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -699,22 +715,6 @@
       "duration_ms": 159158,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/7cOqDi2xyjxSNfQQlH0X8l"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "INTERLUDIO",
-        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
-      },
-      "artists": [
-        {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
-        }
-      ],
-      "duration_ms": 130610,
-      "name": "FRE$H",
-      "url": "https://open.spotify.com/track/5xD8PWYISpU9Gu5EZrsUB5"
     },
     {
       "added_at": "2022-11-04 00:00:00",

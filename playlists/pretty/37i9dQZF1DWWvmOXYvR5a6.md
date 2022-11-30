@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: OVAN\(오반\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,583 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,682 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 49 | [Remember me](https://open.spotify.com/track/3nMLh6EKM1v7XW6flN2tLY) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:39 |
 | 50 | [Error \(Feat\. Loopy\)](https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:27 |
 | 51 | [MR\. BAD \(Feat\. Woo\)](https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [MR\. BAD](https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a) | 3:05 |
-| 52 | [Just Like This \(Feat\. george\)](https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Just Like This](https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi) | 3:19 |
-| 53 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 |
+| 52 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 |
+| 53 | [Just Like This \(Feat\. george\)](https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Just Like This](https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi) | 3:19 |
 | 54 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 |
 | 55 | [End of the World \(Feat\. GSoul\)](https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:34 |
 | 56 | [Shy \(eh o\)](https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 3:23 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 94 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
 | 95 | [Dingo X 퀸 와사비 \- Jay Park \(feat\. CHANGMO\) \(prod\. THE NEED\)](https://open.spotify.com/track/60FzubIpad6HYnCmWu6J9o) | [Queen WA$ABII](https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Dingo X 퀸 와사비 \- Jay Park](https://open.spotify.com/album/2UMQMp4ifUFTm0pyM8P81b) | 2:58 |
 | 96 | [City Life](https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:15 |
-| 97 | [Ex](https://open.spotify.com/track/2qYQlzG9kllQLu9RcHPF9L) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:17 |
-| 98 | [I Told You I Like You](https://open.spotify.com/track/72TNvGiSdA1WOeS3Lbxs80) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [I Told You I Like You](https://open.spotify.com/album/5zpRt1JvhbULUaUnxVTCKy) | 2:47 |
-| 99 | [WHY Y \(Feat\. Tiger JK\)](https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [WHY Y](https://open.spotify.com/album/1ypeL7YGRCb4Byeh1i7OAU) | 3:06 |
+| 97 | [I Told You I Like You](https://open.spotify.com/track/72TNvGiSdA1WOeS3Lbxs80) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [I Told You I Like You](https://open.spotify.com/album/5zpRt1JvhbULUaUnxVTCKy) | 2:47 |
+| 98 | [WHY Y \(Feat\. Tiger JK\)](https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [WHY Y](https://open.spotify.com/album/1ypeL7YGRCb4Byeh1i7OAU) | 3:06 |
+| 99 | [Ex](https://open.spotify.com/track/2qYQlzG9kllQLu9RcHPF9L) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:17 |
 | 100 | [Fragile \(Prod\. Dayrick\)](https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:44 |
 
-Snapshot ID: `MTY2OTEwNzk1MCwwMDAwMDAwMGI4OGZjYjdkYzhiZWZkMjcyYTU5YTUxNDM1MTVlZjU1`
+Snapshot ID: `MTY2OTEwNzk1MCwwMDAwMDAwMDM3ODJkYmQ4OGQ5MWQ4ZTk2MTZkODJlMzhmZDVkYjE3`

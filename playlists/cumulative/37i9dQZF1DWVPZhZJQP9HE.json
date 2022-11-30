@@ -5156,6 +5156,24 @@
     },
     {
       "album": {
+        "name": "Vaanam (1 Min Music)",
+        "url": "https://open.spotify.com/album/3WEMMiq3ytkVVuc2PnnaYh"
+      },
+      "artists": [
+        {
+          "name": "Mugen Rao",
+          "url": "https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62677,
+      "name": "Vaanam - 1 Min Music",
+      "url": "https://open.spotify.com/track/66ngKz4R3ObPG2O9PuIpo0"
+    },
+    {
+      "album": {
         "name": "Vaanavil Pole (From \"Karthik & Kika\")",
         "url": "https://open.spotify.com/album/5kX0ghz4dMr0ENd6ksiNVG"
       },

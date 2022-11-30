@@ -2,7 +2,7 @@
 
 ### [The Black Power Mixtape 1967–1975](https://open.spotify.com/playlist/37i9dQZF1DX94QVAxB7Dum)
 
-> Music in the award\-winning doc: The Black Power Mixtape 1967–1975.
+> Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
 162 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/1QA2tc2Xo5I48etmel1cFu)
 

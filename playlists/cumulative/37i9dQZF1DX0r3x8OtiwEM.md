@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-558 songs - 2 day 8 hr 41 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
+559 songs - 2 day 8 hr 45 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Breaking The Clouds](https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Breaking The Clouds](https://open.spotify.com/album/1nlhSNR420AabaXSCI2j5R) | 8:41 | 2020-05-07 | 2020-11-03 |
 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 | 2022-11-26 |  |
 | [Bright Sun](https://open.spotify.com/track/082gVaUWYAjF8wR8uM2qc3) | [Phon.o](https://open.spotify.com/artist/3nkHEHOcJY6qflwhkCW4sF) | [Get Over It EP](https://open.spotify.com/album/4NO0U3dGkSbddWs7ElQAof) | 4:43 | 2019-08-06\* | 2019-08-29 |
-| [Bring You Back \- Edit](https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Bring You Back](https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y) | 3:18 | 2021-05-07 |  |
+| [Bring You Back \- Edit](https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Bring You Back](https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y) | 3:18 | 2021-05-07 | 2022-11-30 |
 | [Broken Moonlight](https://open.spotify.com/track/1izKtDdviVm7LmhEJZLReB) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Broken Moonlight](https://open.spotify.com/album/5O3rhzKCme5pth2H1LrtKU) | 4:12 | 2021-12-17 | 2022-07-28 |
 | [Butterflies](https://open.spotify.com/track/1DeEIY1wPlyCsDB9NJQ1hl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Butterflies](https://open.spotify.com/album/5pHItKzY8xIBmyBwtkARop) | 8:17 | 2019-09-13 | 2020-04-12 |
 | [Calma Calma](https://open.spotify.com/track/2oQQa2t9mRmoqBuf1LVzb3) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Speicher 115](https://open.spotify.com/album/3kcHDQGZkMvt772LkM6B99) | 6:48 | 2020-06-12 | 2020-08-30 |
@@ -168,6 +168,7 @@
 | [Fallin \- Giorgia Angiuli & SQU4RE Remix](https://open.spotify.com/track/0XxdZryMMkmoVExrUNpfFM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [SQU4RE](https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb) | [Fallin](https://open.spotify.com/album/3Hkx4TJYtfUeQ07qnlD2yo) | 8:53 | 2021-01-09 | 2022-05-11 |
 | [False Reactions](https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 5:11 | 2020-12-05 |  |
 | [FAST LAND](https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND](https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb) | 3:39 | 2022-04-04 | 2022-11-20 |
+| [FAST LAND](https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 3:39 | 2022-11-14 |  |
 | [Father](https://open.spotify.com/track/7uZYLHmJuAft2I6otiV0X1) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Father](https://open.spotify.com/album/6QB2rCabW2fV55zIyls06N) | 5:00 | 2019-12-12 | 2022-02-19 |
 | [Felina](https://open.spotify.com/track/1O1eKFVVUiVChb3uDHXohb) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Felina](https://open.spotify.com/album/1bVbh8hXfZesONaZHZPblG) | 7:20 | 2019-08-06\* | 2021-11-23 |
 | [Finale](https://open.spotify.com/track/1wirHkULbAEyUu9G4qGwuR) | [Egbert](https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx) | [Finale](https://open.spotify.com/album/3C1YucdsFZUEgvsLGOGz8q) | 6:51 | 2021-10-09 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 193122,
+  "num_followers": 193128,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDg4NTU5OTk1YjJiNjEwZDZmY2FhOTU2MDMwMTI0NTIz",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGZjZmFlNTIyMDY4MDRkNjRiODJmN2UyZDA5NjdhNDY3",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -179,6 +179,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/0HoXLSOt8WZBdgK2xYfTHF"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/65bFX66R7RdCZPNgoc8RXr"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 200330,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/0HoXLSOt8WZBdgK2xYfTHF"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/65bFX66R7RdCZPNgoc8RXr"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+        "name": "OTHERSIDE",
+        "url": "https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP"
       },
       "artists": [
         {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+      "duration_ms": 194517,
+      "name": "OTHERSIDE",
+      "url": "https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "OTHERSIDE",
-        "url": "https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
       "artists": [
         {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
         }
       ],
-      "duration_ms": 194517,
-      "name": "OTHERSIDE",
-      "url": "https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u"
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
     }
   ],
   "unique_name": "Pop for Life",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Marilyne Léonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,846 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,922 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 94 | [Shy Companion](https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Shy Companion](https://open.spotify.com/album/4B53ysQwKFxfgwxev5k48h) | 3:22 |
 | 95 | [Jardin d'orages](https://open.spotify.com/track/390izvGBLKyKv3IC3tup84) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Mes ombres](https://open.spotify.com/album/3pd4ayFDk7ZMY8XjRG31LP) | 3:40 |
 | 96 | [Heartbeat](https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:50 |
-| 97 | [Let it Die](https://open.spotify.com/track/3qnbGeZ21BFjlLmX22U6Rr) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [Let It Die](https://open.spotify.com/album/5NCd0yus0svH3iJAl1YRLl) | 2:33 |
+| 97 | [Let it Die](https://open.spotify.com/track/0gS9HfFlQ4YisrYvxkeaY7) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [The Haunt](https://open.spotify.com/album/53WRKqwxxyRipxJBiYYavf) | 2:33 |
 | 98 | [Fièvre](https://open.spotify.com/track/1tchJRSZSBDW1SONihk5pG) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Fièvre](https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl) | 4:09 |
 | 99 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 |
 | 100 | [Colosse](https://open.spotify.com/track/7kjqsAEqNKnF8I4kW08Vk4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 4:27 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGIzNDY0ZjgxNWI0NDI4ZDI0NzRhM2JkYjQyZWIzYzdi`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGI4MzcxZmI2NDliM2U2ZDFkODNiNjQ4MGRkNDg3NGI3`

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,319 likes - 60 songs - 3 hr 1 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,318 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 |
 | 2 | [Like That](https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Like That](https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9) | 3:27 |
-| 3 | [Android](https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf) | [RANKZ](https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469) | [Android](https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO) | 4:01 |
-| 4 | [Night Spot \(feat\. B Che\)](https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [B Che](https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN) | [Night Spot \(feat\. B Che\)](https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ) | 3:00 |
-| 5 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 |
-| 6 | [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 |
-| 7 | [All The Time](https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [All The Time](https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n) | 2:59 |
+| 3 | [All The Time](https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [All The Time](https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n) | 2:59 |
+| 4 | [Android](https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf) | [RANKZ](https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469) | [Android](https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO) | 4:01 |
+| 5 | [Night Spot \(feat\. B Che\)](https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [B Che](https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN) | [Night Spot \(feat\. B Che\)](https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ) | 3:00 |
+| 6 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 |
+| 7 | [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 |
 | 8 | [Toxic Rain \(prod\. David Mugratsch\) \- VIP Mix](https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\) \[VIP Mix\]](https://open.spotify.com/album/0YDquXUQDJ58JD6fp7XTzR) | 1:56 |
 | 9 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 |
 | 10 | [Dale Loca](https://open.spotify.com/track/2gadKaKUi5ZGtzawTUfLwr) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Anna Marchesini](https://open.spotify.com/artist/5pgt3A5TmZz94jyIbUPbtD) | [Dale Loca](https://open.spotify.com/album/2lawLhKlGRsqvS4ETYdPqW) | 2:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 59 | [Da Homies](https://open.spotify.com/track/47xNlfeg2FAIENeBC79kye) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Da Homies](https://open.spotify.com/album/3NJWsGiRPEyCOLKq1jB5Ac) | 3:35 |
 | 60 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 |
 
-Snapshot ID: `NjAwMSxmOTk2Njk0YTQ0ZGIxMGU2ZTExM2I3NDY1OTVhMDllMzU5MmU4Njhh`
+Snapshot ID: `NjAwMiw4ODg1YmJiZjRmNjczMDRlZmIyZjIyYWY4ZjZmZGJlOWVhN2EwMWNj`

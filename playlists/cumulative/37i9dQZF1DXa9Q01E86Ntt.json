@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 344573,
       "name": "+33",
       "url": "https://open.spotify.com/track/50f8IbD6O9HjhzQVQ9ZP3g"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 195440,
       "name": "Tamago 2004",
       "url": "https://open.spotify.com/track/1iUrKv8Yi56ZClINsg1iXe"
@@ -1242,6 +1242,28 @@
     },
     {
       "album": {
+        "name": "Thousand Knives - Thundercat Remodel",
+        "url": "https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326413,
+      "name": "Thousand Knives - Thundercat Remodel",
+      "url": "https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N"
+    },
+    {
+      "album": {
         "name": "Ongaku Zukan -2015 Edition-",
         "url": "https://open.spotify.com/album/2CI4X2v5UpNLxh6RFpspHR"
       },
@@ -1369,7 +1391,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 580533,
       "name": "Uoon II",
       "url": "https://open.spotify.com/track/6B8uUGXbyeZdLZDeslWOho"

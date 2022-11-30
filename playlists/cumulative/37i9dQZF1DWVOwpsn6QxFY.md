@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-228 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+229 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Addicted](https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q) | 4:41 | 2022-08-12 |  |
 | [Addicted](https://open.spotify.com/track/2kUECVQY40DQoXymT323jg) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/4hGB7HUJu4oD3TqJvYPqr9) | 4:41 | 2021-11-12 | 2022-10-13 |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-11-12 |  |
+| [Alive](https://open.spotify.com/track/6Cwfn3br1dDmZIvpi1CJ89) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/2uzzPtueFmMKcwGoLeZVmE) | 3:37 | 2022-08-12 |  |
 | [Alive](https://open.spotify.com/track/6lDeFVC7tCXEzdOcjnqTQj) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/0X0GLbObJxR2teWozrUTlb) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [Alluvium](https://open.spotify.com/track/7fV1z13hx5Iic0WIqCRfuA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [Alluvium](https://open.spotify.com/album/4iLy4FA1ZteEJZYc1jGBxA) | 3:42 | 2021-11-12 | 2022-07-19 |
 | [Aloosh](https://open.spotify.com/track/1QXWQI6mW2ECxFd3hTBpDC) | [Volleyball](https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok) | [Aloosh](https://open.spotify.com/album/42iXDtUrsfH4g7exLE4eCA) | 3:03 | 2022-03-31 | 2022-04-20 |
@@ -149,7 +150,7 @@
 | [Nice](https://open.spotify.com/track/0dMIDyuC4EjrXxMTGArX4A) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Nice](https://open.spotify.com/album/3mKtcDJnJJatWsHKKaA9WR) | 3:15 | 2022-06-06 | 2022-08-13 |
 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2022-08-12 |  |
 | [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-08-12 | 2022-09-20 |
-| [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-03-31 |  |
+| [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-03-31 | 2022-11-30 |
 | [Nightmare Town](https://open.spotify.com/track/6wbiM1tYV2OSsbddUSILCt) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Nightmare Town](https://open.spotify.com/album/4Vkqv8l95KNbujVrIEPlSN) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Nothing's Easy](https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw) | [Tiz McNamara](https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS) | [Nothing's Easy](https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo) | 3:06 | 2022-03-31 | 2022-04-20 |
 | [Oh My Love](https://open.spotify.com/track/6hut3RLbA9VioNhAyif4hj) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Oh My Love](https://open.spotify.com/album/29cXpTS6yx0BwbWxrw7CiD) | 2:20 | 2022-03-31 | 2022-04-21 |

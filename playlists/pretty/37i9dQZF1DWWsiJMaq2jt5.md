@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Viki Gabor
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,971 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,678 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [Cukier Benzyna](https://open.spotify.com/track/6RDg82ZhuYlaDkLSJdaxuG) | [Zuza Bera](https://open.spotify.com/artist/5GBUYwVN3LRd5USJMH9W1j) | [Cukier Benzyna](https://open.spotify.com/album/3bMcvsIIRBc8P0VttkLY7d) | 2:35 |
 | 60 | [poza horyzont](https://open.spotify.com/track/3SINlj5IGIgackWwBdtV30) | [polka](https://open.spotify.com/artist/4EXW05hm5GSbtNJcoFxWPJ) | [poza horyzont](https://open.spotify.com/album/7C26UmhzqMBXCOSm1nbDmx) | 2:50 |
 
-Snapshot ID: `MTY2Nzk0ODQwMCwwMDAwMDAwMDdmYmFmZmJjYzE2ZDlkOTBhMmM1ZTk5NWM1YzM5ZjIy`
+Snapshot ID: `MTY2OTcyNDMwNiwwMDAwMDAwMDU1ZTBhMmJlZTNmODkyYjk4NDJlYjE2YjYyZDM1ZDM3`

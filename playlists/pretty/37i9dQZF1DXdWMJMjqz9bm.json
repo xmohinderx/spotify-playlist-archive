@@ -1,44 +1,28 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: charlieonnafriday",
-  "num_followers": 176454,
+  "num_followers": 176573,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1ODQwMCwwMDAwMDAwMDBlODcwYmZlOWM1YjI2Y2VjZGM3NjRhZjhmNjJmNzcy",
+  "snapshot_id": "MTY2OTc1MDM4OCwwMDAwMDAwMGNhZDJlMjdiNzk2N2ZlODlmOThmM2IxNTY5MjRkODI0",
   "tracks": [
     {
-      "added_at": "2022-11-25 06:40:00",
+      "added_at": "2022-11-29 19:33:08",
       "album": {
-        "name": "League",
-        "url": "https://open.spotify.com/album/3salXEA3cRs0wZT3VLEWyf"
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
       },
       "artists": [
         {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
         }
       ],
-      "duration_ms": 163732,
-      "name": "League",
-      "url": "https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8"
-    },
-    {
-      "added_at": "2022-11-21 16:13:55",
-      "album": {
-        "name": "Texts",
-        "url": "https://open.spotify.com/album/4IoE4c57vVygNfgbPReGda"
-      },
-      "artists": [
-        {
-          "name": "Kieran Ivy",
-          "url": "https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK"
-        }
-      ],
-      "duration_ms": 143732,
-      "name": "Texts",
-      "url": "https://open.spotify.com/track/3S653c6Jwl9aSy4DosDm8j"
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -55,22 +39,6 @@
       "duration_ms": 159546,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY"
-    },
-    {
-      "added_at": "2022-11-21 16:32:21",
-      "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -109,20 +77,20 @@
       "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
     },
     {
-      "added_at": "2022-11-25 06:40:00",
+      "added_at": "2022-11-21 16:13:55",
       "album": {
-        "name": "She Loves Me Not",
-        "url": "https://open.spotify.com/album/7FcTfHu4oJn91APGixkK4o"
+        "name": "Texts",
+        "url": "https://open.spotify.com/album/4IoE4c57vVygNfgbPReGda"
       },
       "artists": [
         {
-          "name": "Olmos",
-          "url": "https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV"
+          "name": "Kieran Ivy",
+          "url": "https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK"
         }
       ],
-      "duration_ms": 210000,
-      "name": "She Loves Me Not",
-      "url": "https://open.spotify.com/track/5OGs76lkPNEcoSgoj3gUFK"
+      "duration_ms": 143732,
+      "name": "Texts",
+      "url": "https://open.spotify.com/track/3S653c6Jwl9aSy4DosDm8j"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -141,6 +109,54 @@
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
+      "added_at": "2022-11-21 16:32:21",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "added_at": "2022-11-25 06:40:00",
+      "album": {
+        "name": "League",
+        "url": "https://open.spotify.com/album/3salXEA3cRs0wZT3VLEWyf"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 163732,
+      "name": "League",
+      "url": "https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8"
+    },
+    {
+      "added_at": "2022-11-25 06:40:00",
+      "album": {
+        "name": "She Loves Me Not",
+        "url": "https://open.spotify.com/album/7FcTfHu4oJn91APGixkK4o"
+      },
+      "artists": [
+        {
+          "name": "Olmos",
+          "url": "https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "She Loves Me Not",
+      "url": "https://open.spotify.com/track/5OGs76lkPNEcoSgoj3gUFK"
+    },
+    {
       "added_at": "2022-11-25 06:40:00",
       "album": {
         "name": "Stay In Bed",
@@ -155,22 +171,6 @@
       "duration_ms": 150560,
       "name": "Stay In Bed",
       "url": "https://open.spotify.com/track/55Q0OpbUmbqg6cSwRbOG2O"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "leave me",
-        "url": "https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 220539,
-      "name": "leave me",
-      "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
     },
     {
-      "added_at": "2022-10-07 04:02:00",
-      "album": {
-        "name": "Favorite Hoodie",
-        "url": "https://open.spotify.com/album/4q885P1HRolf3Gr8whgGt2"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 113188,
-      "name": "Favorite Hoodie",
-      "url": "https://open.spotify.com/track/7si7Q6h3MSuTpRJ6v9e0Py"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Miss You a Little (feat. lovelytheband)",
@@ -623,22 +607,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Loved You Since I Was Young",
-        "url": "https://open.spotify.com/album/7u4FHNJdVRLDLuum8iJnkd"
-      },
-      "artists": [
-        {
-          "name": "good problem",
-          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
-        }
-      ],
-      "duration_ms": 183418,
-      "name": "Loved You Since I Was Young",
-      "url": "https://open.spotify.com/track/4ayHZpebCShYtJuSL8701H"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "GO:OD AM",
         "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
@@ -703,22 +671,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "i'm scared",
-        "url": "https://open.spotify.com/album/5SuQMgybdbtnaRRin1P1bZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny",
-          "url": "https://open.spotify.com/artist/6Hw5BJKxWydV5VuEnzqpIv"
-        }
-      ],
-      "duration_ms": 115074,
-      "name": "i'm scared",
-      "url": "https://open.spotify.com/track/2lfKrToxQQ4oFZcBv0ZjeQ"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "numb (feat. blackbear)",
         "url": "https://open.spotify.com/album/4jrLreiCKIGcxG0z7WcQkt"
       },
@@ -755,58 +707,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Oh My!",
-        "url": "https://open.spotify.com/album/5NBpzjZMW5PCvxVCNSTwrD"
-      },
-      "artists": [
-        {
-          "name": "Zekey",
-          "url": "https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA"
-        }
-      ],
-      "duration_ms": 191111,
-      "name": "Oh My!",
-      "url": "https://open.spotify.com/track/23GrnBNBJhVlYlraSi3sT3"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "When You\u2019re Sober",
-        "url": "https://open.spotify.com/album/1mcGX0oGxfYzIWINPFKytq"
-      },
-      "artists": [
-        {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH"
-        }
-      ],
-      "duration_ms": 142345,
-      "name": "When You\u2019re Sober",
-      "url": "https://open.spotify.com/track/0aJcuvNNJh9ncKBqqfLiIG"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "OH MY LORD (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 147022,
-      "name": "OH MY LORD (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/2C4Q3GT9PHp3UYIgSNJSVq"
       },
@@ -835,22 +735,6 @@
       "duration_ms": 150840,
       "name": "sheluvme",
       "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
-    },
-    {
-      "added_at": "2022-11-11 16:32:54",
-      "album": {
-        "name": "Hachiko",
-        "url": "https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce"
-      },
-      "artists": [
-        {
-          "name": "Nathan Day",
-          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
-        }
-      ],
-      "duration_ms": 174652,
-      "name": "Hachiko",
-      "url": "https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -923,22 +807,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Dead Inside",
-        "url": "https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 115695,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "SremmLife",
         "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
       },
@@ -951,90 +819,6 @@
       "duration_ms": 206306,
       "name": "This Could Be Us",
       "url": "https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/3xml1yNnc0XUO1oOnOSoDU"
-      },
-      "artists": [
-        {
-          "name": "Zekey",
-          "url": "https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA"
-        }
-      ],
-      "duration_ms": 191111,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/3vRSduRquXh9U5EvRB7mS7"
-    },
-    {
-      "added_at": "2022-10-21 14:01:05",
-      "album": {
-        "name": "Return To Sender",
-        "url": "https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 196497,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/3dsdUkF3ms4ORWKtEvNLEp"
-    },
-    {
-      "added_at": "2022-10-28 13:36:00",
-      "album": {
-        "name": "NOTHING IS REAL",
-        "url": "https://open.spotify.com/album/2iWRrUK85hwDRSaBT35BFX"
-      },
-      "artists": [
-        {
-          "name": "Oshua",
-          "url": "https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV"
-        }
-      ],
-      "duration_ms": 143620,
-      "name": "NOTHING IS REAL",
-      "url": "https://open.spotify.com/track/6bzQq9ucC73NrFeycJGkkQ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "HOLY TRINITY (feat. Rich The Kid)",
-        "url": "https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 155863,
-      "name": "HOLY TRINITY (feat. Rich The Kid)",
-      "url": "https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Kauai",
-        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1071,22 +855,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2AMsS7LgT4DAgMfRTTo7r0"
-      },
-      "artists": [
-        {
-          "name": "J-Wright",
-          "url": "https://open.spotify.com/artist/4ZwarqrZFCfYgb3F4KS6gr"
-        }
-      ],
-      "duration_ms": 178076,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/0rXaoCJbmIUdMIKQwinA0k"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "IMPATIENT",
         "url": "https://open.spotify.com/album/6GH9V2pkHwDjCNWhDkGQM4"
       },
@@ -1099,22 +867,6 @@
       "duration_ms": 189309,
       "name": "IMPATIENT",
       "url": "https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"
-    },
-    {
-      "added_at": "2022-10-07 04:02:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0IzUNWsQuZPVncXMMx25AN"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1PMCaOsItHt7Wc02FCdpdv"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1133,42 +885,6 @@
       "url": "https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8"
     },
     {
-      "added_at": "2022-09-23 04:14:00",
-      "album": {
-        "name": "Spooky SZN 3",
-        "url": "https://open.spotify.com/album/2azBbeh6hFJvP0eLUGn7hz"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Spooky SZN 3",
-      "url": "https://open.spotify.com/track/5Lr1ffVzV34ash1NqbAPIR"
-    },
-    {
-      "added_at": "2022-09-19 14:30:51",
-      "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 219739,
-      "name": "I. The Worst Guys",
-      "url": "https://open.spotify.com/track/0kErPGykp7EJo7L5fx8YjB"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "BELIEVE IN ME, WHO BELIEVES IN YOU",
@@ -1183,38 +899,6 @@
       "duration_ms": 150322,
       "name": "DITTO",
       "url": "https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/3DSVVQaWs48NaxWv0AaP6L"
-      },
-      "artists": [
-        {
-          "name": "Sammy Wilk",
-          "url": "https://open.spotify.com/artist/36TGx7BxtQA4uz6irWnX3T"
-        }
-      ],
-      "duration_ms": 117473,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/4m2Fep3UwjUkUTJ4KPnJZ0"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Blueberry Biscotti",
-        "url": "https://open.spotify.com/album/26n48B6Svxy9Wsp5hzrmQ4"
-      },
-      "artists": [
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 128785,
-      "name": "Blueberry Biscotti",
-      "url": "https://open.spotify.com/track/4Jdz6B3w69AHsWHBg80SZK"
     },
     {
       "added_at": "2022-09-09 04:00:00",

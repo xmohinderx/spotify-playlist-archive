@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDY1NWE1YjZiOGMyZTM5OTFhMGE5ZjQ2NDcxNjNiMzZk",
+  "snapshot_id": "MTY2OTc1NDkzMCwwMDAwMDAwMGZkNzc5ZmE0NDkxMzU2YWIxYjM3NDQ5YzcwMTg0Nzcx",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -79,26 +79,6 @@
       "duration_ms": 234174,
       "name": "Pistol",
       "url": "https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "The Raven And The Red-Tailed Hawk",
-        "url": "https://open.spotify.com/album/68y1voli462ztXQKzDj5rA"
-      },
-      "artists": [
-        {
-          "name": "Gord Downie",
-          "url": "https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc"
-        },
-        {
-          "name": "Bob Rock",
-          "url": "https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "The Raven And The Red-Tailed Hawk",
-      "url": "https://open.spotify.com/track/1Llb0fVHFFlCRHUFz7rHJd"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -227,6 +207,26 @@
       "duration_ms": 133150,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "The Raven And The Red-Tailed Hawk",
+        "url": "https://open.spotify.com/album/68y1voli462ztXQKzDj5rA"
+      },
+      "artists": [
+        {
+          "name": "Gord Downie",
+          "url": "https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "The Raven And The Red-Tailed Hawk",
+      "url": "https://open.spotify.com/track/1Llb0fVHFFlCRHUFz7rHJd"
     },
     {
       "added_at": "2022-11-25 05:00:00",

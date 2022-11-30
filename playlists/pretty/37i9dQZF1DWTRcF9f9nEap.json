@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 54434,
+  "num_followers": 54546,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5NjMyNSwwMDAwMDAwMDBlZmQyNjVhZGM4Y2NlYzA5M2ExMTQ3MGYyYTg1NzZk",
+  "snapshot_id": "MTY2ODY5NjMyNSwwMDAwMDAwMDQ1NGUzNTc3MTYwZThmZTRiOTU4MWE5M2I0ZTA1NzJh",
   "tracks": [
     {
       "added_at": "2022-11-17 14:45:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "Fight",
-        "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
-      },
-      "artists": [
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
-    },
-    {
-      "added_at": "2022-11-17 14:45:25",
-      "album": {
         "name": "Fresh Evidence (Remastered 2017)",
         "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 480149,
       "name": "Ghost Blues",
       "url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
+    },
+    {
+      "added_at": "2022-11-17 14:45:25",
+      "album": {
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
     },
     {
       "added_at": "2022-11-17 14:45:25",
@@ -731,6 +731,22 @@
       "duration_ms": 289666,
       "name": "Shake 'Em on Down",
       "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
+    },
+    {
+      "added_at": "2022-11-17 14:45:25",
+      "album": {
+        "name": "Deuce (Remastered 2017)",
+        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 344492,
+      "name": "In Your Town",
+      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
     },
     {
       "added_at": "2022-11-17 14:45:25",
@@ -811,22 +827,6 @@
       "duration_ms": 274226,
       "name": "Bad Girl Blues - Remastered",
       "url": "https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx"
-    },
-    {
-      "added_at": "2022-11-17 14:45:25",
-      "album": {
-        "name": "Deuce (Remastered 2017)",
-        "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 344492,
-      "name": "In Your Town",
-      "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
     }
   ],
   "unique_name": "Slide Guitar Heroes",

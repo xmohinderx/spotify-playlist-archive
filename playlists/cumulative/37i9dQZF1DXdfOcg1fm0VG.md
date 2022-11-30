@@ -4,11 +4,12 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-133 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+134 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Theme From\) Red Dead Redemption](https://open.spotify.com/track/2cnhi0n4UMWCXQIEaVjnm5) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 5:38 | 2021-12-15 |  |
+| [\(Theme From\) Red Dead Redemption](https://open.spotify.com/track/4BL3XnXe40ZS2YuRXWS4wX) | [Bill Elm](https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) | 5:38 | 2022-11-21 |  |
+| [\(Theme From\) Red Dead Redemption](https://open.spotify.com/track/2cnhi0n4UMWCXQIEaVjnm5) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 5:38 | 2021-12-15 | 2022-11-30 |
 | [9999999](https://open.spotify.com/track/4vdsb4vl6VtGmUwFteOeWA) | [Aperture Science Psychoacoustic Laboratories](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) | [Portal 2: Songs to Test By \(Collectors Edition\)](https://open.spotify.com/album/21MOM5nRM9SjIsonoOGY4Q) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [9999999](https://open.spotify.com/track/7t0AFyyVYgwXuPRjbhQGph) | [Aperture Science Psychoacoustic Laboratories](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) | [Portal 2: Songs to Test By \(Collectors Edition\)](https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr) | 3:12 | 2022-07-27 |  |
 | [A New Dawn \(feat\. Julie Seechuk\)](https://open.spotify.com/track/0gs2sDUTqsDaxY5BLxhpik) | [Ian Livingstone](https://open.spotify.com/artist/71wbvQyh0QbofdrRXCagLU), [Ethan Livingstone](https://open.spotify.com/artist/5SWVyhFS5ykl0LpJQNNL6H), [Julie Seechuk](https://open.spotify.com/artist/1R62hlOb9mHKh9sWyPvBGa) | [F1 22 \(Original Game Soundtrack\)](https://open.spotify.com/album/5hRhjXSgKKSlLX8ZFhxEqT) | 4:15 | 2022-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,712 likes - 99 songs - 5 hr 1 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,723 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 19 | [Sobrepensando](https://open.spotify.com/track/6sEm4gNzamLhcLGzvN957F) | [Ambizius](https://open.spotify.com/artist/0p6FvgFSje7efWY5CPlopK), [Manu Oliva](https://open.spotify.com/artist/5VEOXoMPXBZNibIUOh7i1P) | [Sobrepensando](https://open.spotify.com/album/0IN5Lw5gNRSzGDofuDXrPs) | 3:09 |
 | 20 | [Bad Romance](https://open.spotify.com/track/40Jeipo7VJZUTupKmWrgRZ) | [Lastep](https://open.spotify.com/artist/0LJT7lL47oIy4wgbOTt6zM) | [Bad Romance](https://open.spotify.com/album/1MP0HazShAbFpCGSZglE8E) | 3:10 |
 | 21 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
-| 22 | [ESTÁS ACÁ](https://open.spotify.com/track/3Ku9pJwSdsJPS31DEpItnS) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon) | [Sesiones Bolivia](https://open.spotify.com/album/7j8yAp6bsSI3YhIa4eSxvt) | 2:57 |
+| 22 | [Estás Acá](https://open.spotify.com/track/3Ku9pJwSdsJPS31DEpItnS) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon) | [Sesiones Bolivia](https://open.spotify.com/album/7j8yAp6bsSI3YhIa4eSxvt) | 2:57 |
 | 23 | [Hoy](https://open.spotify.com/track/2HBC29nr9uvUcEZH15EzLi) | [La Klinkert](https://open.spotify.com/artist/1jPMt3YAkFx3tcPFYxaMKx) | [Hoy](https://open.spotify.com/album/4S9wlLUAO1OztuPMddcUtp) | 2:44 |
 | 24 | [EN INSTAGRAM](https://open.spotify.com/track/4QFj7Ms4w81ZheZ8Gz9zTZ) | [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS) | [Parchaito](https://open.spotify.com/album/6de29CGpyvBG5XOv9BcSK7) | 3:14 |
 | 25 | [Bakano](https://open.spotify.com/track/1PRhvDxisG12bDw6MZONN7) | [MorenaBeat](https://open.spotify.com/artist/4myAA8p4Vg1D069i5Il6zX) | [Bakano](https://open.spotify.com/album/2DCAVqasiCcnjbtEkhPGHH) | 3:28 |

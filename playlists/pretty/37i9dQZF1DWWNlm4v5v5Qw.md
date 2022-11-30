@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: DEETRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,501 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,499 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 34 | [Something To Talk About](https://open.spotify.com/track/7hKWeVTJDVKf9Ogd21RmpB) | [Until The Very End](https://open.spotify.com/artist/5Jv5Lpg9AV9WJK9kfnZAX0), [FNSHLINE](https://open.spotify.com/artist/2BveIQx5v3GG0w8aI7zFUE) | [Something To Talk About](https://open.spotify.com/album/4MaSCgUF7hMjc7QCdIBsb0) | 3:37 |
 | 35 | [No Idea](https://open.spotify.com/track/4nm75i28hDQ7O3BTAAH4Af) | [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [No Idea](https://open.spotify.com/album/7ElhteNY76LkciyHyttnNS) | 3:21 |
 | 36 | [WEIGHT](https://open.spotify.com/track/22ho6OA8g33pPqcuqQzWow) | [Dre Wave$](https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt) | [Worth the Weight](https://open.spotify.com/album/1tn68eJ6MANt5N0m5d3edi) | 2:10 |
-| 37 | [Peroxide](https://open.spotify.com/track/4Fg6yQEcIG1EGdpiYzFGHg) | [CHIBI LOL](https://open.spotify.com/artist/62PYvzCDoQOXCe2BT7oEuF), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Peroxide](https://open.spotify.com/album/1qhqZRDL3ENjAcqwxwNzRq) | 2:28 |
+| 37 | [Peroxide](https://open.spotify.com/track/74gx7xWHWD0giGuG92HpRN) | [CHIBI LOL](https://open.spotify.com/artist/62PYvzCDoQOXCe2BT7oEuF), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Peroxide](https://open.spotify.com/album/4WRbCEzyNQL6VknwDs7yQw) | 2:28 |
 | 38 | [Switchblade](https://open.spotify.com/track/3a4zjPyISLKRuep7alFUFZ) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [Switchblade](https://open.spotify.com/album/4blDb3RHUI5a3AjcMVrD6r) | 2:19 |
 | 39 | [Mode](https://open.spotify.com/track/6dK76c8NXJpVoXnz0FHYRk) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Mode](https://open.spotify.com/album/0GgHQw9BfH8GpsXyeyZBeM) | 1:52 |
 | 40 | [Rollin](https://open.spotify.com/track/2BOyUTTWm1eV8sS3ofVV1s) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Rollin](https://open.spotify.com/album/5Z4rsgy3qszNpfK4nfe3Do) | 2:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 59 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 60 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGZkYmEwZDg5MGU3NDM3MWRiNzlhOGRhMDU4NWMxYTQx`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDBmZmQ5NjFkNDA5NTNkYjJiNTgwMWMxMjUxN2YxMjg1`

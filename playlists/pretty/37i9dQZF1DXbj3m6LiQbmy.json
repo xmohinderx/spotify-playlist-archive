@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4872,
+  "num_followers": 4874,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDRmOTVlZTY2MDJjODVkMzIxNWYzNTNjYzI1ZWQwZTdl",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDY4MjA3M2IxM2Q5NDY1ODAzOTY4MWU4NWUyZWFiM2Rh",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "ON (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
+      },
+      "artists": [
+        {
+          "name": "Headman",
+          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
+        },
+        {
+          "name": "Luca Santucci",
+          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
+        }
+      ],
+      "duration_ms": 320971,
+      "name": "Moisture - Headman Club Version [Bonus Track]",
+      "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -827,22 +847,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "ON (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
+        "name": "Tocco di Lusso",
+        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
       },
       "artists": [
         {
-          "name": "Headman",
-          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
-        },
-        {
-          "name": "Luca Santucci",
-          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
         }
       ],
-      "duration_ms": 320971,
-      "name": "Moisture - Headman Club Version [Bonus Track]",
-      "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
+      "duration_ms": 203684,
+      "name": "Tocco di Lusso",
+      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -859,22 +875,6 @@
       "duration_ms": 195790,
       "name": "lasciami andare!",
       "url": "https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Tocco di Lusso",
-        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Tocco di Lusso",
-      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Italian Dance",
-        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
-      },
-      "artists": [
-        {
-          "name": "Gepy & Gepy",
-          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Freak & Chic",
         "url": "https://open.spotify.com/album/0a5LE8ZiJ9TVEjEUt9hWwp"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Italian Dance",
+        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
+      },
+      "artists": [
+        {
+          "name": "Gepy & Gepy",
+          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "See The Light",
         "url": "https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9"
       },
@@ -1063,6 +1063,46 @@
       "duration_ms": 170000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Malcostume",
+        "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Casto",
+          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
+        },
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "duration_ms": 238074,
+      "name": "Insegnami la vita",
+      "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Story Untold",
+        "url": "https://open.spotify.com/album/5u2KQUMuGzBp9xxaUEe3H8"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        },
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "duration_ms": 192806,
+      "name": "Story Untold",
+      "url": "https://open.spotify.com/track/0GYzG6CKoOE76b08v1vAxs"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1123,46 +1163,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Story Untold",
-        "url": "https://open.spotify.com/album/5u2KQUMuGzBp9xxaUEe3H8"
-      },
-      "artists": [
-        {
-          "name": "Novaa",
-          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
-        },
-        {
-          "name": "LIE NING",
-          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
-        }
-      ],
-      "duration_ms": 192806,
-      "name": "Story Untold",
-      "url": "https://open.spotify.com/track/0GYzG6CKoOE76b08v1vAxs"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Malcostume",
-        "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
-      },
-      "artists": [
-        {
-          "name": "Immanuel Casto",
-          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
-        },
-        {
-          "name": "Romina Falconi",
-          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
-        }
-      ],
-      "duration_ms": 238074,
-      "name": "Insegnami la vita",
-      "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Comet",
         "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "BatBox",
-        "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
-      },
-      "artists": [
-        {
-          "name": "Miss Kittin",
-          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Kittin Is High",
-      "url": "https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Superomantico",
         "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 161302,
       "name": "Superomantico",
       "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "BatBox",
+        "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
+      },
+      "artists": [
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Kittin Is High",
+      "url": "https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Kiddy Smile",
-          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
-        },
-        {
-          "name": "David Blank",
-          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
-      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
         "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
       },
@@ -1291,6 +1267,22 @@
       "duration_ms": 186234,
       "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
       "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Sumikko Gurashi 2.0",
+        "url": "https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        }
+      ],
+      "duration_ms": 91966,
+      "name": "Sumikko Gurashi 2.0",
+      "url": "https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak"
     }
   ],
   "unique_name": "Pride Italia",

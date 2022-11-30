@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Louis Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,075 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,337 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 13 | [Somebody's Gotta Do It](https://open.spotify.com/track/2SpnoBkhmh14DHwDqv4wii) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 4:17 |
 | 14 | [SUPASTYLiN'](https://open.spotify.com/track/6DTHsrDEHgUvKrPQA13Grf) | [ONiGS](https://open.spotify.com/artist/3NmkWUyK2zHZgVaqqXJlrC), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [SUPASTYLiN'](https://open.spotify.com/album/0zzeBNXA3Dy4TWHE1sn50D) | 3:17 |
 | 15 | [YeahYeahYeah](https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [YeahYeahYeah](https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU) | 5:17 |
-| 16 | [Sun Ray](https://open.spotify.com/track/2A42wBeqad7skiuLqiz0gq) | [Otis McDonald](https://open.spotify.com/artist/7rUh2bSgYyKH4HZGANSJTs) | [Sun Ray](https://open.spotify.com/album/4oSjiWRUaJKSZJrE3KUiWp) | 3:27 |
+| 16 | [Sun Ray](https://open.spotify.com/track/2A42wBeqad7skiuLqiz0gq) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Sun Ray](https://open.spotify.com/album/4oSjiWRUaJKSZJrE3KUiWp) | 3:27 |
 | 17 | [Firebrand](https://open.spotify.com/track/6zOr5n0BW3av1yYCAx3rgQ) | [Horn House](https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu), [Nathan King](https://open.spotify.com/artist/641lw2Fn5GzaI6RLYRE7X5) | [Human Synths](https://open.spotify.com/album/5c3NrFU57zDZ7rjQQZ7OD4) | 3:56 |
 | 18 | [Crazy](https://open.spotify.com/track/6LSfGl4kMdGlrN96EHxAgG) | [Grayson DeWolfe](https://open.spotify.com/artist/3ivAmma9JLS0z6LKXgYH5f) | [Crazy](https://open.spotify.com/album/1pUiPTJBjPu1EX2wtVrikB) | 3:03 |
 | 19 | [That's How We Do It](https://open.spotify.com/track/6r3Zr5pxsWdLZMjb9btLze) | [Jonezen](https://open.spotify.com/artist/7D1pMUc7dEMckSNVUo2EnA), [Easy Mccoy](https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS), [City Wolf](https://open.spotify.com/artist/4Zz8OfzUOaNr7B2pQch3do) | [That's How We Do It](https://open.spotify.com/album/5dhsqoaicwEHxZATTzZ4Eh) | 2:28 |

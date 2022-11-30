@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 254850,
       "name": "Baibe",
       "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 167627,
       "name": "Hey",
       "url": "https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6"
@@ -851,10 +851,6 @@
         {
           "name": "Ruyonga",
           "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
         }
       ],
       "date_added": "2022-11-17",

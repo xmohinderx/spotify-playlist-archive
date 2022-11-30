@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-188 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
+189 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [No Resolution](https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Fork In The Road](https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes) | 4:48 | 2021-12-03 |  |
 | [No Wise Men](https://open.spotify.com/track/2RjM38LJMAb4GxMthocOXY) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w), [David Brimer](https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh) | [No Wise Men](https://open.spotify.com/album/2MTB8w2lEje2L5DVub4hYk) | 3:07 | 2022-07-08 | 2022-07-14 |
 | [North Missouri Wagoner](https://open.spotify.com/track/0HIWU30PMWj7RdH24YvjWW) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [North Missouri Wagoner](https://open.spotify.com/album/3IJaZbvZENYGvQSv225EOS) | 2:53 | 2022-06-25 | 2022-07-08 |
+| [Old Joe Clark](https://open.spotify.com/track/6p54JGVQTiP2oT8UBnOW8L) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [The Gasoline Brothers](https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX) | 3:16 | 2022-11-18 |  |
 | [Orange Blossom Special](https://open.spotify.com/track/62LJqunG21MXeQr4pUf6Pb) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Foggy Mountain Breakdown](https://open.spotify.com/album/7A7mOaNTG7wEFetXhC8Hdm) | 2:56 | 2021-12-03 |  |
 | [Orange Blossom Special \- Instrumental](https://open.spotify.com/track/4mA1uVt3TKkv4n3J2lKHLs) | [Mark Howard](https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Lonesome Whistle](https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz) | 2:09 | 2021-12-03 | 2022-07-23 |
 | [Overton Waltz](https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [Into My Own](https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK) | 5:06 | 2021-12-03 |  |
@@ -137,7 +138,7 @@
 | [Port Tobacco](https://open.spotify.com/track/0qHlR5OwUyUFsrU7I16gyx) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Me & My Guitar](https://open.spotify.com/album/5SVt97to3GAa1W4Hiyi6iL) | 4:45 | 2021-12-03 | 2022-07-29 |
 | [Port Tobacco](https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Me & My Guitar](https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy) | 4:47 | 2022-07-22 |  |
 | [Push It Back Up](https://open.spotify.com/track/0BNNKzJeZNcmWPrv9UtZdF) | [Haley's Comet](https://open.spotify.com/artist/4XzlXpkl0XKjLa2eSwQ81s), [Magnus Wiik](https://open.spotify.com/artist/39PdAmPI5rhdzEy81HL1C6), [Meade Richter](https://open.spotify.com/artist/2510xS08BOoXSggNYC1Zbh) | [Banjo Fiddle Forever](https://open.spotify.com/album/3zObEQoxblVSx2PFo9UBgf) | 5:52 | 2022-02-25 | 2022-05-24 |
-| [Rainbow Bridge](https://open.spotify.com/track/7iGwt0pkSxGRo5u5yHE5fn) | [Curtis Burch](https://open.spotify.com/artist/3G6XeAPt67G86ZW2o94kAa) | [Instrumental Bluegrass \- Dobro](https://open.spotify.com/album/0H9NxNfWX1InlbeetwJ8g2) | 3:33 | 2021-12-03 |  |
+| [Rainbow Bridge](https://open.spotify.com/track/7iGwt0pkSxGRo5u5yHE5fn) | [Curtis Burch](https://open.spotify.com/artist/3G6XeAPt67G86ZW2o94kAa) | [Instrumental Bluegrass \- Dobro](https://open.spotify.com/album/0H9NxNfWX1InlbeetwJ8g2) | 3:33 | 2021-12-03 | 2022-11-30 |
 | [Red Vespa](https://open.spotify.com/track/5XO8bgXgre5VmxrTCYmUKF) | [Michael Fix](https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci) | [Red Vespa](https://open.spotify.com/album/6MDN5ms2HrS4bozX7NGjJ2) | 2:53 | 2022-04-01 | 2022-04-19 |
 | [Reedology](https://open.spotify.com/track/6Y1luylb1MShHo2Ok77alb) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [My Place in the Sun](https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH) | 4:25 | 2021-12-03 |  |
 | [Remy's Breakdown](https://open.spotify.com/track/7rPQc8ttVMWN6XGyzfSvYa) | [Daisy Caire](https://open.spotify.com/artist/4v1FW4QxFWVPsTZ1Bx8Qia) | [Remy's Breakdown](https://open.spotify.com/album/1Tg47iUBdgqGfB6Pcp0MGE) | 2:29 | 2022-07-22 | 2022-07-29 |

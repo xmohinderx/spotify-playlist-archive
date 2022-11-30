@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Franky Wah. ",
-  "num_followers": 411181,
+  "num_followers": 411324,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDZkMDhhMjliZjIwZjMzNmIwYjBhZWVhZDdmOTBjYTc0",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDhlMzAyNDU3NDQyNTk2YjU1NTg4N2RjZmQ4NDAzNDVj",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Do It Now",
+        "url": "https://open.spotify.com/album/2ypIc1WxsflZDqq528yYjs"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 150240,
+      "name": "Do It Now",
+      "url": "https://open.spotify.com/track/6mvw6xrpw175Cpvem5Fu0s"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Not Alone",
         "url": "https://open.spotify.com/album/3NIJcdXRPZNRJtfgXB9Fwl"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 253793,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/590bkJ03KhVwsSlCZi7oUj"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Do It Now",
-        "url": "https://open.spotify.com/album/2ypIc1WxsflZDqq528yYjs"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 150240,
-      "name": "Do It Now",
-      "url": "https://open.spotify.com/track/6mvw6xrpw175Cpvem5Fu0s"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -867,6 +867,46 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "If You Love Me",
+        "url": "https://open.spotify.com/album/0dsUmvhapTplCNj3imObJq"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "WISEKIDS",
+          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+        }
+      ],
+      "duration_ms": 145172,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0zlQpLXBvQ5ypNgAY7VYf3"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5nicBx8SWNMLIdoRO2tDWS"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        },
+        {
+          "name": "Velix",
+          "url": "https://open.spotify.com/artist/42veFzdWbjSh1nQVnkcpdo"
+        }
+      ],
+      "duration_ms": 144090,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/56hktzDsEtmoqQk4iyfHOy"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Whats Real",
         "url": "https://open.spotify.com/album/4DDs3tiLrTxxzXKrnbtosv"
       },
@@ -895,46 +935,6 @@
       "duration_ms": 420000,
       "name": "POLO",
       "url": "https://open.spotify.com/track/79Nple3hrqZj3a9Az8SzsG"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/5nicBx8SWNMLIdoRO2tDWS"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        },
-        {
-          "name": "Velix",
-          "url": "https://open.spotify.com/artist/42veFzdWbjSh1nQVnkcpdo"
-        }
-      ],
-      "duration_ms": 144090,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/56hktzDsEtmoqQk4iyfHOy"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "If You Love Me",
-        "url": "https://open.spotify.com/album/0dsUmvhapTplCNj3imObJq"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "WISEKIDS",
-          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
-        }
-      ],
-      "duration_ms": 145172,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0zlQpLXBvQ5ypNgAY7VYf3"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1019,46 +1019,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Dice",
-        "url": "https://open.spotify.com/album/1F3Jld5a01v2EUrLqzc1GI"
-      },
-      "artists": [
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        },
-        {
-          "name": "Rachel Leo",
-          "url": "https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Dice",
-      "url": "https://open.spotify.com/track/03iws7tQG78lKQRwnHTSqq"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Feel This Way",
-        "url": "https://open.spotify.com/album/1lHOoNxWRncWEOf2yj9Rqb"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "Hollaphonic",
-          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Feel This Way",
-      "url": "https://open.spotify.com/track/68u6vma7ynoP1pA5ScKJN7"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Goldener Strom Remixes 1",
         "url": "https://open.spotify.com/album/2Oa9B5Rlku6LgDvKahNhSj"
       },
@@ -1099,6 +1059,46 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Dice",
+        "url": "https://open.spotify.com/album/1F3Jld5a01v2EUrLqzc1GI"
+      },
+      "artists": [
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Rachel Leo",
+          "url": "https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Dice",
+      "url": "https://open.spotify.com/track/03iws7tQG78lKQRwnHTSqq"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/1lHOoNxWRncWEOf2yj9Rqb"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/68u6vma7ynoP1pA5ScKJN7"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Jobi (Kareem Ali Remix)",
         "url": "https://open.spotify.com/album/0ufjnrRBMHcBd4XdNB9TYU"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 358200,
       "name": "Jobi - Kareem Ali Remix",
       "url": "https://open.spotify.com/track/1WmrJR4SP796Q35Ik4aGYq"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Public Disturbance",
-        "url": "https://open.spotify.com/album/1rHymzXSSB7UHohBpW6hQX"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "Say No More",
-      "url": "https://open.spotify.com/track/3ukSlYPAMtOvORMbvrGYm1"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Feel So Free Mixtape",
-        "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
+        "name": "Public Disturbance",
+        "url": "https://open.spotify.com/album/1rHymzXSSB7UHohBpW6hQX"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "COUCOU CHLOE",
-          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
         }
       ],
-      "duration_ms": 219687,
-      "name": "It's Just This Thing",
-      "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
+      "duration_ms": 295500,
+      "name": "Say No More",
+      "url": "https://open.spotify.com/track/3ukSlYPAMtOvORMbvrGYm1"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1203,6 +1183,26 @@
       "duration_ms": 164979,
       "name": "Step Into It (Golden Ticket)",
       "url": "https://open.spotify.com/track/6NmcxJuphyJDjZOw43qyk7"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Feel So Free Mixtape",
+        "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "duration_ms": 219687,
+      "name": "It's Just This Thing",
+      "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/69kBL0Dc4S1P9o8AX8x0jL"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 268900,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7M1UJSaliSR5dVDIpsbCFz"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Deserve You (Dosem Remix)",
         "url": "https://open.spotify.com/album/270K4MfImooj74n4SZygTs"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 218080,
       "name": "Lab",
       "url": "https://open.spotify.com/track/23qd0tNJOKU0toPX7gDgI1"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/69kBL0Dc4S1P9o8AX8x0jL"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 268900,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7M1UJSaliSR5dVDIpsbCFz"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1391,6 +1391,42 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Looking In The Sky",
+        "url": "https://open.spotify.com/album/2On5ucuoSWhuQwU5qZcM2Z"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        },
+        {
+          "name": "Maga",
+          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        },
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "duration_ms": 271979,
+      "name": "Looking In The Sky - Radio Edit",
+      "url": "https://open.spotify.com/track/4o7tMl7CwHMKKCUDgbZCC9"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "In the Deep",
         "url": "https://open.spotify.com/album/7pl4DBWXXWceloZK7CyJEc"
       },
@@ -1443,42 +1479,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Looking In The Sky",
-        "url": "https://open.spotify.com/album/2On5ucuoSWhuQwU5qZcM2Z"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Satie",
-          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
-        },
-        {
-          "name": "Maga",
-          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
-        },
-        {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
-        },
-        {
-          "name": "Sean Doron",
-          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
-        },
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        },
-        {
-          "name": "Paul Brenning",
-          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
-        }
-      ],
-      "duration_ms": 271979,
-      "name": "Looking In The Sky - Radio Edit",
-      "url": "https://open.spotify.com/track/4o7tMl7CwHMKKCUDgbZCC9"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Somebody up There Likes You",
         "url": "https://open.spotify.com/album/3bdkf95aUTClhYJiXHj1eL"
       },
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/4PfxvIOGvyZomFIclSdPhJ"
+      },
+      "artists": [
+        {
+          "name": "Scity",
+          "url": "https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/7Mff36ABo7BQquS3XRCLCA"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Piece Of Me",
         "url": "https://open.spotify.com/album/5WK59WdObTMnaKPGlry6rS"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 282475,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/1ZbxqlzJhMxYhKR8YI8JlD"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/4PfxvIOGvyZomFIclSdPhJ"
-      },
-      "artists": [
-        {
-          "name": "Scity",
-          "url": "https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/7Mff36ABo7BQquS3XRCLCA"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Little Stars - EP",
+        "url": "https://open.spotify.com/album/124BIjnTNWp3zZelTz2L4a"
+      },
+      "artists": [
+        {
+          "name": "YAME",
+          "url": "https://open.spotify.com/artist/21pXVnPnafVqqIFAaUb7XW"
+        }
+      ],
+      "duration_ms": 197867,
+      "name": "Little Stars",
+      "url": "https://open.spotify.com/track/0ji8MT1RUHDvDeu93RUxwC"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Fear of Programming",
         "url": "https://open.spotify.com/album/49b3cshXjZHfOzN3SfMWzr"
       },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Little Stars - EP",
-        "url": "https://open.spotify.com/album/124BIjnTNWp3zZelTz2L4a"
-      },
-      "artists": [
-        {
-          "name": "YAME",
-          "url": "https://open.spotify.com/artist/21pXVnPnafVqqIFAaUb7XW"
-        }
-      ],
-      "duration_ms": 197867,
-      "name": "Little Stars",
-      "url": "https://open.spotify.com/track/0ji8MT1RUHDvDeu93RUxwC"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Fembot Fashion",
         "url": "https://open.spotify.com/album/1VxBZzFSS3333QGfdZ82IT"
       },
@@ -1695,22 +1695,6 @@
       "duration_ms": 288087,
       "name": "Fembot Fashion",
       "url": "https://open.spotify.com/track/1iWfrT2k3jOcsa1yoRuOPB"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Dem Boyz",
-        "url": "https://open.spotify.com/album/2QLGpzqHf36jlI1LGCTrLR"
-      },
-      "artists": [
-        {
-          "name": "Late Replies",
-          "url": "https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7"
-        }
-      ],
-      "duration_ms": 384863,
-      "name": "Dem Boyz",
-      "url": "https://open.spotify.com/track/23j6qax1NHWII3JsPKkczE"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Rumble",
-        "url": "https://open.spotify.com/album/2beyYt9BXnbMLNvWL4Rg9Z"
+        "name": "Dem Boyz",
+        "url": "https://open.spotify.com/album/2QLGpzqHf36jlI1LGCTrLR"
       },
       "artists": [
         {
-          "name": "V. Christie",
-          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+          "name": "Late Replies",
+          "url": "https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7"
         }
       ],
-      "duration_ms": 286875,
-      "name": "Rumble",
-      "url": "https://open.spotify.com/track/2eH7wpOWQilqB4aMfpEcvc"
+      "duration_ms": 384863,
+      "name": "Dem Boyz",
+      "url": "https://open.spotify.com/track/23j6qax1NHWII3JsPKkczE"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1779,6 +1763,22 @@
       "duration_ms": 224256,
       "name": "Late At Night",
       "url": "https://open.spotify.com/track/1Wyh8jVDSVDVhr39Sc6bxS"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/2beyYt9BXnbMLNvWL4Rg9Z"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 286875,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/2eH7wpOWQilqB4aMfpEcvc"
     },
     {
       "added_at": "2022-11-25 05:00:00",

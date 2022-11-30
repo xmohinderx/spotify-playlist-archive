@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Story Of The Year
 
-994 songs - 2 day 4 hr 54 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+995 songs - 2 day 4 hr 56 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,8 @@
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2021-11-19 | 2022-01-22 |
 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 | 2022-09-16 |  |
 | [Leading](https://open.spotify.com/track/1hKwgDLMXRMYF5ELuVr6ni) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Leading](https://open.spotify.com/album/1vLgVmLSQgEEM8SBZ4QQQd) | 3:05 | 2021-12-17 | 2022-01-08 |
-| [Left Handed](https://open.spotify.com/track/05VzVcYcNv254mkVPpT01i) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/5g4eiLltqMt2v1NzSq505b) | 2:34 | 2022-11-14 |  |
+| [Left Handed](https://open.spotify.com/track/05VzVcYcNv254mkVPpT01i) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/5g4eiLltqMt2v1NzSq505b) | 2:34 | 2022-11-14 | 2022-11-30 |
+| [Left Handed](https://open.spotify.com/track/6QgGrnkenUSXi5gkdkAsNc) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Left Handed](https://open.spotify.com/album/3adwq4kY3Ql6jiBwEtgu0M) | 2:34 | 2022-11-25 |  |
 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 | 2022-03-18 | 2022-05-14 |
 | [Let It Sink](https://open.spotify.com/track/3oRrq1fkzb2aCznN0269mL) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6O3ixSA4lGzIMR0qELaEFf) | 3:02 | 2022-11-04 |  |
 | [Let Me Be Normal](https://open.spotify.com/track/4aPd0Ce1cRiE2Yg1fty3HD) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Let Me Be Normal](https://open.spotify.com/album/6RjuNtTTG4MkTaAxxzjZIJ) | 2:22 | 2022-10-07 | 2022-11-12 |

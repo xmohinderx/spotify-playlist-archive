@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25091,
+  "num_followers": 25098,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDVhY2E1MzU5NTVmMjU5OWYyZjFkZjlmN2IxY2E3NzIy",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDNkZmY4MWYwYmYyMWJjOGIwOTdkODcwMTU0MzE0YThl",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Mes succ\u00e8s francophones 1",
-        "url": "https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO"
-      },
-      "artists": [
-        {
-          "name": "Sylvain Cossette",
-          "url": "https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "D\u00e9cha\u00een\u00e9e",
         "url": "https://open.spotify.com/album/15fDQmVVpW1ojKEmH7MrnB"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 243800,
       "name": "Mon fr\u00e8re",
       "url": "https://open.spotify.com/track/4rd83jWw2g5aP1K7rGnAmE"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Mes succ\u00e8s francophones 1",
+        "url": "https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Cossette",
+          "url": "https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
-      },
-      "artists": [
-        {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "La berceuse du petit diable",
-      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les ann\u00e9es 70",
         "url": "https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 210746,
       "name": "Je survivrai",
       "url": "https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "La berceuse du petit diable",
+      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
     },
     {
       "added_at": "2020-04-07 15:18:18",

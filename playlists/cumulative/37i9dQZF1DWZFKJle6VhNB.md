@@ -4,7 +4,7 @@
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-165 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/6306uranRreFb9mAG0uhIt)
+166 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/6306uranRreFb9mAG0uhIt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Fazer Falta](https://open.spotify.com/track/6pSYjx66rlqRmGGTHhnjCo) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Fazer Falta](https://open.spotify.com/album/12SX4VJ6rdQQpMGHVBl1oe) | 3:30 | 2022-02-10 | 2022-07-29 |
 | [Fazer Falta](https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Fazer Falta](https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0) | 3:30 | 2022-02-10 |  |
 | [Festa](https://open.spotify.com/track/3ZEht29AXuUXBtPU8sUdI1) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [A Arte De Ivete Sangalo](https://open.spotify.com/album/0BI6IsboDY3TaxNMJPxz9a) | 3:44 | 2022-02-10 | 2022-07-29 |
-| [Festa no Apê \(Dragostea Din Tei\)](https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Latino Apresenta as Aventuras de DJ L \- Festa no Apê](https://open.spotify.com/album/6gPlOUYW8fgYluWN0NCJEG) | 4:11 | 2022-02-10 |  |
+| [Festa no Apê \(Dragostea Din Tei\)](https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Latino Apresenta as Aventuras de DJ L \- Festa no Apê](https://open.spotify.com/album/6gPlOUYW8fgYluWN0NCJEG) | 4:11 | 2022-02-10 | 2022-11-30 |
 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 | 2022-02-10 |  |
 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 | 2022-02-10 |  |
 | [Gaiola É o Troco](https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET) | [Gaiola É o Troco](https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d) | 3:07 | 2022-02-10 |  |
@@ -80,6 +80,7 @@
 | [Hoje](https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hoje](https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN) | 2:57 | 2022-02-10 |  |
 | [Hoje Eu Vou Parar Na Gaiola](https://open.spotify.com/track/0IQCOAw9ZAI6WnXIrl481F) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Hoje Eu Vou Parar Na Gaiola](https://open.spotify.com/album/3j7cpOK1JwMTUEc745P571) | 2:57 | 2022-02-10 | 2022-07-29 |
 | [Hoje Eu Vou Parar Na Gaiola](https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Hoje Eu Vou Parar Na Gaiola](https://open.spotify.com/album/1OZEMraAZsiMYQGNZjOw8F) | 2:57 | 2022-02-10 |  |
+| [Hold On](https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g) | [very man](https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR) | [Hold On](https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT) | 2:59 | 2022-02-10 |  |
 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 | 2022-02-10 |  |
 | [Inaraí](https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k) | [Katinguelê](https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu) | [Katinguelê Na Área](https://open.spotify.com/album/6be252ruiK8KktdALdpNvq) | 3:54 | 2022-02-10 |  |
 | [Insegurança \- Ao Vivo](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [15 Anos \(Ao Vivo\)](https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n) | 3:00 | 2022-02-10 |  |

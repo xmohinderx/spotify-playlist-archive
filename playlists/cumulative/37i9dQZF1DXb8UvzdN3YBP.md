@@ -4,11 +4,12 @@
 
 > Music from and inspired by "Glass Onion: A Knives Out Mystery," coming soon to Netflix.
 
-31 songs - 1 hr 56 min - not published yet
+32 songs - 1 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aeraki \- To Thiliko](https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Aeraki \(To Thiliko\)](https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv) | 3:11 | 2022-11-14 |  |
+| [Andi's Theme](https://open.spotify.com/track/25Jv0pEi5Kys6FGxsfk5yP) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Glass Onion: A Knives Out Mystery \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus) | 2:00 | 2022-11-30 |  |
 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 | 2022-11-14 |  |
 | [Blanc's Tale, Pt\. II](https://open.spotify.com/track/0ZzluTS60kq1Hu5M74sBtb) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 6:11 | 2022-11-14 |  |
 | [Cat Blues](https://open.spotify.com/track/4UIWEomPQIaacYpTjEwMVS) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 2:37 | 2022-11-14 |  |

@@ -4,7 +4,7 @@
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-143 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
+144 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Asimbonanga \(Mandela\)](https://open.spotify.com/track/3PK6nJvcddecPj2ESgMJAe) | [Johnny Clegg & Savuka](https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [The Best of Johnny Clegg \- Juluka & Savuka](https://open.spotify.com/album/5LhbwhBfshZF4MaTCx5kyr) | 4:27 | 2018-09-23 | 2022-07-16 |
 | [Bantu Biko Street \(Orchestra & Vocals\)](https://open.spotify.com/track/5aLrfHXuUkpvlWU1fXqR5R) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [The One Love Movement on Bantu Biko Street](https://open.spotify.com/album/6rjVbgk13C3CefTrktUOWT) | 5:09 | 2019-02-12 | 2022-07-29 |
 | [Bengim'ngaka](https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:15 | 2018-09-23 |  |
-| [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 | 2019-02-03 |  |
+| [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 | 2019-02-03 | 2022-11-30 |
 | [Blues for a Hip King](https://open.spotify.com/track/6JvT7KcHNeGIzGQUUAdUkA) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Senzo](https://open.spotify.com/album/2g6zjVX3L0VbyiMuowr5H5) | 6:02 | 2019-02-12 | 2022-07-21 |
 | [Born in a Taxi](https://open.spotify.com/track/3fJ75JKYcfOerkRGj29Plh) | [Blk Sonshine](https://open.spotify.com/artist/3aIW4Jy6FDJrp2a9s1aUZl) | [Blk Sonshine](https://open.spotify.com/album/1qefGgNkasaqJqZquJFahP) | 2:40 | 2019-02-12 | 2022-07-29 |
 | [Bula Boot](https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il) | 5:32 | 2019-02-03 | 2022-11-14 |
@@ -43,6 +43,7 @@
 | [Groovers Prayer](https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4O8DBlsMzrukb209docL0j) | 5:41 | 2020-03-16 |  |
 | [Heavenly Sent](https://open.spotify.com/track/0fciLuddpz37OtcxZZ8ixg) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/1IRqLL1Bsaz158w1DkqpwJ) | 6:27 | 2019-02-03 | 2022-11-08 |
 | [Heavenly Sent](https://open.spotify.com/track/1NXVk9diMIkX1ixmAR5itp) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/2kpVZngXLffWpxHE6qIIpV) | 6:27 | 2019-02-03 | 2022-07-29 |
+| [Heavenly Sent](https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:27 | 2019-02-03 |  |
 | [Hey Kop](https://open.spotify.com/track/1VQsFRvJde95Wtkp3rk4yf) | [M'du](https://open.spotify.com/artist/0AfJczz6uFcaUSSSCVv6qT) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:29 | 2019-02-03 | 2022-11-14 |
 | [Hey Kop](https://open.spotify.com/track/4eSwGleUIHfVrVWxYsokdh) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Hey Kop](https://open.spotify.com/album/0Lv870EFecsFjyGbH9oHKd) | 5:32 | 2019-02-03 | 2022-07-29 |
 | [Homeless \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 3:48 | 2019-03-07 |  |

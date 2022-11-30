@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Marilyne Léonard
 
-240 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+241 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Le p'tit fou](https://open.spotify.com/track/7DEZSbFnPI4r8uli6rNQ5w) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [J'aimais mieux les maquettes](https://open.spotify.com/album/0O02fy8CyneFsi7DcFp1OK) | 2:23 | 2022-10-21 |  |
 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-03-25 | 2022-06-18 |
 | [Lessons](https://open.spotify.com/track/0yrprIEMM99mThlgrdewdw) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 2:11 | 2022-03-25 | 2022-04-23 |
-| [Let it Die](https://open.spotify.com/track/3qnbGeZ21BFjlLmX22U6Rr) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [Let It Die](https://open.spotify.com/album/5NCd0yus0svH3iJAl1YRLl) | 2:33 | 2022-03-25 |  |
+| [Let it Die](https://open.spotify.com/track/0gS9HfFlQ4YisrYvxkeaY7) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [The Haunt](https://open.spotify.com/album/53WRKqwxxyRipxJBiYYavf) | 2:33 | 2022-11-25 |  |
+| [Let it Die](https://open.spotify.com/track/3qnbGeZ21BFjlLmX22U6Rr) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [Let It Die](https://open.spotify.com/album/5NCd0yus0svH3iJAl1YRLl) | 2:33 | 2022-03-25 | 2022-11-30 |
 | [levels](https://open.spotify.com/track/4lEUFWApnDtgiUsclp307O) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [levels](https://open.spotify.com/album/58DMAnDshN1F30XhXFi8gl) | 3:06 | 2022-03-25 | 2022-05-07 |
 | [Looking for Your Love](https://open.spotify.com/track/56sH4u4DPY9xUkog8vGDCp) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/5oatubY6iB4ukJXQDsCWRe) | 4:34 | 2022-05-20 | 2022-10-17 |
 | [Looking for Your Love](https://open.spotify.com/track/5XzjqjUNr7RnXofALrp8IN) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/0nJFWlwfiAbiXhyQizaJT9) | 4:34 | 2022-10-14 |  |

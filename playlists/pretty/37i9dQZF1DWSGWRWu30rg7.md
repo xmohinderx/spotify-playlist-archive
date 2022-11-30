@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Derai\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,340 likes - 98 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,343 likes - 98 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 36 | [One Call](https://open.spotify.com/track/4J7ZSctC20MlKM1lNV1Vrr) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI) | [One Call](https://open.spotify.com/album/5RPFL0bABYBIapogqMdu00) | 2:44 |
 | 37 | [Membaca Rindu](https://open.spotify.com/track/3stgRehjQBrg8a1FBqQ6Bq) | [Asyifa Salsabila](https://open.spotify.com/artist/0XuaFKjdCCvSIxCvHusWhc) | [Membaca Rindu](https://open.spotify.com/album/2uvYfJicwz1whE88yOVJsU) | 4:49 |
 | 38 | [Kisah Tak Pasti](https://open.spotify.com/track/5e4FrQSDueaxQmihdhDBZf) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Kisah Tak Pasti](https://open.spotify.com/album/7BkxjUqPhUH0bkhnhR3BHS) | 3:54 |
-| 39 | [Ang$a](https://open.spotify.com/track/4u16zGIdHrOkMyJOInkF6y) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Oranye](https://open.spotify.com/album/2Y9GAh9rRYsw1PiS6FDJcy) | 2:43 |
+| 39 | [Ang$a](https://open.spotify.com/track/4u16zGIdHrOkMyJOInkF6y) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Oranye](https://open.spotify.com/album/2Y9GAh9rRYsw1PiS6FDJcy) | 2:47 |
 | 40 | [Saturday Night](https://open.spotify.com/track/1IjgRvB84ShOBxAO1iTqLt) | [GHO$$](https://open.spotify.com/artist/74k9TFZjvOyebE5pWByAdR) | [Saturday Night](https://open.spotify.com/album/2GeoZP9K0qs6zr40BbAOJX) | 3:01 |
 | 41 | [the little things <3](https://open.spotify.com/track/4A06P19ArSKSsDWrqtP77G) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [the little things <3](https://open.spotify.com/album/09rMwN2pwbirFv4RXbjrMA) | 2:28 |
 | 42 | [Florida Sunset Motel](https://open.spotify.com/track/5zd7EY6ueuuQ83SAYNJBdo) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO), [Katie Glasgow](https://open.spotify.com/artist/7aYZm7onOdAyYbrVwHD6SR) | [Florida Sunset Motel](https://open.spotify.com/album/2rd9Iuzm7fbQ1o4VCpm4gl) | 3:28 |

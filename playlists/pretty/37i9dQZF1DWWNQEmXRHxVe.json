@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Dr. Dre",
-  "num_followers": 60480,
+  "num_followers": 60521,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMDM2NTA5YjQ5NDFlNmI4Yjk1MWU3ZTVjNDRiYTc5ZmZk",
+  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMGZhYTlmYjcxNGNkNWI3NjZhYzQyZmVkMTk4OWFiNTVj",
   "tracks": [
     {
       "added_at": "2022-02-11 14:10:03",
@@ -881,20 +881,20 @@
       "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
     },
     {
-      "added_at": "2018-01-30 18:06:42",
+      "added_at": "2021-02-09 14:50:36",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+      "duration_ms": 405213,
+      "name": "House Of Balloons / Glass Table Girls",
+      "url": "https://open.spotify.com/track/50iiDJGpAPdr2VTrz999XA"
     },
     {
       "added_at": "2018-01-30 18:06:42",
@@ -913,20 +913,20 @@
       "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
     },
     {
-      "added_at": "2021-02-09 14:50:36",
+      "added_at": "2018-01-30 18:06:42",
       "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 405213,
-      "name": "House Of Balloons / Glass Table Girls",
-      "url": "https://open.spotify.com/track/50iiDJGpAPdr2VTrz999XA"
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2020-01-31 17:44:55",

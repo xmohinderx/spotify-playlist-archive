@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8994,
+  "num_followers": 9037,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MTc5MywwMDAwMDAwMDQwNTk4Mzc3MGU5MzM4YzIyNTljYWU4NWJiMjA1YTkw",
+  "snapshot_id": "MTY2OTM2MTc5MywwMDAwMDAwMDFiZjVhNDgzNDMzYTg4ZGJhZTE0ZDc5NTk1YTcwY2U4",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
-      "added_at": "2022-11-29 01:21:29",
+      "added_at": "2022-11-30 01:18:30",
       "album": {
         "name": "Heart Of The Heavenly Undeniable (HOTHU)",
         "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
@@ -952,12 +952,12 @@
       },
       "artists": [
         {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
           "name": "Naomi Achu",
           "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
         }
       ],
       "duration_ms": 208896,
@@ -979,6 +979,38 @@
       "duration_ms": 166666,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        },
+        {
+          "name": "Muthoni",
+          "url": "https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj"
+        },
+        {
+          "name": "Edwvn",
+          "url": "https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn"
+        },
+        {
+          "name": "Narah",
+          "url": "https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh"
+        },
+        {
+          "name": "Tronomie",
+          "url": "https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA"
+        }
+      ],
+      "duration_ms": 198555,
+      "name": "Bordeaux",
+      "url": "https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1019,38 +1051,6 @@
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        },
-        {
-          "name": "Muthoni",
-          "url": "https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj"
-        },
-        {
-          "name": "Edwvn",
-          "url": "https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn"
-        },
-        {
-          "name": "Narah",
-          "url": "https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh"
-        },
-        {
-          "name": "Tronomie",
-          "url": "https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA"
-        }
-      ],
-      "duration_ms": 198555,
-      "name": "Bordeaux",
-      "url": "https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1149,6 +1149,22 @@
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
     },
     {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Torn Tapestries",
+        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Heartburn (Sooibrand)",
+      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Your Love (Mogbe)",
@@ -1171,22 +1187,6 @@
       "duration_ms": 160000,
       "name": "Your Love - Mogbe",
       "url": "https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM"
-    },
-    {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Torn Tapestries",
-        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
-      },
-      "artists": [
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Heartburn (Sooibrand)",
-      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
     },
     {
       "added_at": "2022-09-30 06:26:52",

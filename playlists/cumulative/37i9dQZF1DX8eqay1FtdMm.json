@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover: HYNN(\ubc15\ud61c\uc6d0)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the vocalists representing Korea! (Cover: Kassy(\ucf00\uc774\uc2dc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "published_playlist_ids": [
     "2BbJAyiww6XGkUOKjIhd3r"
@@ -1013,6 +1013,24 @@
       "duration_ms": 279192,
       "name": "Close my eyes",
       "url": "https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ"
+    },
+    {
+      "album": {
+        "name": "Cold Day",
+        "url": "https://open.spotify.com/album/5HXAwf8M9T6VSw0LlgeHhy"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "Cold breeze is blowing",
+      "url": "https://open.spotify.com/track/5JWnuJXxDUb5sgV4SiWdur"
     },
     {
       "album": {
@@ -2463,7 +2481,7 @@
           "url": "https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD"
         }
       ],
-      "date_added": "2022-11-24",
+      "date_added": "2022-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 270131,
@@ -4153,7 +4171,7 @@
           "url": "https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY"
         }
       ],
-      "date_added": "2022-11-24",
+      "date_added": "2022-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231280,
@@ -4209,7 +4227,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 237224,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
@@ -4973,7 +4991,7 @@
           "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
         }
       ],
-      "date_added": "2022-11-24",
+      "date_added": "2022-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204120,

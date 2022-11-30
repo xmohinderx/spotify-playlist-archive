@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Sena Mc
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,899 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,909 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 3 | [Shake](https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Aguida Beats](https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1) | [Shake](https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC) | 2:34 |
 | 4 | [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 |
 | 5 | [AQL SLV](https://open.spotify.com/track/4x96ZVUti5pKCpiImokxB4) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 4:55 |
-| 6 | [Bradrill](https://open.spotify.com/track/68zTD2aPvre87UHlJkBRqA) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Bradrill](https://open.spotify.com/album/5tcAJ0FsUQ5CZfXe2HAXcV) | 2:22 |
+| 6 | [BRADRILL](https://open.spotify.com/track/68zTD2aPvre87UHlJkBRqA) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [BRADRILL](https://open.spotify.com/album/5tcAJ0FsUQ5CZfXe2HAXcV) | 2:22 |
 | 7 | [DRILL](https://open.spotify.com/track/52Tf4Az267JIt0cTfEuwIT) | [Pexande](https://open.spotify.com/artist/2q0FHjgmI45xHxbdXkxYAK) | [DRILL](https://open.spotify.com/album/7M8MImMKcogtsASCL5cXVb) | 2:30 |
 | 8 | [Freestyle 01](https://open.spotify.com/track/1sW0BCO3lnzCx7aYnPzV6K) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Freestyle 01](https://open.spotify.com/album/6pXEoRJ3l0YfFDNrxEKl6Y) | 2:07 |
 | 9 | [Tudo Mec](https://open.spotify.com/track/3Ky4MJEskLIRQ42fKsUtJT) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Rodrigo Zin](https://open.spotify.com/artist/71s3pi3yFhYB1P40dmRm1J), [Caco](https://open.spotify.com/artist/4ooTDZgSDcUCsSJLHTe740) | [Tudo Mec](https://open.spotify.com/album/3SJbnzuqTSl3pZAMV0xf5Z) | 3:02 |

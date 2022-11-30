@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-444 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+445 songs - 1 day 11 hr 40 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [rob call](https://open.spotify.com/track/3NOoXCqBqvfCEwaVv9eYud) | [Kadan](https://open.spotify.com/artist/6Kb0sAal8AKieGi3QFuut6), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [CASA](https://open.spotify.com/album/2VZrUwi0qi2hWZIZcveryr) | 4:14 | 2022-04-07 | 2022-07-25 |
 | [Romi and Kuro](https://open.spotify.com/track/3iZbQQ8osjHAw7Mfjeb9fj) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/19T8jn8CL3WTkwT71g9Hmg) | 2:16 | 2022-03-31 | 2022-04-16 |
 | [ruddy](https://open.spotify.com/track/0taCy75zAy0tSBrSjsDX3A) | [KETA RA](https://open.spotify.com/artist/3uK2cAtHOMJrKpnfplyh7y) | [If...](https://open.spotify.com/album/5mRYoV6IAsh7y93oPxP4UJ) | 6:32 | 2022-03-30 | 2022-07-27 |
-| [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 | 2022-03-30 |  |
+| [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 | 2022-03-30 | 2022-11-30 |
 | [said](https://open.spotify.com/track/6xEFlZXHUM23f3fPSwxgHG) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Sea Said](https://open.spotify.com/album/61gdsPUMmubT9HFCl1TahO) | 3:12 | 2022-03-31 | 2022-07-22 |
 | [Saints](https://open.spotify.com/track/5P85wRorhla78MYAhdixph) | [LLLL](https://open.spotify.com/artist/13aiEk0fFVGkLXyNMrdM7o) | [Saints](https://open.spotify.com/album/55PbesXq4QbbiOkZK734g6) | 4:46 | 2022-03-30 | 2022-07-20 |
 | [Saisei](https://open.spotify.com/track/6YSDx6DroSJbceYlvycDve) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Anjunadeep pres\. Reflections Vol\. 2](https://open.spotify.com/album/2VVYtrUzgEsy9sbsOj58DU) | 4:44 | 2022-03-31 | 2022-04-21 |
@@ -404,6 +404,7 @@
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-04-28 |  |
 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 | 2022-04-07 |  |
 | [Waiting](https://open.spotify.com/track/2MKzjWgH6KXyjciZv9UWDw) | [Vegpher](https://open.spotify.com/artist/1UCRyLeDKLbRcWXCpYxkh3) | [Minutus](https://open.spotify.com/album/7oaDXY017ZbjVRUxjynyMn) | 4:27 | 2022-03-30 | 2022-07-18 |
+| [WALKER \- LIM GIONG FOLLOW THE STEPS REMODEL](https://open.spotify.com/track/1AnHE6gRyOL8OttmxK5OEv) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [LIM GIONG](https://open.spotify.com/artist/3BNLZ91QZHEedDAZdYba6k) | [A Tribute to Ryuichi Sakamoto \- To the Moon and Back](https://open.spotify.com/album/5HFcpgpiTigz6jfkQRr7g3) | 4:42 | 2022-11-29 |  |
 | [Wash Away](https://open.spotify.com/track/2JO7H59mvPwDln69MRUR4A) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.3](https://open.spotify.com/album/0laYkHbtDIhxlVK5UxfQIh) | 3:01 | 2022-04-07 | 2022-07-18 |
 | [WASSER](https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:18 | 2022-04-07 | 2022-07-29 |
 | [wave I](https://open.spotify.com/track/7aP9EJpFFiYwjx3XsrgFNT) | [Tomonari Nozaki](https://open.spotify.com/artist/5WxxeVvoygjM4uUnLbvU0S) | [waves](https://open.spotify.com/album/30GuU6iDTogw0vWYeziTSN) | 11:20 | 2022-04-07 | 2022-07-21 |

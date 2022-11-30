@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-297 songs - 1 day 3 hr 50 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
+298 songs - 1 day 3 hr 55 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [9](https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 6:31 | 2021-07-30 |  |
 | [A Final Warning](https://open.spotify.com/track/0sa7zxqiWLtqW0RZGc9TKS) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/4oG14WGnh4TXMI92JQJ5SZ) | 7:15 | 2021-07-30 |  |
 | [A Final Warning](https://open.spotify.com/track/47U8foovlO8ekCIopmqojT) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/6DrIyhtCOAFTEY4dB2mKl9) | 7:15 | 2021-07-30 | 2022-07-29 |
-| [A Haze Of Patriotic Fervor](https://open.spotify.com/track/1Pwb0rGhxhnyxkwk3sbJ3E) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Music of Grand Theft Auto V, Vol\. 2: The Score](https://open.spotify.com/album/0NeWQGtJD0LfXdVvgYNZM4) | 5:30 | 2021-07-30 |  |
+| [A Haze Of Patriotic Fervor](https://open.spotify.com/track/1Pwb0rGhxhnyxkwk3sbJ3E) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Music of Grand Theft Auto V, Vol\. 2: The Score](https://open.spotify.com/album/0NeWQGtJD0LfXdVvgYNZM4) | 5:30 | 2021-07-30 | 2022-11-30 |
+| [A Haze Of Patriotic Fervor](https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Music of Grand Theft Auto V, Vol\. 2: The Score](https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD) | 5:30 | 2021-07-30 |  |
 | [A Warm Front, Coming from the North](https://open.spotify.com/track/3QKMk528joNvJcR4nrQ94f) | [Warm Digits](https://open.spotify.com/artist/4bh9RnnR1ibGTx2zDplmbo) | [Keep Warm..\. with the Warm Digits](https://open.spotify.com/album/3QIsNOMzU7P8hsg6iVK1yA) | 5:16 | 2021-07-30 |  |
 | [A Warm Front, Coming from the North](https://open.spotify.com/track/6swYmv3qI9U6iQpdVhOZ8K) | [Warm Digits](https://open.spotify.com/artist/4bh9RnnR1ibGTx2zDplmbo) | [Keep Warm..\. with the Warm Digits](https://open.spotify.com/album/1vqeqNaYObeYw3zxP2ruiy) | 5:16 | 2021-07-30 | 2022-10-20 |
 | [Alexa!](https://open.spotify.com/track/0dNALXxEbpPZUKg1mbIG00) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Alexa!](https://open.spotify.com/album/1vK5s0OpCcJ7MVCKcKP9q2) | 3:54 | 2021-07-30 | 2022-11-13 |

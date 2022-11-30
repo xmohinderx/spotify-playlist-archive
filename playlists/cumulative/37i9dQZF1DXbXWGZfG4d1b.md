@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-394 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+395 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Nuestra Historia](https://open.spotify.com/track/66ec2jZu3jLS4bt8VJZjqU) | [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Nuestra Historia](https://open.spotify.com/album/2AnQrfhr5hmAhB4ijW3Zyd) | 4:50 | 2022-07-01 | 2022-07-28 |
 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 | 2022-10-28 |  |
 | [Nunca Supe](https://open.spotify.com/track/29qW7YVKI1axBPqyPwX9ck) | [Mementto](https://open.spotify.com/artist/4V8yNockJPs4Ofk3pw2ymA) | [Nunca Supe](https://open.spotify.com/album/2BZY8ROagjCOhVEQIH9aBw) | 2:54 | 2022-06-03 | 2022-07-28 |
-| [obrador](https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [gigaaaante](https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo) | 3:33 | 2022-07-15 |  |
+| [obrador](https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [gigaaaante](https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo) | 3:33 | 2022-07-15 | 2022-11-30 |
 | [Obrador](https://open.spotify.com/track/7G5FlmUe9w4y9dToGFnpmQ) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Gigaaaante](https://open.spotify.com/album/0roPQkz7OJqTTB2dRw85e8) | 3:33 | 2022-06-03 | 2022-08-26 |
 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 | 2022-07-01 | 2022-07-09 |
 | [Otra forma](https://open.spotify.com/track/06W9ONsbAAHO1RTs88kfMs) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get) | [Otra forma](https://open.spotify.com/album/37LU9PVNtRRrKAlN46XqMu) | 3:41 | 2022-06-03 | 2022-07-28 |
@@ -346,6 +346,7 @@
 | [Soy del Río](https://open.spotify.com/track/7AiqcYIPa3avpgW26fNFdA) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Transeúntes](https://open.spotify.com/artist/5c7ZnZV7FK9QnX18a3JMfU) | [Soy del Río](https://open.spotify.com/album/330kotZDGpRWJMZSw20DWc) | 5:02 | 2022-07-01 | 2022-07-29 |
 | [Suavemente Entusiasmado](https://open.spotify.com/track/4imx5CrSaZv0xvhpmsJdCV) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Suavemente entusiasmado](https://open.spotify.com/album/0AOQ9H0w7MEcAnX6J3u8g2) | 3:56 | 2022-06-03 |  |
 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 | 2022-06-03 | 2022-11-27 |
+| [Sueño Tsunami](https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 2:57 | 2022-11-11 |  |
 | [surfing caracol](https://open.spotify.com/track/2B5vdXagsT3RN8uGzBdeTk) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rapida comida](https://open.spotify.com/album/1huDYq4RA3dB74HmvtTqg5) | 2:04 | 2022-07-01 | 2022-07-20 |
 | [Tan Capaz](https://open.spotify.com/track/7rfTrFMb6pHxYZE8HpkSVe) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Tan Capaz](https://open.spotify.com/album/0XxiIUxCsCmnhoUBNAiVS4) | 4:07 | 2022-10-12 | 2022-11-05 |
 | [Tan Cerca](https://open.spotify.com/track/1ZpUJ5B8l8YmGXs5ZbnKnY) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [Tan Cerca](https://open.spotify.com/album/3b4moRrmBqJKu3mwvHenh7) | 3:14 | 2022-07-01 | 2022-07-07 |

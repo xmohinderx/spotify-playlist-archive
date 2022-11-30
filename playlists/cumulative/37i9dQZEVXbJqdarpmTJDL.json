@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -7586,6 +7586,24 @@
     },
     {
       "album": {
+        "name": "Hater",
+        "url": "https://open.spotify.com/album/2PBitiBgwxvIkWdzqEdhvC"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270857,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/2pbTmICYmJNKP5DxYi6yGF"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
       },
@@ -9033,7 +9051,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 171288,
       "name": "KATEGIDA",
       "url": "https://open.spotify.com/track/7aV83dc7M5CASPveVmzsSw"
@@ -10289,7 +10307,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 166000,
       "name": "Ligo Ligo",
       "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
@@ -13996,7 +14014,7 @@
         },
         {
           "name": "Issy Beats",
-          "url": "https://open.spotify.com/artist/7yAdGEvj8DeiAeBuFUeU5o"
+          "url": "https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6"
         }
       ],
       "date_added": "2022-04-23",
@@ -15819,7 +15837,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -16075,28 +16093,6 @@
     {
       "album": {
         "name": "Kales Douleies",
-        "url": "https://open.spotify.com/album/5QK1QDrX6wirdg6zJP8buo"
-      },
-      "artists": [
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        },
-        {
-          "name": "Night Grind",
-          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
-        }
-      ],
-      "date_added": "2022-09-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168387,
-      "name": "Salonikios",
-      "url": "https://open.spotify.com/track/718XWLo3fyDFH5RWp5Q5nN"
-    },
-    {
-      "album": {
-        "name": "Kales Douleies",
         "url": "https://open.spotify.com/album/5uHT0lG46ofxqFdrDVIB7k"
       },
       "artists": [
@@ -16115,6 +16111,32 @@
       "duration_ms": 168387,
       "name": "Salonikios",
       "url": "https://open.spotify.com/track/7kIxBHErqfQfUsRipdklUI"
+    },
+    {
+      "album": {
+        "name": "Kales Douleies",
+        "url": "https://open.spotify.com/album/5QK1QDrX6wirdg6zJP8buo"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "City Center",
+          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Salonikios",
+      "url": "https://open.spotify.com/track/718XWLo3fyDFH5RWp5Q5nN"
     },
     {
       "album": {
@@ -19799,7 +19821,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "WHO YOU?",
       "url": "https://open.spotify.com/track/1sUJwKbP3Ci9nXeWKID9lc"

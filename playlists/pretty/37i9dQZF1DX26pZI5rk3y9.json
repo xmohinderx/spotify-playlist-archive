@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2882,
+  "num_followers": 2897,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDczZmU0ZjRjOWNiNWZmYjM4NWVlNTFhZjhlNjY4ZjZm",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMGMwODY0N2RmNDlhZTk2OTY0YzMwMWZlZGRlMWRlZDQw",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "I Asked For Water",
-      "url": "https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 170666,
       "name": "Who Drank My Beer While I Was In The Rear - Remastered",
       "url": "https://open.spotify.com/track/5J6Pe8az9hdBuOGairgVYH"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "I Asked For Water",
+      "url": "https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
-        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
-      },
-      "artists": [
-        {
-          "name": "The Art Wood Combo",
-          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
         "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 171533,
       "name": "Eisenhower Blues - Single Version",
       "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
+        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
+      },
+      "artists": [
+        {
+          "name": "The Art Wood Combo",
+          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "Mama, What About Your Daughter - Single Version",
-      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Atomic Cocktail - Legendary Slim Gaillard",
         "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 163760,
       "name": "Atomic Cocktail",
       "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Mama, What About Your Daughter - Single Version",
+      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
     },
     {
       "added_at": "2022-09-12 16:38:21",

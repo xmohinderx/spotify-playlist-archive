@@ -4095,7 +4095,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "Carry Me Home (feat. Jake Reese)",
       "url": "https://open.spotify.com/track/2M1mqcNUBIAfRoD2Puhejf"
@@ -5927,7 +5927,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 168073,
       "name": "Deja Reve",
       "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
@@ -6165,7 +6165,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 209199,
       "name": "Disko Dancin",
       "url": "https://open.spotify.com/track/0V9XYO0pDS94UFuseqabzL"
@@ -6247,7 +6247,7 @@
       ],
       "date_added": "2020-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 157444,
       "name": "Do It! - Dimitri Vegas Radio Edit",
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
@@ -6675,7 +6675,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 210000,
       "name": "Don\u2019t Forget My Love - John Summit Remix",
       "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
@@ -8387,7 +8387,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 168433,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/3zSFOiuHSMqfbzxu7NHRcz"
@@ -10829,7 +10829,7 @@
       ],
       "date_added": "2020-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 169426,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/38XcmJDV2pjjVcCvdpMpA2"
@@ -12801,7 +12801,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 195483,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/50yFqoTXLnFKpgpXU94dTn"
@@ -12959,7 +12959,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 276494,
       "name": "Inhibitions - Edit",
       "url": "https://open.spotify.com/track/5ugyEMUjFOX7FS2Ao1Vyak"
@@ -13351,7 +13351,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-11",
+      "date_removed": null,
       "duration_ms": 173520,
       "name": "It Ain't You",
       "url": "https://open.spotify.com/track/0RRA5oMkDbzlEBaUXzjAo4"
@@ -13781,6 +13781,24 @@
       "duration_ms": 229946,
       "name": "Kanye",
       "url": "https://open.spotify.com/track/5brMyscUnQg14hMriS91ks"
+    },
+    {
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/0Ug3i1Um00xfpuGjGBJtxw"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261639,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/5xMMxb79haEK4MxUzyOr4E"
     },
     {
       "album": {
@@ -15115,7 +15133,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 174956,
       "name": "Live And Die (feat. Sophie Simmons)",
       "url": "https://open.spotify.com/track/0QR4vZ9iuNjrkWYNLoVAnM"
@@ -19213,7 +19231,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2020-11-14",
+      "date_removed": null,
       "duration_ms": 180900,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/7A64XAqzghyeZuN6AEqoiC"
@@ -20865,7 +20883,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Rhythm Is A Dancer",
       "url": "https://open.spotify.com/track/3hY80yJLjl2VgYLjn1aLVp"
@@ -24583,7 +24601,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 167845,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ"
@@ -26983,7 +27001,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 119141,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/0jBLjZgERcJHch5F6plHLN"

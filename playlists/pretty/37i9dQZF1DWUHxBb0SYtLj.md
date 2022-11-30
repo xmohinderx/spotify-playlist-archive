@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste super artiste italiane! Cover: la musicista, produttrice e DJ <a href="spotify:artist:2fB3iExnBIP2AA713JAqIM">PLASTICA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,272 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,346 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Cura Di Me](https://open.spotify.com/track/12Gayc39zYtD4gqUbG9IGv) | [Nibirv](https://open.spotify.com/artist/6pG1ZVFN8KaauXU1ECwmC6) | [Cura Di Me](https://open.spotify.com/album/38dcAryFiy9oNIwCeFFnHS) | 3:29 |
 | 50 | [La mia paranoia](https://open.spotify.com/track/59zTBgtr0HzpbjIvqICmrA) | [Femme](https://open.spotify.com/artist/1Wv02rPDQANubNqrSqNcZW) | [La mia paranoia](https://open.spotify.com/album/0frWjkqdhYENWkuQqDZFXF) | 2:46 |
 
-Snapshot ID: `MTY2NzM0MzY2MCwwMDAwMDAwMGM0NmZkOWQyNWFiNDkxZGI0YjRmNjY1N2RmZGEwZjg0`
+Snapshot ID: `MTY2OTcyMDE2NSwwMDAwMDAwMGJmMTM0ZjcyYTcwZmZkYjdhMTQ2YjNjYWM4ZGU2ZmU0`

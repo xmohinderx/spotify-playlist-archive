@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 83372,
+  "num_followers": 83526,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDg3NWNiMjcwNjk4ZWM0ODdlZWNjMDkzMGIzYjMyNmUx",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDMxMDg1Njg4MWMzOTQ0NTBhMDg4MGZiMjk2YWFlZmI2",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Gangalee",
+        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "La Cartera",
+      "url": "https://open.spotify.com/track/1g2Z2lOrwayOzDqOc8EfbR"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Est\u00e1 Rico",
         "url": "https://open.spotify.com/album/3ztJAikTd2AHTixfSPG185"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 215151,
       "name": "Est\u00e1 Rico",
       "url": "https://open.spotify.com/track/2wRkBumdItthjYP9XknImg"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Gangalee",
-        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 289906,
-      "name": "La Cartera",
-      "url": "https://open.spotify.com/track/1g2Z2lOrwayOzDqOc8EfbR"
     },
     {
       "added_at": "2020-07-02 17:35:53",

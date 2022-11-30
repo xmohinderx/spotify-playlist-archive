@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Stormzy, Quando Rondo and more\. Cover: Roddy Ricch
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,180 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,328 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 13 | [Texas](https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Texas](https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ) | 2:26 |
 | 14 | [Last Week](https://open.spotify.com/track/08OYnbJZtfdyAg1QNF1hdY) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Last Week](https://open.spotify.com/album/0CkMou5uaVWlcgUlbyNLL5) | 1:50 |
 | 15 | [No Passes](https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [No Passes](https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22) | 2:40 |
-| 16 | [No Attempts](https://open.spotify.com/track/4yCV8Sue17TOavzbqDKT6A) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [No Attempts](https://open.spotify.com/album/7w8fmv7ujaSegwGZVbkHGr) | 3:16 |
+| 16 | [No Attempts \(feat\. Anti Da Menace\)](https://open.spotify.com/track/5Wh2yfCIUydSKzkBe9Ta9d) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [No Attempts \(feat\. Anti Da Menace\)](https://open.spotify.com/album/0mxoJVqUVCaqj62OlqBTun) | 3:16 |
 | 17 | [Burn](https://open.spotify.com/track/55jvLkScZD8JFAUbW5CH3L) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Burn](https://open.spotify.com/album/2kX23j2gb8cqi1SZa8uV7G) | 2:34 |
 | 18 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 |
 | 19 | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/track/5iY0Mx5x4XMUL8PKIFns4n) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/album/74iSqd4ZViyQG8MXFfbDci) | 3:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Off White](https://open.spotify.com/track/6INAhMdq18cBZMWRiuNQhd) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [Off White](https://open.spotify.com/album/3UrNfZ5SEwJilzhj8xUeja) | 3:05 |
 | 51 | [How It Happen](https://open.spotify.com/track/6oFTPISBhGDHLLukVitDIt) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [How It Happen](https://open.spotify.com/album/6oT4OVNMNbrrbXoMhmkt6r) | 2:13 |
 
-Snapshot ID: `MTY2OTQxMzIzNSwwMDAwMDAwMDBhODMwMGE5NzI1MzcyZmU0MTMxNmQxMjUzMjg5ZjI5`
+Snapshot ID: `MTY2OTQxMzIzNSwwMDAwMDAwMDQ5OWM2ODIzMWE3NTFmOWExMmIzZDNkNjVhYzQxYjQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,353 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,901 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 17 | [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 4:11 |
 | 18 | [Kangal Irandal](https://open.spotify.com/track/3IpEJ86hrMfUcoXCk9U4h3) | [James Vasanthan](https://open.spotify.com/artist/0a4PNswQHfm1lfnOCTjVeh), [Bellie Raj](https://open.spotify.com/artist/4578gOJB66pNtL4Oqi09uI), [Deepa Miriam](https://open.spotify.com/artist/3adwCIFf97kIoMi42TCP5y) | [Subramaniapuram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/047Ehzf1hblhLG5g4kuOEF) | 5:22 |
 | 19 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 |
-| 20 | [Malai Mangum Neram](https://open.spotify.com/track/2VrNpMt23IX5ZfROWM7wAi) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Rowthiram \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/0LnjOrT8cUWTWwkk7mVgGh) | 5:13 |
-| 21 | [Othaiyadi Pathayila](https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MqnE5fKbjWn25aA091gd0) | 4:09 |
+| 20 | [Othaiyadi Pathayila](https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MqnE5fKbjWn25aA091gd0) | 4:09 |
+| 21 | [Malai Mangum Neram](https://open.spotify.com/track/2VrNpMt23IX5ZfROWM7wAi) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Rowthiram \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/0LnjOrT8cUWTWwkk7mVgGh) | 5:13 |
 | 22 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 |
 | 23 | [Kannala Kannala \- The Melting Point of Love](https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kaushik Krish](https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Thani Oruvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AOEe4UzP8MAtjwvzo2lcQ) | 3:35 |
 | 24 | [High On Love](https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [High On Love \(From "Pyaar Prema Kaadhal" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qfJM2g8OTCB9CGzwKb6kT) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 74 | [Kanne Kanne](https://open.spotify.com/track/1K1NqgcheWNhxJ9jg51ov5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ayogya](https://open.spotify.com/album/03gCAmcJXji9AdA5IpzxUm) | 3:45 |
 | 75 | [Munbe Vaa](https://open.spotify.com/track/6vZj02bcQqLTYRAi4jRkw7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Silunu Oru Kadhal](https://open.spotify.com/album/2V66QirokxORBvsvLCkX75) | 5:56 |
 
-Snapshot ID: `MTY2ODY3MDQzMywwMDAwMDAwMDNlY2IyMGY1OGY3YWQ0NDI1ZTkyNjU4MDZlZmU3NDBl`
+Snapshot ID: `MTY2ODY3MDQzMywwMDAwMDAwMDE4ODQyZmFkOTAwYmVhZmExNGEwYmMxM2E2NzNkZWE1`

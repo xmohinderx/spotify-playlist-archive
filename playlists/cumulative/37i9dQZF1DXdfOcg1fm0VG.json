@@ -9,6 +9,28 @@
     {
       "album": {
         "name": "Red Dead Redemption Original Soundtrack",
+        "url": "https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK"
+      },
+      "artists": [
+        {
+          "name": "Bill Elm",
+          "url": "https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW"
+        },
+        {
+          "name": "Woody Jackson",
+          "url": "https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338240,
+      "name": "(Theme From) Red Dead Redemption",
+      "url": "https://open.spotify.com/track/4BL3XnXe40ZS2YuRXWS4wX"
+    },
+    {
+      "album": {
+        "name": "Red Dead Redemption Original Soundtrack",
         "url": "https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg"
       },
       "artists": [
@@ -19,7 +41,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 338240,
       "name": "(Theme From) Red Dead Redemption",
       "url": "https://open.spotify.com/track/2cnhi0n4UMWCXQIEaVjnm5"

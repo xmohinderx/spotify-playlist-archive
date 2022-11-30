@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,934 likes - 56 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,945 likes - 56 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 36 | [Promises](https://open.spotify.com/track/0G7HoTXICR38R1A2r9qRCV) | [ZEHLO](https://open.spotify.com/artist/0SNkCYiWaGhCNlUUqF6Y5u) | [Promises](https://open.spotify.com/album/6SlOoqz6HayUPxv2Hc4cel) | 2:44 |
 | 37 | [riverrun](https://open.spotify.com/track/1ED4RvaOua1xCVoXBArYup) | [Redza](https://open.spotify.com/artist/7rI4hvk9fjo1LAOXX1XvLG) | [riverrun](https://open.spotify.com/album/2gCNYNlbuhoziX3Sr9lZBJ) | 2:57 |
 | 38 | [Like What I See](https://open.spotify.com/track/2k4sKRsgQb4zl5pB3kXmYw) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [Like What I See](https://open.spotify.com/album/2sfF38VWzLyQmTZjCHXIgj) | 2:42 |
-| 39 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
+| 39 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
 | 40 | [One Punch Tommy](https://open.spotify.com/track/4SoqwzilzxC6nm5Ag8kG49) | [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [One Punch Tommy](https://open.spotify.com/album/6OcaHnyEDl6sLVvbak8q48) | 3:16 |
 | 41 | [Supersonic L.U.V](https://open.spotify.com/track/17Z9tFg1qFpC2cRbSPQadL) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Supersonic L.U.V](https://open.spotify.com/album/63ujE1m5l5oMrRMRMXNkZ8) | 2:24 |
 | 42 | [No Good 4 U](https://open.spotify.com/track/65j80EkeL7HYYOtJ4waZyT) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [No Good 4 U](https://open.spotify.com/album/4haWEqgtjW3G4DXXJBnNn4) | 2:15 |

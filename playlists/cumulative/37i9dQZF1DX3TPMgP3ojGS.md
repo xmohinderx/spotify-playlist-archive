@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,551 songs - 2 day 22 hr 12 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,552 songs - 2 day 22 hr 14 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-03-29 |  |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2021-03-15 | 2022-07-28 |
 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 | 2022-10-25 |  |
-| [Ala](https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ala](https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa) | 2:00 | 2021-05-14 |  |
+| [Ala](https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ala](https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa) | 2:00 | 2021-05-14 | 2022-11-30 |
 | [Alabaster](https://open.spotify.com/track/07148It3eeWJjN4vJLZbRL) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Aureolin](https://open.spotify.com/album/3x7NlTjKHUuwxq4pgO8nnT) | 1:53 | 2021-03-08 | 2022-04-02 |
 | [Alas, Orpheus \- Akira Kosemura Rework](https://open.spotify.com/track/1k9RINelkevMzUcZ8kd7l4) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Alas, Orpheus \(Akira Kosemura Rework\)](https://open.spotify.com/album/2DcQOwM3Ub4XBnNyX76Wvw) | 2:26 | 2021-03-22 | 2022-04-10 |
 | [Alene uden dig](https://open.spotify.com/track/3eMTcFDfBkdUxzRDAb8Krs) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Alene uden dig](https://open.spotify.com/album/5uwhCxqzuBqaaMqg8IcHa6) | 2:37 | 2021-03-11 | 2021-05-26 |
@@ -962,6 +962,7 @@
 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 | 2022-03-29 |  |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-03-29 | 2022-06-18 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-02-15 | 2022-04-21 |
+| [Os ventos do amor](https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Os ventos do amor](https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx) | 2:00 | 2022-11-15 |  |
 | [Otis](https://open.spotify.com/track/2diCZXC0Cjyv4xqByCHkmK) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [True](https://open.spotify.com/album/6U2xxftHI11KUGHckT6LE5) | 2:17 | 2021-03-07 | 2021-05-14 |
 | [Oudewater](https://open.spotify.com/track/6TALCf7YPCllCDhe7f2Vqz) | [Darrell Boxman](https://open.spotify.com/artist/7aAV3VOC8LXfsig7tWf47g) | [Oudewater](https://open.spotify.com/album/2mF29dw6e1JZTS6ziKU4Nn) | 1:42 | 2021-03-11 | 2021-03-15 |
 | [Our Distant Past](https://open.spotify.com/track/3JSaZg0IaJ5OPXzoxu8qNi) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [Our Distant Past](https://open.spotify.com/album/5PswxzPZDA2yjrY28yDkXW) | 2:42 | 2021-03-07 | 2022-04-03 |

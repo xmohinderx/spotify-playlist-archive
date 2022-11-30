@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Rifles](https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [12 Rifles](https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn) | 2:53 | 2022-05-13 |  |
-| [141 \- Versión Banda](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141 \(Versión Banda\)](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-22 |  |
+| [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-22 |  |
 | [30 Tiros](https://open.spotify.com/track/2bRU7HM6NLErB3lfM9BAQI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [30 Tiros](https://open.spotify.com/album/18dH6cfAZmBloSqAGTdFI2) | 2:53 | 2022-06-10 |  |
 | [38 y Súper \- En Vivo](https://open.spotify.com/track/0MrnhZYxvCzHENgMMnl77W) | [Los Asociados](https://open.spotify.com/artist/6ePcjMMU425QOBQC5LmTV1) | [38 y Super \(En Vivo\)](https://open.spotify.com/album/58ifPfpLrmhOXYiofrbVOJ) | 2:23 | 2022-06-10 | 2022-07-23 |
 | [6 Colores](https://open.spotify.com/track/0pKtkEfClNEFZAwPGymF5z) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [6 Colores](https://open.spotify.com/album/01pQdmPM1scnFN27Xgt2jQ) | 2:44 | 2022-06-03 |  |

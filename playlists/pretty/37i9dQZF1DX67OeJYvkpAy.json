@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 79487,
+  "num_followers": 79569,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGZjNzg3NjRjNDY4MGIxYmVkZjFlNjFkZGVhOWNiMDFk",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGE1ZWQ1Y2IwNTRhMzU1ZTIzMTEyNjdhMmEzZjEzNWJl",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -32,7 +32,7 @@
       },
       "artists": [
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         },
         {
@@ -208,7 +208,7 @@
       },
       "artists": [
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
@@ -380,7 +380,7 @@
           "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
         },
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
@@ -396,7 +396,7 @@
       },
       "artists": [
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Frozen Gold",
+        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
+      },
+      "artists": [
+        {
+          "name": "MKAY",
+          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
+        }
+      ],
+      "duration_ms": 138135,
+      "name": "Frozen Gold",
+      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 96086,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Frozen Gold",
-        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
-      },
-      "artists": [
-        {
-          "name": "MKAY",
-          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
-        }
-      ],
-      "duration_ms": 138135,
-      "name": "Frozen Gold",
-      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 97477,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Love & Attention",
         "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
       },
@@ -895,6 +911,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Drunk and Confused 2.0",
         "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
       },
@@ -923,34 +955,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
+        "name": "Hoods Hottest",
+        "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
         }
       ],
-      "duration_ms": 133090,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 97477,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
+      "duration_ms": 187617,
+      "name": "Hoods Hottest",
+      "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -971,58 +987,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
-      },
-      "artists": [
-        {
-          "name": "Noaah",
-          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Hoods Hottest",
-        "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 187617,
-      "name": "Hoods Hottest",
-      "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        },
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 160490,
-      "name": "Venting",
-      "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
       },
@@ -1035,6 +999,22 @@
       "duration_ms": 134234,
       "name": "Again",
       "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
+      },
+      "artists": [
+        {
+          "name": "Noaah",
+          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1055,6 +1035,26 @@
       "duration_ms": 174846,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/1sRe7j48EAAJcr3uHAb6Z5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        },
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 160490,
+      "name": "Venting",
+      "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1127,38 +1127,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
-      },
-      "artists": [
-        {
-          "name": "Anubis",
-          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
       },
@@ -1171,6 +1139,22 @@
       "duration_ms": 168182,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1203,6 +1187,22 @@
       "duration_ms": 180047,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
+      },
+      "artists": [
+        {
+          "name": "Anubis",
+          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Is it too much? (Pray things change)",
-        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
       },
       "artists": [
         {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        },
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
         }
       ],
-      "duration_ms": 171678,
-      "name": "Is it too much? (Pray things change)",
-      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
+      "duration_ms": 161425,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1343,6 +1339,42 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Is it too much? (Pray things change)",
+        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        },
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
+        }
+      ],
+      "duration_ms": 171678,
+      "name": "Is it too much? (Pray things change)",
+      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
+      },
+      "artists": [
+        {
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+        }
+      ],
+      "duration_ms": 191611,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Home For Winter",
         "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
       },
@@ -1375,6 +1407,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 195558,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Suicycle",
         "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
       },
@@ -1387,38 +1435,6 @@
       "duration_ms": 392013,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
-      },
-      "artists": [
-        {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
-        }
-      ],
-      "duration_ms": 161425,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "High On Love",
-        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1439,38 +1455,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
       },
       "artists": [
         {
-          "name": "Otis Lloyid",
-          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
         }
       ],
-      "duration_ms": 191611,
-      "name": "Day and Night",
-      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "One Mic",
-        "url": "https://open.spotify.com/album/0WjAPpOCAJlotirvomOlrS"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        },
-        {
-          "name": "GRM Daily",
-          "url": "https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy"
-        }
-      ],
-      "duration_ms": 121756,
-      "name": "One Mic",
-      "url": "https://open.spotify.com/track/4dNN3iheouRkT2A9WELKpn"
+      "duration_ms": 153089,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1507,34 +1503,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "My Girl (Gemini)",
-        "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
+        "name": "One Mic",
+        "url": "https://open.spotify.com/album/0WjAPpOCAJlotirvomOlrS"
       },
       "artists": [
         {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
-        }
-      ],
-      "duration_ms": 153089,
-      "name": "My Girl (Gemini)",
-      "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Take The Risk",
-        "url": "https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld"
-      },
-      "artists": [
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        },
         {
-          "name": "OB",
-          "url": "https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj"
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy"
         }
       ],
-      "duration_ms": 200888,
-      "name": "Take The Risk",
-      "url": "https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi"
+      "duration_ms": 121756,
+      "name": "One Mic",
+      "url": "https://open.spotify.com/track/4dNN3iheouRkT2A9WELKpn"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1551,6 +1535,22 @@
       "duration_ms": 257142,
       "name": "Circle Of Life",
       "url": "https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld"
+      },
+      "artists": [
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj"
+        }
+      ],
+      "duration_ms": 200888,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "High On Love",
+        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Married To Music",
         "url": "https://open.spotify.com/album/7fbKdr059ApFzZFVgH3Z9v"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 181090,
       "name": "Married To Music",
       "url": "https://open.spotify.com/track/0BzkXAdyJcycv5eij2YzaQ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 195558,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
     },
     {
       "added_at": "2022-08-02 15:42:28",

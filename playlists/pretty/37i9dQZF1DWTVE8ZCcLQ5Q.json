@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421570,
+  "num_followers": 421569,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDNiMWIzNWEwNDgyMmIzYTgyNzkzOTBiNzU3OTczNTY3",
+  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMGNhMDM4MWMzMTg1NGZhYjZiY2Q2ODk0N2E2OTBlN2Vm",
   "tracks": [
     {
       "added_at": "2022-10-14 20:28:37",
@@ -259,18 +259,22 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Assalto Perigoso",
-        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
+        "name": "Formosa",
+        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
       },
       "artists": [
         {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "MC CJ",
+          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
         }
       ],
-      "duration_ms": 155417,
-      "name": "Assalto Perigoso",
-      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
+      "duration_ms": 185831,
+      "name": "Formosa",
+      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -295,22 +299,18 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Formosa",
-        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
+        "name": "Assalto Perigoso",
+        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
       },
       "artists": [
         {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "MC CJ",
-          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
         }
       ],
-      "duration_ms": 185831,
-      "name": "Formosa",
-      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
+      "duration_ms": 155417,
+      "name": "Assalto Perigoso",
+      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Colocando Nela",
-        "url": "https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs"
-      },
-      "artists": [
-        {
-          "name": "MC L da Vinte",
-          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
-        },
-        {
-          "name": "Mc Kaio",
-          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Colocando Nela",
-      "url": "https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "INVEJOSO",
         "url": "https://open.spotify.com/album/255NGGUak0BPXU1ImuceyR"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 300000,
       "name": "INVEJOSO",
       "url": "https://open.spotify.com/track/5YURHESoQKz81fL4IxV7NJ"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Colocando Nela",
+        "url": "https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs"
+      },
+      "artists": [
+        {
+          "name": "MC L da Vinte",
+          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+        },
+        {
+          "name": "Mc Kaio",
+          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Colocando Nela",
+      "url": "https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Meu Amor",
-        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        },
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 146347,
-      "name": "Meu Amor",
-      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "Todo Mundo Ama o Sol",
         "url": "https://open.spotify.com/album/2NgVCkUvypsuwrxloKor6X"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 162000,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0behTwZwYY2BR47eX3GjCq"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "duration_ms": 146347,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "Me liga",
+        "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Erick Di",
+          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Me liga",
+      "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ"
       },
@@ -1207,30 +1231,6 @@
       "duration_ms": 135285,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "Me liga",
-        "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        },
-        {
-          "name": "Erick Di",
-          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Me liga",
-      "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
     },
     {
       "added_at": "2022-10-14 20:28:37",

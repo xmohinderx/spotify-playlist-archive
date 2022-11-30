@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Nie; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,276 likes - 101 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,295 likes - 101 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 86 | [Anh Yêu Em Cực](https://open.spotify.com/track/2QJR9Bbk7bEUGNhKzapLnl) | [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq), [Minh Vũ](https://open.spotify.com/artist/42070xcFbkPmMRLZLIE8VM) | [Anh Yêu Em Cực](https://open.spotify.com/album/0A13TlqyjyjyeUExxKH0Tn) | 2:26 |
 | 87 | [Mờ Phai](https://open.spotify.com/track/3R88vu0fqoQZnbmQvvpCiN) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Mờ Phai](https://open.spotify.com/album/5NDbjgiuywTUC1KwApFLsD) | 3:35 |
 | 88 | [Wassup \(bài ca đi giải\)](https://open.spotify.com/track/6OOAxdE1EK0aeH5GSdmwqT) | [Teddie J](https://open.spotify.com/artist/28HCjedSLF6QeSE4nzAfW5) | [Wassup \(bài ca đi giải\)](https://open.spotify.com/album/4E8kqv9kXmLhHzxoHfTYtR) | 3:46 |
-| 89 | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/track/27GEOac98FsLBpUNbuElqu) | [Côngg](https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf), [Flo](https://open.spotify.com/artist/5g7lYuYodpAnCItem79gWo), [Tấn Đạt](https://open.spotify.com/artist/282BXAqmQC17lPo9AQ3C0B) | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/album/69vYaI221x74ysstUMm0dO) | 3:53 |
+| 89 | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/track/1ArkXoiYog9UMUCMUbQwDo) | [Côngg](https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf), [Flo](https://open.spotify.com/artist/5g7lYuYodpAnCItem79gWo), [Tấn Đạt](https://open.spotify.com/artist/282BXAqmQC17lPo9AQ3C0B) | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/album/7sHTRBgcfHqF6AsWWoMSAB) | 3:53 |
 | 90 | [Yêu Ời](https://open.spotify.com/track/5Lt2sDzq2KPk3lfzJQvZBO) | [Duniverse](https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ) | [Yêu Ời](https://open.spotify.com/album/58NbKbzKVp1P13fQkEtWbp) | 2:46 |
 | 91 | [Tiếng Hát Chim Đa Đa](https://open.spotify.com/track/1d96vfXcVDDrYHJyW3jOzo) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj), [Triển](https://open.spotify.com/artist/66wj7fUCCYQi39retHlLmC) | [Tiếng Hát Chim Đa Đa](https://open.spotify.com/album/3bObGhGE3gF3pgmbAOPhYK) | 3:32 |
 | 92 | [Đến Bên Anh Được Không](https://open.spotify.com/track/7zRHS0s4rfu9xsSnSl1XWw) | [Oliu](https://open.spotify.com/artist/5bQKHU2peXIxfcBa1LVdS1), [B4OK](https://open.spotify.com/artist/5TexKi2w4DnGsRxBgytISX) | [Đến Bên Anh Được Không](https://open.spotify.com/album/49U71HS8LJdlDsWFNwPPBy) | 3:06 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 100 | [HIPPU](https://open.spotify.com/track/0s4Cbhk9kKpfrVu2jzuSzc) | [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS) | [HIPPU](https://open.spotify.com/album/4fbjOAlWJmdQKPcPZ24KOL) | 2:10 |
 | 101 | [Lần Sau Cuối](https://open.spotify.com/track/4pg2H704hhVrEpl2JRmDlF) | [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT) | [Lần Sau Cuối](https://open.spotify.com/album/20smZ2hpuyTEiJr6wZm0jz) | 3:54 |
 
-Snapshot ID: `MTY2ODk1Mjg2MywwMDAwMDAwMDlkN2Q5Y2E3MjEyNjE3ZWU1Y2U3Zjk2NDllNjNmZTQ2`
+Snapshot ID: `MTY2ODk1Mjg2MywwMDAwMDAwMGUxZjYyYjZmN2Q2MzA1MzIyMTMwOWM3Y2NmZmM4ZmEw`

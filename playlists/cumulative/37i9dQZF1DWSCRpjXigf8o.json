@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 220466,
       "name": "Close to you",
       "url": "https://open.spotify.com/track/02QcM5pBEymkl6gXb4RHex"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 182844,
       "name": "hayley.",
       "url": "https://open.spotify.com/track/6yP9ZYK6fNkFVv20nS2jAj"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
@@ -1731,6 +1731,24 @@
       "duration_ms": 195652,
       "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
+    },
+    {
+      "album": {
+        "name": "\u5098",
+        "url": "https://open.spotify.com/album/100ElNipKedqL4iTrDFMrx"
+      },
+      "artists": [
+        {
+          "name": "Beautiful Hummingbird",
+          "url": "https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183386,
+      "name": "\u5098",
+      "url": "https://open.spotify.com/track/20vsE9x63o1JUlMbU2qZ3O"
     },
     {
       "album": {

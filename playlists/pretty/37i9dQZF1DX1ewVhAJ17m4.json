@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 534220,
+  "num_followers": 534392,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGNiODViNThmZjMxZTQ3MTZhODNkMjAwNGUyMDRmYWVl",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGE4NjkzMGE1MmE5ZWY1NjVkNjJhNTFkMTY1MTk4Yjg4",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -159,26 +159,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "MY FAVORITE NIGHTMARES",
-        "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 124191,
-      "name": "SIDEWAYS (with Travis Barker)",
-      "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Hey Ben",
         "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
@@ -199,18 +179,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "HOLY FVCK",
-        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
+        "name": "MY FAVORITE NIGHTMARES",
+        "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 171678,
-      "name": "CITY OF ANGELS",
-      "url": "https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9"
+      "duration_ms": 124191,
+      "name": "SIDEWAYS (with Travis Barker)",
+      "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -227,6 +211,22 @@
       "duration_ms": 164533,
       "name": "hurricane",
       "url": "https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "HOLY FVCK",
+        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 171678,
+      "name": "CITY OF ANGELS",
+      "url": "https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Get A Job",
-      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Get A Job",
+      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 195688,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Baku's Revenge",
         "url": "https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 180175,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/0ris8ZOev93elZLB0au38j"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 195688,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "duration_ms": 162166,
+      "name": "Deadbeat",
+      "url": "https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Cavalier",
         "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 185070,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Armageddon",
-        "url": "https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 162166,
-      "name": "Deadbeat",
-      "url": "https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/5roYKXhHbcu9zFQrsAbQgp"
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 165682,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
+      "duration_ms": 159157,
+      "name": "Every Guy Ever",
+      "url": "https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1023,34 +1023,34 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Love and Other Lies",
-        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/5roYKXhHbcu9zFQrsAbQgp"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
         }
       ],
-      "duration_ms": 159157,
-      "name": "Every Guy Ever",
-      "url": "https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc"
+      "duration_ms": 165682,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
     },
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Birthright",
-        "url": "https://open.spotify.com/album/5f45gB0MYo3vfKWXotr8xZ"
+        "name": "SiCK ABOuT U",
+        "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
       },
       "artists": [
         {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+          "name": "TITUS",
+          "url": "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
         }
       ],
-      "duration_ms": 185371,
-      "name": "Birthright",
-      "url": "https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri"
+      "duration_ms": 188387,
+      "name": "SiCK ABOuT U",
+      "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "SiCK ABOuT U",
-        "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
+        "name": "Birthright",
+        "url": "https://open.spotify.com/album/5f45gB0MYo3vfKWXotr8xZ"
       },
       "artists": [
         {
-          "name": "TITUS",
-          "url": "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
         }
       ],
-      "duration_ms": 188387,
-      "name": "SiCK ABOuT U",
-      "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
+      "duration_ms": 185371,
+      "name": "Birthright",
+      "url": "https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Best Kept Secret",
-        "url": "https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 148753,
-      "name": "Best Kept Secret",
-      "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 186000,
       "name": "Your Love Was My Drug Too",
       "url": "https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Best Kept Secret",
+        "url": "https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 148753,
+      "name": "Best Kept Secret",
+      "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz"
+      },
+      "artists": [
+        {
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
+        },
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Sunsign",
         "url": "https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 163285,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6kUqtwGftq5d2kzlH3Eh9t"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz"
-      },
-      "artists": [
-        {
-          "name": "Crooked Teeth",
-          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
-        },
-        {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "u look stupid",
-        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
+        "name": "1-800-IDONTKNOWYOUANYMORE",
+        "url": "https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Chad Tepper",
+          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
         }
       ],
-      "duration_ms": 148897,
-      "name": "u look stupid",
-      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
+      "duration_ms": 171112,
+      "name": "1-800-IDONTKNOWYOUANYMORE",
+      "url": "https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0"
     },
     {
       "added_at": "2022-11-10 17:53:01",

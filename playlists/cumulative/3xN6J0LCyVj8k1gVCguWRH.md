@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,843 songs - 4 day 10 hr 29 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,844 songs - 4 day 10 hr 32 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -986,6 +986,7 @@
 | [Love Is](https://open.spotify.com/track/2gbFJKjFKs5cr6FYBmBTqD) | [Dani Vasser](https://open.spotify.com/artist/1EVDlfj99Jj6xBidrxVVPw) | [Love Is](https://open.spotify.com/album/0zRAbhGyxjR6W4lMkoNEVJ) | 4:36 | 2021-12-17 | 2022-01-01 |
 | [Love is Real](https://open.spotify.com/track/6WC83V4dHNClxIUiFCqvDU) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR) | [Love is Real](https://open.spotify.com/album/1Ra6VCYeWDrZ8F8TjfrDFd) | 3:51 | 2020-06-22 | 2020-07-13 |
 | [Love Is The King](https://open.spotify.com/track/46ewtMKwdS4EUNm5YsGwjD) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/3cuftKYEWJF8MT8sqAv6ov) | 4:46 | 2020-12-20 | 2021-11-19 |
+| [Love Language](https://open.spotify.com/track/4LDN18h3DAM6No5FeFzC7c) | [T.R.3](https://open.spotify.com/artist/2rDKWkji4MbBLBUe2hjANJ) | [Love Language](https://open.spotify.com/album/7qiZSUt0h2QPa8rXbKMXMi) | 3:08 | 2022-11-29 |  |
 | [Love Letter](https://open.spotify.com/track/5oER1vGKFQtIVkxzwX5EuL) | [Ainsley Costello](https://open.spotify.com/artist/3bUYu6ZgtImljj9FBrnTmF) | [Love Letter](https://open.spotify.com/album/0ywVfoCaF1jyU5UVzKm4kr) | 4:46 | 2021-08-18 | 2021-09-03 |
 | [Love Lies](https://open.spotify.com/track/20F8eXnmrzsAXaHENSHJRR) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [NOW That's What I Call Music, Vol\. 66](https://open.spotify.com/album/74ywDS5zIhhyMd5MWyjTk0) | 3:18 | 2021-08-28 | 2021-09-11 |
 | [Love Me](https://open.spotify.com/track/0IXUWH8jL2vpFRvTkVeWCW) | [Jack Sleiman](https://open.spotify.com/artist/4eewS27bMIhWcXGukOdXAj), [MiMS](https://open.spotify.com/artist/76RrKpsvOmSKG8CIjROdSG), [Felly](https://open.spotify.com/artist/5PvXSHrO1GatqTe6GuBIBp), [Em.ILY](https://open.spotify.com/artist/2EvSEoin8Qz95gGetwGx0c) | [Love Me](https://open.spotify.com/album/0I3rfdNMO2HkWMKFKcuHBT) | 2:38 | 2020-11-20 | 2020-12-05 |

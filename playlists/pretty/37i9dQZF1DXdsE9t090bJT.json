@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 18538,
+  "num_followers": 18592,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGZkOTc1MGI5ZGQ4MDcyOGUwYzIwN2JhOTgxNWFiZjkw",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDExODNmZmFkZTExMTZhYzdlYzc1ZmM2NWJlYjE0N2Fl",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -471,18 +471,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+        "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
+        "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
+      "duration_ms": 228461,
+      "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
+      "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -503,22 +507,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
-        "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 228461,
-      "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
-      "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para Mi\u0301",
-      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 205386,
       "name": "Qu\u00e9 Bueno Es Tenerte",
       "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Te Quiero para Mi\u0301",
+      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Permiteme",
-        "url": "https://open.spotify.com/album/6eEHUx9vmWQuZnUOfnm72D"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 186118,
-      "name": "Permiteme",
-      "url": "https://open.spotify.com/track/3GWCtaYw4KnDv7VRl5ywRJ"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Si Quieres",
         "url": "https://open.spotify.com/album/7oX2OUdZkT1pOgOj7pfFRe"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 273386,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/7CWdtbKVwXWgWeWGzZiprW"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Permiteme",
+        "url": "https://open.spotify.com/album/6eEHUx9vmWQuZnUOfnm72D"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 186118,
+      "name": "Permiteme",
+      "url": "https://open.spotify.com/track/3GWCtaYw4KnDv7VRl5ywRJ"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1563,18 +1563,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "El 7 De La Suerte",
-        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
+        "name": "En Vivo Desde El Rancho San Vicente",
+        "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 179749,
-      "name": "Una Palabra",
-      "url": "https://open.spotify.com/track/4QTQxPlV59ZEYJZad66d4X"
+      "duration_ms": 225666,
+      "name": "Me Gustas - Live",
+      "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1595,22 +1599,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "En Vivo Desde El Rancho San Vicente",
-        "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
+        "name": "El 7 De La Suerte",
+        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
       },
       "artists": [
         {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Me Gustas - Live",
-      "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
+      "duration_ms": 179749,
+      "name": "Una Palabra",
+      "url": "https://open.spotify.com/track/4QTQxPlV59ZEYJZad66d4X"
     },
     {
       "added_at": "2022-02-11 20:24:54",

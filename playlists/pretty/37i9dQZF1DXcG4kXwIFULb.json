@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 98460,
+  "num_followers": 98541,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDJjZWUwZmYyMTE0MzZiMDIwM2FiNTlmMmE3ZGYyMGFm",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDcxZjVkZTY4NzIwMGVlYWE4MmJkM2FmMjdmZjhlMWJl",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "A Calf Born in Winter",
         "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 209024,
       "name": "A Calf Born in Winter",
       "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Let's Get Killed",
-        "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
-      },
-      "artists": [
-        {
-          "name": "David Holmes",
-          "url": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
-        }
-      ],
-      "duration_ms": 384226,
-      "name": "Rodney Yates",
-      "url": "https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Love Pussycats & Carwrecks",
         "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 290840,
       "name": "Purrfect",
       "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Let's Get Killed",
+        "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
+      },
+      "artists": [
+        {
+          "name": "David Holmes",
+          "url": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+        }
+      ],
+      "duration_ms": 384226,
+      "name": "Rodney Yates",
+      "url": "https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/71wCH1CJ7wh3kmPC3cQH71"
-      },
-      "artists": [
-        {
-          "name": "H\u00c6LOS",
-          "url": "https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs"
-        }
-      ],
-      "duration_ms": 278144,
-      "name": "DUST",
-      "url": "https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Mickey Mouse Operation",
         "url": "https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 227866,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/71wCH1CJ7wh3kmPC3cQH71"
+      },
+      "artists": [
+        {
+          "name": "H\u00c6LOS",
+          "url": "https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs"
+        }
+      ],
+      "duration_ms": 278144,
+      "name": "DUST",
+      "url": "https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Audience's Listening (U.S. Version)",
         "url": "https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 419426,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Satta",
+        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 379360,
+      "name": "Night over Manaus",
+      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Versus",
         "url": "https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX"
       },
@@ -1479,6 +1495,22 @@
       "duration_ms": 252933,
       "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
       "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 325583,
+      "name": "Emkay",
+      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1499,22 +1531,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Satta",
-        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 379360,
-      "name": "Night over Manaus",
-      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Cosmic Game",
         "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 139226,
       "name": "The Cosmic Game",
       "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 325583,
-      "name": "Emkay",
-      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "C\u00e9U",
-        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 174653,
-      "name": "Malemol\u00eancia",
-      "url": "https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H"
+      "duration_ms": 292106,
+      "name": "Recurring",
+      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+        "name": "C\u00e9U",
+        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 292106,
-      "name": "Recurring",
-      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
+      "duration_ms": 174653,
+      "name": "Malemol\u00eancia",
+      "url": "https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H"
     },
     {
       "added_at": "2020-09-04 01:12:56",

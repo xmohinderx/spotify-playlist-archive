@@ -4,7 +4,7 @@
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-31 songs - 1 hr 49 min - not published yet
+32 songs - 1 hr 54 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Confession](https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Cheer Up \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7quVqU9K0eqi8P7214gFIy) | 4:39 | 2022-10-11 |  |
 | [Consolation](https://open.spotify.com/track/6uYBDTTolezL3ne2HsXDm0) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0EfkBr9UoX191Mv24RuesI) | 3:16 | 2022-10-04 |  |
 | [Covet](https://open.spotify.com/track/24oO33bOjYhSGgpMDgodGo) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Covet](https://open.spotify.com/album/69cA7TzM56Q87ph6AZ9AL4) | 2:58 | 2022-10-04 |  |
+| [Deneb](https://open.spotify.com/track/7apKcB7zICUb87xSryhrQh) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.8\)](https://open.spotify.com/album/6gnHVF0GgZVXg14At7CPYW) | 5:03 | 2022-11-29 |  |
 | [Enjoy This Moment](https://open.spotify.com/track/4KypfbPEKRtgZz7omZgcwT) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Cheer Up \(Original Soundtrack Part.4\)](https://open.spotify.com/album/158L4bgweqW5INvRXD9BpH) | 3:04 | 2022-10-28 |  |
 | [Eurachacha](https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Have A Nice Dream](https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47) | 4:16 | 2022-10-04 |  |
 | [Every Second](https://open.spotify.com/track/6dquCx5KAW5jCgGgoTlghL) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Every Second](https://open.spotify.com/album/4VLxnKcNSnVyxw4ByPzQVs) | 3:02 | 2022-10-04 |  |

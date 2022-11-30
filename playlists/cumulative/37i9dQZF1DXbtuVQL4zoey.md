@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-445 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+446 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Calypso](https://open.spotify.com/track/2XUJwfew9Dym5GGJx9iz3J) | [Sloepoke](https://open.spotify.com/artist/4PA0B5xujSlQnGiTiAPb1E) | [Calypso](https://open.spotify.com/album/45VHt2dPa3uWf9GNtMqM3l) | 2:03 | 2022-10-28 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-05-20 | 2022-09-03 |
 | [Can We Just Vibe?](https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Can We Just Vibe?](https://open.spotify.com/album/5WsSwxseHP6HV4DVWl0CVn) | 2:44 | 2022-05-20 |  |
-| [candy](https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [candy](https://open.spotify.com/album/04CTvp4lpryXBremwXAnKt) | 1:25 | 2022-06-17 |  |
+| [candy](https://open.spotify.com/track/7DAlxFXwgtXy7gaLWNOEII) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [Ovrhaul](https://open.spotify.com/album/570JUS87mJeLPVsa5sQq8k) | 1:25 | 2022-11-25 |  |
+| [candy](https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [candy](https://open.spotify.com/album/04CTvp4lpryXBremwXAnKt) | 1:25 | 2022-06-17 | 2022-11-30 |
 | [Caribbean Latte](https://open.spotify.com/track/5X9jS1tU1Hv2yPh4dGC1HH) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Caribbean Latte](https://open.spotify.com/album/1C1yDFumSDLh71qZzyxtac) | 2:18 | 2022-08-12 |  |
 | [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 | 2022-05-20 |  |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2022-05-20 |  |

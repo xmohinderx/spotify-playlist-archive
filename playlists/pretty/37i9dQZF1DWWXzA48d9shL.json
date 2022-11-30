@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: Freddie Dredd",
-  "num_followers": 370131,
+  "num_followers": 371093,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjUyMCwwMDAwMDAwMDc4MzE4OGIzNDc4NTNjZDMyNWU2ZmZkNDI5ZThiMDQ0",
+  "snapshot_id": "MTY2OTc1NjAzNywwMDAwMDAwMDNjMDVkNmY2YzdhYjZmZmVlMzYyMWFiMTk1NzM2ZDAy",
   "tracks": [
     {
       "added_at": "2022-11-09 14:43:01",
@@ -61,6 +61,38 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "GODZILLA!",
+        "url": "https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB"
+      },
+      "artists": [
+        {
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "GODZILLA!",
+      "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "Antarctica",
+        "url": "https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 126850,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
+    },
+    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Eye Spy",
@@ -97,38 +129,6 @@
       "url": "https://open.spotify.com/track/3Qw7LPrzt23bdQXMsguiyb"
     },
     {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Antarctica",
-        "url": "https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 126850,
-      "name": "Antarctica",
-      "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "GODZILLA!",
-        "url": "https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB"
-      },
-      "artists": [
-        {
-          "name": "Sxmpra",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "GODZILLA!",
-      "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
-    },
-    {
       "added_at": "2022-10-14 04:47:00",
       "album": {
         "name": "from hell, with love",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/1atUX5yDsZpz82R6B55UEP"
     },
     {
+      "added_at": "2022-11-29 21:07:17",
+      "album": {
+        "name": "Side Effects EP",
+        "url": "https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx"
+      },
+      "artists": [
+        {
+          "name": "Chris Travis",
+          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
+        }
+      ],
+      "duration_ms": 206124,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Homesick",
@@ -159,22 +175,6 @@
       "duration_ms": 141508,
       "name": "Shut It",
       "url": "https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM"
-    },
-    {
-      "added_at": "2022-11-25 05:02:00",
-      "album": {
-        "name": "RECOIL",
-        "url": "https://open.spotify.com/album/1PjLCf12OUSWlaoBqu8Q9b"
-      },
-      "artists": [
-        {
-          "name": "Lord Gasp",
-          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
-        }
-      ],
-      "duration_ms": 110545,
-      "name": "RECOIL",
-      "url": "https://open.spotify.com/track/6AgK45AXMss9tvgBaLwFxB"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -257,6 +257,22 @@
       "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
     },
     {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "RECOIL",
+        "url": "https://open.spotify.com/album/1PjLCf12OUSWlaoBqu8Q9b"
+      },
+      "artists": [
+        {
+          "name": "Lord Gasp",
+          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
+        }
+      ],
+      "duration_ms": 110545,
+      "name": "RECOIL",
+      "url": "https://open.spotify.com/track/6AgK45AXMss9tvgBaLwFxB"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "BREAKDOWN!",
@@ -327,6 +343,26 @@
       "duration_ms": 178520,
       "name": "deadman (feat. Lil Toe)",
       "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -445,26 +481,6 @@
       "url": "https://open.spotify.com/track/3kZAm2TC74lBJFPDoV40Qc"
     },
     {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Sxmpra",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
       "added_at": "2022-10-07 04:04:00",
       "album": {
         "name": "Hope You're Proud",
@@ -499,30 +515,6 @@
       "duration_ms": 120882,
       "name": "HEADF1RST",
       "url": "https://open.spotify.com/track/0fLfkuOaS2oVukMM92ksLz"
-    },
-    {
-      "added_at": "2022-09-26 21:16:01",
-      "album": {
-        "name": "FMZ",
-        "url": "https://open.spotify.com/album/49fyTqDk38lgABCzMRNahd"
-      },
-      "artists": [
-        {
-          "name": "All But 6",
-          "url": "https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US"
-        },
-        {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
-        },
-        {
-          "name": "Mikey The Magician",
-          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
-        }
-      ],
-      "duration_ms": 156756,
-      "name": "FMZ",
-      "url": "https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5"
     },
     {
       "added_at": "2022-09-30 16:12:10",

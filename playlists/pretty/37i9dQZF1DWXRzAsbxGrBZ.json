@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 3214,
+  "num_followers": 3250,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDc3MjUwZDcyOGM5MWYwNTc4ODRkNTA2ZjRjYzY1MDMz",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMGU1ODZlMWI3YmY4YmI2MWYzNjFhYWY5NTlhODFlNzM4",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -125,26 +125,6 @@
       "url": "https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU"
-      },
-      "artists": [
-        {
-          "name": "Sir Trill",
-          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
-        },
-        {
-          "name": "Disciples of House",
-          "url": "https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Sweet Nothings",
@@ -167,6 +147,26 @@
       "duration_ms": 273684,
       "name": "Sweet Nothings - Original Mix",
       "url": "https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/313EDRpLgogSMuJGQ9pYBU"
+      },
+      "artists": [
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Disciples of House",
+          "url": "https://open.spotify.com/artist/5epbvywtTZIsu7TLTRUgZr"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 387494,
       "name": "To The World",
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
-      },
-      "artists": [
-        {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
-        }
-      ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -889,20 +889,24 @@
       "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
+      "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
+        "name": "Ndoyiswe",
+        "url": "https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq"
       },
       "artists": [
         {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        },
+        {
+          "name": "Bamtho Imbongi",
+          "url": "https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX"
         }
       ],
-      "duration_ms": 392431,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
+      "duration_ms": 325593,
+      "name": "Ndoyiswe",
+      "url": "https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -937,24 +941,20 @@
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Ndoyiswe",
-        "url": "https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
       },
       "artists": [
         {
-          "name": "Hypaphonik",
-          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
-        },
-        {
-          "name": "Bamtho Imbongi",
-          "url": "https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX"
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
         }
       ],
-      "duration_ms": 325593,
-      "name": "Ndoyiswe",
-      "url": "https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w"
+      "duration_ms": 392431,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
     },
     {
       "added_at": "2022-09-14 09:57:38",

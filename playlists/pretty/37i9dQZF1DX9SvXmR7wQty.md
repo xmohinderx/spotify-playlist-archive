@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Jay Scøtt
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,569 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,564 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 7 | [Okay Alright](https://open.spotify.com/track/2GArWv8wnjIqa4qPoklWYp) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Okay Alright](https://open.spotify.com/album/3twW1Nt9efy1w1S0ukT1lL) | 3:00 |
 | 8 | [C’est l'amour](https://open.spotify.com/track/7rN6ZfNI2NLO4rDIXU4Gey) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [C'est l'amour](https://open.spotify.com/album/7c3GhsG5ByopG3M8ZlGanx) | 3:23 |
 | 9 | [Triomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 |
-| 10 | [Les murs](https://open.spotify.com/track/56cfcyfAcQJEUvKHOwjXuZ) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Les murs](https://open.spotify.com/album/6HW17MhlbFPAExlsGgW70n) | 3:41 |
+| 10 | [Les murs](https://open.spotify.com/track/56cfcyfAcQJEUvKHOwjXuZ) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Les murs](https://open.spotify.com/album/6HW17MhlbFPAExlsGgW70n) | 3:40 |
 | 11 | [Les vers de terre](https://open.spotify.com/track/5R62T4nTWumtExeZWzl04d) | [Jean\-François Pauzé](https://open.spotify.com/artist/05vqC1aLoKQqzKf7u5JYB1), [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd) | [En concert avec l'Orchestre symphonique de Montréal \(Sous la direction du chef Simon Leclerc\)](https://open.spotify.com/album/0Mpkof9L7BbYbOjQ1dTmM2) | 4:15 |
 | 12 | [Hold it down](https://open.spotify.com/track/31CvdrRgCvWY3QpgJW7h9F) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Hold it down](https://open.spotify.com/album/1W30EfvKo5lbKhBcsooDD8) | 3:04 |
 | 13 | [Un autre hiver](https://open.spotify.com/track/6eLjr4UAIHYZvhBgjPlZ3L) | [Vice du Nord](https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm) | [Un autre hiver](https://open.spotify.com/album/146JbylMbF5nxNfrbWMVwu) | 3:21 |

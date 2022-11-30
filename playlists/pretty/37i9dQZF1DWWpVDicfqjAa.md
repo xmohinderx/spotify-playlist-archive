@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,581 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,619 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 14 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 |
 | 15 | [Bad Bitch](https://open.spotify.com/track/1QPb3sFVfZlcrSHp9skszO) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Chynna](https://open.spotify.com/artist/41TSOINjztNAFtwuGenWVA) | [Late Checkout](https://open.spotify.com/album/7EKYXT614EhSh5jLDUdFAj) | 4:48 |
 | 16 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 |
-| 17 | [Temperature \(DJ ReMix\) \(As Made Famous by Sean Paul\)](https://open.spotify.com/track/5dmLs1hlebFHb4QnUUqeJC) | [DJ Remix Factory](https://open.spotify.com/artist/0TvkwyCGv8xIaJ9bP8SL0i) | [100 Pop Hits Remixed!](https://open.spotify.com/album/53NqvHW1F3dBmx3vHSdLk0) | 3:31 |
+| 17 | [Temperature \(Workout Mix\)](https://open.spotify.com/track/7vJ52BTjE4m8F0Jk0joptq) | [Workout Buddy](https://open.spotify.com/artist/7JfutRemdlJGyQsIZ7wWQ9) | [50 Hip Hop Superhits! Workout Mix](https://open.spotify.com/album/14Ckwtc0cHcqgO9c0lKvfy) | 3:31 |
 | 18 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 |
 | 19 | [Khang Kholo](https://open.spotify.com/track/3vzO5kLfPDAW8fZKVU4wBx) | [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b) | [Khang Kholo](https://open.spotify.com/album/7kgrcCgrZHi6t9KlUFvqCM) | 7:00 |
 | 20 | [WHATSYAPRICE](https://open.spotify.com/track/2Teto87r6IkOsoFfIGsDVv) | [Ctrlgang](https://open.spotify.com/artist/4bMX90q14BwLcwOZPe9hZV) | [WHATSYAPRICE](https://open.spotify.com/album/2dYjGW4qHpx8D99JTbxiqX) | 1:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 74 | [Wild Youngster](https://open.spotify.com/track/7HuxkewJ7OwjUF70rklnBf) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Wild Youngster](https://open.spotify.com/album/39aavnu7FUfrhrUznSTYN6) | 3:26 |
 | 75 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 
-Snapshot ID: `MTY2ODg4ODc5MCwwMDAwMDAwMDg1ZDc5ZWIxYzE3OGU5ODAyYmJlZDkwZTgzMTViOTdh`
+Snapshot ID: `MTY2ODg4ODc5MCwwMDAwMDAwMDM5ZWI5OGY1MGFhZTVjYmU4NmY4YzU1MWNkNDJlNzE4`

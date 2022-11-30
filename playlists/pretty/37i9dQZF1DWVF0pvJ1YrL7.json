@@ -1,12 +1,12 @@
 {
   "description": "Welcome, you belong here.",
-  "num_followers": 7870,
+  "num_followers": 7945,
   "original_name": "Virtual Reality",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwMTQ5NCwwMDAwMDAwMDc4N2NiNzc4YzU1ZWNhMmNhYTRkYmFhN2JjMDZjMzk2",
+  "snapshot_id": "MTY2NjgwMTQ5NCwwMDAwMDAwMDkzZjg3OTlhNzY5ZTIxOWRhMDM1NmEyMWMwNDJhOThj",
   "tracks": [
     {
       "added_at": "2021-10-06 02:11:31",
@@ -93,22 +93,6 @@
       "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
     },
     {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Love In The Time Of Lexapro",
-        "url": "https://open.spotify.com/album/6LLrxzLTVeD4BXtie45q21"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 246129,
-      "name": "Love In The Time Of Lexapro",
-      "url": "https://open.spotify.com/track/16KyaozBg8WxDTmawnSuCm"
-    },
-    {
       "added_at": "2022-03-28 22:46:54",
       "album": {
         "name": "Blood Moon",
@@ -131,6 +115,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Love In The Time Of Lexapro",
+        "url": "https://open.spotify.com/album/6LLrxzLTVeD4BXtie45q21"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 246129,
+      "name": "Love In The Time Of Lexapro",
+      "url": "https://open.spotify.com/track/16KyaozBg8WxDTmawnSuCm"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
       },
@@ -143,6 +143,22 @@
       "duration_ms": 282680,
       "name": "Barcarolle",
       "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Kiri Variations",
+        "url": "https://open.spotify.com/album/1Lxt0yVY6jysEV2vQstMy4"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 150423,
+      "name": "Primary Pluck",
+      "url": "https://open.spotify.com/track/2c9LXFKHMuOCY7hHvmzRpI"
     },
     {
       "added_at": "2022-09-21 02:30:23",
@@ -179,22 +195,6 @@
       "duration_ms": 177024,
       "name": "Interdimensional Chocobo",
       "url": "https://open.spotify.com/track/53gyk1hW2ecJWXoy2WpvsQ"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Kiri Variations",
-        "url": "https://open.spotify.com/album/1Lxt0yVY6jysEV2vQstMy4"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 150423,
-      "name": "Primary Pluck",
-      "url": "https://open.spotify.com/track/2c9LXFKHMuOCY7hHvmzRpI"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc"
-      },
-      "artists": [
-        {
-          "name": "Hotel Silk",
-          "url": "https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd"
-        }
-      ],
-      "duration_ms": 431196,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Fear in a Handful of Dust",
         "url": "https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 216892,
       "name": "On a Hilltop Sat the Moon",
       "url": "https://open.spotify.com/track/5oE9k6fuMgWqpGltV7zfsc"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc"
+      },
+      "artists": [
+        {
+          "name": "Hotel Silk",
+          "url": "https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd"
+        }
+      ],
+      "duration_ms": 431196,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2"
     },
     {
       "added_at": "2022-04-07 04:03:47",
@@ -393,7 +393,23 @@
       "url": "https://open.spotify.com/track/7EIMEIJRjWJpYmJCd5pwuN"
     },
     {
-      "added_at": "2022-11-29 01:05:34",
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Selectors 002 - Young Marco",
+        "url": "https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6"
+      },
+      "artists": [
+        {
+          "name": "Wolf M\u00fcller",
+          "url": "https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D"
+        }
+      ],
+      "duration_ms": 367077,
+      "name": "Pfad des Windes",
+      "url": "https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9"
+    },
+    {
+      "added_at": "2022-11-30 01:05:51",
       "album": {
         "name": "Ghost (Injury Reserve Remix)",
         "url": "https://open.spotify.com/album/0xJBPKaQY7ub1D47mwKKoF"
@@ -413,20 +429,20 @@
       "url": "https://open.spotify.com/track/70yuojSWr9kRf2Hzr2l8ay"
     },
     {
-      "added_at": "2021-10-06 02:11:31",
+      "added_at": "2022-03-30 04:41:13",
       "album": {
-        "name": "Selectors 002 - Young Marco",
-        "url": "https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6"
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
       },
       "artists": [
         {
-          "name": "Wolf M\u00fcller",
-          "url": "https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D"
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
         }
       ],
-      "duration_ms": 367077,
-      "name": "Pfad des Windes",
-      "url": "https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9"
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -443,22 +459,6 @@
       "duration_ms": 363380,
       "name": "Vaporware 05",
       "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
-    },
-    {
-      "added_at": "2022-03-30 04:41:13",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/1RVY7CvOIuaG7tFYijBNXC"
+      },
+      "artists": [
+        {
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+        }
+      ],
+      "duration_ms": 255747,
+      "name": "Eden Transit",
+      "url": "https://open.spotify.com/track/7CNeYkheBTAV09CXUTNweh"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "Hotel Hastings (Music by Alejandro Morse for a Book by Eduardo Padilla)",
         "url": "https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 235921,
       "name": "Back to Hastings",
       "url": "https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "FIGURE BESIDE ME",
-        "url": "https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB"
-      },
-      "artists": [
-        {
-          "name": "Object Blue",
-          "url": "https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7"
-        }
-      ],
-      "duration_ms": 400373,
-      "name": "ECSTASY OF ST. TERESA",
-      "url": "https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -659,18 +659,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/1RVY7CvOIuaG7tFYijBNXC"
+        "name": "FIGURE BESIDE ME",
+        "url": "https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB"
       },
       "artists": [
         {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+          "name": "Object Blue",
+          "url": "https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7"
         }
       ],
-      "duration_ms": 255747,
-      "name": "Eden Transit",
-      "url": "https://open.spotify.com/track/7CNeYkheBTAV09CXUTNweh"
+      "duration_ms": 400373,
+      "name": "ECSTASY OF ST. TERESA",
+      "url": "https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Urban Myth",
+        "url": "https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt"
+      },
+      "artists": [
+        {
+          "name": "Iglew",
+          "url": "https://open.spotify.com/artist/7losew6I5eFiELv8kHRk1x"
+        }
+      ],
+      "duration_ms": 253708,
+      "name": "Urban Myth",
+      "url": "https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "Endless Cultural Turnover",
         "url": "https://open.spotify.com/album/0a48M30GOcdvdahpt6F12I"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 535727,
       "name": "Endless Cultural Turnover",
       "url": "https://open.spotify.com/track/4RKKTLBcZl5RZ5hytEu9EK"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Urban Myth",
-        "url": "https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt"
-      },
-      "artists": [
-        {
-          "name": "Iglew",
-          "url": "https://open.spotify.com/artist/7losew6I5eFiELv8kHRk1x"
-        }
-      ],
-      "duration_ms": 253708,
-      "name": "Urban Myth",
-      "url": "https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Especies Afines",
-        "url": "https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g"
-      },
-      "artists": [
-        {
-          "name": "Quixosis",
-          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Brainfeeder X",
-        "url": "https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4"
+        "name": "Especies Afines",
+        "url": "https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g"
       },
       "artists": [
         {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+          "name": "Quixosis",
+          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
         }
       ],
-      "duration_ms": 335205,
-      "name": "Squaz",
-      "url": "https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ"
+      "duration_ms": 348000,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3"
     },
     {
       "added_at": "2022-04-09 04:37:22",
@@ -859,6 +843,38 @@
       "duration_ms": 215462,
       "name": "Cuerpo Que Flota",
       "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Brainfeeder X",
+        "url": "https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 335205,
+      "name": "Squaz",
+      "url": "https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Zon Zon Zon",
+        "url": "https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj"
+      },
+      "artists": [
+        {
+          "name": "Shelter",
+          "url": "https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT"
+        }
+      ],
+      "duration_ms": 308614,
+      "name": "Senhor Zalla",
+      "url": "https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -895,38 +911,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Zon Zon Zon",
-        "url": "https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj"
-      },
-      "artists": [
-        {
-          "name": "Shelter",
-          "url": "https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT"
-        }
-      ],
-      "duration_ms": 308614,
-      "name": "Senhor Zalla",
-      "url": "https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd"
-    },
-    {
-      "added_at": "2022-09-21 02:15:39",
-      "album": {
-        "name": "Remorse",
-        "url": "https://open.spotify.com/album/4bl2dFWb6IuEQXNSaRvkSH"
-      },
-      "artists": [
-        {
-          "name": "Teielte",
-          "url": "https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU"
-        }
-      ],
-      "duration_ms": 203490,
-      "name": "Remorse",
-      "url": "https://open.spotify.com/track/5JhINHjwyLkOTJfcDy9HPg"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 204000,
       "name": "Valve",
       "url": "https://open.spotify.com/track/5fkcStZXAKDbJRqZLbJhXJ"
+    },
+    {
+      "added_at": "2022-09-21 02:15:39",
+      "album": {
+        "name": "Remorse",
+        "url": "https://open.spotify.com/album/4bl2dFWb6IuEQXNSaRvkSH"
+      },
+      "artists": [
+        {
+          "name": "Teielte",
+          "url": "https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU"
+        }
+      ],
+      "duration_ms": 203490,
+      "name": "Remorse",
+      "url": "https://open.spotify.com/track/5JhINHjwyLkOTJfcDy9HPg"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "In the Woods",
+        "url": "https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm"
+      },
+      "artists": [
+        {
+          "name": "Rimarimba",
+          "url": "https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm"
+        }
+      ],
+      "duration_ms": 275714,
+      "name": "Spafft Moutafft Seeall + California",
+      "url": "https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "Starstuff",
         "url": "https://open.spotify.com/album/2XoRKXr7y9755Auuvh9n1h"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 124186,
       "name": "Jennifer Calling",
       "url": "https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "In the Woods",
-        "url": "https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm"
-      },
-      "artists": [
-        {
-          "name": "Rimarimba",
-          "url": "https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm"
-        }
-      ],
-      "duration_ms": 275714,
-      "name": "Spafft Moutafft Seeall + California",
-      "url": "https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6"
     },
     {
       "added_at": "2022-08-09 01:09:53",
@@ -1265,30 +1265,6 @@
       "url": "https://open.spotify.com/track/7qTolx0KStURABh9ipO1bm"
     },
     {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Spoken By The Other",
-        "url": "https://open.spotify.com/album/2Q4wyQW46RuPeVLyqSGxJt"
-      },
-      "artists": [
-        {
-          "name": "Powell Tillmans",
-          "url": "https://open.spotify.com/artist/6mgbi682gE7em8zkppaGAE"
-        },
-        {
-          "name": "Powell",
-          "url": "https://open.spotify.com/artist/6jeKkBjseBOCCmqBvnhSkt"
-        },
-        {
-          "name": "Wolfgang Tillmans",
-          "url": "https://open.spotify.com/artist/6RVjyIvL2HuwiFSc7RROv9"
-        }
-      ],
-      "duration_ms": 231241,
-      "name": "Feel the Night",
-      "url": "https://open.spotify.com/track/06igyVK0CTN41UHAGxWGXQ"
-    },
-    {
       "added_at": "2022-04-23 04:25:26",
       "album": {
         "name": "Rimorso",
@@ -1331,6 +1307,30 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Spoken By The Other",
+        "url": "https://open.spotify.com/album/2Q4wyQW46RuPeVLyqSGxJt"
+      },
+      "artists": [
+        {
+          "name": "Powell Tillmans",
+          "url": "https://open.spotify.com/artist/6mgbi682gE7em8zkppaGAE"
+        },
+        {
+          "name": "Powell",
+          "url": "https://open.spotify.com/artist/6jeKkBjseBOCCmqBvnhSkt"
+        },
+        {
+          "name": "Wolfgang Tillmans",
+          "url": "https://open.spotify.com/artist/6RVjyIvL2HuwiFSc7RROv9"
+        }
+      ],
+      "duration_ms": 231241,
+      "name": "Feel the Night",
+      "url": "https://open.spotify.com/track/06igyVK0CTN41UHAGxWGXQ"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "Documentaires",
         "url": "https://open.spotify.com/album/0pfXg399w8dYdU7Wm69heu"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Ramifications",
-        "url": "https://open.spotify.com/album/2sbW0BHAt4RibZnl5jHGtZ"
-      },
-      "artists": [
-        {
-          "name": "Gora Sou",
-          "url": "https://open.spotify.com/artist/6GqE7gm7ep2CLEjN03wReS"
-        }
-      ],
-      "duration_ms": 286270,
-      "name": "Punta Alem",
-      "url": "https://open.spotify.com/track/6rWyZPJd3Pmn6ng44kg4Wr"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Condo Pets",
         "url": "https://open.spotify.com/album/1BlNQXs66wdzU3z3RvORMW"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 169400,
       "name": "The Secret World of Condo Pets",
       "url": "https://open.spotify.com/track/4uiUwXpoSfqiabC4zHK7DS"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Ramifications",
+        "url": "https://open.spotify.com/album/2sbW0BHAt4RibZnl5jHGtZ"
+      },
+      "artists": [
+        {
+          "name": "Gora Sou",
+          "url": "https://open.spotify.com/artist/6GqE7gm7ep2CLEjN03wReS"
+        }
+      ],
+      "duration_ms": 286270,
+      "name": "Punta Alem",
+      "url": "https://open.spotify.com/track/6rWyZPJd3Pmn6ng44kg4Wr"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "The Infinity File",
-        "url": "https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y"
-      },
-      "artists": [
-        {
-          "name": "Strategy",
-          "url": "https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs"
-        }
-      ],
-      "duration_ms": 220848,
-      "name": "Occurrence at the Triple Door",
-      "url": "https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/2uMPmTBUG37wuAr4t3D2RN"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 305501,
       "name": "GIRL",
       "url": "https://open.spotify.com/track/4w5jdncM0hAJKQPkAe4KhW"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "The Infinity File",
+        "url": "https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y"
+      },
+      "artists": [
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs"
+        }
+      ],
+      "duration_ms": 220848,
+      "name": "Occurrence at the Triple Door",
+      "url": "https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu"
     },
     {
       "added_at": "2022-04-06 04:04:03",

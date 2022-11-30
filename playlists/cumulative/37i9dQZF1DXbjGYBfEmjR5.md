@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-467 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+468 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 | 2021-12-08 | 2022-11-05 |
 | [Date Night Deluxe](https://open.spotify.com/track/0ZRM3FvLWMaIV4LR5aYYQE) | [Pan!c Pop](https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL) | [Date Night Deluxe](https://open.spotify.com/album/790QHZEtlQ1VzHcgNafPHt) | 4:27 | 2022-01-25 | 2022-07-29 |
 | [Date Sim](https://open.spotify.com/track/7nG8Sr3OyN5jq4DMToGcww) | [Superflat](https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0) | [Insert Coin To Continue](https://open.spotify.com/album/0KreOa7z27QEFEVwvirwLP) | 3:30 | 2022-06-08 | 2022-07-16 |
-| [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 | 2021-12-08 |  |
+| [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 | 2021-12-08 | 2022-11-30 |
 | [Delicate](https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Delicate](https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg) | 4:11 | 2021-12-08 | 2022-07-29 |
 | [Desolate](https://open.spotify.com/track/6ySdY0Ps0lKA6IfXpU0hy8) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Desolate](https://open.spotify.com/album/0waobASW8LPI2ddSKVkKJF) | 4:41 | 2021-12-08 | 2022-07-29 |
 | [Diagonale](https://open.spotify.com/track/1TGMLE2aI80iNmyAqrX4Ss) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Diagonale](https://open.spotify.com/album/4JGh77u2sAIjoMFDqCjeLa) | 3:25 | 2021-12-08 | 2022-07-26 |
@@ -158,7 +158,7 @@
 | [Garment](https://open.spotify.com/track/60unYXLKV1y7nFqHQaOQeG) | [Nukumachi](https://open.spotify.com/artist/2c9sol8NSNRs68cB999yWc) | [Retrospect](https://open.spotify.com/album/3hh298aIT8SznnN7w8W7VA) | 2:20 | 2022-04-12 | 2022-04-20 |
 | [Get Down](https://open.spotify.com/track/7MCJ9kHMs9PrV2P3PC0rcy) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [Bounce](https://open.spotify.com/album/6LLsv8PdNByTCPNy5tv352) | 3:32 | 2022-07-15 | 2022-08-13 |
 | [Get Up](https://open.spotify.com/track/24yzI42u0NBWMytUrR0yU9) | [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT) | [Do It Again EP](https://open.spotify.com/album/5Er6jSnSE7UHMcebo0Fu7k) | 3:56 | 2021-12-08 | 2022-07-23 |
-| [Get Up, Get Out](https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4) | [Get Up, Get Out](https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI) | 3:22 | 2022-01-25 |  |
+| [Get Up, Get Out](https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4) | [Get Up, Get Out](https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI) | 3:22 | 2022-01-25 | 2022-11-30 |
 | [Girl Like You](https://open.spotify.com/track/1ce4NaAQMy8mM8f3rzaJ8a) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Girl Like You](https://open.spotify.com/album/4uVwIR3nyZR0ya0BSi5n7w) | 3:21 | 2022-01-25 | 2022-06-29 |
 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 | 2021-12-08 |  |
 | [Got 2 Be Loved](https://open.spotify.com/track/2Rsn3b2wzflcjX0pXcZFdj) | [Soul Reductions](https://open.spotify.com/artist/1z0WDGqbharsGI6n33mwhj) | [Got 2 Be Loved](https://open.spotify.com/album/2jeNULyvELdIrhrQsCOVmq) | 3:32 | 2022-06-01 | 2022-06-08 |
@@ -380,7 +380,7 @@
 | [Stars in Space](https://open.spotify.com/track/2s0iiWXoPnV6sXj9siObFk) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Stars in Space](https://open.spotify.com/album/31nf0PXzRjUN9sGC0r1nSH) | 3:05 | 2022-06-08 | 2022-07-16 |
 | [Static Startup](https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 3:28 | 2022-02-27 | 2022-07-28 |
 | [Stay](https://open.spotify.com/track/6qWRLdCWJnqSBL4pXPHr38) | [Chevron](https://open.spotify.com/artist/5EDLo5JMi5UMCO6JjWlZdN) | [Stay](https://open.spotify.com/album/6kxGxz9PUU9B2uU3oDKEuf) | 2:59 | 2022-02-27 | 2022-05-08 |
-| [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 | 2021-12-08 | 2022-11-27 |
+| [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 | 2021-12-08 |  |
 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 | 2021-12-08 |  |
 | [Still In Love](https://open.spotify.com/track/30Z6L9BqTFa8a6OT3kqt8f) | [Device Operator](https://open.spotify.com/artist/0WgvFxGODaEBXwRSSprC9C) | [Still In Love](https://open.spotify.com/album/19nBuVpy1ejLyn8NjX2UR0) | 4:00 | 2022-11-04 |  |
 | [Strawberry July](https://open.spotify.com/track/5lkP1BKmudJe8qAQuQ1IA8) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Hanari](https://open.spotify.com/artist/7hpRguUPbso7J2WtKqX4aK), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Strawberry July](https://open.spotify.com/album/0tma3Z7rYySmbwkZiUzBTM) | 3:03 | 2022-07-15 | 2022-08-13 |
@@ -397,6 +397,7 @@
 | [Sunset On The Shore](https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4) | [Android Apartment](https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK) | [DaFuture Is Now](https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s) | 2:51 | 2022-04-12 |  |
 | [Super Groove Love Club](https://open.spotify.com/track/4PwsAa7FWqjmeobs3qPncy) | [Neon95](https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb) | [Super Groove Love Club](https://open.spotify.com/album/563hKWelCb0DXKzDcfZiC7) | 3:47 | 2022-09-16 |  |
 | [Sweet Baby!](https://open.spotify.com/track/4O1I1VgHT0d0Ntkbuge658) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Sweet Baby!](https://open.spotify.com/album/4K8fg0z60G0HsvsIGFJ9ex) | 2:33 | 2021-12-08 | 2022-07-29 |
+| [Sweet Baby!](https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Now That I Have You](https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4) | 2:33 | 2022-11-04 |  |
 | [Swimsuits](https://open.spotify.com/track/2nVUdR91kwV4kHoAE9r1tY) | [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM) | [Swimsuits](https://open.spotify.com/album/12swMc3oZGNfma2tvWOsnh) | 2:59 | 2021-12-08 | 2022-07-20 |
 | [Switchback](https://open.spotify.com/track/7EboeZq99HGIx2eVxfviQc) | [Mélonade](https://open.spotify.com/artist/1oI7fQB3WliumtkbkYuaNz), [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [From The Heart](https://open.spotify.com/album/43sPeS98dtlmt0J3sJMQBh) | 3:05 | 2022-08-12 | 2022-10-04 |
 | [Taboo](https://open.spotify.com/track/2MOw6TqtzRBUItA58VcPQv) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [Future Frequencies](https://open.spotify.com/album/3sbcdq6cG7gRiLocZ7f0M1) | 3:19 | 2022-06-08 | 2022-07-16 |

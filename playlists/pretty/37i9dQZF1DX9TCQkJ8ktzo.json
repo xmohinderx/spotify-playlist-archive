@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 18644,
+  "num_followers": 18674,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMGUwOTA2OGQwNDQyZjNjMTU4ZGVhYzY0MWFlZmY2ZGNl",
+  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMDk4MjFjN2VjZTAzNzg0MDk3NTMwYjlkYzFjODdkODZh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:45:41",
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
         }
       ],
-      "duration_ms": 160146,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh"
+      "duration_ms": 157160,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Iv1QPLwSmhyCiCLtF2cNy"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/5zjF8LE5s2N4xacCXSMSCS"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
         "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
         "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 126226,
       "name": "El d\u00eda de los enamorados (remastered)",
       "url": "https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
-        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
-        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Y Su Piano",
-          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -1172,25 +1172,25 @@
           "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
         }
       ],
-      "duration_ms": 144666,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG"
+      "duration_ms": 160146,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh"
     },
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3Iv1QPLwSmhyCiCLtF2cNy"
+        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
+        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
       },
       "artists": [
         {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "Armando Manzanero Y Su Piano",
+          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/5zjF8LE5s2N4xacCXSMSCS"
+      "duration_ms": 144666,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG"
     }
   ],
   "unique_name": "60s Latino",

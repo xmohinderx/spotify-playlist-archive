@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Nostalgix
 
-367 songs - 19 hr 40 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+368 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [No Time](https://open.spotify.com/track/1UApNNulZJm0alYFXerYMw) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [No Time](https://open.spotify.com/album/0GwrfKSTdg8sICTbdhwXrN) | 3:20 | 2021-10-29 | 2022-03-26 |
 | [No Trust](https://open.spotify.com/track/3aPo3XX7MglfqIZ8O7BEe4) | [Monxx](https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [This is Night Bass: Vol\. 11](https://open.spotify.com/album/3CdyPLMC5DCJihiiXScm9L) | 3:32 | 2021-10-29 | 2022-01-07 |
 | [Not Bees](https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Watch](https://open.spotify.com/artist/036bvTwDThpn1xsB38mBX3) | [High Vaultage EP](https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5) | 3:24 | 2022-02-18 |  |
+| [NTFA](https://open.spotify.com/track/5XHPAcYYDP5OZd6MvH7EWm) | [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [NTFA](https://open.spotify.com/album/2rXbL1mrjuMv4RZDngBwKT) | 3:03 | 2022-11-18 |  |
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-06 | 2022-09-26 |
 | [Old School](https://open.spotify.com/track/0RzusHyWJSvNh4NRjtOdOb) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [FWLR](https://open.spotify.com/artist/1bgWqGp78w6C8CNPvD6Qlo) | [Old School](https://open.spotify.com/album/2XyLOSVrg5eCusbYnU9cmm) | 3:43 | 2021-10-29 | 2022-01-19 |
 | [ON FIRE](https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:23 | 2021-10-29 | 2022-05-28 |
@@ -344,7 +345,7 @@
 | [Trippy \- Kage VIP](https://open.spotify.com/track/7Kyy0UW9DFDbLd2dmgqjQR) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Trippy \(Kage VIP\)](https://open.spotify.com/album/6Bg6GQuQ9ZiZ43Deuf5Air) | 4:05 | 2021-10-29 | 2022-01-08 |
 | [Tune](https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Tune](https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq) | 3:08 | 2022-08-12 |  |
 | [Turn Up](https://open.spotify.com/track/0xWJdTcTxw1aJ1vqQwOlzp) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn) | [Turn Up](https://open.spotify.com/album/1ROGhiztAvWacyQZkcoDa7) | 2:13 | 2022-05-13 |  |
-| [Vegas](https://open.spotify.com/track/7KhEnUupNyhKSyw1AlcqO7) | [Cristian Marchi](https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW), [LØRD](https://open.spotify.com/artist/65cmRE79meWnhTsLcmwHXL) | [Vegas](https://open.spotify.com/album/2SmwjFSAI76ASy9ZdFSX9q) | 2:32 | 2022-04-01 |  |
+| [Vegas](https://open.spotify.com/track/7KhEnUupNyhKSyw1AlcqO7) | [Cristian Marchi](https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW), [LØRD](https://open.spotify.com/artist/65cmRE79meWnhTsLcmwHXL) | [Vegas](https://open.spotify.com/album/2SmwjFSAI76ASy9ZdFSX9q) | 2:32 | 2022-04-01 | 2022-11-30 |
 | [Vibes on Tap](https://open.spotify.com/track/1Gr57mnG8D5S2DRvnBPEaT) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Vibes on Tap](https://open.spotify.com/album/35SzRaDCN9sThUGJwWstIH) | 4:12 | 2021-10-29 | 2022-03-26 |
 | [Vibin' Thing](https://open.spotify.com/track/2XuSf4trem71MrpauiM6lI) | [Vush](https://open.spotify.com/artist/0yX57vC3v0CSd0fNqzYpDs), [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Vibin' Thing](https://open.spotify.com/album/1U5xDYdjSiIIdGahfq6WoF) | 3:07 | 2022-03-18 | 2022-05-05 |
 | [VIP](https://open.spotify.com/track/5K762jYRpdnBm0uKKLKQCO) | [Dante](https://open.spotify.com/artist/7tACPI5pmla58E5B6R5V11), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3) | [VIP](https://open.spotify.com/album/5m6jMkebMtofI4GlETRzZN) | 3:31 | 2021-10-29 | 2022-01-20 |

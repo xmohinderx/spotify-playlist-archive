@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 22315,
+  "num_followers": 22356,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDU1YjY4OTAxOGM1MGJlYWM0ZWEzM2Q0ZDYxNTYzYjc2",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGMzN2ZhN2JjYjI5N2E2MzZhMTFiM2UwOTFiNDIzNThm",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -867,6 +867,34 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Las Nenas (feat. La Duraca)",
+        "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "La Duraca",
+          "url": "https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "Las Nenas (feat. La Duraca)",
+      "url": "https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
@@ -903,34 +931,6 @@
       "duration_ms": 190813,
       "name": "Ella - Remix De Ellas",
       "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Las Nenas (feat. La Duraca)",
-        "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "La Duraca",
-          "url": "https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "Las Nenas (feat. La Duraca)",
-      "url": "https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -983,6 +983,42 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Despacio (feat. Myke Towers, Dj Luian & Mambo Kingz)",
+        "url": "https://open.spotify.com/album/3XlpaakfUClovZhA2lCJqX"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "duration_ms": 281658,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/203uubEQA07to1kbro35qQ"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1055,58 +1091,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Despacio (feat. Myke Towers, Dj Luian & Mambo Kingz)",
-        "url": "https://open.spotify.com/album/3XlpaakfUClovZhA2lCJqX"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        }
-      ],
-      "duration_ms": 281658,
-      "name": "Despacio",
-      "url": "https://open.spotify.com/track/203uubEQA07to1kbro35qQ"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Index",
         "url": "https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 206000,
       "name": "Ya Es Hora",
       "url": "https://open.spotify.com/track/2SKNarYKa7W0iCOq7u96N8"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Lo Que Yo Diga",
-        "url": "https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 152656,
-      "name": "Lo Que Yo Diga",
-      "url": "https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Soy As\u00ed",
         "url": "https://open.spotify.com/album/7e7GLih85DGKqsXxfqa7OH"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 212413,
       "name": "Soy As\u00ed",
       "url": "https://open.spotify.com/track/2f59UKerWyhPoPkhdozMZM"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Lo Que Yo Diga",
+        "url": "https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 152656,
+      "name": "Lo Que Yo Diga",
+      "url": "https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "Odio",
-      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 215257,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
     },
     {
       "added_at": "2022-03-28 14:23:43",

@@ -4,7 +4,7 @@
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-366 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
+367 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Demons](https://open.spotify.com/track/4KyUg4IdVVqJRoLGowHqyl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Let Light Overcome](https://open.spotify.com/album/1eaAMaWcmbP6YsZhUsbbkN) | 3:36 | 2021-11-30 |  |
 | [Devastate and Recalibrate](https://open.spotify.com/track/7pp7yIiPMv2q58BufR99gw) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Devastate and Recalibrate](https://open.spotify.com/album/6OAprKmfC8hI3G7oTFNfQQ) | 3:56 | 2021-11-30 | 2022-07-16 |
 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 | 2021-11-30 |  |
-| [Dirty Talk](https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Dirty Talk](https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT) | 2:40 | 2021-11-30 |  |
+| [Dirty Talk](https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Dirty Talk](https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT) | 2:40 | 2021-11-30 | 2022-11-30 |
 | [Disassociate](https://open.spotify.com/track/0A61KXiNWA9rJMHllD7yOw) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Disassociate](https://open.spotify.com/album/2kk3zo0UKSlc65KW4UZoC5) | 3:11 | 2021-11-30 | 2022-07-27 |
 | [Disease](https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease](https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF) | 3:48 | 2021-11-30 |  |
 | [Distance](https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 2:59 | 2022-04-01 |  |
@@ -256,6 +256,7 @@
 | [Pain Is Forever](https://open.spotify.com/track/5DLlbsBczLDGOnqJgGzLXY) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Pain Is Forever](https://open.spotify.com/album/6nQaATxo757L1BqNi6d8Wi) | 2:23 | 2022-04-01 | 2022-06-09 |
 | [Paper Mache Man](https://open.spotify.com/track/6rlzltlWHrsPWUlLSbnW3F) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Paper Mache Man](https://open.spotify.com/album/37RnJBXOWCdq083TpY8cie) | 3:45 | 2021-11-30 | 2022-07-29 |
 | [Paralysed](https://open.spotify.com/track/3wnVnlL22rP7aPP8lA1G09) | [Rumours](https://open.spotify.com/artist/3ICln12zCpzSTTSlYz6CTH) | [Paralysed](https://open.spotify.com/album/1NoDgyhveWl2tof1t9vrSS) | 3:27 | 2021-11-30 | 2022-07-22 |
+| [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-11-26 |  |
 | [Patience](https://open.spotify.com/track/3CarDflN0DMF2L6AO5WbaC) | [Fake a Home](https://open.spotify.com/artist/4E8UqkZSYQd2Svt5FVJqwX) | [Patience](https://open.spotify.com/album/1lqb8NGSXoUlxEZUfzn3KX) | 3:03 | 2022-04-01 | 2022-05-10 |
 | [Persistence](https://open.spotify.com/track/5PDPN6xw3Wfz4keiYfT5cY) | [Friday Giants](https://open.spotify.com/artist/45R6go1p9WBboRbWjTmkoP) | [Something Worth Saving](https://open.spotify.com/album/5gJYoQGgWn94L4yddOtgRS) | 3:06 | 2021-11-30 | 2022-07-27 |
 | [Pick Me Up](https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 4](https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE) | 3:23 | 2021-11-30 |  |

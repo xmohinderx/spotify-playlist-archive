@@ -4,7 +4,7 @@
 
 > Blues favorites from 2021\. Cover: Robert Finley
 
-67 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
+68 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 | 2021-12-01 |  |
 | [In The Night Time](https://open.spotify.com/track/3XguwJEzc5fWjtqb8ofb8h) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/7mUS9JWoAWUMmUgBLy1SXq) | 3:08 | 2021-12-01 | 2022-11-13 |
 | [In The Water](https://open.spotify.com/track/23s0MmTdYCrt1lu2gxEfkU) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN), [Steve Knight](https://open.spotify.com/artist/6k6k3dePFZZJDOBRg4IxFS) | [In The Water](https://open.spotify.com/album/6Ef6vJ6k500tGlu0zDp8dK) | 4:09 | 2021-12-01 |  |
-| [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 | 2021-12-01 |  |
+| [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 | 2021-12-01 | 2022-11-30 |
+| [Letter from Bluewater Man](https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh) | 2:24 | 2021-12-01 |  |
 | [Living In A Burning House](https://open.spotify.com/track/1bj3YSt3grflYQsu4lVSiy) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Living In A Burning House](https://open.spotify.com/album/1eBYbklgOrUS8hYho7rPXj) | 4:06 | 2021-12-01 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2021-12-01 |  |
 | [Lucky Guy](https://open.spotify.com/track/6MBT2rtlyXmTcZqYEAvmjL) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 4:32 | 2021-12-01 |  |

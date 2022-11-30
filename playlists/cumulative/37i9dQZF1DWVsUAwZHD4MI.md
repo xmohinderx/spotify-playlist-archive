@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-108 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
+109 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Testarossa](https://open.spotify.com/track/4HfyaFz85yjeikeF3l6Y0W) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/0pIFnkzgnoGCpGvT7XQIYW) | 3:56 | 2022-09-05 | 2022-10-14 |
 | [Testarossa](https://open.spotify.com/track/4NyxjOX2aMNPAmSmrxY9PJ) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/7hcXy9jJgel4us2iha33uv) | 3:56 | 2022-09-05 |  |
 | [There You Go \- Sovereign Remix](https://open.spotify.com/track/1d7Y2isBtFHGUfGon9KjP9) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Can't Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/6PSOOxrBZuoLe88zn0wGQr) | 6:19 | 2022-09-05 |  |
-| [Tic](https://open.spotify.com/track/6rhaQghzTIhGhwebTAe0hD) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tic](https://open.spotify.com/album/0w92mMZkUdgkJIJWGaX83W) | 2:10 | 2022-09-05 |  |
+| [Tic](https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tic](https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB) | 2:10 | 2022-11-11 |  |
+| [Tic](https://open.spotify.com/track/6rhaQghzTIhGhwebTAe0hD) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tic](https://open.spotify.com/album/0w92mMZkUdgkJIJWGaX83W) | 2:10 | 2022-09-05 | 2022-11-30 |
 | [Total Eclipse of the Heart \- Alternative 7 Inch](https://open.spotify.com/track/4TeGZLhI6hIKCwiRCvEkwK) | [Nicki French](https://open.spotify.com/artist/1RfiRshRC2YlSG4Y1zNkAE) | [Total Eclipse of the Heart](https://open.spotify.com/album/5mra2vTBQLmEfPZwtV2alH) | 3:49 | 2022-09-05 |  |
 | [Transformation \- Club Mix](https://open.spotify.com/track/3mhVauVCMu7CRRc3LWHk9U) | [Transform](https://open.spotify.com/artist/3CkMAZrOyO0j8DcWr7Kl7Y) | [Transformation](https://open.spotify.com/album/4JPQL10uf5GI9DOEBSQ5MW) | 6:08 | 2022-09-05 | 2022-11-12 |
 | [TWITCH](https://open.spotify.com/track/6jZXep6N4A3xbSTVxHAEBh) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [TWITCH](https://open.spotify.com/album/3SiW26Em1rSBOfmwICXFSG) | 3:10 | 2022-09-05 | 2022-11-12 |

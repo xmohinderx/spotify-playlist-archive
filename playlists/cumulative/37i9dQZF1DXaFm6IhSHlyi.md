@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-232 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
+233 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [111](https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD) | 3:50 | 2021-11-19 | 2022-07-29 |
 | [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 | 2022-06-16 |  |
 | [17](https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17](https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq) | 2:40 | 2021-11-19 |  |
-| [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 | 2021-11-19 |  |
+| [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 | 2021-11-19 | 2022-11-30 |
 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 | 2021-11-19 |  |
 | [A Un Milímetro De Ti](https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [A Un Milímetro De Ti Y Cada Vez Más Cerca \(Edición Deluxe\)](https://open.spotify.com/album/1oSumrff62Iuju1SChmSzx) | 3:49 | 2021-11-19 | 2022-06-17 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-11-19 |  |
@@ -222,6 +222,7 @@
 | [Моя душа](https://open.spotify.com/track/4QtIr8eU5jvKTmM1T44rnJ) | [Andro](https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd) | [Моя душа](https://open.spotify.com/album/0YazeIyhMDFY0s0pqqFwr8) | 2:35 | 2021-11-19 | 2022-06-17 |
 | [Пряталась в ванной](https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN) | [Mari Kraimbrery](https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i) | [Пряталась в ванной](https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX) | 3:10 | 2021-11-19 |  |
 | [Салют, Вера](https://open.spotify.com/track/4Fs5Rl03jVC7bIsAmiIsys) | [Mona Songz](https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl) | [Салют, Вера](https://open.spotify.com/album/3maRAd22eum9ttCp4BewNx) | 3:22 | 2021-11-19 | 2022-11-28 |
+| [Салют, Вера](https://open.spotify.com/track/4MkpJLmeQX6D4ZMulyWxGO) | [Mona Songz](https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl) | [Салют, Вера](https://open.spotify.com/album/75MrdzzI1A1pUlbzKnSvVM) | 3:22 | 2022-10-17 |  |
 | [Сияй](https://open.spotify.com/track/5ct1HcejSSMlu6vCyWGNXM) | [Ramil'](https://open.spotify.com/artist/7blTwZGiTplsvBEvYOsDot) | [Сияй](https://open.spotify.com/album/38Wdd2AD7opfOXAYGmfS5s) | 2:01 | 2021-11-19 | 2022-01-28 |
 | [Стихнет мотор](https://open.spotify.com/track/5Yq80azEjRwPaisXpwoFrk) | [ZOLOTO](https://open.spotify.com/artist/33GX54nwJnxlbOo9YV9xtI) | [Стихнет мотор](https://open.spotify.com/album/4kNb9w8edfyJL8fScjYe04) | 3:57 | 2021-11-19 | 2022-06-16 |
 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [DaMoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 | 2022-02-14 | 2022-06-17 |

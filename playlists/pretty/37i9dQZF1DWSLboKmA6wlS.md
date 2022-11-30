@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: NSL\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,927 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 12 | [แค่ฉัน](https://open.spotify.com/track/2RRpzu9BiBBgR1dyWT6KOx) | [ASHLEY](https://open.spotify.com/artist/5Yk8azvcHWroH0yDBi8wPv) | [แค่ฉัน](https://open.spotify.com/album/691OdxsYPl2MUDu20NyKbo) | 4:04 |
 | 13 | [โลกนี้ต้องการเธอ](https://open.spotify.com/track/5ESYKUuKocO6e5bvqEZyrT) | [Shineboys](https://open.spotify.com/artist/6uwaUeUGXUp0l3oxEoto1K) | [โลกนี้ต้องการเธอ](https://open.spotify.com/album/57iXGL0sd7y7kWDMI4lknN) | 2:51 |
 | 14 | [Moment](https://open.spotify.com/track/7ydLsi7aomfzX8PxUWJlop) | [Pang Pattanan](https://open.spotify.com/artist/7FJwwIfLOAubzcHBReSN1b) | [Moment](https://open.spotify.com/album/4AYMuVkBtHgQnELvbddzc1) | 3:21 |
-| 15 | [LEMON PIE](https://open.spotify.com/track/39iGvcXuDJSRHeaio4XWDT) | [mosshu](https://open.spotify.com/artist/0QDPRZtbJVBBfiBVmRSwbD) | [LEMON PIE](https://open.spotify.com/album/6GXUJtlTFIrVRXosw7qAbF) | 2:46 |
+| 15 | [LEMON PIE](https://open.spotify.com/track/39iGvcXuDJSRHeaio4XWDT) | [MOSSHU](https://open.spotify.com/artist/0QDPRZtbJVBBfiBVmRSwbD) | [LEMON PIE](https://open.spotify.com/album/6GXUJtlTFIrVRXosw7qAbF) | 2:46 |
 | 16 | [ชีส \- From "The Cheese Sisters"](https://open.spotify.com/track/1WL7EQDLb4WULiBednRVyW) | [Pun Punsikorn](https://open.spotify.com/artist/2Tnm5hFsoZBW3fKt8dfIBc) | [ชีส \(From "The Cheese Sisters"\)](https://open.spotify.com/album/7MJJsGjPT84ldo2u2mM9nO) | 3:22 |
 | 17 | [เก็บ](https://open.spotify.com/track/4URIuup1aeHlEBnBEDXoDG) | [Fauvis](https://open.spotify.com/artist/0aiODLUBw3OMFGa48Xf9E4) | [เก็บ](https://open.spotify.com/album/2HwFJirRJO0Ait7RwfU5u5) | 3:17 |
 | 18 | [ยังไม่สายเกินไป](https://open.spotify.com/track/0XPnxx9JgE57fcwQm5dbO7) | [Wakinn](https://open.spotify.com/artist/2k5cjE5SOCNhMd1tOUMewh) | [ยังไม่สายเกินไป](https://open.spotify.com/album/0AcnOFOf5TzVEIByKanoaz) | 3:12 |

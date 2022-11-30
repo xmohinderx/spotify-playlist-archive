@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Black Gives Way to Blue",
+        "url": "https://open.spotify.com/album/3F2cL1E3FXYa74V7D7oAoI"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237906,
+      "name": "Check My Brain",
+      "url": "https://open.spotify.com/track/0Fl8ciGpmcUezzgaSKvysd"
+    },
+    {
+      "album": {
         "name": "Black Gives Way To Blue",
         "url": "https://open.spotify.com/album/2vkLky2qG0rziUk0eOsIZ9"
       },
@@ -2969,7 +2987,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 254120,
       "name": "Rocket Skates",
       "url": "https://open.spotify.com/track/6Q7POvDeFGVFDYPmz7huYP"

@@ -4,12 +4,12 @@
 
 > ¡Los éxitos de banda que necesitas! El Fantasma en portada.
 
-158 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/029aY0bfQdNwToDmSRYzRr)
+159 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/029aY0bfQdNwToDmSRYzRr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Rifles](https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [12 Rifles](https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn) | 2:53 | 2022-07-15 |  |
-| [141 \- Versión Banda](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141 \(Versión Banda\)](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-25 |  |
+| [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-25 |  |
 | [A Cuánto Me Quedé](https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Historias de Mi Vida](https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe) | 3:21 | 2022-07-01 |  |
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2022-01-28 |  |
 | [A La Inversa](https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [A La Inversa](https://open.spotify.com/album/4iWRJOClu9BdSjuea9K3o8) | 3:30 | 2022-07-01 | 2022-07-29 |
@@ -46,6 +46,7 @@
 | [El Bob Esponja \(Versión Banda\)](https://open.spotify.com/track/6k66FmM0fjoVkO3hYx3FhI) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [El Bob Esponja \(Versión Banda\)](https://open.spotify.com/album/5GGqUzYxVT5IBwehc3V2GO) | 3:11 | 2022-11-03 |  |
 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 | 2022-01-28 |  |
 | [El Fendi](https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Fendi](https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE) | 3:15 | 2022-07-15 |  |
+| [El Final De Nuestra Historia](https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Íconos 25 Éxitos](https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t) | 3:17 | 2022-11-03 |  |
 | [El Paciente](https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 | 2022-07-01 |  |
 | [El Precio De La Soledad](https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Precio De La Soledad](https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I) | 2:46 | 2022-07-01 |  |
 | [El Que Se Va Soy Yo](https://open.spotify.com/track/74EvQtWiIKHFekKll2W6ta) | [Rafael Kelly](https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY) | [El Que Se Va Soy Yo](https://open.spotify.com/album/7nNQtbhctkXGWf1OUly4EA) | 2:33 | 2022-07-01 | 2022-07-12 |
@@ -78,7 +79,7 @@
 | [Las Edades \(En Vivo\)](https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Las Edades \(En Vivo\)](https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF) | 2:51 | 2022-07-01 | 2022-07-16 |
 | [Lo Mejor Que Hay En Mi Vida](https://open.spotify.com/track/564voYBKZapOX2yN0MfCKR) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Mejor Que Hay En Mi Vida](https://open.spotify.com/album/61faQq26AD95mvcicr0a1m) | 2:56 | 2022-03-11 | 2022-07-29 |
 | [Lo Que Me Pasó Contigo](https://open.spotify.com/track/7l1x4QBIt7b15imFdhIaPx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Lo Que Me Pasó Contigo](https://open.spotify.com/album/0AdoN5pVd3XOhLfO75k6rQ) | 2:34 | 2022-06-17 | 2022-07-24 |
-| [Lo Que No Es Pa' Uno](https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Lo Que No Es Pa' Uno](https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz) | 2:54 | 2022-08-26 |  |
+| [Lo Que No Es Pa' Uno](https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Lo Que No Es Pa' Uno](https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz) | 2:54 | 2022-08-26 | 2022-11-30 |
 | [Loco](https://open.spotify.com/track/4dWNUUDkYKSnB5HFfgw05S) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Barco](https://open.spotify.com/album/3ZjT0Vfuv3zjAIs2rIfPa8) | 3:21 | 2022-07-01 | 2022-07-29 |
 | [Los FECH \(En Vivo\)](https://open.spotify.com/track/2lYxE4DGv8ScNhRq98w1Z6) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [La Nacional Banda Sinaloense](https://open.spotify.com/artist/1tz33qDL2ip3JfXmaO4fSd) | [Los FECH \(En Vivo\)](https://open.spotify.com/album/08orCVqu9n3iLy90IrIG08) | 2:57 | 2022-09-23 | 2022-10-25 |
 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 | 2022-11-03 |  |

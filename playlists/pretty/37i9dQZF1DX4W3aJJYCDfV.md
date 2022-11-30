@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Stormzy \(pictured\), Avril Lavigne, Olly Murs and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,670 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,726 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 64 | [Onassis](https://open.spotify.com/track/3vG5v9xBby3ptCVoyKLDxT) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Onassis](https://open.spotify.com/album/5RFLmzJi6L4W89I15gvVZK) | 3:34 |
 | 65 | [spite](https://open.spotify.com/track/7umIzNxmajaCYQUhpluqd5) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [spite](https://open.spotify.com/album/52WQw6wWi3CeIms3n6dxqt) | 3:44 |
 | 66 | [Hard To Forget](https://open.spotify.com/track/0AUfe7ZPSE2A2cEAiUYUNe) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Hard To Forget](https://open.spotify.com/album/6BhgLZn2rLwngWkLY7HVzX) | 2:55 |
-| 67 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
+| 67 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
 | 68 | [SWEAR DOWN](https://open.spotify.com/track/1q1k99tDTQ5MIwlsKCJzXR) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [SWEAR DOWN](https://open.spotify.com/album/2SDJI9pw06nyMlbQoulbhk) | 2:09 |
 | 69 | [Love Theme For Leisure Trip](https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Love Theme For Leisure Trip](https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT) | 3:29 |
 | 70 | [Fembot Fashion](https://open.spotify.com/track/1iWfrT2k3jOcsa1yoRuOPB) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU) | [Fembot Fashion](https://open.spotify.com/album/1VxBZzFSS3333QGfdZ82IT) | 4:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,501 likes - 300 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,526 likes - 300 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 196 | [Honeydew](https://open.spotify.com/track/3QZV9urYHQWhedIpNw5sYz) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Honeydew](https://open.spotify.com/album/72WEdS1AR2kQaa3PZqhQ6T) | 2:13 |
 | 197 | [ipanema](https://open.spotify.com/track/18u4WwiGLzWT8xpLmUAHN7) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc), [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [viagem](https://open.spotify.com/album/5WFqGjq8w4OVi4choXM9eB) | 1:36 |
 | 198 | [How About This](https://open.spotify.com/track/29i0fM2WgShkB2lnb6GnBv) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [How About This](https://open.spotify.com/album/1nfiKDhf3ourZoNjqCAfdr) | 1:51 |
-| 199 | [candy](https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [candy](https://open.spotify.com/album/04CTvp4lpryXBremwXAnKt) | 1:25 |
+| 199 | [candy](https://open.spotify.com/track/7DAlxFXwgtXy7gaLWNOEII) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [Ovrhaul](https://open.spotify.com/album/570JUS87mJeLPVsa5sQq8k) | 1:25 |
 | 200 | [warm ocean](https://open.spotify.com/track/3lN0whHnarXeTmsRpJ1CsI) | [Hiest](https://open.spotify.com/artist/3UAJdhJ0DUbtawUmyYhMpv) | [warm ocean](https://open.spotify.com/album/0S0U4cxsfk2YIHFlgK3FDX) | 1:56 |
 | 201 | [wonderer](https://open.spotify.com/track/5LZvWXagCJaMSTfJW9lOxR) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [wonderer](https://open.spotify.com/album/2HUH6h6Qbm5gNSDuhRo9bw) | 2:29 |
 | 202 | [Beijo Doce](https://open.spotify.com/track/53VTzwDAl6PD9T1hs4rFHH) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Beijo Doce](https://open.spotify.com/album/1Mim0BAGo3YQDCq0gLQISK) | 2:04 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 299 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 | 300 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2OTM4MjAwMywwMDAwMDAwMGU5YmNjYzMwMjY0OTAwMTE3MGE1OWUxNGFmOTcwM2Qy`
+Snapshot ID: `MTY2OTM4MjAwMywwMDAwMDAwMDFlZTIwMWI1NjYyNDkyY2M5NmY3YzkzNzg0MDg3NWFl`

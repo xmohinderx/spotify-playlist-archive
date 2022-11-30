@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 12394,
+  "num_followers": 12423,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTYxODY2NywwMDAwMDAwMDcxMWUyMDgxNDc2NmY0ZDFhNzliZWZiZTM3YzA4MmI2",
+  "snapshot_id": "MTY2OTYxODY2NywwMDAwMDAwMGExYzhkNjQ0YzA3YzZiYzNiNzJiNDU1MTlmYzk0M2Uz",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
-      "added_at": "2022-11-29 01:05:03",
+      "added_at": "2022-11-30 01:04:56",
       "album": {
         "name": "Won Da Mo",
         "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
@@ -508,13 +508,13 @@
           "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 221399,
-      "name": "Live Life",
-      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+      "duration_ms": 195873,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -620,13 +620,13 @@
           "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 195873,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
+      "duration_ms": 221399,
+      "name": "Live Life",
+      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "All I Please",
-        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
-      },
-      "artists": [
-        {
-          "name": "Wale Turner",
-          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "All I Please",
-      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "All I Please",
+        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
+      },
+      "artists": [
+        {
+          "name": "Wale Turner",
+          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "All I Please",
+      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Stacks",
-        "url": "https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 177710,
-      "name": "Stacks",
-      "url": "https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO"
-    },
-    {
       "added_at": "2022-11-24 23:00:00",
       "album": {
         "name": "Ikebe",
@@ -1369,20 +1353,44 @@
       "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
     },
     {
-      "added_at": "2022-11-15 08:57:59",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Gold.",
-        "url": "https://open.spotify.com/album/7kAQ6F2mGxn8w5QIMb4cOH"
+        "name": "Stacks",
+        "url": "https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u"
       },
       "artists": [
         {
-          "name": "Shalom Dubas",
-          "url": "https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 188005,
-      "name": "Gold.",
-      "url": "https://open.spotify.com/track/7yz59RbKk5saaTU57do462"
+      "duration_ms": 177710,
+      "name": "Stacks",
+      "url": "https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO"
+    },
+    {
+      "added_at": "2022-06-23 23:00:00",
+      "album": {
+        "name": "World Citizens",
+        "url": "https://open.spotify.com/album/7rQGIVZH1sptr2Hq3Lqcy4"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dutch",
+          "url": "https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN"
+        },
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Never stopping",
+      "url": "https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ"
     }
   ],
   "unique_name": "Naija Bars ",

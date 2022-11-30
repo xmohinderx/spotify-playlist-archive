@@ -18732,6 +18732,24 @@
     },
     {
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/7qiZSUt0h2QPa8rXbKMXMi"
+      },
+      "artists": [
+        {
+          "name": "T.R.3",
+          "url": "https://open.spotify.com/artist/2rDKWkji4MbBLBUe2hjANJ"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/4LDN18h3DAM6No5FeFzC7c"
+    },
+    {
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/0ywVfoCaF1jyU5UVzKm4kr"
       },

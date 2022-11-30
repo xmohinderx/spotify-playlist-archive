@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Nie; thiết kế: Isu Kim
 
-676 songs - 1 day 15 hr 30 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+677 songs - 1 day 15 hr 33 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,8 @@
 | [Welangtune](https://open.spotify.com/track/24AXzAdCsbuBskYmZBnyI3) | [LT Midside](https://open.spotify.com/artist/50OfeNlZcOMffMzBpfDCTL), [7dnight](https://open.spotify.com/artist/3gucoX521KgXuoUnRbn0Bn) | [Welangtune](https://open.spotify.com/album/1d0wWgmmZsc8H2MvceiurI) | 3:33 | 2022-10-06 |  |
 | [Welcome to Saigon](https://open.spotify.com/track/7eUaysrEDnuxzlDucvJfoa) | [Phaos](https://open.spotify.com/artist/19f20EhuHJJ3YJ03TxDiuM), [Andy Vu](https://open.spotify.com/artist/03UysjOtanYHmkx6pRiPWr), [Big T](https://open.spotify.com/artist/4BaDWU29SQK7VZdjUrmkbS) | [Welcome to Saigon](https://open.spotify.com/album/3ad7j8Am3VEGOMSbxF1CXZ) | 3:38 | 2022-06-14 | 2022-06-22 |
 | [What's Your Problem? \(feat\. GoKKy\)](https://open.spotify.com/track/4OpF0X4ki0as0qnuErqehJ) | [Thanh Ngân](https://open.spotify.com/artist/6p2rk0bZVJQl0EtC3FO7QZ), [GoKKy](https://open.spotify.com/artist/6mJiuwiL3bbVP8rTEyan1N) | [What's Your Problem?](https://open.spotify.com/album/6apUi3bnReuohPQqI8MfWc) | 3:05 | 2022-01-28 | 2022-03-23 |
-| [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/track/27GEOac98FsLBpUNbuElqu) | [Côngg](https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf), [Flo](https://open.spotify.com/artist/5g7lYuYodpAnCItem79gWo), [Tấn Đạt](https://open.spotify.com/artist/282BXAqmQC17lPo9AQ3C0B) | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/album/69vYaI221x74ysstUMm0dO) | 3:53 | 2022-10-17 |  |
+| [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/track/1ArkXoiYog9UMUCMUbQwDo) | [Côngg](https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf), [Flo](https://open.spotify.com/artist/5g7lYuYodpAnCItem79gWo), [Tấn Đạt](https://open.spotify.com/artist/282BXAqmQC17lPo9AQ3C0B) | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/album/7sHTRBgcfHqF6AsWWoMSAB) | 3:53 | 2022-11-17 |  |
+| [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/track/27GEOac98FsLBpUNbuElqu) | [Côngg](https://open.spotify.com/artist/523H81P1wAGQaZ4QFqgCUf), [Flo](https://open.spotify.com/artist/5g7lYuYodpAnCItem79gWo), [Tấn Đạt](https://open.spotify.com/artist/282BXAqmQC17lPo9AQ3C0B) | [White Love 07 \(feat\. TANDAT\)](https://open.spotify.com/album/69vYaI221x74ysstUMm0dO) | 3:53 | 2022-10-17 | 2022-11-30 |
 | [Why](https://open.spotify.com/track/74DpTuEIBAfDoVTuUjUn7X) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo), [Khac Dii](https://open.spotify.com/artist/6yK61pHCw3226aNps9tixD) | [Why](https://open.spotify.com/album/4pAk4P9lDt5QXQrmT5Y489) | 3:55 | 2022-05-02 | 2022-05-05 |
 | [Worthless](https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Worthless](https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn) | 3:36 | 2022-04-04 | 2022-07-10 |
 | [XANH DƯƠNG](https://open.spotify.com/track/3RodDNhiC4pC3b9ubAHDWs) | [Mcee Blue](https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk), [StillaD Tùng Dương](https://open.spotify.com/artist/2JvXCcjd9rvMlyLhzWVBUv) | [XANH DƯƠNG](https://open.spotify.com/album/6YF5FFv9C9cg4DCZVGUbaN) | 3:29 | 2022-09-27 | 2022-10-07 |

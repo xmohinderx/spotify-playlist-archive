@@ -1,12 +1,12 @@
 {
   "description": "Music by female-identifying musicians ONLY! Cover: <a href=\u201cspotify:artist:1GDbiv3spRmZ1XdM1jQbT7\u201d>Natti Natasha</a>. ",
-  "num_followers": 21991,
+  "num_followers": 22037,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQwNDE5OCwwMDAwMDAwMGM3MWQxODE5MzRkMTBmYTQzYTIyZjEzY2JkNWRmOGZk",
+  "snapshot_id": "MTY2NzQwNDE5OCwwMDAwMDAwMDI4YzM3ZDliMTg5OWUwZGY5YWJjY2M0NzViNzQ5YWE1",
   "tracks": [
     {
       "added_at": "2022-11-02 15:49:58",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
-        "name": "To Anywhere",
-        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
         "name": "An Orange Colored Day",
         "url": "https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
+        "name": "To Anywhere",
+        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
         "name": "Smoking Weed Alone",
         "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 191026,
       "name": "Smoking Weed Alone",
       "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/3GfARtnRJcsM5JTrpVAunR"
     },
     {
       "added_at": "2022-11-02 15:49:58",
@@ -863,26 +879,6 @@
       "duration_ms": 327867,
       "name": "Thank You Very Much",
       "url": "https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Baby Sol",
-          "url": "https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ"
-        }
-      ],
-      "duration_ms": 159187,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD"
     }
   ],
   "unique_name": "EQUAL US",

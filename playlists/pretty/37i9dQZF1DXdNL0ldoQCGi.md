@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,814 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,017 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hino Nacional Funk](https://open.spotify.com/track/6v6zeeNg8luclQngcotmAB) | [MC UVINHA](https://open.spotify.com/artist/2irBXtnuhG7FJpHj62JekR), [Belzzerk](https://open.spotify.com/artist/52y6eaawwDOYYJt02k3npY) | [Fui ao Mercado](https://open.spotify.com/album/0NzhUCGpqvP5nM5LPBbYqi) | 2:13 |
 | 2 | [A Coleção](https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi) | [OUHBOY JUA](https://open.spotify.com/artist/7evJI9jaJ082JPpu7arMaZ) | [A Coleção](https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e) | 1:51 |
 | 3 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 |
-| 4 | [Tá Querendo](https://open.spotify.com/track/5SHXAn3kfXh5fwJFUtzqZX) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Tá Querendo](https://open.spotify.com/album/6ooXIxEHDhEAf5RNRfTPgW) | 2:37 |
-| 5 | [Vou Viver Pra Ver](https://open.spotify.com/track/1vA9ABK1CiAyQXjAnnyqOs) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Vou Viver Pra Ver](https://open.spotify.com/album/5INDL0mbwcHIxCpnOlPKhF) | 2:42 |
-| 6 | [Pra pra pra](https://open.spotify.com/track/4tDUIRZU50xaP0uRAGklqy) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Plutão](https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc) | 2:22 |
-| 7 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
-| 8 | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/track/75vGTHuhbJDrZ0oPb3FXQ9) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/album/6zQPhs0e1oymLnczYz3EA2) | 2:05 |
+| 4 | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/track/75vGTHuhbJDrZ0oPb3FXQ9) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/album/6zQPhs0e1oymLnczYz3EA2) | 2:05 |
+| 5 | [Tá Querendo](https://open.spotify.com/track/5SHXAn3kfXh5fwJFUtzqZX) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Tá Querendo](https://open.spotify.com/album/6ooXIxEHDhEAf5RNRfTPgW) | 2:37 |
+| 6 | [Vou Viver Pra Ver](https://open.spotify.com/track/1vA9ABK1CiAyQXjAnnyqOs) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Vou Viver Pra Ver](https://open.spotify.com/album/5INDL0mbwcHIxCpnOlPKhF) | 2:42 |
+| 7 | [Pra pra pra](https://open.spotify.com/track/4tDUIRZU50xaP0uRAGklqy) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Plutão](https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc) | 2:22 |
+| 8 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
 | 9 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 |
 | 10 | [Vilã](https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Conteúdo Explícito, Pt\. 1](https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3) | 3:18 |
 | 11 | [Pique Neymar \(feat\. Nuzzin\)](https://open.spotify.com/track/1TPaI8n966Y2QbN1HmHpwi) | [MC WC](https://open.spotify.com/artist/3DPUP3myboFQenFoHxVhKE), [Nuzzin](https://open.spotify.com/artist/1g720jZovsxcInLaYCf7NF) | [Pique Neymar](https://open.spotify.com/album/3fNZW3QFIq8BdzyRdysST3) | 2:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 79 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 80 | [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/73u22uLsakf8W12suab1QO) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pro Nosso Bem \(Ao Vivo\)](https://open.spotify.com/album/1XFfWQRZRRgvyapnWUHPFg) | 3:14 |
 
-Snapshot ID: `MTY2OTY3MjcxNywwMDAwMDAwMGJiNDk4NzE0ZWEwZGM0MDk2ZGRjODEwNjIzNTg4ZmVm`
+Snapshot ID: `MTY2OTc0NzEwOCwwMDAwMDAwMGJiMTg2NDdjYWE4OWM5ZjczYzU5OTRmNGI5ZTdkY2Iw`

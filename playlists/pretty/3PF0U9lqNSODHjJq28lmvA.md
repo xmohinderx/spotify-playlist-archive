@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,056 likes - 33 songs - 1 hr 59 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,057 likes - 33 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 26 | [At all, at all, at all](https://open.spotify.com/track/65R8BCIaX8MBIEvYWjrxsV) | [Black Guillemot](https://open.spotify.com/artist/7Lv3YSxyNUe8OjaiVCeVjb) | [At all, at all, at all](https://open.spotify.com/album/1lo6JXJy1KBjAy6oK6i5P7) | 3:42 |
 | 27 | [Spark](https://open.spotify.com/track/6OD2ik7m6KZuXtpHx92qXm) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Spark](https://open.spotify.com/album/6ky5RnR5KXZ9bMMjw394w1) | 2:44 |
 | 28 | [Undressed](https://open.spotify.com/track/5xpG3jHB37FbiL8UYJbjNE) | [Jay The Shallow](https://open.spotify.com/artist/1ySAbtwdo8XVeGJlE7AtaS) | [Undressed](https://open.spotify.com/album/6rY7SWPrO3S7Q7FgWldlfH) | 3:11 |
-| 29 | [Allá en tus brazos](https://open.spotify.com/track/3xqeTHOEGXvoDXWXzdIywd) | [Tomas Cortes](https://open.spotify.com/artist/78KuY8vnCRaPuYNSq2qQWE) | [Introspicĕre](https://open.spotify.com/album/6Rvhz1cgxaITShZqg4mtxR) | 2:08 |
+| 29 | [Allá en tus brazos](https://open.spotify.com/track/3xqeTHOEGXvoDXWXzdIywd) | [Tomás Cortés](https://open.spotify.com/artist/78KuY8vnCRaPuYNSq2qQWE) | [Introspicĕre](https://open.spotify.com/album/6Rvhz1cgxaITShZqg4mtxR) | 2:08 |
 | 30 | [Strövtåg i hembygden](https://open.spotify.com/track/4tO8jgjc3IDg3pQhp4sntD) | [Erik Persson](https://open.spotify.com/artist/14DwLCHIazoVDWsjIBgkBm) | [Strövtåg i hembygden](https://open.spotify.com/album/3hTn5eUtjj1xkc2AZJnkA7) | 4:04 |
 | 31 | [Stars](https://open.spotify.com/track/2QpzNu6eDWWaUuacjMFZ5b) | [Riket](https://open.spotify.com/artist/5LLXHlxrvoAH3DwumeELkZ) | [Lady is a Maniac](https://open.spotify.com/album/3kfg08YrnjMbLNomzh22WU) | 2:44 |
 | 32 | [The Kindness of Strangers](https://open.spotify.com/track/5n4VaBFSczWaK8ZIwEj4RJ) | [Strawman](https://open.spotify.com/artist/6yAJ9RhbPiTLSQOFTIZTRt) | [The Kindness of Strangers](https://open.spotify.com/album/1IVPy6lyFPAQcmnBpGMmgz) | 5:15 |

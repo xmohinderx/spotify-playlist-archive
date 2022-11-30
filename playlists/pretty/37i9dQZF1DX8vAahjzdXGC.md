@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,907 likes - 73 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,946 likes - 73 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 39 | [Jendela Jiwa](https://open.spotify.com/track/4g4PmIvNkAcZYAaD785zLB) | [Penikmat Soto](https://open.spotify.com/artist/1dVhhCe5DGDavrsiSsxh0a), [MR\. WILD](https://open.spotify.com/artist/4eZTVAAADW5Zdjl51gOC4H), [Pandu Cristoper](https://open.spotify.com/artist/2jzxpQURxsEZGCIBEu1iXd) | [Jendela Jiwa](https://open.spotify.com/album/12iMkgk2PS51XLVNUOw7Fz) | 3:07 |
 | 40 | [Let the Music](https://open.spotify.com/track/447cGiNjRhiF4Brg1h4c24) | [The Fly](https://open.spotify.com/artist/033CdeW2csj8cY3XYDunkH) | [Let the Music](https://open.spotify.com/album/2xPi5XO78a1w48LamThbk2) | 3:46 |
 | 41 | [Crush On U](https://open.spotify.com/track/6dWtGdKTpRyIWgsHZy3RR4) | [Dhika Fawaz](https://open.spotify.com/artist/1jJSHVQJW9CtPcaPg8RHYb) | [Crush On U](https://open.spotify.com/album/5blquZCHhPccuyu1eh8rs4) | 3:22 |
-| 42 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
+| 42 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
 | 43 | [One Punch Tommy](https://open.spotify.com/track/4SoqwzilzxC6nm5Ag8kG49) | [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [One Punch Tommy](https://open.spotify.com/album/6OcaHnyEDl6sLVvbak8q48) | 3:16 |
 | 44 | [Supersonic L.U.V](https://open.spotify.com/track/17Z9tFg1qFpC2cRbSPQadL) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Supersonic L.U.V](https://open.spotify.com/album/63ujE1m5l5oMrRMRMXNkZ8) | 2:24 |
 | 45 | [No Good 4 U](https://open.spotify.com/track/65j80EkeL7HYYOtJ4waZyT) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [No Good 4 U](https://open.spotify.com/album/4haWEqgtjW3G4DXXJBnNn4) | 2:15 |

@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 116591,
+  "num_followers": 116670,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDk3NjYzYjRiYzJlODM2OTQxNjY3N2QzNjUwMjczOTBi",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGIxNDJiYzNkZTY1ZWYyMTQyZDIyMDRkOWIyMmQ5MjIz",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB"
-      },
-      "artists": [
-        {
-          "name": "The Stanley Clarke Band",
-          "url": "https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH"
-        }
-      ],
-      "duration_ms": 197722,
-      "name": "Pop Virgil",
-      "url": "https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Dr Hypenstein",
         "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 187276,
       "name": "Funktionality",
       "url": "https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Clarke Band",
+          "url": "https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH"
+        }
+      ],
+      "duration_ms": 197722,
+      "name": "Pop Virgil",
+      "url": "https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Le Band",
-        "url": "https://open.spotify.com/album/0CMnXccmvvCB5YVYNeyJsQ"
-      },
-      "artists": [
-        {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
-        }
-      ],
-      "duration_ms": 324533,
-      "name": "No Way",
-      "url": "https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 138791,
       "name": "Beyond The Rift",
       "url": "https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Le Band",
+        "url": "https://open.spotify.com/album/0CMnXccmvvCB5YVYNeyJsQ"
+      },
+      "artists": [
+        {
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+        }
+      ],
+      "duration_ms": 324533,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO"
     },
     {
       "added_at": "2021-05-06 21:09:12",
