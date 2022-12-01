@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Triple Riding
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,137 likes - 104 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,157 likes - 104 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 26 | [Gandhada Gudi \(Reprise\)](https://open.spotify.com/track/1OgTEk2wbqJrWOxzNIqO7e) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Gandhada Gudi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OeCQXMbHXjMDBv08ODXu7) | 3:35 |
 | 27 | [Alele Murari \(From "Raja Rani Roarer Rocket"\)](https://open.spotify.com/track/6zmXHLXqIR2NMIkcI3uaeP) | [Bhushan](https://open.spotify.com/artist/6Yc9jK1RyiciVrjv6KMAqd), [Prabhu S R](https://open.spotify.com/artist/4VrFORsWwVXNQ0hLCMrV1w) | [Alele Murari \(From "Raja Rani Roarer Rocket"\)](https://open.spotify.com/album/2pjCZNHU87WPKrmUmkaR8h) | 1:38 |
 | 28 | [Neene](https://open.spotify.com/track/7iFJrq3X5Y5nzaKFpQwy3u) | [Varun Ramachandra](https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84), [Rakshana Sridhar](https://open.spotify.com/artist/29Hi1d9hJTQAeV7lMWtHfH) | [Hosa Dinachari](https://open.spotify.com/album/5KRvTNVSqIMbtzqws5g64a) | 4:03 |
-| 29 | [Neenu Yaaro Naanu Yaaro](https://open.spotify.com/track/736GpWVkTn1qd6zknBknYG) | [Akash SN Jadhav](https://open.spotify.com/artist/0uwa2CqZigmyn3Yk01SBfp), [Kapil Nair](https://open.spotify.com/artist/451yGyxs2q7wOEZEDuYS8s) | [Ond Olle Love Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bifHjkdNs7EMAzWu1Rt8M) | 3:17 |
+| 29 | [Neenu Yaaro Naanu Yaaro](https://open.spotify.com/track/736GpWVkTn1qd6zknBknYG) | [Akash SN Jadhav](https://open.spotify.com/artist/0uwa2CqZigmyn3Yk01SBfp), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Ond Olle Love Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bifHjkdNs7EMAzWu1Rt8M) | 3:17 |
 | 30 | [Kalla Mela Kalla Ittu](https://open.spotify.com/track/41WkjTQRtcakB3NMTWWHdx) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Sriguru](https://open.spotify.com/artist/5nuKgZEGzAfCb3dF0dVtwh), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1) | [Kalla Mele Kalla Ittu \(From "Mata"\)](https://open.spotify.com/album/1FN4vA9BBAZ3YsqgSLWAal) | 4:50 |
 | 31 | [Jagadhodharana](https://open.spotify.com/track/4fMipj4CmGkFkzGDO4Cf3h) | [Indu Nagaraj](https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk) | [Raymo](https://open.spotify.com/album/2dRikRUKamdwzVACthVxSY) | 3:31 |
 | 32 | [For Registration \- Lovegal Sumadhura \(From "For Regn"\)](https://open.spotify.com/track/21lT90q7bC9GPJasbKGSv1) | [Airaa Udupi](https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR), [Deepak Doddera](https://open.spotify.com/artist/0SGmikcgmj4djshtt85Nh0), [Harish R](https://open.spotify.com/artist/4H2Z3q8vNpQHrkRVZdRl6T), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [For Registration \- Lovegal Sumadhura \(From "For Regn"\)](https://open.spotify.com/album/0cYgr3YqOynHEukyfbNTtI) | 4:27 |

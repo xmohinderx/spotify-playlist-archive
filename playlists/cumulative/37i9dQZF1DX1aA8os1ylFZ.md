@@ -4,7 +4,7 @@
 
 > Me and bae = love
 
-169 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
+170 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [i do](https://open.spotify.com/track/3f9GVs49uKIp48LPm51PX7) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [god's work](https://open.spotify.com/album/03Y0AUSO0y4o22FL1732Yi) | 3:10 | 2022-10-27 | 2022-11-13 |
 | [I Follow](https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [I Follow](https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6) | 2:49 | 2021-12-16 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-12-16 |  |
-| [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-25 |  |
+| [I Still Love You](https://open.spotify.com/track/2jXJfq2KHFwMfarNigaIWv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 2:55 | 2022-10-27 |  |
+| [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-25 | 2022-12-01 |
 | [I Think I’ll Stay For The Summer](https://open.spotify.com/track/1npDK31ZsQyCEGIFyqKHbc) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [I Think I’ll Stay For The Summer](https://open.spotify.com/album/6LuiOp3PCyHtgmF9JHnfVh) | 3:12 | 2022-07-22 |  |
 | [If He Won't](https://open.spotify.com/track/4UUoX1ufb996g2D13qzlOz) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [If He Won't](https://open.spotify.com/album/23mxFDwh1Dy8HhN5uOa0aw) | 3:22 | 2021-12-16 | 2022-01-21 |
 | [In My Mind](https://open.spotify.com/track/6083WenmOXoQBYL40Ql4Ey) | [Rick Lips](https://open.spotify.com/artist/3VeAjIuiNPkOgtlHvxCVff) | [In My Mind](https://open.spotify.com/album/5jgCLTEVOLfgrjEa6g8tTo) | 2:58 | 2021-12-16 | 2022-03-26 |

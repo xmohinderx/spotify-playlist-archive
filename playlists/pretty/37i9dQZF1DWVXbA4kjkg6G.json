@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 331995,
+  "num_followers": 332545,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMGI0ZjMwY2ZjOTE0N2U5Y2U0ODAyNWQ1MWQ4MTEyNGVk",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDUxMTcyYWVhOTFkODIzZjg5NWU2YTM1N2Q3Y2QxZTRh",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -243,22 +243,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Original - Remastered",
-      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "A New Stereophonic Sound Spectacular",
         "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 284293,
       "name": "2 Wicky",
       "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Original - Remastered",
+      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
     },
     {
       "added_at": "2021-06-25 10:16:08",

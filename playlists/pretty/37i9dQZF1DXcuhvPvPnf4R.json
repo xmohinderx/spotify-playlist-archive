@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 1442,
+  "num_followers": 1466,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDY5ZTMxMDYzMDI4ZDhjMzY2YTI3Y2Y4MGUwNTA2YTM5",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDQzNTU0Njk1ZmYxZDAxNTY4MzRlYzBkZjVlZDRiZDQ3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 366733,
-      "name": "You Don't Know My Name",
-      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 183829,
       "name": "Body",
       "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 366733,
+      "name": "You Don't Know My Name",
+      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
     },
     {
       "added_at": "2022-10-01 16:43:03",

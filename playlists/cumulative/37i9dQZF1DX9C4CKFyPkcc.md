@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-125 songs - 7 hr 19 min - not published yet
+126 songs - 7 hr 22 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/0fQegvfhv9bLCLM662r9pa) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas Album](https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs) | 3:34 | 2021-12-24 |  |
 | [Sleigh Ride](https://open.spotify.com/track/4ON9452btc5C7bg8m00xmY) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Sleigh Ride](https://open.spotify.com/album/3qrB6Jf61LOCLyusjSmGa4) | 2:43 | 2022-11-26 |  |
 | [Sleigh Ride](https://open.spotify.com/track/2IwNukSM5QpvnzmLuyKExn) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CHRISTMAS](https://open.spotify.com/album/1q0OMD6wW0RuA8FxgWMZh8) | 3:49 | 2022-11-26 |  |
+| [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 | 2022-11-26 |  |
 | [Still Can’t Sleep On Christmas Eve](https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [A Family Christmas](https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5) | 3:20 | 2021-12-24 |  |
 | [Thank You](https://open.spotify.com/track/7w3nVvNQ2bIgK2iQ84MyOs) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:53 | 2021-12-24 |  |
 | [The Best Is Yet To Come \- A Song For The New Year](https://open.spotify.com/track/700BSt1v8IerFK91QUaSF4) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Best Is Yet To Come \(A Song For The New Year\)](https://open.spotify.com/album/4cvTdhtYabOff37JVeUF40) | 3:55 | 2021-12-24 |  |
@@ -128,7 +129,7 @@
 | [What Child Is This?](https://open.spotify.com/track/1KoCiVRq9zGMdRsjkOCQ8K) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Birth Of A King](https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz) | 3:34 | 2021-12-24 | 2022-11-26 |
 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-24 | 2022-11-29 |
-| [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 |  |
+| [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 | 2022-12-01 |
 | [White Christmas](https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [White Christmas](https://open.spotify.com/album/2M0e3x6XRFJClaE5qOL3lT) | 3:06 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/785GHbJRiiQ1Guu8V8vgWf) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [The Spirit Of Christmas](https://open.spotify.com/album/11vKP9wxsaoQ0Ooosbute9) | 3:49 | 2021-12-24 | 2022-11-27 |
 | [Winter Wonderland](https://open.spotify.com/track/0mEVR7fOrIeOtLXP1DLuAx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Winter Wonderland](https://open.spotify.com/album/1X8tQ76K8lWa5hC5Ebtpek) | 2:31 | 2021-12-24 |  |

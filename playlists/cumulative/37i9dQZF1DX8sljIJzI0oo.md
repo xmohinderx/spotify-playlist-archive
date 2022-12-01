@@ -4,7 +4,7 @@
 
 > Catch a vibe with Mixtape \#027 featuring Mora 🔥\. Find a new mixtape every Thursday.
 
-595 songs - 1 day 10 hr 5 min - [published](https://open.spotify.com/playlist/0hSeYoVweORyDdvXeDmbIS)
+596 songs - 1 day 10 hr 8 min - [published](https://open.spotify.com/playlist/0hSeYoVweORyDdvXeDmbIS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Envidioso](https://open.spotify.com/track/7J4VKp49Uh2r84SK5pUa0A) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidioso](https://open.spotify.com/album/11l3a3ll8Za1v8nF6sZy5Y) | 3:45 | 2022-01-12 | 2022-02-01 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-09-02 | 2022-09-10 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-29 | 2022-05-28 |
-| [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-07-08 |  |
+| [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-11-24 |  |
+| [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-07-08 | 2022-12-01 |
 | [ESA BABY](https://open.spotify.com/track/5IVQKv9TK2morkPpy3rqLD) | [Carlos Cortez](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC) | [DULCE](https://open.spotify.com/album/7u8Pb9jxfnGkkzjdnAkoKp) | 2:29 | 2022-07-08 | 2022-07-16 |
 | [Este Tema Maste](https://open.spotify.com/track/2GK3qCHRnRLs3wxdvKQ3Zr) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Este Tema Maste](https://open.spotify.com/album/6364lyBqR7QRoiLhUfjGUH) | 3:24 | 2022-01-13 | 2022-02-01 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:38 | 2022-06-24 | 2022-07-02 |

@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 805018,
+  "num_followers": 805380,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc5OTM2OSwwMDAwMDAwMGJmMDA2ZDZjOTdiMGMzZjIzNzIyZGU4ZmY1YWE0OGIz",
+  "snapshot_id": "MTY2Njc5OTM2OSwwMDAwMDAwMGEzZjEyMGMwNTExNTA0M2Q2ZDY5NDg2ZTBlZGFhMjA0",
   "tracks": [
     {
       "added_at": "2022-08-05 16:27:56",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Desnudarte",
-        "url": "https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Desnudarte",
-      "url": "https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -817,7 +797,27 @@
       "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
     },
     {
-      "added_at": "2022-11-30 01:10:04",
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "Desnudarte",
+        "url": "https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Desnudarte",
+      "url": "https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M"
+    },
+    {
+      "added_at": "2022-12-01 01:16:12",
       "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"

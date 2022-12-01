@@ -4,7 +4,7 @@
 
 > The hottest new pop with the all the drops\. Cover: Rebecca Black
 
-401 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
+402 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,8 @@
 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/4ThOZ5HXGvCfUbptEJRzyF) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 2:39 | 2022-10-26 |  |
 | [Sci\-Fi](https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sci\-Fi](https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu) | 3:18 | 2022-07-22 | 2022-08-27 |
 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 | 2021-11-05 | 2022-01-01 |
-| [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 |  |
+| [See You In My Dreams](https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO) | 2:39 | 2022-10-26 |  |
+| [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 | 2022-12-01 |
 | [Setting Me Free](https://open.spotify.com/track/6zd9tfm93IcaEOcKPo9hj9) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Setting Me Free](https://open.spotify.com/album/1xJN4Urp6XVl2RVS3gsrfw) | 4:43 | 2022-03-11 | 2022-04-16 |
 | [Shadow](https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Shadow](https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0) | 2:46 | 2022-08-26 |  |
 | [Shot a friend](https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Shot a friend](https://open.spotify.com/album/18n1CRVP0aQYIPKZdzjhlI) | 2:09 | 2021-11-05 | 2022-01-15 |

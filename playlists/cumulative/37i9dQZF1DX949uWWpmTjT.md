@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-268 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+269 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 | 2021-12-03 | 2022-11-11 |
 | [For EH](https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [Bright Light](https://open.spotify.com/album/5c5L9EM11mcoHhJLjLqSnV) | 4:56 | 2022-05-13 | 2022-11-11 |
 | [For Heaven's Sake](https://open.spotify.com/track/4kAwnSBZKNrCVwjwZnVNgf) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 2:50 | 2021-12-03 | 2022-11-11 |
-| [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-18 |  |
+| [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-18 | 2022-12-01 |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-11-10 |  |
 | [From Dream to Dream](https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 7:33 | 2021-12-03 | 2022-06-09 |
 | [Fujiyama](https://open.spotify.com/track/41fniSbDLqp964wyawCRrV) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX) | 5:03 | 2022-05-13 | 2022-07-29 |
@@ -108,6 +108,7 @@
 | [I Guess I'll Have To Change My Plans](https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [I Guess I'll Have To Change My Plans](https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx) | 3:51 | 2022-11-10 |  |
 | [I Love You, Porgy](https://open.spotify.com/track/5ZtELfV43r3kuRLPYYjJ4M) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok), [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Jesper Kviman](https://open.spotify.com/artist/10f7IHwc88tJueFB8iM6hR) | [Porgy & Bess](https://open.spotify.com/album/4BuinnHGlzLgX3t21dVquR) | 2:30 | 2021-12-03 | 2022-11-11 |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-11-10 |  |
+| [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-12-01 |  |
 | [I Should Care](https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Music For Lovers](https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga) | 7:42 | 2021-12-03 | 2022-11-11 |
 | [I Understand](https://open.spotify.com/track/02B878qmLiO19I44u0DtqN) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1) | 2:41 | 2021-12-03 | 2022-09-07 |
 | [I Walked Bud](https://open.spotify.com/track/2PHdKqYKcegDxYeIsaWZxX) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Plays Monk](https://open.spotify.com/album/7gIeXaWDihgMi7s925uq4A) | 6:40 | 2021-12-03 | 2022-09-23 |

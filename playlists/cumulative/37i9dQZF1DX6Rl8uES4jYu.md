@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-330 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+331 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Automatic](https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Automatic](https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo) | 3:37 | 2022-05-13 |  |
 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 | 2022-08-12 |  |
 | [Baby](https://open.spotify.com/track/2ywblqGc9Uvw5aZAzCqTU8) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y), [DJ Battlecat](https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm) | [Baby](https://open.spotify.com/album/0a8qQpnlHY0xpob25gQri7) | 3:32 | 2021-09-21 | 2022-07-27 |
-| [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 | 2022-06-10 |  |
+| [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-06-10 |  |
+| [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 | 2022-06-10 | 2022-12-01 |
 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 | 2021-05-14 | 2022-08-01 |
 | [Back On the Music!](https://open.spotify.com/track/0O1eq77Wwu4pMDK06pTyqD) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/1am7tyBwvJ4jg43wPue16v) | 3:27 | 2022-03-11 | 2022-04-21 |
 | [Baggy Eyed Dopeman \- Single Version](https://open.spotify.com/track/3i5u45WGb6LGRdwzSiEeGN) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Baggy Eyed Dopeman](https://open.spotify.com/album/15wzNGreY4huw7bMePBiYt) | 3:25 | 2021-05-14 | 2022-04-21 |
@@ -303,7 +304,7 @@
 | [trouble](https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy) | [trouble](https://open.spotify.com/album/2vJVkhXPsDQNXlnrMXPNNj) | 2:51 | 2020-11-27 | 2022-03-23 |
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-14 |  |
 | [Turn Me Up](https://open.spotify.com/track/7KKB3IMxdBwiAvayp6m8DE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Turn Me Up](https://open.spotify.com/album/42PxlWO8vKHRzGRquHvhhy) | 3:53 | 2020-11-13 | 2022-01-05 |
-| [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 | 2022-05-27 | 2022-11-30 |
+| [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 | 2022-05-27 |  |
 | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq) | 2:43 | 2021-09-21 |  |
 | [Twilight](https://open.spotify.com/track/1QBe7OkwPGC2dWNj60fyST) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Twilight](https://open.spotify.com/album/3RlWPF3loAxfW3kyqB10MX) | 2:36 | 2022-04-15 | 2022-07-29 |
 | [Undone](https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:25 | 2021-09-21 |  |
@@ -336,7 +337,7 @@
 | [You](https://open.spotify.com/track/53pplXFpGH6RPPvf0aCdnQ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:05 | 2021-02-19 | 2022-10-01 |
 | [You](https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [You](https://open.spotify.com/album/7qBrrDS8inczS103oA3pln) | 3:05 | 2021-02-19 | 2022-07-29 |
 | [You and You \- Single Edit](https://open.spotify.com/track/1jEe3EaNbkGecUBHKMcReK) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [You and You \(Single Edit\)](https://open.spotify.com/album/7u9lcPoYgy2i6qfAH9ccEZ) | 4:34 | 2020-11-13 | 2022-03-22 |
-| [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 |  |
+| [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 | 2022-12-01 |
 | [Zoom Out](https://open.spotify.com/track/0z8zXnL09l88fElGOylr2o) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Zoom Out](https://open.spotify.com/album/5L8Kpu3ocdwqiy2ekv6cxy) | 3:46 | 2021-07-02 | 2022-06-07 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

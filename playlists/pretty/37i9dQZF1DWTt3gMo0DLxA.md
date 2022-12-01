@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,766 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,784 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 32 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
 | 33 | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh) | 4:14 |
 | 34 | [Vaaru Veeru](https://open.spotify.com/track/2os5ZEWZ2lwGRh4aBYOAE4) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Anjana Sowmya](https://open.spotify.com/artist/1MRWm9vbsdOdqD1GYQEihD) | [Devadas](https://open.spotify.com/album/0xcDSSJZtVGNIOFch0L99D) | 4:26 |
-| 35 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 |
-| 36 | [Rowdy Baby](https://open.spotify.com/track/7i0Fee6bIqMcj4VyO4gnPN) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Maari 2 \[Telugu\] \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22RsOcEtNYmdBQlCJ45SeQ) | 4:41 |
+| 35 | [Rowdy Baby](https://open.spotify.com/track/7i0Fee6bIqMcj4VyO4gnPN) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Maari 2 \[Telugu\] \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22RsOcEtNYmdBQlCJ45SeQ) | 4:41 |
+| 36 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 |
 | 37 | [Drunk and Drive](https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 4:12 |
 | 38 | [Alludu Adhurs](https://open.spotify.com/track/5nP5Y7qkiiWi70QueS3qF8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Vaishnavi](https://open.spotify.com/artist/6EvZzYQvYz8M9s2JOXpe9e) | [Alludu Adhurs](https://open.spotify.com/album/3kus7s3pIDVtyckV59gkKs) | 4:01 |
 | 39 | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/track/3ZArIoBa7G4RoQbzWCBgkD) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63) | 3:43 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 | 52 | [Hey Abbayi](https://open.spotify.com/track/0IDhvvZHORFGPDh0fWqPbk) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV) | [Sreekaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P) | 3:42 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDM4Y2Q4ZTY1NmUyMDQzNGEwNzQ0MThiZGRlYmM2YWUw`
+Snapshot ID: `MTY2OTgwNDkyNywwMDAwMDAwMGVjOWRhMjk4NjA5NTA3YTdiMWFmZTMyYzhjNmE5ZWM0`

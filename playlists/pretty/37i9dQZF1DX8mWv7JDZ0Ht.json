@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 412965,
+  "num_followers": 413008,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY2MjI3NywwMDAwMDAwMGQwNjQzN2FiOWU3NDVjNGQ0N2VmNTc0ZTNjMTAzM2Mx",
+  "snapshot_id": "MTY2OTY2MjI3NywwMDAwMDAwMDYyNmZlZmZiMDFlMGUxMzk3OTBkYTc4OGYyM2U5ZDA3",
   "tracks": [
     {
       "added_at": "2022-11-28 19:04:37",
@@ -199,22 +199,18 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "Melhor Agora",
-        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 152376,
-      "name": "TE AMO (em caixa alta)",
-      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -239,18 +235,22 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+        "name": "Melhor Agora",
+        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+      "duration_ms": 152376,
+      "name": "TE AMO (em caixa alta)",
+      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "Tudo Me Lembra Voc\u00ea",
-        "url": "https://open.spotify.com/album/1179ekUuV8au5wgey9bYNv"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 176239,
-      "name": "Tudo Me Lembra Voc\u00ea",
-      "url": "https://open.spotify.com/track/0HG6sEAcdl6XyPT7RT9IHd"
-    },
-    {
-      "added_at": "2022-11-28 19:04:37",
-      "album": {
         "name": "FICA PRO CAF\u00c9",
         "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 150260,
       "name": "FICA PRO CAF\u00c9",
       "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
+    },
+    {
+      "added_at": "2022-11-28 19:04:37",
+      "album": {
+        "name": "Tudo Me Lembra Voc\u00ea",
+        "url": "https://open.spotify.com/album/1179ekUuV8au5wgey9bYNv"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Tudo Me Lembra Voc\u00ea",
+      "url": "https://open.spotify.com/track/0HG6sEAcdl6XyPT7RT9IHd"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "Ainda Vou Morrer por N\u00e3o Falar",
-        "url": "https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM"
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 192599,
-      "name": "Ainda Vou Morrer por N\u00e3o Falar",
-      "url": "https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar"
+      "duration_ms": 176173,
+      "name": "saudade boa",
+      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "saudade boa",
-      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
-    },
-    {
-      "added_at": "2022-11-28 19:04:37",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 213351,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
+    },
+    {
+      "added_at": "2022-11-28 19:04:37",
+      "album": {
+        "name": "Ainda Vou Morrer por N\u00e3o Falar",
+        "url": "https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 192599,
+      "name": "Ainda Vou Morrer por N\u00e3o Falar",
+      "url": "https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "A Bolha",
-        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 165356,
-      "name": "Anjo Ou Mulher",
-      "url": "https://open.spotify.com/track/3N1QUO1P5Vtil4aubCLcWR"
-    },
-    {
-      "added_at": "2022-11-28 19:04:37",
-      "album": {
         "name": "VEJA BABY (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2022-11-28 19:04:37",
+      "album": {
+        "name": "A Bolha",
+        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 165356,
+      "name": "Anjo Ou Mulher",
+      "url": "https://open.spotify.com/track/3N1QUO1P5Vtil4aubCLcWR"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "Ser feliz \u00e9 se encontrar",
-        "url": "https://open.spotify.com/album/0bRVFFwxcXgs84fFWYCi30"
-      },
-      "artists": [
-        {
-          "name": "Julia Gama",
-          "url": "https://open.spotify.com/artist/2fzoKVLWpWPSjTvhPDRB7T"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Ser feliz \u00e9 se encontrar",
-      "url": "https://open.spotify.com/track/1sjRl2U0YHcOyq79N5CWQg"
-    },
-    {
-      "added_at": "2022-11-28 19:04:37",
-      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 206113,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
+    },
+    {
+      "added_at": "2022-11-28 19:04:37",
+      "album": {
+        "name": "Ser feliz \u00e9 se encontrar",
+        "url": "https://open.spotify.com/album/0bRVFFwxcXgs84fFWYCi30"
+      },
+      "artists": [
+        {
+          "name": "Julia Gama",
+          "url": "https://open.spotify.com/artist/2fzoKVLWpWPSjTvhPDRB7T"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Ser feliz \u00e9 se encontrar",
+      "url": "https://open.spotify.com/track/1sjRl2U0YHcOyq79N5CWQg"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/29C6tX4odBAjZlLQBaQWMp"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 226243,
-      "name": "X",
-      "url": "https://open.spotify.com/track/6W8LexF36gzcCMHOYVUH3M"
-    },
-    {
-      "added_at": "2022-11-28 19:04:37",
-      "album": {
         "name": "Voa Comigo",
         "url": "https://open.spotify.com/album/0n88BIlztRuQRRZj5hH92C"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 176030,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
+    },
+    {
+      "added_at": "2022-11-28 19:04:37",
+      "album": {
         "name": "Me Beija",
         "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
       },
@@ -951,34 +951,18 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR"
+        "name": "X",
+        "url": "https://open.spotify.com/album/29C6tX4odBAjZlLQBaQWMp"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 176030,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
-    },
-    {
-      "added_at": "2022-11-28 19:04:37",
-      "album": {
-        "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
-        "url": "https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 180046,
-      "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
-      "url": "https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc"
+      "duration_ms": 226243,
+      "name": "X",
+      "url": "https://open.spotify.com/track/6W8LexF36gzcCMHOYVUH3M"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -995,6 +979,22 @@
       "duration_ms": 193804,
       "name": "Depois de Te Encontrar",
       "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+    },
+    {
+      "added_at": "2022-11-28 19:04:37",
+      "album": {
+        "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
+        "url": "https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 180046,
+      "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
+      "url": "https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
-        "name": "Ai Beb\u00ea",
-        "url": "https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        },
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Ai Beb\u00ea",
-      "url": "https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF"
-    },
-    {
-      "added_at": "2022-11-28 19:04:37",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 168346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
+    },
+    {
+      "added_at": "2022-11-28 19:04:37",
+      "album": {
+        "name": "Ai Beb\u00ea",
+        "url": "https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        },
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Ai Beb\u00ea",
+      "url": "https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF"
     },
     {
       "added_at": "2022-11-28 19:04:37",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-11-28 19:04:37",
       "album": {
+        "name": "JOVEM pt. 1",
+        "url": "https://open.spotify.com/album/3qF6YJ0LHtfPNcj5uJXCtN"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 200557,
+      "name": "JOVEM",
+      "url": "https://open.spotify.com/track/1XYzIZaqCBBEv3ogPrXYxH"
+    },
+    {
+      "added_at": "2022-11-28 19:04:37",
+      "album": {
         "name": "INTENSO",
         "url": "https://open.spotify.com/album/6BTSt53WQzgxPoAQWX1v6c"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 188235,
       "name": "Louco de Amor",
       "url": "https://open.spotify.com/track/615qyOqm6qXrgVCVBDYCRX"
-    },
-    {
-      "added_at": "2022-11-28 19:04:37",
-      "album": {
-        "name": "JOVEM pt. 1",
-        "url": "https://open.spotify.com/album/3qF6YJ0LHtfPNcj5uJXCtN"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 200557,
-      "name": "JOVEM",
-      "url": "https://open.spotify.com/track/1XYzIZaqCBBEv3ogPrXYxH"
     },
     {
       "added_at": "2022-11-28 19:04:37",

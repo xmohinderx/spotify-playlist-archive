@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,028 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,086 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 87 | [The Lady In Red \- Live](https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl) | 4:06 |
 | 88 | [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 |
 | 89 | [Animals \- Live In Manchester](https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:30 |
-| 90 | [I Won't Let You Go \- Live At The Hospital Club](https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 4:00 |
-| 91 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
-| 92 | [Hopelessly Devoted To You \- Live](https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:00 |
-| 93 | [Breathe Me \- Live](https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Lady Croissant \(Live\)](https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H) | 5:52 |
-| 94 | [Warwick Avenue \- Live](https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Warwick Avenue \(Live\)](https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw) | 3:57 |
-| 95 | [For the First Time \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/4llNwotltjRfm312AvF7vn) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 5:04 |
-| 96 | [Take My Breath Away \- Live](https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Live: Sacred & Profane](https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU) | 6:07 |
+| 90 | [Hopelessly Devoted To You \- Live](https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:00 |
+| 91 | [I Won't Let You Go \- Live At The Hospital Club](https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 4:00 |
+| 92 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
+| 93 | [Warwick Avenue \- Live](https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Warwick Avenue \(Live\)](https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw) | 3:57 |
+| 94 | [Breathe Me \- Live](https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Lady Croissant \(Live\)](https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H) | 5:52 |
+| 95 | [Take My Breath Away \- Live](https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Live: Sacred & Profane](https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU) | 6:07 |
+| 96 | [For the First Time \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/4llNwotltjRfm312AvF7vn) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 5:04 |
 | 97 | [I'm Alive \- Live at The Colosseum at Caesars Palace, Las Vegas, Nevada \- November 2003](https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day...Live In Las Vegas](https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM) | 4:16 |
 | 98 | [Maps \- Live In Manchester](https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:22 |
 | 99 | [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 |
 | 100 | [The Strangest Thing \- Live](https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 6:05 |
 
-Snapshot ID: `MTY2ODE3MzcxMCwwMDAwMDAwMDBhZGQ3Nzk5N2UxY2Q4MmE3MjEzNzFmZWUxZjkxMjAw`
+Snapshot ID: `MTY2ODE3MzcxMCwwMDAwMDAwMDM4NDMzMmU2NWJhMDZhMzQ0ZTliMWJjY2VhMjc1ZDY2`

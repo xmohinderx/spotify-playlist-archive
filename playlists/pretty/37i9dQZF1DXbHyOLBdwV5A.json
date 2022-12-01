@@ -1,15 +1,15 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Gui Brazil",
-  "num_followers": 89822,
+  "num_followers": 89856,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1Mzg3MiwwMDAwMDAwMDZjNTc1MTA3OGMyYjNkZmQ0YmQyYmIwNTU3ZjQ0MTFi",
+  "snapshot_id": "MTY2OTM1Mzg3MiwwMDAwMDAwMGM2MzllMzljZWU2Y2M5NjZiNmViMzI5NDk0OGJmZGEx",
   "tracks": [
     {
-      "added_at": "2022-11-30 01:33:12",
+      "added_at": "2022-12-01 01:42:53",
       "album": {
         "name": "Fim de Tarde",
         "url": "https://open.spotify.com/album/4kcDWDDlPyxkgj0h3mtlu2"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
     },
     {
-      "added_at": "2022-11-30 01:33:12",
+      "added_at": "2022-12-01 01:42:53",
       "album": {
         "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
         "url": "https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq"
@@ -475,30 +475,6 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Eternidade",
-        "url": "https://open.spotify.com/album/3VXvcYeT5yPs9NwLEnHsB7"
-      },
-      "artists": [
-        {
-          "name": "DJ Natan Flexa",
-          "url": "https://open.spotify.com/artist/4CVVXyVP5HuEtualzCId34"
-        },
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 221269,
-      "name": "Eternidade",
-      "url": "https://open.spotify.com/track/7yTtiCrDPcmA1NUoIYlk4z"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -519,6 +495,30 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Eternidade",
+        "url": "https://open.spotify.com/album/3VXvcYeT5yPs9NwLEnHsB7"
+      },
+      "artists": [
+        {
+          "name": "DJ Natan Flexa",
+          "url": "https://open.spotify.com/artist/4CVVXyVP5HuEtualzCId34"
+        },
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 221269,
+      "name": "Eternidade",
+      "url": "https://open.spotify.com/track/7yTtiCrDPcmA1NUoIYlk4z"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -647,8 +647,8 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Deus \u00c9 Bom o Tempo Todo",
-        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
+        "name": "Encontrei o Meu Lugar (Remix)",
+        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
       "artists": [
         {
@@ -656,17 +656,21 @@
           "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         },
         {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
         }
       ],
-      "duration_ms": 160846,
-      "name": "Deus \u00c9 Bom o Tempo Todo",
-      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
+      "duration_ms": 165967,
+      "name": "Encontrei o Meu Lugar - Remix",
+      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -783,8 +787,8 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Encontrei o Meu Lugar (Remix)",
-        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
+        "name": "Deus \u00c9 Bom o Tempo Todo",
+        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
       },
       "artists": [
         {
@@ -792,21 +796,17 @@
           "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
         }
       ],
-      "duration_ms": 165967,
-      "name": "Encontrei o Meu Lugar - Remix",
-      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
+      "duration_ms": 160846,
+      "name": "Deus \u00c9 Bom o Tempo Todo",
+      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -859,6 +859,26 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
+        "name": "Tudo Que H\u00e1 em Mim Te Adora (Remix)",
+        "url": "https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Banda Rafah",
+          "url": "https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Tudo Que H\u00e1 em Mim Te Adora - Remix",
+      "url": "https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 209998,
       "name": "Tudo Vai Ficar Bem",
       "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Tudo Que H\u00e1 em Mim Te Adora (Remix)",
-        "url": "https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Banda Rafah",
-          "url": "https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Tudo Que H\u00e1 em Mim Te Adora - Remix",
-      "url": "https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1025,20 +1025,28 @@
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
     },
     {
-      "added_at": "2022-10-14 05:49:13",
+      "added_at": "2022-12-01 01:42:53",
       "album": {
-        "name": "Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+        "name": "O Vazio",
+        "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        },
+        {
+          "name": "Eduardo Vieira",
+          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
         }
       ],
-      "duration_ms": 151330,
-      "name": "Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+      "duration_ms": 176746,
+      "name": "O Vazio",
+      "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1061,28 +1069,20 @@
       "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
-      "added_at": "2022-11-30 01:33:12",
+      "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "O Vazio",
-        "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
+        "name": "Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        },
-        {
-          "name": "Eduardo Vieira",
-          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
         }
       ],
-      "duration_ms": 176746,
-      "name": "O Vazio",
-      "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
+      "duration_ms": 151330,
+      "name": "Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
+        "name": "O Le\u00e3o (Dj Del Mag Remix)",
+        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Victor Rodrigues",
+          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "O Le\u00e3o - Dj Del Mag Remix",
+      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 228480,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "O Le\u00e3o (Dj Del Mag Remix)",
-        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Victor Rodrigues",
-          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "O Le\u00e3o - Dj Del Mag Remix",
-      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
@@ -1251,6 +1267,46 @@
       "duration_ms": 164750,
       "name": "Encontrar",
       "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "S\u00f3 em Ti",
+        "url": "https://open.spotify.com/album/7EyTM3WHWk8R63fqCdqM9N"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Thalita Barros",
+          "url": "https://open.spotify.com/artist/2XcqwaVdCPErj0ah69UpbL"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "S\u00f3 em Ti",
+      "url": "https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8"
+    },
+    {
+      "added_at": "2022-12-01 01:42:53",
+      "album": {
+        "name": "Alvo",
+        "url": "https://open.spotify.com/album/4IHa4QvURqyaLTBidFdwLg"
+      },
+      "artists": [
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        },
+        {
+          "name": "DJ Albery",
+          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
+        }
+      ],
+      "duration_ms": 166428,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/6aNbfAAucaaVlqtmqBVIu5"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1277,23 +1333,7 @@
       "url": "https://open.spotify.com/track/2jsVKdyO5o04Y7uJwpItKe"
     },
     {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
-    },
-    {
-      "added_at": "2022-11-30 01:33:12",
+      "added_at": "2022-12-01 01:42:53",
       "album": {
         "name": "Templo Fit Remix",
         "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
@@ -1307,46 +1347,6 @@
       "duration_ms": 236266,
       "name": "Volte a Sonhar Remix",
       "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
-        "name": "S\u00f3 em Ti",
-        "url": "https://open.spotify.com/album/7EyTM3WHWk8R63fqCdqM9N"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Thalita Barros",
-          "url": "https://open.spotify.com/artist/2XcqwaVdCPErj0ah69UpbL"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "S\u00f3 em Ti",
-      "url": "https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8"
-    },
-    {
-      "added_at": "2022-11-30 01:33:12",
-      "album": {
-        "name": "Alvo",
-        "url": "https://open.spotify.com/album/4IHa4QvURqyaLTBidFdwLg"
-      },
-      "artists": [
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        },
-        {
-          "name": "DJ Albery",
-          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
-        }
-      ],
-      "duration_ms": 166428,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/6aNbfAAucaaVlqtmqBVIu5"
     },
     {
       "added_at": "2022-10-14 05:49:13",

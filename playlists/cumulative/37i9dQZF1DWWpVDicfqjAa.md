@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-109 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/5JHMYs72YwVvrpNONBNFT3)
+110 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/5JHMYs72YwVvrpNONBNFT3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [TWITCH](https://open.spotify.com/track/6jZXep6N4A3xbSTVxHAEBh) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [TWITCH](https://open.spotify.com/album/3SiW26Em1rSBOfmwICXFSG) | 3:10 | 2022-09-08 | 2022-09-16 |
 | [Unknown Party \(UnknownVibes\)](https://open.spotify.com/track/6Z6TBLPEQbQBWH7H5pnsKv) | [Pologeff](https://open.spotify.com/artist/3iHdatC6QKi6NRQdZ7XgZj) | [Unknown Party \(UnknownVibes\)](https://open.spotify.com/album/1msgtXkVkBmp54hJTXmQ4c) | 3:05 | 2022-09-08 |  |
 | [Upset](https://open.spotify.com/track/4y5KpfyXBEzSiKoUqTc9kq) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Upset](https://open.spotify.com/album/5NRkkkwgN2YxnkM8cvgkBb) | 3:17 | 2022-09-08 | 2022-10-12 |
-| [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-11-10 |  |
+| [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-11-10 | 2022-12-01 |
+| [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2022-11-10 |  |
 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 | 2022-09-08 |  |
 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 | 2022-09-08 |  |
 | [Waiting \(feat\. Pablo Bravas\)](https://open.spotify.com/track/6R0y6rfttQZqKmbKI9A2VG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Pablo Bravas](https://open.spotify.com/artist/792OYnsrG3nrC4HDDSEwpq) | [Waiting \(feat\. Pablo Bravas\)](https://open.spotify.com/album/1b6HpGj2vIApDK5jnQFg3o) | 2:24 | 2022-09-08 | 2022-10-28 |

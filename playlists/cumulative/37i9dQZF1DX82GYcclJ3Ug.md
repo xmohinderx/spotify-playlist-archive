@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: White Reaper
 
-666 songs - 1 day 11 hr 35 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
+667 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,8 @@
 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2022-10-28 | 2022-11-19 |
 | [On My Knees](https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:21 | 2022-01-21 | 2022-06-04 |
 | [Otherside](https://open.spotify.com/track/7r6IKrSrxElm4CONGUhlv5) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Otherside](https://open.spotify.com/album/3jQM8I4XJIFIvQPxBX1gHy) | 3:46 | 2022-11-04 |  |
-| [Otherside](https://open.spotify.com/track/5ZGrAvSbS9qOEphpjwn3Aj) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts III & IV](https://open.spotify.com/album/3KmnHNMnB13nkKbOx7jqv2) | 3:42 | 2022-10-21 |  |
+| [Otherside](https://open.spotify.com/track/5ZGrAvSbS9qOEphpjwn3Aj) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts III & IV](https://open.spotify.com/album/3KmnHNMnB13nkKbOx7jqv2) | 3:42 | 2022-10-21 | 2022-12-01 |
+| [Otherside](https://open.spotify.com/track/766xHIE1Ut9IBZ9c4iPq1K) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:42 | 2022-11-25 |  |
 | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-13 | 2022-07-23 |
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2022-10-07 |  |
 | [Out the Neighbourhood](https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Out the Neighbourhood](https://open.spotify.com/album/18G8aSVGXVAwHgwDWiolgL) | 4:25 | 2021-11-26 | 2022-03-05 |

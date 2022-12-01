@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,637 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,649 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 34 | [Porcelain](https://open.spotify.com/track/1zKij1M9oYMTeMCKNErsxe) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 4:01 |
 | 35 | [Fond Adieu](https://open.spotify.com/track/4PBaW66WiNFXh5pdrYjlhE) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Fond Adieu](https://open.spotify.com/album/0eoPFyv4fmzB3IFG8U7JYi) | 3:53 |
 | 36 | [In my hand](https://open.spotify.com/track/3cjTqH0FJghhtaheWNkNv7) | [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Violet Sun](https://open.spotify.com/album/5yfMZ1JBzHx1Nt4VYb824M) | 4:21 |
-| 37 | [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 |
+| 37 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 38 | [It's Happening Again](https://open.spotify.com/track/5uE0ggArLjnpwVPEXc36Hx) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 4:20 |
 | 39 | [Run Away](https://open.spotify.com/track/3vtSvKUHdwAynIE3xjwDnZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [When I Was Young \- EP](https://open.spotify.com/album/67aZECTq3l8kjV7h8EFXCp) | 3:05 |
 | 40 | [Winter's Love](https://open.spotify.com/track/2aXezkhSUuCVEACRHHK1CB) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Paper](https://open.spotify.com/album/73Ful0q2t6NtMsIhpDbAsj) | 4:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 69 | [Revolve](https://open.spotify.com/track/4a2PTeP8MF4q4MphoV3iE3) | [Little Sea](https://open.spotify.com/artist/05JF2urTunljp953SopuXc) | [Revolve](https://open.spotify.com/album/0ATFW1N2rZb1fhW8wUYG16) | 4:04 |
 | 70 | [Had a Love](https://open.spotify.com/track/4xGjnjJMbjLFEJwb0gW1pP) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/4pPpxfKMupyb0qLLuaWHlY) | 4:37 |
 
-Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDIwMmJkMWRkZTI5ZmEwMmVhMTg1ZGIwNDQ4NDM4NTE1`
+Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDFmYTgwNmQ1ZWRhODA2NTY0M2E1OTU5MDY2NzUzZTcy`

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,866 songs - 5 day 5 hr 43 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,867 songs - 5 day 5 hr 46 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1623,8 +1623,9 @@
 | [Tameghra](https://open.spotify.com/track/1JpcX6nSFhLXsXDJSOriCC) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 5:18 | 2022-07-12 | 2022-11-20 |
 | [Tameghra](https://open.spotify.com/track/1V1iLb59WEDGTLT0BTSjc5) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 5:18 | 2022-10-31 |  |
 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 | 2022-06-09 |  |
-| [Tango](https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:42 | 2022-10-31 |  |
+| [Tango](https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:42 | 2022-10-31 | 2022-12-01 |
 | [Tango](https://open.spotify.com/track/1cTPxRjuv4LE7N3unxy589) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Tango](https://open.spotify.com/album/3v85vwElHbbbgPIg9M56Cj) | 3:42 | 2022-06-09 | 2022-11-26 |
+| [Tango](https://open.spotify.com/track/2AajW3BeWlJeouC1N80zUU) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:42 | 2022-10-31 |  |
 | [Tape 19.11](https://open.spotify.com/track/4h7JjnDMwdu1Kh5jAqrVap) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Tape 19.11 / Ayonha](https://open.spotify.com/album/1vko2s44jqGOQ3jPOLfz58) | 2:46 | 2022-10-31 |  |
 | [Tape 19.11](https://open.spotify.com/track/5K4Z9h8An468WGVJmP1mUq) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 2:46 | 2022-07-12 | 2022-11-20 |
 | [Tatlı Dile Güler Yüze](https://open.spotify.com/track/4ZXNMQ1V2Rogc4uYN4bnHi) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [On](https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt) | 2:44 | 2022-06-09 |  |

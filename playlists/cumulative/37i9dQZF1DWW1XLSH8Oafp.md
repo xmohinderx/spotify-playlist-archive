@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring taahliah
 
-471 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+472 songs - 1 day 3 hr 24 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [unlock it](https://open.spotify.com/track/2QftMbZmNtjmZIJtpzdTAe) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [unlock it](https://open.spotify.com/album/2wNMY96gtVfhl5cvtq9VCi) | 3:13 | 2022-11-11 |  |
 | [Used To Know Me \- yunè pinku Remix](https://open.spotify.com/track/73CtiacNpS3I2CzNwrY5qP) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Used To Know Me \(yunè pinku Remix\)](https://open.spotify.com/album/4efNZXLnQz1ZutpWmYV0Eh) | 3:55 | 2022-05-20 | 2022-10-29 |
 | [v0013](https://open.spotify.com/track/46guwiCD3lXaB3cjSfRnwy) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [v0013](https://open.spotify.com/album/310MLqcIAqRpbgKUKukR16) | 2:27 | 2022-09-02 |  |
-| [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-09-16 |  |
+| [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-09-16 | 2022-12-01 |
+| [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2022-09-16 |  |
 | [Visited By Astronauts \(SHERELLE Had A Groove Remix\)](https://open.spotify.com/track/5UlfojmfPdNxLnt5qcBx93) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [Visited By Astronauts \(SHERELLE Had A Groove Remix\)](https://open.spotify.com/album/7uWrC80CdnlDRoe9pUI1yn) | 4:36 | 2022-02-18 | 2022-04-16 |
 | [vulnerable](https://open.spotify.com/track/6UmDQssM33pOBab0KItBya) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [patient](https://open.spotify.com/artist/0fsLwKIy2fRcqau5VK8jpu) | [vulnerable](https://open.spotify.com/album/3jPe5MOEN0NG6dlMcMuNCg) | 2:13 | 2022-03-04 | 2022-06-04 |
 | [walk\-4.0](https://open.spotify.com/track/4uZcR0pZQBlhFMnmNfSiOV) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [walk\-4.0](https://open.spotify.com/album/12k6tCJAmLyUpCm3LcaC08) | 2:40 | 2022-06-10 | 2022-09-03 |

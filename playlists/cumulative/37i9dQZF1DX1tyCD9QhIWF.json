@@ -979,7 +979,7 @@
     {
       "album": {
         "name": "SUCKAPUNCH",
-        "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
+        "url": "https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t"
       },
       "artists": [
         {
@@ -990,6 +990,24 @@
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 128613,
+      "name": "MAKEMEFEELALIVE",
+      "url": "https://open.spotify.com/track/7AMllrhJtXgcTtJUbbF3PR"
+    },
+    {
+      "album": {
+        "name": "SUCKAPUNCH",
+        "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 128613,
       "name": "MAKEMEFEELALIVE",
       "url": "https://open.spotify.com/track/7tfGLLDpuOI7QhQdhEiqgN"

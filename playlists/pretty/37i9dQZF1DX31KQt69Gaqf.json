@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182791,
+  "num_followers": 182793,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDVjYjU5NmU5MjhkZTRmYWMyNmU3M2Q1MWJiZDM5ZTc4",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDcyMmY1YjFmMWEzNjJjOTc5ZGVjZDU3OTA4ODkwNTZl",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -39,22 +39,6 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -319,22 +303,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Chinatown (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
@@ -455,6 +423,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -523,22 +491,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Black Dog",
         "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
       },
@@ -551,6 +503,22 @@
       "duration_ms": 225454,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -659,22 +627,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Long Grass",
         "url": "https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje"
       },
@@ -691,6 +643,22 @@
       "duration_ms": 238915,
       "name": "Long Grass",
       "url": "https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -887,22 +855,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
-      },
-      "artists": [
-        {
-          "name": "Jade Emperor",
-          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
       },
@@ -915,6 +867,22 @@
       "duration_ms": 256639,
       "name": "My House",
       "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
+      },
+      "artists": [
+        {
+          "name": "Jade Emperor",
+          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1331,22 +1299,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y"
-      },
-      "artists": [
-        {
-          "name": "Latir",
-          "url": "https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr"
-        }
-      ],
-      "duration_ms": 184483,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Goodbye Blue",
         "url": "https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro"
       },
@@ -1367,18 +1319,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Truth or Consequences",
-        "url": "https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "Latir",
+          "url": "https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr"
         }
       ],
-      "duration_ms": 202003,
-      "name": "Southwark",
-      "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
+      "duration_ms": 184483,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1415,22 +1367,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I've Got A Girl",
-        "url": "https://open.spotify.com/album/23koinchIREk5uVwOcrIPe"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "I've Got A Girl",
-      "url": "https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Goodnights & Goodbyes",
         "url": "https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w"
       },
@@ -1443,6 +1379,22 @@
       "duration_ms": 175890,
       "name": "Goodnights & Goodbyes",
       "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "I've Got A Girl",
+        "url": "https://open.spotify.com/album/23koinchIREk5uVwOcrIPe"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "I've Got A Girl",
+      "url": "https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH"
     },
     {
       "added_at": "2021-09-24 18:51:29",
@@ -1671,6 +1623,58 @@
       "duration_ms": 235373,
       "name": "Big Skies, Silly Faces",
       "url": "https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "obsessed",
+        "url": "https://open.spotify.com/album/2RgYgVbpfItLr4jj3exBqF"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Treat You Right",
+        "url": "https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 261012,
+      "name": "Treat You Right",
+      "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Four\u00b0 In Winter",
+        "url": "https://open.spotify.com/album/1CCZQvQ4cSUY9mXOlJYHC3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "SAM DOTIA",
+          "url": "https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD"
+        }
+      ],
+      "duration_ms": 138516,
+      "name": "Beautiful Disaster",
+      "url": "https://open.spotify.com/track/5TFS4aXfVOXxodj19Wq5AG"
     }
   ],
   "unique_name": "Your Office Stereo",

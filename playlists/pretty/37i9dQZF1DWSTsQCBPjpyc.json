@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 16990,
+  "num_followers": 17025,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGRmYTc2YWUzZDEzZjIyODczYWZjZGIyNWNkNmMxN2Y1",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGQzNTMyMzM4ODA4MGIxMDU4YzRlOWQ5YTg4ZmJmNjlj",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -409,6 +409,22 @@
       "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
     },
     {
+      "added_at": "2021-12-10 05:01:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 278634,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp"
+    },
+    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "I Want My Crown",
@@ -427,22 +443,6 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 278634,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp"
     },
     {
       "added_at": "2020-12-01 05:01:00",

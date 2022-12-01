@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: YoungLee
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,845 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,844 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 66 | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/track/5mQKqKNAINBrhl5MCXeDPi) | [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/album/3iBaI177ig9AIswqdDMzp7) | 4:27 |
 | 67 | [鈔票排成圈](https://open.spotify.com/track/5xMso6TWBZToJgb8PDSlp2) | [HuaRay](https://open.spotify.com/artist/1zijXvu5JIrqSv3Ul1N3OQ) | [鈔票排成圈](https://open.spotify.com/album/5rRcanAC6yEixjAvyJXg2o) | 1:45 |
 | 68 | [無力抵抗 \(《她和她的她》插曲\) \[feat\. Lynzie零\]](https://open.spotify.com/track/59LZxIzteMDTfHYZsPXuEk) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz), [Lynzie零](https://open.spotify.com/artist/0M9mNoqr1c3QdLY9m36urK) | [無力抵抗 \(《她和她的她》插曲\) \[feat\. Lynzie零\]](https://open.spotify.com/album/2oNq5T3WGKabPPrmv8Vl62) | 3:28 |
-| 69 | [找不到你像找不到宇宙](https://open.spotify.com/track/4a84VexzzgSrbUKZQlhThl) | [Howsun](https://open.spotify.com/artist/1DM0LnRUVhKiR4N5GrrA7p), [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P) | [找不到你像找不到宇宙](https://open.spotify.com/album/3oXxo7GVzJD54DfdRFMeSU) | 3:16 |
+| 69 | [Rocket](https://open.spotify.com/track/4a84VexzzgSrbUKZQlhThl) | [Howsun](https://open.spotify.com/artist/1DM0LnRUVhKiR4N5GrrA7p), [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P) | [Rocket](https://open.spotify.com/album/3oXxo7GVzJD54DfdRFMeSU) | 3:16 |
 | 70 | [Uh\(feat.马思唯/PSY.P/Melo\)](https://open.spotify.com/track/0guUyWTRCBnSWDUnDIWKAk) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN), [马思唯](https://open.spotify.com/artist/3g2bv2h1sIntAy0bIE0Dra), [Melo](https://open.spotify.com/artist/2F4vNjg7yUVb7TuhCQ7F6X), [Psy.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [LONG TIME KNOW SEE](https://open.spotify.com/album/0tDqzC4k9KdEIthpvXOjtJ) | 4:27 |
 | 71 | [心悸寶貝](https://open.spotify.com/track/66jhAYUU6GIP0D7jxHXJtA) | [屁孩 Ryan](https://open.spotify.com/artist/5Uru7pLzT6nfOmJfTyZsAu) | [心悸寶貝](https://open.spotify.com/album/760yoHPOkMyvVp3gAPkjT5) | 4:07 |
 | 72 | [SOUL OUT](https://open.spotify.com/track/0whHP3e8tmo0eH63NAo1e5) | [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [SOUL OUT](https://open.spotify.com/album/31DraReaeowgpaBExSle6M) | 2:10 |

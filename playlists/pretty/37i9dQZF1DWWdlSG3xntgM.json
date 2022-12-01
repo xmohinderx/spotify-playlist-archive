@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 32220,
+  "num_followers": 32231,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMDAyMGE5ZTg5YjNiMjkzZTdiMTlmMTJkODRlODNlMmU0",
+  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMGJlYjZkNThiYzFiYWJiODQ1ZGQxMjZiZGZmMTg1ZmY5",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:33",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Lan V\u00e0 \u0110i\u1ec7p 4",
-        "url": "https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Anh",
-          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
-        }
-      ],
-      "duration_ms": 272975,
-      "name": "Ng\u01b0\u1eddi Th\u01b0\u01a1ng K\u1ebb Nh\u1edb",
-      "url": "https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w"
-    },
-    {
-      "added_at": "2022-03-11 05:02:33",
-      "album": {
         "name": "Hoa Trinh N\u1eef (The Best Of Ch\u1ebf Linh 1)",
         "url": "https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 329800,
       "name": "Hoa Trinh N\u1eef",
       "url": "https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp"
+    },
+    {
+      "added_at": "2022-03-11 05:02:33",
+      "album": {
+        "name": "Lan V\u00e0 \u0110i\u1ec7p 4",
+        "url": "https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
+        }
+      ],
+      "duration_ms": 272975,
+      "name": "Ng\u01b0\u1eddi Th\u01b0\u01a1ng K\u1ebb Nh\u1edb",
+      "url": "https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w"
     },
     {
       "added_at": "2022-03-11 05:02:33",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
+        "name": "Trang Nh\u1eadt K\u00fd",
+        "url": "https://open.spotify.com/album/5vVqZvQkbrhucGpzN3oSbY"
+      },
+      "artists": [
+        {
+          "name": "Duong Hong Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        },
+        {
+          "name": "Dong Nguyen",
+          "url": "https://open.spotify.com/artist/5euEtaUIXOl9B8MKotc5Vb"
+        }
+      ],
+      "duration_ms": 264290,
+      "name": "Trang Nh\u1eadt K\u00fd",
+      "url": "https://open.spotify.com/track/6IgdnDf4f0gVAOM5GKZVv3"
+    },
+    {
+      "added_at": "2022-03-11 05:02:33",
+      "album": {
         "name": "Kh\u00f4ng Bao Gi\u1edd Qu\u00ean Anh",
         "url": "https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ"
       },
@@ -859,22 +879,6 @@
       "duration_ms": 367426,
       "name": "Kh\u00f4ng Bao Gi\u1edd Qu\u00ean Anh",
       "url": "https://open.spotify.com/track/4hY9mmmaps6GIR0MEUrqpZ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:33",
-      "album": {
-        "name": "Th\u00f3i \u0111\u1eddi",
-        "url": "https://open.spotify.com/album/1l615bbvZ0DfDKUg2oJS2i"
-      },
-      "artists": [
-        {
-          "name": "Ch\u1ebf Thanh",
-          "url": "https://open.spotify.com/artist/0yabY6VvvYy5b558Kn63zu"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "Th\u00e0nh ph\u1ed1 bu\u1ed3n",
-      "url": "https://open.spotify.com/track/2kpiGWlWgD6HJCG6VVSNpQ"
     }
   ],
   "unique_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",

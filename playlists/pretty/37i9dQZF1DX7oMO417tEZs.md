@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,150 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,197 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 73 | [END OF AN ERA](https://open.spotify.com/track/4hE5FiwnpFjG6PEWF9SbED) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [END OF AN ERA](https://open.spotify.com/album/3C1PAj2sewEbNdIs8axBAM) | 1:56 |
 | 74 | [Hold On](https://open.spotify.com/track/6KMcmZsL1J0Dp2lmAQgKVy) | [TURNA](https://open.spotify.com/artist/3R2WIQW8Xbe0mvSXUS2u8Q), [Gillian Mapp](https://open.spotify.com/artist/4Hc65gJGYM3VxIY8bF7LpE) | [Hold On](https://open.spotify.com/album/4L8rz5GLBEYV7C2qv5iE4M) | 4:22 |
 | 75 | [Constrictor](https://open.spotify.com/track/60SqKl7HkUVzFkhKGNJrAJ) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb) | [Constrictor](https://open.spotify.com/album/3es6sDOdgv4pX0XThvsWuc) | 3:00 |
-| 76 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/6b1uvC2GnPm4wNsHaOlZM7) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:23 |
+| 76 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
 | 77 | [Modern Compromise](https://open.spotify.com/track/1bhLUBgBicDF12gs0tEtsH) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Modern Compromise](https://open.spotify.com/album/5omrCHI1FY9A9fhloIumyY) | 3:30 |
 | 78 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 79 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 |
 | 100 | [Night Journeys II \- Jessy Lanza Remix](https://open.spotify.com/track/1spGZtRmsTo9zg79sW8uU7) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Night Journeys II \(Jessy Lanza Remix\)](https://open.spotify.com/album/6UHAnNmOH1p411N4mg9opY) | 4:37 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDIzOWYwMWJlOTIxZjk4YzdkMTVlY2E5YWE3NzU5MDUw`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDVkZTFhYzJlNWZjYWQyZjBmNGE2ZWQ0NzA2YWY2NzIy`

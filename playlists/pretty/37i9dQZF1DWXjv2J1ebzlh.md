@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,856 likes - 1,201 songs - 3 day 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,949 likes - 1,201 songs - 3 day 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -551,7 +551,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 541 | [Birds, Pt\. I](https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Big Sun](https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW) | 3:59 |
 | 542 | [If You Care](https://open.spotify.com/track/1RWH5zO5pONvnVRF5T3vyg) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI), [The Pelikans](https://open.spotify.com/artist/0h8lWAQfM4kLXu721N7c4h) | [Ebo Taylor and The Pelikans](https://open.spotify.com/album/5OAmfkjYbcmd65uOo54tBq) | 3:36 |
 | 543 | [Asaw Fofor](https://open.spotify.com/track/7wjpy9pXMbeA7qmUe47MaL) | [Ignace de Souza & The Melody Aces](https://open.spotify.com/artist/5feKorHXqGd73uaBZ4UaFQ) | [African Scream Contest 2 \(Analog Africa No\. 26\)](https://open.spotify.com/album/3OP0M9Ku9gbiGi7FMEQBLJ) | 2:55 |
-| 544 | [Tango](https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:42 |
+| 544 | [Tango](https://open.spotify.com/track/2AajW3BeWlJeouC1N80zUU) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:42 |
 | 545 | [Brunch With Suki](https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 3:44 |
 | 546 | [Tonada De Luna Llena](https://open.spotify.com/track/7epe37kYbhgDxaBUQOaHgx) | [Simón Díaz](https://open.spotify.com/artist/29GjVRVQSln078FWYOX4r4) | [Tonadas](https://open.spotify.com/album/1IjxRo8rfMHfJbvuFEqAWo) | 3:07 |
 | 547 | [Pangea](https://open.spotify.com/track/7temtwzguIVsHoT3ewhnxh) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Mantra Moderne](https://open.spotify.com/album/2Uo2xIUyu2VRo43IKxrokH) | 4:17 |
@@ -1210,4 +1210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1200 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1201 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2NzIwNjgwMCwwMDAwMDAwMDQ5MDU0YTE5YjY4ODBmZDBmNDA5MzZjMDVlN2Y1YWU1`
+Snapshot ID: `MTY2NzIwNjgwMCwwMDAwMDAwMDA4MjRmMjVmNDUzYjhiZWZmYjhkN2I1N2YwZDcwYWIw`

@@ -4,13 +4,14 @@
 
 > Viral hits in Africa
 
-108 songs - 6 hr 9 min - not published yet
+109 songs - 6 hr 11 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [45](https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:52 | 2022-11-08 |  |
 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 | 2022-11-01 | 2022-11-16 |
-| [Aces](https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex) | 2:02 | 2022-11-29 |  |
+| [Aces](https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex) | 2:02 | 2022-11-29 | 2022-12-01 |
+| [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 | 2022-11-29 |  |
 | [Afro the influence](https://open.spotify.com/track/2AI8fGSxjfOTLz60yUHUOn) | [Lotus Beatz](https://open.spotify.com/artist/3FVTHpzQddw2FKh7NoyYQ0) | [Afro the influence](https://open.spotify.com/album/2cmodJuDCMugQhLh2e8XzQ) | 1:52 | 2022-11-15 | 2022-11-30 |
 | [Amber Rose](https://open.spotify.com/track/4FkPbsOlsZLkVuiJ0v1qij) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Amber Rose](https://open.spotify.com/album/7Hb0VjZymmCH6QhqWx8YvM) | 2:34 | 2022-11-29 |  |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-11-01 | 2022-11-16 |

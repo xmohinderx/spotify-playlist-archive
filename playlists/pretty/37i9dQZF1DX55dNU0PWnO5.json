@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 538505,
+  "num_followers": 538601,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDY1YzFiNWQzNDA3ODIwNmQ3OTU2YTE5MjRmODUyZDEz",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDRhMjJhN2Q5MGQxOGY0NTBiNDhjNmExY2E1MzY1ZTk0",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
+      "added_at": "2022-02-11 19:25:22",
+      "album": {
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+      },
+      "artists": [
+        {
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+        }
+      ],
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
+    },
+    {
       "added_at": "2022-02-11 18:57:20",
       "album": {
         "name": "4 Rooms",
@@ -705,22 +721,6 @@
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
-      },
-      "artists": [
-        {
-          "name": "BlackLight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 466627,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Between Days",
@@ -737,52 +737,20 @@
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
-      "added_at": "2022-02-11 19:25:22",
+      "added_at": "2021-05-14 04:01:00",
       "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
       },
       "artists": [
         {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+          "name": "BlackLight",
+          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
         }
       ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Come Out and Play",
-        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
-      },
-      "artists": [
-        {
-          "name": "Umziky",
-          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
-        }
-      ],
-      "duration_ms": 187343,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Quantum Blackness",
-        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 387514,
-      "name": "Black Space Jazz",
-      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
+      "duration_ms": 466627,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
     },
     {
       "added_at": "2022-04-25 13:59:49",
@@ -799,6 +767,22 @@
       "duration_ms": 131161,
       "name": "Princess Meadow (Morning)",
       "url": "https://open.spotify.com/track/63KBUxunksAInY8IP2e15L"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Come Out and Play",
+        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
+      },
+      "artists": [
+        {
+          "name": "Umziky",
+          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
+        }
+      ],
+      "duration_ms": 187343,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -825,6 +809,22 @@
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Quantum Blackness",
+        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 387514,
+      "name": "Black Space Jazz",
+      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "88' Jason",
@@ -843,22 +843,6 @@
       "duration_ms": 192364,
       "name": "88' Jason",
       "url": "https://open.spotify.com/track/1gTFeBtNXNU0ibIThvm0xc"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/7w4DtwePB3gH9wCayLd6sj"
-      },
-      "artists": [
-        {
-          "name": "JK Group",
-          "url": "https://open.spotify.com/artist/14HO6LEbVVKsZQ6EVEhqS4"
-        }
-      ],
-      "duration_ms": 313735,
-      "name": "Rising Part II",
-      "url": "https://open.spotify.com/track/7mWuk9EDfbvoBMqE5QBJij"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -891,6 +875,22 @@
       "duration_ms": 183894,
       "name": "Vacuum Lessons",
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/7w4DtwePB3gH9wCayLd6sj"
+      },
+      "artists": [
+        {
+          "name": "JK Group",
+          "url": "https://open.spotify.com/artist/14HO6LEbVVKsZQ6EVEhqS4"
+        }
+      ],
+      "duration_ms": 313735,
+      "name": "Rising Part II",
+      "url": "https://open.spotify.com/track/7mWuk9EDfbvoBMqE5QBJij"
     },
     {
       "added_at": "2022-08-08 13:44:11",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
-      "added_at": "2022-08-08 13:44:11",
-      "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
-      },
-      "artists": [
-        {
-          "name": "THREESIXTY",
-          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
-        }
-      ],
-      "duration_ms": 224399,
-      "name": "Dazed",
-      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
-    },
-    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Excursions",
@@ -961,24 +945,20 @@
       "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2022-08-08 13:44:11",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
       },
       "artists": [
         {
-          "name": "Keeth",
-          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
-        },
-        {
-          "name": "Fo1006",
-          "url": "https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f"
+          "name": "THREESIXTY",
+          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
         }
       ],
-      "duration_ms": 175478,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/7I8IUJLGoJMupsw4bn9YWe"
+      "duration_ms": 224399,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
     },
     {
       "added_at": "2022-08-08 13:44:11",
@@ -1037,6 +1017,26 @@
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
     },
     {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        },
+        {
+          "name": "Fo1006",
+          "url": "https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f"
+        }
+      ],
+      "duration_ms": 175478,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/7I8IUJLGoJMupsw4bn9YWe"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Sunday Kitchen",
@@ -1057,24 +1057,56 @@
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-02-11 19:55:21",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL"
+        "name": "Imani",
+        "url": "https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB"
       },
       "artists": [
         {
-          "name": "Natty Rico",
-          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
+          "name": "E-SWERVE",
+          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
         },
         {
-          "name": "Bruce Kirkwood",
-          "url": "https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg"
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
         }
       ],
-      "duration_ms": 193182,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
+      "duration_ms": 117987,
+      "name": "Imani",
+      "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "lamplighting",
+        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+      },
+      "artists": [
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "duration_ms": 139419,
+      "name": "lamplighting",
+      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Turkish Delight",
+        "url": "https://open.spotify.com/album/0Ywe3TYOzHLCKpkhQkkNYm"
+      },
+      "artists": [
+        {
+          "name": "Carsten Rubeling",
+          "url": "https://open.spotify.com/artist/3QmUu8ApUCQAaGrc0Riv6Y"
+        }
+      ],
+      "duration_ms": 240540,
+      "name": "Turkish Delight",
+      "url": "https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1105,56 +1137,44 @@
       "url": "https://open.spotify.com/track/7CurxbuwMd0zxu2DOtI94j"
     },
     {
-      "added_at": "2022-02-11 19:55:21",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Imani",
-        "url": "https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL"
       },
       "artists": [
         {
-          "name": "E-SWERVE",
-          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
+          "name": "Natty Rico",
+          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
         },
         {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+          "name": "Bruce Kirkwood",
+          "url": "https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg"
         }
       ],
-      "duration_ms": 117987,
-      "name": "Imani",
-      "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
+      "duration_ms": 193182,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Turkish Delight",
-        "url": "https://open.spotify.com/album/0Ywe3TYOzHLCKpkhQkkNYm"
+        "name": "Childhood Memories (Remix)",
+        "url": "https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W"
       },
       "artists": [
         {
-          "name": "Carsten Rubeling",
-          "url": "https://open.spotify.com/artist/3QmUu8ApUCQAaGrc0Riv6Y"
-        }
-      ],
-      "duration_ms": 240540,
-      "name": "Turkish Delight",
-      "url": "https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "lamplighting",
-        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
-      },
-      "artists": [
+          "name": "Gabriel Gosse",
+          "url": "https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY"
+        },
         {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
         }
       ],
-      "duration_ms": 139419,
-      "name": "lamplighting",
-      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
+      "duration_ms": 278226,
+      "name": "Childhood Memories - Remix",
+      "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -1183,26 +1203,6 @@
       "duration_ms": 223302,
       "name": "Typhoon",
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Childhood Memories (Remix)",
-        "url": "https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gosse",
-          "url": "https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Childhood Memories - Remix",
-      "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+      },
+      "artists": [
+        {
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+        }
+      ],
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Kosmological Glitches",
@@ -1269,24 +1285,20 @@
       "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Jakarta",
-        "url": "https://open.spotify.com/album/470EDSykuxSbKTNnVQQudK"
+        "name": "RED PILL",
+        "url": "https://open.spotify.com/album/1aqoGWInaXRSQrc9Daxrtm"
       },
       "artists": [
         {
-          "name": "Sam Wilkes",
-          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
-        },
-        {
-          "name": "Jacob Mann",
-          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
+          "name": "E-SWERVE",
+          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
         }
       ],
-      "duration_ms": 218826,
-      "name": "Jakarta",
-      "url": "https://open.spotify.com/track/5811rGxUfOfsmmymjwKlsB"
+      "duration_ms": 161495,
+      "name": "RED PILL",
+      "url": "https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -1309,20 +1321,40 @@
       "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "RED PILL",
-        "url": "https://open.spotify.com/album/1aqoGWInaXRSQrc9Daxrtm"
+        "name": "Jakarta",
+        "url": "https://open.spotify.com/album/470EDSykuxSbKTNnVQQudK"
       },
       "artists": [
         {
-          "name": "E-SWERVE",
-          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        },
+        {
+          "name": "Jacob Mann",
+          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
         }
       ],
-      "duration_ms": 161495,
-      "name": "RED PILL",
-      "url": "https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg"
+      "duration_ms": 218826,
+      "name": "Jakarta",
+      "url": "https://open.spotify.com/track/5811rGxUfOfsmmymjwKlsB"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Afro Cello (Super Full Moon Rework)",
+        "url": "https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF"
+      },
+      "artists": [
+        {
+          "name": "Danny Keane",
+          "url": "https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "Afro Cello - Super Full Moon Rework",
+      "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1417,20 +1449,20 @@
       "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
+      "added_at": "2022-04-11 13:55:08",
       "album": {
-        "name": "Afro Cello (Super Full Moon Rework)",
-        "url": "https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF"
+        "name": "Stimuli",
+        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
       },
       "artists": [
         {
-          "name": "Danny Keane",
-          "url": "https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR"
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
         }
       ],
-      "duration_ms": 248250,
-      "name": "Afro Cello - Super Full Moon Rework",
-      "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
+      "duration_ms": 144469,
+      "name": "Chem Dawg",
+      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -1465,22 +1497,6 @@
       "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
     },
     {
-      "added_at": "2022-04-11 13:55:08",
-      "album": {
-        "name": "Stimuli",
-        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 144469,
-      "name": "Chem Dawg",
-      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
-    },
-    {
       "added_at": "2021-03-26 04:44:53",
       "album": {
         "name": "Saudade da Festa",
@@ -1503,22 +1519,6 @@
       "duration_ms": 177146,
       "name": "Saudade da Festa",
       "url": "https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Mind Racing",
-        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
-      },
-      "artists": [
-        {
-          "name": "Noah Rosen",
-          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
-        }
-      ],
-      "duration_ms": 347368,
-      "name": "Carlyle Clyde",
-      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
     },
     {
       "added_at": "2021-02-05 05:01:00",

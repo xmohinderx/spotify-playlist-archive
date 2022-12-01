@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: Fousheé
 
-185 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+186 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 | 2022-09-29 |  |
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2022-03-18 | 2022-08-26 |
 | [GIRLKIND \- Edit](https://open.spotify.com/track/3mYLbezTCZ781LFUlV6Cx5) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [GIRLKIND](https://open.spotify.com/album/3Fh6q5ZT9H5s60fVTgFptB) | 4:00 | 2021-12-20 | 2022-06-16 |
-| [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/track/6jlelDSfxfbXHcvecHirda) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/album/20Jc5OznITldQ6pJPjxO5m) | 2:38 | 2021-12-20 |  |
+| [Go Get A Tattoo](https://open.spotify.com/track/7tPXk1owYIRdxRsitIxqOU) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Sticky](https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV) | 2:38 | 2022-11-18 |  |
+| [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/track/6jlelDSfxfbXHcvecHirda) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/album/20Jc5OznITldQ6pJPjxO5m) | 2:38 | 2021-12-20 | 2022-12-01 |
 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 | 2022-07-07 | 2022-08-19 |
 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 | 2022-01-21 | 2022-07-29 |
 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Gotta Do More Gotta Be More](https://open.spotify.com/album/2OtLneHnXrZ3vjRMHJhjgL) | 2:37 | 2021-12-20 |  |

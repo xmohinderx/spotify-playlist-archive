@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 120540,
+  "num_followers": 120531,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDQ4MDY0Y2UzYThmNjNlODljODJjZmU5OTYxODJlZDM3",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGFlMDFkMTg2ZWMyZTk5ZDY5MmY1OGRlZGZhNGRmZWNl",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Juice of Mandarins",
-        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Juice of Mandarins",
-      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Colour",
         "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 155934,
       "name": "Sweetie Odo",
       "url": "https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Juice of Mandarins",
+        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Juice of Mandarins",
+      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 274537,
-      "name": "Bossa Velha",
-      "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Quarta Feira",
         "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 174543,
       "name": "Quarta Feira",
       "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 274537,
+      "name": "Bossa Velha",
+      "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
     },
     {
       "added_at": "2022-11-25 03:00:00",

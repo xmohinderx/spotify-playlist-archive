@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-128 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
+129 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Reels: Dinny O’Brien’s / The Sweetheart Reel / Paddy Kenny’s](https://open.spotify.com/track/3jR8Im8j8hlP24L6Fqe4cj) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [In Spite of the Storm](https://open.spotify.com/album/3v4WQbWHDSyhTNztSsyHBz) | 3:56 | 2020-11-11 |  |
 | [Reels: Dinny O’Brien’s / The Sweetheart Reel / Paddy Kenny’s](https://open.spotify.com/track/5ALXCNEPR26rnNcdfKgn1z) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [In Spite of the Storm](https://open.spotify.com/album/0aZ3NsSd9xjdX8ucdxKjxS) | 3:56 | 2020-11-11 | 2022-07-29 |
 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 | 2020-11-11 |  |
-| [Reels: Liz Carroll's, Paddy Ryan's Dream \(feat\. Eoin O'Neill\)](https://open.spotify.com/track/5Rrjzr6ZuWfda10aATld8W) | [Yvonne Casey](https://open.spotify.com/artist/21AG1sQHWCkkVbpHmpmYo4) | [Yvonne Casey](https://open.spotify.com/album/1gnHAawyGZzM5e8wyfD0to) | 4:10 | 2020-11-11 |  |
+| [Reels: Liz Carroll's / Paddy Ryan's Dream](https://open.spotify.com/track/0dqpDQd9ne4GPUpzsrAsp6) | [Yvonne Casey](https://open.spotify.com/artist/21AG1sQHWCkkVbpHmpmYo4), [Eoin O'Neill](https://open.spotify.com/artist/5WjZM7TNxYLOc9d7fX0OwG) | [Yvonne Casey](https://open.spotify.com/album/4tls5MJzyRgAtnGquJP9Ai) | 4:10 | 2020-11-11 |  |
+| [Reels: Liz Carroll's, Paddy Ryan's Dream \(feat\. Eoin O'Neill\)](https://open.spotify.com/track/5Rrjzr6ZuWfda10aATld8W) | [Yvonne Casey](https://open.spotify.com/artist/21AG1sQHWCkkVbpHmpmYo4) | [Yvonne Casey](https://open.spotify.com/album/1gnHAawyGZzM5e8wyfD0to) | 4:10 | 2020-11-11 | 2022-12-01 |
 | [Reels: Patsy Cambell's:Tie The Bonnet : Mick Finn's](https://open.spotify.com/track/1y4rwW2PwLk6ukef9AxwIe) | [Peter Carberry and Angelina Carberry and John Blake](https://open.spotify.com/artist/2Ske6lxvZGw6STfNeM8Z3B) | [Memories From The Holla](https://open.spotify.com/album/35lYPRZKwNaqAA4CJFcVv2) | 3:20 | 2020-11-11 |  |
 | [Road Up the Bog / One More Pint / Karin Eating a Pickle](https://open.spotify.com/track/4YPAxoYh2yYyrRKrYYEeIR) | [Marys Lane](https://open.spotify.com/artist/3oHO6keHwM1h3iW81nhj2z) | [Power in a Tiny Bottle](https://open.spotify.com/album/7cwu5GGMKBKMBvn5HZFieZ) | 3:43 | 2020-11-11 |  |
 | [Roaring Mary / Stormy Weather](https://open.spotify.com/track/1La2rKoNWzTT4KD5qlz1Sn) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/0D33Hb2cWuuD2bhxVY9VGL) | 2:17 | 2020-11-11 |  |

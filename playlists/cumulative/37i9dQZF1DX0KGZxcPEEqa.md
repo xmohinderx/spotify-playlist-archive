@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-693 songs - 1 day 17 hr 21 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
+694 songs - 1 day 17 hr 25 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,8 +402,9 @@
 | [Misery](https://open.spotify.com/track/2A8wkEq13oYUyGLvolbaes) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/5K4QKGKXZWNhjQiGOzkKLb) | 3:26 | 2022-05-11 | 2022-11-13 |
 | [Misery](https://open.spotify.com/track/6NJwUozBz3XVoDVzOlvFbn) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:26 | 2022-05-11 |  |
 | [Misery](https://open.spotify.com/track/7AjveaJTT8WQn5UTEgvH1E) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:26 | 2021-08-10 | 2022-07-29 |
-| [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 | 2022-05-11 |  |
+| [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 | 2022-05-11 | 2022-12-01 |
 | [Miss You](https://open.spotify.com/track/6IQhhYtJ0U1Zhs76pSMHJO) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy Deluxe](https://open.spotify.com/album/0IFoV4o4v6qKF6JJasI9Jv) | 3:17 | 2022-05-11 | 2022-11-14 |
+| [Miss You](https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 3:17 | 2022-11-29 |  |
 | [Miss You](https://open.spotify.com/track/0W5uDMhD0LwNu0ibe9MJ3Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/6nuULOa2RTLwAFspmzc991) | 3:17 | 2021-08-10 | 2022-10-13 |
 | [Mistakes](https://open.spotify.com/track/0sZfuG1rArPovx9CdZ40vZ) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mistakes](https://open.spotify.com/album/7rQtGumGC7P93t9Z1gUnjd) | 3:24 | 2021-08-10 | 2022-07-29 |
 | [Mistakes](https://open.spotify.com/track/0yvpLNRWeGarNOcQzxxDw8) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:25 | 2022-05-11 |  |
@@ -473,8 +474,8 @@
 | [One Last Night](https://open.spotify.com/track/157wQAD7Lvxvz3J0R3ixYk) | [Vaults](https://open.spotify.com/artist/0TytASn0kOZkCpjYTrXsBt) | [Caught In Still Life](https://open.spotify.com/album/2nk3Rf9f765mq05hYOl0ne) | 3:21 | 2021-08-10 |  |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2021-08-10 |  |
 | [Only One](https://open.spotify.com/track/60vXjxt41zVWPGIM4fZRCk) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Only One](https://open.spotify.com/album/4HKRamqTkTY33iZo7ZtoD2) | 3:11 | 2021-08-10 |  |
-| [Only Teardrops](https://open.spotify.com/track/269y1Vw3O0C9uI3drXpfo9) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/4VLQrWme6hWHy7Uf4f1NvE) | 3:01 | 2022-05-11 |  |
-| [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 | 2021-08-10 | 2022-07-29 |
+| [Only Teardrops](https://open.spotify.com/track/269y1Vw3O0C9uI3drXpfo9) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/4VLQrWme6hWHy7Uf4f1NvE) | 3:01 | 2022-05-11 | 2022-12-01 |
+| [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 | 2021-08-10 |  |
 | [Our First Time](https://open.spotify.com/track/4LjkHlY5qDz0hhFJJH5M7a) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 4:03 | 2022-05-11 | 2022-07-23 |
 | [Our First Time](https://open.spotify.com/track/5BmKRyAjCnvkko7Ms00YtA) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 4:03 | 2022-05-11 |  |
 | [Our First Time](https://open.spotify.com/track/2ljYwIKDmebBF87SyUZFp1) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Pop for Sleep](https://open.spotify.com/album/697rD6oNMNcsssZsAv9qmu) | 4:03 | 2022-05-11 | 2022-11-13 |

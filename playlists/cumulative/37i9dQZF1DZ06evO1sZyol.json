@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64293,
+      "name": "Eon Blue Apocalypse",
+      "url": "https://open.spotify.com/track/5aVJ5rv7ghWSkQaqP726tE"
+    },
+    {
+      "album": {
         "name": "\u00c6nima",
         "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 433920,
       "name": "The Patient",
       "url": "https://open.spotify.com/track/0Klbxk3g96Qae4DbCnUNcT"

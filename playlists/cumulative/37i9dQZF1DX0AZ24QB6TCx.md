@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-242 songs - 21 hr 15 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
+243 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Air](https://open.spotify.com/track/4dbftegZLAdj8BZYxz0Jf8) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Ten Ven](https://open.spotify.com/artist/0ZSLz27xUnI816MMtYfLMI) | [Home / Air](https://open.spotify.com/album/1rvnW8k7TnL9VeR98P7Dfw) | 9:07 | 2021-12-23 | 2022-08-22 |
 | [Al Fajer Al Kazeb \- Kalipo Remix](https://open.spotify.com/track/531V5mHdX6n9VSAgswg3hr) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw), [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Al Fajer Al Kazeb \(Kalipo Remix\)](https://open.spotify.com/album/1fNrfJEG7ijaG32pY5Q1Wp) | 6:47 | 2022-04-15 | 2022-06-09 |
 | [All You Need Is Time](https://open.spotify.com/track/160leq3oBHDPYyD0A6rK3n) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [All You Need Is Time](https://open.spotify.com/album/0OY8sEzJ8DjluG61z0CmrO) | 4:37 | 2021-12-23 | 2022-09-10 |
-| [AvA](https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73) | [AvA](https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD) | 4:47 | 2021-12-23 |  |
+| [AvA](https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73) | [AvA](https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD) | 4:47 | 2021-12-23 | 2022-12-01 |
 | [Balearic Sea](https://open.spotify.com/track/7o0ahnxkovZvbwvg7YdMzi) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Balearic Sea](https://open.spotify.com/album/6xFK1n3vVBXu9ru7pXZotB) | 5:29 | 2021-12-23 | 2022-07-28 |
 | [Base Reality \- Antaares Remix](https://open.spotify.com/track/4xo87kmiqKGCTVTrBqPD1W) | [Anthoni Logos](https://open.spotify.com/artist/06ZsompcifB8IYCLO9IOii), [Antaares](https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3) | [Base Reality \(Antaares Remix\)](https://open.spotify.com/album/4Fslu3ieumSyp9b6DoQt8b) | 7:23 | 2021-12-23 | 2022-07-13 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-06-17 | 2022-10-01 |
@@ -123,6 +123,7 @@
 | [Kidz of Tibet](https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE) | [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn), [Badau](https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU) | [Drum 'N' Feels](https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8) | 6:02 | 2021-12-23 | 2022-11-17 |
 | [Killing Time](https://open.spotify.com/track/3Qgr5fOPZ0ug2kt6yfP7oX) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX) | 5:32 | 2021-12-23 | 2022-10-18 |
 | [Killing Time](https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH) | 5:32 | 2022-10-14 |  |
+| [King Curtis \- Edit](https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [King Curtis](https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J) | 3:46 | 2022-11-16 |  |
 | [King Curtis \- Edit](https://open.spotify.com/track/15lzXkV36tS2YA5RIUK6JX) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [King Curtis](https://open.spotify.com/album/03z3QSsBenvY1ngWwkcxVG) | 3:46 | 2021-12-23 | 2022-11-20 |
 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 | 2022-09-16 | 2022-11-09 |
 | [La Veleta](https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Made of Wood](https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW) | 6:30 | 2021-12-23 |  |

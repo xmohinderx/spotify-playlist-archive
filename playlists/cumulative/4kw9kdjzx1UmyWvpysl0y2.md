@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-356 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+357 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Guiding Light](https://open.spotify.com/track/6dbRhELPiOv4nUNu65lTUJ) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Guiding Light](https://open.spotify.com/album/0myJX8G6tOvCxCR4jiWWJR) | 2:57 | 2022-06-28 | 2022-09-10 |
 | [Happiness \(Just A Pursuit\)](https://open.spotify.com/track/0yyH8JYSfGEDJRUyllg4CG) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve), [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Happiness \(Just A Pursuit\)](https://open.spotify.com/album/26llcMMM2WioNcKNlmrFIk) | 2:44 | 2022-07-12 | 2022-09-23 |
 | [Hate U/Miss U](https://open.spotify.com/track/0RX7vFXvhylgh1xoPAjmPL) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Lani Daye](https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3) | [Hate U/Miss U](https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO) | 2:25 | 2022-03-08 | 2022-05-20 |
-| [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 |  |
+| [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 | 2022-12-01 |
 | [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 | 2022-11-03 |
 | [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 | 2022-10-25 |
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 | 2022-08-23 |
@@ -317,6 +317,7 @@
 | [The Tide](https://open.spotify.com/track/3EuVWEJ5ioMHn84X13v1pm) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [The Tide](https://open.spotify.com/album/5oXND6By8dpwUFwen26Hq7) | 3:00 | 2021-11-19 | 2022-02-18 |
 | [The Truth](https://open.spotify.com/track/6pYH3KiWTMIIQGt9wlsspt) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Truth](https://open.spotify.com/album/343QCnQbAZWkJuQdSYOZTD) | 3:45 | 2021-11-19 | 2022-02-19 |
 | [The Warehouse \- Justin Hawkes Remix](https://open.spotify.com/track/7sYmU8hHavV3BUpCjRKsKe) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Miss Trouble](https://open.spotify.com/artist/6pXPaQEZ2EyfxIRtf9JwyJ), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [The Warehouse \(Justin Hawkes Remix\)](https://open.spotify.com/album/5lxvypUozCcKPlMoKrGuAO) | 4:20 | 2022-02-22 | 2022-04-28 |
+| [this feeling that never ends](https://open.spotify.com/track/4YMmmpFYgC29DqDqjghjuT) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:30 | 2022-11-30 |  |
 | [This Is The Life We Dreamed Of](https://open.spotify.com/track/3pUcJ0iqUjdBp5Tecep22N) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [This Is The Life We Dreamed Of](https://open.spotify.com/album/1Mf5B4sfQnNMkpxt20SZvE) | 3:48 | 2022-03-11 | 2022-05-24 |
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-18 | 2022-09-29 |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |

@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 165316,
+  "num_followers": 165426,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGYyNWY1NTk0OTQ4OWFhZWQ4YzVlZmNlM2JkZDA2OGMx",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDI3ZGU2ZDRiZDRkNzQzN2VmYmM4NDc5YjJkNmViOTA0",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "The Sky is Painted Gray Today",
+        "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 221682,
+      "name": "The Sky is Painted Gray Today",
+      "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Morten Myklebust",
         "url": "https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 178746,
       "name": "Away",
       "url": "https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "The Sky is Painted Gray Today",
-        "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 221682,
-      "name": "The Sky is Painted Gray Today",
-      "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "And Then the Sun Came Up",
-        "url": "https://open.spotify.com/album/0ARbTN291oZy3KePCs36Uq"
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
       "artists": [
         {
-          "name": "Sonic L\u00f8land",
-          "url": "https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 291427,
-      "name": "Astoria",
-      "url": "https://open.spotify.com/track/4ZTOrqZ171TP9z7ubj2LEt"
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+        "name": "And Then the Sun Came Up",
+        "url": "https://open.spotify.com/album/0ARbTN291oZy3KePCs36Uq"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Sonic L\u00f8land",
+          "url": "https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+      "duration_ms": 291427,
+      "name": "Astoria",
+      "url": "https://open.spotify.com/track/4ZTOrqZ171TP9z7ubj2LEt"
     },
     {
       "added_at": "2022-11-24 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Stomrzy, Tone Stith, Pinkpantheress, GloRilla, MFnMelo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,134 likes - 97 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,236 likes - 97 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 91 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 |
 | 92 | [I Admit It](https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [I Admit It](https://open.spotify.com/album/0qS3rNh4aSrYtU9Kibqqet) | 2:22 |
 | 93 | [Say You Want Me](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 |
-| 94 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 |
+| 94 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:55 |
 | 95 | [911](https://open.spotify.com/track/3ioGmqHGRydJELZUyvF3Gg) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [911](https://open.spotify.com/album/7xEXLvt7xAw77JmuFNkfGb) | 2:44 |
 | 96 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 |
 | 97 | [Compare \- A COLORS SHOW](https://open.spotify.com/track/1jCk2UYGvtpxtkyhTRbKgF) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Compare \- A COLORS SHOW](https://open.spotify.com/album/0o2fniizJPNWTYr4ilWA46) | 2:16 |
 
-Snapshot ID: `MTY2OTQwNTg0OCwwMDAwMDAwMDNlNmQ5MTJjZTg3MjBjYTBlOWVkMzFjYTdiNzJkNjNm`
+Snapshot ID: `MTY2OTQwNTg0OCwwMDAwMDAwMGJiMTVlMjQ2MWI3YWM1YjNmNzIwNjE4YmE1MTY4ZjQw`

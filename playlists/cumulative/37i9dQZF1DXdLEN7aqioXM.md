@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-367 songs - 1 day 2 hr 21 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+368 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Assembly Line](https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Selection 6](https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl) | 3:49 | 2022-07-29 |  |
 | [Astral Dive \(From “In Search of Tomorrow”\)](https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p) | [Baldocaster](https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB) | [Astral Dive \(From “In Search of Tomorrow”\)](https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY) | 3:22 | 2022-06-17 | 2022-06-22 |
 | [Atmosfer \- Dr\. Parnassus Remix](https://open.spotify.com/track/38B8FogBbXu8sIkZK9NFmt) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Dr Parnassus](https://open.spotify.com/artist/5XEyV45wxK8tHOXIhJMOtk) | [Mikrokozmos](https://open.spotify.com/album/3sinUlAK8IZ2TqCAmpmWpj) | 7:00 | 2022-02-04 |  |
-| [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2021-10-15 |  |
+| [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2021-10-15 | 2022-12-01 |
 | [Backbone of the Night](https://open.spotify.com/track/0U2HJ0JMW4kMr3Np1ePFZ3) | [D/A/D](https://open.spotify.com/artist/5yLMZlxETbRl2DQChBBkuS) | [The Construct](https://open.spotify.com/album/1y7EUn0wZFWNeGcHB5V7YC) | 4:51 | 2022-07-22 |  |
 | [Backbone of the Night](https://open.spotify.com/track/2pNUmkx55kiyccsZCXKuNs) | [D/A/D](https://open.spotify.com/artist/5yLMZlxETbRl2DQChBBkuS) | [The Construct](https://open.spotify.com/album/0imjZumVsOunsT3qoIxoKI) | 4:51 | 2022-04-01 | 2022-07-28 |
 | [Bad Night at Black's Beach](https://open.spotify.com/track/2vgL4j2cyWWBul8FWQ3GQO) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [Bad Night At Black's Beach](https://open.spotify.com/album/3gjBetsmhoUBsikaY4e6bQ) | 2:50 | 2021-10-15 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [Faded](https://open.spotify.com/track/7hBhvWoutyueUsCOjz6FZa) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Faded](https://open.spotify.com/album/4qVesAkDopkAbgW15jedIe) | 3:19 | 2022-10-28 |  |
 | [Failed Star](https://open.spotify.com/track/39wuQ4m4GBzrGfivIjjL22) | [PatternShift](https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV) | [Failed Star](https://open.spotify.com/album/7ofYca980GtIAs7OOe99GC) | 4:32 | 2021-10-15 | 2022-07-28 |
 | [Feel](https://open.spotify.com/track/1suJTW6qNyv8wrJrhl66GB) | [Mötel](https://open.spotify.com/artist/0t2BvVv6gU4bPa0OFvcTJN) | [Feel](https://open.spotify.com/album/10fs3d44oj8OzWWsAj9eCB) | 3:33 | 2022-04-01 | 2022-04-21 |
+| [Feeling It](https://open.spotify.com/track/3h45GAnateHR2KnCiZYOQA) | [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ) | [Feeling It](https://open.spotify.com/album/0A2F4dtZP2YcS85ZBIrXVp) | 3:20 | 2022-12-01 |  |
 | [Fever](https://open.spotify.com/track/0SoAEe3qrUmjh9YRX4FFbO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb), [BRESDEN](https://open.spotify.com/artist/0djds6pkICcQcfaxmK3cSj) | [Fever](https://open.spotify.com/album/0sTuNWvCX4Wn5zDiflJ7Qz) | 4:16 | 2022-02-04 | 2022-06-14 |
 | [Fire](https://open.spotify.com/track/3XPDYyo2I9dIa2uhgcZhgn) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/1MkCO0adu22r0yPTkhzwjM) | 2:10 | 2022-08-12 | 2022-10-18 |
 | [Fire](https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW) | 2:10 | 2022-11-11 |  |

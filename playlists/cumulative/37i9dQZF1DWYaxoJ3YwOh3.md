@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-70 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
+71 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Arabic Relaxation & Spa](https://open.spotify.com/track/1E1G65tdElBWDMHozuMd6s) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:33 | 2022-09-06 |  |
 | [Arabic Starry Skies](https://open.spotify.com/track/1xCDq8xU7gE09lJcZNBLts) | [Cafe Tantra Chill](https://open.spotify.com/artist/72vLOUKSCa5df8OyEqJ4VY) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 4:06 | 2022-09-06 |  |
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2022-09-06 |  |
-| [Bab' Azîz](https://open.spotify.com/track/4aMXctsHbPJTf4eBWSDtWz) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [Bab' Azîz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18op4iNmaVYwFudFJvyvh7) | 6:11 | 2022-09-06 |  |
+| [Bab' Azîz](https://open.spotify.com/track/39MKo6PLDdb8NhACGWgwzd) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Levon Minassian](https://open.spotify.com/artist/0etYQllgAd4LK3t5LythT8) | [Bab' Azîz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QzhxVmpWQkqzSMPcUG2JJ) | 6:11 | 2022-10-24 |  |
+| [Bab' Azîz](https://open.spotify.com/track/4aMXctsHbPJTf4eBWSDtWz) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [Bab' Azîz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18op4iNmaVYwFudFJvyvh7) | 6:11 | 2022-09-06 | 2022-12-01 |
 | [Body Harmony](https://open.spotify.com/track/09UFsG6dOJpEpZNyduzJuz) | [Tranquility Spa Universe](https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:26 | 2022-09-06 |  |
 | [Breathe Of Anatolia \(417 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/track/1mRjF9HVwkJ472jWW2vZcy) | [Emre Günay](https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix) | [Breathe Of Anatolia \(417 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/album/3FBg6aL3D0dvIVSX9M9h0U) | 3:40 | 2022-09-06 |  |
 | [Calm Night](https://open.spotify.com/track/0GBLzni5lps2xbA5XnpSxg) | [Devans Tushar](https://open.spotify.com/artist/0NZhgsof9BXdMrzgt3S5rj) | [Calm Night](https://open.spotify.com/album/3rX4s5iGt5XMhgHr8eRsuK) | 3:16 | 2022-09-06 |  |

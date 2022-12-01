@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jonasu, Karen Harding, Biscits, Kriss Reeve",
-  "num_followers": 48400,
+  "num_followers": 48397,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTU2Nyw1NjA3ZDg5ZjY5MWExMTc2MjU3OTg5OGE3ZmMwNjkyZjY4ODVhN2Nl",
+  "snapshot_id": "MTU2OCxiM2Y4MjM3NTZiOWMwZWMxZjI1MjA3NTk1NzI3YzZlYTdiZjExZGMz",
   "tracks": [
     {
       "added_at": "2022-09-23 15:41:02",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
-      "added_at": "2022-05-27 15:41:03",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/6KVzcXOjgeOpT21j3753v2"
-      },
-      "artists": [
-        {
-          "name": "Sonny Noto",
-          "url": "https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu"
-        }
-      ],
-      "duration_ms": 184596,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/10TsrSj7gYuj5eSZtlSYy8"
-    },
-    {
       "added_at": "2022-03-13 15:47:02",
       "album": {
         "name": "Escape (feat. Hayla)",
@@ -1197,6 +1181,30 @@
       "url": "https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ"
     },
     {
+      "added_at": "2022-10-25 15:41:02",
+      "album": {
+        "name": "Paper Thin",
+        "url": "https://open.spotify.com/album/1URt4b8uzVuqXU7R9H4EXA"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Tom DeLonge",
+          "url": "https://open.spotify.com/artist/5h7oZ7t5CU9lst1mIrjp3R"
+        },
+        {
+          "name": "Angels & Airwaves",
+          "url": "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
+        }
+      ],
+      "duration_ms": 197062,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/7c2IApOeLTZfrB5dVScRUP"
+    },
+    {
       "added_at": "2021-08-06 15:42:05",
       "album": {
         "name": "Make Up Your Mind",
@@ -1235,30 +1243,6 @@
       "duration_ms": 174720,
       "name": "Leave Me Lonely",
       "url": "https://open.spotify.com/track/64pEn9KcRSD1620xT3RwYB"
-    },
-    {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
-        "name": "Paper Thin",
-        "url": "https://open.spotify.com/album/1URt4b8uzVuqXU7R9H4EXA"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Tom DeLonge",
-          "url": "https://open.spotify.com/artist/5h7oZ7t5CU9lst1mIrjp3R"
-        },
-        {
-          "name": "Angels & Airwaves",
-          "url": "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
-        }
-      ],
-      "duration_ms": 197062,
-      "name": "Paper Thin",
-      "url": "https://open.spotify.com/track/7c2IApOeLTZfrB5dVScRUP"
     },
     {
       "added_at": "2022-05-13 15:44:02",
@@ -1329,26 +1313,6 @@
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
-      "added_at": "2021-10-01 15:41:05",
-      "album": {
-        "name": "Young Again",
-        "url": "https://open.spotify.com/album/34aj8Ikdp6H30mUjgxUtng"
-      },
-      "artists": [
-        {
-          "name": "Daniel Javan",
-          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
-        },
-        {
-          "name": "Rivio",
-          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "Young Again",
-      "url": "https://open.spotify.com/track/26O4gphJQbnUkY8eRLEZiP"
-    },
-    {
       "added_at": "2022-10-25 15:41:02",
       "album": {
         "name": "Hearts on Fire (Timmy Trumpet Remix)",
@@ -1375,6 +1339,26 @@
       "duration_ms": 210860,
       "name": "Hearts on Fire - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/7MjIstQALBdRDou9bynTNO"
+    },
+    {
+      "added_at": "2021-10-01 15:41:05",
+      "album": {
+        "name": "Young Again",
+        "url": "https://open.spotify.com/album/34aj8Ikdp6H30mUjgxUtng"
+      },
+      "artists": [
+        {
+          "name": "Daniel Javan",
+          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
+        },
+        {
+          "name": "Rivio",
+          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Young Again",
+      "url": "https://open.spotify.com/track/26O4gphJQbnUkY8eRLEZiP"
     },
     {
       "added_at": "2022-10-25 15:41:02",
@@ -1489,22 +1473,6 @@
       "url": "https://open.spotify.com/track/02oT3HvcsXD64VwOBtH8yM"
     },
     {
-      "added_at": "2021-08-27 15:43:05",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6XIesm3I61L982b2nw0nG2"
-      },
-      "artists": [
-        {
-          "name": "Jay Dixie",
-          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
-        }
-      ],
-      "duration_ms": 144024,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1s47SzQECm3KBVTs70ZuaE"
-    },
-    {
       "added_at": "2022-08-10 15:41:02",
       "album": {
         "name": "Goosebumps (Remix)",
@@ -1525,20 +1493,20 @@
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
-      "added_at": "2022-10-12 15:44:02",
+      "added_at": "2021-08-27 15:43:05",
       "album": {
-        "name": "Crank",
-        "url": "https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6XIesm3I61L982b2nw0nG2"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Jay Dixie",
+          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
         }
       ],
-      "duration_ms": 178804,
-      "name": "Crank",
-      "url": "https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv"
+      "duration_ms": 144024,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1s47SzQECm3KBVTs70ZuaE"
     },
     {
       "added_at": "2022-09-03 15:41:03",
@@ -1559,6 +1527,22 @@
       "duration_ms": 250226,
       "name": "Faded - Tiesto's Northern Lights Remix",
       "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
+    },
+    {
+      "added_at": "2022-10-12 15:44:02",
+      "album": {
+        "name": "Crank",
+        "url": "https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Crank",
+      "url": "https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv"
     },
     {
       "added_at": "2022-05-10 15:41:03",
@@ -1705,22 +1689,6 @@
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
     },
     {
-      "added_at": "2021-05-13 23:01:06",
-      "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
-      },
-      "artists": [
-        {
-          "name": "Allergic",
-          "url": "https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
-    },
-    {
       "added_at": "2022-06-22 15:41:03",
       "album": {
         "name": "XYZ",
@@ -1735,6 +1703,22 @@
       "duration_ms": 575625,
       "name": "XYZ",
       "url": "https://open.spotify.com/track/7cbsuVHDGO1QWG15TUOOtp"
+    },
+    {
+      "added_at": "2021-05-13 23:01:06",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
+      },
+      "artists": [
+        {
+          "name": "Allergic",
+          "url": "https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
     },
     {
       "added_at": "2022-10-04 15:41:02",
@@ -1829,6 +1813,22 @@
       "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
     },
     {
+      "added_at": "2022-11-29 15:41:02",
+      "album": {
+        "name": "Etiquette Selects",
+        "url": "https://open.spotify.com/album/4BcX1yo6b4Id7oXlKOBBfs"
+      },
+      "artists": [
+        {
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+        }
+      ],
+      "duration_ms": 209199,
+      "name": "Disko Dancin",
+      "url": "https://open.spotify.com/track/0V9XYO0pDS94UFuseqabzL"
+    },
+    {
       "added_at": "2022-11-28 15:41:02",
       "album": {
         "name": "Cubano",
@@ -1845,20 +1845,24 @@
       "url": "https://open.spotify.com/track/4f7zOPXtf4DKqAWgT3FD6x"
     },
     {
-      "added_at": "2022-11-29 15:41:02",
+      "added_at": "2022-11-30 15:41:02",
       "album": {
-        "name": "Etiquette Selects",
-        "url": "https://open.spotify.com/album/4BcX1yo6b4Id7oXlKOBBfs"
+        "name": "Project T",
+        "url": "https://open.spotify.com/album/6iUTtZLadvBzp3SfkXVzQF"
       },
       "artists": [
         {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
         }
       ],
-      "duration_ms": 209199,
-      "name": "Disko Dancin",
-      "url": "https://open.spotify.com/track/0V9XYO0pDS94UFuseqabzL"
+      "duration_ms": 308642,
+      "name": "Project T - Original Mix",
+      "url": "https://open.spotify.com/track/4NRyVCNxLelhs9ZqRzbjjp"
     },
     {
       "added_at": "2021-05-20 23:01:05",
@@ -1923,26 +1927,26 @@
     {
       "added_at": "2022-11-29 15:41:02",
       "album": {
-        "name": "Rhythm Is A Dancer",
-        "url": "https://open.spotify.com/album/2NkTxW1qE64y6Z52cshnoD"
+        "name": "It Ain't You",
+        "url": "https://open.spotify.com/album/5FLGc9Ma9WgXnlLoQVPDs2"
       },
       "artists": [
         {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+          "name": "Jordan Jay",
+          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
         },
         {
-          "name": "Dropgun",
-          "url": "https://open.spotify.com/artist/3nAdmhth5AczU6YwCJOlYh"
+          "name": "Sonny Bass",
+          "url": "https://open.spotify.com/artist/3M6DDMNuxoccVfUSPgbupI"
         },
         {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Rhythm Is A Dancer",
-      "url": "https://open.spotify.com/track/3hY80yJLjl2VgYLjn1aLVp"
+      "duration_ms": 173520,
+      "name": "It Ain't You",
+      "url": "https://open.spotify.com/track/0RRA5oMkDbzlEBaUXzjAo4"
     },
     {
       "added_at": "2022-11-29 15:41:02",
@@ -1973,28 +1977,24 @@
       "url": "https://open.spotify.com/track/50yFqoTXLnFKpgpXU94dTn"
     },
     {
-      "added_at": "2022-11-29 15:41:02",
+      "added_at": "2022-11-30 15:41:02",
       "album": {
-        "name": "It Ain't You",
-        "url": "https://open.spotify.com/album/5FLGc9Ma9WgXnlLoQVPDs2"
+        "name": "Hands in the Fire",
+        "url": "https://open.spotify.com/album/6YdKQ0eOvhYNHZElEnxSjy"
       },
       "artists": [
         {
-          "name": "Jordan Jay",
-          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
         },
         {
-          "name": "Sonny Bass",
-          "url": "https://open.spotify.com/artist/3M6DDMNuxoccVfUSPgbupI"
-        },
-        {
-          "name": "Alessia Labate",
-          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
         }
       ],
-      "duration_ms": 173520,
-      "name": "It Ain't You",
-      "url": "https://open.spotify.com/track/0RRA5oMkDbzlEBaUXzjAo4"
+      "duration_ms": 176842,
+      "name": "Hands in the Fire",
+      "url": "https://open.spotify.com/track/400HuEeBDaTZSotSb1WJeI"
     },
     {
       "added_at": "2022-11-29 15:41:02",
@@ -2013,24 +2013,28 @@
       "url": "https://open.spotify.com/track/5xMMxb79haEK4MxUzyOr4E"
     },
     {
-      "added_at": "2022-11-29 15:41:02",
+      "added_at": "2022-11-30 15:41:02",
       "album": {
-        "name": "Carry Me Home (feat. Jake Reese)",
-        "url": "https://open.spotify.com/album/102DnoxN7Wrs46tdgNI080"
+        "name": "BED",
+        "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Jake Reese",
-          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Carry Me Home (feat. Jake Reese)",
-      "url": "https://open.spotify.com/track/2M1mqcNUBIAfRoD2Puhejf"
+      "duration_ms": 178087,
+      "name": "BED",
+      "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
     }
   ],
   "unique_name": "EDM Top 100",

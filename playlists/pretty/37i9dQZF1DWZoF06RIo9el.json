@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de diciembre 2022.",
-  "num_followers": 1505684,
+  "num_followers": 1505828,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY2MjAzOCwwMDAwMDAwMDNiNjRkMWUxYzQ2MmM5MmMyNTg4NGVhYzI2YmQzYmI0",
+  "snapshot_id": "MTY2OTY2MjAzOCwwMDAwMDAwMDIwMjJhNzA5OTAyYThjZjYwMTM1OGVkZDUyZTdmZTNh",
   "tracks": [
     {
       "added_at": "2022-11-28 19:00:38",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "Ya Casi Vienen",
-        "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Foto En Panty",
-      "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
-    },
-    {
-      "added_at": "2022-11-28 19:00:38",
-      "album": {
         "name": "LACONE",
         "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
       },
@@ -335,22 +319,18 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "A Mi Lado",
-        "url": "https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi"
+        "name": "Ya Casi Vienen",
+        "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 197000,
-      "name": "A Mi Lado",
-      "url": "https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS"
+      "duration_ms": 174946,
+      "name": "Foto En Panty",
+      "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -371,22 +351,6 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "DIME QUI\u00c9N????",
-        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164727,
-      "name": "DIME QUI\u00c9N????",
-      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
-    },
-    {
-      "added_at": "2022-11-28 19:00:38",
-      "album": {
         "name": "JS4E",
         "url": "https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U"
       },
@@ -403,26 +367,38 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "SIMPLY THE BEST",
-        "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
+        "name": "A Mi Lado",
+        "url": "https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 236190,
-      "name": "SIMPLY THE BEST",
-      "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
+      "duration_ms": 197000,
+      "name": "A Mi Lado",
+      "url": "https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS"
+    },
+    {
+      "added_at": "2022-11-28 19:00:38",
+      "album": {
+        "name": "DIME QUI\u00c9N????",
+        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164727,
+      "name": "DIME QUI\u00c9N????",
+      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -447,6 +423,26 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
+        "name": "Ulala",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188009,
+      "name": "Ulala",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "added_at": "2022-11-28 19:00:38",
+      "album": {
         "name": "Si Yo Me Muero",
         "url": "https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH"
       },
@@ -467,22 +463,26 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "Ulala",
-        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+        "name": "SIMPLY THE BEST",
+        "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 188009,
-      "name": "Ulala",
-      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+      "duration_ms": 236190,
+      "name": "SIMPLY THE BEST",
+      "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "Doxxis",
-        "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 186601,
-      "name": "Doxxis",
-      "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
-    },
-    {
-      "added_at": "2022-11-28 19:00:38",
-      "album": {
         "name": "Hombres y Mujeres",
         "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
       },
@@ -559,22 +539,22 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+        "name": "Doxxis",
+        "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 226772,
-      "name": "CAZADORES",
-      "url": "https://open.spotify.com/track/29A2LhTvYXCCkYutVIj3cB"
+      "duration_ms": 186601,
+      "name": "Doxxis",
+      "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -595,6 +575,26 @@
       "duration_ms": 189677,
       "name": "Nervous - Remix",
       "url": "https://open.spotify.com/track/5lVvaCKARxKTJXZIWgzo6c"
+    },
+    {
+      "added_at": "2022-11-28 19:00:38",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
+        }
+      ],
+      "duration_ms": 226772,
+      "name": "CAZADORES",
+      "url": "https://open.spotify.com/track/29A2LhTvYXCCkYutVIj3cB"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -771,6 +771,30 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/1wbEwwQ1CWBfo5nut7Rx3Y"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 207414,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1Gq7wM0F22XRuUEgxJFbJQ"
+    },
+    {
+      "added_at": "2022-11-28 19:00:38",
+      "album": {
         "name": "BRUTAL - Spotify Singles",
         "url": "https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 194086,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/1pmr48ziRb5x780HueyO3y"
-    },
-    {
-      "added_at": "2022-11-28 19:00:38",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/1wbEwwQ1CWBfo5nut7Rx3Y"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 207414,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1Gq7wM0F22XRuUEgxJFbJQ"
     },
     {
       "added_at": "2022-11-28 19:00:38",

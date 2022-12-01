@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,965 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,248 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,21 +71,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 61 | [Deport Them](https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 3:08 |
 | 62 | [Press Trigger](https://open.spotify.com/track/27GiOlVbVjPaN8wco4d9m2) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:45 |
 | 63 | [All 2 Myself](https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [All 2 Myself](https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ) | 2:31 |
-| 64 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
-| 65 | [Top Prize](https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on) | 3:12 |
+| 64 | [Top Prize](https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on) | 3:12 |
+| 65 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
 | 66 | [Boom Bang](https://open.spotify.com/track/437B7MVyS4cRTtwIBCDp39) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Boom Bang \(with Davido\)](https://open.spotify.com/album/0HRvp6uFFEX8fbALXV3ten) | 2:41 |
 | 67 | [Who Am I](https://open.spotify.com/track/2d6gIQ6KRsmMKQYjEBFEN9) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:15 |
 | 68 | [Give Me the Light](https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:46 |
-| 69 | [Gallis](https://open.spotify.com/track/3RLkSmtXZOjPCPNnIw7ZZ3) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Riddim Driven: Trippple Bounce](https://open.spotify.com/album/3t5RTHE4Zh7S0qeAbzPUwe) | 2:37 |
-| 70 | [Dutty Wine](https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Smash](https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh) | 3:07 |
-| 71 | [Elegance \(Remix\)](https://open.spotify.com/track/6dJRflqO0CBFUmTpdOKy0L) | [The Rara](https://open.spotify.com/artist/2swQzHP8Iqn9LYO7mKx9Um), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Elegance \(Remix\)](https://open.spotify.com/album/7ExVCJjWl0QaOoLOLpv1IE) | 3:54 |
-| 72 | [Man a Star \- Remix](https://open.spotify.com/track/4uBjlrTaTTnhNQAGMIB982) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Man a Star \(Remix\)](https://open.spotify.com/album/3hlpUSqZ8zVJ7tcvOg0LlR) | 3:12 |
-| 73 | [Incredible](https://open.spotify.com/track/2fq7lLTvRHZjUPqh5a20n5) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Incredible](https://open.spotify.com/album/3Std2W2SZ7fLAVYdrYpOqo) | 4:29 |
-| 74 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 |
+| 69 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 |
+| 70 | [Gallis](https://open.spotify.com/track/3RLkSmtXZOjPCPNnIw7ZZ3) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Riddim Driven: Trippple Bounce](https://open.spotify.com/album/3t5RTHE4Zh7S0qeAbzPUwe) | 2:37 |
+| 71 | [Dutty Wine](https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Smash](https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh) | 3:07 |
+| 72 | [Elegance \(Remix\)](https://open.spotify.com/track/6dJRflqO0CBFUmTpdOKy0L) | [The Rara](https://open.spotify.com/artist/2swQzHP8Iqn9LYO7mKx9Um), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Elegance \(Remix\)](https://open.spotify.com/album/7ExVCJjWl0QaOoLOLpv1IE) | 3:54 |
+| 73 | [Man a Star \- Remix](https://open.spotify.com/track/4uBjlrTaTTnhNQAGMIB982) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Man a Star \(Remix\)](https://open.spotify.com/album/3hlpUSqZ8zVJ7tcvOg0LlR) | 3:12 |
+| 74 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 |
 | 75 | [Hot Wuk \(Album Clean\)](https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Hot Wuk 12"](https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O) | 3:49 |
 | 76 | [Infiltrate](https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:27 |
-| 77 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 |
+| 77 | [Incredible](https://open.spotify.com/track/2fq7lLTvRHZjUPqh5a20n5) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Incredible](https://open.spotify.com/album/3Std2W2SZ7fLAVYdrYpOqo) | 4:29 |
 | 78 | [Original Nuttah](https://open.spotify.com/track/53mh7POQqTXj2Cfh7phP5b) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi) | [Original Nuttah](https://open.spotify.com/album/3z68B1FAnvehe5zSdLhNCO) | 5:12 |
 | 79 | [Do You Mind](https://open.spotify.com/track/2nQ5CtkYZ2ufJNP3C4BL0I) | [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Best in '09](https://open.spotify.com/album/0zoxOALXc0b2mKAtlSyBQe) | 1:28 |
 
-Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMDgyNTU1ZDlkMjJjNmY0NzBjYjBlZjQ2NjliZmMxMTll`
+Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMGE0MjM1YWQ5NTNkNmRmZmI0NjEwOTQyMWIzNWE3OTcw`

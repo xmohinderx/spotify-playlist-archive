@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,817 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,930 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 28 | [Live Your Life](https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Live Your Life](https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP) | 3:20 |
 | 29 | [Can't Get Over You](https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY), [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [Can't Get Over You](https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR) | 2:22 |
 | 30 | [The Truth](https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [The Truth](https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj) | 3:13 |
-| 31 | [Melhores Bailes Do Mundo](https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [WATILA GYN](https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l), [DANNTZ!](https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16) | [Melhores Bailes Do Mundo](https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4) | 2:01 |
-| 32 | [Fica Tudo Bem \- Bhaskar Remix](https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Fica Tudo Bem \(Bhaskar Remix\)](https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t) | 2:54 |
+| 31 | [Fica Tudo Bem \- Bhaskar Remix](https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Fica Tudo Bem \(Bhaskar Remix\)](https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t) | 2:54 |
+| 32 | [Melhores Bailes Do Mundo](https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [WATILA GYN](https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l), [DANNTZ!](https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16) | [Melhores Bailes Do Mundo](https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4) | 2:01 |
 | 33 | [Tempos Modernos](https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl) | [Make U Sweat](https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Tempos Modernos](https://open.spotify.com/album/63zhf4PV2rfoHI0kdk7W5s) | 3:35 |
 | 34 | [Céu Azul \- Vintage Culture & Santti Remix](https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Vintage Culture & Friends 2](https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA) | 4:21 |
 | 35 | [Bem Melhor \- KVSH Remix](https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Bem Melhor \(KVSH Remix\)](https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Fiz Esse Som Pra Você \- Double MZK Remix](https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Fiz Esse Som Pra Você \(Double MZK Remix\)](https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT) | 3:29 |
 | 70 | [Todo Homem \- Bhaskar, Mojjo Remix](https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Todo Homem \(Bhaskar, Mojjo Remix\)](https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN) | 4:29 |
 
-Snapshot ID: `MTY2OTM0NTI2MCwwMDAwMDAwMGIzOTBkNjYwNGMyMmJhODcxNzkxZjE5MGM5NTg0OWI2`
+Snapshot ID: `MTY2OTM0NTI2MCwwMDAwMDAwMGE5Mzc4MjBjNjU0MzY1ZTdhZWJlMGFiNzhmZTIzYThk`

@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 LOS MUCHACHOS en portada.",
-  "num_followers": 56633,
+  "num_followers": 56715,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1MTIwMCwwMDAwMDAwMDg1NDcxZWYwNDE1NmRkNDEyYWJlZWE4NGY5MTQ5NjU2",
+  "snapshot_id": "MTY2ODc1MTIwMCwwMDAwMDAwMGI3Y2Q4OGI5ZjY3ZDBiNzZjZGFlY2ExZThmYjg2OWNm",
   "tracks": [
     {
       "added_at": "2022-11-18 06:00:00",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
     },
     {
-      "added_at": "2022-01-28 06:00:00",
-      "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
-    },
-    {
       "added_at": "2022-01-25 00:00:59",
       "album": {
         "name": "Desde la Ra\u00edz",
@@ -467,6 +451,22 @@
       "duration_ms": 201205,
       "name": "Fumando Mota",
       "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
+    },
+    {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2022-01-25 00:00:59",
@@ -927,18 +927,22 @@
     {
       "added_at": "2022-11-08 00:20:19",
       "album": {
-        "name": "Mi \u00daltima Venganza",
-        "url": "https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm"
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 213677,
-      "name": "Mi \u00daltima Venganza",
-      "url": "https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU"
+      "duration_ms": 200682,
+      "name": "Seguimos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2022-11-08 00:20:19",
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+        "name": "Mi \u00daltima Venganza",
+        "url": "https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 200682,
-      "name": "Seguimos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
+      "duration_ms": 213677,
+      "name": "Mi \u00daltima Venganza",
+      "url": "https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
     },
     {
-      "added_at": "2022-11-08 00:20:19",
-      "album": {
-        "name": "Me Voy Pa'l Infierno",
-        "url": "https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 187926,
-      "name": "Me Voy Pa'l Infierno",
-      "url": "https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc"
-    },
-    {
       "added_at": "2022-09-27 19:03:52",
       "album": {
         "name": "Corridos 100% Callejeros (Vol. 1)",
@@ -1179,6 +1163,22 @@
       "duration_ms": 203592,
       "name": "Hago Lo Que Quiero",
       "url": "https://open.spotify.com/track/0A7EQRUzKago08tYnnXC19"
+    },
+    {
+      "added_at": "2022-11-08 00:20:19",
+      "album": {
+        "name": "Me Voy Pa'l Infierno",
+        "url": "https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 187926,
+      "name": "Me Voy Pa'l Infierno",
+      "url": "https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc"
     },
     {
       "added_at": "2021-12-17 06:00:00",

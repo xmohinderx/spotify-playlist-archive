@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Maggie Rogers.
 
-264 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+265 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 | 2021-09-14 |  |
 | [LOVE IN THE DARK \- Recorded at East West Studios, LA](https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM) | 3:34 | 2021-09-14 |  |
 | [Love So Soft \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6rz4aPhhNM6PFh3Ar2n07X) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 2:54 | 2021-09-14 |  |
-| [Loyal \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:44 | 2021-09-14 |  |
+| [Loyal \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:44 | 2021-09-14 | 2022-12-01 |
 | [Loyal to Me \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6Y1WpXQywt8Fg7MfahslyC) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 3:27 | 2021-09-14 |  |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-09-14 |  |
 | [Maps \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:24 | 2021-09-14 |  |
@@ -174,6 +174,7 @@
 | [Out of Focus \- Live From Spotify Studios NYC](https://open.spotify.com/track/7h2NYUbQQgZXJ0KMMYhiBF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:30 | 2022-03-08 | 2022-10-14 |
 | [Out of Focus \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5hNR2TXslThoEgqqdDlt8F) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:30 | 2021-09-14 | 2022-07-29 |
 | [Out Of Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:52 | 2021-09-14 |  |
+| [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1U0deAPhGBIywMOiaufLEk) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf) | 4:35 | 2022-10-26 |  |
 | [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qc95VxpLLPEfAD4YIZYn5) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:35 | 2021-09-14 | 2022-10-19 |
 | [Partner In Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 | 2022-09-01 |  |
 | [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 | 2021-09-14 |  |

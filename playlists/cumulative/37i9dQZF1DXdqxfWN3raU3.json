@@ -3377,10 +3377,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 143225,
       "name": "\u00cdntimo",
       "url": "https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6"
+    },
+    {
+      "album": {
+        "name": "\u00cdntimo",
+        "url": "https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO"
+      },
+      "artists": [
+        {
+          "name": "Alex Gracia",
+          "url": "https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143626,
+      "name": "\u00cdntimo",
+      "url": "https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3"

@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-51 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
+52 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Trill Shit](https://open.spotify.com/track/03gJID2yRJnrWDssCBx77y) | [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X) | [Top Bitch](https://open.spotify.com/album/5Sz4wKUtVXEcwZhTVrihJo) | 2:15 | 2022-04-14 |  |
 | [Wana](https://open.spotify.com/track/0JggYhzdak2vD47gkP9K4U) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Wana](https://open.spotify.com/album/0bY1O5psyu1iG4NtHqQqZn) | 2:36 | 2022-04-14 |  |
 | [War Outside \(feat\. Lex Amor\)](https://open.spotify.com/track/06eTOJlWZlR8mcLgFpUT0D) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [War Outside \(feat\. Lex Amor\)](https://open.spotify.com/album/78gx32eNZlKonhZE1ETeWF) | 3:56 | 2022-04-14 |  |
-| [With Ease](https://open.spotify.com/track/4MdeF9881Pvt8nY8ZkgLs9) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [No Panic No Pain](https://open.spotify.com/album/7K0LNLvjx54vssCWX26PzR) | 3:29 | 2022-04-14 |  |
+| [With Ease](https://open.spotify.com/track/2HZJ32CpIAgAA81KB7VKgs) | [FLOHIO](https://open.spotify.com/artist/05RPf2nrkYOXtyU1gYkQfm), [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [No Panic No Pain](https://open.spotify.com/album/1F7ZwENWE2g0UXyVC1gYoe) | 3:29 | 2022-04-14 |  |
+| [With Ease](https://open.spotify.com/track/4MdeF9881Pvt8nY8ZkgLs9) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [No Panic No Pain](https://open.spotify.com/album/7K0LNLvjx54vssCWX26PzR) | 3:29 | 2022-04-14 | 2022-12-01 |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

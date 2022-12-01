@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Nicole Horts en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,927 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,973 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 73 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 | 74 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
 | 75 | [MENTE DE AGUA](https://open.spotify.com/track/1sf7pnykFEJKQdQzjdV7aL) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [MENTE DE AGUA](https://open.spotify.com/album/3RI9UsS8XzaZCMwRIUmFAZ) | 3:39 |
-| 76 | [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 |
+| 76 | [Íntimo](https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO) | 2:23 |
 | 77 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
 | 78 | [Vuelve](https://open.spotify.com/track/2NTW4OAxduyf9PmLhMZxZ5) | [Lula Miranda](https://open.spotify.com/artist/5QdliCUikV62vIkzFJV2IR), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Vuelve](https://open.spotify.com/album/4d0PIi01cYvFx7Ew1qCl8a) | 3:37 |
 | 79 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
 | 100 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 |
 
-Snapshot ID: `MTY2OTM5MDUxNiwwMDAwMDAwMGQwM2I5MTA4MDRjNzM4MTNjYWFlZDk3ZWU0ZGI2NzUw`
+Snapshot ID: `MTY2OTM5MDUxNiwwMDAwMDAwMDdjNzUzMDRkNjc0ZGI4ZjRkZGNmZWVkZTk5ZTg4NTA4`

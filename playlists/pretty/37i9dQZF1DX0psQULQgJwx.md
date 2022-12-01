@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Lounge sounds for SPA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,247 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,434 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 56 | [Enchanted Forest](https://open.spotify.com/track/30UsA3ghZRFAralfqz7qn4) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:25 |
 | 57 | [Nature Calling](https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 2:52 |
 | 58 | [This night](https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [This night](https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G) | 3:10 |
-| 59 | [Lilac Dreams](https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0OOUG19z97HpHhoLIfMXlE) | 4:29 |
+| 59 | [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 |
 | 60 | [Özgürlük](https://open.spotify.com/track/4qQPBDDn5KAPjxvpYDGNsR) | [Erim Yerlikaya](https://open.spotify.com/artist/2eYEu9NiGEPnCI1aaFuACY) | [Özgürlük](https://open.spotify.com/album/0ZsQ8ZSShriz3lUzh19dpA) | 3:56 |
 | 61 | [Night Flowers](https://open.spotify.com/track/6yozO90dl8v9Itmf2LLDbN) | [Senjidema](https://open.spotify.com/artist/400zjNMBMV1D33VF5R2S1l) | [Hammam Spirit](https://open.spotify.com/album/0UI1FidROVrq8SVzYAzjXt) | 4:41 |
 | 62 | [At the Old Village](https://open.spotify.com/track/6ntmm1oBcl7JIjEIQJqSLQ) | [Zhu Lin](https://open.spotify.com/artist/5kVqstdlRUQK3cIHbOsyF0) | [Bamboo Forest](https://open.spotify.com/album/2gImx0N8Hm1OrfcUB2jTiw) | 3:52 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 95 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 |
 | 96 | [Neela](https://open.spotify.com/track/6DgWjbrZFA4uTWJgTH3Q3p) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Neela](https://open.spotify.com/album/0rgB5Ap7skxzetcGFpaPZC) | 4:02 |
 
-Snapshot ID: `MTY2OTEzMzU1MiwwMDAwMDAwMGRmMDFlZmJlZmEwOTE0MmVlNzE1ODY1NGFjMzI5NzJh`
+Snapshot ID: `MTY2OTEzMzU1MiwwMDAwMDAwMDYxNjExMDA5YjdjZjgzOTY3Y2MyZjUyMzhmNjQzZWI2`

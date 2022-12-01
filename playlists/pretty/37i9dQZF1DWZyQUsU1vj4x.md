@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,899 likes - 96 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,028 likes - 96 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 53 | [Top Yourself](https://open.spotify.com/track/7w85ReRElKKmLNCbPaKPGN) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 4:25 |
 | 54 | [Rattlesnake](https://open.spotify.com/track/6QNwiDTnnDOJPukpRCHeGm) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Outskirt](https://open.spotify.com/album/0G8dZ5FAjZVuklz6LI3AsV) | 2:30 |
 | 55 | [Say It](https://open.spotify.com/track/0NzxWtlzpZWoM1juAYydbI) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Heart Song](https://open.spotify.com/album/0nuFFioVPJfJt0IWDSu7fL) | 6:14 |
-| 56 | [Devil's Girl](https://open.spotify.com/track/4bnnv2462H6doSlieJUhrP) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3on6GsTjI3kH4pyof9Arhp) | 3:29 |
+| 56 | [Devil's Girl](https://open.spotify.com/track/5rEYeXEDqlKDbjArQVIQt6) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14TZLEaVzCm5wnyjCJKLXi) | 3:29 |
 | 57 | [Footprints](https://open.spotify.com/track/2pYY9r8kEKur6zGf50QZDa) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Walking With a Stranger](https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx) | 3:28 |
 | 58 | [Beautiful Friend](https://open.spotify.com/track/4G3hsMbbTUffZfG9l400kU) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Dan Cutler](https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY) | [Hurry Home](https://open.spotify.com/album/4RKuLpgetLJvQjY8e9NufA) | 2:58 |
 | 59 | [Hero](https://open.spotify.com/track/5StRcEVQTC2uiHjeSKxW0d) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [My Wild West](https://open.spotify.com/album/446zvOtU7llJSvyCfROA6o) | 3:32 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 95 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 96 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGY3YzEzMjU2MWM3ZDhlMWRhMWRjYjA1YmRlNTc5MTgw`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDZkMmE4NGUxM2VlMDVlNTUzZDlkOGVmZDQzMGJkYTVm`

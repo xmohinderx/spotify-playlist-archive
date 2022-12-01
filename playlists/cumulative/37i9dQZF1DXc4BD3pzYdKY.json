@@ -5629,7 +5629,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 168003,
       "name": "His Side",
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
@@ -7659,7 +7659,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 146401,
       "name": "LOOK AT ME NOW",
       "url": "https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe"
@@ -9807,6 +9807,24 @@
       "duration_ms": 180036,
       "name": "Outta Reach",
       "url": "https://open.spotify.com/track/5oImTA2OSoJZYJ9TWhm2bs"
+    },
+    {
+      "album": {
+        "name": "Outta Your Way",
+        "url": "https://open.spotify.com/album/5F0Whx3yIBOSd0lXw8Xj3a"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162423,
+      "name": "Outta Your Way",
+      "url": "https://open.spotify.com/track/1YaCdYraH4jOOPlTAbusCG"
     },
     {
       "album": {
@@ -15293,7 +15311,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 135131,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/2aoKQriMD3ukMvGVylzMGs"

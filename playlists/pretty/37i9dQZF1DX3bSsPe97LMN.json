@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Beto Vega en portada.",
-  "num_followers": 46205,
+  "num_followers": 46256,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1MTIwMCwwMDAwMDAwMDk0N2E1YTk1MjdkZGFiZjBmOTU2ODM1MjFiM2I0YjZh",
+  "snapshot_id": "MTY2ODc1MTIwMCwwMDAwMDAwMDI5MWZlZDA4ZDVjYzBmZTJhMDEwMjZhNGI4YWZjYWYy",
   "tracks": [
     {
       "added_at": "2022-09-30 05:00:00",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
-      "added_at": "2022-11-30 01:20:30",
+      "added_at": "2022-12-01 01:28:37",
       "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
     },
     {
-      "added_at": "2022-11-30 01:20:30",
+      "added_at": "2022-12-01 01:28:37",
       "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
-      "added_at": "2022-11-30 01:20:30",
+      "added_at": "2022-12-01 01:28:37",
       "album": {
         "name": "Por Ti - Spotify Singles",
         "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI"
     },
     {
-      "added_at": "2022-11-30 01:20:30",
+      "added_at": "2022-12-01 01:28:37",
       "album": {
         "name": "C\u00f3mo Poder Olvidar (Spotify Singles)",
         "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
-      "added_at": "2022-11-30 01:20:30",
+      "added_at": "2022-12-01 01:28:37",
       "album": {
         "name": "Vanessa Guillen",
         "url": "https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB"
     },
     {
-      "added_at": "2022-11-30 01:20:30",
+      "added_at": "2022-12-01 01:28:37",
       "album": {
         "name": "Triste Navidad - Spotify Singles",
         "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8"
     },
     {
-      "added_at": "2022-11-30 01:20:30",
+      "added_at": "2022-12-01 01:28:37",
       "album": {
         "name": "Solo En Navidad",
         "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2"
     },
     {
-      "added_at": "2022-11-30 01:20:30",
+      "added_at": "2022-12-01 01:28:37",
       "album": {
         "name": "No Me Ense\u00f1aste",
         "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-11 06:00:00",
       "album": {
-        "name": "El Beso De Judas",
-        "url": "https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 186186,
-      "name": "El Beso De Judas",
-      "url": "https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
         "name": "INERCIA",
         "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 203866,
       "name": "Se Rumora",
       "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "El Beso De Judas",
+        "url": "https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 186186,
+      "name": "El Beso De Judas",
+      "url": "https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/6iYEK8ZLg74oeRBCpgaRXi"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "El Gallo Fino",
-        "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 186069,
-      "name": "El Gallo Fino",
-      "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
-    },
-    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "Sombrero Vaquero",
@@ -825,6 +809,22 @@
       "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
     },
     {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "El Gallo Fino",
+        "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 186069,
+      "name": "El Gallo Fino",
+      "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
+    },
+    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Casa en Llamas",
@@ -839,6 +839,22 @@
       "duration_ms": 194403,
       "name": "Casa en Llamas",
       "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/4eky7dCgnmnMB5qsfnX2JB"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/7EPYXn0AsffG3qcjCohHit"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 194025,
       "name": "Viaje Verde",
       "url": "https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/4eky7dCgnmnMB5qsfnX2JB"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/7EPYXn0AsffG3qcjCohHit"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/57nfgIlZNskOJezJBPKAEw"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "1942",
-        "url": "https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb"
-      },
-      "artists": [
-        {
-          "name": "Izzy La Reina",
-          "url": "https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi"
-        }
-      ],
-      "duration_ms": 138448,
-      "name": "1942",
-      "url": "https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Qui\u00e9n Como Ella",
@@ -1131,6 +1115,22 @@
       "duration_ms": 119217,
       "name": "Qui\u00e9n Como Ella",
       "url": "https://open.spotify.com/track/34IPKpDvkxraMK2roBo2O7"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb"
+      },
+      "artists": [
+        {
+          "name": "Izzy La Reina",
+          "url": "https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi"
+        }
+      ],
+      "duration_ms": 138448,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m"
     },
     {
       "added_at": "2022-09-23 19:34:49",

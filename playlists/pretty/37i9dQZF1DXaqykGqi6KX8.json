@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 30575,
+  "num_followers": 30615,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDhmYjg5Y2RmY2MxMTVkZTkwMDM5NGJjMDQzZGQ1ZWQ1",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDhmZTA1Njc0NTJiY2JkNTAwOGY2MzMyNmI3NWQ4OTcx",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "GILGAMESH",
-        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
-      },
-      "artists": [
-        {
-          "name": "Acrassicauda",
-          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
-        }
-      ],
-      "duration_ms": 226795,
-      "name": "Quest For Eternity",
-      "url": "https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Wasted Years",
         "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 240507,
       "name": "Time to Raise the Curtains",
       "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "GILGAMESH",
+        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
+      },
+      "artists": [
+        {
+          "name": "Acrassicauda",
+          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
+        }
+      ],
+      "duration_ms": 226795,
+      "name": "Quest For Eternity",
+      "url": "https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "GILGAMESH",
-        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
-      },
-      "artists": [
-        {
-          "name": "Acrassicauda",
-          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
-        }
-      ],
-      "duration_ms": 188734,
-      "name": "The Cost Of Everything And The Value Of Nothing",
-      "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Garden of Dystopia",
         "url": "https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 484600,
       "name": "The Gambit",
       "url": "https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+      },
+      "artists": [
+        {
+          "name": "Nawather",
+          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+        }
+      ],
+      "duration_ms": 377472,
+      "name": "Kont Trab",
+      "url": "https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe"
     }
   ],
   "unique_name": "Arab Metal",

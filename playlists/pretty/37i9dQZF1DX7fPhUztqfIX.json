@@ -1,13 +1,33 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 97143,
+  "num_followers": 97207,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDYzMzZmODQzYTdmODgwYmE4ZmUyYzYwMmQ5NTJmYTli",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDNjMDRkMWQ4ZTQwYjFiZDVlOWZmYjJlZTA0NjdkMDRh",
   "tracks": [
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "Goodness of God - Live",
+      "url": "https://open.spotify.com/track/1gj9poFl2mLKkguqWo5Y1i"
+    },
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "Goodness of God - Live",
-      "url": "https://open.spotify.com/track/1gj9poFl2mLKkguqWo5Y1i"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -487,26 +487,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Alive & Breathing Vol. 2",
-        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 241764,
-      "name": "Alive & Breathing (feat. Elle Limebear)",
-      "url": "https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Housefires + Friends (Live)",
         "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 477513,
       "name": "Lift You High - Live",
       "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Alive & Breathing Vol. 2",
+        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 241764,
+      "name": "Alive & Breathing (feat. Elle Limebear)",
+      "url": "https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Todos A La Mesa",
-        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        }
-      ],
-      "duration_ms": 247451,
-      "name": "R\u00edo",
-      "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Insatiable",
         "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 266620,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Todos A La Mesa",
+        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "duration_ms": 247451,
+      "name": "R\u00edo",
+      "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 357404,
+      "name": "Just The Cross",
+      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Way Home",
         "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
       },
@@ -1059,18 +1075,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
       "artists": [
         {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 357404,
-      "name": "Just The Cross",
-      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
+      "duration_ms": 345637,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1091,26 +1111,6 @@
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Roar (Live From Passion 2020)",
-        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 345637,
-      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
-      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        }
+      ],
+      "duration_ms": 303141,
+      "name": "Midnight - Radio Version",
+      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        }
-      ],
-      "duration_ms": 303141,
-      "name": "Midnight - Radio Version",
-      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Another In The Fire (Studio)",
-        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 265518,
-      "name": "Another In The Fire - Studio",
-      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Behold Him (feat. Kim Walker-Smith)",
         "url": "https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 279000,
       "name": "Behold Him (feat. Kim Walker-Smith)",
       "url": "https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Another In The Fire (Studio)",
+        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 265518,
+      "name": "Another In The Fire - Studio",
+      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Remember (Studio Version)",
-        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "I Remember - Studio Version",
-      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Remember (Studio Version)",
+        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "I Remember - Studio Version",
+      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Christ is Enough",
         "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 279653,
       "name": "Christ is Enough",
       "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+        "name": "In Jesus' Name (Live)",
+        "url": "https://open.spotify.com/album/1E8yazEoEa7ASwZWjMWU0Q"
       },
       "artists": [
         {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+          "name": "Valley Creek Worship",
+          "url": "https://open.spotify.com/artist/4GoGTYcqE23Z7lqCkOM88h"
         }
       ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+      "duration_ms": 362853,
+      "name": "In Jesus' Name (Live)",
+      "url": "https://open.spotify.com/track/5JBYldd09xjzZIsu9X3t9Q"
     }
   ],
   "unique_name": "New & Bold",

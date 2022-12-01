@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chris Palace",
-  "num_followers": 509017,
+  "num_followers": 509074,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDFkYTk1Y2IxZGEwZTg4ODJiNjkxZjZjNWM1ZTczM2Zh",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDc1Y2M0NDliM2M5MDE0MmU5Mjc5YzY0MzExNTljZTE1",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -283,22 +283,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Fiera",
-        "url": "https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1"
+        "name": "Luces De Ne\u00f3n",
+        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 175788,
-      "name": "Fiera",
-      "url": "https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D"
+      "duration_ms": 219789,
+      "name": "Luces De Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -319,18 +315,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Luces De Ne\u00f3n",
-        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
+        "name": "Fiera",
+        "url": "https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 219789,
-      "name": "Luces De Ne\u00f3n",
-      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
+      "duration_ms": 175788,
+      "name": "Fiera",
+      "url": "https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -415,26 +415,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Na Na Na (Remix)",
         "url": "https://open.spotify.com/album/7pigWCNPdpIxpfLbebqVdH"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 272463,
       "name": "Na Na Na - Remix",
       "url": "https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "SnipeZ",
-        "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "MAN$ION",
-      "url": "https://open.spotify.com/track/6zsvDXNgIPcnfXsAceGkLH"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Diamantes En Mis Dientes",
         "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 344602,
       "name": "Diamantes en Mis Dientes",
       "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "SnipeZ",
+        "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "MAN$ION",
+      "url": "https://open.spotify.com/track/6zsvDXNgIPcnfXsAceGkLH"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "La HP - Spotify Singles",
+        "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 186780,
+      "name": "La HP - Spotify Singles",
+      "url": "https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Suburban",
         "url": "https://open.spotify.com/album/3IoGxeq3iYqDQzRsFtSG66"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 197145,
       "name": "Suburban",
       "url": "https://open.spotify.com/track/5N2lj5JJwYP5ggwYcESoHp"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "La HP - Spotify Singles",
-        "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
-      },
-      "artists": [
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 186780,
-      "name": "La HP - Spotify Singles",
-      "url": "https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Puntos D\u00e9biles",
-        "url": "https://open.spotify.com/album/3CnLeyns2pf6kbMCuFq6zJ"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Puntos D\u00e9biles",
-      "url": "https://open.spotify.com/track/1YqpiLwPLdNRWvCtBeAOc0"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Dame Lu (Remix)",
         "url": "https://open.spotify.com/album/4nsSWLgnntv4HgUqNnfSd3"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 323720,
       "name": "Dame Lu - Remix",
       "url": "https://open.spotify.com/track/3lyi8wF8mZ3rET1MCXgEQj"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Puntos D\u00e9biles",
+        "url": "https://open.spotify.com/album/3CnLeyns2pf6kbMCuFq6zJ"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Puntos D\u00e9biles",
+      "url": "https://open.spotify.com/track/1YqpiLwPLdNRWvCtBeAOc0"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Solteras y Bandidos",
-        "url": "https://open.spotify.com/album/1P2x98BuSrjoTCrDw18JsQ"
-      },
-      "artists": [
-        {
-          "name": "YoGambii",
-          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Solteras y Bandidos",
-      "url": "https://open.spotify.com/track/53WPpMiDP3MTyINUMxigga"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Pituquita",
         "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
       },
@@ -1411,26 +1395,34 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Prendete",
-        "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
+        "name": "Solteras y Bandidos",
+        "url": "https://open.spotify.com/album/1P2x98BuSrjoTCrDw18JsQ"
       },
       "artists": [
         {
-          "name": "Ery",
-          "url": "https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Nesi",
-          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
         }
       ],
-      "duration_ms": 213837,
-      "name": "Prendete",
-      "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
+      "duration_ms": 157021,
+      "name": "Solteras y Bandidos",
+      "url": "https://open.spotify.com/track/53WPpMiDP3MTyINUMxigga"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "C\u00e1scara de Coco",
+        "url": "https://open.spotify.com/album/5WoydrpY0NR4zjGj8MSHNh"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "C\u00e1scara de Coco",
+      "url": "https://open.spotify.com/track/7MIhpzY1v8U2ha3D8Z6yk8"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1459,18 +1451,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "C\u00e1scara de Coco",
-        "url": "https://open.spotify.com/album/5WoydrpY0NR4zjGj8MSHNh"
+        "name": "Prendete",
+        "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Ery",
+          "url": "https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
         }
       ],
-      "duration_ms": 177373,
-      "name": "C\u00e1scara de Coco",
-      "url": "https://open.spotify.com/track/7MIhpzY1v8U2ha3D8Z6yk8"
+      "duration_ms": 213837,
+      "name": "Prendete",
+      "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
     },
     {
       "added_at": "2022-11-25 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 39934,
+  "num_followers": 40003,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM5NzNiODRlNTZkNjQ4MTczZjVhNjc1NTg0MGU2ZDk4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDMwZDIyZmRjZjJkNzVlZjQ5MGUxYTY0NTY1YjEyY2Zh",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Make Up Your Mind (Radio Edit)",
-        "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
-      },
-      "artists": [
-        {
-          "name": "Dee Brown",
-          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Make Up Your Mind - Radio Edit",
-      "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "In His Vision",
         "url": "https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae"
       },
@@ -281,20 +265,20 @@
       "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Sweet Talk",
-        "url": "https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2"
+        "name": "Make Up Your Mind (Radio Edit)",
+        "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
       },
       "artists": [
         {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+          "name": "Dee Brown",
+          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
         }
       ],
-      "duration_ms": 244440,
-      "name": "Sweet Talk",
-      "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
+      "duration_ms": 240280,
+      "name": "Make Up Your Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -313,6 +297,22 @@
       "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Sweet Talk",
+        "url": "https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
+    },
+    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Good On You",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Foolish Heart",
-        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
-      },
-      "artists": [
-        {
-          "name": "Johnny James Dr J",
-          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
-        }
-      ],
-      "duration_ms": 217151,
-      "name": "Foolish Heart",
-      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
-    },
-    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Off The Top",
@@ -359,6 +343,22 @@
       "duration_ms": 259044,
       "name": "Off The Top - radio single",
       "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Foolish Heart",
+        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
+      },
+      "artists": [
+        {
+          "name": "Johnny James Dr J",
+          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
+        }
+      ],
+      "duration_ms": 217151,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "G-Stream 2-Turn It Up",
-        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "G-Wiggle",
-      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Stride",
@@ -429,20 +413,20 @@
       "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
     },
     {
-      "added_at": "2022-10-24 14:43:12",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Breakthrough (Radio Version)",
-        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
+        "name": "G-Stream 2-Turn It Up",
+        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
       },
       "artists": [
         {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
         }
       ],
-      "duration_ms": 252877,
-      "name": "Breakthrough - Radio Version",
-      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
+      "duration_ms": 270946,
+      "name": "G-Wiggle",
+      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -459,6 +443,22 @@
       "duration_ms": 232146,
       "name": "Step to This",
       "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
+    },
+    {
+      "added_at": "2022-10-24 14:43:12",
+      "album": {
+        "name": "Breakthrough (Radio Version)",
+        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "duration_ms": 252877,
+      "name": "Breakthrough - Radio Version",
+      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
     },
     {
       "added_at": "2022-10-17 15:45:13",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Drive",
@@ -559,6 +543,22 @@
       "duration_ms": 261562,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2022-10-24 14:43:12",
@@ -613,38 +613,6 @@
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Cool Shades",
-        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Nine 2 Five",
-      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
-    },
-    {
-      "added_at": "2022-11-30 01:02:15",
-      "album": {
-        "name": "Cupid Shuffle",
-        "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 232810,
-      "name": "Cupid Shuffle",
-      "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Simple Things",
@@ -661,6 +629,22 @@
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Cool Shades",
+        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "After Party",
@@ -675,6 +659,22 @@
       "duration_ms": 230187,
       "name": "After Party",
       "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
+    },
+    {
+      "added_at": "2022-12-01 01:08:36",
+      "album": {
+        "name": "Cupid Shuffle",
+        "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 232810,
+      "name": "Cupid Shuffle",
+      "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
     },
     {
       "added_at": "2022-02-14 15:14:54",
@@ -753,38 +753,6 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Look Both Ways",
-        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Look Both Ways",
-      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Piano Tales",
-        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 248712,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Radio Vibe",
@@ -805,24 +773,20 @@
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
+        "name": "Piano Tales",
+        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
       },
       "artists": [
         {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
         }
       ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
+      "duration_ms": 248712,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -845,20 +809,40 @@
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-01-21 05:02:00",
       "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+        "name": "SHINE!",
+        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
+      "duration_ms": 261640,
+      "name": "SHINE!",
+      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Look Both Ways",
+      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -875,6 +859,26 @@
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        },
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 274096,
+      "name": "Busta Move",
+      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     }
   ],
   "unique_name": "New Smooth Jazz",

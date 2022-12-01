@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: Anuel AA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,180 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,397 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 92 | [XULITA \(feat\. Kaydy Cain\)](https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [PERREAMOS?](https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY) | 3:04 |
 | 93 | [Deseos](https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Deseos](https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X) | 3:23 |
 | 94 | [Payaso](https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Los Favoritos 2](https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME) | 3:08 |
-| 95 | [Antonio](https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Antonio](https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR) | 2:38 |
+| 95 | [Royal Medellin](https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw), [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj) | [Royal Medellin](https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU) | 3:18 |
 | 96 | [Pikete](https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pikete](https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd) | 2:33 |
-| 97 | [Royal Medellin](https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw), [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj) | [Royal Medellin](https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU) | 3:18 |
+| 97 | [Antonio](https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Antonio](https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR) | 2:38 |
 | 98 | [GOTIKA](https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [GOTIKA](https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0) | 3:02 |
 | 99 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 |
 | 100 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMGNlOTFkM2M4ZTU3ZWQzODczYWM4ZWNlNjBhYmMyNDc0`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDdlZmUxODU5Yjk3NTljYzUzMGQwM2U2OTY0NTVmNGI3`

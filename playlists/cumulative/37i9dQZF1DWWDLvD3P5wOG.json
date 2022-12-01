@@ -725,6 +725,24 @@
     {
       "album": {
         "name": "Dye Dye - Single",
+        "url": "https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz"
+      },
+      "artists": [
+        {
+          "name": "Macka Diamond",
+          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186265,
+      "name": "Dye Dye (Raw)",
+      "url": "https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa"
+    },
+    {
+      "album": {
+        "name": "Dye Dye - Single",
         "url": "https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR"
       },
       "artists": [
@@ -2515,7 +2533,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 212597,
       "name": "Romping Shop (Clean)",
       "url": "https://open.spotify.com/track/1kKFMi0q6O4xurPGDVYJKl"

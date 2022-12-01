@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Kevin Kaarl en portada.",
-  "num_followers": 136310,
+  "num_followers": 136394,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMGY5ODE0NDhjODgwMzVkOWQxYWYyMzUzMzYyNDI4YTg2",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMGIyZWFkNDhlMTFlYjUyOTVkZTA5M2JiYTcyN2NjNmFh",
   "tracks": [
     {
       "added_at": "2022-07-22 17:47:39",
@@ -353,38 +353,6 @@
       "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Enjambre Y Los Hu\u00e9spedes Del Orbe",
-        "url": "https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Somos Ajenos",
-      "url": "https://open.spotify.com/track/1Z6NUe88dVXBDpWiWpSpie"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Nada Te Lastima",
@@ -403,6 +371,38 @@
       "duration_ms": 248750,
       "name": "Nada Te Lastima",
       "url": "https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Enjambre Y Los Hu\u00e9spedes Del Orbe",
+        "url": "https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Somos Ajenos",
+      "url": "https://open.spotify.com/track/1Z6NUe88dVXBDpWiWpSpie"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2022-11-25 06:00:00",

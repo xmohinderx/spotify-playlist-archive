@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,646 likes - 148 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,717 likes - 148 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 79 | [request](https://open.spotify.com/track/4AWDkCHl4LVipIgbdFi6wH) | [Funky Feels](https://open.spotify.com/artist/73bsuepJlmtW9xPn5zytKd) | [request](https://open.spotify.com/album/769P51agF9GPdFXa9A0jX2) | 3:03 |
 | 80 | [tropic](https://open.spotify.com/track/3RQpLFe3q0fVRjoODRC7zM) | [Traumen](https://open.spotify.com/artist/4HBtYshoPlAco0bw0tbFPq) | [tropic](https://open.spotify.com/album/6e91CR4qHhhCwjdKCYOPb4) | 3:05 |
 | 81 | [madrid mule](https://open.spotify.com/track/2TkI5tBjsp2Z4nGyQEujCI) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [madrid mule](https://open.spotify.com/album/5O5YKYULdiDb3A9U0ortSt) | 2:30 |
-| 82 | [Through the stone](https://open.spotify.com/track/2RXTnnEgzyMvgkGIWTYTHh) | [2GO](https://open.spotify.com/artist/4sYcQIGHFdEjSswfZiwPJK) | [Through the stone](https://open.spotify.com/album/5LHDHPqeSI9AidNWDxOvVq) | 2:40 |
+| 82 | [Through the stone](https://open.spotify.com/track/2RXTnnEgzyMvgkGIWTYTHh) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [Through the stone](https://open.spotify.com/album/5LHDHPqeSI9AidNWDxOvVq) | 2:40 |
 | 83 | [Lush](https://open.spotify.com/track/6PjhEJW9BEbHhoYlLqNxuu) | [Brisaque](https://open.spotify.com/artist/1vlSEAUaqja6NwcQ94ASih) | [Lush](https://open.spotify.com/album/155A4mb03MI8DzXw1iJXYZ) | 3:33 |
 | 84 | [Lemon Chill](https://open.spotify.com/track/68ftFeFDbVK08MUF1NyMAI) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Lemon Chill](https://open.spotify.com/album/0JusNbO9M4ZAvvnmdMoU19) | 2:12 |
 | 85 | [Sundown](https://open.spotify.com/track/405vGJtY0S8ejGpCvVCM8v) | [Gaspar LeMarc](https://open.spotify.com/artist/0nkYC9uUfQuNB7xQ7N0e0j) | [Sundown](https://open.spotify.com/album/4bK89ukxMYliOwZj4IB5Y9) | 3:49 |

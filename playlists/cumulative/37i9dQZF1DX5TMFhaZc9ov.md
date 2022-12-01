@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-144 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+145 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Take Something Beautiful](https://open.spotify.com/track/3FRrIXF7pMrGxruDQCw8Dh) | [Jen Cloher](https://open.spotify.com/artist/5L8TWHTc67vWhQhL15r4i5) | [Take Something Beautiful: The Songs of Jesse Younan](https://open.spotify.com/album/2CtfLl1fTkSwN05BDz2pOI) | 4:30 | 2021-06-01 | 2022-07-29 |
 | [Take Something Beautiful](https://open.spotify.com/track/4UgxabijzuXvv2dATYQJwH) | [Jen Cloher](https://open.spotify.com/artist/5L8TWHTc67vWhQhL15r4i5) | [Take Something Beautiful: The Songs of Jesse Younan](https://open.spotify.com/album/4gB8Miv66c5YwIa8nV70JW) | 4:30 | 2022-06-10 |  |
 | [The Fear of Losing This](https://open.spotify.com/track/5iwOkLRedNpGvymiknisHn) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 3:53 | 2022-06-01 |  |
-| [The Great Escape](https://open.spotify.com/track/0WsSXk2OfaCewniK3v5fcN) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [With People](https://open.spotify.com/album/4XshpR196ijJkK2N9kOhGG) | 2:50 | 2022-06-01 |  |
+| [The Great Escape](https://open.spotify.com/track/0WsSXk2OfaCewniK3v5fcN) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [With People](https://open.spotify.com/album/4XshpR196ijJkK2N9kOhGG) | 2:50 | 2022-06-01 | 2022-12-01 |
+| [The Great Escape](https://open.spotify.com/track/3AUBLZk7wQX0GzG5BsZNYk) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [With People](https://open.spotify.com/album/75FTQkt4wpNKujeOb3L8ID) | 2:50 | 2022-06-10 |  |
 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 | 2021-06-01 | 2022-06-01 |
 | [The Rose Gardener](https://open.spotify.com/track/37m6V2rYD5OaZp9EfFZYYk) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/34OI8CDvpCev2oLuUXkK6X) | 3:44 | 2022-06-10 | 2022-11-13 |
 | [The Rose Gardener](https://open.spotify.com/track/4UHbVjSTsFrsn4h4igBPpo) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/5XfgTVzJfSdlQEh6dv4GQR) | 3:44 | 2021-06-01 | 2022-07-29 |

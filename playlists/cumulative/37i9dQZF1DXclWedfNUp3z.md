@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-331 songs - 23 hr 1 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+332 songs - 23 hr 2 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [En El Bosque](https://open.spotify.com/track/4BZU3KLHn3PzgA4EREWX4l) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Nocturnina](https://open.spotify.com/album/6jSvr6MVCXunzOMKoOxaEE) | 6:34 | 2021-10-20 | 2022-07-29 |
 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 | 2021-10-20 |  |
 | [Escape Cape](https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Escape Cape](https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0) | 4:25 | 2022-01-11 | 2022-07-29 |
-| [Espiral \- 冥丁 Remix](https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii), [冥丁](https://open.spotify.com/artist/1MFolUggfCDsdJVAcG9acN) | [Espiral \(冥丁 Remix\)](https://open.spotify.com/album/3EcNMaev1ftGBkIBc0LEq2) | 4:11 | 2022-07-15 |  |
+| [Espiral \- 冥丁 Remix](https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii), [冥丁](https://open.spotify.com/artist/1MFolUggfCDsdJVAcG9acN) | [Espiral \(冥丁 Remix\)](https://open.spotify.com/album/3EcNMaev1ftGBkIBc0LEq2) | 4:11 | 2022-07-15 | 2022-12-01 |
 | [Estela](https://open.spotify.com/track/484BYcMwHgvH0RQ4s1m95F) | [co de sus](https://open.spotify.com/artist/1v830WmXPBjRcQLudfXOy1) | [Estela](https://open.spotify.com/album/1q8G9fgUuJS70Z7Y8FuHsJ) | 4:40 | 2022-04-07 | 2022-07-29 |
 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2022-02-23 |  |
 | [Everlight](https://open.spotify.com/track/6E27OStcsRUvwjCszynEFg) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Everlight](https://open.spotify.com/album/48Qad0TNDOsyYusOMWeWCe) | 2:55 | 2021-10-20 | 2022-07-11 |
@@ -119,7 +119,7 @@
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2021-10-20 |  |
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2021-10-20 | 2022-04-25 |
 | [greenery](https://open.spotify.com/track/7o9CLXoW831csQxsnP4JkH) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:52 | 2021-10-20 | 2022-09-02 |
-| [Gyroscope](https://open.spotify.com/track/2pYTzXfDybwjnRu76Tin9N) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/3Xh7QzI0UPQx2GZJgSding) | 3:07 | 2021-10-20 |  |
+| [Gyroscope](https://open.spotify.com/track/2pYTzXfDybwjnRu76Tin9N) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/3Xh7QzI0UPQx2GZJgSding) | 3:07 | 2021-10-20 | 2022-12-01 |
 | [Gyroscope](https://open.spotify.com/track/54iPM8Ht4u1eoygcKf9gzM) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Gyroscope](https://open.spotify.com/album/1zw9I5WkLqef7toQ0o6B6U) | 3:08 | 2021-10-20 | 2022-07-29 |
 | [headache](https://open.spotify.com/track/10gRgHWz059OBF7xjihFzq) | [ilaywho](https://open.spotify.com/artist/4OiOGOoUj1rFh8WmSREZey) | [headache](https://open.spotify.com/album/7cPQClJ9zf05qEFdTAOxaU) | 1:57 | 2021-10-20 | 2022-04-20 |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2022-01-12 | 2022-11-18 |
@@ -171,7 +171,7 @@
 | [Marshmallow](https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/79tfjRNKLemO4c2dNXqJFR) | 3:55 | 2021-12-07 |  |
 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2021-11-12 |  |
 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-20 | 2022-07-29 |
-| [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2021-10-20 | 2022-11-23 |
+| [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2021-10-20 |  |
 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 | 2022-03-30 | 2022-07-29 |
 | [Memories of Grass](https://open.spotify.com/track/3bbozj0fLmHcD8iXrqhcPL) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm) | 4:16 | 2021-10-20 | 2022-06-05 |
 | [Mira Et Ten](https://open.spotify.com/track/3Hs7d8WFLxwZWVb7dzbDVC) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage](https://open.spotify.com/album/0hyEAwTWIDaseZAAi5t36x) | 0:44 | 2021-10-20 | 2022-07-20 |
@@ -234,6 +234,7 @@
 | [Retracing Home](https://open.spotify.com/track/7McxawbM1mYYoeyjRHJYxY) | [Bob Boilen](https://open.spotify.com/artist/5BQdg2fUFKdhtwWAOU6q18) | [Hidden Smiles](https://open.spotify.com/album/7d1tWxqSfdUBwB7FRqFJqU) | 5:11 | 2021-10-20 | 2022-07-29 |
 | [Reverie](https://open.spotify.com/track/7t72V2dKD4Fkcyk2IIGoVy) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Shining Sun \(Lofi Hip Hop\)](https://open.spotify.com/album/6evgvWrQQ10gDjDMwQSjnU) | 3:10 | 2022-01-04 | 2022-08-26 |
 | [Reverie for Fragile Houseplants](https://open.spotify.com/track/2wA6lj5uEjfVVDflH5t3Ud) | [Tomaga](https://open.spotify.com/artist/22UtZr56I5MgK9Ru1QfUCj) | [Intimate Immensity](https://open.spotify.com/album/5uU3uLAmcSsZUpTjNLu59H) | 4:29 | 2021-10-20 | 2022-10-08 |
+| [roots](https://open.spotify.com/track/1kWPFMJFJiaL0CqUIV3LPs) | [Drwn.](https://open.spotify.com/artist/6kb4CAkaM1MhjPiS3TTbM4) | [plantboy](https://open.spotify.com/album/00wqWw2stnu3GT99Hzujzy) | 1:29 | 2021-10-20 |  |
 | [roots](https://open.spotify.com/track/4Hle0xwDPXNnwSrqQYiPkm) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:29 | 2021-10-20 | 2022-11-20 |
 | [roots](https://open.spotify.com/track/6mQRLgpkmERxI5UTg0wWpD) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [roots](https://open.spotify.com/album/1kmTyaNsx3AdTtcynrgRiv) | 1:29 | 2021-10-20 | 2022-04-20 |
 | [Roses Are Blue](https://open.spotify.com/track/3wUxE9yh357hRzB56zFGbD) | [Martina Stock](https://open.spotify.com/artist/6kv6jaS62CE2oWnH7msKzT) | [Roses Are Blue](https://open.spotify.com/album/6kZ4ilp9EF7jibsKzq8Wra) | 9:37 | 2021-10-20 |  |

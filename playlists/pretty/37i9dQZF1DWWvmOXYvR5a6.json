@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: OVAN(\uc624\ubc18)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 167682,
+  "num_followers": 167847,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEwNzk1MCwwMDAwMDAwMDM3ODJkYmQ4OGQ5MWQ4ZTk2MTZkODJlMzhmZDVkYjE3",
+  "snapshot_id": "MTY2OTEwNzk1MCwwMDAwMDAwMDNlOTNhMjUyYTIzMGFiNTU1ZWI4ZmQ2MWQwYTRiYTI5",
   "tracks": [
     {
       "added_at": "2022-11-22 09:05:50",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-11-22 09:05:50",
       "album": {
-        "name": "Bucket List",
-        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "Joker (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
-    },
-    {
-      "added_at": "2022-11-22 09:05:50",
-      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 199866,
       "name": "Summer (Feat. BE\u2019O)",
       "url": "https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8"
+    },
+    {
+      "added_at": "2022-11-22 09:05:50",
+      "album": {
+        "name": "Bucket List",
+        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Joker (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
     },
     {
       "added_at": "2022-11-22 09:05:50",
@@ -591,6 +591,30 @@
     {
       "added_at": "2022-11-22 09:05:50",
       "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
+      "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
+    },
+    {
+      "added_at": "2022-11-22 09:05:50",
+      "album": {
         "name": "staying",
         "url": "https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG"
       },
@@ -603,22 +627,6 @@
       "duration_ms": 222156,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM"
-    },
-    {
-      "added_at": "2022-11-22 09:05:50",
-      "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "My pleasure Is That You Ride The Bentley",
-      "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
     },
     {
       "added_at": "2022-11-22 09:05:50",
@@ -643,26 +651,18 @@
     {
       "added_at": "2022-11-22 09:05:50",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         }
       ],
-      "duration_ms": 240840,
-      "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
-      "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
+      "duration_ms": 181800,
+      "name": "My pleasure Is That You Ride The Bentley",
+      "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
     },
     {
       "added_at": "2022-11-22 09:05:50",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-11-22 09:05:50",
       "album": {
-        "name": "H.A.L.F (Have.A.Little.Fun)",
-        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 216113,
-      "name": "party (SHUT DOWN)",
-      "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
-    },
-    {
-      "added_at": "2022-11-22 09:05:50",
-      "album": {
         "name": "365&7",
         "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 169133,
       "name": "365&7 (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+    },
+    {
+      "added_at": "2022-11-22 09:05:50",
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 216113,
+      "name": "party (SHUT DOWN)",
+      "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
     },
     {
       "added_at": "2022-11-22 09:05:50",
@@ -783,6 +783,26 @@
       "duration_ms": 124615,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+    },
+    {
+      "added_at": "2022-11-22 09:05:50",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
     },
     {
       "added_at": "2022-11-22 09:05:50",
@@ -827,58 +847,6 @@
     {
       "added_at": "2022-11-22 09:05:50",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Run away",
-      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
-    },
-    {
-      "added_at": "2022-11-22 09:05:50",
-      "album": {
-        "name": "Flip",
-        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
-    },
-    {
-      "added_at": "2022-11-22 09:05:50",
-      "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Lovey Dovey (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2022-11-22 09:05:50",
-      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 370533,
       "name": "Wake Up (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
+    },
+    {
+      "added_at": "2022-11-22 09:05:50",
+      "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
+    },
+    {
+      "added_at": "2022-11-22 09:05:50",
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Run away",
+      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
     },
     {
       "added_at": "2022-11-22 09:05:50",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-11-22 09:05:50",
       "album": {
-        "name": "I Told You I Like You",
-        "url": "https://open.spotify.com/album/5zpRt1JvhbULUaUnxVTCKy"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 167353,
-      "name": "I Told You I Like You",
-      "url": "https://open.spotify.com/track/72TNvGiSdA1WOeS3Lbxs80"
-    },
-    {
-      "added_at": "2022-11-22 09:05:50",
-      "album": {
         "name": "WHY Y",
         "url": "https://open.spotify.com/album/1ypeL7YGRCb4Byeh1i7OAU"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 186533,
       "name": "WHY Y (Feat. Tiger JK)",
       "url": "https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi"
+    },
+    {
+      "added_at": "2022-11-22 09:05:50",
+      "album": {
+        "name": "I Told You I Like You",
+        "url": "https://open.spotify.com/album/5zpRt1JvhbULUaUnxVTCKy"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 167353,
+      "name": "I Told You I Like You",
+      "url": "https://open.spotify.com/track/72TNvGiSdA1WOeS3Lbxs80"
     },
     {
       "added_at": "2022-11-22 09:05:50",

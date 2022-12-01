@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,892 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,959 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 24 | [Keepin’ It Reel](https://open.spotify.com/track/4saoSRB0NHOx75TIlVh5zM) | [Boxing Banjo](https://open.spotify.com/artist/0UclL9i5HhARJ2LEPQegjv) | [Round \#1](https://open.spotify.com/album/5DvLneZVpsTdkA6ZrVxQ1g) | 3:39 |
 | 25 | [Reels: Patsy Cambell's:Tie The Bonnet : Mick Finn's](https://open.spotify.com/track/1y4rwW2PwLk6ukef9AxwIe) | [Peter Carberry and Angelina Carberry and John Blake](https://open.spotify.com/artist/2Ske6lxvZGw6STfNeM8Z3B) | [Memories From The Holla](https://open.spotify.com/album/35lYPRZKwNaqAA4CJFcVv2) | 3:20 |
 | 26 | [Humors of Tullycrine](https://open.spotify.com/track/1ft8QzgCSuOfMOIP6FwMtK) | [Andrew Finn Magill](https://open.spotify.com/artist/4HaU3dFoJU4SRH01OClXep) | [Drive & Lift](https://open.spotify.com/album/6nOhv6JrGW9IQDTgXjGAtX) | 4:12 |
-| 27 | [Reels: Liz Carroll's, Paddy Ryan's Dream \(feat\. Eoin O'Neill\)](https://open.spotify.com/track/5Rrjzr6ZuWfda10aATld8W) | [Yvonne Casey](https://open.spotify.com/artist/21AG1sQHWCkkVbpHmpmYo4) | [Yvonne Casey](https://open.spotify.com/album/1gnHAawyGZzM5e8wyfD0to) | 4:10 |
+| 27 | [Reels: Liz Carroll's / Paddy Ryan's Dream](https://open.spotify.com/track/0dqpDQd9ne4GPUpzsrAsp6) | [Yvonne Casey](https://open.spotify.com/artist/21AG1sQHWCkkVbpHmpmYo4), [Eoin O'Neill](https://open.spotify.com/artist/5WjZM7TNxYLOc9d7fX0OwG) | [Yvonne Casey](https://open.spotify.com/album/4tls5MJzyRgAtnGquJP9Ai) | 4:10 |
 | 28 | [Gone to Fortingall/ Wired to the Moon](https://open.spotify.com/track/38xdrPnePc8lcnBw0HnLBi) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74) | [Transatlantic Sessions \- Series 6, Vol\. Two](https://open.spotify.com/album/54LvyVjqwXmL3fmFJewSpJ) | 4:19 |
 | 29 | [Midsummer's Night](https://open.spotify.com/track/3LpKYuHhzUHoVpq2jhDuUV) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA) | [Midsummer's Night](https://open.spotify.com/album/5bawZAo1wLfiCW0rxaJxXu) | 6:39 |
 | 30 | [Fingal's Cave](https://open.spotify.com/track/4xFCMHRp0RdieQ1HkPaw4t) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Dave MacIsaac](https://open.spotify.com/artist/148fePU5jlvvhzdvvNuWah), [Paddy Moloney](https://open.spotify.com/artist/5gXyv830nUDDnRLCvVmTCd), [Martin Fay](https://open.spotify.com/artist/3TmmCOx32W0whISCuabwrL), [Seán Keane](https://open.spotify.com/artist/0mBvqaBBdCB7pDlBhHonmR), [Matt Molloy](https://open.spotify.com/artist/6VkQhuElcM8DuGQmBmyx8m), [Derek Bell](https://open.spotify.com/artist/6sAUGmEyuw6FYhEodjKRsu), [Kevin Conneff](https://open.spotify.com/artist/4Xh4ilnFavAbo3prkd5NyQ) | [Fire In The Kitchen](https://open.spotify.com/album/2HXH6b3UOi3VipAZZaxkFQ) | 5:45 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDEwMzhkZTQxYmE0MGE5OTlhZTVmZjYwMzg0NzQ2NDU3`
+Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMGZlNDdiZjQ1NmJiZTIyY2ZhNjAxMDk5YTk3M2VkZjA5`

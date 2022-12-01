@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,585 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,642 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 14 | [Patio de la Cárcel \- Tangos](https://open.spotify.com/track/17BqQS5Cj899fQR8e6gvk9) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Quejíos de un Maleante](https://open.spotify.com/album/5RzCjkJkUgW8DYlF9ZsueI) | 3:22 |
 | 15 | [Necio \(feat\. LIT killah\)](https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:38 |
 | 16 | [Desacatá](https://open.spotify.com/track/4csBBYayvELqvO34oeO7xz) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Desacatá](https://open.spotify.com/album/2riif8Lab8JyhLAPZiVKMs) | 2:52 |
-| 17 | [VICTORIA](https://open.spotify.com/track/0YmXeRxv4o6LrsDaGpLqdg) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [VICTORIA](https://open.spotify.com/album/5daYTq0BH5WgD6U4ClOX62) | 3:20 |
+| 17 | [VICTORIA](https://open.spotify.com/track/0YmXeRxv4o6LrsDaGpLqdg) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [VICTORIA](https://open.spotify.com/album/5daYTq0BH5WgD6U4ClOX62) | 3:19 |
 | 18 | [Que Te Perdone](https://open.spotify.com/track/5FxhGtbB5kopGvNETRpcLx) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Que Te Perdone](https://open.spotify.com/album/6nPMcgX2MUuEsGgQvNL1FT) | 3:34 |
 | 19 | [Aparte](https://open.spotify.com/track/7DXI9GRQG2xwEzcGO1WE0N) | [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Aparte](https://open.spotify.com/album/0ERtggTYXykEkfk6F5wbag) | 3:02 |
 | 20 | [NOTEVI](https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jimmix](https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP) | [NOTEVI](https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw) | 4:20 |

@@ -4,7 +4,7 @@
 
 > Long distance is hard, but true love knows no boundaries.
 
-136 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/4ITWUe9tguZr37ZcyB09uq)
+138 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/4ITWUe9tguZr37ZcyB09uq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2021-01-25 |  |
 | [Distance and Time](https://open.spotify.com/track/1fDm1kCj6dwmviArCtCsOA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:27 | 2021-01-25 | 2022-10-09 |
 | [Falling Slowly](https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb) | [Steve Kazee](https://open.spotify.com/artist/2E0WuV49YeVlDWrmLf4jKK), [Cristin Milioti](https://open.spotify.com/artist/0KV9UzwJbLgC8QdOAxKlTU), [Once Ensemble](https://open.spotify.com/artist/28Tjtr1MQlXJwcNVgcwOTG) | [Once: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN) | 4:26 | 2022-10-08 |  |
-| [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 | 2022-10-08 |  |
+| [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 | 2022-10-08 |  |
+| [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 | 2022-10-08 | 2022-12-01 |
 | [Half the World Away](https://open.spotify.com/track/7rAtXQ4hCQiXyxAunzRaXi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Half the World Away](https://open.spotify.com/album/4qqOE7xOdHYXeJ4IEf7mH5) | 3:18 | 2022-10-08 | 2022-11-13 |
 | [Hearts Without Chains](https://open.spotify.com/track/1MLMgjYMNq4uWcMvwSLDEy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 3:45 | 2022-10-08 |  |
 | [Hearts Without Chains](https://open.spotify.com/track/2TWqTeDjVpcZfgrblmf86g) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 3:45 | 2021-01-25 | 2022-10-16 |
@@ -70,8 +71,9 @@
 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 | 2022-10-08 |  |
 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 | 2022-10-08 |  |
 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2021-01-25 |  |
-| [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 | 2021-01-25 |  |
+| [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 | 2021-01-25 | 2022-12-01 |
 | [Miss You](https://open.spotify.com/track/6IQhhYtJ0U1Zhs76pSMHJO) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy Deluxe](https://open.spotify.com/album/0IFoV4o4v6qKF6JJasI9Jv) | 3:17 | 2022-10-08 | 2022-11-14 |
+| [Miss You](https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 3:17 | 2022-10-08 |  |
 | [Miss You](https://open.spotify.com/track/4ogp5UEEagtt5gbM1QDgTY) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/7kZZKJMAhbwZ7qVwGRk1Xk) | 3:17 | 2021-01-25 | 2022-07-29 |
 | [Miss You Love](https://open.spotify.com/track/1DH9Jw14TpkKzNIwbCFB6p) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Apparently Unaffected](https://open.spotify.com/album/7BWPKwScT8TShBOh91O4oz) | 3:09 | 2021-01-25 |  |
 | [Miss You More](https://open.spotify.com/track/1wD6f9X1WanpowSYMGTcNm) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Pieces](https://open.spotify.com/album/1CbEGXLeN2Ql3WKcNxecHv) | 4:36 | 2021-01-25 | 2022-07-29 |

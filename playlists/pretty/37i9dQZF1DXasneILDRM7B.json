@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 1048038,
+  "num_followers": 1048985,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMGQwYWY5MWM3MjY2MjdhZjRhY2U5MWQ1MDI4YjA5YmZj",
+  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDk0NDc1ZTg3NjdmZjA4ZWE4NjQyMDc4MzA4M2JkZGQx",
   "tracks": [
     {
       "added_at": "2022-06-16 15:49:01",
@@ -799,8 +799,8 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "name": "Paramore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
+      "duration_ms": 216013,
+      "name": "Still into You",
+      "url": "https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "FANDOM",
         "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
       },
@@ -943,8 +927,24 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Paramore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 216013,
-      "name": "Still into You",
-      "url": "https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi"
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 213034,
       "name": "December (again) [feat. Mark Hoppus]",
       "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Good Charlotte",
         "url": "https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "The Same Old Blood Rush With A New Touch",
-        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
-      },
-      "artists": [
-        {
-          "name": "Cute Is What We Aim For",
-          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "The Curse of Curves",
-      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
+      },
+      "artists": [
+        {
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2022-06-16 15:49:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,365 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,372 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 73 | [Louisa](https://open.spotify.com/track/2yn6V0wASE1u09nUEu1VOv) | [Robinson & Rohe](https://open.spotify.com/artist/4HWgm86RCkWQs7nlCutYDD) | [Hunger](https://open.spotify.com/album/4UzuJhH6V73dbeQqqZhnCi) | 4:35 |
 | 74 | [Map & No Direction](https://open.spotify.com/track/6ztqu9mx8dUMOFkSlpBbAc) | [Beth Bombara](https://open.spotify.com/artist/6AGx2BbS0q2WsOwCOmBQME) | [Map & No Direction](https://open.spotify.com/album/3OFrZYkDBpkIl8p3JrgZPf) | 3:49 |
 | 75 | [O Death](https://open.spotify.com/track/0hBcnTQnRdxx6cutL5NCTY) | [Basset](https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3) | [Basset EP](https://open.spotify.com/album/2gmdibaeAbb8ePc8elPKQF) | 4:03 |
-| 76 | [Where Shall We Begin](https://open.spotify.com/track/770MBuciu9zO7iV3HNzke1) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Where Shall We Begin](https://open.spotify.com/album/3HaZ7j556nxKzPHcv3uz8C) | 3:02 |
+| 76 | [Where Shall We Begin](https://open.spotify.com/track/4fQ8WyyIm8WI1z41KB2qfQ) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Where Shall We Begin](https://open.spotify.com/album/4q6261vLCSVYR9xT3vLVxN) | 3:02 |
 | 77 | [Eurydice](https://open.spotify.com/track/7JiIfHsVGiC4nVyaOoVEoS) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:37 |
 | 78 | [Bloodthirsty](https://open.spotify.com/track/5vm5XiTvG1WqSKzCcdovh4) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Notes For A Maiden Warrior](https://open.spotify.com/album/5DpiwNQuYxUTkoLgR5PSG0) | 2:36 |
 | 79 | [Inside Out](https://open.spotify.com/track/0O9q0skb5Xt8jKZCZdL02u) | [The Heart Collectors](https://open.spotify.com/artist/0DEsyMMqjveH8o0Higee5E) | [Time To Say I Love You](https://open.spotify.com/album/2atu32OqtlBCYxvmmgvEPK) | 4:23 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 152 | [Colorblind](https://open.spotify.com/track/1XdZWeMVsFrzso8pd77g7E) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Colorblind](https://open.spotify.com/album/5Ptnky6pcPheTjCPrBsR1t) | 2:58 |
 | 153 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 |
 
-Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGJjMWZmMzkwMWU5YzQxYjRmZmRiYTAxZDEyNTFkZTg1`
+Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMDdiYTQzNGZkZTVkMWEzNzY0YWNlNGU3YzQ3ZWE4MWM3`

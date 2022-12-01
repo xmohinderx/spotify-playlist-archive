@@ -2,9 +2,9 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante, como el bendito \#SiempreBLESSD
+> Fino y elegante, como el Cantante del Ghetto \#AWOO
 
-121 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3OhkR06qQDPnVK6pP9NFg8)
+122 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/3OhkR06qQDPnVK6pP9NFg8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/album/3xZKHxoSd1t3QL9wRv1JRa) | 3:06 | 2022-09-30 |  |
 | [KAWAII](https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KAWAII](https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf) | 3:18 | 2022-09-30 | 2022-10-14 |
 | [La Bandi](https://open.spotify.com/track/0aDIBzGaTSs3jTSh3fySgP) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [ÁREA 57](https://open.spotify.com/album/42ljyrHYLjYnv1kaWzlGoF) | 3:36 | 2022-10-13 | 2022-11-23 |
-| [La Bandi \- La Bandi](https://open.spotify.com/track/1aBXDpDzdkuPYSXIFgsVy5) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [ÁREA 57](https://open.spotify.com/album/6doUHJ090UD6gUwwJn7cAU) | 3:36 | 2022-11-13 |  |
+| [La Bandi \- La Bandi](https://open.spotify.com/track/1aBXDpDzdkuPYSXIFgsVy5) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [ÁREA 57](https://open.spotify.com/album/6doUHJ090UD6gUwwJn7cAU) | 3:36 | 2022-11-13 | 2022-12-01 |
 | [La HP \- Spotify Singles](https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La HP \- Spotify Singles](https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB) | 3:06 | 2022-11-11 |  |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2022-09-06 |  |
 | [La Oficial \- Remix](https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Oficial \(Remix\)](https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j) | 3:39 | 2022-09-06 |  |
@@ -73,6 +73,7 @@
 | [Madrid \(feat\. Myke Towers\)](https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:18 | 2022-09-06 |  |
 | [Makinon](https://open.spotify.com/track/6S5fC1oR4Kg5m7B5JAgjsR) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Makinon](https://open.spotify.com/album/2qY7FX6s6WyRk0itXmMUmU) | 2:46 | 2022-09-16 | 2022-10-14 |
 | [Mala Memoria](https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Mala Memoria](https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA) | 2:58 | 2022-09-06 | 2022-10-14 |
+| [Marbella](https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 3:02 | 2022-11-30 |  |
 | [María](https://open.spotify.com/track/4UJRRrgFULpBbDrGkFktiK) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [María](https://open.spotify.com/album/6X0AWaRd1dYuubtOY3qJsj) | 2:35 | 2022-10-13 |  |
 | [Materile](https://open.spotify.com/track/7KR2kBHjAATGyKCscrzkE3) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Materile](https://open.spotify.com/album/1JnTZNv08vuF1Ws95mF3Po) | 2:47 | 2022-09-16 | 2022-10-07 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-09-06 |  |

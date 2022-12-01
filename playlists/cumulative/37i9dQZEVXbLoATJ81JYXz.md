@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,106 songs - 2 day 10 hr 15 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+1,107 songs - 2 day 10 hr 18 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Love N Affection](https://open.spotify.com/track/4BEjyZGERmOFkZOSIgdoAn) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Love N Affection](https://open.spotify.com/album/1apurOf1HMNvY3kzGb3OgH) | 2:59 | 2022-05-03 | 2022-05-15 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-09-20 | 2021-11-21 |
 | [Loyal](https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 3:08 | 2022-09-03 | 2022-11-27 |
+| [Lux Æterna](https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv) | 3:25 | 2022-11-30 |  |
 | [Lyckligt slut](https://open.spotify.com/track/3hWx0kVkf9NGvsSAVJTztH) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Lyckligt slut](https://open.spotify.com/album/5v523vH6jETswE88qO1I79) | 3:03 | 2022-02-21 | 2022-03-16 |
 | [Lämna honom](https://open.spotify.com/track/5DkUy1ShgRHv44mXxwe6zM) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Så mycket bättre 2021 \- Tolkningarna](https://open.spotify.com/album/5yWxEeewj7wR001CMpy1cC) | 3:02 | 2021-12-21 | 2022-02-20 |
 | [Lämna honom](https://open.spotify.com/track/5enkfv6k90BZuipWvzwcP5) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Lämna honom](https://open.spotify.com/album/7veo0FwLrcfOOPVverDM4t) | 3:02 | 2021-11-02 | 2021-12-22 |
@@ -814,7 +815,7 @@
 | [Röd Laser](https://open.spotify.com/track/3hVHWx8UILDq3tSEg5trOZ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Röd Laser](https://open.spotify.com/album/4XQSMJeqCRczYBbhW7pE3P) | 2:11 | 2022-09-15 | 2022-09-19 |
 | [Röda himlar](https://open.spotify.com/track/287HudoSNll1fMOGDE2212) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Röda himlar](https://open.spotify.com/album/7LByyoHnnJg7gmB25eEKse) | 3:04 | 2021-11-16 | 2021-11-19 |
 | [Rör Mig](https://open.spotify.com/track/39vozFaOohvu1mhwOpltsp) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Första Klass](https://open.spotify.com/album/5W4QltYoETJuRVqkcwWOtl) | 2:56 | 2021-10-23 | 2021-10-24 |
-| [Sabotage](https://open.spotify.com/track/4DZFPEK6yH8MQYj3pld4tP) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Sabotage](https://open.spotify.com/album/0NOy19wwB8BkHIphvgVbWn) | 2:39 | 2022-11-19 |  |
+| [Sabotage](https://open.spotify.com/track/4DZFPEK6yH8MQYj3pld4tP) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Sabotage](https://open.spotify.com/album/0NOy19wwB8BkHIphvgVbWn) | 2:39 | 2022-11-19 | 2022-12-01 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-02-13 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4hsTQQgfBnBgtBkTGKWS1G) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Samma gamla vanliga](https://open.spotify.com/album/0pDplTjct8PBplJ7s2sL6p) | 2:09 | 2021-05-12 | 2021-11-14 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2021-11-14 | 2022-03-06 |

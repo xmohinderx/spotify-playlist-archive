@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-468 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+469 songs - 1 day 2 hr 40 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Future Frequencies](https://open.spotify.com/track/6mARIPCcLrfS3LNstwzZlZ) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [Future Frequencies](https://open.spotify.com/album/3sbcdq6cG7gRiLocZ7f0M1) | 3:47 | 2022-06-08 | 2022-07-23 |
 | [Future Funk 2021](https://open.spotify.com/track/0DmEzg3O3uEWSPnCflPbD0) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2021](https://open.spotify.com/album/6Uput9dYdP4sYw9akBCw0y) | 3:05 | 2021-12-08 | 2022-08-07 |
 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 | 2022-01-25 | 2022-09-15 |
-| [Galetus](https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Galetus](https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR) | 3:27 | 2021-12-08 |  |
+| [Galetus](https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Galetus](https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR) | 3:27 | 2021-12-08 | 2022-12-01 |
 | [Galáctica Airlines](https://open.spotify.com/track/2o7IjLDnjj6g837R0dKOQJ) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Galáctica Airlines](https://open.spotify.com/album/5Nxk1k8coYj3WyOdpcfH99) | 3:58 | 2021-12-08 | 2022-07-29 |
 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 | 2021-12-08 |  |
 | [Garment](https://open.spotify.com/track/60unYXLKV1y7nFqHQaOQeG) | [Nukumachi](https://open.spotify.com/artist/2c9sol8NSNRs68cB999yWc) | [Retrospect](https://open.spotify.com/album/3hh298aIT8SznnN7w8W7VA) | 2:20 | 2022-04-12 | 2022-04-20 |
@@ -218,6 +218,7 @@
 | [Just a Little](https://open.spotify.com/track/4CqwRPsNgnrs05KGY2MXks) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Kudatah, Vol\. 1](https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l) | 3:13 | 2022-03-11 | 2022-06-16 |
 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 | 2022-04-12 |  |
 | [Knights](https://open.spotify.com/track/0QzY4pMzEuJhql5eTHjUW7) | [Bazz](https://open.spotify.com/artist/7L2KG4aO0ik742ux5CFgVp) | [Montaime, Vol\. 1](https://open.spotify.com/album/0Ijy3uJnjyyyahnUgykdDY) | 6:09 | 2021-12-08 | 2022-07-27 |
+| [Knights](https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP) | 6:09 | 2022-11-04 |  |
 | [Knights](https://open.spotify.com/track/5aRFAxPWHQRYMNVDFciuP2) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4GicNIw4wPNv9rxqf9cvHN) | 6:09 | 2022-08-12 | 2022-11-05 |
 | [Kokubu](https://open.spotify.com/track/6DtwXIO6J9eqtrZeFdMyLN) | [Setka](https://open.spotify.com/artist/6zWSsWEezov5znjRLPM3qf), [M A R Iマリくん](https://open.spotify.com/artist/0NZMuRJ9tC39RKj6DtqsjF) | [Pink Sea](https://open.spotify.com/album/1xgG8BgbfQvDG1nCjtFrY3) | 2:30 | 2022-06-08 | 2022-08-09 |
 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 | 2021-12-08 |  |

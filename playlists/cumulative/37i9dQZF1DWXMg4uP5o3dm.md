@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: AViVA
 
-223 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+224 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [PUMP THE BREAK](https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:12 | 2022-10-14 | 2022-11-13 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-04-01 | 2022-10-15 |
 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 | 2021-06-25 |  |
-| [Regret \- Remix](https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:29 | 2022-10-14 |  |
+| [Regret \- Remix](https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:29 | 2022-10-14 | 2022-12-01 |
 | [Regret \- Remix](https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Regret \(Remix\)](https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A) | 3:29 | 2022-02-11 | 2022-07-29 |
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2021-11-12 | 2022-02-12 |
 | [Rich Girl](https://open.spotify.com/track/0ixGQPZSCRllfWBNrG2E31) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Rich Girl](https://open.spotify.com/album/4yqJZLW1d2RvtiwnhxsMVa) | 3:45 | 2020-10-02 | 2022-02-12 |
@@ -203,6 +203,7 @@
 | [The Process](https://open.spotify.com/track/5ZInXf93agOZ7972tb5rI6) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Prima Facie \(Original Theatre Soundtrack\)](https://open.spotify.com/album/6VHUXCU45lulZ2wkWhxAmU) | 3:17 | 2022-06-17 | 2022-10-15 |
 | [The Ugly](https://open.spotify.com/track/5NmK5pADpbTynNpztzrtFz) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [The Ugly](https://open.spotify.com/album/6sLecQevCXnujy5fjTnJNC) | 2:49 | 2022-03-15 | 2022-04-02 |
 | [themesong](https://open.spotify.com/track/44aAunG7AbrlghCX7wDQD5) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [themesong](https://open.spotify.com/album/3CG7KrRS75f9lZnFbwGzIM) | 2:57 | 2022-05-30 | 2022-07-26 |
+| [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 | 2022-11-30 |  |
 | [THERAPY!](https://open.spotify.com/track/0GAWAziokyaTDufed63rEh) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [THERAPY!](https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW) | 2:13 | 2022-01-28 | 2022-08-06 |
 | [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 | 2022-10-14 |  |
 | [THERAPY!](https://open.spotify.com/track/6lzW55cVEYSovFmM4EcSS6) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 2:13 | 2022-06-17 | 2022-10-14 |

@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 193907,
       "name": "B.O.M.B.S.",
       "url": "https://open.spotify.com/track/4D8KWoUe3oTaQSQq928X7B"
@@ -265,10 +265,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 189887,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
+    },
+    {
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "album": {
@@ -514,6 +532,28 @@
     },
     {
       "album": {
+        "name": "He Wanna (feat. B.K. Habermehl)",
+        "url": "https://open.spotify.com/album/43MrfvRegBtm396DTzpmtl"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "B.K. Habermehl",
+          "url": "https://open.spotify.com/artist/64QWRxLk9KP6yTX9NK7COY"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "He Wanna (feat. B.K. Habermehl)",
+      "url": "https://open.spotify.com/track/3BXvUg7mxywHWb7PjElvOV"
+    },
+    {
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir"
       },
@@ -603,7 +643,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 174092,
       "name": "Hourglass (with Baby Tate)",
       "url": "https://open.spotify.com/track/58LdWh8ptJ4JBJ3SwBINjn"
@@ -647,7 +687,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 242990,
       "name": "I Do (feat. Slimwav)",
       "url": "https://open.spotify.com/track/7fP5XHTX3hbR3g7TY8WtcW"

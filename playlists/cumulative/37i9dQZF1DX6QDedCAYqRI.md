@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-120 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
+121 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [H2O](https://open.spotify.com/track/54JfaxCpabcZUMte1LCjFo) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [Nº](https://open.spotify.com/album/1o1DSBFvEnMziUyTYDIFFj) | 4:28 | 2022-06-01 | 2022-11-13 |
 | [Had a Love](https://open.spotify.com/track/42q0CCc42PYIGqmCzJUFvp) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/6J8JdJPCoW7GcTZg0h7fVv) | 4:37 | 2021-08-19 | 2022-07-29 |
 | [Had a Love](https://open.spotify.com/track/4xGjnjJMbjLFEJwb0gW1pP) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/4pPpxfKMupyb0qLLuaWHlY) | 4:37 | 2022-06-01 |  |
-| [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 | 2022-06-01 |  |
+| [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 | 2022-06-01 |  |
+| [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 | 2022-06-01 | 2022-12-01 |
 | [Half the World Away](https://open.spotify.com/track/7rAtXQ4hCQiXyxAunzRaXi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Half the World Away](https://open.spotify.com/album/4qqOE7xOdHYXeJ4IEf7mH5) | 3:18 | 2022-06-01 | 2022-11-13 |
 | [Half the World Away](https://open.spotify.com/track/7bZDwfTpO1cM9QoC6phmzb) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Half the World Away](https://open.spotify.com/album/4VrIwKlHqa1IzxuYeEaRwg) | 3:18 | 2021-08-19 | 2022-07-29 |
 | [Hell to the Liars](https://open.spotify.com/track/15pjLBdN42P2gyFefUt8DD) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 6:04 | 2022-06-01 |  |

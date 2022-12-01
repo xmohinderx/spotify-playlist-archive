@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > Me and bae = love
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,742 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,732 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 28 | [Rewind](https://open.spotify.com/track/5Po20XWC11YJ3TMLfHqMdB) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [EP6](https://open.spotify.com/album/6ZSh7q2E1I6tpESZA6j4nE) | 2:59 |
 | 29 | [wish you were here](https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ) | 3:22 |
 | 30 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
-| 31 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 |
+| 31 | [I Still Love You](https://open.spotify.com/track/2jXJfq2KHFwMfarNigaIWv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 2:55 |
 | 32 | [Don't Go Changing](https://open.spotify.com/track/0dNN5wjTkbJnQkOnzh9WUH) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Don't Go Changing](https://open.spotify.com/album/0dJk7K8gB2utiR1cUtWrzF) | 3:09 |
 | 33 | [When You Love Somebody](https://open.spotify.com/track/1o9GYMbCaKGyDhIYzYrcNV) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [District Line EP](https://open.spotify.com/album/6tBsQaqp6iittmjD9ALSPi) | 3:24 |
 | 34 | [2 Good 2B True](https://open.spotify.com/track/6m150Wsv4TFOAaOABANgLS) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B), [SYPS](https://open.spotify.com/artist/0n6Dxt9W4fUDlCqLCRLwqt), [Aaria](https://open.spotify.com/artist/6wQhJatwZHWgRTz2gtWVbc) | [2 Good 2B True](https://open.spotify.com/album/4GcW67cyojCQm97aUe9Erd) | 4:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 100 | [Say Yes \(Turquoise\) \(feat\. Joshua J\)](https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:41 |
 | 101 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMDJmMmU5YjBhYmM5ZDJmMTkyNWU2YzhlYjA2ODZkMTNk`
+Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGFmOGE4YzMxZjg2OGI2YWJhNDM5MjQ3YzhhYWE0YzA1`

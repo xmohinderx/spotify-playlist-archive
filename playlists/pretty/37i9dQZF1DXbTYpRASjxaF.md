@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Jhowzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,426 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,584 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [JBL](https://open.spotify.com/track/1EDLP4ckIEAiEq8PsLdj4N) | [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Caetano](https://open.spotify.com/artist/6IQMyh2ae8YRsMSIzXV3Jd) | [Honra & Lealdade](https://open.spotify.com/album/4BBB3VhPtzVjCnS88Zm1JE) | 2:26 |
+| 1 | [JBL](https://open.spotify.com/track/1EDLP4ckIEAiEq8PsLdj4N) | [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ) | [Honra & Lealdade](https://open.spotify.com/album/4BBB3VhPtzVjCnS88Zm1JE) | 2:26 |
 | 2 | [Ai Calica](https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:06 |
 | 3 | [Licor 43](https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Licor 43](https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9) | 2:22 |
 | 4 | [Camarote 7](https://open.spotify.com/track/5oKcpuszlyGFFIfvMiyHwL) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Camarote 7](https://open.spotify.com/album/5FOMlfbmJnVv4BdMlH00pq) | 4:08 |

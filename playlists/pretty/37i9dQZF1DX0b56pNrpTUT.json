@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 1517,
+  "num_followers": 1564,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDljOTU5Y2IzZjQ1NTQ0YzM3YTZmNjRjNWY5MTUyNTk0",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGQ0ZTdkNmFkYzMyZjY3MjUzNjNiYTI4NTY0MzFhZjRi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Serial",
+        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "November (feat. Hak Baker)",
         "url": "https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 195937,
       "name": "November (feat. Hak Baker)",
       "url": "https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Serial",
-        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 227535,
-      "name": "Serial",
-      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "10 More Rounds",
-        "url": "https://open.spotify.com/album/20Sov9TnugCg2OnD2ETo0m"
-      },
-      "artists": [
-        {
-          "name": "FLOHIO",
-          "url": "https://open.spotify.com/artist/7qffELscxpltKCso3ByH67"
-        }
-      ],
-      "duration_ms": 197829,
-      "name": "10 More Rounds",
-      "url": "https://open.spotify.com/track/5aJEkUKSjbqU2ekKpdHxGL"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "my slime",
         "url": "https://open.spotify.com/album/3BCatx6OCDnnYXqUETlAhu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 200800,
       "name": "Buss A 9",
       "url": "https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "10 More Rounds",
+        "url": "https://open.spotify.com/album/7HsWYAJO1fR52QYUD4FRFS"
+      },
+      "artists": [
+        {
+          "name": "FLOHIO",
+          "url": "https://open.spotify.com/artist/05RPf2nrkYOXtyU1gYkQfm"
+        }
+      ],
+      "duration_ms": 197829,
+      "name": "10 More Rounds",
+      "url": "https://open.spotify.com/track/46QbtehpRVwhGQNFlL7d1U"
     }
   ],
   "unique_name": "Eve Fairley-Chickwe's Taste ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > That real hip\-hop\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,812 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,903 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 46 | [Off the Plane \(feat\. EZ & Kari Faux\)](https://open.spotify.com/track/0UIz7wMSXJdAd59NSZScLA) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE), [EZ](https://open.spotify.com/artist/4a1e24ig2L5QRg85bpKxU3), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Real Bad Flights](https://open.spotify.com/album/5IzL4SNjpC0xWGSmXoPy3o) | 3:29 |
 | 47 | [Glorious](https://open.spotify.com/track/2QyGodowAZ0nxTTrVR1sJC) | [Cormega](https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Realness II](https://open.spotify.com/album/5aSAJcc8n8EZeMbcLftPQ4) | 3:10 |
 | 48 | [Blackest in the Room](https://open.spotify.com/track/5whawbmOtjIogkTeWv8PW3) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:47 |
-| 49 | [Money](https://open.spotify.com/track/2RXn2FXwRVlHDrs0CZnWEi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 4:26 |
+| 49 | [Money](https://open.spotify.com/track/5050y1NZdlMdTKMLNWv4nl) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 4:26 |
 | 50 | [Timeles](https://open.spotify.com/track/40GyCVDK3MSjYhSdleQ1nb) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Incrementum](https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR) | 3:06 |
 
-Snapshot ID: `MTY2OTM4NDUwMSwwMDAwMDAwMDk5YWI4OTI4MzVlMjE1Yzk4NTM5NDBiYjViODFiNTYx`
+Snapshot ID: `MTY2OTM4NDUwMSwwMDAwMDAwMGUwY2M2YTA5ODIyN2JjYWYyMTI2YmNhNWI1NGI5ODY2`

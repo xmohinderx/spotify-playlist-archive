@@ -2240,6 +2240,28 @@
     },
     {
       "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167636,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
+    },
+    {
+      "album": {
         "name": "Jeanie (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/5jWHspWCxRbx19wglIUYkd"
       },
@@ -2255,7 +2277,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 167636,
       "name": "Jeanie (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82"

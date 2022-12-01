@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763,568 likes - 385 songs - 18 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763,738 likes - 385 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 58 | [Arcadia](https://open.spotify.com/track/57LIE4xGtrUqicdDiikdMp) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 2:56 |
 | 59 | [Handwritten](https://open.spotify.com/track/1Yf6Ai3nlvtlvELD2IguA8) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:23 |
 | 60 | [A Moment](https://open.spotify.com/track/5rwq3bHJ2MeqeMrOzRkhFM) | [Ólfur](https://open.spotify.com/artist/6WCfCK4VbJnH7w6IBF156P) | [A Moment](https://open.spotify.com/album/1BtAYI88SZeTBHFjD1A8OO) | 2:35 |
-| 61 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Heur](https://open.spotify.com/artist/73UAkSvLz6yCEeKwPlCmDv) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 |
+| 61 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 |
 | 62 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 |
 | 63 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 |
 | 64 | [quinessence](https://open.spotify.com/track/48pNnZkhPIWXRMfdMibeO8) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [quinessence](https://open.spotify.com/album/1L9up7hf1UwiU4Vu4Z8lEH) | 2:45 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 96 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 |
 | 97 | [Hoop](https://open.spotify.com/track/7mop8SiZz46KwraJSoiLVU) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Hoop](https://open.spotify.com/album/4BpMZT3U6v1VJb74mmCSfe) | 3:28 |
 | 98 | [Sunsets](https://open.spotify.com/track/0gGV5b1xukai7PntTpPFBR) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Sunsets](https://open.spotify.com/album/0Mj9eUyWpxwOcCE387OpRl) | 2:44 |
-| 99 | [Forever](https://open.spotify.com/track/1RnywZoKSwcg8HLHpTXtq4) | [Erity Nama](https://open.spotify.com/artist/7qX88cH4K0ZCIOHJPah9ur) | [Forever](https://open.spotify.com/album/4SdcYWDPxgnBsTw0wc6bPU) | 2:55 |
+| 99 | [Forever](https://open.spotify.com/track/1RnywZoKSwcg8HLHpTXtq4) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Forever](https://open.spotify.com/album/4SdcYWDPxgnBsTw0wc6bPU) | 2:55 |
 | 100 | [Somnolente](https://open.spotify.com/track/3jnupMmEH5htGamP01T0PB) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Somnolente](https://open.spotify.com/album/0gsvnIxyfAJl24pFzFrBtj) | 2:49 |
 | 101 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Yepon](https://open.spotify.com/artist/1E2Fc4yuG4UokQJs4NfgjA) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 |
 | 102 | [Egyensúly](https://open.spotify.com/track/4gH0O4JlIMyvHHYqJ3hJXG) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Egyensúly](https://open.spotify.com/album/6LQGKx0QSk59TZGBDlvtVl) | 3:30 |

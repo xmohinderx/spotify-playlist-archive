@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 243140,
+  "num_followers": 243216,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDY2OTE1ZjQyMmQ2MDFmZDI1NDg3YzFhZjgwYTgwM2Zm",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGI0YTc1NDhjNWFhMGFiOWJiZDMzMmMyM2JhNWUxMWQ0",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -399,22 +399,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Ayahuasca",
-        "url": "https://open.spotify.com/album/241mYCg9mXZXgfTAlTsktH"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 508601,
-      "name": "Ayahuasca",
-      "url": "https://open.spotify.com/track/6oVm5ocTB8B0rjO5dZk8Px"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "When U Go",
         "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
       },
@@ -497,22 +481,6 @@
       "url": "https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
-    },
-    {
       "added_at": "2019-09-16 15:44:25",
       "album": {
         "name": "Baby You Can Free Your Mind",
@@ -527,6 +495,22 @@
       "duration_ms": 335180,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -839,6 +823,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Small Clan",
+        "url": "https://open.spotify.com/album/4KxYum9GpJC5SweO143o6K"
+      },
+      "artists": [
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        }
+      ],
+      "duration_ms": 232312,
+      "name": "Yellow Dust",
+      "url": "https://open.spotify.com/track/2qyY0gUp1hpDjVQlDshWWX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Home (feat. LEES)",
         "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Small Clan",
-        "url": "https://open.spotify.com/album/4KxYum9GpJC5SweO143o6K"
-      },
-      "artists": [
-        {
-          "name": "Miink",
-          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
-        }
-      ],
-      "duration_ms": 232312,
-      "name": "Yellow Dust",
-      "url": "https://open.spotify.com/track/2qyY0gUp1hpDjVQlDshWWX"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -963,18 +947,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
+        "name": "EP 2",
+        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
       },
       "artists": [
         {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+          "name": "Only Emily",
+          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
+      "duration_ms": 170404,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -995,18 +979,34 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "EP 2",
-        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
       },
       "artists": [
         {
-          "name": "Only Emily",
-          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
         }
       ],
-      "duration_ms": 170404,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
+      "duration_ms": 218000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Infinite Games",
+        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
+      },
+      "artists": [
+        {
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Get Light",
+      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Infinite Games",
-        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
+        "name": "They Came Along",
+        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
       "artists": [
         {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
         }
       ],
-      "duration_ms": 208706,
-      "name": "Get Light",
-      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
+      "duration_ms": 357894,
+      "name": "They Came Along",
+      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     }
   ],
   "unique_name": "Mellow Mood",

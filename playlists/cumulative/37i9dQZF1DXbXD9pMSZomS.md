@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-181 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
+182 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Kokiri Forest](https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Mind's Eye](https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1) | 6:21 | 2021-12-17 | 2022-08-31 |
 | [Locked in](https://open.spotify.com/track/0ES9JKpTteqkukxy1EAk44) | [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [Forcefield](https://open.spotify.com/album/1g2xaqdp2BU3iM3mN7F0zT) | 6:36 | 2022-03-25 | 2022-04-20 |
 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 | 2021-12-17 |  |
-| [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 | 2022-04-22 |  |
+| [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 | 2022-04-22 | 2022-12-01 |
 | [Lory](https://open.spotify.com/track/6fiJKbCHyA0BEzhI2Lt3Wr) | [Polynation](https://open.spotify.com/artist/4Rcol4u0q89lypqKI83GDz) | [Igneous](https://open.spotify.com/album/5kU3Q43bmLdARkMOCOLNkB) | 3:36 | 2022-03-25 | 2022-04-18 |
 | [Lost In Time](https://open.spotify.com/track/4At93Dg97BspyES8NPlzbF) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Me & You](https://open.spotify.com/album/2fBFbwcuLSoS8FN1cEr142) | 7:22 | 2022-03-31 | 2022-07-27 |
 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 | 2021-12-17 | 2022-07-29 |
@@ -181,6 +181,7 @@
 | [Trust](https://open.spotify.com/track/2daNvdn5MQlKcSRxPZMoDO) | [Odette](https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s) | [Trust](https://open.spotify.com/album/1QX4p4lYrM4wusVqxQWsjq) | 6:59 | 2021-12-17 | 2022-05-08 |
 | [Undergrowth](https://open.spotify.com/track/6FNAdNwaknBVkg4u7CSMTp) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Undergrowth](https://open.spotify.com/album/2orPEElJwKWjmr4DPEhdjB) | 2:53 | 2021-12-17 | 2022-05-22 |
 | [Useful](https://open.spotify.com/track/2UXPd6q6LN9oYSagng8tR5) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [Useful](https://open.spotify.com/album/7EfwWRHKY93vqZGp3UsZJ9) | 5:23 | 2022-03-25 | 2022-04-20 |
+| [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 | 2022-10-21 |  |
 | [Vibrant Air](https://open.spotify.com/track/7ons5HsFQUnWu2x7dXNZAa) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Vibrant Air](https://open.spotify.com/album/7L6AoK0MZ3JMMLgKskMmsq) | 4:11 | 2022-06-02 | 2022-11-20 |
 | [Voyagers](https://open.spotify.com/track/31wIzUj1Uw1olBO9Vlh0Tz) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Voyagers](https://open.spotify.com/album/1Q9GNC2hEY8nEbKCnRkRyR) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [wantuback](https://open.spotify.com/track/4U3jZQF6mMTwotTroneb9P) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [wantuback](https://open.spotify.com/album/1U001o6Qt9iKI2z8Em4ASk) | 2:22 | 2021-12-17 | 2022-05-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,186 likes - 65 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,220 likes - 65 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 38 | [Tibetan Bells](https://open.spotify.com/track/66Uz6LmJU9NsGeRl9DI8Wh) | [Tibetan Singing Bowls](https://open.spotify.com/artist/6kwJsOLwA762nHcbkRCKq0) | [Tibetan Singing Bowls](https://open.spotify.com/album/2xuIDSiC8KG61XFuEYvMed) | 6:34 |
 | 39 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 |
 | 40 | [Pratityasamutpada](https://open.spotify.com/track/4THOrb3uODy21CmF6WK4oz) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Mindful Eclipse](https://open.spotify.com/album/0CfC4UCQEihJ4hNUz2rF3A) | 4:08 |
-| 41 | [Lilac Dreams](https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0OOUG19z97HpHhoLIfMXlE) | 4:29 |
+| 41 | [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 |
 | 42 | [Sati Bowl](https://open.spotify.com/track/4jgvF7VdROvGudjZCFsQv7) | [Dhyāna One](https://open.spotify.com/artist/0UFdIjW2UB80v8wuOMUrYC) | [Dhyāna](https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9) | 3:53 |
 | 43 | [Lotus Out of Water](https://open.spotify.com/track/0mzjqpWYvFxqhlrxw2LmlB) | [Hong Ting](https://open.spotify.com/artist/136i0HoKRd7qt8CJz33VtT) | [Chinese Traditional Music](https://open.spotify.com/album/5cEeSw5a0Ec5NkAo1wccYp) | 4:29 |
 | 44 | [Autumn Moon Over The Han Palace](https://open.spotify.com/track/1dhiCB2adQsroqpK7KinTB) | [The Anonymous](https://open.spotify.com/artist/2kYpqEOmwO3ktb16Dsutqa), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jiang Fengzhi](https://open.spotify.com/artist/2R6xnMGOazNpsU8GTB7eAY) | [Treasures Of Chinese Instrumental Music: Erhu](https://open.spotify.com/album/78viJ5XqBADz1Jvwfk3ReB) | 6:06 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 64 | [Tibetan Bowl \- Samadhi](https://open.spotify.com/track/6BtCrX8kKFEdKwq2FwRwmX) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Mindful Eclipse](https://open.spotify.com/album/0CfC4UCQEihJ4hNUz2rF3A) | 2:40 |
 | 65 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 |
 
-Snapshot ID: `MTY2MDEzMjE4MCwwMDAwMDAwMDc5YmUyNTVmZTYwOWI3ZGZmMDFhZjEyYjM0ODdjMzU1`
+Snapshot ID: `MTY2MDEzMjE4MCwwMDAwMDAwMDk0MDg2MjBmZTkxOGE1NWIwMzk0ZTViNmFmZGNmOWIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,559 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,734 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 7 | [Samba in Paris](https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 4:26 |
 | 8 | [Doutora 3](https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Funk é Nóis GR6 3.1 \- Vol\. 1](https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU) | 2:37 |
 | 9 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 |
-| 10 | [Dublê de Marido](https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Dublê de Marido](https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks) | 2:34 |
-| 11 | [Google da Minha Vida](https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Google da Minha Vida](https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa) | 2:17 |
+| 10 | [Google da Minha Vida](https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Google da Minha Vida](https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa) | 2:17 |
+| 11 | [Dublê de Marido](https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Dublê de Marido](https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks) | 2:34 |
 | 12 | [Perdição](https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Perdição](https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk) | 4:35 |
 | 13 | [Poesia Acústica 11: Nada Mudou](https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 11: Nada Mudou](https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB) | 10:00 |
 | 14 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Surtada](https://open.spotify.com/track/76N8hqMQj2mpepRJqFcSZQ) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [U Baby](https://open.spotify.com/artist/5PpQnfyJjOpGsT7LfeBGxV), [Caju Clã](https://open.spotify.com/artist/1zCRmLWPpfEQTERVLcOhnz) | [Surtada](https://open.spotify.com/album/2TNQc1VSu32tfEt0z6HWE0) | 2:57 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMDcwNDMzMjkyNWExNzgxMzg4OTA0Y2E1N2Y2YWVmMzVl`
+Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMDA3NDU5NGQwMTVmY2MxZmM5MDI0NWIxNjhlYWQyNDk5`

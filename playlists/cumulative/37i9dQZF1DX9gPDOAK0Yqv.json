@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 378886,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R"
@@ -1511,6 +1511,24 @@
       "duration_ms": 219840,
       "name": "Try",
       "url": "https://open.spotify.com/track/6dYp9gwmnHvLdjwHhhiJbV"
+    },
+    {
+      "album": {
+        "name": "Unconventional Ride",
+        "url": "https://open.spotify.com/album/4H2UcxgnKoeE78H5j6RWNq"
+      },
+      "artists": [
+        {
+          "name": "HOSH",
+          "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399571,
+      "name": "Unconventional",
+      "url": "https://open.spotify.com/track/1JlWt0i5IvccZPa5VslXaS"
     },
     {
       "album": {

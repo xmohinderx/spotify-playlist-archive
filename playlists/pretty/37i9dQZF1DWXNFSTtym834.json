@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Disturbed",
-  "num_followers": 817081,
+  "num_followers": 818737,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEyMzAyOSwwMDAwMDAwMDk1ZmEzOTViYWViMDE2Yzc0ZGYxZjNlMjY1NGU1NmJi",
+  "snapshot_id": "MTY2OTEyMzAyOSwwMDAwMDAwMDc0ZGNiM2RkYTRlNTgyMThiZGJiNTdkNDI3MjY4Mzdk",
   "tracks": [
     {
       "added_at": "2022-11-22 13:17:09",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "The Blessed Hellride",
-        "url": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Stillborn",
-      "url": "https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Runnin' Wild (Special Edition)",
         "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 250253,
       "name": "Holy Diver",
       "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "The Blessed Hellride",
+        "url": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Stillborn",
+      "url": "https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Shadow Zone",
         "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 171106,
       "name": "The Only",
       "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Inhuman Rampage",
-        "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 441560,
-      "name": "Through the Fire and Flames",
-      "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Clayman",
         "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 294866,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Inhuman Rampage",
+        "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 441560,
+      "name": "Through the Fire and Flames",
+      "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Deftones",
-        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 257813,
-      "name": "Minerva",
-      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 257813,
+      "name": "Minerva",
+      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Amerika",
-      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Take A Look In The Mirror",
         "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 189960,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Amerika",
+      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
-      },
-      "artists": [
-        {
-          "name": "Turisas",
-          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 476266,
       "name": "The Day That Never Comes",
       "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
+      },
+      "artists": [
+        {
+          "name": "Turisas",
+          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Octavarium",
-        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 493026,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "The Silent Force",
         "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 240440,
       "name": "Angels",
       "url": "https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Octavarium",
+        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 493026,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
     },
     {
       "added_at": "2022-11-22 13:17:09",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-11-22 13:17:09",
       "album": {
-        "name": "Through The Eyes",
-        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
-      },
-      "artists": [
-        {
-          "name": "Flaw",
-          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Get Up Again",
-      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
-    },
-    {
-      "added_at": "2022-11-22 13:17:09",
-      "album": {
         "name": "Figure Number Five",
         "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 225933,
       "name": "Distortion Sleep",
       "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
+    },
+    {
+      "added_at": "2022-11-22 13:17:09",
+      "album": {
+        "name": "Through The Eyes",
+        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
+      },
+      "artists": [
+        {
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Get Up Again",
+      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
     },
     {
       "added_at": "2022-11-22 13:17:09",

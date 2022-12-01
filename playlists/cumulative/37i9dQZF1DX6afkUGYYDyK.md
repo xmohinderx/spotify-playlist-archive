@@ -4,7 +4,7 @@
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-165 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
+166 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 | 2022-11-23 |  |
 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 | 2022-11-23 |  |
 | [Give Thanks \- Medley](https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL) | [T.D\. Jakes](https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ) | [Woman; Thou Art Loosed!](https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL) | 3:41 | 2022-11-23 |  |
-| [Give Thanks to God](https://open.spotify.com/track/6TifEylXRiTPrGn4NHXd6O) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/0PST9ylFljP5vGSEU4f3hk) | 5:53 | 2022-11-23 |  |
+| [Give Thanks to God](https://open.spotify.com/track/3nto4q3YUOCXwmCqTDCoCa) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 5:53 | 2022-11-23 |  |
+| [Give Thanks to God](https://open.spotify.com/track/6TifEylXRiTPrGn4NHXd6O) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/0PST9ylFljP5vGSEU4f3hk) | 5:53 | 2022-11-23 | 2022-12-01 |
 | [Give Thanks To The Lord \(Forever\)](https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Grace \- Live Worship From New Wine 2001](https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG) | 3:57 | 2022-11-23 |  |
 | [God of the Ages \- Single Version \- Live](https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Sarah Bird](https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [God of the Ages \(Live At The Manor\)](https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu) | 4:16 | 2022-11-23 |  |
 | [Grace](https://open.spotify.com/track/2TESHzTfZn6rl9988rnTG7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [O Come All Ye Faithful](https://open.spotify.com/album/6TdRrPQiLtwEokNNHxiviI) | 3:41 | 2021-11-10 | 2022-11-24 |

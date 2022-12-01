@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Mikush
 
-321 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+322 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [11](https://open.spotify.com/track/4OByj8XoXrjtUCXVx1ptQa) | [Daves](https://open.spotify.com/artist/3QR8JzfwC31xw0IoBtYbUC), [Nerse](https://open.spotify.com/artist/0PeuaKMBbNbw6KRC5XDO9e) | [11](https://open.spotify.com/album/2RYxMTwp5kclkPCvP4IWhN) | 2:01 | 2022-11-24 |  |
 | [17ANNI](https://open.spotify.com/track/2EjjzbpzMZqhpHuyft3LRc) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ), [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [17ANNI](https://open.spotify.com/album/0sORJIrRbMnPOzPnwdtuiJ) | 2:30 | 2022-08-04 | 2022-09-16 |
 | [1of1](https://open.spotify.com/track/5Kd075ZC3yyNHWfp2TNDpj) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Frostee](https://open.spotify.com/artist/6xZVjHaQyPmX5XIXqAWfae) | [1of1](https://open.spotify.com/album/0TUt2kA1AgQiPShIioXluo) | 3:05 | 2022-05-26 | 2022-06-23 |
-| [31st](https://open.spotify.com/track/2cYGl0YTegitLrJ7KY2JJL) | [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R), [Fluss Uchiha](https://open.spotify.com/artist/1iqQyjmk9FN45sd8V8CPJo) | [31st](https://open.spotify.com/album/4fVrooopjNkCeXFgPp0ebl) | 2:34 | 2022-11-03 |  |
+| [31st](https://open.spotify.com/track/2cYGl0YTegitLrJ7KY2JJL) | [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R), [Fluss Uchiha](https://open.spotify.com/artist/1iqQyjmk9FN45sd8V8CPJo) | [31st](https://open.spotify.com/album/4fVrooopjNkCeXFgPp0ebl) | 2:34 | 2022-11-03 | 2022-12-01 |
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-14 | 2022-11-08 |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-10 | 2022-07-20 |
 | [64](https://open.spotify.com/track/5OBF6bJH7vtbxDZ6FGBQl3) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [64](https://open.spotify.com/album/43YkfbxAUAqpyzI4g1KcMV) | 3:21 | 2022-07-21 | 2022-08-19 |
@@ -296,6 +296,7 @@
 | [SURF](https://open.spotify.com/track/0uXY2pYdHmZpmtk0wfICgJ) | [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [SURF](https://open.spotify.com/album/2ARaqKQWUJIiQMXtdwKLnl) | 2:54 | 2022-08-25 | 2022-09-02 |
 | [SWAG! \(Drip Margiela\)](https://open.spotify.com/track/4iaC4nwpOz6WXOKcuGzhWr) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [SWAG! \(Drip Margiela\)](https://open.spotify.com/album/0GFSvxiK8TUQCkiFHmHFo6) | 2:37 | 2022-06-09 | 2022-07-02 |
 | [TE STESSO](https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [TE STESSO](https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ) | 2:39 | 2022-10-06 |  |
+| [Team](https://open.spotify.com/track/1itpLyF990nYUbNbdt3Ha2) | [Fuck Pop](https://open.spotify.com/artist/2EOQo8wyiH2Td1VVXgTKGW), [cinquantasettanta](https://open.spotify.com/artist/6QOv4gfAQMIqGoG5LIjg2h), [Ciko](https://open.spotify.com/artist/1avlWZZBKsFFxfgRENccBn), [The ego](https://open.spotify.com/artist/7CUwMTIN5PXXb2AAzAdJQj) | [Team](https://open.spotify.com/album/5C7hkoUeVxXC3hntHOwLqq) | 2:22 | 2022-11-30 |  |
 | [Tigresse](https://open.spotify.com/track/6FtWOgaI3icr8D7TNabM5H) | [Keione](https://open.spotify.com/artist/03hK7y0FwbAU0GbP8eXmbu) | [Tigresse](https://open.spotify.com/album/4oCfom11e5Uy8ducm4KVkf) | 2:37 | 2022-07-14 | 2022-07-29 |
 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 | 2022-05-10 | 2022-05-27 |
 | [TMax Nero](https://open.spotify.com/track/1uJla0JBNlxpx09X5cpLNn) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [TMax Nero](https://open.spotify.com/album/0OTdXFFM6J7Hy3WuH4CVIM) | 2:36 | 2022-09-15 | 2022-10-07 |

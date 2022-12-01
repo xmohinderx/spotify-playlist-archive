@@ -1509,6 +1509,28 @@
     {
       "album": {
         "name": "Yvonne Casey",
+        "url": "https://open.spotify.com/album/4tls5MJzyRgAtnGquJP9Ai"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Casey",
+          "url": "https://open.spotify.com/artist/21AG1sQHWCkkVbpHmpmYo4"
+        },
+        {
+          "name": "Eoin O'Neill",
+          "url": "https://open.spotify.com/artist/5WjZM7TNxYLOc9d7fX0OwG"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250426,
+      "name": "Reels: Liz Carroll's / Paddy Ryan's Dream",
+      "url": "https://open.spotify.com/track/0dqpDQd9ne4GPUpzsrAsp6"
+    },
+    {
+      "album": {
+        "name": "Yvonne Casey",
         "url": "https://open.spotify.com/album/1gnHAawyGZzM5e8wyfD0to"
       },
       "artists": [
@@ -1519,7 +1541,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 250426,
       "name": "Reels: Liz Carroll's, Paddy Ryan's Dream (feat. Eoin O'Neill)",
       "url": "https://open.spotify.com/track/5Rrjzr6ZuWfda10aATld8W"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,266 likes - 105 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,732 likes - 105 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 42 | [Metal Gear Saga](https://open.spotify.com/track/3gMRvptppSZGbhYBeIqxV3) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK](https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI) | 4:19 |
 | 43 | [Days Gone](https://open.spotify.com/track/0o2Sdhds3vTjXRfJZBTzLm) | [Nathan Whitehead](https://open.spotify.com/artist/1H74HYtrgoflUgbNupSbdP) | [Days Gone \(Original Soundtrack\)](https://open.spotify.com/album/2koUTJvJTFzOs8mresqtle) | 3:41 |
 | 44 | [Main Title](https://open.spotify.com/track/3ynOh82NOks4d4YcKkcrnt) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [Fallout 3: Original Game Soundtrack](https://open.spotify.com/album/5eikNDtOsRBp4npSO9nFOJ) | 2:04 |
-| 45 | [Tomb Raider Theme](https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Tomb Raider Suite](https://open.spotify.com/album/3xfTmsqB82eFdMfKSA9YdH) | 3:13 |
+| 45 | [Tomb Raider Theme](https://open.spotify.com/track/1BJtsYb9mSh8y9BW6pB71N) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Tomb Raider Suite](https://open.spotify.com/album/6NYHX8GzTK9FYQDbJLmrv0) | 3:13 |
 | 46 | [Hope \(Title Theme\)](https://open.spotify.com/track/5UE1l5fozj8mkaZMk1xmBX) | [Justin E\. Bell](https://open.spotify.com/artist/6dMgJ2cftqX4iCnrSLJXHw) | [The Outer Worlds \(Original Soundtrack\)](https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG) | 7:45 |
 | 47 | [Bloodhunt Main Theme](https://open.spotify.com/track/5YccTgIOcpRp4OUZpUSzC2) | [Atanas Valkov](https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5) | [Vampire: The Masquerade \- Bloodhunt \(Original Soundtrack\)](https://open.spotify.com/album/5pZcw77Yw4E0r9PK9SNN7S) | 2:57 |
 | 48 | [Introduction](https://open.spotify.com/track/2ufr0Gs4OWL1Uo22EsJDSx) | [Kristofer Maddigan](https://open.spotify.com/artist/2jR6Lr47O21Iq7l5Bs2mig) | [Cuphead \(Original Soundtrack\)](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu) | 3:31 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 104 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 105 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MTY2OTA0ODMwMywwMDAwMDAwMGM2YzRkNDAyZDM1YTlkNjc4YWU5Y2U1NmQzYzRiODI1`
+Snapshot ID: `MTY2OTA0ODMwMywwMDAwMDAwMGVjMTBjODQxZjBkOWQ3YmNkMGVlNGQ0NGFkNzZjYmRm`

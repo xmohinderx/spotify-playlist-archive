@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-73 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5yaeeXnzC1N5mP1v5SvONv)
+74 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/5yaeeXnzC1N5mP1v5SvONv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Isuzugawa “The Holy River of Isuzu”](https://open.spotify.com/track/3d6Cbi5hwvByKKy120jbmf) | [Satomi Saeki](https://open.spotify.com/artist/7mYaEybTvYFjOayusQ9QXp), [Michio Miyagi](https://open.spotify.com/artist/7pwpEMJZkvLqFq2HnFfuuJ) | [Japanese Koto Music](https://open.spotify.com/album/7dO4ofpRc2lVKuVvfpCGwG) | 7:18 | 2022-07-18 |  |
 | [Kitsune Village](https://open.spotify.com/track/7fQDGOxvHnfG5WGqcxifcQ) | [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [The Tea House](https://open.spotify.com/album/2i4lMaPmAzJvzrZskBuEut) | 3:49 | 2022-07-18 |  |
 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 | 2022-07-18 |  |
-| [Lilac Dreams](https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0OOUG19z97HpHhoLIfMXlE) | 4:29 | 2022-07-18 |  |
+| [Lilac Dreams](https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0OOUG19z97HpHhoLIfMXlE) | 4:29 | 2022-07-18 | 2022-12-01 |
+| [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 | 2022-08-10 |  |
 | [Lotus Out of Water](https://open.spotify.com/track/0mzjqpWYvFxqhlrxw2LmlB) | [Hong Ting](https://open.spotify.com/artist/136i0HoKRd7qt8CJz33VtT) | [Chinese Traditional Music](https://open.spotify.com/album/5cEeSw5a0Ec5NkAo1wccYp) | 4:29 | 2022-07-18 |  |
 | [Luminous Depths](https://open.spotify.com/track/1iEM7p2gfVBNv7hLQTUl6t) | [Evenfall](https://open.spotify.com/artist/1ujz71O1avTM6auwv9aDdE) | [Luminous Depths](https://open.spotify.com/album/2xYVos6PVbNySOz7RkNk7s) | 5:06 | 2022-08-10 |  |
 | [Masal \- Instrumental](https://open.spotify.com/track/0J0f4HTpSzV5szjahBbSmA) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Neval](https://open.spotify.com/artist/3xsWhJ3BXOnSewlzawH8RU) | [Masal](https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh) | 2:52 | 2022-07-18 |  |

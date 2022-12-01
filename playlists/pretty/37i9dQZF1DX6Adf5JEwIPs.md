@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Natanael Cano, Gabito Ballesteros & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,953 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,972 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 24 | [Ayer Te Pedí \- En Vivo](https://open.spotify.com/track/48r98YoFahFsLoPw2v9GJi) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Mis Favoritas \(En Vivo\)](https://open.spotify.com/album/4wGgcbPj9HPTpYyKSBqMBP) | 3:38 |
 | 25 | [Ya Es Suficiente](https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Ya Es Suficiente](https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT) | 3:02 |
 | 26 | [Ahí Te Quedas Con Tu Vida](https://open.spotify.com/track/5A4UnYZ42vWsfikW38sQKz) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ahí Te Quedas Con Tu Vida](https://open.spotify.com/album/7GGiG9eUe50j8z9vX0ZqW8) | 2:58 |
-| 27 | [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/track/1AEWyAZwNY3HxYnOITEPu5) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/album/0maq6fu6MH2kx9YOEe4nRG) | 3:08 |
+| 27 | [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/track/1AEWyAZwNY3HxYnOITEPu5) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/album/0maq6fu6MH2kx9YOEe4nRG) | 2:55 |
 | 28 | [Con un Botecito a Pecho](https://open.spotify.com/track/2rv3za9M5o6DtkIVZXgu1r) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Disfruto](https://open.spotify.com/album/3IlO5KgqBRd6DHEOzBcf9l) | 2:56 |
 | 29 | [La Palabra Es La Palabra](https://open.spotify.com/track/0ixEoNGQzCWvWZJecFMLz6) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [La Palabra Es La Palabra](https://open.spotify.com/album/7HgCIfeD64lNG6ZoDB3sny) | 2:36 |
 | 30 | [Soy El Flechas](https://open.spotify.com/track/5OFd0eV8FsFVUtkkcMUun2) | [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Soy El Flechas](https://open.spotify.com/album/6owWyJ4TVpaVuFgMKsvWhi) | 2:15 |

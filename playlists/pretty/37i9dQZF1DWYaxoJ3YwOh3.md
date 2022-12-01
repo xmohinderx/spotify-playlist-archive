@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,667 likes - 64 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,706 likes - 64 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 26 | [Harmony of Senses](https://open.spotify.com/track/6bJQjILATeEqvRSk9pU6cj) | [Ethnic Moods Academy](https://open.spotify.com/artist/0HPsSqgWf8994BfuySJoZl) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 3:40 |
 | 27 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
 | 28 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
-| 29 | [Bab' Azîz](https://open.spotify.com/track/4aMXctsHbPJTf4eBWSDtWz) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [Bab' Azîz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18op4iNmaVYwFudFJvyvh7) | 6:11 |
+| 29 | [Bab' Azîz](https://open.spotify.com/track/39MKo6PLDdb8NhACGWgwzd) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Levon Minassian](https://open.spotify.com/artist/0etYQllgAd4LK3t5LythT8) | [Bab' Azîz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QzhxVmpWQkqzSMPcUG2JJ) | 6:11 |
 | 30 | [Mental Wellbeing](https://open.spotify.com/track/28BKLc1P33rinEfjvXV8PW) | [Tranquility Spa Universe](https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:26 |
 | 31 | [Dreams of Pharaoh](https://open.spotify.com/track/4r9m1bZcdxaaVPh9uhtyii) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs), [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [Desert Dreams](https://open.spotify.com/album/65oCkKyowOzfwq30nZqgLl) | 5:48 |
 | 32 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 63 | [Anatolia](https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 8:07 |
 | 64 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 |
 
-Snapshot ID: `MTY2NjYxODg4OSwwMDAwMDAwMDUyMjBiYjlhY2E2NDNiMzdjY2IwMjg3OGY4M2VhNTkz`
+Snapshot ID: `MTY2NjYxODg4OSwwMDAwMDAwMGYzNjk4ZTMzOTM5MmYwMzQ5NzkzNjk2ZTg2YzA1NjQ3`

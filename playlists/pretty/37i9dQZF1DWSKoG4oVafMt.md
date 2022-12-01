@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jass Manak
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,325 likes - 181 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,378 likes - 181 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 14 | [Scared To Love](https://open.spotify.com/track/2SBUPbrHybfRwaJHxFizDz) | [This Is GB](https://open.spotify.com/artist/2W0uc5BFijRycFJisWgfXs) | [Scared To Love](https://open.spotify.com/album/5vb2O4xQJ0SH6VQ7IXsyVX) | 3:24 |
 | 15 | [Bhull Gye](https://open.spotify.com/track/2xU9REQr8h66TAvxak5hVj) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [Xoxo](https://open.spotify.com/album/3fnfvNoPqcVvxYW98vFgJo) | 2:37 |
 | 16 | [Laare](https://open.spotify.com/track/4L6h1muuapCakyu81caEVN) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Laare](https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw) | 2:38 |
-| 17 | [Jaane Meriye](https://open.spotify.com/track/43f1GdmdYDCsEYK0PpgAy9) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Harish Verma](https://open.spotify.com/artist/6JfYDFQWMlAMizvlVIMdFX), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Jaane Meriye](https://open.spotify.com/album/09Lzc4GnZG8krNwgT6HpYo) | 3:53 |
+| 17 | [Jaane Meriye](https://open.spotify.com/track/43f1GdmdYDCsEYK0PpgAy9) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Jaane Meriye](https://open.spotify.com/album/09Lzc4GnZG8krNwgT6HpYo) | 3:53 |
 | 18 | [Moonglade](https://open.spotify.com/track/4Tiy5veKfyUfSjpHMNqPV3) | [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Moonglade](https://open.spotify.com/album/728QDtU7zh9qh1hJkDIL9k) | 3:06 |
 | 19 | [Zulfaan](https://open.spotify.com/track/2nUs7DZ4tV0NOtTTRxyfFj) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Zulfaan](https://open.spotify.com/album/0yDumgrNgxMzjFE9cUJEzf) | 3:09 |
 | 20 | [Saari Raat](https://open.spotify.com/track/2Ckp3rIzVkLmXpS8eTbw93) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Tasha Tah](https://open.spotify.com/artist/3Tj7DWYCzvjZ0RtFBmWqED) | [Content](https://open.spotify.com/album/7sfAbKboLn2pNEIkogayd3) | 3:03 |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127151,
+  "num_followers": 127138,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg0NSwyMjE0NTE1MGI5MjVkODkyNWRjOTZiNzk5MTBkY2Q0NGVjNmRjY2Qz",
+  "snapshot_id": "Mzg0NyxmYWU0ZTYzOGVjMWUwNTc0YTI5OTUwODMwYjA1NzI4NzNjMmI2NzI2",
   "tracks": [
+    {
+      "added_at": "2022-11-30 20:18:29",
+      "album": {
+        "name": "this feeling that never ends",
+        "url": "https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv"
+      },
+      "artists": [
+        {
+          "name": "Scarr.",
+          "url": "https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV"
+        },
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "duration_ms": 150888,
+      "name": "this feeling that never ends",
+      "url": "https://open.spotify.com/track/4YMmmpFYgC29DqDqjghjuT"
+    },
     {
       "added_at": "2022-11-29 09:23:34",
       "album": {
@@ -1083,22 +1103,6 @@
       "duration_ms": 164409,
       "name": "FULL ASSAULT",
       "url": "https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Haze",
-        "url": "https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ"
-      },
-      "artists": [
-        {
-          "name": "LAR",
-          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

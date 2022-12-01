@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-217 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
+218 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Air Forces](https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/3uS8BaiM7cV3lqQ5OIpgaH) | 2:58 | 2022-03-21 | 2022-07-25 |
 | [Alchemy](https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Alchemy](https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o) | 3:13 | 2022-03-21 | 2022-07-13 |
 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2022-03-21 | 2022-10-13 |
+| [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 | 2022-10-23 |  |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-12 |  |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2022-07-17 |  |
 | [And Then Life Was Beautiful](https://open.spotify.com/track/4vUU8lx3iz7u72rpDjhXHi) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0B3zjlIshVUCbkSJDbJNRZ) | 3:23 | 2022-03-21 | 2022-07-27 |
@@ -89,7 +90,7 @@
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-03-21 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/41w3qHwMMiUcbUTpvMm3ou) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [The Art of Conversation](https://open.spotify.com/album/4SXtwQWgGPXb20Qt2ggMyx) | 1:56 | 2022-03-21 | 2022-06-22 |
 | [Home With You](https://open.spotify.com/track/4KThEXGsgPSCzf4iTxjG7X) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Home With You](https://open.spotify.com/album/0mQoerajuhiAt0cyI7w9LS) | 4:25 | 2022-03-21 | 2022-07-29 |
-| [homebody](https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [homebody](https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f) | 3:09 | 2022-07-17 |  |
+| [homebody](https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [homebody](https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f) | 3:09 | 2022-07-17 | 2022-12-01 |
 | [Honey'd Up](https://open.spotify.com/track/2gfkEq7Vj0q22tjEPp2GHb) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Honey'd Up](https://open.spotify.com/album/6hHwKXVNfipyQjx5txZuq1) | 4:00 | 2022-03-21 | 2022-04-29 |
 | [Hooked On You](https://open.spotify.com/track/7mehF2wQ5tkzh2WQP7GzvM) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [FLISS](https://open.spotify.com/artist/3WRXRa5f0yaXLfbtwpY79v) | [Hooked On You](https://open.spotify.com/album/6mBOC5abEzkmvLSidRZPiF) | 3:03 | 2022-03-21 | 2022-05-28 |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-22 | 2022-10-24 |

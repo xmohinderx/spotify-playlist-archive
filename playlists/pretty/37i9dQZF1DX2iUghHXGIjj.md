@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,597 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,564 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 4 | [Banty Rooster Blues](https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92) | [The Reverend Peyton's Big Damn Band](https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK) | [Banty Rooster Blues](https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA) | 4:06 |
 | 5 | [Fishin' Blues \(with Taj Mahal\)](https://open.spotify.com/track/2i9YLsEQ2z0NhJ1ynuQQm2) | [Bob Stewart](https://open.spotify.com/artist/1j6ZqtSr1Y94DjLnQdUnUl), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Then & Now](https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp) | 4:03 |
 | 6 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
-| 7 | [in three years' time \- Stripped Back](https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(deluxe\) \[Stripped Back\]](https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS) | 2:55 |
+| 7 | [in three years' time \- Stripped Back](https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(deluxe\)](https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS) | 2:55 |
 | 8 | [Another Man](https://open.spotify.com/track/3aYzsSfm5H5597mewo0r3N) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:14 |
 | 9 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 |
 | 10 | [Gonna Walk This Road](https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 2:30 |

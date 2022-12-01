@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Jadu Heart
 
-334 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+335 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [I Love You](https://open.spotify.com/track/2rDaHAwvDFpSR6hta7re5l) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/1ysn1KuQSSRBK96J17wGyD) | 5:05 | 2022-02-18 | 2022-07-29 |
 | [I Love You](https://open.spotify.com/track/4mKn6gwhP3HYuo11aNqI2y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:05 | 2022-04-01 | 2022-08-19 |
 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 | 2022-10-06 |  |
-| [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-08-18 |  |
+| [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-08-18 | 2022-12-01 |
 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-08-18 | 2022-08-29 |
 | [I'll Make You Sorry](https://open.spotify.com/track/3d0BFjnCZeU2h3Dy7Ub56q) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/27WCDmHjVFzzdhxjqMKDgD) | 4:11 | 2021-03-09 | 2022-01-17 |
 | [I'm Just High](https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Dreams, Pains & Paper Planes](https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV) | 3:21 | 2022-10-06 |  |
@@ -288,6 +288,7 @@
 | [Stranger Days](https://open.spotify.com/track/2YrFwJC9jDaI0BoxtKRI9K) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Stranger Days](https://open.spotify.com/album/1TaRqKa2nsaqSYMJgAwuvT) | 4:11 | 2022-02-04 | 2022-08-19 |
 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-18 |  |
 | [Street Justice](https://open.spotify.com/track/3s1Lfb2qxTL9r2apOFfIYD) | [Death Valley Girls](https://open.spotify.com/artist/0EvAIYxDOmvxkCv35jfmS9) | [Street Justice](https://open.spotify.com/album/7ApxyIBdLgZad3CsKwHhQp) | 2:40 | 2021-03-09 | 2022-01-17 |
+| [Superblue](https://open.spotify.com/track/2xeyM4a9TxmBjPR13AG7CG) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Superblue](https://open.spotify.com/album/3Pu25k3w3yE4Qfli9VqFP4) | 3:19 | 2022-11-25 |  |
 | [Sweat Patch](https://open.spotify.com/track/6Qk4Z5yyI4CQe3k90mizqb) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Sweat Patch](https://open.spotify.com/album/3ELbAANuW2XZZOOq1tZJXA) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [Sweeter Things](https://open.spotify.com/track/6TOpX6PrdVwYZ0vkFHxuJc) | [Jacqueline Tucci](https://open.spotify.com/artist/3C8jNP8KucAySqnpvVTsyL) | [Sweeter Things](https://open.spotify.com/album/6htfjXRYortoaprlglShQe) | 2:23 | 2021-03-09 | 2022-01-17 |
 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 | 2022-08-18 |  |

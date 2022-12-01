@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-121 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1am0nT5NWPDwpwR2gOJMLS)
+122 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/1am0nT5NWPDwpwR2gOJMLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas Greetings](https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb) | 3:03 | 2021-12-20 |  |
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- Single Version](https://open.spotify.com/track/5lBGSaM1xmAMxP4cpuL0mX) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [A Merry Christmas With Bing Crosby & The Andrews Sisters](https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76) | 3:02 | 2021-12-20 | 2022-07-29 |
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- Single Version](https://open.spotify.com/track/1cvpw953AQ7d3SqnZWVDTn) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Novogodišnji Hitovi 2020](https://open.spotify.com/album/4qs4gIDAq7bLIHHP3LgHWz) | 3:03 | 2022-10-23 | 2022-11-13 |
+| [Holiday Party](https://open.spotify.com/track/29mIEUY4YHQmFyZ2tspe71) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Pick Out A Christmas Tree](https://open.spotify.com/album/5vvy2MDeEzVJc4CvGpPKDu) | 3:01 | 2022-11-30 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0EwuAHdON2ma8UBa7Flpee) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:37 | 2022-11-23 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/7MnLsyO1JvYwgvEJrBPybg) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Phil Spector Definitive Collection](https://open.spotify.com/album/5raKUBsZf9x31UuRmJ5c9Z) | 2:41 | 2021-12-20 | 2022-11-23 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 | 2021-12-20 |  |

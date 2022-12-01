@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 193251,
       "name": "Something New",
       "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
@@ -1797,6 +1797,24 @@
       "duration_ms": 195080,
       "name": "Something New",
       "url": "https://open.spotify.com/track/3YPjmCK8hDLbpoavFyU9Fe"
+    },
+    {
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 147650,
+  "num_followers": 147734,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NDY5NiwwMDAwMDAwMDNmYWE0NTljYmYxOGE0NWYyNmM2MmM1YWNjYjk2YmJj",
+  "snapshot_id": "MTY2OTM5NDY5NiwwMDAwMDAwMGRjYmM2NzczNmUyZTg3N2E0NDM1MWE5ZTg2OGQ5YTNj",
   "tracks": [
     {
       "added_at": "2022-11-25 16:43:58",
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/1U8C94ZJu6ZSBeTYMlWQ5i"
     },
     {
-      "added_at": "2022-11-30 01:37:37",
+      "added_at": "2022-12-01 01:47:05",
       "album": {
         "name": "MK 3.5: Die Cuts | City Planning",
         "url": "https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2"
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-11-25 16:43:58",
       "album": {
-        "name": "Apricots",
-        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
-    },
-    {
-      "added_at": "2022-11-25 16:43:58",
-      "album": {
         "name": "GREY Area",
         "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 226096,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
+    },
+    {
+      "added_at": "2022-11-25 16:43:58",
+      "album": {
+        "name": "Apricots",
+        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
     },
     {
       "added_at": "2022-11-25 16:43:58",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-11-25 16:43:58",
       "album": {
-        "name": "Final Credits",
-        "url": "https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE"
+        "name": "Late Nights",
+        "url": "https://open.spotify.com/album/2mx1bRvFZZUW6ifNmAsZx4"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 439994,
-      "name": "Final Credits",
-      "url": "https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O"
+      "duration_ms": 178664,
+      "name": "Late Nights",
+      "url": "https://open.spotify.com/track/0ZcjG6n7IPu57gd64fPU5H"
     },
     {
       "added_at": "2022-11-25 16:43:58",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-11-25 16:43:58",
       "album": {
-        "name": "Late Nights",
-        "url": "https://open.spotify.com/album/2mx1bRvFZZUW6ifNmAsZx4"
+        "name": "Final Credits",
+        "url": "https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
         }
       ],
-      "duration_ms": 178664,
-      "name": "Late Nights",
-      "url": "https://open.spotify.com/track/0ZcjG6n7IPu57gd64fPU5H"
+      "duration_ms": 439994,
+      "name": "Final Credits",
+      "url": "https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O"
     },
     {
       "added_at": "2022-11-25 16:43:58",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-11-25 16:43:58",
       "album": {
-        "name": "Kyle (i found you)",
-        "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
+        "name": "Ugh",
+        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
         }
       ],
-      "duration_ms": 196071,
-      "name": "Kyle (i found you)",
-      "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
+      "duration_ms": 182000,
+      "name": "Half Full",
+      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
     }
   ],
   "unique_name": "4AM Chillout",

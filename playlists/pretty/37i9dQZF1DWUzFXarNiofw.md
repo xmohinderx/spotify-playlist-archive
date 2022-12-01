@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,465 likes - 116 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,809 likes - 116 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

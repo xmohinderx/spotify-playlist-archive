@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Zc2C2regQe.md) - [plain]
 | 3 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 |
 | 4 | [She Used To Be Mine](https://open.spotify.com/track/2D4BSm5Z8Hq5zYbSgJwEOh) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [What's Inside: Songs from Waitress](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) | 4:10 |
 | 5 | [Miss Simone](https://open.spotify.com/track/5NePPsk8jsSgEc4GDbzuxX) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 4:13 |
-| 6 | [Nouel](https://open.spotify.com/track/5JKH89ILC4hJz8ve3UAK49) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Semper Femina](https://open.spotify.com/album/3Z4NNeh0gf4oGquXZEU1NT) | 4:53 |
+| 6 | [Nouel](https://open.spotify.com/track/1TrtSG87IQtSMb3k2DHBMg) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Semper Femina \(Deluxe Edition\)](https://open.spotify.com/album/56Cr06KXyOmqHqtZU8lsHv) | 4:53 |
 | 7 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
 | 8 | [Teach You \- Acoustic](https://open.spotify.com/track/6Esc0Q4YRbnlJHb3dy6MdS) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Sides](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) | 3:03 |
 | 9 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Zc2C2regQe.md) - [plain]
 | 30 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 |
 | 31 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 |
 
-Snapshot ID: `MTY2NDkxOTAwMSwwMDAwMDAwMDJhYzFkOGIzOTA1ZTJiYzBlM2NlYjBiM2ZkMTY3MjA0`
+Snapshot ID: `MTY2NDkxOTAwMSwwMDAwMDAwMDYzOTZhZTJjNjEzNzBkYjUyYTBiMTdjM2VhZDJiMWIw`

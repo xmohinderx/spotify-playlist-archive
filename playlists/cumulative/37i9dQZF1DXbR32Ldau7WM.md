@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Keisuke Kuwata\(桑田佳祐\)
 
-420 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+422 songs - 1 day 3 hr 51 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 | 2022-05-12 | 2022-07-29 |
 | [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/13rKSOM1pQ3JFs7WQrlwxu) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:41 | 2022-11-22 | 2022-11-24 |
 | [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/6u0171YtwplrmpXqsWOWGb) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:41 | 2022-11-22 | 2022-11-30 |
-| [Bayside Lover](https://open.spotify.com/track/0hQfPQFUIkORbgj6rZtswa) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/6d2qlAU7swT2j5rkSwrGFd) | 3:26 | 2022-11-29 |  |
+| [Bayside Lover](https://open.spotify.com/track/0hQfPQFUIkORbgj6rZtswa) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/6d2qlAU7swT2j5rkSwrGFd) | 3:26 | 2022-11-29 | 2022-12-01 |
+| [Bayside Lover](https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/0dM5w3G09YZRE7SN3eMsbe) | 3:26 | 2022-11-29 |  |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2022-05-10 | 2022-11-23 |
 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-07 | 2022-10-21 |
 | [Black hole eyed lady](https://open.spotify.com/track/0dwQF24jwHEFvAdBIW5Obx) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [Black hole eyed lady](https://open.spotify.com/album/3pUUh38i9Ip5L01yJLNhbZ) | 2:51 | 2022-05-10 | 2022-07-23 |
@@ -165,6 +166,7 @@
 | [One Day](https://open.spotify.com/track/7yyAxWHScMLgWAP5SwhR0T) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Like A Fable](https://open.spotify.com/album/2kSV9jRU3B346I5qUYr82i) | 3:29 | 2022-06-02 | 2022-06-08 |
 | [One More Time](https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [One More Time](https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ) | 3:27 | 2022-05-10 | 2022-11-16 |
 | [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 | 2022-09-25 | 2022-11-23 |
+| [Onozomidori](https://open.spotify.com/track/5zylPPIua3ORvZxLudnjzc) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Onozomidori](https://open.spotify.com/album/4gSVJvKLVGJP7cHuQue9qQ) | 3:33 | 2022-11-29 |  |
 | [Opening Ceremony](https://open.spotify.com/track/1MqPv9ROTNpcrLVqgHJcYj) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Opening Ceremony](https://open.spotify.com/album/11d3rQ6GBFxUuiOIir59dj) | 3:39 | 2022-07-26 | 2022-07-29 |
 | [Opening Ceremony](https://open.spotify.com/track/6QYOM6759mUjFhoY6UIcj6) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Opening Ceremony](https://open.spotify.com/album/6jVguby1S0bUwSB5I5AAPJ) | 3:39 | 2022-07-28 | 2022-08-03 |
 | [Out in Bloom](https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Out in Bloom](https://open.spotify.com/album/4eVijcTaBTYJoMKd2VfuaH) | 4:50 | 2022-10-29 | 2022-11-02 |
@@ -273,7 +275,7 @@
 | [いっそ分裂](https://open.spotify.com/track/5gzVCsND9HT8HD7KjrT15G) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [Unite / Divide](https://open.spotify.com/album/0nTYoNvUKtILpU8EdS73I3) | 4:42 | 2022-05-10 | 2022-07-21 |
 | [いつか何処かで\(I FEEL THE ECHO\)](https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Keisuke Kuwata](https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c) | 5:20 | 2022-11-22 |  |
 | [うるうびと](https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [余命10年 \(Original Soundtrack\)](https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz) | 5:18 | 2022-05-10 | 2022-05-18 |
-| [お望み通り](https://open.spotify.com/track/4i2RvHbnACgAfvfQDRastj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [お望み通り](https://open.spotify.com/album/0ZoZomnWvls8NN42lGNSpg) | 3:33 | 2022-11-29 |  |
+| [お望み通り](https://open.spotify.com/track/4i2RvHbnACgAfvfQDRastj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [お望み通り](https://open.spotify.com/album/0ZoZomnWvls8NN42lGNSpg) | 3:33 | 2022-11-29 | 2022-12-01 |
 | [お茶](https://open.spotify.com/track/3jpE1IiRxKi25R05n0YIZo) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 4:18 | 2022-05-24 | 2022-06-01 |
 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 | 2022-06-14 | 2022-06-22 |
 | [この道の先で](https://open.spotify.com/track/6UWhwIkN3016VwFVXXi9LQ) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [この道の先で](https://open.spotify.com/album/06YUhkvCuOV0oXIgNHNhkp) | 5:04 | 2022-05-12 | 2022-07-27 |

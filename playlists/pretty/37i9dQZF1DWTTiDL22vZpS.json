@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 853,
+  "num_followers": 1149,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA3NTk0OSwwMDAwMDAwMDI5YjBlN2YyYWViZjQxYjhmMmFhOTRhYTAwYTMwMzM1",
+  "snapshot_id": "MTY2OTA3NTk0OSwwMDAwMDAwMDk3YTRkYzllNTIwMWRhMmYwYjc3NmJjZjI2MzczNjk4",
   "tracks": [
     {
       "added_at": "2022-11-22 00:12:29",
@@ -475,18 +475,22 @@
     {
       "added_at": "2022-11-22 00:12:29",
       "album": {
-        "name": "La Canci\u00f3n Bootleg",
-        "url": "https://open.spotify.com/album/7mpvDiCsmHouF7FrQjE84T"
+        "name": "M\u00fasica Moderna",
+        "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
       "artists": [
         {
-          "name": "Bruno Borlone",
-          "url": "https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo"
+          "name": "Orquesta Discotheque",
+          "url": "https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC"
+        },
+        {
+          "name": "Beto Montes",
+          "url": "https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC"
         }
       ],
-      "duration_ms": 271946,
-      "name": "La Canci\u00f3n Bootleg",
-      "url": "https://open.spotify.com/track/6ZL6eps0c2N7Ans3z6P4fS"
+      "duration_ms": 237262,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG"
     },
     {
       "added_at": "2022-11-22 00:12:29",
@@ -507,22 +511,18 @@
     {
       "added_at": "2022-11-22 00:12:29",
       "album": {
-        "name": "M\u00fasica Moderna",
-        "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
+        "name": "La Canci\u00f3n Bootleg",
+        "url": "https://open.spotify.com/album/7mpvDiCsmHouF7FrQjE84T"
       },
       "artists": [
         {
-          "name": "Orquesta Discotheque",
-          "url": "https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC"
-        },
-        {
-          "name": "Beto Montes",
-          "url": "https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC"
+          "name": "Bruno Borlone",
+          "url": "https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo"
         }
       ],
-      "duration_ms": 237262,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG"
+      "duration_ms": 271946,
+      "name": "La Canci\u00f3n Bootleg",
+      "url": "https://open.spotify.com/track/6ZL6eps0c2N7Ans3z6P4fS"
     },
     {
       "added_at": "2022-11-22 00:12:29",

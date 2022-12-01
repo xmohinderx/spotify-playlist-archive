@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 17795,
+  "num_followers": 18263,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGRmOGQ1NDU3OTA1YWQ0ZmRhZTliZjMxNGI2MDJjMTU3",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDliNjM3YWQ3MjE4NmQ0YTJhZjQ1NDNmNGY0NzBiMjRk",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     },
     {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "Lupe Fiasco's Food & Liquor",
-        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Kick, Push",
-      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Mecca And The Soul Brother",
@@ -455,6 +439,22 @@
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -729,6 +729,30 @@
       "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "This Thing Of Ours",
+        "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "TV Dinners (feat. Boldy James & Sideshow)",
+      "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
       "added_at": "2022-08-12 12:00:00",
       "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
@@ -755,30 +779,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "This Thing Of Ours",
-        "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Sideshow",
-          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "TV Dinners (feat. Boldy James & Sideshow)",
-      "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 112787,
-      "name": "Lye",
-      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "MOVIN'",
         "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 112787,
+      "name": "Lye",
+      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+    },
+    {
       "added_at": "2022-09-30 04:10:30",
       "album": {
         "name": "KISS THE RING",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
-      },
-      "artists": [
-        {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 249026,
       "name": "Lyrics to Go",
       "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
-    },
-    {
-      "added_at": "2022-10-14 13:44:02",
-      "album": {
-        "name": "The Fonz",
-        "url": "https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS"
-      },
-      "artists": [
-        {
-          "name": "Wiki",
-          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
-        },
-        {
-          "name": "Subjxct 5",
-          "url": "https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV"
-        }
-      ],
-      "duration_ms": 288230,
-      "name": "The Fonz",
-      "url": "https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1199,6 +1179,26 @@
       "duration_ms": 229800,
       "name": "Investigative Reports",
       "url": "https://open.spotify.com/track/6NTceGKsDLTYehlyRbYp6O"
+    },
+    {
+      "added_at": "2022-10-14 13:44:02",
+      "album": {
+        "name": "The Fonz",
+        "url": "https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS"
+      },
+      "artists": [
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        },
+        {
+          "name": "Subjxct 5",
+          "url": "https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV"
+        }
+      ],
+      "duration_ms": 288230,
+      "name": "The Fonz",
+      "url": "https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT"
     },
     {
       "added_at": "2022-08-19 19:38:15",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 256595,
-      "name": "Pimpin' Benjamin",
-      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
-    },
-    {
       "added_at": "2022-06-10 12:00:00",
       "album": {
         "name": "The Infamous",
@@ -1287,6 +1271,22 @@
       "duration_ms": 285866,
       "name": "Drink Away the Pain (Situations) (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/4GdKi4F976XGtr8hedHEro"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 256595,
+      "name": "Pimpin' Benjamin",
+      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1557,26 +1557,6 @@
       "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
-      },
-      "artists": [
-        {
-          "name": "Homeboy Sandman",
-          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
-        },
-        {
-          "name": "Deca",
-          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
-        }
-      ],
-      "duration_ms": 221029,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Catch Me If You Can",
@@ -1613,20 +1593,24 @@
       "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
-      "added_at": "2022-05-20 12:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
       },
       "artists": [
         {
-          "name": "KUMBAYA",
-          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
+          "name": "Homeboy Sandman",
+          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
+        },
+        {
+          "name": "Deca",
+          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
         }
       ],
-      "duration_ms": 146573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
+      "duration_ms": 221029,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1647,6 +1631,22 @@
       "duration_ms": 63504,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
+    },
+    {
+      "added_at": "2022-05-20 12:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
+      },
+      "artists": [
+        {
+          "name": "KUMBAYA",
+          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1809,6 +1809,26 @@
       "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
     },
     {
+      "added_at": "2022-07-29 12:00:00",
+      "album": {
+        "name": "Desired Effect",
+        "url": "https://open.spotify.com/album/6yI6FFPozffhLeNvzmRhr1"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 133080,
+      "name": "More Soup",
+      "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
+    },
+    {
       "added_at": "2022-10-14 13:44:02",
       "album": {
         "name": "Duck Czn: Tiger Style",
@@ -1831,26 +1851,6 @@
       "duration_ms": 142824,
       "name": "Love is Luh",
       "url": "https://open.spotify.com/track/3hdiBpmtZ1hjhB8WidoFAa"
-    },
-    {
-      "added_at": "2022-07-29 12:00:00",
-      "album": {
-        "name": "Desired Effect",
-        "url": "https://open.spotify.com/album/6yI6FFPozffhLeNvzmRhr1"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 133080,
-      "name": "More Soup",
-      "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
     },
     {
       "added_at": "2022-05-10 19:26:35",

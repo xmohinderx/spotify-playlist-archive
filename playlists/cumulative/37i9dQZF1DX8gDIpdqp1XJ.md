@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-644 songs - 1 day 18 hr 59 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+645 songs - 1 day 19 hr 2 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Chondromalacia Patella](https://open.spotify.com/track/4fduOgyq6d5DBlnST7h9VR) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Chondromalacia Patella](https://open.spotify.com/album/0iqxSiIsizsq6ivdiiUp2a) | 4:49 | 2021-06-04 | 2022-06-25 |
 | [Christopher Robbins](https://open.spotify.com/track/6fgq502hyer2fIcKBK1ZK3) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [Christopher Robbins](https://open.spotify.com/album/1DGqjKTzMcPopGxJP7fvF3) | 3:45 | 2021-06-04 | 2022-07-09 |
 | [Claw Your Way Out](https://open.spotify.com/track/3HjohYDsYZg2KLhYjto8Hq) | [Pluralone](https://open.spotify.com/artist/5jQsMNuCW0iZeFTz6YUK8K) | [Claw Your Way Out](https://open.spotify.com/album/6ZXoRg5L8XMA7M3HC2QOpl) | 3:03 | 2022-04-20 | 2022-07-23 |
+| [Clear](https://open.spotify.com/track/2KMHi9GT4M2uNlDE727tg6) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 3:27 | 2022-10-24 |  |
 | [Clear](https://open.spotify.com/track/5sJMfY7Cb0CbFEBRgTPTtx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF) | 3:27 | 2022-07-11 | 2022-07-30 |
 | [Clear](https://open.spotify.com/track/6P7Oj48MpnXEB6ZfKgqepg) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Clear](https://open.spotify.com/album/0HRBmKyeF29CQXmZYJgwAw) | 3:27 | 2021-04-02 | 2022-04-18 |
 | [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-04-02 | 2022-11-02 |
@@ -212,7 +213,7 @@
 | [ghost in the machine](https://open.spotify.com/track/51qcHVCh2wT44qWVDDRPTc) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [ghost in the machine](https://open.spotify.com/album/0fKj4v6d0I9IWUxv7uTlJA) | 3:02 | 2022-05-11 | 2022-07-14 |
 | [Ghost On The Mend](https://open.spotify.com/track/6bBlZ4W1IhzdVKrXRDUTDR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Ghost On The Mend](https://open.spotify.com/album/0o0Lfrkk55AJ8bU1t2zTsH) | 2:39 | 2021-08-20 | 2022-07-30 |
 | [Glo Ride](https://open.spotify.com/track/207ELWK7KG6KDoF3iZrMyf) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/3w3DqXdNacXfz44MtEEm3l) | 3:26 | 2021-04-02 | 2022-07-29 |
-| [Glo Ride](https://open.spotify.com/track/7luPjDIAF3fpbsc0lftsX9) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/6Oq3w94oX9bFbTm1RYIar9) | 3:31 | 2022-07-22 |  |
+| [Glo Ride](https://open.spotify.com/track/7luPjDIAF3fpbsc0lftsX9) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/6Oq3w94oX9bFbTm1RYIar9) | 3:31 | 2022-07-22 | 2022-12-01 |
 | [Gloria](https://open.spotify.com/track/5cKsolMaSRtB0ACxPIJEKW) | [The Shivas](https://open.spotify.com/artist/2OZfuhYQm8IY95egVPC1U9) | [Gloria](https://open.spotify.com/album/2kJ7XIzLBJY3b2PnsHdTGi) | 3:36 | 2021-04-02 | 2022-04-16 |
 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-07-15 | 2022-08-30 |
 | [God of Sun](https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6) | [My Expansive Awareness](https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND) | [Taste of Blood](https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn) | 4:29 | 2021-04-02 | 2022-04-13 |

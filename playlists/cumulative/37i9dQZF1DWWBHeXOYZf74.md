@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Nia Archives
 
-1,779 songs - 4 day 4 hr 5 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,780 songs - 4 day 4 hr 9 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Brewster](https://open.spotify.com/track/1PcRrMqmrFejKGqqqEZm3s) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Brewster](https://open.spotify.com/album/7CEiIAfj28XpmTb9U3LCep) | 2:24 | 2021-12-10 | 2022-04-09 |
 | [Broke \(feat\. JID\)](https://open.spotify.com/track/3UqLP9Cq1DNryqu9scjak0) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 4:02 | 2019-07-30\* | 2019-10-18 |
 | [Brother](https://open.spotify.com/track/4zZI13xs8hKub2TJWnEeIn) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Ylang Ylang](https://open.spotify.com/album/0XDFqabhSdDZKXVRagKz51) | 3:27 | 2019-11-14 | 2020-04-18 |
-| [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 | 2022-08-26 |  |
+| [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:55 | 2022-08-26 |  |
+| [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 | 2022-08-26 | 2022-12-01 |
 | [Bruuuh \(with Denzel Curry\) \- Remix](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bruuuh \(with Denzel Curry\) \[Remix\]](https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz) | 3:26 | 2021-02-06 | 2021-03-26 |
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2020-09-15 | 2021-02-12 |
 | [Build Me a Way \- Single Version](https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Build Me a Way](https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4) | 2:21 | 2021-12-03 | 2022-02-26 |

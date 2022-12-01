@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,184 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,310 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 39 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 |
 | 40 | [Build My Life](https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 6:37 |
 | 41 | [You](https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [You](https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY) | 3:06 |
-| 42 | [Summertime](https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn) | 3:09 |
+| 42 | [The Divide](https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Divide](https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx) | 3:13 |
 | 43 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
-| 44 | [The Divide](https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Divide](https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx) | 3:13 |
+| 44 | [Summertime](https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn) | 3:09 |
 | 45 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
 | 46 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 |
 | 47 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Bounty](https://open.spotify.com/track/69pC0FHQlUTuYSxAkKxvGb) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Bounty](https://open.spotify.com/album/5d5dXAc2WAwAzLEWEYrJ7h) | 3:30 |
 | 80 | [We Can All Be Free](https://open.spotify.com/track/3z5BLeXOBSomYHCK0RXA7P) | [Gabriel Day](https://open.spotify.com/artist/03QHwCv3kjVYnwkoizE86a) | [Stripped](https://open.spotify.com/album/7MnaZrnMBKSP2VJdPAV0ed) | 3:51 |
 
-Snapshot ID: `MTY2NDU3Mzk3NiwwMDAwMDAwMDUyODQ2M2MyMzNlOGEyOTM5NzdhODJlNDViODYxYmQy`
+Snapshot ID: `MTY2NDU3Mzk3NiwwMDAwMDAwMDdhZjhjNGUxOWYwOGVmYjBkMzViOTUyNDU1ZjRhMTlj`

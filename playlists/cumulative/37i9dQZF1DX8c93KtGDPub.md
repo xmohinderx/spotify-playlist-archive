@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-253 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
+254 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Grace](https://open.spotify.com/track/2TESHzTfZn6rl9988rnTG7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [O Come All Ye Faithful](https://open.spotify.com/album/6TdRrPQiLtwEokNNHxiviI) | 3:41 | 2021-12-24 |  |
 | [Green Grows The Holly](https://open.spotify.com/track/5P0cZ3i8YB7DFbVLXuuPeL) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:59 | 2021-12-24 |  |
 | [Greensleeves](https://open.spotify.com/track/6Qt2tW5zWdC9Wc5c7HXTCR) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Greensleeves](https://open.spotify.com/album/2bRH1onU8KyuvyIddm9snZ) | 1:22 | 2021-12-24 |  |
-| [Hang a String of Lights](https://open.spotify.com/track/57sCC8Igwgq174nkBYqcMF) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Isn't This World Enough?? A Nettwerk Christmas](https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT) | 2:54 | 2021-12-24 |  |
+| [Hang a String of Lights](https://open.spotify.com/track/6gj7JWe25jFSpFEWKjxadz) | [Almost Christmas](https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF), [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Maybe This Christmas, Vol\. 6: Holiday Cheer](https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux) | 2:54 | 2022-11-15 |  |
+| [Hang a String of Lights](https://open.spotify.com/track/57sCC8Igwgq174nkBYqcMF) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Isn't This World Enough?? A Nettwerk Christmas](https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT) | 2:54 | 2021-12-24 | 2022-12-01 |
 | [Hang an Ornament](https://open.spotify.com/track/3dshr3BOgTcuwJPmikHrMW) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk), [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Hang an Ornament](https://open.spotify.com/album/4TtWACdEWAxpTHMciEQ2nX) | 5:20 | 2021-12-24 |  |
 | [Happy Christmas My Dear](https://open.spotify.com/track/3z0GfQCW7MAyoqfGbuymvD) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Happy Christmas My Dear](https://open.spotify.com/album/3CxBiwmyE6h2lMGevQqXNV) | 2:54 | 2021-12-24 |  |
 | [Happy New Year](https://open.spotify.com/track/3bUh3VtOuD5vE76r2LS1y8) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [The Third Three Years](https://open.spotify.com/album/2TIYbh8zqCRyeYZe2xrrDx) | 2:57 | 2021-12-24 | 2022-07-29 |

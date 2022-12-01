@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 204845,
       "name": "Ambuli Kolam",
       "url": "https://open.spotify.com/track/0nkifVFfZb5OPd6ZHo6ZPr"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 280738,
       "name": "Avizhaadha Kaalai (From \"Theenkirai\")",
       "url": "https://open.spotify.com/track/7oNTDQMo8Al2stuDd9GbQu"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 253951,
       "name": "Bramman - From \"Ghosty\"",
       "url": "https://open.spotify.com/track/2mqBxuJyKRV0tHUUXgodVe"
@@ -2369,7 +2369,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 300000,
       "name": "Hey Puyale (From \"Kalagathalaivan\")",
       "url": "https://open.spotify.com/track/3QNbrlDhMCVC4Sqm7e6ruz"
@@ -2461,7 +2461,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 225600,
       "name": "Idhuvarai",
       "url": "https://open.spotify.com/track/1dHPUtcbMG9vSynd6Kw7lp"
@@ -3129,7 +3129,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 166523,
       "name": "Kaduna Thrillu Thanada (From \"Bhediya - Tamil\")",
       "url": "https://open.spotify.com/track/2uJSz1wsssI2ehg69qNZ9F"
@@ -5201,7 +5201,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 211117,
       "name": "Neurobass Ninam - From \"Parole\"",
       "url": "https://open.spotify.com/track/3MWlOMVgunzLLjWXtrwllo"
@@ -5909,7 +5909,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 242826,
       "name": "Pinju Veenai",
       "url": "https://open.spotify.com/track/7FQ5TTjl4rByWgBL6LQljO"
@@ -6113,7 +6113,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 312170,
       "name": "Poovizhi Penne (From \"Aattral\")",
       "url": "https://open.spotify.com/track/4jb4mOSmsVnEW8ywiHD36j"
@@ -6687,6 +6687,28 @@
       "duration_ms": 213400,
       "name": "Sakthi Koothu - From \"Driver Jamuna\"",
       "url": "https://open.spotify.com/track/3Ym02CDwBOtvEcG1nSYcoc"
+    },
+    {
+      "album": {
+        "name": "Sanda Veerachi (From \"Gatta Kusthi\")",
+        "url": "https://open.spotify.com/album/4hN6OxSxFDhbAntbAid4K0"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Kidakuzhi Mariyammal",
+          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186545,
+      "name": "Sanda Veerachi",
+      "url": "https://open.spotify.com/track/7Dk6QQI2nFUvZARrKRTnWX"
     },
     {
       "album": {
@@ -8611,6 +8633,52 @@
       "duration_ms": 259500,
       "name": "Venaam Thalaiva Adviceu",
       "url": "https://open.spotify.com/track/5oSFIFYf3vdzi2pkAIgk7I"
+    },
+    {
+      "album": {
+        "name": "Vidungada Vidungada (From \"Ghosty\")",
+        "url": "https://open.spotify.com/album/05fEvs9UHGWJSWt8WhsISw"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Guna",
+          "url": "https://open.spotify.com/artist/2uhKb9vuetzaDq86FyEXlo"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Vidungada Vidungada - From \"Ghosty\"",
+      "url": "https://open.spotify.com/track/539QUXVgIagYb3vZ77765q"
     },
     {
       "album": {

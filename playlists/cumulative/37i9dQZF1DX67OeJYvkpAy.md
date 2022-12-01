@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-149 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
+150 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/05XcV66yrFwpM4y0Nurpue)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 | 2022-04-05 |  |
 | [Married To Music](https://open.spotify.com/track/0BzkXAdyJcycv5eij2YzaQ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Married To Music](https://open.spotify.com/album/7fbKdr059ApFzZFVgH3Z9v) | 3:01 | 2022-04-05 |  |
 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 | 2022-04-05 |  |
-| [Meaning Of Love](https://open.spotify.com/track/1r42qcKQ61V3nKUd0QFXY3) | [MiSTah Kye](https://open.spotify.com/artist/52iJWJJfz31W1mLZ9gXmt5) | [Recovery](https://open.spotify.com/album/7jkSX5GicpDprXyjh8ITO7) | 3:27 | 2022-04-05 |  |
+| [Meaning Of Love](https://open.spotify.com/track/1r42qcKQ61V3nKUd0QFXY3) | [MiSTah Kye](https://open.spotify.com/artist/52iJWJJfz31W1mLZ9gXmt5) | [Recovery](https://open.spotify.com/album/7jkSX5GicpDprXyjh8ITO7) | 3:27 | 2022-04-05 | 2022-12-01 |
+| [Meaning Of Love](https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Recovery](https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0) | 3:27 | 2022-08-02 |  |
 | [Missing You](https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt) | [Mboogz](https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB) | [Missing You](https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1) | 3:33 | 2022-04-05 |  |
 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 | 2022-04-26 |  |
 | [Moston Vale \- Freestyle](https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Moston Vale \(Freestyle\)](https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb) | 1:40 | 2022-04-05 |  |

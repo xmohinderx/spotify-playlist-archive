@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 310937,
+  "num_followers": 311162,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ5NzQ5OCwwMDAwMDAwMGNmZjcwM2VmZjYzNDBhYzcxZDBmN2U2YTAzMGExZTg0",
+  "snapshot_id": "MTY2ODQ5NzQ5OCwwMDAwMDAwMDY4ZGZjYWI4NDBkYzAxMTFkMzRkODAzYTg5NTc4ZWY0",
   "tracks": [
     {
       "added_at": "2022-11-15 07:31:38",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "La Vie",
-        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
-      },
-      "artists": [
-        {
-          "name": "Amandine Moulin",
-          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
-        }
-      ],
-      "duration_ms": 109228,
-      "name": "La Vie",
-      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
         "name": "Heart Open & Oak Bluffs",
         "url": "https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 117016,
       "name": "Oaks Bluffs",
       "url": "https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
+        "name": "La Vie",
+        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
+      },
+      "artists": [
+        {
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
+        }
+      ],
+      "duration_ms": 109228,
+      "name": "La Vie",
+      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "Estelle",
-        "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
-      },
-      "artists": [
-        {
-          "name": "Doris Casella",
-          "url": "https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Estelle",
-      "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
         "name": "Midsommarnatt",
         "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 176557,
       "name": "Sommarvals",
       "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
+        "name": "Estelle",
+        "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
+      },
+      "artists": [
+        {
+          "name": "Doris Casella",
+          "url": "https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Estelle",
+      "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "Summer Light",
-        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
-      },
-      "artists": [
-        {
-          "name": "Aaren Hughes",
-          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
-        }
-      ],
-      "duration_ms": 132681,
-      "name": "Summer Light",
-      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 180635,
       "name": "Although",
       "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
+        "name": "Summer Light",
+        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
+      },
+      "artists": [
+        {
+          "name": "Aaren Hughes",
+          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
+        }
+      ],
+      "duration_ms": 132681,
+      "name": "Summer Light",
+      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88"
+      },
+      "artists": [
+        {
+          "name": "Reivaj Ebol",
+          "url": "https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Desenlace",
+      "url": "https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 160250,
       "name": "A bed of tulips",
       "url": "https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88"
-      },
-      "artists": [
-        {
-          "name": "Reivaj Ebol",
-          "url": "https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Desenlace",
-      "url": "https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
+        "name": "Evenings",
+        "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
+      },
+      "artists": [
+        {
+          "name": "Richard Sauzal",
+          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
+        }
+      ],
+      "duration_ms": 112152,
+      "name": "Evenings",
+      "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
         "name": "Bienveillant",
         "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "Evenings",
-        "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
+        "name": "La Ballerine",
+        "url": "https://open.spotify.com/album/2xmXYtmCj2ipIXy6CPUaGv"
       },
       "artists": [
         {
-          "name": "Richard Sauzal",
-          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
+          "name": "Luci\u00e9n",
+          "url": "https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch"
         }
       ],
-      "duration_ms": 112152,
-      "name": "Evenings",
-      "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
+      "duration_ms": 153224,
+      "name": "La Ballerine",
+      "url": "https://open.spotify.com/track/4oQi1BbH2g3V3s7lluq8vy"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "La Ballerine",
-        "url": "https://open.spotify.com/album/2xmXYtmCj2ipIXy6CPUaGv"
-      },
-      "artists": [
-        {
-          "name": "Luci\u00e9n",
-          "url": "https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch"
-        }
-      ],
-      "duration_ms": 153224,
-      "name": "La Ballerine",
-      "url": "https://open.spotify.com/track/4oQi1BbH2g3V3s7lluq8vy"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
         "name": "San Remo",
         "url": "https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 170966,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
+        "name": "A subtle joy",
+        "url": "https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV"
+      },
+      "artists": [
+        {
+          "name": "Tamara Blake",
+          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "A subtle joy",
+      "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "My Absence",
-        "url": "https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV"
-      },
-      "artists": [
-        {
-          "name": "Giselle Guarezi",
-          "url": "https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy"
-        }
-      ],
-      "duration_ms": 118270,
-      "name": "My Absence",
-      "url": "https://open.spotify.com/track/60aQ47g6775vmbN3yMntql"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 139777,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
+        "name": "My Absence",
+        "url": "https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV"
+      },
+      "artists": [
+        {
+          "name": "Giselle Guarezi",
+          "url": "https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy"
+        }
+      ],
+      "duration_ms": 118270,
+      "name": "My Absence",
+      "url": "https://open.spotify.com/track/60aQ47g6775vmbN3yMntql"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "A subtle joy",
-        "url": "https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV"
+        "name": "Empires Luck",
+        "url": "https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO"
       },
       "artists": [
         {
-          "name": "Tamara Blake",
-          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
+          "name": "Sur Coast",
+          "url": "https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN"
         }
       ],
-      "duration_ms": 179253,
-      "name": "A subtle joy",
-      "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
+      "duration_ms": 182009,
+      "name": "Empires Luck",
+      "url": "https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1255,22 +1271,6 @@
       "duration_ms": 150187,
       "name": "Il Colibr\u00ec",
       "url": "https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
-        "name": "Empires Luck",
-        "url": "https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO"
-      },
-      "artists": [
-        {
-          "name": "Sur Coast",
-          "url": "https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN"
-        }
-      ],
-      "duration_ms": 182009,
-      "name": "Empires Luck",
-      "url": "https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "I'll Be There (In Time)",
-        "url": "https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Weber",
-          "url": "https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "I'll Be There (In Time)",
-      "url": "https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 173276,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
+        "name": "I'll Be There (In Time)",
+        "url": "https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Weber",
+          "url": "https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "I'll Be There (In Time)",
+      "url": "https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "Not a Number",
-        "url": "https://open.spotify.com/album/3d0tZ74PLQQyArqWi96Pqw"
-      },
-      "artists": [
-        {
-          "name": "Luca Bissette",
-          "url": "https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Not a Number",
-      "url": "https://open.spotify.com/track/4nncPBsmSPNNeZ2nbd0QR7"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
         "name": "Unassailable",
         "url": "https://open.spotify.com/album/2HPF5oiDvF7hhvzG5LjlnY"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 194832,
       "name": "Unassailable",
       "url": "https://open.spotify.com/track/5n3cwcqeC5XvcBuix3ZuVC"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
+        "name": "Not a Number",
+        "url": "https://open.spotify.com/album/3d0tZ74PLQQyArqWi96Pqw"
+      },
+      "artists": [
+        {
+          "name": "Luca Bissette",
+          "url": "https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL"
+        }
+      ],
+      "duration_ms": 153941,
+      "name": "Not a Number",
+      "url": "https://open.spotify.com/track/4nncPBsmSPNNeZ2nbd0QR7"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
+        "name": "Os ventos do amor",
+        "url": "https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Kruse",
+          "url": "https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb"
+        }
+      ],
+      "duration_ms": 120066,
+      "name": "Os ventos do amor",
+      "url": "https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq"
+    },
+    {
+      "added_at": "2022-11-15 07:31:38",
+      "album": {
         "name": "Sakteligen",
         "url": "https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 131906,
       "name": "Sakteligen",
       "url": "https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m"
-    },
-    {
-      "added_at": "2022-11-15 07:31:38",
-      "album": {
-        "name": "Ordinary Day",
-        "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
-      },
-      "artists": [
-        {
-          "name": "Eirin Nordness",
-          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
-        }
-      ],
-      "duration_ms": 150242,
-      "name": "Ordinary Day",
-      "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
     },
     {
       "added_at": "2022-11-15 07:31:38",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2022-11-15 07:31:38",
       "album": {
-        "name": "Os ventos do amor",
-        "url": "https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx"
+        "name": "Ordinary Day",
+        "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
       },
       "artists": [
         {
-          "name": "Rebecca Kruse",
-          "url": "https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb"
+          "name": "Eirin Nordness",
+          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
         }
       ],
-      "duration_ms": 120066,
-      "name": "Os ventos do amor",
-      "url": "https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq"
+      "duration_ms": 150242,
+      "name": "Ordinary Day",
+      "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
     }
   ],
   "unique_name": "Coffee and Piano",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-898 songs - 1 day 23 hr 3 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+899 songs - 1 day 23 hr 8 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Er Her \(Artigeardit, KESI\)](https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 2:37 | 2021-05-30 | 2022-10-16 |
 | [ErruDumEllaHvad](https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ErruDumEllaHvad](https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN) | 2:28 | 2021-04-02 | 2022-07-06 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-14 |
+| [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-11-30 |  |
 | [Europa Life](https://open.spotify.com/track/3susegzLFf54O38e3RiRqm) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Europa Life](https://open.spotify.com/album/5OOVJUnv5O0Lv8BIkUiHDu) | 2:21 | 2022-03-05 | 2022-03-30 |
 | [Extra \(feat\. Jimilian\)](https://open.spotify.com/track/1bcLhkdP0XV0DEgZi0cNd8) | [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [FUCK L.O.C.](https://open.spotify.com/album/32Mpl3euo5CsU8oe4SYXE8) | 3:37 | 2021-08-22 | 2021-08-23 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-11-07 |
@@ -636,7 +637,7 @@
 | [Ny Agenda \(Artigeardit X Lamin\)](https://open.spotify.com/track/17LOXwgfFEYvKEwMuyKyCr) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 3:24 | 2021-10-17 | 2021-10-23 |
 | [Når Mænd Græder](https://open.spotify.com/track/1bIxLnZasVLJbol55wDU5r) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når Mænd Græder](https://open.spotify.com/album/5Hk2j3xL9WIU3oE7TWoBsv) | 3:30 | 2022-05-07 | 2022-10-23 |
 | [Når Mænd Græder](https://open.spotify.com/track/2Hmxz24PvWk3B1vvSyzwV3) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:30 | 2022-10-22 | 2022-11-06 |
-| [Når Sneen Falder](https://open.spotify.com/track/2jW0MuNkctmqajdnoNZvyg) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj), [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [Når Sneen Falder](https://open.spotify.com/album/33JmHahHVIbTiosKLN5QSm) | 4:21 | 2021-11-28 |  |
+| [Når Sneen Falder](https://open.spotify.com/track/2jW0MuNkctmqajdnoNZvyg) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj), [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [Når Sneen Falder](https://open.spotify.com/album/33JmHahHVIbTiosKLN5QSm) | 4:21 | 2021-11-28 | 2022-12-01 |
 | [OASIS \(feat\. Gilli\)](https://open.spotify.com/track/63mX6XY1ajrrm6Kxox2gTN) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [JAMO](https://open.spotify.com/album/6f4qhLPJtFcEjMwKEw2VFa) | 2:55 | 2022-07-16 | 2022-07-18 |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2021-09-12 | 2021-09-13 |
 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 | 2021-03-27\* | 2021-04-09 |

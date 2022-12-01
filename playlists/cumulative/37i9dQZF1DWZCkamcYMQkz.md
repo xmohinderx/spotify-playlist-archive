@@ -4,12 +4,13 @@
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-150 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
+151 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Getting Some\) Fun out of Life](https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Dreamland](https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB) | 3:12 | 2021-12-16 |  |
 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 | 2021-12-16 |  |
+| [42nd Street Shuffle](https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [42nd Street Shuffle](https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC) | 4:19 | 2022-11-23 |  |
 | [A Dab Of This And That](https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Far Away Lands](https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi) | 5:12 | 2021-12-16 |  |
 | [A Foggy Day](https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite: The Oscar Peterson Verve Sessions](https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN) | 3:40 | 2021-12-16 |  |
 | [A\-Tisket, A\-Tasket](https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Get Happy! \(Expanded Edition\)](https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n) | 2:22 | 2021-12-16 |  |
@@ -71,7 +72,7 @@
 | [I'm Looking Over A Four Leaf Clover \(Jazz Samba\)](https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 2:53 | 2021-12-16 |  |
 | [I'm Putting All My Eggs In One Basket](https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 2:21 | 2021-12-16 |  |
 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 | 2021-12-16 |  |
-| [I've Told Ev'ry Little Star](https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 3:39 | 2021-12-16 |  |
+| [I've Told Ev'ry Little Star](https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 3:39 | 2021-12-16 | 2022-12-01 |
 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 2:18 | 2021-12-16 |  |
 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 | 2021-12-16 |  |
 | [It Might as Well Be Spring](https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [It Might as Well Be Spring](https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG) | 4:52 | 2022-04-07 |  |

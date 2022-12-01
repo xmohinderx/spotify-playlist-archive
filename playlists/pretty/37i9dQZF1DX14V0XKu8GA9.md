@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,208 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,257 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 48 | [My Light](https://open.spotify.com/track/3hH4YLEQ2jJPhBbzRsp5Pk) | [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [My Light](https://open.spotify.com/album/32KAZuMWyfCY3MkIY5BtK1) | 4:04 |
 | 49 | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc) | 2:26 |
 | 50 | [Millions](https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Millions](https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL) | 2:28 |
-| 51 | [SOUTHBAY](https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k) | [Rossi Rock](https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC) | [SOUTHBAY](https://open.spotify.com/album/3ivXlPqieAUDuHRElY5TAV) | 2:26 |
+| 51 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
 | 52 | [Phases](https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Phases](https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM) | 3:33 |
-| 53 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
+| 53 | [SOUTHBAY](https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k) | [Rossi Rock](https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC) | [SOUTHBAY](https://open.spotify.com/album/3ivXlPqieAUDuHRElY5TAV) | 2:26 |
 | 54 | [Deep End](https://open.spotify.com/track/68l3AHETwLT381pxp70aUa) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Deep End](https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx) | 3:11 |
 | 55 | [Double Up](https://open.spotify.com/track/3bINLdpXM79obFwY6pESAS) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Double Up](https://open.spotify.com/album/60fjnVP2cNnusvwPSMpF4c) | 2:15 |
 | 56 | [Am I Wrong](https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Gang Coast](https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS) | 3:16 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 63 | [Palo De Santo](https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [Vivir...](https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM) | 2:15 |
 | 64 | [Smile Now](https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Smile Now](https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU) | 2:50 |
 | 65 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
-| 66 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
+| 66 | [SAUCE ME UP](https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [SAUCE ME UP PESO](https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp) | 3:13 |
 | 67 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 | 68 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
-| 69 | [SAUCE ME UP](https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [SAUCE ME UP PESO](https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp) | 3:13 |
+| 69 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
 | 70 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
 | 71 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 |
 | 72 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 79 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
 | 80 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
 
-Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMDEzZGJiZTVmYTRmMjJhYjMyYThlMjQ1N2NkNTBhNmEz`
+Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMDMzYzYwYmFhOGVlNDZjNWIzZGNmNzhiMTgyODIyMGY3`

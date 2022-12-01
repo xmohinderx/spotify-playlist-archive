@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-370 songs - 1 day 3 hr 18 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+373 songs - 1 day 3 hr 32 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Los Diseñadores](https://open.spotify.com/track/4M3lLVVdXVA6DCn4Ywt71C) | [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Queriendote y Adorandote!](https://open.spotify.com/album/4j2o2tw7SJNJDIMJzejwLW) | 4:28 | 2021-02-02 |  |
 | [Los diseñadores](https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Un Cantante, 3 Facetas, Un Gran Artista \- Bolero, Bachata & Merengue](https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5) | 4:27 | 2021-02-02 | 2022-07-29 |
 | [Madre](https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:47 | 2021-02-02 | 2022-07-29 |
-| [Maldita Sea](https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK) | 4:14 | 2021-02-02 |  |
+| [Maldita Sea](https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK) | 4:14 | 2021-02-02 | 2022-12-01 |
+| [Maldita Sea](https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC) | 4:15 | 2021-02-02 |  |
 | [Maria \(Guayando, Guayando\)](https://open.spotify.com/track/44TX1WaaVTVTPheQljLnnM) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:46 | 2021-02-02 | 2022-07-27 |
 | [Mas](https://open.spotify.com/track/1z7g4SDTN6wplx3FiK0tAx) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:21 | 2021-02-02 |  |
 | [Me Aleje Llorando](https://open.spotify.com/track/0lhRxdjg7xrk3eXa5jBBnK) | [Dionis Fernandez](https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3) | [11 Exitos](https://open.spotify.com/album/23cQzFo14t7f6eSgzh7Smp) | 3:17 | 2021-02-02 | 2022-07-28 |
@@ -333,6 +334,7 @@
 | [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 | 2021-02-02 |  |
 | [Te Seguire Queriendo](https://open.spotify.com/track/54ouu383uMbIMLOuMOecSf) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Majao Majao](https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo) | 4:59 | 2021-02-02 | 2022-11-22 |
 | [Te Seguire Queriendo](https://open.spotify.com/track/4dyoXAd6lu1ng18Y8HAG7L) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Majao, Majao](https://open.spotify.com/album/6nqYQngi8OjY7KzQxJwdbe) | 4:59 | 2021-02-02 | 2022-07-29 |
+| [Te Seguire Queriendo](https://open.spotify.com/track/4GfiJSv9MHToznRilFWYeh) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2) | 5:00 | 2021-02-02 |  |
 | [Todo Aquello Que Escribí](https://open.spotify.com/track/44g3IuSUbFt0NmuFHZ9tJ0) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:30 | 2021-02-02 | 2022-07-29 |
 | [Todo Es Para Ti](https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:13 | 2021-02-02 | 2022-07-29 |
 | [Todo Me Gusta de Ti](https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6) | [Jerry Legrand](https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe) | [Exitos](https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya) | 4:28 | 2021-02-02 | 2022-07-29 |
@@ -341,7 +343,8 @@
 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 | 2021-02-02 |  |
 | [Tu Eres Mi Embra](https://open.spotify.com/track/7xaIDbXG8PpotUv7ym2V2N) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Capricho](https://open.spotify.com/album/6rByF9R6prjXdNFwawHP3q) | 4:49 | 2021-02-02 |  |
 | [Tu Eres Mi Hembra](https://open.spotify.com/track/4eHIBgC7bpDHt5FEX9VusR) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:49 | 2021-02-02 | 2022-07-23 |
-| [Tu Me Vas a Dejar](https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV) | 4:24 | 2021-02-02 |  |
+| [Tu Me Vas a Dejar](https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV) | 4:24 | 2021-02-02 | 2022-12-01 |
+| [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 | 2021-02-02 |  |
 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 | 2021-02-02 |  |
 | [Tu Vas a Volar](https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vuelve el Merengue](https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj) | 4:56 | 2021-02-02 |  |
 | [Tu Vas a Volar](https://open.spotify.com/track/63UMjW3BogcZsHsRO9EcDo) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:54 | 2021-02-02 | 2022-07-26 |
@@ -375,7 +378,7 @@
 | [Yo me siento enamorao](https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [Merengues Clasicos Vol 2](https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh) | 6:15 | 2021-02-02 |  |
 | [Yo me siento enamorao](https://open.spotify.com/track/59nZA82434bNwjeDcqO7UE) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [30 Merengues Clasicos Pal' Pueblo](https://open.spotify.com/album/6NPXa6NKhHQRw4bMbBaqwQ) | 6:15 | 2021-02-02 | 2022-10-20 |
 | [Yo Que Te Amé / Cuánta Vida / Todo Aquello / Tú Vacilándome](https://open.spotify.com/track/1LduVfHrZmcdf8e1jdptGN) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:05 | 2021-02-02 | 2022-07-29 |
-| [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 | 2021-02-02 |  |
+| [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 | 2021-02-02 | 2022-12-01 |
 | [¡Ay Doctor!](https://open.spotify.com/track/0WiXmhgxvudybPq4htELpo) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Arrasando Con Todo ¡Ay Doctor!](https://open.spotify.com/album/5938ac4vSf3QB2rJpWTAbi) | 5:04 | 2021-02-02 |  |
 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 | 2021-02-02 |  |
 

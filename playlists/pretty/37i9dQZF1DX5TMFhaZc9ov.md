@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,932 likes - 88 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,058 likes - 88 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 27 | [Secrets \- Cellar Door](https://open.spotify.com/track/1WFTbfjtW9DsL2txiNYKyK) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [The Family Tree: The Leaves](https://open.spotify.com/album/6yVhQdTHZ7oKaT6ICfx1AM) | 4:25 |
 | 28 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
 | 29 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
-| 30 | [The Great Escape](https://open.spotify.com/track/0WsSXk2OfaCewniK3v5fcN) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [With People](https://open.spotify.com/album/4XshpR196ijJkK2N9kOhGG) | 2:50 |
+| 30 | [The Great Escape](https://open.spotify.com/track/3AUBLZk7wQX0GzG5BsZNYk) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [With People](https://open.spotify.com/album/75FTQkt4wpNKujeOb3L8ID) | 2:50 |
 | 31 | [Modern Woman](https://open.spotify.com/track/0vZyyhfcHNDPuIVf3Hc8ew) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:24 |
 | 32 | [Beauty Queen](https://open.spotify.com/track/4pp5MsAVKTxG4TbHQSpzi4) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Day Plan \(5 Songs Written 4 the End of the World\)](https://open.spotify.com/album/4Z3J3Biam9YVmjpSnQziKX) | 3:13 |
 | 33 | [What if You](https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [What if You](https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M) | 3:22 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 87 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 88 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MTY1NDgzMzYwMCwwMDAwMDAwMDBmMzQzM2YxYmUzYWNhYjM5ODg3ZmMxZWUwMzZmMDRk`
+Snapshot ID: `MTY1NDgzMzYwMCwwMDAwMDAwMGZlZWY0ZjliN2VjOTRkNzk3NzEyM2M3Y2YxMjZkYWQ5`

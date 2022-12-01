@@ -392,6 +392,24 @@
     },
     {
       "album": {
+        "name": "Semper Femina (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56Cr06KXyOmqHqtZU8lsHv"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293257,
+      "name": "Nouel",
+      "url": "https://open.spotify.com/track/1TrtSG87IQtSMb3k2DHBMg"
+    },
+    {
+      "album": {
         "name": "Semper Femina",
         "url": "https://open.spotify.com/album/3Z4NNeh0gf4oGquXZEU1NT"
       },
@@ -403,7 +421,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 293257,
       "name": "Nouel",
       "url": "https://open.spotify.com/track/5JKH89ILC4hJz8ve3UAK49"

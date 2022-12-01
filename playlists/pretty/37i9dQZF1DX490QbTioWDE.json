@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 528035,
+  "num_followers": 528176,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGQ2ODk3YjhlZjIyZDUyYTNlOGZlZDI1MmYwZTIwZjZh",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGI1N2JiMTA0NDcyNTU0NDY3M2ZiODA0YzQ1MmRiOGNm",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
         "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 248458,
       "name": "Ocho Cuarenta - En Vivo en el Foro Sol - 17.11.17",
       "url": "https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1095,6 +1095,22 @@
       "duration_ms": 245053,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "La Bachata (En Vivo)",
+        "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 134058,
+      "name": "La Bachata - En Vivo",
+      "url": "https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 1500920,
       "name": "Fragmentos Enganchados, Pt. 2",
       "url": "https://open.spotify.com/track/5tyaPG41AJwJmdv2lS7H1c"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "La Bachata (En Vivo)",
-        "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 134058,
-      "name": "La Bachata - En Vivo",
-      "url": "https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Luna En Capricornio",
-        "url": "https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe"
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 179957,
-      "name": "Luna En Capricornio",
-      "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
+      "duration_ms": 242950,
+      "name": "Perfecto Idiota",
+      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1315,6 +1319,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Luna En Capricornio",
+        "url": "https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 179957,
+      "name": "Luna En Capricornio",
+      "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 236890,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 242950,
-      "name": "Perfecto Idiota",
-      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4rOUVx4hWo6918txc6fZkk"
-      },
-      "artists": [
-        {
-          "name": "Walter Salinas",
-          "url": "https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/17Jh5uDhb7rTLxll7ifn9f"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Un Nuevo Tiempo",
         "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 196588,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4rOUVx4hWo6918txc6fZkk"
+      },
+      "artists": [
+        {
+          "name": "Walter Salinas",
+          "url": "https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/17Jh5uDhb7rTLxll7ifn9f"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Dejame Estar En Su Lugar",
-        "url": "https://open.spotify.com/album/7F9LMyR88mLQSG6P6ZOOMT"
+        "name": "Hoy Y Siempre (En Vivo)",
+        "url": "https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI"
       },
       "artists": [
         {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 194089,
-      "name": "Dejame Estar En Su Lugar",
-      "url": "https://open.spotify.com/track/3v8kBCpKGYZl4ROkMq2oyv"
+      "duration_ms": 209121,
+      "name": "Mil Demonios - En Vivo",
+      "url": "https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU"
     }
   ],
   "unique_name": "100% Cuarteto",

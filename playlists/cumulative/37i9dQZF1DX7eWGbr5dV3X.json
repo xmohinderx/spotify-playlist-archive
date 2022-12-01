@@ -113,10 +113,28 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 199070,
       "name": "chance",
       "url": "https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
     },
     {
       "album": {
@@ -341,6 +359,24 @@
     {
       "album": {
         "name": "Good Advice",
+        "url": "https://open.spotify.com/album/0Wwpyq7v2FvZONXMastMpb"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164295,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/0ZuIJlkCgHwqc21CgHDZjB"
+    },
+    {
+      "album": {
+        "name": "Good Advice",
         "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
       },
       "artists": [
@@ -351,7 +387,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 164295,
       "name": "Good Advice",
       "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
@@ -1167,10 +1203,28 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 126464,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j"
+    },
+    {
+      "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126464,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3"
     },
     {
       "album": {

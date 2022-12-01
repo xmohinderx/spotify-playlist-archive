@@ -4,7 +4,7 @@
 
 > Screaming, crying, throwing up!  If you like this, you'll love  <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\.  Cover: Ava Max
 
-347 songs - 18 hr 0 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+348 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Save Me](https://open.spotify.com/track/0B4Jl6HsG9hS3Q2vOfV9Kf) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/0aYqbPXUoilLlYD7GZVvhf) | 3:18 | 2022-04-08 | 2022-05-28 |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-15 | 2022-07-30 |
 | [Seasons](https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Seasons](https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI) | 2:43 | 2022-05-13 | 2022-06-11 |
-| [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 |  |
+| [See You In My Dreams](https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO) | 2:39 | 2022-11-11 |  |
+| [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 | 2022-12-01 |
 | [Seventh Heaven](https://open.spotify.com/track/7bHOJc5vJ7lflRDI7PeYuw) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Seventh Heaven](https://open.spotify.com/album/0GTJ8nMLARUakwU9OkSnl4) | 3:09 | 2022-11-18 |  |
 | [She Can Dance](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [She Can Dance](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 | 2022-07-22 | 2022-07-30 |
 | [Shot a friend](https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Shot a friend](https://open.spotify.com/album/18n1CRVP0aQYIPKZdzjhlI) | 2:09 | 2022-09-25 |  |

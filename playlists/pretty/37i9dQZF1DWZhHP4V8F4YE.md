@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 451 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 24 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 |
 | 25 | [Ba Straata \(feat\. 2woshortrsa, Stompiiey, Shaunmusiq, Ftears & Madumane\)](https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [2woshortrsa](https://open.spotify.com/artist/16coVgDlRHVIgfTZ0Rs29m), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [Ba Straata \(feat\. 2woshortrsa, Stompiiey, Shaunmusiq, Ftears & Madumane\)](https://open.spotify.com/album/25plKOfn0KCUMmzBztMMu6) | 6:42 |
 | 26 | [Shetani \(feat\. Costa Titch & Alfa Kat\)](https://open.spotify.com/track/4zCzPIdWmPDnvcyhSGvHqS) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 3:11 |
-| 27 | [Aces](https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex) | 2:02 |
+| 27 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 |
 | 28 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 29 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 30 | [Sasa Hivi \- Stripped Down](https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi](https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [You Dey Whine Me](https://open.spotify.com/track/25vNBVOMMArCIP4jgaUOli) | [Austine De Bull](https://open.spotify.com/artist/6Nl8V4gZQFMrIJkZPcUb7h) | [You Dey Whine Me](https://open.spotify.com/album/3DJonj12TeNltELubEMM0O) | 4:52 |
 | 50 | [Miondoko](https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Sababisha](https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q) | 3:04 |
 
-Snapshot ID: `MTY2OTc0NDQyOCwwMDAwMDAwMGU1MTQ3MjIxNWI3OGFmNGMzZjhjYjdiMmQ4MjlmNWQx`
+Snapshot ID: `MTY2OTc0NDQyOCwwMDAwMDAwMDMwYzU4YjQ2NDA0NGMwOTgyNjBlNWU0OTk2OGVhZDIx`

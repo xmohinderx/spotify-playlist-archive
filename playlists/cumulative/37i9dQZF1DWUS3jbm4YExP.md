@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-472 songs - 1 day 11 hr 0 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+473 songs - 1 day 11 hr 3 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Adará](https://open.spotify.com/track/3OGKGvLhd2rN04g2iaCXVs) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv), [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Adará](https://open.spotify.com/album/3OcEePOxppfqTeK0jmICgo) | 4:27 | 2021-10-06 | 2022-04-19 |
 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2021-10-06 | 2022-07-29 |
 | [Africa](https://open.spotify.com/track/3VGK75g0ZC5Gg2hx9QCQVn) | [Gili Yalo](https://open.spotify.com/artist/3DKCqVm3fBealSYfYzVIJk), [Keren Dun](https://open.spotify.com/artist/7CRVu7ml6MhPG6F5d8A0hk) | [Gili Yalo](https://open.spotify.com/album/6ctx4UdkEDI2ehupGrh99V) | 4:57 | 2022-03-16 | 2022-04-23 |
-| [Afro Golden Line](https://open.spotify.com/track/1DD7PGYav6CYBtYtwhzWzI) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Afro Golden Line](https://open.spotify.com/album/4to4besq9fhut1Cl2SXqyE) | 3:59 | 2021-10-06 |  |
+| [Afro Golden Line](https://open.spotify.com/track/1DD7PGYav6CYBtYtwhzWzI) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Afro Golden Line](https://open.spotify.com/album/4to4besq9fhut1Cl2SXqyE) | 3:59 | 2021-10-06 | 2022-12-01 |
 | [Afro Golden Line \(feat\. Sefi Zisling, Uzi Ramirez & Rejoicer\)](https://open.spotify.com/track/1ijV5N3fvoaTO1BXqKH9Kq) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Uzi Ramirez](https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Afro Golden Line](https://open.spotify.com/album/79bwYwWXiRLGSdPGfRbMo5) | 3:59 | 2021-10-06 | 2022-07-27 |
 | [Agboju Logun](https://open.spotify.com/track/0urbfRnnXk7raHj8B0SWDu) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 11:33 | 2021-10-06 | 2022-04-16 |
 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 | 2021-10-06 |  |
@@ -185,6 +185,7 @@
 | [Gyae Su](https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:12 | 2021-10-06 | 2022-11-23 |
 | [Gyae Su](https://open.spotify.com/track/4dqT5slEDm4TCG8TKako0t) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/0vI4coIOAGzhLZRAIcDKHL) | 4:12 | 2021-10-06 | 2022-04-17 |
 | [Gypsy Woman](https://open.spotify.com/track/3xt0wOjQFYUcIdVGByFps0) | [Animanz](https://open.spotify.com/artist/29tB8MAwH1C3Sny13oaCFf), [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Exotic Other](https://open.spotify.com/album/3rUHG38e2nqtUqQIlrgAJ9) | 2:29 | 2022-03-30 | 2022-07-29 |
+| [Had to Come Back Wet](https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 3:16 | 2021-10-06 |  |
 | [Had to Come Back Wet](https://open.spotify.com/track/4Pd6uKE3iJm437tc0TAob0) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 3:16 | 2021-10-06 | 2022-11-20 |
 | [Haditouni \(Habibi Funk 015\)](https://open.spotify.com/track/40Eql6g1f9BLSWeJ8mZgOU) | [Douaa](https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io) | [Haditouni \(Habibi Funk 015\)](https://open.spotify.com/album/6sRXH84YpSaYltT7qDCxMM) | 3:25 | 2021-10-06 | 2022-11-21 |
 | [Haditouni \(Habibi Funk 015\)](https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX) | [Douaa](https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io) | [Haditouni \(Habibi Funk 015\)](https://open.spotify.com/album/6RUXZAg8m4ye6BYiZbTVD2) | 3:25 | 2021-10-06 |  |

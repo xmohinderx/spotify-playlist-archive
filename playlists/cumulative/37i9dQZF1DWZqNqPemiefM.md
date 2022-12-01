@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-445 songs - 1 day 11 hr 40 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+446 songs - 1 day 11 hr 45 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,8 @@
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-04-28 |  |
 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 | 2022-04-07 |  |
 | [Waiting](https://open.spotify.com/track/2MKzjWgH6KXyjciZv9UWDw) | [Vegpher](https://open.spotify.com/artist/1UCRyLeDKLbRcWXCpYxkh3) | [Minutus](https://open.spotify.com/album/7oaDXY017ZbjVRUxjynyMn) | 4:27 | 2022-03-30 | 2022-07-18 |
-| [WALKER \- LIM GIONG FOLLOW THE STEPS REMODEL](https://open.spotify.com/track/1AnHE6gRyOL8OttmxK5OEv) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [LIM GIONG](https://open.spotify.com/artist/3BNLZ91QZHEedDAZdYba6k) | [A Tribute to Ryuichi Sakamoto \- To the Moon and Back](https://open.spotify.com/album/5HFcpgpiTigz6jfkQRr7g3) | 4:42 | 2022-11-29 |  |
+| [WALKER \- LIM GIONG FOLLOW THE STEPS REMODEL](https://open.spotify.com/track/1AnHE6gRyOL8OttmxK5OEv) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [LIM GIONG](https://open.spotify.com/artist/3BNLZ91QZHEedDAZdYba6k) | [A Tribute to Ryuichi Sakamoto \- To the Moon and Back](https://open.spotify.com/album/5HFcpgpiTigz6jfkQRr7g3) | 4:42 | 2022-11-29 | 2022-12-01 |
+| [Walker \- Lim Giong Follow the Steps Remodel](https://open.spotify.com/track/660PmVY7kgD6ZLnRqOKSYB) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [LIM GIONG](https://open.spotify.com/artist/3BNLZ91QZHEedDAZdYba6k) | [A Tribute to Ryuichi Sakamoto \- To the Moon and Back](https://open.spotify.com/album/6ie5Ynop9ihgcskcSenK3q) | 4:42 | 2022-11-29 |  |
 | [Wash Away](https://open.spotify.com/track/2JO7H59mvPwDln69MRUR4A) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.3](https://open.spotify.com/album/0laYkHbtDIhxlVK5UxfQIh) | 3:01 | 2022-04-07 | 2022-07-18 |
 | [WASSER](https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:18 | 2022-04-07 | 2022-07-29 |
 | [wave I](https://open.spotify.com/track/7aP9EJpFFiYwjx3XsrgFNT) | [Tomonari Nozaki](https://open.spotify.com/artist/5WxxeVvoygjM4uUnLbvU0S) | [waves](https://open.spotify.com/album/30GuU6iDTogw0vWYeziTSN) | 11:20 | 2022-04-07 | 2022-07-21 |

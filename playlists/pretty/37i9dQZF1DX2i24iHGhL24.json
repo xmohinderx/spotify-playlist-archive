@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niki",
-  "num_followers": 83052,
+  "num_followers": 83165,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1Mzc0NywwMDAwMDAwMDhhNjgxMTgwNGMwNjdlZWNhZmUwMThhMDQ3NmQwMTNk",
+  "snapshot_id": "MTY2OTA1Mzc0NywwMDAwMDAwMGZiNmJkMmM4ZDI0MDUwOGFjMTQyY2UwYWQzNDRmMGYw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5"
-      },
-      "artists": [
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 232905,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Imagine Dragons (Spotify Sessions)",
         "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 303433,
       "name": "Blank Space/Stand By Me - Live From Spotify London",
       "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "duration_ms": 232905,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
     },
     {
-      "added_at": "2022-11-30 01:18:54",
+      "added_at": "2022-12-01 01:26:13",
       "album": {
         "name": "A Million Dreams",
         "url": "https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS"
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
       },
       "artists": [
         {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1252,17 +1236,33 @@
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "In Your Prime - EP",
-        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf"
       },
       "artists": [
         {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Boom Clap",
-        "url": "https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj"
+        "name": "In Your Prime - EP",
+        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
       "artists": [
         {
-          "name": "Lennon & Maisy",
-          "url": "https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr"
+          "name": "Josef Salvat",
+          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
         }
       ],
-      "duration_ms": 175615,
-      "name": "Boom Clap",
-      "url": "https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91"
+      "duration_ms": 247200,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Boom Clap",
+        "url": "https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj"
+      },
+      "artists": [
+        {
+          "name": "Lennon & Maisy",
+          "url": "https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr"
+        }
+      ],
+      "duration_ms": 175615,
+      "name": "Boom Clap",
+      "url": "https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 248449,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
@@ -1679,6 +1695,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
@@ -1695,18 +1727,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
         }
       ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1739,38 +1771,6 @@
       "duration_ms": 208448,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 248449,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "It's Gonna Be Me",
+        "url": "https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V"
+      },
+      "artists": [
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 197800,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "It's Gonna Be Me",
-        "url": "https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V"
-      },
-      "artists": [
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Walking On The Moon",
-        "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
-      },
-      "artists": [
-        {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "Walking On The Moon",
-      "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Walking On The Moon",
+        "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Walking On The Moon",
+      "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
       },
       "artists": [
         {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
         }
       ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
+      "duration_ms": 284050,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
         }
       ],
-      "duration_ms": 284050,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2715,6 +2715,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "God Is A Woman (Yours Truly: 2018)",
         "url": "https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ"
       },
@@ -2763,6 +2779,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "The One That Got Away (Acoustic)",
+        "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
+      },
+      "artists": [
+        {
+          "name": "Landon Austin",
+          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+        }
+      ],
+      "duration_ms": 217884,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Stuck With U",
         "url": "https://open.spotify.com/album/6CpwPzeIRCFEb4ki1u17Va"
       },
@@ -2783,34 +2815,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "The One That Got Away (Acoustic)",
-        "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5IgTsKqq63FsI9X8dy5Kx2"
       },
       "artists": [
         {
-          "name": "Landon Austin",
-          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+          "name": "Beatrich",
+          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
         }
       ],
-      "duration_ms": 217884,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
+      "duration_ms": 225931,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/61FD9qllUEjEopoBfngusF"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2831,34 +2847,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5IgTsKqq63FsI9X8dy5Kx2"
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
       },
       "artists": [
         {
-          "name": "Beatrich",
-          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
         }
       ],
-      "duration_ms": 225931,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/61FD9qllUEjEopoBfngusF"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2022-11-18 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,478 likes - 825 songs - 2 day 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,488 likes - 825 songs - 2 day 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,7 +243,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 233 | [Highway 40 Blues \(feat\. Ricky Skaggs & Larry Cordle\)](https://open.spotify.com/track/5E5Ixhxfgqf4Ke0kgwXrhl) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Larry Cordle](https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM) | [Spotify Singles](https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD) | 3:16 |
 | 234 | [Remind Me](https://open.spotify.com/track/6QRjpaIoSIssUrKWyYjO8o) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX) | 4:56 |
 | 235 | [Help](https://open.spotify.com/track/7wifljlfSW0DS8oFqcoErZ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX) | 3:42 |
-| 236 | [Kiss from God \- mint Singles](https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3YP0uoO3xoPEVCPX7b3CbV) | 3:48 |
+| 236 | [Kiss from God \- mint Singles](https://open.spotify.com/track/5XFTW0rJnYwicp5Db3YRCf) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3luU3JrWxKBSf71MbpYiAu) | 3:48 |
 | 237 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 | 238 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
 | 239 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
@@ -834,4 +834,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 824 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 825 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MTY2ODcxMDU0NiwwMDAwMDAwMDc4ZmQ1MjdkMDVlN2Y1ZDEyZWMyNzg2OTM4MGU4OTNm`
+Snapshot ID: `MTY2ODcxMDU0NiwwMDAwMDAwMGU1MGMwNGVkY2VjZjkwMjc2YmZiNDhiZjA4ZGU5OGE4`

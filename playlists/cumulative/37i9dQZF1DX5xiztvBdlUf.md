@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-300 songs - 1 day 4 hr 21 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+301 songs - 1 day 4 hr 28 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh) | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv) | 3:44 | 2021-11-26 | 2022-08-13 |
 | [All Night](https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [All Night](https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5) | 3:44 | 2022-09-30 |  |
 | [All That Glitters](https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI) | [Midnight Sky](https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP) | [Future Disco: Poolside Sounds Vol\. 10](https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6) | 3:48 | 2022-09-02 |  |
-| [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz) | 3:30 | 2021-11-26 |  |
+| [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz) | 3:30 | 2021-11-26 | 2022-12-01 |
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2022-10-28 |  |
 | [Always Something](https://open.spotify.com/track/3f0OOLWLpdeDUp3vxv6GEj) | [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [Always Something](https://open.spotify.com/album/5vP4jUDdZDqdlQDMroMVJi) | 3:36 | 2022-10-28 | 2022-11-15 |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-04-04 |  |
@@ -48,6 +48,7 @@
 | [Cenote](https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf) | [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [Cenote](https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf) | 4:58 | 2021-11-26 |  |
 | [Ceremony](https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 7:00 | 2022-09-30 | 2022-11-16 |
 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 | 2022-02-18 | 2022-10-18 |
+| [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 | 2022-11-25 |  |
 | [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 | 2021-11-26 | 2022-10-28 |
 | [Circle of Life](https://open.spotify.com/track/2ckwGlnXK4PZ8mo7JYkJ5L) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Circle of Life](https://open.spotify.com/album/5lUuBsteQKFCLKeHNnZhwe) | 8:03 | 2022-11-15 | 2022-11-26 |
 | [Close](https://open.spotify.com/track/4PjQnCqdF2VmzGsFp2IRAt) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Close](https://open.spotify.com/album/77RSDxlKlExpQzlphu88eC) | 6:16 | 2021-11-26 | 2022-04-05 |

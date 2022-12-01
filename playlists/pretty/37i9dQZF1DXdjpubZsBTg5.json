@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 111787,
+  "num_followers": 111918,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMGExYzc2NjIxMGNhNTRlNTU5YTM0YmI1ZjExYTk2MWFm",
+  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMGQwNDJjYjMyZDE5OWYyY2E1ZjU0MGVkNDI1N2I4Njk3",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -907,6 +907,22 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
+        "name": "Alea jacta Est",
+        "url": "https://open.spotify.com/album/7MzeSXRqeCKbIoK6z7tlPU"
+      },
+      "artists": [
+        {
+          "name": "Veni Vidi Vici",
+          "url": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Viviendo de Noche",
+      "url": "https://open.spotify.com/track/2l1T12GhInqob4OLpTe25F"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
         "name": "Superficies de Placer",
         "url": "https://open.spotify.com/album/3U7AIHXCUhuOOkNeFhKoOM"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 237626,
       "name": "Vistete",
       "url": "https://open.spotify.com/track/5ZrtHP3Kzdgw8tzELrmKqA"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
-        "name": "Alea jacta Est",
-        "url": "https://open.spotify.com/album/7MzeSXRqeCKbIoK6z7tlPU"
-      },
-      "artists": [
-        {
-          "name": "Veni Vidi Vici",
-          "url": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Viviendo de Noche",
-      "url": "https://open.spotify.com/track/2l1T12GhInqob4OLpTe25F"
     },
     {
       "added_at": "2021-02-24 17:08:59",

@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25098,
+  "num_followers": 25103,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDNkZmY4MWYwYmYyMWJjOGIwOTdkODcwMTU0MzE0YThl",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDgxYjJlZDgzMmM2NWU1YmIzOWUzNGI0YWVkYjY0ZDZj",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "1992-2002 tout...",
-        "url": "https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC"
-      },
-      "artists": [
-        {
-          "name": "Dan Bigras",
-          "url": "https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Tue-moi",
-      "url": "https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Tant qu'il y aura des enfants",
         "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 438840,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/1UX0cAfJoC2mkPCbCxrKh3"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "1992-2002 tout...",
+        "url": "https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC"
+      },
+      "artists": [
+        {
+          "name": "Dan Bigras",
+          "url": "https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Tue-moi",
+      "url": "https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
-      },
-      "artists": [
-        {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "Lavez, lavez",
-      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les ann\u00e9es 70",
         "url": "https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 210746,
       "name": "Je survivrai",
       "url": "https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "Lavez, lavez",
+      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
     },
     {
       "added_at": "2020-04-07 15:18:18",

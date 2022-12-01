@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Il meglio del jazz italiano, in una selezione speciale a cura degli <a href="spotify:artist:1rWbZmR5D63aZU60lMtVZx">Studio Murena</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,904 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,924 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 987080,
+  "num_followers": 987665,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGEzNTJmNTE0N2YzN2ExODQzZTlkOGRmNjFlNTgxY2Vh",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDA2OGZhMzE4ZGZjZDc5ZjU1ZDI5NDBlMTFlYzc5ZDAw",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Smokestack Lightnin'",
-      "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Getting Ready... (World)",
@@ -119,6 +103,22 @@
       "duration_ms": 204333,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Smokestack Lightnin'",
+      "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -323,22 +323,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "The Pious Bird of Good Omen",
-        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "Black Magic Woman - 2018 Master",
-      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "The Fabulous Thunderbirds",
         "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 253333,
       "name": "I'm Tore Down",
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "Black Magic Woman - 2018 Master",
+      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
-      "added_at": "2021-06-18 04:29:20",
-      "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 334400,
-      "name": "Blue Monday Hangover - Remastered",
-      "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Two Bugs and a Roach",
@@ -1011,6 +995,22 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2021-06-18 04:29:20",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 334400,
+      "name": "Blue Monday Hangover - Remastered",
+      "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
     },
     {
       "added_at": "2021-06-18 04:29:20",

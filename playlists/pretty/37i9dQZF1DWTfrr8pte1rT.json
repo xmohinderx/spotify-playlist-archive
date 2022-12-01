@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 285351,
+  "num_followers": 285739,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGI1ZGVhNjZjYjJhNWQ4ODI5ZTkzZjM2MDQxNzIzZDlm",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDk4M2I5YzE1OWM0NzU0OTFhNjNmOTJmNWExZmMwNjRh",
   "tracks": [
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "F\u00d8\u00d8L (INHUMAN Remix)",
         "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 188730,
       "name": "F\u00d8\u00d8L - INHUMAN Remix",
       "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -1649,30 +1629,6 @@
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "die 4 u",
-        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
-      },
-      "artists": [
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "n\u00f8ll",
-          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
-        },
-        {
-          "name": "damnboy!",
-          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "die 4 u",
-      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "WARNING",
@@ -1703,6 +1659,30 @@
       "duration_ms": 133888,
       "name": "BURNING RUBBER",
       "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "die 4 u",
+        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1821,26 +1801,6 @@
       "url": "https://open.spotify.com/track/6IrgD84YhXNQckQFBYJZnL"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "cut the cable",
@@ -1859,6 +1819,26 @@
       "duration_ms": 178844,
       "name": "cut the cable",
       "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2015,26 +1995,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Death of Me",
-        "url": "https://open.spotify.com/album/4EbiGYs39cMzzpm3U21f50"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "Death of Me",
-      "url": "https://open.spotify.com/track/1KUYxwsFpCgpwygaWQu4JL"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Not Letting Go",
         "url": "https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV"
       },
@@ -2055,6 +2015,26 @@
       "duration_ms": 183600,
       "name": "Not Letting Go",
       "url": "https://open.spotify.com/track/7ybW2xuOiUz7CNYn9BCJfQ"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Death of Me",
+        "url": "https://open.spotify.com/album/4EbiGYs39cMzzpm3U21f50"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/1KUYxwsFpCgpwygaWQu4JL"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -2141,6 +2121,30 @@
       "url": "https://open.spotify.com/track/2FHa5rOKOAhuKa0p7XfLTo"
     },
     {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/4BvWG5QPVZk19DgLCUqxur"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "FRANK ZUMMO",
+          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+        },
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Here and Now",
@@ -2167,26 +2171,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/4BvWG5QPVZk19DgLCUqxur"
+        "name": "Never Let You Down (with TELLE)",
+        "url": "https://open.spotify.com/album/1Fld0ymwHFvzS7ES7YdKsd"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "FRANK ZUMMO",
-          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
-        },
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+          "name": "TELLE",
+          "url": "https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2"
         }
       ],
-      "duration_ms": 229090,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
+      "duration_ms": 166800,
+      "name": "Never Let You Down (with TELLE)",
+      "url": "https://open.spotify.com/track/7l7UeB9sG7lMtikz0DUkpS"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2205,24 +2205,24 @@
       "url": "https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Never Let You Down (with TELLE)",
-        "url": "https://open.spotify.com/album/1Fld0ymwHFvzS7ES7YdKsd"
+        "name": "Walk On Water (with Danni Carra)",
+        "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
         },
         {
-          "name": "TELLE",
-          "url": "https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2"
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Never Let You Down (with TELLE)",
-      "url": "https://open.spotify.com/track/7l7UeB9sG7lMtikz0DUkpS"
+      "duration_ms": 182844,
+      "name": "Walk On Water (with Danni Carra)",
+      "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
       },
@@ -2293,24 +2273,24 @@
       "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Walk On Water (with Danni Carra)",
-        "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u"
       },
       "artists": [
         {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
         },
         {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 182844,
-      "name": "Walk On Water (with Danni Carra)",
-      "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
+      "duration_ms": 220800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2417,6 +2397,26 @@
       "url": "https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli"
     },
     {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
+    },
+    {
       "added_at": "2022-07-22 08:57:27",
       "album": {
         "name": "Alive",
@@ -2459,26 +2459,6 @@
       "duration_ms": 189554,
       "name": "All To You (feat. Micah Martin)",
       "url": "https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        },
-        {
-          "name": "Vanthe",
-          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
     },
     {
       "added_at": "2022-07-15 11:41:27",
@@ -2539,6 +2519,30 @@
       "duration_ms": 238500,
       "name": "Bored To Death - Steve Aoki Remix",
       "url": "https://open.spotify.com/track/7xddswKFyyesNjV8wpCGLo"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Subliminal (Even the Ghosts are Laughing)",
+        "url": "https://open.spotify.com/album/1lKKwA4RJ6xoOomuiOQ7EB"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        },
+        {
+          "name": "CRaymak",
+          "url": "https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm"
+        },
+        {
+          "name": "AFTERMYFALL",
+          "url": "https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK"
+        }
+      ],
+      "duration_ms": 318428,
+      "name": "Subliminal (Even the Ghosts are Laughing)",
+      "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"
     }
   ],
   "unique_name": "Rocktronic",

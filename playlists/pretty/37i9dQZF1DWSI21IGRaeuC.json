@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 11523,
+  "num_followers": 11574,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGMxODk5Njg4NTU1MWNmOWJkZTYwMTM0MTk5ZjJmNWNk",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGM4Y2QxOTMyYTNlMDhiODUwZGFiMzVjNjk0OGI4YzU2",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "The True Secrets",
+        "url": "https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 384115,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Back To Me",
@@ -731,22 +747,6 @@
       "duration_ms": 263931,
       "name": "Honey Bee - Edit",
       "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "The True Secrets",
-        "url": "https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 384115,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+      },
+      "artists": [
+        {
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "So Sweet (Matthias Tanzmann Remix)",
@@ -875,22 +891,6 @@
       "duration_ms": 333026,
       "name": "So Sweet - Matthias Tanzmann Remix",
       "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
-      },
-      "artists": [
-        {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2022-06-03 18:11:27",

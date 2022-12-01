@@ -4,7 +4,7 @@
 
 > The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: WOO\) \(가장 핫한 한국 힙합 곡들을 만나보세요!  커버:애쉬 아일랜드\)
 
-676 songs - 1 day 13 hr 27 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+677 songs - 1 day 13 hr 30 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Bounce Back \(feat\. Vapo & GIST\)](https://open.spotify.com/track/71Nlpfb1mhI5LIHDYhdoQa) | [DUT2](https://open.spotify.com/artist/26zFU7m9r6D7cb2pekLhDg), [최도준](https://open.spotify.com/artist/7y6D9FlvIoKm4mzNrdFqCL), [Vapo](https://open.spotify.com/artist/2MaOgL4RBfhpRIMK4ayM61), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Drop The Bit The 3rd round Pt\. 2](https://open.spotify.com/album/4k7Dv3Ffof2s8VLbFTPGiO) | 3:23 | 2022-04-18 | 2022-07-06 |
 | [boy \(Feat\. lIlBOI\)](https://open.spotify.com/track/7hT6BJs3EvXumAF93WwwjZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [DEMOTAPE](https://open.spotify.com/album/1bt1wd9Pyihm15Jl3LzwwJ) | 3:14 | 2022-03-04 | 2022-07-08 |
 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 | 2022-07-27 |  |
+| [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 | 2022-11-30 |  |
 | [Break The Line \(feat\. Brown Tigger\)](https://open.spotify.com/track/5i5vZlxrc66W2P4DapT69L) | [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY), [Brown Tigger](https://open.spotify.com/artist/61IaAjWyHrAO5ZJdjp1YEH) | [Break The Line](https://open.spotify.com/album/1EmvYS9aRGz1vwh39NDTLK) | 2:56 | 2022-06-20 | 2022-06-24 |
 | [Break Up On Drill \(feat\. h3hyeon, Claire Hau\)](https://open.spotify.com/track/0cbXZVF3qfkX99tNp7K4oq) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [황세현](https://open.spotify.com/artist/6MDYgZ07ut5rAWHI45PtwR), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 3:22 | 2022-06-27 | 2022-06-30 |
 | [BREATHE \(Feat\. MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/36kGkexLBfRK1hqdJ6qmaE) | [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Episode 1](https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX) | 5:27 | 2021-12-18 | 2022-07-08 |

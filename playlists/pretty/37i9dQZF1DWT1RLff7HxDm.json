@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 144358,
+  "num_followers": 144440,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDdjNDBhMGJjOTQyNGE3NzljOTcyMTg0ZjZjOTcxMDg2",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDlkOWIwMWJhMjhhOTA1NjU5Nzc2OTU2YzEzNTIwODQ3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Touch My Blues Away",
-        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
-      },
-      "artists": [
-        {
-          "name": "Jessy Martens and Band",
-          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
-        }
-      ],
-      "duration_ms": 544640,
-      "name": "Touch My Blues Away - Live",
-      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 600506,
       "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
       "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Touch My Blues Away",
+        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
+      },
+      "artists": [
+        {
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
+        }
+      ],
+      "duration_ms": 544640,
+      "name": "Touch My Blues Away - Live",
+      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live In Europe",
-        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
-      },
-      "artists": [
-        {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Songs from the Road",
         "url": "https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Live In Europe",
+        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
+      },
+      "artists": [
+        {
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "I Didn't Know (Live)",
         "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
       },
@@ -923,6 +923,38 @@
       "duration_ms": 198040,
       "name": "I Didn't Know - Live",
       "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Liquid Quartet Live",
+        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
+      },
+      "artists": [
+        {
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+        }
+      ],
+      "duration_ms": 320618,
+      "name": "Can't Walk Away From It Now - Live",
+      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Straight To You: Live",
+        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387346,
+      "name": "Diamonds & Gold - Live",
+      "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -943,22 +975,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Straight To You: Live",
-        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387346,
-      "name": "Diamonds & Gold - Live",
-      "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live at the Ryman",
         "url": "https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1"
       },
@@ -975,34 +991,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Liquid Quartet Live",
-        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
       },
       "artists": [
         {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 320618,
-      "name": "Can't Walk Away From It Now - Live",
-      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
-    },
-    {
-      "added_at": "2020-11-20 05:01:00",
-      "album": {
-        "name": "Ride On Josephine (Live In Boston / 1982)",
-        "url": "https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP"
-      },
-      "artists": [
-        {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
-        }
-      ],
-      "duration_ms": 501010,
-      "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
-      "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
+      "duration_ms": 446206,
+      "name": "Rocket 88 - Live",
+      "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
     }
   ],
   "unique_name": "Blues Live & Loud",

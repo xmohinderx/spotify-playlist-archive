@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2apWzyECwyZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2apWzyECwyZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2apWzyECwyZ)
 
-### [This Is Bad Bunny](https://open.spotify.com/playlist/37i9dQZF1DX2apWzyECwyZ)
+### [Esto Es Bad Bunny](https://open.spotify.com/playlist/37i9dQZF1DX2apWzyECwyZ)
 
 > Yo Hago Lo Que Me Da La Gana
 

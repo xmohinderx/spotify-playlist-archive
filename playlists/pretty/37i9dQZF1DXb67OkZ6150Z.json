@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 272983,
+  "num_followers": 273100,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGVhYTdiNDAzMGE4MGMxNjFiNDkxZTY5NjA2NGI2OGYx",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDM5ZjdkMTE0MWQyNmJkYjU0NDY5NzY3NzRlMjc0ZGJh",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 180093,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Can't Take My Eyes Off You / 3BadSoSad - Edit",
-        "url": "https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP"
-      },
-      "artists": [
-        {
-          "name": "Private Island",
-          "url": "https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Can't Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 311844,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Can't Take My Eyes Off You / 3BadSoSad - Edit",
+        "url": "https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP"
+      },
+      "artists": [
+        {
+          "name": "Private Island",
+          "url": "https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Can't Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 242181,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 242181,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
     }
   ],
   "unique_name": "Indie Covers",

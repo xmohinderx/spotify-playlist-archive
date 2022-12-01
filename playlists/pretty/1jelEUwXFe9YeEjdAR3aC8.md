@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by Dermot Kennedy, Dean Lewis, and more! Listen to this mellow and feels\-inducing playlist, and discover new favorites! Cover: Reneé Rapp
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,866 likes - 50 songs - 2 hr 48 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,858 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

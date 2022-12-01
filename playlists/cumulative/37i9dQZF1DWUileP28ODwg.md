@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-255 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+256 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2022-04-29 |  |
 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 | 2022-02-25 | 2022-05-29 |
 | [Build a Boat](https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Build a Boat](https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg) | 2:50 | 2022-04-29 |  |
-| [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 | 2022-08-26 |  |
+| [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 | 2022-08-26 | 2022-12-01 |
 | [Captain \- Silverline Session](https://open.spotify.com/track/6veVha4v9oAFvA4rdF9DXv) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Captain \(Silverline Session\)](https://open.spotify.com/album/1JZFuicWwcSaMdDTHo3vuL) | 3:33 | 2022-04-22 | 2022-07-09 |
 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM) | 3:49 | 2022-06-10 | 2022-08-27 |
 | [Clean](https://open.spotify.com/track/2dXntxjimv1oK2BejjEj10) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Clean](https://open.spotify.com/album/5pNkUSv8sgDF81greuJ495) | 3:34 | 2022-02-25 | 2022-05-29 |
@@ -126,6 +126,7 @@
 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 | 2022-10-01 |  |
 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 | 2022-04-22 |  |
 | [If The Lord Builds The House](https://open.spotify.com/track/1gHEMTscQ1XBevcJsmcMNV) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/3DnbvxLXCsgPs4nUl2mxs9) | 3:55 | 2022-06-10 | 2022-07-29 |
+| [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 | 2022-10-01 |  |
 | [If The Lord Builds The House](https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ) | 3:55 | 2022-07-08 | 2022-11-07 |
 | [In Jesus Name \(God Of Possible\) \- Piano Version](https://open.spotify.com/track/1H4n9Bm5Xrv8OTrJgLpyb5) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\) \[Piano Version\]](https://open.spotify.com/album/7JIK7T3f1r89w0MNhSPB9r) | 3:40 | 2022-02-25 | 2022-06-11 |
 | [In The House](https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 2:59 | 2022-02-25 | 2022-05-14 |

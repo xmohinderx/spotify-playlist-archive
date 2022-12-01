@@ -289,10 +289,32 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 352500,
       "name": "Dance with Death",
       "url": "https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A"
+    },
+    {
+      "album": {
+        "name": "Dance with Death",
+        "url": "https://open.spotify.com/album/2RtmP1Gin5BBNgxlu44qeH"
+      },
+      "artists": [
+        {
+          "name": "Ghost Dance",
+          "url": "https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ"
+        },
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352500,
+      "name": "Dance with Death",
+      "url": "https://open.spotify.com/track/3WHzdoudaQvAOcGDYFRpWn"
     },
     {
       "album": {

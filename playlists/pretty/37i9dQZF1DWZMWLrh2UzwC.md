@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,945 likes - 56 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,950 likes - 56 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 29 | [What Is Love](https://open.spotify.com/track/6KQT3r0Vxlq7ScQODnMV5n) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Cantaloupe](https://open.spotify.com/album/49uQ16B3gZnVSn7DaQ80H6) | 4:07 |
 | 30 | [Enough](https://open.spotify.com/track/4gAOsYjYab3gcAjy6iXUSk) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Enough](https://open.spotify.com/album/6bZ48hDnMVSavEVMcH4qdm) | 2:29 |
 | 31 | [Won't You Come and Sing For Me \(with Chris Thile\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/297nT79xIAqPWlb82As40E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Won't You Come and Sing For Me \(with Chris Thile\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/2XyHHncj5JR6dX09ViDKAT) | 4:28 |
-| 32 | [Be feat\. 904TEZZO](https://open.spotify.com/track/14jRVn8ZAIcFodZmDoJFzZ) | [Lil Boom](https://open.spotify.com/artist/1mmlWsyPJvvxMdabcGJjRn), [904TEZZO](https://open.spotify.com/artist/56HrCPz22OqbQLizgOEjm7) | [Magenta 2 Pack](https://open.spotify.com/album/3v38LMHDPxs0SFWZWhRb8V) | 2:04 |
+| 32 | [Be feat\. 904TEZZO](https://open.spotify.com/track/14jRVn8ZAIcFodZmDoJFzZ) | [Lil Boom](https://open.spotify.com/artist/1mmlWsyPJvvxMdabcGJjRn) | [Magenta 2 Pack](https://open.spotify.com/album/3v38LMHDPxs0SFWZWhRb8V) | 2:04 |
 | 33 | [Dance With Me](https://open.spotify.com/track/2IHRjNQvBKfKwMUH9QGCjm) | [Rachel VAnthony](https://open.spotify.com/artist/6eIVEJlX1m8teDuxnF9iU3) | [Dance With Me](https://open.spotify.com/album/6ab6eMowfX7s4fIIp7wID8) | 4:18 |
 | 34 | [I Feel so...](https://open.spotify.com/track/4950i8N34PSY5s8dy9krla) | [Cayenne](https://open.spotify.com/artist/1JTyFHtzmZHTOUW74ChuRj) | [I Feel so...](https://open.spotify.com/album/3xzPY1aAOgbYyPBL9pIP9F) | 1:59 |
 | 35 | [Out on Me](https://open.spotify.com/track/32ala5hxmfhj3OXXuaGyJX) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du), [Beatsbykapss](https://open.spotify.com/artist/2lSdDGjrD12KAbAFIOKEfM), [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn) | [Out on Me](https://open.spotify.com/album/5pUfp0fLw3K8i3WbisP9qM) | 3:09 |

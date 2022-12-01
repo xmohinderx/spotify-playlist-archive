@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 26992,
+  "num_followers": 27081,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGMyM2I1OGM0MzQyYTliYTY2NWRhNTM1MzVmNDY4OGM3",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDE0MDliOTczNWZhNWUzZGI5MGZiNTMyYjQzMjdjMTM2",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "South Gotta Change",
         "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "In the Middle",
-        "url": "https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 214818,
-      "name": "In the Middle",
-      "url": "https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 193389,
       "name": "Keep Diggin\u2019",
       "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "In the Middle",
+        "url": "https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 214818,
+      "name": "In the Middle",
+      "url": "https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Ain't Too Worried Yet",
+        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ain't Too Worried Yet",
+      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Moonshine Blue",
         "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 249826,
       "name": "Good So Bad",
       "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Ain't Too Worried Yet",
-        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ain't Too Worried Yet",
-      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Howlin' Sun",
-        "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Sun",
-          "url": "https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw"
-        }
-      ],
-      "duration_ms": 181285,
-      "name": "The Day Took My Sunshine Away",
-      "url": "https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Nobody's Wrong",
         "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 235311,
       "name": "Nobody's Wrong",
       "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Howlin' Sun",
+        "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Sun",
+          "url": "https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw"
+        }
+      ],
+      "duration_ms": 181285,
+      "name": "The Day Took My Sunshine Away",
+      "url": "https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Chocolate Samurai",
-        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 177801,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Chocolate Samurai",
+        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 295839,
+      "name": "Chocolate Samurai",
+      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Going Down",
-        "url": "https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5"
-      },
-      "artists": [
-        {
-          "name": "Black River Delta",
-          "url": "https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Bottom Shelf Gin",
         "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 182293,
       "name": "Bottom Shelf Gin",
       "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5"
+      },
+      "artists": [
+        {
+          "name": "Black River Delta",
+          "url": "https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk"
     }
   ],
   "unique_name": "Alt-Blue",

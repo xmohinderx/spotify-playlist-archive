@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring taahliah
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,374 likes - 110 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,606 likes - 110 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 87 | [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/5MNYdLFPbE27xrmhDdZ5cH) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 6:22 |
 | 88 | [serotonin dump](https://open.spotify.com/track/3ud2BmAe0EkYr2fGNxrIJj) | [Ben Ohr](https://open.spotify.com/artist/4RTUllFdPttQHfthpDXKoG) | [serotonin dump](https://open.spotify.com/album/5P7Qecx791F5vLtSHU6Ucf) | 2:00 |
 | 89 | [Eyes On Me](https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW) | 3:48 |
-| 90 | [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 |
+| 90 | [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 |
 | 91 | [In The Calm](https://open.spotify.com/track/6BxvOQ9CtW8MQTPEpHELpv) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Aamourocean](https://open.spotify.com/artist/45XImXCRH7XiKTOINsqTd1) | [In The Calm](https://open.spotify.com/album/0VYu7fpG7YAL9l73E6y9M7) | 4:50 |
 | 92 | [Notoriously Fast](https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Circulus Vitiosus](https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd) | 1:52 |
 | 93 | [v0013](https://open.spotify.com/track/46guwiCD3lXaB3cjSfRnwy) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [v0013](https://open.spotify.com/album/310MLqcIAqRpbgKUKukR16) | 2:27 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 109 | [souldive](https://open.spotify.com/track/1PJFSfRoIQiHksG7636sEY) | [tenshi](https://open.spotify.com/artist/16WeQsKRT4Og5OwoKhxzew) | [souldive](https://open.spotify.com/album/0iXrrCuFFrWGbmS4M5MRdd) | 2:38 |
 | 110 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDNlYzgyOGYzNmI4YWVkZDA1ZDlkNGU0MjIwMWM0YmFi`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGJhNjUwYWJiMmFhNzE4YWQ2MjYwYzY5NWZlZGU4ZWVh`

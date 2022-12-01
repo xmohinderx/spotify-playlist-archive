@@ -4,7 +4,7 @@
 
 > That real hip\-hop\. Cover: Ab\-Soul
 
-279 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
+280 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-11 |  |
 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 | 2022-11-04 |  |
 | [Mind My Business](https://open.spotify.com/track/708XxdoYh212Jekpwu6985) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [War & Wonders](https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN) | 2:59 | 2021-09-24 | 2021-12-24 |
-| [Money](https://open.spotify.com/track/2RXn2FXwRVlHDrs0CZnWEi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 4:26 | 2022-09-30 |  |
+| [Money](https://open.spotify.com/track/2RXn2FXwRVlHDrs0CZnWEi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 4:26 | 2022-09-30 | 2022-12-01 |
+| [Money](https://open.spotify.com/track/5050y1NZdlMdTKMLNWv4nl) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 4:26 | 2022-11-25 |  |
 | [Monsieur Dior](https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Monsieur Dior](https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP) | 2:26 | 2022-10-28 |  |
 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 | 2022-09-16 |  |
 | [Mortgage Free \(feat\. 2 Chainz\)](https://open.spotify.com/track/6VEHKvuIAB7LcTwl1XqnBi) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mortgage Free \(feat\. 2 Chainz\)](https://open.spotify.com/album/3O83kLKjolZCfPKyNr4mpW) | 3:15 | 2021-12-10 | 2022-05-07 |

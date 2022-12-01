@@ -765,7 +765,7 @@
     {
       "album": {
         "name": "We Say Yes",
-        "url": "https://open.spotify.com/album/0PST9ylFljP5vGSEU4f3hk"
+        "url": "https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg"
       },
       "artists": [
         {
@@ -776,6 +776,24 @@
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 353769,
+      "name": "Give Thanks to God",
+      "url": "https://open.spotify.com/track/3nto4q3YUOCXwmCqTDCoCa"
+    },
+    {
+      "album": {
+        "name": "We Say Yes",
+        "url": "https://open.spotify.com/album/0PST9ylFljP5vGSEU4f3hk"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 353769,
       "name": "Give Thanks to God",
       "url": "https://open.spotify.com/track/6TifEylXRiTPrGn4NHXd6O"

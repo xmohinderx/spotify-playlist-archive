@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-86 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
+87 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Feel Like](https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ) | [Fm Kid](https://open.spotify.com/artist/3lQP8Rliiz1HAHNyZCdMM6) | [Feel Like](https://open.spotify.com/album/2bUvNyLhtfvFmAeaSuJAOb) | 3:06 | 2022-09-30 | 2022-10-07 |
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 |  |
 | [Gwookya](https://open.spotify.com/track/3DtERsS1lSUwcCV4MZHIdF) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Gwookya](https://open.spotify.com/album/08qkq3hZAmP91oAuQHxnXg) | 2:41 | 2022-07-29 | 2022-10-26 |
-| [Hey](https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Hey](https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR) | 2:47 | 2022-09-30 |  |
+| [Hey](https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Hey](https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR) | 2:47 | 2022-09-30 | 2022-12-01 |
 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 | 2022-07-22 |  |
 | [I Need Your Love](https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [I Need Your Love](https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb) | 2:49 | 2022-05-27 | 2022-11-22 |
 | [It's OK](https://open.spotify.com/track/6SBSTfARlJBhsRfM2PyZv9) | [Uthman Music](https://open.spotify.com/artist/7buCEVAcbogrYQk2ygdJtz) | [It's OK](https://open.spotify.com/album/4PWYKui3UPV0qKRErAh8qX) | 1:09 | 2022-05-12 | 2022-10-08 |
@@ -88,6 +88,7 @@
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2022-05-12 |  |
 | [Thc \( Too High to Concentrate \)](https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9) | [Blaqface](https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78) | [Thc \( Too High to Concentrate \)](https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q) | 2:48 | 2022-07-08 |  |
 | [Toora Love](https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Toora Love](https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE) | 3:06 | 2022-11-26 |  |
+| [True Love](https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ) | [Bright Sun UG](https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr), [Green Daddy](https://open.spotify.com/artist/77C4sGNZqav9HQNGNCTXdm) | [Love Hearted](https://open.spotify.com/album/0XfC7XOfj7bUQzWhKiFBvk) | 3:10 | 2022-11-17 |  |
 | [Tukimala](https://open.spotify.com/track/3sil5Zxom8p6321FsDM2mn) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh), [Pinky](https://open.spotify.com/artist/7D0HNEvLVsb8ooQmC2MIbD) | [Tukimala](https://open.spotify.com/album/2Eb2bK1a8Bxq11Aw8rCU50) | 2:53 | 2022-08-12 | 2022-09-02 |
 | [Udongo \(Save Soil\)](https://open.spotify.com/track/59BPZ3xZSqL70xUngfRXJf) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Reazyla](https://open.spotify.com/artist/7GtTV6RYcXvgp6mQ0ZQfhG) | [Udongo \(Save Soil\)](https://open.spotify.com/album/4TJhR6aU5qMlMoyntJGSiz) | 2:56 | 2022-05-12 | 2022-09-02 |
 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 | 2022-05-19 |  |

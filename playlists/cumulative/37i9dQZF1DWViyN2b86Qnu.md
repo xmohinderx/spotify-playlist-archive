@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-178 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
+181 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Home](https://open.spotify.com/track/3Ft2TbgNi2oP2E9PnIZYXr) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Home](https://open.spotify.com/album/1SS0P6ycOwvuwLp4A2Tkuy) | 3:15 | 2022-07-14 |  |
 | [Home](https://open.spotify.com/track/5pAIi2xDRVLWy51n6xtOTY) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Home](https://open.spotify.com/album/6b3AmiePqO00ZFHLtAwtN4) | 3:15 | 2021-10-05 | 2022-10-18 |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-10-05 | 2022-10-13 |
-| [HUH?](https://open.spotify.com/track/51YAv7jAdOLFVzKSIry2Sw) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:43 | 2022-07-14 |  |
+| [HUH?](https://open.spotify.com/track/41q2qZ5ka6FX52EE3N5v9w) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 2:43 | 2022-07-14 |  |
+| [HUH?](https://open.spotify.com/track/51YAv7jAdOLFVzKSIry2Sw) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:43 | 2022-07-14 | 2022-12-01 |
 | [HUH?](https://open.spotify.com/track/6wvMhmj0Jv7sf4isnzC5RQ) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Voulez\-Vous Me To...](https://open.spotify.com/album/5FWK6nPo20qWr9OAaRyqhk) | 2:43 | 2022-07-14 | 2022-11-13 |
 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 | 2022-07-14 |  |
 | [I Don't Want To](https://open.spotify.com/track/3Kg7a2RbwxaKhLtaa7PI0K) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [Pity Boy](https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2) | 3:00 | 2021-10-05 |  |
@@ -143,7 +144,8 @@
 | [RE\(a\)D \(with Bas\)](https://open.spotify.com/track/3zkb4iEBArtWivbkhw4Jnd) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [RE\(a\)D \(with Bas\)](https://open.spotify.com/album/3OMZpoECIvg1U8HWYXMLgX) | 3:04 | 2021-10-05 | 2022-02-21 |
 | [Really, Really](https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Really, Really](https://open.spotify.com/album/0qbnY0chu7T0QUgnEuei3Y) | 2:26 | 2021-10-05 | 2022-10-13 |
 | [Really, Really](https://open.spotify.com/track/54PWe72O8LnW6MdxZeL8es) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/6NzI1HTzl9dSYXdzNEtwp9) | 2:26 | 2022-07-14 | 2022-11-13 |
-| [Really, Really](https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:26 | 2022-07-14 |  |
+| [Really, Really](https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:26 | 2022-07-14 | 2022-12-01 |
+| [Really, Really](https://open.spotify.com/track/6Ry2hRnTNSQDGuYCzeYvmx) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 2:26 | 2022-07-14 |  |
 | [Rendezvous](https://open.spotify.com/track/5UNRCb1mKJHiU6iQlGlKuv) | [Miss Benny](https://open.spotify.com/artist/4tcbyfp5CTM0m9AQYGduIX) | [Rendezvous](https://open.spotify.com/album/7jWbadSB4MhmBmt5ZgpW1e) | 3:16 | 2021-10-05 |  |
 | [Reproductive](https://open.spotify.com/track/2czRLbCuPOP9azgqYS52c9) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Heterosexuality](https://open.spotify.com/album/0DpCo0SXKnfsBx98H2qDVI) | 4:35 | 2022-03-08 |  |
 | [Scream \(feat\. UPSAHL\)](https://open.spotify.com/track/40K9YDjCX6OwuKYZxnI0cM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Scream \(feat\. UPSAHL\)](https://open.spotify.com/album/7LyXJu1AEJY8rD56mp8AUw) | 3:32 | 2022-02-20 |  |
@@ -162,7 +164,8 @@
 | [Stop Calling The Police On Me](https://open.spotify.com/track/2lTDCazTtS9DBQNFLGsD2G) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Stop Calling The Police On Me](https://open.spotify.com/album/2hRsGWPM5yNNqPT18QMZFX) | 2:26 | 2022-07-14 | 2022-11-13 |
 | [Stop Calling The Police On Me](https://open.spotify.com/track/76onGrcd5XE3zUaEtlgZbb) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ) | 2:26 | 2021-10-05 | 2022-10-13 |
 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 | 2021-10-05 |  |
-| [SuperNatural Possession](https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2BBk7kjQwYdV0UgeYx0JYK) | 2:04 | 2021-10-05 |  |
+| [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 | 2022-07-14 |  |
+| [SuperNatural Possession](https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2BBk7kjQwYdV0UgeYx0JYK) | 2:04 | 2021-10-05 | 2022-12-01 |
 | [Sweet Cis Teen](https://open.spotify.com/track/3BtI05wNziDrIODXJqdKkK) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 4:33 | 2021-10-05 |  |
 | [That's My Sis](https://open.spotify.com/track/2XIeW9O9rwtgNgQ3IpQ3dF) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [That's My Sis](https://open.spotify.com/album/51YpXABPAuZmlcOViZkLLP) | 2:58 | 2021-10-05 | 2022-03-09 |
 | [The Art Of Starting Over](https://open.spotify.com/track/0Xnczz6WOco9RiC6NyPsat) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 2:47 | 2022-02-20 |  |

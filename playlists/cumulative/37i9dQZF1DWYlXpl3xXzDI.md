@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-203 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+204 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Wait For You](https://open.spotify.com/track/3JxsDs3cx0DDLxSYkFh1CZ) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Ady Suleiman](https://open.spotify.com/album/6DeDaoXGyIngJjzcRK6OH0) | 3:17 | 2017-12-03 |  |
 | [Wait for You](https://open.spotify.com/track/4vZuzqU0m4QKWQZtRyTt4s) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Wait for You](https://open.spotify.com/album/4NtboZves026oKmICvl01A) | 3:17 | 2017-12-03 | 2022-07-29 |
 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 | 2017-12-03 |  |
-| [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 | 2017-12-03 |  |
+| [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 | 2017-12-03 | 2022-12-01 |
+| [Wake Up This Day](https://open.spotify.com/track/3j2NATzA9yHM6okc3cBkPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN) | 3:49 | 2017-12-03 |  |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2017-12-03 |  |
 | [Wasn't Expecting That](https://open.spotify.com/track/1OmAaRqTdBDH4Efcrgbthz) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Soft 10's](https://open.spotify.com/album/5nLe1daKdWUczOnLQVFAEb) | 3:21 | 2017-12-03 | 2022-11-13 |
 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 | 2017-12-03 | 2022-07-29 |

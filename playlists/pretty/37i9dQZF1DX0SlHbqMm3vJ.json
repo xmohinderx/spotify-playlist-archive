@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Johnny Drille ",
-  "num_followers": 171314,
+  "num_followers": 171428,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MTE2OCwwMDAwMDAwMGZkNmM3ZGMzYjI4MTIyNmEyZDU4MmE5OWVmZjljNTBl",
+  "snapshot_id": "MTY2OTM2MTE2OCwwMDAwMDAwMDhhZWM4ZmI1NTczOTRmMTEwZmU4YTZiYWY4YmViYWQx",
   "tracks": [
     {
       "added_at": "2022-10-28 12:40:45",
@@ -1189,6 +1189,30 @@
       "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
     },
     {
+      "added_at": "2022-11-25 07:26:08",
+      "album": {
+        "name": "B&B (Booze & Bumbum)",
+        "url": "https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl"
+      },
+      "artists": [
+        {
+          "name": "AV",
+          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "B&B (Booze & Bumbum)",
+      "url": "https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8"
+    },
+    {
       "added_at": "2022-03-31 23:00:00",
       "album": {
         "name": "For Days",
@@ -1255,30 +1279,6 @@
       "duration_ms": 148800,
       "name": "TROUBLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
-    },
-    {
-      "added_at": "2022-11-25 07:26:08",
-      "album": {
-        "name": "B&B (Booze & Bumbum)",
-        "url": "https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl"
-      },
-      "artists": [
-        {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "B&B (Booze & Bumbum)",
-      "url": "https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1453,20 +1453,24 @@
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
+      "added_at": "2022-11-25 07:26:08",
       "album": {
-        "name": "Juju pt. 2 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI"
+        "name": "No Love (18 Plus)",
+        "url": "https://open.spotify.com/album/0oyBl0Gt0gQGIjyUGssjX1"
       },
       "artists": [
         {
-          "name": "Bryann",
-          "url": "https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 196210,
-      "name": "Juju pt. 2 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
+      "duration_ms": 227142,
+      "name": "No Love (18 Plus)",
+      "url": "https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa"
     }
   ],
   "unique_name": "Ginger Me",

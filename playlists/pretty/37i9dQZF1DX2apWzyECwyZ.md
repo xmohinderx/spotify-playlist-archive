@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2apWzyECwyZ.md) - [plain](/playlists/plain/37i9dQZF1DX2apWzyECwyZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2apWzyECwyZ)
 
-### [This Is Bad Bunny](https://open.spotify.com/playlist/37i9dQZF1DX2apWzyECwyZ)
+### [Esto Es Bad Bunny](https://open.spotify.com/playlist/37i9dQZF1DX2apWzyECwyZ)
 
 > Yo Hago Lo Que Me Da La Gana
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,644,813 likes - 121 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,649,128 likes - 121 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2apWzyECwyZ.md) - [plain]
 | 120 | [SI ELLA SALE](https://open.spotify.com/track/1zaDh3qaGSeSmulNyWlUxm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:23 |
 | 121 | [EN CASITA](https://open.spotify.com/track/2DhNdoHxavs7Qtf5MnhZD0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Gabriela](https://open.spotify.com/artist/1A8aoDrchH5aefQYBCfpLv) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:56 |
 
-Snapshot ID: `MTY1MzQ4ODQwNSwwMDAwMDAwMDhkZjQ0OTRmODA2NDAwYTJkMGJkZGE1ZDdhZjlmMGYz`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDlhYTNhNTg3NzBmOGY2MDgwNDJkODFmYjIzOTNlNjUx`

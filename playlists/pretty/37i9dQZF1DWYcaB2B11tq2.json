@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 320101,
+  "num_followers": 320347,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDcwY2Q0NjZmZmU4MTYzZGNlMmIwMDdhM2QxODk0ZmIz",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMGVjZWJlNTJiYjU3ZmU0MTA1ODY0NzMxZmRlNmU3NzFi",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -234,10 +234,14 @@
         {
           "name": "En Esp\u00edritu Y En Verdad",
           "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
         }
       ],
       "duration_ms": 315653,
-      "name": "Gracia Sublime Es",
+      "name": "Gracia Sublime Es feat. Omar Rodr\u00edguez Music",
       "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
     },
     {
@@ -418,27 +422,15 @@
         {
           "name": "En Esp\u00edritu Y En Verdad",
           "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
         }
       ],
       "duration_ms": 333217,
-      "name": "El Gran Yo Soy",
+      "name": "El Gran Yo Soy feat. Omar Rodr\u00edguez Music",
       "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Vida Encontr\u00e9",
-        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 215925,
-      "name": "Vida Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -459,6 +451,22 @@
       "duration_ms": 438519,
       "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
       "url": "https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Vida Encontr\u00e9",
+        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 215925,
+      "name": "Vida Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -515,6 +523,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl"
+      },
+      "artists": [
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "duration_ms": 319763,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Me sostendr\u00e1",
         "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
       },
@@ -531,18 +555,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl"
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
       },
       "artists": [
         {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 319763,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E"
+      "duration_ms": 258640,
+      "name": "\u00c9l Nos Ama",
+      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -567,22 +591,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "\u00c9l Nos Ama",
-      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Dios de Lo Extraordinario",
         "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
       },
@@ -603,22 +611,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/4pSlr6iAlgXnDu3pBkxVZH"
       },
@@ -635,6 +627,22 @@
       "duration_ms": 260000,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/24FnAqLXfjdlUMv2gB4Xxs"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -743,18 +751,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Fragmentos del Cielo",
-        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 212806,
-      "name": "Mi Roca",
-      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -775,18 +783,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+        "name": "Fragmentos del Cielo",
+        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+      "duration_ms": 212806,
+      "name": "Mi Roca",
+      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -999,22 +1007,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Todo Pasar\u00e1",
         "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
@@ -1035,6 +1027,22 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2021-05-21 19:19:27",

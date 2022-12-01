@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 538760,
+  "num_followers": 538935,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4MTU3MiwwMDAwMDAwMGMzYmFlNTRhYmY0OWE0YTVmOGI1ZmQ2ZTkyOWUyMWRl",
+  "snapshot_id": "MTY2OTM4MTU3MiwwMDAwMDAwMDMwYTdhODM3YjJiMDJkNjYxMjUzNzk0ZTI5MDc3OTZk",
   "tracks": [
     {
       "added_at": "2022-11-25 13:06:12",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Like A Friend",
+        "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Like A Friend - Radio Edit",
+      "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Impossible (&ME Remix)",
         "url": "https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Like A Friend",
-        "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "Like A Friend - Radio Edit",
-      "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -607,6 +607,26 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Future Memories",
+        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Soundexile",
+          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
+        }
+      ],
+      "duration_ms": 383250,
+      "name": "Teleport - Future Mix",
+      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Future Memories",
-        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Soundexile",
-          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
-        }
-      ],
-      "duration_ms": 383250,
-      "name": "Teleport - Future Mix",
-      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 193403,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5"
+      },
+      "artists": [
+        {
+          "name": "Sintra",
+          "url": "https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Be Here and Now",
         "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 209699,
       "name": "Be Here and Now",
       "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5"
-      },
-      "artists": [
-        {
-          "name": "Sintra",
-          "url": "https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -839,38 +855,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Petit Matin",
-        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 447066,
-      "name": "Petit Matin",
-      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "NOSTALGIA*",
         "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
+        "name": "Petit Matin",
+        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
+      "duration_ms": 447066,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -915,6 +899,22 @@
       "duration_ms": 479075,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 232194,
-      "name": "Night Jaguars",
-      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Noso",
         "url": "https://open.spotify.com/album/3dlsgQpKfWqdYBAKUvm70Y"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 232194,
+      "name": "Night Jaguars",
+      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "alone with you (feat. Didi Han)",
-        "url": "https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz"
-      },
-      "artists": [
-        {
-          "name": "warner case",
-          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
-        },
-        {
-          "name": "DIDI HAN",
-          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
-        }
-      ],
-      "duration_ms": 210607,
-      "name": "alone with you (feat. Didi Han)",
-      "url": "https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Donde Chile",
         "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
       },
@@ -1283,26 +1263,6 @@
       "duration_ms": 434406,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "10 Years From Now / Collide",
-        "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
-      },
-      "artists": [
-        {
-          "name": "PARIS",
-          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
-        },
-        {
-          "name": "Kaleida",
-          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
-        }
-      ],
-      "duration_ms": 275369,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1323,6 +1283,26 @@
       "duration_ms": 397882,
       "name": "Copal - Super Flu Remix",
       "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "10 Years From Now / Collide",
+        "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
+      },
+      "artists": [
+        {
+          "name": "PARIS",
+          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
+        },
+        {
+          "name": "Kaleida",
+          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
+        }
+      ],
+      "duration_ms": 275369,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Studio A Pt.1",
         "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
       },
@@ -1435,22 +1435,38 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Diving Into Minds",
-        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+        "name": "Speed Of Sound",
+        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
       },
       "artists": [
         {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
         },
         {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
         }
       ],
-      "duration_ms": 387302,
-      "name": "Diving Into Minds - Club Mix",
-      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+      "duration_ms": 431419,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1475,26 +1491,6 @@
       "duration_ms": 464628,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Speed Of Sound",
-        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 431419,
-      "name": "Speed of Sound",
-      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
     },
     {
       "added_at": "2022-11-25 13:06:12",

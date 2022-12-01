@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Magnolia Park
 
-858 songs - 1 day 21 hr 51 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+859 songs - 1 day 21 hr 54 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,8 @@
 | [My Name \(In Your Mouth\)](https://open.spotify.com/track/0kwM0tnvUAFrOim4oQ7YXh) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [My Name \(In Your Mouth\)](https://open.spotify.com/album/3ECvrh6p1TrW3OGBdJhqil) | 2:02 | 2022-02-25 | 2022-07-28 |
 | [My Queen](https://open.spotify.com/track/6o4688UobZBqU6xQO8CND7) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [My Queen](https://open.spotify.com/album/1u0jqvA9UVsCDtNWvI8IpX) | 3:04 | 2022-02-04 | 2022-05-17 |
 | [My Reason to Come Back Home 2: Electric Boogaloo](https://open.spotify.com/track/1sK8mNyeNuOfT73apnxqXP) | [Settle Your Scores](https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O) | [My Reason to Come Back Home 2: Electric Boogaloo](https://open.spotify.com/album/4VPI9zrAKGVz9xus48M7sj) | 3:21 | 2021-12-10 | 2022-06-08 |
-| [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 | 2022-03-25 |  |
+| [My Town](https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Sticky](https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV) | 2:44 | 2022-11-04 |  |
+| [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 | 2022-03-25 | 2022-12-01 |
 | [MYVEK](https://open.spotify.com/track/4izeZrOmheZs6U6apTVH4O) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain \(Deluxe\)](https://open.spotify.com/album/1A8gL2BWoEZLhj3KYU9E3f) | 2:46 | 2021-12-10 | 2022-07-28 |
 | [Necessary](https://open.spotify.com/track/0PXDhkEIkagEdHzpRye6Vj) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Necessary](https://open.spotify.com/album/3UZIQ9vpRZGWVIvcnrKZBj) | 3:26 | 2021-12-10 | 2022-07-05 |
 | [Nervous Wreck](https://open.spotify.com/track/1TTzSkiZPz92k77w5FfJ9M) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Nervous Wreck / Storyteller](https://open.spotify.com/album/4xlgeFEDO7UyW0ju3Iw9dx) | 2:52 | 2021-12-10 | 2022-06-25 |

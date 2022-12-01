@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-195 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/07zQ9oB93lOCDNyT1Xbj2x)
+196 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/07zQ9oB93lOCDNyT1Xbj2x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Alwayz Into Somethin'](https://open.spotify.com/track/6phmKeRhJUsiSBJgMkgjg8) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Efil4zaggin](https://open.spotify.com/album/3OSID3YChn6nOjfUAlSXQZ) | 4:24 | 2021-11-17 |  |
 | [Andreaen Sand Dunes](https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptunes Lair](https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz) | 6:16 | 2021-11-17 | 2022-07-29 |
 | [Andreaen Sand Dunes](https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptune's Lair](https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV) | 6:16 | 2021-11-17 |  |
-| [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/5VbMIDLX6R4pyoWhy2kO7q) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/4jETOwgldZeg0b8VrM5mKW) | 3:37 | 2021-11-17 |  |
+| [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/0Cfs5hD4TUSmBE7Ta1CgwY) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/70vIB12zLNnfvIiQ9YY9hC) | 3:37 | 2021-11-17 |  |
+| [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/5VbMIDLX6R4pyoWhy2kO7q) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/4jETOwgldZeg0b8VrM5mKW) | 3:37 | 2021-11-17 | 2022-12-01 |
 | [Black Privilege](https://open.spotify.com/track/3BiWMGi0qRr8Exhy010K7H) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Black Privilege](https://open.spotify.com/album/5nA8I1Om2CGLbVTeeb9mtv) | 2:51 | 2022-02-04 |  |
 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 | 2021-11-17 |  |
 | [Body So Good](https://open.spotify.com/track/0aVoXMbwzqgnW1H79Hm0h6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:37 | 2021-12-18 |  |
@@ -187,8 +188,8 @@
 | [Touch Too Much](https://open.spotify.com/track/2j0zExWFB0PowLOeoZosjK) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 4:26 | 2021-11-17 |  |
 | [Tukuntazo](https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Tukuntazo](https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ) | 3:17 | 2021-12-18 |  |
 | [Tumbando Fronte](https://open.spotify.com/track/4ZsK5FNbiB18MeOUbzb5jF) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Los Mozalbetes](https://open.spotify.com/album/3F0lExSizqQVqEesxNlZCR) | 2:51 | 2021-12-18 |  |
-| [Vacilar Contigo](https://open.spotify.com/track/05HWPXzqfWx6Xm2YpS4Iuk) | [NEJO](https://open.spotify.com/artist/2RbTV4rZYfdNkxFE9SSdG3) | [Ñejo & Dalmata Special Edition](https://open.spotify.com/album/0McVcBl1mlbonAbwEnb6W0) | 3:15 | 2021-12-18 |  |
-| [Vacilar Contigo](https://open.spotify.com/track/5ktUa06LisFFjJZG2BmH2y) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Ñejo & Dalmata \(Special Edition\)](https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo) | 3:15 | 2021-12-18 | 2022-07-29 |
+| [Vacilar Contigo](https://open.spotify.com/track/05HWPXzqfWx6Xm2YpS4Iuk) | [NEJO](https://open.spotify.com/artist/2RbTV4rZYfdNkxFE9SSdG3) | [Ñejo & Dalmata Special Edition](https://open.spotify.com/album/0McVcBl1mlbonAbwEnb6W0) | 3:15 | 2021-12-18 | 2022-12-01 |
+| [Vacilar Contigo](https://open.spotify.com/track/5ktUa06LisFFjJZG2BmH2y) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Ñejo & Dalmata \(Special Edition\)](https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo) | 3:15 | 2021-12-18 |  |
 | [Vamos Pa la Disco](https://open.spotify.com/track/24rmdGqhLpn2jAvu2S5FtC) | [Guanabanas](https://open.spotify.com/artist/65PHKFCs7HHGUXdOlqHwvK) | [Guanabanas Update, Vol\. 1](https://open.spotify.com/album/2U8jmta2FRGB1bUMQ7u9jj) | 2:48 | 2021-12-18 |  |
 | [Volando Voy](https://open.spotify.com/track/6YksxWWmhFOZjMfh3eRyYk) | [Camaron De La Isla](https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI) | [Flamenco es..\. Camaron](https://open.spotify.com/album/2R7PryxSDFjQeortJSidSj) | 3:24 | 2021-12-18 |  |
 | [War Is Necessary](https://open.spotify.com/track/0g9NT0ve6iUVUfNbRIaGNz) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Music of Grand Theft Auto IV](https://open.spotify.com/album/0lTknHCG5YS0NeVWZuiWzm) | 2:28 | 2021-11-17 | 2022-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 261788,
+  "num_followers": 261977,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDAzNWYxYzFhNDk1NDgyYzgxZDA0ZGVmMzQzMTc0NjY1",
+  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMGI1Njc0NjM0Nzg0ODU5NmZjOTA2ODFhNDBhZTYyYmNi",
   "tracks": [
     {
       "added_at": "2021-10-31 01:35:26",
@@ -923,26 +923,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Now More Than Ever",
-        "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
-      },
-      "artists": [
-        {
-          "name": "Out of the Dust",
-          "url": "https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu"
-        },
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
-        }
-      ],
-      "duration_ms": 280413,
-      "name": "Take This",
-      "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Providence",
         "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 222666,
       "name": "Belovedness",
       "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Now More Than Ever",
+        "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
+      },
+      "artists": [
+        {
+          "name": "Out of the Dust",
+          "url": "https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu"
+        },
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "duration_ms": 280413,
+      "name": "Take This",
+      "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
     },
     {
       "added_at": "2021-10-31 01:35:26",

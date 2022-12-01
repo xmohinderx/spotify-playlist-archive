@@ -4,7 +4,7 @@
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-1,007 songs - 2 day 13 hr 29 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+1,008 songs - 2 day 13 hr 33 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,8 @@
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 3:59 | 2022-01-19 | 2022-07-29 |
 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 | 2022-09-14 |  |
 | [Kiss \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7Kfpow0FQwvw3xxrRdXgf9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 4:03 | 2022-01-19 |  |
-| [Kiss from God \- mint Singles](https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3YP0uoO3xoPEVCPX7b3CbV) | 3:48 | 2022-01-19 |  |
+| [Kiss from God \- mint Singles](https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3YP0uoO3xoPEVCPX7b3CbV) | 3:48 | 2022-01-19 | 2022-12-01 |
+| [Kiss from God \- mint Singles](https://open.spotify.com/track/5XFTW0rJnYwicp5Db3YRCf) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3luU3JrWxKBSf71MbpYiAu) | 3:48 | 2022-10-26 |  |
 | [Kiwi \- Spotify Singles](https://open.spotify.com/track/1b1rfsxSu3LqIVZjTWxZol) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 2:57 | 2022-07-05 |  |
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2022-01-19 |  |
 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 | 2022-01-19 |  |

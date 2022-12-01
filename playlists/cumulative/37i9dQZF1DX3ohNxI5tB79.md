@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-163 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+164 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Traingazing](https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing](https://open.spotify.com/album/5r9C08yALmCzzArnWeoxHC) | 3:34 | 2021-12-13 | 2022-04-06 |
 | [Unweaving the Rainbow Forever](https://open.spotify.com/track/4Yu599Am0GHlAMsnq158GD) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Unweaving the Rainbow Forever](https://open.spotify.com/album/3pY3Al7uDtfIaoayZ6KwEV) | 3:17 | 2021-12-13 |  |
 | [Upside](https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Upside](https://open.spotify.com/album/5huXDLGFyTBjbtYxjilbJ1) | 2:50 | 2021-12-13 | 2022-05-18 |
-| [Voodoo](https://open.spotify.com/track/1gEapwDvWRtyK8aOAlCYAX) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/0SPo1dCxCB2boKeSGI7tVf) | 3:16 | 2022-07-05 |  |
+| [Voodoo](https://open.spotify.com/track/1gEapwDvWRtyK8aOAlCYAX) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/0SPo1dCxCB2boKeSGI7tVf) | 3:16 | 2022-07-05 | 2022-12-01 |
+| [Voodoo](https://open.spotify.com/track/58uTw3T5gfAMvvQuNhJPJH) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/69nKR9FuDEnEw9b528RH1l) | 3:16 | 2022-10-30 |  |
 | [Voodoo](https://open.spotify.com/track/6L3Vs1lEEAPXRiIdJiGHIc) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Voodoo](https://open.spotify.com/album/4kdHU46cLDeOIwOjlRpbAf) | 3:16 | 2021-12-13 | 2022-07-29 |
 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 | 2022-06-21 |  |
 | [Wandering Ways](https://open.spotify.com/track/0Nkp56EKreoWMYxpXJqUNZ) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/1uGIwfw9F1lR7TDDukbNyQ) | 2:48 | 2022-07-05 |  |

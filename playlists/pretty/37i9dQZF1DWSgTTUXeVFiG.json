@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 10436,
+  "num_followers": 10465,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDUyMzRlZDU2MmY1NmVhMzdiMzgxMWE0ZWIzNzg1NGNh",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGVhYTdlYTczMzM4MGNiMzQ5NjhjZWY1MDA0ZTg0MGNm",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
-      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
         "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 424066,
       "name": "Quiero Morir en Tu Piel - En Vivo",
       "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
+      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Todos Vuelven Live, Vol. 2",
-        "url": "https://open.spotify.com/album/1hFypiuMxAkEGse2l0JdsY"
-      },
-      "artists": [
-        {
-          "name": "Ruben Blades y Seis del Solar",
-          "url": "https://open.spotify.com/artist/0Rx4tJspA1e5V2TZFzy0d5"
-        }
-      ],
-      "duration_ms": 489853,
-      "name": "Pedro Navaja - Live",
-      "url": "https://open.spotify.com/track/02JsgAcJTmrN9RXWjjhjH5"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "40 Aniversario: EN VIVO",
         "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "El Cantante - Live",
+      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "A Night Of Salsa",
         "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+        "name": "30 A\u00f1os de Power",
+        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 177720,
-      "name": "El Cantante - Live",
-      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
+      "duration_ms": 330800,
+      "name": "Qui\u00e9reme Tal Como Soy - Live",
+      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
     }
   ],
   "unique_name": "Vivo de Salsa",

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSWHOzidsSnO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSWHOzidsSnO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWHOzidsSnO)
 
-### [EQUAL Colombia](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
+### [Lo Mejor de EQUAL Colombia 2022](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Las Villa y más mujeres, a todo volumen!
+> Nuestras destacadas de 2022\. ¡Shakira y más mujeres, a todo volumen!
 
-129 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+130 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [La Parcera](https://open.spotify.com/track/5JWpcxLcC41EaKGOimEUlV) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Parcera](https://open.spotify.com/album/05kaSB2HeYy1t4aCmOeNWb) | 2:58 | 2022-01-05 |  |
 | [La Sentada](https://open.spotify.com/track/6iql0jmyrOmtI58SGMI3IJ) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Más Canciones Crudas](https://open.spotify.com/album/72xjCUlKRiJbEtQo9Zt9BV) | 2:28 | 2022-01-05 | 2022-03-11 |
 | [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 | 2022-01-05 | 2022-09-09 |
+| [Las de la Intuición](https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:40 | 2022-11-30 |  |
 | [León](https://open.spotify.com/track/6Yz79UMkQgpkeelujnkbIh) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Mis Amores](https://open.spotify.com/album/1spQ6P6TdE9gqf14SoKJQa) | 2:56 | 2022-01-05 | 2022-03-05 |
 | [Lluviare](https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Sodot a Rama](https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8) | 4:40 | 2022-01-05 |  |
 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 | 2022-03-04 | 2022-09-09 |
@@ -77,7 +78,7 @@
 | [Mañana Sale el Sol](https://open.spotify.com/track/2Ow881dT1aqqHsyBQtLxOQ) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX) | [Mañana Sale el Sol](https://open.spotify.com/album/6OOZcZT4nMUHSYWu7MkANQ) | 3:12 | 2022-11-02 |  |
 | [Me Duele](https://open.spotify.com/track/2srklBkaBf5cCIeVCmyZso) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Me Duele](https://open.spotify.com/album/5rnykaeDDoPwOTG0e6PuKN) | 3:10 | 2022-01-05 |  |
 | [Me Liberé](https://open.spotify.com/track/1hCaiILikh8EbuuvHi8aVX) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc), [Guafa Trío](https://open.spotify.com/artist/6mtgqH9aTL4tvdBheEoaN6) | [Me Liberé](https://open.spotify.com/album/30gLK3cqK2HuoG1PmgOZZk) | 4:15 | 2022-01-05 | 2022-03-10 |
-| [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-05-06 |  |
+| [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-05-06 | 2022-12-01 |
 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 | 2022-01-05 | 2022-03-05 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-08 |  |
 | [Mujer Desastre](https://open.spotify.com/track/5vmnUDKeC89lNuoHJfX0ks) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 3:17 | 2022-05-04 |  |

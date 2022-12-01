@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14742,
+  "num_followers": 14751,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDRmMjdkNTA0Y2IzODYxNWEzOGVlNmE5MTUyM2ExODQx",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDFkZTg0MmIwYTYyMjQ4MDJhNGZmOGNkYjM5ZjE2NzUx",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Think About Us (90's Club Mix)",
+        "url": "https://open.spotify.com/album/7lgjtyhPv90ixeruOV4jvz"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        },
+        {
+          "name": "Lorne",
+          "url": "https://open.spotify.com/artist/2wHF1TMPlk7tgzmEWAjPpR"
+        }
+      ],
+      "duration_ms": 194904,
+      "name": "Think About Us - 90's Club Mix",
+      "url": "https://open.spotify.com/track/6FANeHrcPH8cDFUgty6jDS"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Your Love (9PM) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/1H9wSqKGrpJmZV1C0Ipzuw"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 186531,
       "name": "Your Love (9PM) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3ZUGQQQdTteMWdPg2bvLsp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Think About Us (90's Club Mix)",
-        "url": "https://open.spotify.com/album/7lgjtyhPv90ixeruOV4jvz"
-      },
-      "artists": [
-        {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        },
-        {
-          "name": "Lorne",
-          "url": "https://open.spotify.com/artist/2wHF1TMPlk7tgzmEWAjPpR"
-        }
-      ],
-      "duration_ms": 194904,
-      "name": "Think About Us - 90's Club Mix",
-      "url": "https://open.spotify.com/track/6FANeHrcPH8cDFUgty6jDS"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Alive - Solomun Remix Edit",
+      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Stars Align (The Remixes)",
         "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 266666,
       "name": "Spa - James Hype Remix",
       "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Alive - Solomun Remix Edit",
-      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1611,30 +1611,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Nightlight (The Remixes, Vol. 2)",
-        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Nightlight - MOTi Remix",
-      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
         "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 142106,
       "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
       "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Nightlight (The Remixes, Vol. 2)",
+        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Nightlight - MOTi Remix",
+      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Hearts on Fire (The Remixes)",
         "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 213878,
       "name": "Hearts on Fire - CORSAK & Willim Remix",
       "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Hadal Ahbek (R3HAB Club Remix)",
-        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 176343,
-      "name": "Hadal Ahbek - R3HAB Club Remix",
-      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
     },
     {
       "added_at": "2021-07-30 04:00:00",

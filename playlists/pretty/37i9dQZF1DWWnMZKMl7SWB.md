@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,584 likes - 216 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,573 likes - 216 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 153 | [Stay \(feat\. Dive Deep\) \- Machinedrum Remix](https://open.spotify.com/track/4Zdd7X7z6HWOBNEaVxZwtR) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Dive Deep](https://open.spotify.com/artist/5MdvbtcRkC5dHjMyeFbPtS), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Cyclical \(Remixes\)](https://open.spotify.com/album/5ZgtiOUBGq70vNV9k7YMNz) | 3:27 |
 | 154 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
 | 155 | [Oh!](https://open.spotify.com/track/2yjRx5E794bHknceHZQdK0) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 4:08 |
-| 156 | [In the Midst of It All](https://open.spotify.com/track/6vPDjg4zuLlJrzgm9vqZCj) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 5:42 |
+| 156 | [In the Midst of It All](https://open.spotify.com/track/1TLHZcMQRMgW3N7hjh9Zlu) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Beat Tape 2](https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN) | 5:42 |
 | 157 | [All Of Us](https://open.spotify.com/track/1a1EL7PABTujajg6YwsOk2) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Vegetal: Offshoots EP](https://open.spotify.com/album/17O1CApsERLnvq52PbZZXE) | 4:08 |
 | 158 | [Lying Together](https://open.spotify.com/track/1WNOscEdUrRvDwHotfeAW5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:28 |
 | 159 | [Places](https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh) | 5:02 |
@@ -204,11 +204,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 194 | [Dreamer's Wake](https://open.spotify.com/track/320ePMZ8X0ugeffZk0wNzY) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:04 |
 | 195 | [1989 \(feat\. Ludwig Kölsch\)](https://open.spotify.com/track/6rrwmDaDa3n7hgQruR3dc1) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Ludwig Kölsch](https://open.spotify.com/artist/067CLGy5KVqspnGEvIWTp8) | [1989](https://open.spotify.com/album/41untqRtFjqcOw1gEdMIop) | 0:59 |
 | 196 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 |
-| 197 | [Interlude](https://open.spotify.com/track/0AV6NavKfgyIe7z8tU4sdy) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [TERRITORY](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 1:23 |
+| 197 | [INTERLUDE](https://open.spotify.com/track/0AV6NavKfgyIe7z8tU4sdy) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [TERRITORY](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 1:23 |
 | 198 | [Observatory](https://open.spotify.com/track/6IbVND7VnLo5wVDAFZs5Tf) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [Observatory](https://open.spotify.com/album/0XuLa3kPxRlThLGCkNni0r) | 2:14 |
 | 199 | [A Moment Apart](https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:54 |
 | 200 | [Never Lost](https://open.spotify.com/track/1YqOZ2frFFiyMIkAuKH48k) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/6wwiwIueaNNBxuabXP39VZ) | 6:46 |
-| 201 | [Prelude](https://open.spotify.com/track/1q1p0bsfEgqXDEWo1kx363) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [TERRITORY](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 1:52 |
+| 201 | [PRELUDE](https://open.spotify.com/track/1q1p0bsfEgqXDEWo1kx363) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [TERRITORY](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 1:52 |
 | 202 | [Eros](https://open.spotify.com/track/6ne3tIEFnUcotoQ7VWZ1L8) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [HUMAN](https://open.spotify.com/album/28qORmS5JCCsIEXzXnuzVO) | 4:07 |
 | 203 | [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 |
 | 204 | [Club der Ewigkeiten](https://open.spotify.com/track/2ywFTaCXKedBFlYA0XcHJM) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:09 |
@@ -220,9 +220,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 210 | [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 |
 | 211 | [Body Language \- Interpretation](https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ) | 5:00 |
 | 212 | [SHE](https://open.spotify.com/track/2u8GDlTkOd3bLSXJM8ZmXg) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:38 |
-| 213 | [Beautiful Escape](https://open.spotify.com/track/5MChi9fdCbTIWDJPPUuuW6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 4:36 |
+| 213 | [Beautiful Escape](https://open.spotify.com/track/6m0lkuDCha77hh7tB5J7IO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN) | 4:36 |
 | 214 | [Finally Moving](https://open.spotify.com/track/3WS7spXVlbeC5kjePmHMQW) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [Taking up Your Precious Time](https://open.spotify.com/album/5E5U9ckjlBvJ3qkNAAqESY) | 4:37 |
 | 215 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 216 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2ODE4NTcwOSwwMDAwMDAwMDk2ZTNhZDc5MDQ1YmIxMGU4YjNmODI1M2Y2ZjRlNWNh`
+Snapshot ID: `MTY2ODE4NTcwOSwwMDAwMDAwMDc0NjlkMTBkMjBkMDllZDc1OGM2ZTM1NjdkNzYwOGE0`

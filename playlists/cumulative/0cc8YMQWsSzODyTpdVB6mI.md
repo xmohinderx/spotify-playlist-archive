@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-103 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+104 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [elevate in the village](https://open.spotify.com/track/0ZRKOmFI20AOF2XNKyL4kZ) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [elevate in the village](https://open.spotify.com/album/1hAzBTggPEPrDDVAq1Hktz) | 3:17 | 2021-11-05 |  |
 | [ENTROPY/](https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [ENTROPY/](https://open.spotify.com/album/0A0F6DDqKOEFHXPdPX0ghm) | 3:37 | 2022-05-06 | 2022-07-12 |
 | [Everything Is Changing \- Radio Edit](https://open.spotify.com/track/5aTCZ0Hc3GtpqcC6mCKTyY) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Everything Is Changing](https://open.spotify.com/album/02yAJpRDnL6aMkVenvEUlt) | 3:11 | 2022-10-03 |  |
+| [Fake My Heart](https://open.spotify.com/track/4kQNrp1ckyNhUbODrGBDVt) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Fake My Heart](https://open.spotify.com/album/7soqzqK8vd3EeMYbrFEqvM) | 3:36 | 2022-11-30 |  |
 | [Feel It Out](https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Feel It Out](https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9) | 3:16 | 2021-11-05 |  |
 | [Feel's Like Someone's Comin'](https://open.spotify.com/track/2EVGocaGZCElznJxqmg2yn) | [Joe Lewandowski](https://open.spotify.com/artist/7vElnPfV9oKuSqfN1Zptbl) | [Feel's Like Someone's Comin'](https://open.spotify.com/album/6oHfW34zDkRBzaldkpGnUt) | 3:03 | 2022-10-17 |  |
 | [Fire](https://open.spotify.com/track/7ey8VyqgIjVqXQWM2kWkZM) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 4:02 | 2021-11-05 |  |
@@ -51,7 +52,7 @@
 | [I Can Talk](https://open.spotify.com/track/0Krxo9CPCj98TR3QHqSb8N) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Kitsuné: I Can Talk \(Remixes\)](https://open.spotify.com/album/0DDPS6mumu79yYixnXOVZF) | 2:57 | 2021-11-05 |  |
 | [I Don't](https://open.spotify.com/track/5yFtC081hlnMkXiZruPMmf) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [I Don't](https://open.spotify.com/album/51dAGL3zPrDnGfKj24Sqz2) | 3:10 | 2022-11-28 |  |
 | [I'll Give You Dedication](https://open.spotify.com/track/5V6zXDdVD7l87y5AxtvUoR) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [I'll Give You Dedication](https://open.spotify.com/album/4vrGADeX4iagpCw2MnOORv) | 2:47 | 2022-10-14 |  |
-| [Icy](https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws) | [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Icy](https://open.spotify.com/album/4ZAkDbkETjOwhUAt6f0fV5) | 2:44 | 2022-09-05 |  |
+| [Icy](https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws) | [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Icy](https://open.spotify.com/album/4ZAkDbkETjOwhUAt6f0fV5) | 2:44 | 2022-09-05 | 2022-12-01 |
 | [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 | 2022-07-09 |
 | [Inside Times](https://open.spotify.com/track/5yiXsIhgEhouvwNsNc6XIE) | [Josh Dives](https://open.spotify.com/artist/0D5RZwiNLoTfvvV1JoySmS) | [Inside Times](https://open.spotify.com/album/5KMl2yl1vBZmheg5NtLqKN) | 3:46 | 2022-11-04 |  |
 | [IPANEMA](https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_II](https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ) | 2:58 | 2022-07-20 | 2022-10-15 |

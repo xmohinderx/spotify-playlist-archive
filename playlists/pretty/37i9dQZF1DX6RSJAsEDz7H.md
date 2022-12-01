@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,000 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,993 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 19 | [Salgo Pa' la Calle](https://open.spotify.com/track/5hpwyyJJ2JyozFVVRJsfLp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 4:27 |
 | 20 | [Tukuntazo](https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Tukuntazo](https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ) | 3:17 |
 | 21 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 |
-| 22 | [Vacilar Contigo](https://open.spotify.com/track/05HWPXzqfWx6Xm2YpS4Iuk) | [NEJO](https://open.spotify.com/artist/2RbTV4rZYfdNkxFE9SSdG3) | [Ñejo & Dalmata Special Edition](https://open.spotify.com/album/0McVcBl1mlbonAbwEnb6W0) | 3:15 |
+| 22 | [Vacilar Contigo](https://open.spotify.com/track/5ktUa06LisFFjJZG2BmH2y) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Ñejo & Dalmata \(Special Edition\)](https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo) | 3:15 |
 | 23 | [XULITA \(feat\. Kaydy Cain\)](https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [PERREAMOS?](https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY) | 3:04 |
 | 24 | [Body So Good](https://open.spotify.com/track/0aVoXMbwzqgnW1H79Hm0h6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:37 |
 | 25 | [Calle Luna Calle Sol](https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 3:48 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 49 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 |
 | 50 | [Time \(You and I\)](https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 5:42 |
 | 51 | [Jazz Carnival](https://open.spotify.com/track/1cRYUgztsBj28Crkm0viDq) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Light As A Feather](https://open.spotify.com/album/4Bc3Vi6eMdJKEGN3haOTGF) | 9:33 |
-| 52 | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/5VbMIDLX6R4pyoWhy2kO7q) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/4jETOwgldZeg0b8VrM5mKW) | 3:37 |
+| 52 | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/0Cfs5hD4TUSmBE7Ta1CgwY) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [Bim Bam Bam \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/70vIB12zLNnfvIiQ9YY9hC) | 3:37 |
 | 53 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 |
 | 54 | [1988 \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/4ZpNY4Hu3zKusyeXpCTTPj) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [1988 \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/5Qjyud5y495lJIP8BqdSOf) | 1:27 |
 | 55 | [A Wah!](https://open.spotify.com/track/4jlkDOIA2nYRbYB5GWmXPN) | [Kemikal](https://open.spotify.com/artist/6kWz9Z4dbJTbylNMUirRN5) | [A Wah! \- Single](https://open.spotify.com/album/3YyutCpXgN4DXh2t23JeoI) | 3:52 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 137 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 138 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
 
-Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMGFkYzBhODU3ZDk3NmY3YjMxN2FkOTVkMmNjMzI4NjJk`
+Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMDFjZTk4NmVhYmE5NjI5ZGZmMWFlYTAzYjg5MTE5ZjIz`

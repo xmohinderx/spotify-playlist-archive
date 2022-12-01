@@ -579,10 +579,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 269346,
       "name": "Lilac Dreams",
       "url": "https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7"
+    },
+    {
+      "album": {
+        "name": "Sleeping Lotus",
+        "url": "https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt"
+      },
+      "artists": [
+        {
+          "name": "Li Xiangting",
+          "url": "https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269346,
+      "name": "Lilac Dreams",
+      "url": "https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa"
     },
     {
       "album": {

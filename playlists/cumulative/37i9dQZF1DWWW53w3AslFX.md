@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-167 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
+170 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,8 @@
 | [Gemini Feed](https://open.spotify.com/track/1je8teAQYtOnzG7c10MTw5) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Gemini Feed](https://open.spotify.com/album/08TBfp6GDtlh8W8m82yi6l) | 3:06 | 2021-06-15 |  |
 | [Gigantic](https://open.spotify.com/track/3oqJ3POeLfa2TJh6BFLhPM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 3:57 | 2021-06-15 | 2022-07-29 |
 | [Gigantic \- Remastered](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 | 2021-06-15 |  |
-| [Girls](https://open.spotify.com/track/0MxBQqV3C815arNjQneuPp) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/0iRoxFYM88dGcdc1zVWo60) | 3:03 | 2021-06-15 | 2022-07-29 |
-| [Girls](https://open.spotify.com/track/0Whht4DTOTuEmTxKEakY7H) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/3szjY405NzyqqNB4EUfxRq) | 3:03 | 2021-06-15 |  |
+| [Girls](https://open.spotify.com/track/0MxBQqV3C815arNjQneuPp) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/0iRoxFYM88dGcdc1zVWo60) | 3:03 | 2021-06-15 |  |
+| [Girls](https://open.spotify.com/track/0Whht4DTOTuEmTxKEakY7H) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/3szjY405NzyqqNB4EUfxRq) | 3:03 | 2021-06-15 | 2022-12-01 |
 | [Go Slow](https://open.spotify.com/track/1j3uIrLXLDOP22tfatPGzr) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/2cPtwht6jraEtqjejHqMu7) | 3:32 | 2021-06-15 | 2022-07-29 |
 | [Go Slow](https://open.spotify.com/track/6zNufd1SQ8kdhhZVLhH5iD) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 3:32 | 2021-06-15 |  |
 | [Gold](https://open.spotify.com/track/5wxlrzKPaXfVklZBHdc6mk) | [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Flashbacks & Futures](https://open.spotify.com/album/6SAXfaWasm91BBreJCxPcx) | 4:14 | 2021-06-15 |  |
@@ -112,13 +112,15 @@
 | [Old Man](https://open.spotify.com/track/15xbkn7Layn9MhRTpFSdZP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW) | 3:33 | 2021-06-15 |  |
 | [Old Man](https://open.spotify.com/track/6dZSq3SqjIVuU6IuZA9tTP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Old Man](https://open.spotify.com/album/4BLAzanhdDtehNkInmq0f9) | 3:33 | 2021-06-15 | 2022-07-29 |
 | [OPEN SEA](https://open.spotify.com/track/1F08ERcR0x0T4pblOQmFoC) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [OPEN SEA](https://open.spotify.com/album/2c6OYljACs4DrtNqjfD5sb) | 4:29 | 2021-06-15 | 2022-10-13 |
-| [OPEN SEA](https://open.spotify.com/track/3iZ63uiZXAVDZc0yo2tnr0) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [REMEMBER THE FUTURE](https://open.spotify.com/album/5xyWsAqswCJa5sF2Lm7h5T) | 4:30 | 2021-06-15 |  |
+| [OPEN SEA](https://open.spotify.com/track/3iZ63uiZXAVDZc0yo2tnr0) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [REMEMBER THE FUTURE](https://open.spotify.com/album/5xyWsAqswCJa5sF2Lm7h5T) | 4:30 | 2021-06-15 | 2022-12-01 |
+| [OPEN SEA](https://open.spotify.com/track/436dUUwBFNBUKhYKmLAUdl) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [REMEMBER THE FUTURE](https://open.spotify.com/album/1IB00taK9STT8kD9w8QkrJ) | 4:30 | 2021-06-15 |  |
 | [Play](https://open.spotify.com/track/1lj1ULJD4xZAFOZdMJny4k) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP) | [Winter](https://open.spotify.com/album/5vKJz47rX1KzD8wBsPfOij) | 5:14 | 2021-06-15 | 2022-11-13 |
 | [Play](https://open.spotify.com/track/6RCjXBBslkXmzZxOslZGlv) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP) | [Kin](https://open.spotify.com/album/4zvurcEdNNGMeg9kSjNOBT) | 5:14 | 2021-06-15 | 2022-07-29 |
 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 | 2021-06-15 |  |
 | [play](https://open.spotify.com/track/4G6NCI19p4AL7UYO4vEAKz) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/22GqBntPW6pTyOTb3RjMFF) | 5:14 | 2021-06-15 | 2022-10-13 |
 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 | 2021-06-15 |  |
-| [RAPIN\*](https://open.spotify.com/track/0LV28Z8dSU1lAel1YJx7AY) | [Jenny Wilson](https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB) | [RAPIN\*](https://open.spotify.com/album/5SrFOas4DlOLutsWlFNesD) | 3:24 | 2021-06-15 |  |
+| [RAPIN\*](https://open.spotify.com/track/0LV28Z8dSU1lAel1YJx7AY) | [Jenny Wilson](https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB) | [RAPIN\*](https://open.spotify.com/album/5SrFOas4DlOLutsWlFNesD) | 3:24 | 2021-06-15 | 2022-12-01 |
+| [RAPIN\*](https://open.spotify.com/track/6txOeaEqHXFOa95uzXqGCF) | [Jenny Wilson](https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB) | [EXORCISM](https://open.spotify.com/album/0zuqVz7ENCfgrCS4tDgVxW) | 3:24 | 2021-06-15 |  |
 | [Riverside](https://open.spotify.com/track/1UmFRZU3taMGZApPhK32mc) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/79JZVTdAztJJEYm6xtDzBM) | 3:48 | 2021-06-15 | 2022-07-29 |
 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 | 2021-06-15 |  |
 | [Riverside](https://open.spotify.com/track/7idJS1YOV1eABaJE8iQsEK) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics \(Deluxe Edition\)](https://open.spotify.com/album/3Mj2AdZblvorS19tdG95hZ) | 3:48 | 2021-06-15 | 2022-11-14 |
@@ -158,7 +160,8 @@
 | [Tvivlar](https://open.spotify.com/track/1DfKtnw4TTGuCZLTq67lW7) | [Donika Nimani](https://open.spotify.com/artist/4zUMIrBhG8wfW5g27vMlfC) | [Tvivlar](https://open.spotify.com/album/7aCYoWMW27LzSVOMRLXCYn) | 3:08 | 2021-06-15 | 2022-07-29 |
 | [Tvivlar](https://open.spotify.com/track/2fAVaPKHBy0memUwP9GP9n) | [Donika Nimani](https://open.spotify.com/artist/4zUMIrBhG8wfW5g27vMlfC) | [We Were on a Break \(Precis som Ross & Rach\)](https://open.spotify.com/album/2FNcI42pduRrqraypdp937) | 3:08 | 2021-06-15 |  |
 | [Under Stars](https://open.spotify.com/track/0Q7hQ2yW4389NcgDko14Nd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Under Stars](https://open.spotify.com/album/5JA3Ls0DbFFYZxxGxJUUm9) | 3:19 | 2021-06-15 | 2022-07-29 |
-| [Under Stars](https://open.spotify.com/track/30W1d4YTsHE7BrMKVWHmEJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Under Stars](https://open.spotify.com/album/7i0BM1tVVFz4moEvse4gyb) | 3:19 | 2021-06-15 |  |
+| [Under Stars](https://open.spotify.com/track/2OBQu3ZS3vRHuXWzC4jZFB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Under Stars](https://open.spotify.com/album/74T0gk8jtHXIKF2mbe3gXA) | 3:19 | 2021-06-15 |  |
+| [Under Stars](https://open.spotify.com/track/30W1d4YTsHE7BrMKVWHmEJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Under Stars](https://open.spotify.com/album/7i0BM1tVVFz4moEvse4gyb) | 3:19 | 2021-06-15 | 2022-12-01 |
 | [Verklighet](https://open.spotify.com/track/3v4lScmKmSCSSOpq0d3S4n) | [Slowgold](https://open.spotify.com/artist/2Urxw4X90ya3LA8KqV2WIX) | [Mörkare](https://open.spotify.com/album/5zDICSnC15J4BwvSfANMIA) | 4:41 | 2021-06-15 |  |
 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 | 2021-06-15 |  |
 | [watch you sleep.](https://open.spotify.com/track/1D8dzHLebfGYyBbfkUQTW5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [chapter 2](https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb) | 3:00 | 2021-06-15 | 2022-11-14 |

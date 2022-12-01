@@ -404,6 +404,32 @@
     },
     {
       "album": {
+        "name": "Broken Love",
+        "url": "https://open.spotify.com/album/4SCPz1xCo9H8V2oasW8ST7"
+      },
+      "artists": [
+        {
+          "name": "metr",
+          "url": "https://open.spotify.com/artist/0RAWgVjsAEhbXPhqPGqd8n"
+        },
+        {
+          "name": "Adrian Benson",
+          "url": "https://open.spotify.com/artist/6pto9yK3v6ju1r8piPps1P"
+        },
+        {
+          "name": "Ima Sob\u00e9",
+          "url": "https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157998,
+      "name": "Broken Love",
+      "url": "https://open.spotify.com/track/55q35WjtYGNfsDFjGIFcWA"
+    },
+    {
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU"
       },
@@ -1897,6 +1923,24 @@
       "duration_ms": 216551,
       "name": "Patience",
       "url": "https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ"
+    },
+    {
+      "album": {
+        "name": "Pray For You",
+        "url": "https://open.spotify.com/album/2OPPQopBKbrfZkmrN4AveE"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171774,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/1fbWDbvTqqGiAGlz1HedTE"
     },
     {
       "album": {

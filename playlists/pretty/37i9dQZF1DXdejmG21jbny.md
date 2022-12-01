@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 
 > Chill instrumental ambient for slow, focused movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,154 likes - 271 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,161 likes - 271 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 103 | [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 |
 | 104 | [Shania](https://open.spotify.com/track/4qT4Srv4tmsn94cl0S0SzZ) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Shania](https://open.spotify.com/album/2q0jUrQW9uSwfr1EtXnBP4) | 2:22 |
 | 105 | [The Wish](https://open.spotify.com/track/5KLneBT09UJRMHrCvPCQe0) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [The Wish](https://open.spotify.com/album/1tmUGszdvl1lHeEx3IeyuD) | 3:49 |
-| 106 | [Forever](https://open.spotify.com/track/1RnywZoKSwcg8HLHpTXtq4) | [Erity Nama](https://open.spotify.com/artist/7qX88cH4K0ZCIOHJPah9ur) | [Forever](https://open.spotify.com/album/4SdcYWDPxgnBsTw0wc6bPU) | 2:55 |
+| 106 | [Forever](https://open.spotify.com/track/1RnywZoKSwcg8HLHpTXtq4) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Forever](https://open.spotify.com/album/4SdcYWDPxgnBsTw0wc6bPU) | 2:55 |
 | 107 | [Resolvation](https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Resolvation](https://open.spotify.com/album/78IWzcRF28DoxShxRrxrrT) | 2:56 |
 | 108 | [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 |
 | 109 | [Egyensúly](https://open.spotify.com/track/4gH0O4JlIMyvHHYqJ3hJXG) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Egyensúly](https://open.spotify.com/album/6LQGKx0QSk59TZGBDlvtVl) | 3:30 |

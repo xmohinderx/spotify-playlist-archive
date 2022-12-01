@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Francis On My Mind.
 
-499 songs - 1 day 3 hr 45 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+500 songs - 1 day 3 hr 47 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-28 |  |
 | [Play By Play](https://open.spotify.com/track/0fkgg7EwHGTvqcJnvUqXmp) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 2:37 | 2022-08-05 | 2022-10-08 |
 | [Play It Cool](https://open.spotify.com/track/7dnoIWcbnHhwGojoK7xg7G) | [SEKI](https://open.spotify.com/artist/2MdhltoGdV44xCcmAReBwQ) | [Play It Cool](https://open.spotify.com/album/2UNjHavimVf8J2hXNNrztL) | 4:23 | 2022-09-09 | 2022-10-15 |
-| [Play Pretend](https://open.spotify.com/track/0rpXpKiDSJ5QiAuo3JVky7) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/5fT75N3yGkZpVLHV4X90i8) | 2:24 | 2022-10-07 |  |
+| [Play Pretend](https://open.spotify.com/track/0rpXpKiDSJ5QiAuo3JVky7) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/5fT75N3yGkZpVLHV4X90i8) | 2:24 | 2022-10-07 | 2022-12-01 |
+| [Play Pretend](https://open.spotify.com/track/1vnqb52HFcKSrqsL2HRjM2) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:24 | 2022-11-25 |  |
 | [Podría Ser Peor](https://open.spotify.com/track/5F4KYrVRCX2Yt9dG3GR8vm) | [Mariana També](https://open.spotify.com/artist/0ug4Nxh6JXe7BQEL6eVvSR) | [Podría Ser Peor](https://open.spotify.com/album/17VVpGKcgErZ9nuF3fKGCq) | 4:18 | 2022-08-05 | 2022-11-12 |
 | [Ponerme Triste](https://open.spotify.com/track/77gjyozSjFxWdRhk2CouPU) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Ponerme Triste](https://open.spotify.com/album/1WXxYGzolOLQ1mLDAECUVy) | 2:51 | 2022-04-22 | 2022-06-18 |
 | [Ponza](https://open.spotify.com/track/5HfObWIsEfQ2PW5Kn57IId) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Ponza](https://open.spotify.com/album/3eeyeSBJ0KSAmhgf91dWhO) | 2:45 | 2022-01-14 | 2022-01-29 |

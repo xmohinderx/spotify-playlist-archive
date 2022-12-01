@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 23908,
+  "num_followers": 23925,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDU1YmNiOGYyN2YyMjdiYjMxMGUzYmFlN2UzYjgxNmRk",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMGY2Y2QxMWYzYmViOTY5NDQxODU3MmRlM2Y0NTlhMDNl",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -315,6 +315,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 231575,
-      "name": "Adicto - Salsa Version",
-      "url": "https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "No Pienso Caer",
         "url": "https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 231493,
       "name": "No Pienso Caer",
       "url": "https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 231575,
+      "name": "Adicto - Salsa Version",
+      "url": "https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cumbiana",
-        "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 250497,
-      "name": "Canci\u00f3n para Rub\u00e9n",
-      "url": "https://open.spotify.com/track/7dTyStawUmXzQmyUCVFl4p"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "La Serpiente",
         "url": "https://open.spotify.com/album/6DzpfNjxShOGaJeXrJyipv"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 255572,
       "name": "La Serpiente",
       "url": "https://open.spotify.com/track/4BRG6SROw2Oza2fGZfds6l"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Cumbiana",
+        "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 250497,
+      "name": "Canci\u00f3n para Rub\u00e9n",
+      "url": "https://open.spotify.com/track/7dTyStawUmXzQmyUCVFl4p"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Calmarme",
-        "url": "https://open.spotify.com/album/2QTppWNOvzOmf21bmIQ0Tw"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 157026,
-      "name": "Calmarme",
-      "url": "https://open.spotify.com/track/1QSxg9SECUk143XcnMKKgc"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Pa' Que Te Duela",
         "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 234899,
       "name": "Traiganme Alcohol",
       "url": "https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Calmarme",
+        "url": "https://open.spotify.com/album/2QTppWNOvzOmf21bmIQ0Tw"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 157026,
+      "name": "Calmarme",
+      "url": "https://open.spotify.com/track/1QSxg9SECUk143XcnMKKgc"
     },
     {
       "added_at": "2022-08-31 07:37:37",

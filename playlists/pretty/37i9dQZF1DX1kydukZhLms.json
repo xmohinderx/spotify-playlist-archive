@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best metal ballads.",
-  "num_followers": 1102026,
+  "num_followers": 1102458,
   "original_name": "Metal Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMGFkYzUwNjc5OTBhMjA0YTFmN2EwZjc1NmZmZWNiNGNi",
+  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMGNiYjcxZTNjZTc5MTdhZGEzODdhYjg5ZmZkMWUzOWM1",
   "tracks": [
     {
       "added_at": "2022-04-15 17:44:09",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 167906,
       "name": "Lonely Day",
       "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 190718,
       "name": "A Little Bit Off",
       "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL"
       },
       "artists": [
         {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
         }
       ],
-      "duration_ms": 210480,
-      "name": "To Be With You - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
+      "duration_ms": 254805,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL"
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
       "artists": [
         {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 254805,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3"
+      "duration_ms": 210480,
+      "name": "To Be With You - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -683,6 +683,26 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gonthier",
+          "url": "https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 201200,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Adam Gonthier",
-          "url": "https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Pyromania",
         "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 266728,
       "name": "Too Late For Love",
       "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+        "name": "Balls To Picasso (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
         }
       ],
-      "duration_ms": 273733,
-      "name": "Bringin' On The Heartbreak",
-      "url": "https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp"
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Balls To Picasso (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
-      },
-      "artists": [
-        {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
-        }
-      ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Tooth and Nail",
         "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 262200,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 273733,
+      "name": "Bringin' On The Heartbreak",
+      "url": "https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Sleeping (In The Fire)",
+      "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Maybe It\u2019s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)",
         "url": "https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 254200,
       "name": "Maybe It\u2019s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)",
       "url": "https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Sleeping (In The Fire)",
-      "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Ohne dich",
-      "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Mass Slaughter",
         "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 272240,
       "name": "Fly To The Angels",
       "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Ohne dich",
+      "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Dictator",
-        "url": "https://open.spotify.com/album/4cUVZzT8zNBkHjBfd4WiWS"
-      },
-      "artists": [
-        {
-          "name": "Daron Malakian and Scars On Broadway",
-          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
-        }
-      ],
-      "duration_ms": 256586,
-      "name": "Guns Are Loaded",
-      "url": "https://open.spotify.com/track/2SZF3qH7XF7205oNaeEs49"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Angels Cry",
         "url": "https://open.spotify.com/album/1VYp1m8Eo4AApycV8S44a7"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 279733,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/18d4wrjIe06xx5O5b7OfAu"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Dictator",
+        "url": "https://open.spotify.com/album/4cUVZzT8zNBkHjBfd4WiWS"
+      },
+      "artists": [
+        {
+          "name": "Daron Malakian and Scars On Broadway",
+          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
+        }
+      ],
+      "duration_ms": 256586,
+      "name": "Guns Are Loaded",
+      "url": "https://open.spotify.com/track/2SZF3qH7XF7205oNaeEs49"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Girls, Girls, Girls (2021 - Remaster)",
-        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 273800,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L"
+      "duration_ms": 231186,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf"
     }
   ],
   "unique_name": "Metal Ballads",

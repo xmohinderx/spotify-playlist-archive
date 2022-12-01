@@ -2,7 +2,7 @@
 
 ### [EQUAL Arabia ](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Manal
+> Listen to Arab women, at full volume\. Cover: Abeer Nehme
 
 360 songs - 21 hr 8 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
@@ -196,7 +196,7 @@
 | [Mawaqif](https://open.spotify.com/track/3LOqtToly651USdV4pOdXt) | [Shushu Nasser](https://open.spotify.com/artist/1zEVxr4BrEzvLZKofE4Mm2) | [Mawaqif](https://open.spotify.com/album/2Gjo2OBYTE59x8Y2JElDxH) | 3:44 | 2021-12-23 | 2022-02-28 |
 | [Mazaji 3ali](https://open.spotify.com/track/2jBtDB4dAOkOoDuW8onehv) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Mazaji 3ali](https://open.spotify.com/album/317vgHdnjZvEstZ2ibIpmt) | 2:42 | 2021-12-23 | 2022-03-02 |
 | [Mazal Lyam Dor](https://open.spotify.com/track/7CVP5B3WQKuYF067pfwE6F) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK), [Amine Naami](https://open.spotify.com/artist/1yKmMBiUav7nXjk8hbXXtH) | [Mazal Lyam Dor](https://open.spotify.com/album/1Yz1iL8qriZ4uvdLWAuBck) | 3:10 | 2022-03-03 | 2022-11-16 |
-| [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-08 | 2022-11-27 |
+| [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-08 |  |
 | [Meen Bint Sgheeri مين بنت صغيرة](https://open.spotify.com/track/0NdTGMo7HIf4tjFCT0vHVh) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Meen Bint Sgheeri مين بنت صغيرة](https://open.spotify.com/album/5VXW37C2muaHyfgQXQqXu2) | 3:13 | 2022-03-08 | 2022-07-29 |
 | [Merry Merry Christmas](https://open.spotify.com/track/5yWPZ5yXl5mwLUeP2DJVD1) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Merry Merry Christmas](https://open.spotify.com/album/0ZMRdzabgRQ0DOSYd2nyPz) | 1:22 | 2021-12-23 | 2022-03-02 |
 | [Mesbah](https://open.spotify.com/track/7pbZJtfkLNJnxm4mOEIlt0) | [Hamsa Mounif](https://open.spotify.com/artist/7iNChMreJjoaq0ur56xtmX) | [Mesbah](https://open.spotify.com/album/04xXIOb2FQw0BDyaiBTGDu) | 2:47 | 2021-12-23 | 2022-02-28 |
@@ -311,7 +311,7 @@
 | [امشي بدلع](https://open.spotify.com/track/1HPF3InztTmXGe2QeDnUAv) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [امشي بدلع](https://open.spotify.com/album/5ncFtjqyg2hY9Lzv9ktlrp) | 3:04 | 2022-03-01 | 2022-07-28 |
 | [انا احتاجك](https://open.spotify.com/track/04ZQgZa1PEItKpLsiQLLK4) | [Ohoud](https://open.spotify.com/artist/0LmXtrPxFrkkfMUATjnvat) | [انا احتاجك \- Single](https://open.spotify.com/album/6vYI45ZLaLjrnq9aFGNL3o) | 3:34 | 2021-12-23 | 2022-03-02 |
 | [انا من اهوي](https://open.spotify.com/track/3kR6yctM8Y53oZiaTezu8C) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [انا من اهوي](https://open.spotify.com/album/0HgUco6PvoCmT1PzbQbk6A) | 2:39 | 2021-12-30 | 2022-03-01 |
-| [بارانويا](https://open.spotify.com/track/4ftSokyNqnG2Ll7WvPvxk0) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [بارانويا](https://open.spotify.com/album/0Gw0dtQV7VRmk3ohl6IXzg) | 2:38 | 2022-11-19 |  |
+| [بارانويا](https://open.spotify.com/track/4ftSokyNqnG2Ll7WvPvxk0) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [بارانويا](https://open.spotify.com/album/0Gw0dtQV7VRmk3ohl6IXzg) | 2:38 | 2022-11-19 | 2022-12-01 |
 | [بقايا روح](https://open.spotify.com/track/70h1MK6V2eKLfnT4GbGCjn) | [غزل](https://open.spotify.com/artist/2afr1GrHTq32W1G4ZE9kQm) | [بقايا روح \- Single](https://open.spotify.com/album/1E8AanvkWYcOy10cV17pKD) | 4:16 | 2021-12-23 | 2022-03-02 |
 | [بوكر فيس](https://open.spotify.com/track/5VmrLKDtKuQ6LM2tskxYfv) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [Poker Face](https://open.spotify.com/album/07cc1pFdNFmSk0WEZ2x6Qr) | 2:50 | 2021-12-23 | 2022-03-02 |
 | [بيبان الخوف](https://open.spotify.com/track/2Ay6Pf8HGgkHV0IRo8Jx14) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [بيبان الخوف](https://open.spotify.com/album/33xgZCgn2Ue5yoiCPFO8w8) | 3:28 | 2021-12-23 | 2022-03-02 |

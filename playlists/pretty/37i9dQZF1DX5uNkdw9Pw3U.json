@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 55058,
+  "num_followers": 55124,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNjAwMCwwMDAwMDAwMDM5NDlhYzEzYzlkNTcxNmIwNDRlZmFmYWNkOTczZDlk",
+  "snapshot_id": "MTY2ODcyNjAwMCwwMDAwMDAwMDIyZmYzNjdhOTEzMGJhNzY5ODM0MjM1MzVjMjI1Yjhi",
   "tracks": [
     {
       "added_at": "2022-11-17 23:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/7ybd52CorRfQz6aueDDHU0"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
         "name": "Experience",
         "url": "https://open.spotify.com/album/4HUpIaMKPS0zPxMDl8P5fv"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/7ybd52CorRfQz6aueDDHU0"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Booty",
-        "url": "https://open.spotify.com/album/1wZUA48qppx695AaNY97a4"
-      },
-      "artists": [
-        {
-          "name": "Lil Halima",
-          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
-        },
-        {
-          "name": "Canto",
-          "url": "https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN"
-        }
-      ],
-      "duration_ms": 140924,
-      "name": "Booty",
-      "url": "https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Seasons (with Khalid)",
         "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 250001,
       "name": "Seasons (with Khalid)",
       "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Booty",
+        "url": "https://open.spotify.com/album/1wZUA48qppx695AaNY97a4"
+      },
+      "artists": [
+        {
+          "name": "Lil Halima",
+          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
+        },
+        {
+          "name": "Canto",
+          "url": "https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN"
+        }
+      ],
+      "duration_ms": 140924,
+      "name": "Booty",
+      "url": "https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z"
     },
     {
       "added_at": "2022-11-17 23:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-11-17 23:00:00",
       "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx"
-      },
-      "artists": [
-        {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/7b7vlu6R3ww0Hzvz50GQDh"
-    },
-    {
-      "added_at": "2022-11-17 23:00:00",
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 173809,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
+    },
+    {
+      "added_at": "2022-11-17 23:00:00",
+      "album": {
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/7b7vlu6R3ww0Hzvz50GQDh"
     },
     {
       "added_at": "2022-11-17 23:00:00",

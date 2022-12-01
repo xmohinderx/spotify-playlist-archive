@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 107678,
+  "num_followers": 107746,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTczNDAwMCwwMDAwMDAwMDY0OTAxYjU1OGViOGY3N2U3NzA5NjI0M2RlNzgzMmIx",
+  "snapshot_id": "MTY2OTczNDAwMCwwMDAwMDAwMGQ2MzI0M2U5YzA3YzRmMGNjODcxYzBjNmQxNGI5OWJm",
   "tracks": [
     {
       "added_at": "2022-11-29 15:00:00",
@@ -47,7 +47,7 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "Mirage Op.4 - Collective ver.",
+        "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
       "artists": [
@@ -66,10 +66,14 @@
         {
           "name": "YONCE (Suchmos)",
           "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
+        },
+        {
+          "name": "\u9577\u6fa4\u307e\u3055\u307f",
+          "url": "https://open.spotify.com/artist/6GjALwVkZtW4lkr2vAe24n"
         }
       ],
       "duration_ms": 268119,
-      "name": "Mirage Op.4 - Collective ver.",
+      "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
     },
     {
@@ -503,42 +507,6 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "Love In The Way",
-        "url": "https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 221534,
-      "name": "Love In The Way",
-      "url": "https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
-        "name": "NEXT 2 U",
-        "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
-      },
-      "artists": [
-        {
-          "name": "ego apartment",
-          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
-        }
-      ],
-      "duration_ms": 169484,
-      "name": "NEXT 2 U",
-      "url": "https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -559,18 +527,18 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ"
+        "name": "NEXT 2 U",
+        "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
       },
       "artists": [
         {
-          "name": "Yoko Kuzuya",
-          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
         }
       ],
-      "duration_ms": 283933,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
+      "duration_ms": 169484,
+      "name": "NEXT 2 U",
+      "url": "https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -595,6 +563,42 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kuzuya",
+          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
+        "name": "Love In The Way",
+        "url": "https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 221534,
+      "name": "Love In The Way",
+      "url": "https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -699,46 +703,6 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
-        "name": "Bayside Lover",
-        "url": "https://open.spotify.com/album/6d2qlAU7swT2j5rkSwrGFd"
-      },
-      "artists": [
-        {
-          "name": "DJ HASEBE",
-          "url": "https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW"
-        },
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "Bayside Lover",
-      "url": "https://open.spotify.com/track/0hQfPQFUIkORbgj6rZtswa"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
         "name": "VIVID",
         "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
       },
@@ -755,6 +719,46 @@
       "duration_ms": 193120,
       "name": "VIVID",
       "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
+        "name": "Bayside Lover",
+        "url": "https://open.spotify.com/album/0dM5w3G09YZRE7SN3eMsbe"
+      },
+      "artists": [
+        {
+          "name": "DJ HASEBE",
+          "url": "https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW"
+        },
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "Bayside Lover",
+      "url": "https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -799,22 +803,6 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "move",
-      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -831,6 +819,22 @@
       "duration_ms": 214468,
       "name": "erase me",
       "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "move",
+      "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -963,22 +967,6 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
       },
@@ -995,6 +983,22 @@
       "duration_ms": 143181,
       "name": "friends",
       "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "e-motions (with Erika de Casier)",
-        "url": "https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He"
+        "name": "The World",
+        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 168723,
-      "name": "e-motions (with Erika de Casier)",
-      "url": "https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU"
+      "duration_ms": 186453,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "The World",
-        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
+        "name": "e-motions (with Erika de Casier)",
+        "url": "https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He"
       },
       "artists": [
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         }
       ],
-      "duration_ms": 186453,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
+      "duration_ms": 168723,
+      "name": "e-motions (with Erika de Casier)",
+      "url": "https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "My Baby Just Cares For Me (HONNE Remix)",
-        "url": "https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l"
+        "name": "\u6771\u4eaccruisin'",
+        "url": "https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 231273,
-      "name": "My Baby Just Cares For Me - HONNE Remix",
-      "url": "https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m"
+      "duration_ms": 188569,
+      "name": "\u6771\u4eaccruisin'",
+      "url": "https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -1511,18 +1511,22 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "\u6771\u4eaccruisin'",
-        "url": "https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne"
+        "name": "My Baby Just Cares For Me (HONNE Remix)",
+        "url": "https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         }
       ],
-      "duration_ms": 188569,
-      "name": "\u6771\u4eaccruisin'",
-      "url": "https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399"
+      "duration_ms": 231273,
+      "name": "My Baby Just Cares For Me - HONNE Remix",
+      "url": "https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

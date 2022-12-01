@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 52687,
+  "num_followers": 52704,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDlkYjI2ZjQxZWVmMTUwNjZiMjI0MGUwYWEwZWVjODBh",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDZiYjJmMmNiZjUxMzc1ZmUxZGNiOTc1MmNiYjI2M2Ni",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Pinta y Colorea",
         "url": "https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 257170,
       "name": "Cosas raras (feat. Pimp Flaco)",
       "url": "https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "otro lugar \u2022 despertar",
+        "url": "https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 186155,
+      "name": "otro lugar \u2022 despertar",
+      "url": "https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Ciencia Ficci\u00f3n",
         "url": "https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "otro lugar \u2022 despertar",
-        "url": "https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 186155,
-      "name": "otro lugar \u2022 despertar",
-      "url": "https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
+      },
+      "artists": [
+        {
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "COLAPSO",
         "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
       },
@@ -739,26 +755,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Marinero",
-        "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
-      },
-      "artists": [
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        },
-        {
-          "name": "CARRE\u00d1O",
-          "url": "https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw"
-        }
-      ],
-      "duration_ms": 204562,
-      "name": "Marinero",
-      "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
       },
@@ -775,18 +771,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
+        "name": "Marinero",
+        "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
       },
       "artists": [
         {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        },
+        {
+          "name": "CARRE\u00d1O",
+          "url": "https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw"
         }
       ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+      "duration_ms": 204562,
+      "name": "Marinero",
+      "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -875,22 +875,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd"
       },
       "artists": [
         {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
         },
         {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+      "duration_ms": 172384,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -911,22 +911,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd"
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
       },
       "artists": [
         {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
         },
         {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 172384,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0"
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Limbo Habitual, Vol. I",
-        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Musa introvertida",
-      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 161531,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Limbo Habitual, Vol. I",
+        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Musa introvertida",
+      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Pedazos",
-        "url": "https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 164999,
-      "name": "Pedazos",
-      "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Coronita",
         "url": "https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 223354,
       "name": "Coronita",
       "url": "https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Pedazos",
+        "url": "https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Pedazos",
+      "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203"
-      },
-      "artists": [
-        {
-          "name": "Rada Mancy",
-          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
-        },
-        {
-          "name": "LOWLIGHT",
-          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Atajo",
         "url": "https://open.spotify.com/album/114IoHxDs2zmo1imnM3MHA"
       },
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203"
+      },
+      "artists": [
+        {
+          "name": "Rada Mancy",
+          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Postre",
         "url": "https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN"
       },
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
+        "name": "A Medio Paso de Tu Amor",
+        "url": "https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl"
       },
       "artists": [
         {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
         }
       ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
+      "duration_ms": 225500,
+      "name": "A Medio Paso de Tu Amor",
+      "url": "https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1271,18 +1271,46 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "A Medio Paso de Tu Amor",
-        "url": "https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl"
+        "name": "Simona a Guitarra y Voz (Lado A)",
+        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
       },
       "artists": [
         {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
         }
       ],
-      "duration_ms": 225500,
-      "name": "A Medio Paso de Tu Amor",
-      "url": "https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7"
+      "duration_ms": 247636,
+      "name": "Paredes Finas",
+      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "La Guarida",
+        "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
+      },
+      "artists": [
+        {
+          "name": "Julian Mourin",
+          "url": "https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        },
+        {
+          "name": "Mei demayo",
+          "url": "https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV"
+        },
+        {
+          "name": "Juan ortiz",
+          "url": "https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "La Guarida",
+      "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1339,34 +1367,6 @@
       "duration_ms": 181672,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "La Guarida",
-        "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
-      },
-      "artists": [
-        {
-          "name": "Julian Mourin",
-          "url": "https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw"
-        },
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        },
-        {
-          "name": "Mei demayo",
-          "url": "https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV"
-        },
-        {
-          "name": "Juan ortiz",
-          "url": "https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "La Guarida",
-      "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
-      },
-      "artists": [
-        {
-          "name": "Yael Meyer",
-          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
-        }
-      ],
-      "duration_ms": 194903,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Hoy Es Hoy",
         "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 174000,
       "name": "Hoy Es Hoy",
       "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Technicolor",
+        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
+      },
+      "artists": [
+        {
+          "name": "Yael Meyer",
+          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
+        }
+      ],
+      "duration_ms": 194903,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59"
-      },
-      "artists": [
-        {
-          "name": "Delfi Moore",
-          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
-        }
-      ],
-      "duration_ms": 145636,
-      "name": "Cartas a Walter Xen\u00f3n",
-      "url": "https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "El Poder del Mar",
         "url": "https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 276874,
       "name": "Frontera",
       "url": "https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59"
+      },
+      "artists": [
+        {
+          "name": "Delfi Moore",
+          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
+        }
+      ],
+      "duration_ms": 145636,
+      "name": "Cartas a Walter Xen\u00f3n",
+      "url": "https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv"
     },
     {
       "added_at": "2022-11-11 21:41:34",

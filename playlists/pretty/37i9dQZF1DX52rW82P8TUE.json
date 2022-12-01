@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 43246,
+  "num_followers": 43286,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDUwZjgyYzYwYmMwNGFiOTdhYWVjYTgyNGQ3ZTc2MDIy",
+  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDM0ODkwYmFkYmY5NzQ1ZjQxODBmMmU5YjNlODgzMGQx",
   "tracks": [
     {
       "added_at": "2022-10-14 05:59:38",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 173267,
-      "name": "Dan\u00e7a do Canguru",
-      "url": "https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Crian\u00e7as Diante do Trono",
         "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 272933,
       "name": "Aos Olhos do Pai",
       "url": "https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 173267,
+      "name": "Dan\u00e7a do Canguru",
+      "url": "https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Crian\u00e7as Diante do Trono",
-        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
-      },
-      "artists": [
-        {
-          "name": "Crian\u00e7as Diante do Trono",
-          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "O Amor do Nosso Deus",
-      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Aline Barros e Cia 2",
         "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 189939,
       "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
       "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
+      },
+      "artists": [
+        {
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "O Amor do Nosso Deus",
+      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Caminhando Vou Para Cana\u00e3",
         "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 181458,
       "name": "Eu Canto pra Jesus",
       "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4"
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
       },
       "artists": [
         {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 137826,
-      "name": "Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG"
+      "duration_ms": 201038,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -471,6 +471,22 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -507,22 +523,6 @@
       "duration_ms": 186967,
       "name": "Sapo Aben\u00e7oado",
       "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "Arca de No\u00e9",
-      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -567,6 +567,26 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Chevere (feat. Lito Atalaia)",
+        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 213422,
+      "name": "Chevere (feat. Lito Atalaia)",
+      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Tic Tac",
         "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
       },
@@ -583,22 +603,6 @@
       "duration_ms": 188061,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Deus Grand\u00e3o",
-        "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Deus Grand\u00e3o",
-      "url": "https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -623,22 +627,18 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Chevere (feat. Lito Atalaia)",
-        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
+        "name": "Deus Grand\u00e3o",
+        "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 213422,
-      "name": "Chevere (feat. Lito Atalaia)",
-      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
+      "duration_ms": 251147,
+      "name": "Deus Grand\u00e3o",
+      "url": "https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5"
     },
     {
       "added_at": "2022-10-14 05:59:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,722 likes - 170 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,221 likes - 170 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 124 | [Christmas Kiss](https://open.spotify.com/track/3elTRcb0pkf3YtuMfYIghB) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/7CENQCViYlqvmTj4GLGRE5) | 2:44 |
 | 125 | [Deck The Halls](https://open.spotify.com/track/5oEhzFDyUcvuTsaQoggDey) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [Sleigh Ride](https://open.spotify.com/album/6mbPCYFK2QdAzq6zkTvC9t) | 1:27 |
 | 126 | [Silver Bells](https://open.spotify.com/track/3f9VXNLkGqy2ct2uIsQFKI) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Silver Bells](https://open.spotify.com/album/3dmQnVznMkC3m5JRwwYkKz) | 4:26 |
-| 127 | [Hang a String of Lights](https://open.spotify.com/track/57sCC8Igwgq174nkBYqcMF) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Isn't This World Enough?? A Nettwerk Christmas](https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT) | 2:54 |
+| 127 | [Hang a String of Lights](https://open.spotify.com/track/6gj7JWe25jFSpFEWKjxadz) | [Almost Christmas](https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF), [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Maybe This Christmas, Vol\. 6: Holiday Cheer](https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux) | 2:54 |
 | 128 | [Singing in the Land](https://open.spotify.com/track/7am4pbyR9rLnxCkrEmT4Ua) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM), [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD), [Happy Traum](https://open.spotify.com/artist/0Dx8YUTP0OexkOK9u2WTw1), [John Sebastian](https://open.spotify.com/artist/3FPF6tyBTP79pCCAJDcPft) | [The Sounding Joy: Christmas Songs in and out of the Ruth Crawford Seeger Songbook](https://open.spotify.com/album/5oBIwFL3EoCkCfgDCINqDI) | 5:47 |
 | 129 | [First Snow](https://open.spotify.com/track/0zUAob6pnNxXj6hK2JK61r) | [Friend Of All The World](https://open.spotify.com/artist/3q3lXlWQztweePxKwV6mHY) | [The Wild](https://open.spotify.com/album/6ycQqH1vzOGCRVDTiLDI8y) | 3:46 |
 | 130 | [Christmas Alone](https://open.spotify.com/track/6CiWjivcgYzpHZ44XiHoqW) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:48 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 169 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 170 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDZmM2YwZGFhZWYwYWZhMTBmNzU4M2JjM2UyYWU5Nzli`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDU0MDI3OTFiMDI0MjM5MWRmMzhjNjE5M2EwNmQ0MjEy`

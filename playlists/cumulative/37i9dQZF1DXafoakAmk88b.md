@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-191 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
+192 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Strangers In The House](https://open.spotify.com/track/2DDi9hEPE87B4OQIypJNcT) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Strangers In The House](https://open.spotify.com/album/2aNgn16mPWLqsECbW5yFCV) | 3:29 | 2022-02-18 | 2022-04-02 |
 | [SUCKAPUNCH](https://open.spotify.com/track/6191y55iGLlhi8N1yrynBs) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [SUCKAPUNCH](https://open.spotify.com/album/1bdKi7R0oAgdOnXFCRSQkB) | 2:27 | 2022-03-04 | 2022-10-04 |
 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 | 2022-06-17 |  |
-| [Sunset Drive](https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:13 | 2022-02-25 |  |
+| [Sunset Drive](https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:13 | 2022-02-25 | 2022-12-01 |
+| [Sunset Drive](https://open.spotify.com/track/2ItjyMOgf5kjfyrTo98Nor) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 3:13 | 2022-05-13 |  |
 | [SUSHI STAND!](https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP) | [PhlyMur](https://open.spotify.com/artist/1Rx24j5gKzt8H22A5tfmpG) | [SUSHI STAND!](https://open.spotify.com/album/74fkRdAAeijP2RwpnKwS75) | 5:32 | 2022-02-18 | 2022-04-09 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 | 2022-02-18 | 2022-10-04 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2022-02-18 | 2022-06-19 |

@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-134 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+135 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [The Way of the Ghost](https://open.spotify.com/track/0AnsIh2o4sa9p8pHJOi9oI) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Ghost of Tsushima \(Music from the Video Game\)](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) | 4:14 | 2021-12-15 |  |
 | [Timber Hearth](https://open.spotify.com/track/3BIf974vl0lIEo3EY1XvD1) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Outer Wilds \(Original Soundtrack\)](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o) | 3:24 | 2021-12-15 |  |
 | [Title Theme](https://open.spotify.com/track/7xiqFMenX3KY3kINA88d8Q) | [Russell Shaw](https://open.spotify.com/artist/5wuYDMU4DPsiqWaB8QBZU5) | [Fable Legends:The Rosewood](https://open.spotify.com/album/1FdHeXxHiE06U5anAfv4H2) | 4:15 | 2021-12-15 |  |
-| [Tomb Raider Theme](https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Tomb Raider Suite](https://open.spotify.com/album/3xfTmsqB82eFdMfKSA9YdH) | 3:13 | 2021-12-15 |  |
+| [Tomb Raider Theme](https://open.spotify.com/track/1BJtsYb9mSh8y9BW6pB71N) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Tomb Raider Suite](https://open.spotify.com/album/6NYHX8GzTK9FYQDbJLmrv0) | 3:13 | 2022-11-21 |  |
+| [Tomb Raider Theme](https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Tomb Raider Suite](https://open.spotify.com/album/3xfTmsqB82eFdMfKSA9YdH) | 3:13 | 2021-12-15 | 2022-12-01 |
 | [Triage at Dawn](https://open.spotify.com/track/3EAX272za8qK7lZziGwDDy) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half\-Life 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/17b1MAKoRoML4ecB59iEpR) | 0:43 | 2022-07-27 |  |
 | [Triage at Dawn](https://open.spotify.com/track/7Iu08xvGoJhOWGxqRN4Hyh) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half\-Life 2](https://open.spotify.com/album/2V0wi4SuioFjmpMu9u60bg) | 0:43 | 2022-05-24 | 2022-07-29 |
 | [Under Construction](https://open.spotify.com/track/5RwEwvUrQz1K4JqdIoZxWZ) | [Jerry Martin](https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ) | [The Sims \(Original Soundtrack\)](https://open.spotify.com/album/7ycdCSJkou3lE7MLECIgz5) | 4:48 | 2021-12-15 | 2022-07-29 |

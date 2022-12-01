@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,914 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,897 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 2 | [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 |
 | 3 | [Loud](https://open.spotify.com/track/556LJMJMhRJUNb4IggLTMM) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Loud](https://open.spotify.com/album/4esQRJHaiTQycN77tdw8fZ) | 3:19 |
 | 4 | [Sometime](https://open.spotify.com/track/0k7jQIz3bZBeeCwmBFZzOS) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Sometime](https://open.spotify.com/album/2XAClj8jcQ28igOqs1iMRU) | 2:46 |
-| 5 | [Just a Little](https://open.spotify.com/track/5P6nbeGMqnAGwqt9rrraaQ) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/4D5CFuwtc552jcdLkSahXq) | 3:43 |
+| 5 | [Just a Little](https://open.spotify.com/track/6GDoulv0WO25vEFjN6pZOq) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/3HozEf10DwxV06n4WZ6Kym) | 3:43 |
 | 6 | [Sky High](https://open.spotify.com/track/4KPTn94q9A0WsuypOrSzIV) | [Mr\. Goldenfold](https://open.spotify.com/artist/6FPuOcm8xqY362N137yZXi) | [Neighborhood](https://open.spotify.com/album/5LvMZHMGHz6w3N2nwVjdkB) | 2:55 |
 | 7 | [Easy Money](https://open.spotify.com/track/17FYfMKpJJP4uP6B8qv90o) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Easy Money](https://open.spotify.com/album/3n2oIsnzSfEV3j5gnHQvC5) | 2:57 |
 | 8 | [Peach Jam](https://open.spotify.com/track/6dktyiCWz2JYGmcPQ5D5dY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
 | 50 | [Left & Right](https://open.spotify.com/track/0m9ggRI3M7andaAAwhpyQ0) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/2l9tj36iPJgoGP2hO3VNCj) | 3:08 |
 
-Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDk4ZjdjMWI2MWY4Y2M5MjQ3YWI0MmZiY2U2YThkNTFh`
+Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDBkNTAwMzAwMWZmYTI2ZmM1OTM2Y2QwZGVlYTI3NDNj`

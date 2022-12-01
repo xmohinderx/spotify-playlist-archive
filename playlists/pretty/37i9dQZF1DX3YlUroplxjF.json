@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 440755,
+  "num_followers": 440820,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTQyNDAyNywwMDAwMDAwMDI4M2I4OTc0M2U2NzYxNmJhM2Q1Y2RhMjNjYmRkMTcz",
+  "snapshot_id": "MTY2OTQyNDAyNywwMDAwMDAwMDRkZTg3N2M4N2RmOTk0NTJjMjAzYWM1Y2QwZGRmZjIx",
   "tracks": [
     {
       "added_at": "2022-04-01 16:19:20",
@@ -421,6 +421,22 @@
       "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
     },
     {
+      "added_at": "2022-11-26 00:53:47",
+      "album": {
+        "name": "Nocturnal Future",
+        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 272725,
+      "name": "Nocturnal Future",
+      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
+    },
+    {
       "added_at": "2022-04-01 16:19:20",
       "album": {
         "name": "Baptize",
@@ -457,22 +473,6 @@
       "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
     },
     {
-      "added_at": "2022-11-26 00:53:47",
-      "album": {
-        "name": "Nocturnal Future",
-        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 272725,
-      "name": "Nocturnal Future",
-      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
-    },
-    {
       "added_at": "2022-04-01 16:19:20",
       "album": {
         "name": "Misery",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Do You Feel O.K?",
-        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Holding Me Down",
-      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Do You Feel O.K?",
+        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Divided",
+        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Divided",
-        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "medicine",
         "url": "https://open.spotify.com/album/1KGKzyp51fVDw8VsM73tGu"
       },
@@ -751,38 +751,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -831,6 +815,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Nothing is True & Everything is Possible",
         "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "wet milk",
+        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "myfeelingshavefeelings",
+      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "I'm Hard To Love, But So Are You, Vol. 4",
         "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "wet milk",
-        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 136666,
-      "name": "myfeelingshavefeelings",
-      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
+      "duration_ms": 174733,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -911,22 +927,6 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Night Terrors",
-        "url": "https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5"
-      },
-      "artists": [
-        {
-          "name": "Driveways",
-          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
-        }
-      ],
-      "duration_ms": 213144,
-      "name": "Drop Dead",
-      "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "11 Minutes",
         "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 184000,
       "name": "11 Minutes",
       "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Night Terrors",
+        "url": "https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5"
+      },
+      "artists": [
+        {
+          "name": "Driveways",
+          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
+        }
+      ],
+      "duration_ms": 213144,
+      "name": "Drop Dead",
+      "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
     },
     {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 228299,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
-    },
-    {
       "added_at": "2022-11-26 00:53:47",
       "album": {
         "name": "Bye Bye Big Bear",
@@ -1183,6 +1167,22 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 228299,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
     },
     {
       "added_at": "2022-04-25 13:33:10",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Return of the Arsonist",
+        "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 181979,
+      "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
+      "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Familiar Drugs",
         "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
@@ -1289,20 +1305,20 @@
       "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
-      "added_at": "2022-04-01 16:19:20",
+      "added_at": "2022-11-26 00:53:47",
       "album": {
-        "name": "Return of the Arsonist",
-        "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
       },
       "artists": [
         {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 181979,
-      "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
-      "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1379,6 +1395,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Brick Wall",
         "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
@@ -1407,22 +1439,6 @@
       "duration_ms": 205133,
       "name": "Shade",
       "url": "https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1457,20 +1473,20 @@
       "url": "https://open.spotify.com/track/55WJq2EsJoTSvvF15Q4gCy"
     },
     {
-      "added_at": "2022-11-26 00:53:47",
+      "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
       },
       "artists": [
         {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+        "name": "EGGY POCKET",
+        "url": "https://open.spotify.com/album/4R8AnjaHbyk7p8ugGF1Wbo"
       },
       "artists": [
         {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
         }
       ],
-      "duration_ms": 214057,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
+      "duration_ms": 160982,
+      "name": "ISERIOUSLYDISLIKEMOSTOTHERHUMANS",
+      "url": "https://open.spotify.com/track/67BZCSAtonrsgtacsscLYG"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1539,22 +1555,6 @@
       "duration_ms": 223547,
       "name": "Death",
       "url": "https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "EGGY POCKET",
-        "url": "https://open.spotify.com/album/4R8AnjaHbyk7p8ugGF1Wbo"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 160982,
-      "name": "ISERIOUSLYDISLIKEMOSTOTHERHUMANS",
-      "url": "https://open.spotify.com/track/67BZCSAtonrsgtacsscLYG"
     },
     {
       "added_at": "2022-04-01 16:19:20",

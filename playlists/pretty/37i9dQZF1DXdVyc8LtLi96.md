@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,393 likes - 349 songs - 16 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,440 likes - 349 songs - 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 107 | [Asha](https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ) | [Lalit Khanna](https://open.spotify.com/artist/3JYqK0MjKHLytVQqBw1CXs) | [Asha](https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO) | 2:15 |
 | 108 | [Fleeting Moments](https://open.spotify.com/track/6OPCWKVE5CJpOC9lY1VJs5) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Fleeting Moments](https://open.spotify.com/album/4K6XmcyT45XOsDPTd6YjYv) | 2:54 |
 | 109 | [Gauean](https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Gauean](https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp) | 3:56 |
-| 110 | [Forever](https://open.spotify.com/track/1RnywZoKSwcg8HLHpTXtq4) | [Erity Nama](https://open.spotify.com/artist/7qX88cH4K0ZCIOHJPah9ur) | [Forever](https://open.spotify.com/album/4SdcYWDPxgnBsTw0wc6bPU) | 2:55 |
+| 110 | [Forever](https://open.spotify.com/track/1RnywZoKSwcg8HLHpTXtq4) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Forever](https://open.spotify.com/album/4SdcYWDPxgnBsTw0wc6bPU) | 2:55 |
 | 111 | [Sominare](https://open.spotify.com/track/2165MC8JML5S217g4vIdDy) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sominare](https://open.spotify.com/album/7kEbZoRi1ryWZq6ODMV6ud) | 2:23 |
 | 112 | [Fernweh](https://open.spotify.com/track/6r2wMDEXAdpiZWXvRVrlL9) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Fernweh](https://open.spotify.com/album/2uIbY1CNUyD16shr3k684S) | 2:54 |
 | 113 | [Rehabilitation](https://open.spotify.com/track/5T6UXsOFn7pUeMRZcd9cXQ) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres for Healing and Recovery](https://open.spotify.com/album/0iwssHNT8AmPqrBK1adac8) | 2:52 |
@@ -280,7 +280,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 270 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 |
 | 271 | [Halcyon Eyes](https://open.spotify.com/track/3XD6Fvynp5JlGHjj46xbXU) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Retinal](https://open.spotify.com/album/4iMAB2prUJYm6VBH79YG8k) | 3:04 |
 | 272 | [Ascendent](https://open.spotify.com/track/2q5DbObik0nrip9HPAdBi1) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:58 |
-| 273 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Heur](https://open.spotify.com/artist/73UAkSvLz6yCEeKwPlCmDv) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 |
+| 273 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 |
 | 274 | [Mo Chroidhe](https://open.spotify.com/track/01yqm6MIIlCdOXCtrYJpRx) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Mo Chroidhe](https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg) | 3:02 |
 | 275 | [Reefs](https://open.spotify.com/track/4Y6BJckPBrpWNIFYtkd5Mo) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Reefs](https://open.spotify.com/album/10ebwgBwyuG5UO3rB1FCKt) | 2:40 |
 | 276 | [Dreaminess](https://open.spotify.com/track/6FTI1GirXye67U41XkzR2h) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Dreaminess](https://open.spotify.com/album/3KglVMFuTixkC48muX1fox) | 3:17 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-772 songs - 2 day 7 hr 19 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+773 songs - 2 day 7 hr 23 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [And The Lake Was...](https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [And The Lake Was...](https://open.spotify.com/album/2gTzcPZfcNopb7zAajrKy2) | 3:52 | 2022-05-27 | 2022-09-09 |
 | [And Then You Came](https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Maria Marcus](https://open.spotify.com/artist/3TFBKKjm1zzgBCOQi2SEGY) | [As Above So Below \(Deluxe Version\)](https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn) | 4:47 | 2020-12-04 |  |
 | [Angel](https://open.spotify.com/track/1sasHok8uYDG2dYoE1ir6y) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Angel](https://open.spotify.com/album/6RoTYOifoM7Jjz01qiSG5r) | 10:52 | 2022-01-14 | 2022-04-18 |
+| [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 | 2022-09-09 |  |
 | [Angels](https://open.spotify.com/track/4TQmCn0e9L7XTiKY4Hk8X4) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/0VN8KeolDU9D7Iv1ivEYvV) | 4:16 | 2019-06-19\* | 2022-11-20 |
 | [Anima Mundi](https://open.spotify.com/track/1EWdfIPZrY5F25hwOH4O33) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Russ Liquid](https://open.spotify.com/artist/70zLeNeu4AAUaQ14AC4P8J) | [Epigram](https://open.spotify.com/album/7ag0Nx09xAPMFk0oRNKaRQ) | 3:40 | 2019-06-22 | 2022-04-16 |
 | [Annica](https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Annica](https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW) | 2:55 | 2021-07-05 |  |
@@ -690,7 +691,7 @@
 | [The Milky Way](https://open.spotify.com/track/6wmjXJSNbPrm3sqPuMQQ47) | [Androm](https://open.spotify.com/artist/4e0hkGJ86D7I16d4vBnx3j) | [The Milky Way](https://open.spotify.com/album/5XdHFNNBpYwYBrKqMRj8jp) | 4:30 | 2019-05-26\* | 2020-08-26 |
 | [The Mountain Will Fall](https://open.spotify.com/track/7fKjt9lQRrbi7JaqfIsjIH) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O) | 4:36 | 2019-06-22 | 2022-04-21 |
 | [The Muse](https://open.spotify.com/track/6weh7iGLagI2lFYHuGuIcb) | [Lux Prima](https://open.spotify.com/artist/5fNO1btmBpMwi44ULZlWtO) | [Divisional Articulations](https://open.spotify.com/album/1qbxSL0REGz0hyipR5vjil) | 4:25 | 2019-07-25 | 2020-10-21 |
-| [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 | 2021-07-06 |  |
+| [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 | 2021-07-06 | 2022-12-01 |
 | [The Rapture Pt.II](https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 8:32 | 2019-06-19\* | 2020-10-19 |
 | [The Searchers](https://open.spotify.com/track/3MMVcj7aOjeZIWbvAr5jHc) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Next Season](https://open.spotify.com/album/0SyIOIfOM9lINTDWwtIg3R) | 1:41 | 2019-06-19\* | 2020-10-21 |
 | [The Secret Garden](https://open.spotify.com/track/0t2NFrMc8tN7ILhForVafb) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [The Secret Garden](https://open.spotify.com/album/5mihlvzwZlyOSyMN2dpqsl) | 4:41 | 2021-09-10 | 2022-06-19 |

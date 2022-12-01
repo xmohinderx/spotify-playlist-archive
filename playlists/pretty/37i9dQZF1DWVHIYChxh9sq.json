@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Luis Alfonso Partida El Yaki",
-  "num_followers": 46055,
+  "num_followers": 46072,
   "original_name": "Mexicano En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM3NjE4OCwwMDAwMDAwMDIzY2YyMGM1ZmY3MzBmZTI5ZDc4MTBkOGNlOTczNDc5",
+  "snapshot_id": "MTY1MjM3NjE4OCwwMDAwMDAwMDIyZWRhYWFhYTdmYmNmYzYzMGE4OWY4YmEyYTE2NDA2",
   "tracks": [
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "El Borrachito",
-        "url": "https://open.spotify.com/album/7svTDK5fDSivVyXNvxwTvO"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "El Borrachito",
-      "url": "https://open.spotify.com/track/4j3qQV7fFl0NjRlTKOH8QB"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
         "name": "El Rey De Mil Coronas (En Vivo)",
         "url": "https://open.spotify.com/album/4CK2UFpYOeRduNaxEaWLwx"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
-        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+        "name": "El Borrachito",
+        "url": "https://open.spotify.com/album/7svTDK5fDSivVyXNvxwTvO"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Medley: Cuanto Me Gusta Este Rancho / Besos Y Cerezas - En Vivo",
-      "url": "https://open.spotify.com/track/3TPl1naewrD2S74fmdi3nu"
+      "duration_ms": 204800,
+      "name": "El Borrachito",
+      "url": "https://open.spotify.com/track/4j3qQV7fFl0NjRlTKOH8QB"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1471,6 +1455,22 @@
       "duration_ms": 244732,
       "name": "Los Enjambres - En Vivo",
       "url": "https://open.spotify.com/track/2EHAwCnQUM8hB2dUSrArxs"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
+        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Medley: Cuanto Me Gusta Este Rancho / Besos Y Cerezas - En Vivo",
+      "url": "https://open.spotify.com/track/3TPl1naewrD2S74fmdi3nu"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "El Michoacano",
-      "url": "https://open.spotify.com/track/6BET8Ed8Y0gkZiifbGp7Zq"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
         "name": "Lupe Reyes (En Vivo)",
         "url": "https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 180750,
       "name": "Lupe Reyes (En Vivo)",
       "url": "https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "El Michoacano",
+      "url": "https://open.spotify.com/track/6BET8Ed8Y0gkZiifbGp7Zq"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 208842,
-      "name": "Prenda Querida - En Vivo",
-      "url": "https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
         "name": "Con La Tierra Encima (En Vivo)",
         "url": "https://open.spotify.com/album/4N1k8nvnQj8pnSHrreNd7T"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 124064,
       "name": "Con La Tierra Encima (En Vivo)",
       "url": "https://open.spotify.com/track/22sE8NuQNOgDowK0cF0GMP"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 208842,
+      "name": "Prenda Querida - En Vivo",
+      "url": "https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "Hermosisimo Lucero",
-        "url": "https://open.spotify.com/album/5hVJ64zOopTxgbHrUDDu21"
-      },
-      "artists": [
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 116253,
-      "name": "Hermosisimo Lucero",
-      "url": "https://open.spotify.com/track/4wkSRTjFIkZ5NbWUQJIClb"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
         "name": "De Negro Con Vino",
         "url": "https://open.spotify.com/album/1EynFfQfVD4B3eQCAxZiuS"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 157730,
       "name": "De Negro Con Vino",
       "url": "https://open.spotify.com/track/4bMKtEF8u3oK8pYVO3bi0v"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "Hermosisimo Lucero",
+        "url": "https://open.spotify.com/album/5hVJ64zOopTxgbHrUDDu21"
+      },
+      "artists": [
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 116253,
+      "name": "Hermosisimo Lucero",
+      "url": "https://open.spotify.com/track/4wkSRTjFIkZ5NbWUQJIClb"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2775,18 +2775,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "La Plebada De Archivaldo (En Vivo)",
-        "url": "https://open.spotify.com/album/16klovKHeCLcwm7VPjFmzc"
+        "name": "Ya Te Super\u00e9",
+        "url": "https://open.spotify.com/album/0syu95D4AIPFGJFK6ZJC4N"
       },
       "artists": [
         {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        },
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 175500,
-      "name": "La Plebada De Archivaldo (En Vivo)",
-      "url": "https://open.spotify.com/track/11e8P3zquAFA7j2cf5FJMm"
+      "duration_ms": 178935,
+      "name": "Ya Te Super\u00e9",
+      "url": "https://open.spotify.com/track/7aTVYqiWYPNejpYwpEtn7C"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2823,6 +2827,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
+        "name": "La Plebada De Archivaldo (En Vivo)",
+        "url": "https://open.spotify.com/album/16klovKHeCLcwm7VPjFmzc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "La Plebada De Archivaldo (En Vivo)",
+      "url": "https://open.spotify.com/track/11e8P3zquAFA7j2cf5FJMm"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
         "name": "El Baleado (En Vivo)",
         "url": "https://open.spotify.com/album/0VjAlguUDHxsv9aJeFJmX0"
       },
@@ -2835,22 +2855,6 @@
       "duration_ms": 216746,
       "name": "El Baleado - En Vivo",
       "url": "https://open.spotify.com/track/2oP6P8xSvRYkxRT2tUPoaK"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "Te Amo Y Te Amo (En Vivo)",
-        "url": "https://open.spotify.com/album/6e1RwB7Jj1nw8nkluMHaOc"
-      },
-      "artists": [
-        {
-          "name": "Los Morroz",
-          "url": "https://open.spotify.com/artist/1kTt9LcqFOpo54xNNFx6EM"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Te Amo Y Te Amo - En Vivo",
-      "url": "https://open.spotify.com/track/1Hx6JkOrY3K665STfZnD88"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2871,6 +2875,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
+        "name": "Te Amo Y Te Amo (En Vivo)",
+        "url": "https://open.spotify.com/album/6e1RwB7Jj1nw8nkluMHaOc"
+      },
+      "artists": [
+        {
+          "name": "Los Morroz",
+          "url": "https://open.spotify.com/artist/1kTt9LcqFOpo54xNNFx6EM"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Te Amo Y Te Amo - En Vivo",
+      "url": "https://open.spotify.com/track/1Hx6JkOrY3K665STfZnD88"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
         "name": "En Vivo (Vol. 2)",
         "url": "https://open.spotify.com/album/3YBMLF54p6icZIaa4fBz5g"
       },
@@ -2883,26 +2903,6 @@
       "duration_ms": 170133,
       "name": "La C & La A - En Vivo",
       "url": "https://open.spotify.com/track/3xNwNNsocoLi5pqRO6FFiR"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "Ya Te Super\u00e9",
-        "url": "https://open.spotify.com/album/0syu95D4AIPFGJFK6ZJC4N"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        },
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 178935,
-      "name": "Ya Te Super\u00e9",
-      "url": "https://open.spotify.com/track/7aTVYqiWYPNejpYwpEtn7C"
     },
     {
       "added_at": "2022-05-12 17:23:08",

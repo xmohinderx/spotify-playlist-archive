@@ -2375,6 +2375,24 @@
     {
       "album": {
         "name": "The Tomb Raider Suite",
+        "url": "https://open.spotify.com/album/6NYHX8GzTK9FYQDbJLmrv0"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Tomb Raider Theme",
+      "url": "https://open.spotify.com/track/1BJtsYb9mSh8y9BW6pB71N"
+    },
+    {
+      "album": {
+        "name": "The Tomb Raider Suite",
         "url": "https://open.spotify.com/album/3xfTmsqB82eFdMfKSA9YdH"
       },
       "artists": [
@@ -2385,7 +2403,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 193840,
       "name": "Tomb Raider Theme",
       "url": "https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f"

@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-352 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+353 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Sober](https://open.spotify.com/track/5trFqaSXEVsKk0dH3XeEQb) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Sober](https://open.spotify.com/album/6cSdm63mgMvJJ7iStrfhlb) | 2:55 | 2022-03-11 |  |
 | [Some Mutts \(Can't Be Muzzled\)](https://open.spotify.com/track/0eBO2fwJCsudzM5gKKmZfe) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Some Mutts \(Can't Be Muzzled\)](https://open.spotify.com/album/5aCwuj7LiBYqXZAkoYtuwh) | 2:39 | 2021-10-07 | 2022-01-08 |
 | [Sophomore](https://open.spotify.com/track/4Xqm1aJaf1ss4qdObftc6d) | [Honey Lung](https://open.spotify.com/artist/7xhSASbzZi4UXHDnWptMaY) | [Sophomore](https://open.spotify.com/album/2QBQTM0u1iZ3XznBLVz4Zj) | 5:53 | 2021-10-07 | 2022-01-08 |
-| [Speeding 72](https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:58 | 2022-11-04 |  |
+| [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 | 2022-11-04 |  |
+| [Speeding 72](https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:58 | 2022-11-04 | 2022-12-01 |
 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 | 2022-04-29 | 2022-11-27 |
 | [Spike The Punch](https://open.spotify.com/track/2gzhJCWgQ9MxKXiIWP1BfB) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Spike The Punch](https://open.spotify.com/album/3S2fNUJkRiyB3SrgkixKRG) | 3:01 | 2022-01-07 | 2022-03-12 |
 | [Sterilizer](https://open.spotify.com/track/4wPVMYTIDj0D3e0biuEq6M) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Around the Sun](https://open.spotify.com/album/1S2XYKUTq2jSCPX5nUnMEw) | 3:06 | 2021-10-07 | 2022-11-05 |

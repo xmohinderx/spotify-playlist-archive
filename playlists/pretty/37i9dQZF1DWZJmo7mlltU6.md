@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Francis On My Mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,141 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,204 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 39 | [I'm in Love](https://open.spotify.com/track/2k2AJgV5PAA4pIl9jdJxqz) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO) | [I'm in Love](https://open.spotify.com/album/6YseWN0WpEHAOTqVzJfzLo) | 3:16 |
 | 40 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
 | 41 | [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 |
-| 42 | [Play Pretend](https://open.spotify.com/track/0rpXpKiDSJ5QiAuo3JVky7) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/5fT75N3yGkZpVLHV4X90i8) | 2:24 |
+| 42 | [Play Pretend](https://open.spotify.com/track/1vnqb52HFcKSrqsL2HRjM2) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:24 |
 | 43 | [LAB](https://open.spotify.com/track/1aavVcHfiogGUkvCMm6dV6) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [LAB](https://open.spotify.com/album/7qJyVxMka41PV45qPx42zD) | 2:58 |
 | 44 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 |
 | 45 | [Sunshine](https://open.spotify.com/track/5P0Qp4RnsIHOjc153m9Jsa) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [sh](https://open.spotify.com/artist/0R4narCkJHEsmTomh2jD1p) | [Sunshine](https://open.spotify.com/album/5xKLqgTDwEyBg7SfFpBhLL) | 3:19 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 104 | [Rockstar Raver](https://open.spotify.com/track/3u4cjhMEgJ2bkHhqK8ku0W) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Alternity](https://open.spotify.com/album/7zS98tpOYwsJje1Qs9KhOx) | 3:04 |
 | 105 | [10:50 \- Prod\. Flytones](https://open.spotify.com/track/18hGzYrPPzVSOPQj9jMBr7) | [Seda Erciyes](https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z) | [10:50 \(Prod\. Flytones\)](https://open.spotify.com/album/5Q2aZzE8WQm3V7cEWtQ9xc) | 3:16 |
 
-Snapshot ID: `MTY2OTM4NTQwNywwMDAwMDAwMDllN2I0ZmUwMzE1OWE5NzQxMWZmOWEzMWFhMjdiNDdm`
+Snapshot ID: `MTY2OTM4NTQwNywwMDAwMDAwMDE0ZWE4MGJiY2U2MTBiNzczM2VjYjE4MDY1ZWI3ZjVl`

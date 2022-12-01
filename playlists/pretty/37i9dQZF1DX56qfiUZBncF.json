@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 374370,
+  "num_followers": 374360,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDEzYzBmOGI5ZjRhZjJjMGVmMTYzNjBjZTkwNWQ2NzE2",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMGQwNTUzNjMyNzM3MzEyZWQ1MWM3OTk1NWE2ZmMxZWUw",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "On the Lookout",
         "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 229560,
       "name": "On the Lookout",
       "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "The Pilot",
-        "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
-      },
-      "artists": [
-        {
-          "name": "New Friends",
-          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
-        }
-      ],
-      "duration_ms": 255847,
-      "name": "Purple Candy",
-      "url": "https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -711,22 +695,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
       },
       "artists": [
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+          "name": "New Friends",
+          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
         }
       ],
-      "duration_ms": 224113,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
+      "duration_ms": 255847,
+      "name": "Purple Candy",
+      "url": "https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -747,6 +727,26 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
+      },
+      "artists": [
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        }
+      ],
+      "duration_ms": 224113,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Jeanie (feat. Bon Iver)",
-        "url": "https://open.spotify.com/album/5jWHspWCxRbx19wglIUYkd"
-      },
-      "artists": [
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 167636,
-      "name": "Jeanie (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Black Rain",
         "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
       },
@@ -1043,22 +1023,6 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 199371,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1079,18 +1043,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Far From Here",
-        "url": "https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ"
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
         }
       ],
-      "duration_ms": 260338,
-      "name": "Edge Of The Dark",
-      "url": "https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop"
+      "duration_ms": 199371,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1107,6 +1071,22 @@
       "duration_ms": 192792,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 260338,
+      "name": "Edge Of The Dark",
+      "url": "https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1143,22 +1123,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 235464,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -1171,6 +1135,22 @@
       "duration_ms": 197977,
       "name": "Artifice",
       "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 235464,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1207,6 +1187,26 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Old T-Shirt (feat. koby)",
+        "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
+      },
+      "artists": [
+        {
+          "name": "Kim Tee",
+          "url": "https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp"
+        },
+        {
+          "name": "koby",
+          "url": "https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02"
+        }
+      ],
+      "duration_ms": 219483,
+      "name": "Old T-Shirt (feat. koby)",
+      "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 234811,
       "name": "Frail State Of Mind",
       "url": "https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Old T-Shirt (feat. koby)",
-        "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
-      },
-      "artists": [
-        {
-          "name": "Kim Tee",
-          "url": "https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp"
-        },
-        {
-          "name": "koby",
-          "url": "https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02"
-        }
-      ],
-      "duration_ms": 219483,
-      "name": "Old T-Shirt (feat. koby)",
-      "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1539,6 +1519,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "CLOVER",
+        "url": "https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF"
+      },
+      "artists": [
+        {
+          "name": "Akurei",
+          "url": "https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37"
+        }
+      ],
+      "duration_ms": 198605,
+      "name": "CLOVER",
+      "url": "https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
       },
@@ -1575,18 +1571,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "CLOVER",
-        "url": "https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF"
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
       "artists": [
         {
-          "name": "Akurei",
-          "url": "https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37"
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 198605,
-      "name": "CLOVER",
-      "url": "https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6"
+      "duration_ms": 167636,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "River's Song",
-        "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
-      },
-      "artists": [
-        {
-          "name": "Frase",
-          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "River's Song",
-      "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "For The Very Last Time",
         "url": "https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 218506,
       "name": "Interstellar Love (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "River's Song",
+        "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
+      },
+      "artists": [
+        {
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "River's Song",
+      "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
     },
     {
       "added_at": "2022-04-29 23:01:28",

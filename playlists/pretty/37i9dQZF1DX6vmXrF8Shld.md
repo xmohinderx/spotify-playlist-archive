@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,239 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,308 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 38 | [Strokin](https://open.spotify.com/track/26lWSZtUQvUhTnjqokay5p) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [I Got Rhythm](https://open.spotify.com/album/7JAvGHIPXh83xArPTYTmm7) | 4:35 |
 | 39 | [Bongo Rock](https://open.spotify.com/track/1yAHShjpL6S7s57aBZjB2x) | [The Incredible Bongo Band](https://open.spotify.com/artist/09d32fi1Y0qZDJQ9dj7kKa) | [In the Midnight Hour](https://open.spotify.com/album/1uhMW8QosGPAtGV5RXG64u) | 2:36 |
 | 40 | [We Got More Soul](https://open.spotify.com/track/5FrCb3dn8zBDQidICpI4Q5) | [Dyke & The Blazers](https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg) | [Dyke's Greatest Hits \- The Complete Singles](https://open.spotify.com/album/1zv9Oq5IrsdEuOzor9DxZj) | 3:19 |
-| 41 | [Everything I Do Goin' Be Funky](https://open.spotify.com/track/5EQRiL6hOtongNIxiTKIM4) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/3iSaoLNyr2b1u0hfAzNsiM) | 3:17 |
+| 41 | [Everything I Do Goin' Be Funky](https://open.spotify.com/track/2DeZEHRDH35GWfHMkAV6Ih) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/7Lwx1Q6GHeKp6p8pnSgGu6) | 3:17 |
 | 42 | [I Can't Stop Dancing](https://open.spotify.com/track/3evKZi4dI9Nw7Hit26XFN9) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [I Can't Stop Dancing](https://open.spotify.com/album/6EOG2HlsfnM8YDoimOiCyS) | 2:21 |
 | 43 | [Licking Stick \- Licking Stick](https://open.spotify.com/track/5SUq4LjsJjYSGq9IIjEiBP) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Say It Loud \- I'm Black And I'm Proud](https://open.spotify.com/album/3vNuxh79Nz0zpdYOtD7gXM) | 2:52 |
 | 44 | [Can I Change My Mind](https://open.spotify.com/track/0zyyaMpWRZNSx2GqAMFKX3) | [Tyrone Davis](https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd) | [Can I Change My Mind](https://open.spotify.com/album/3WcptYwEwFcxhnhci37i3L) | 2:57 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGVlNjVjMDMwZDRlMGJkOWI4NzIzMDdkOTYxMjFhNjE2`
+Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGMwMTc3MDUzYjdkYTNiYTMyYzc5MWE3NmE1OTJhNTBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,656 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,671 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 37 | [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 |
 | 38 | [Una Llamada Perdida](https://open.spotify.com/track/50wcP2Qy153SJ3pP3ZTL9G) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Una Llamada Perdida](https://open.spotify.com/album/7lm4FQqOoRuTkDoSmLHKa7) | 3:19 |
 | 39 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
-| 40 | [Bonita](https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Hecho a Mano](https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ) | 3:27 |
-| 41 | [De Vez En Cuando](https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [De Vez En Cuando](https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB) | 3:33 |
+| 40 | [De Vez En Cuando](https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [De Vez En Cuando](https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB) | 3:33 |
+| 41 | [Bonita](https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Hecho a Mano](https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ) | 3:27 |
 | 42 | [Son Amores \(That's Amore\) \(feat\. Los Macorinos\)](https://open.spotify.com/track/10HQmG706HZtAhXRypWw01) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:44 |
 | 43 | [Que Digan Lo Que Digan](https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Digan Lo Que Digan](https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl) | 2:52 |
 | 44 | [Volver, Volver](https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:14 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 71 | [Ni Mil Borracheras](https://open.spotify.com/track/25NjLnKXEdIej9i6UPqcH0) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Ni Mil Borracheras](https://open.spotify.com/album/5RDA15u0ykWlGmvpsyvUCw) | 2:31 |
 | 72 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
 | 73 | [Olvídalo](https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Olvídalo](https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt) | 3:16 |
-| 74 | [Camino de Guanajuato](https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [12 Exitos De Oro](https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt) | 3:13 |
-| 75 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
+| 74 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
+| 75 | [Camino de Guanajuato](https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [12 Exitos De Oro](https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt) | 3:13 |
 | 76 | [Quiero \- Mariachi](https://open.spotify.com/track/7hIwQgldC4w99nPtZyScgN) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:00 |
 | 77 | [Mala Racha](https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mala Racha](https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv) | 2:46 |
 | 78 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 110 | [La Bikina](https://open.spotify.com/track/6QA7A2ZNzjInAn3wniLEeQ) | [Nuria Fergó](https://open.spotify.com/artist/0eU0mDoeIkicltGVoLtGy3) | [Con Permiso](https://open.spotify.com/album/4F1faolK6mjkIExXIH8maZ) | 2:59 |
 | 111 | [Qué Ganas](https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV) | [ADA OLEA](https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz) | [Qué Ganas](https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv) | 3:08 |
 | 112 | [Tú Solo Tú](https://open.spotify.com/track/2ZwbOtOwLTNggNYeEkOpcZ) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Tú Solo Tú](https://open.spotify.com/album/5cWsl9DuZTi8l6RvI7RSzy) | 3:36 |
-| 113 | [Quiero Confesarte](https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Quiero Confesarte](https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe) | 2:35 |
-| 114 | [La Cama De Piedra \- En Vivo](https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ) | [El Mono De Sinaloa](https://open.spotify.com/artist/1Bl1Br55F7SyrrFLWA4vSq), [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Cama De Piedra \- En Vivo](https://open.spotify.com/album/1ZbZ0QuREWjRNACbmpaDOs) | 3:05 |
+| 113 | [La Cama De Piedra \- En Vivo](https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ) | [El Mono De Sinaloa](https://open.spotify.com/artist/1Bl1Br55F7SyrrFLWA4vSq), [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Cama De Piedra \- En Vivo](https://open.spotify.com/album/1ZbZ0QuREWjRNACbmpaDOs) | 3:05 |
+| 114 | [Quiero Confesarte](https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Quiero Confesarte](https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe) | 2:35 |
 | 115 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Qué Tanto Es Tantito?](https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F) | 3:41 |
 | 116 | [Los Mandados](https://open.spotify.com/track/31JZmPlv1H0npDMY4G5r9b) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Los Mandados](https://open.spotify.com/album/7uNCs64FQWq2ZsWA2PjJPK) | 2:43 |
 | 117 | [Te Amare \(Version Mariachi\)](https://open.spotify.com/track/2PWRbt4DwXa6ZcigYPa3AN) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [Te Amare \(Versión Mariachi\)](https://open.spotify.com/album/2Cct0JbheL9MpyAIMTCj0Q) | 3:28 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDdjMjM1YmZhMGM5NjYwMDk5YzgzMjM5MjNkMmJiZjZi`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGNhMmE3ZTU5MDNiYWZkMDI5YzgxMjYzZTRjZDMzNzll`

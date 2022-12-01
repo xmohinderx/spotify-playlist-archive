@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Natanael Cano, Gabito Ballesteros & Peso Pluma
 
-1,496 songs - 3 day 6 hr 32 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+1,496 songs - 3 day 6 hr 31 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-05-20 | 2022-05-28 |
 | [El Hueso](https://open.spotify.com/track/6KxFhrD12aKXWNzVNqto1U) | [Tony Robles](https://open.spotify.com/artist/7iKXEjenK0rFcoHb5YhUvt) | [El Hueso](https://open.spotify.com/album/7Bxs9QfFK1wH55EHlcVTUZ) | 3:27 | 2022-10-14 | 2022-10-22 |
 | [El Imán](https://open.spotify.com/track/3zWOLnufBULZY5xl5p7vXl) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Corridos En Código](https://open.spotify.com/album/1FIGxgFVretC2yAZ1pHKWO) | 3:18 | 2022-10-28 | 2022-11-05 |
-| [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/track/1AEWyAZwNY3HxYnOITEPu5) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/album/0maq6fu6MH2kx9YOEe4nRG) | 3:08 | 2022-11-25 |  |
+| [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/track/1AEWyAZwNY3HxYnOITEPu5) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [El Indio Enamorado \(En Vivo\)](https://open.spotify.com/album/0maq6fu6MH2kx9YOEe4nRG) | 2:55 | 2022-11-25 |  |
 | [EL INFIERNO](https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [EL INFIERNO](https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf) | 3:37 | 2022-07-01 | 2022-07-09 |
 | [El Inocente \(En Vivo\)](https://open.spotify.com/track/2BPOF5HpmQ9bFO8yfL7TLI) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [El Inocente \(En Vivo\)](https://open.spotify.com/album/6O1O2zWKacVDJkMZq449K4) | 4:04 | 2022-07-22 | 2022-07-30 |
 | [El Invierno Pasado](https://open.spotify.com/track/68tZC61FSDP2WgdQAoImQG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Jean Piero](https://open.spotify.com/artist/038hutZ2g8qq1UjZZGfTIs) | [El Invierno Pasado](https://open.spotify.com/album/7r0Et078YgtOvouUWg0UgY) | 4:08 | 2022-08-12 | 2022-08-20 |

@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-249 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+250 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Infant Eyes \- Edit](https://open.spotify.com/track/0Vp28wPW0x7uV2nIgvzrQ1) | [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs), [Sharada Shashidhar](https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq) | [Infant Eyes \(Edit\)](https://open.spotify.com/album/393PRcPTjHGLjUJrvFTihd) | 6:29 | 2022-07-14 | 2022-11-25 |
 | [Infant Eyes \- Edit](https://open.spotify.com/track/51WaGUFBND6XOLcJ1HcP7Y) | [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs), [Sharada Shashidhar](https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq) | [Infant Eyes \(Edit\)](https://open.spotify.com/album/7anJAMptW5jyQ9bbnZFe9g) | 6:29 | 2021-11-19 | 2022-07-29 |
 | [Inner City Blues](https://open.spotify.com/track/5lpoNwYR4ZIUEHiWSWdzmJ) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Meaning To Tell Ya](https://open.spotify.com/album/72m72nAelaKn2ONWk9nSV0) | 4:53 | 2021-11-19 | 2022-07-29 |
-| [Inner City Blues](https://open.spotify.com/track/0eBlhg6ObQW6sAu4UFjN5d) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Inner City Blues](https://open.spotify.com/album/0Tpbm8P52M6OLufUXwKZAY) | 4:53 | 2022-07-14 |  |
+| [Inner City Blues](https://open.spotify.com/track/0eBlhg6ObQW6sAu4UFjN5d) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Inner City Blues](https://open.spotify.com/album/0Tpbm8P52M6OLufUXwKZAY) | 4:53 | 2022-07-14 | 2022-12-01 |
 | [It Was You](https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:30 | 2022-07-14 |  |
 | [It Was You](https://open.spotify.com/track/4erTX3wgD0p4ZvoeXN30Gi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [It Was You](https://open.spotify.com/album/4auJ5nsBrC9i6BKeUTZihy) | 5:30 | 2021-11-19 | 2022-07-29 |
 | [It's Complicated](https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/2wakq28QTH960KEygvzPXl) | 3:28 | 2022-09-09 | 2022-11-25 |
@@ -257,5 +257,6 @@
 | [You Can't Hide Away From Love](https://open.spotify.com/track/73gYqDCBbnFjp3CWkpuwTK) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller](https://open.spotify.com/album/5SRbo9fLmQzZqInna05WyM) | 3:08 | 2021-11-19 | 2022-07-29 |
 | [You Have to Dance \(feet\)](https://open.spotify.com/track/5FJkdtXbK4dodNkxh6KcBG) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [12 Little Spells](https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg) | 3:27 | 2021-11-19 | 2022-05-18 |
 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 | 2021-11-19 | 2022-10-08 |
+| [Your Hands](https://open.spotify.com/track/4u62bhKi6sQBPBb1txAAPT) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 4:53 | 2022-11-29 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

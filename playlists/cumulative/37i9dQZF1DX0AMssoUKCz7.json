@@ -844,6 +844,28 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3VLYzHg6S1JngbXYapwMF3"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        },
+        {
+          "name": "lostinspace",
+          "url": "https://open.spotify.com/artist/2c43LX3975Nv5hUcntUhMG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/18atM21acJCu9bH0YCsYG0"
+    },
+    {
+      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78"
       },
@@ -6113,7 +6135,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb"
@@ -7027,7 +7049,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 178893,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/4qehUdZCqaYo13JrUUrbEm"
@@ -10323,7 +10345,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 148720,
       "name": "Those Were the Days",
       "url": "https://open.spotify.com/track/27APnPhv82IdHrehOUv7lP"

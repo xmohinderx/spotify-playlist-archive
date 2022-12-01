@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 124255,
+  "num_followers": 124366,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk1NDkyMywwMDAwMDAwMDllZTNjZmY1Yjk4MGYzYzYwYWZlMmRjZjZjMTE5ZWU0",
+  "snapshot_id": "MTY2Nzk1NDkyMywwMDAwMDAwMDA0Mjk5YWQ1MWUxODhmOGZiNTAyZWI0YTZhNmM2YjQ2",
   "tracks": [
     {
       "added_at": "2022-11-09 00:48:43",
@@ -95,8 +95,8 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+        "name": "PUNTO 40",
+        "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
       },
       "artists": [
         {
@@ -104,17 +104,13 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
         }
       ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -219,8 +215,8 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
-        "name": "PUNTO 40",
-        "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
       "artists": [
         {
@@ -228,13 +224,17 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
-        "name": "Caminemos de la Mano",
-        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 214695,
-      "name": "Caminemos de la Mano",
-      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
         "name": "La Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 336149,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
+        "name": "Caminemos de la Mano",
+        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 214695,
+      "name": "Caminemos de la Mano",
+      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -1771,30 +1771,6 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
-        "name": "Curazao",
-        "url": "https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 239577,
-      "name": "Curazao",
-      "url": "https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
         "name": "HELLCAT",
         "url": "https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV"
       },
@@ -1815,6 +1791,30 @@
       "duration_ms": 186322,
       "name": "HELLCAT",
       "url": "https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
+        "name": "Curazao",
+        "url": "https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 239577,
+      "name": "Curazao",
+      "url": "https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Tata",
+      "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
         "name": "Rebota (Remix)",
         "url": "https://open.spotify.com/album/4HoYhLOpFgJECemzKIEhvM"
       },
@@ -2035,26 +2055,6 @@
       "duration_ms": 262000,
       "name": "Rebota - Remix",
       "url": "https://open.spotify.com/track/3dWpRjCmaHbroNahuSeX11"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Tata",
-      "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -2131,22 +2131,6 @@
       "duration_ms": 209680,
       "name": "G Wagon",
       "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Par de Tenis",
-      "url": "https://open.spotify.com/track/7iGX6Xdi2EnYqBqvzEVEVC"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -2255,6 +2239,22 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Par de Tenis",
+      "url": "https://open.spotify.com/track/7iGX6Xdi2EnYqBqvzEVEVC"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
         "name": "Super Gremlin (El Diablo Mix)",
         "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
       },
@@ -2327,30 +2327,6 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
-        "name": "FR\u00cdO",
-        "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "Savage Kreamly",
-          "url": "https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "TU MANUAL",
-      "url": "https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
         "name": "Pa Que Sude (Gonna Make You Sweat/Chosen Few Mix) Feat Shooter Ledo",
         "url": "https://open.spotify.com/album/6j4069Tdz2qXq4ZsxOWZfp"
       },
@@ -2375,6 +2351,30 @@
       "duration_ms": 180680,
       "name": "Pa Que Sude (Gonna Make You Sweat/Chosen Few Mix) Feat Shooter Ledo",
       "url": "https://open.spotify.com/track/64znnDhgrJjbxQK7dsEe3Q"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Savage Kreamly",
+          "url": "https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "TU MANUAL",
+      "url": "https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM"
     },
     {
       "added_at": "2022-11-09 00:48:43",

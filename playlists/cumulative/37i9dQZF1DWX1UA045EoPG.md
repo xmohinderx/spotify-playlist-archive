@@ -4,7 +4,7 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-67 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
+68 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Hurting](https://open.spotify.com/track/56SHxd1fNd564p7kS6URmz) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Hurting](https://open.spotify.com/album/2GOATjSsnYmidOyRs0xHuZ) | 3:05 | 2018-09-14 | 2022-07-29 |
 | [Hurting \(feat\. AlunaGeorge\)](https://open.spotify.com/track/7h8e5oCD5ZRu0VPNHEN6A5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:05 | 2018-09-14 |  |
 | [Hyphlive](https://open.spotify.com/track/1snve7a1zOuwT88ABdXnnZ) | [Thoto\_leing](https://open.spotify.com/artist/5a4nrJ6eEVHg5CDeTbPwlm) | [Thoto\_leing](https://open.spotify.com/album/05zydkKDJWX9r0l4yRbCuN) | 1:35 | 2018-09-14 |  |
-| [Just a Little](https://open.spotify.com/track/5P6nbeGMqnAGwqt9rrraaQ) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/4D5CFuwtc552jcdLkSahXq) | 3:43 | 2018-09-14 |  |
+| [Just a Little](https://open.spotify.com/track/5P6nbeGMqnAGwqt9rrraaQ) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/4D5CFuwtc552jcdLkSahXq) | 3:43 | 2018-09-14 | 2022-12-01 |
+| [Just a Little](https://open.spotify.com/track/6GDoulv0WO25vEFjN6pZOq) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/3HozEf10DwxV06n4WZ6Kym) | 3:43 | 2022-09-27 |  |
 | [Keep the Spark Alive](https://open.spotify.com/track/4ortOUyHPtxAmM1T0xXEhZ) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Bonus Points](https://open.spotify.com/artist/3GlCVMFRzrZ3FGtt4apejf) | [Keep the Spark Alive](https://open.spotify.com/album/2pJERUgp7pWBqhEnztIedx) | 3:01 | 2018-09-14 |  |
 | [La Piña](https://open.spotify.com/track/3fmIXrnXgt6ZzXWHewbvSC) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [La Piña](https://open.spotify.com/album/4Ur27mAxzS8CzHr942EuGE) | 3:39 | 2018-09-14 |  |
 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 | 2018-09-14 |  |

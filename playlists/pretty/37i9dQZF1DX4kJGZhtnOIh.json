@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 10727,
+  "num_followers": 10736,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDQ1MjEwYWU5ZDUyOWUxMmRlYzgzMzY3MzgwMmRmNjg3",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGRlNjJiMGY4MWZkNWZjODc0ODcyMmUwMzFhOTk5Y2E3",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -175,22 +175,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -663,22 +663,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 290826,
-      "name": "Had To Hear",
-      "url": "https://open.spotify.com/track/4IAE7M8Qw88f59W0uqNujJ"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Port Of Morrow",
         "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 241613,
       "name": "It's Only Life",
       "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Had To Hear",
+      "url": "https://open.spotify.com/track/4IAE7M8Qw88f59W0uqNujJ"
     },
     {
       "added_at": "2018-11-19 19:02:53",

@@ -185,10 +185,32 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 206304,
       "name": "Bayside Lover",
       "url": "https://open.spotify.com/track/0hQfPQFUIkORbgj6rZtswa"
+    },
+    {
+      "album": {
+        "name": "Bayside Lover",
+        "url": "https://open.spotify.com/album/0dM5w3G09YZRE7SN3eMsbe"
+      },
+      "artists": [
+        {
+          "name": "DJ HASEBE",
+          "url": "https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW"
+        },
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206304,
+      "name": "Bayside Lover",
+      "url": "https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC"
     },
     {
       "album": {
@@ -1260,7 +1282,7 @@
     },
     {
       "album": {
-        "name": "Mirage Op.4 - Collective ver.",
+        "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
       "artists": [
@@ -1279,13 +1301,17 @@
         {
           "name": "YONCE (Suchmos)",
           "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
+        },
+        {
+          "name": "\u9577\u6fa4\u307e\u3055\u307f",
+          "url": "https://open.spotify.com/artist/6GjALwVkZtW4lkr2vAe24n"
         }
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 268119,
-      "name": "Mirage Op.4 - Collective ver.",
+      "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
     },
     {

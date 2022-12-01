@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 122180,
+  "num_followers": 122397,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGNlOTFkM2M4ZTU3ZWQzODczYWM4ZWNlNjBhYmMyNDc0",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDdlZmUxODU5Yjk3NTljYzUzMGQwM2U2OTY0NTVmNGI3",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2035,42 +2035,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Antonio",
-        "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Antonio",
-      "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Pikete",
-        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "Pikete",
-      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Royal Medellin",
         "url": "https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU"
       },
@@ -2099,6 +2063,42 @@
       "duration_ms": 198857,
       "name": "Royal Medellin",
       "url": "https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Pikete",
+        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "Pikete",
+      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Antonio",
+        "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Antonio",
+      "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
     },
     {
       "added_at": "2022-11-18 03:00:00",

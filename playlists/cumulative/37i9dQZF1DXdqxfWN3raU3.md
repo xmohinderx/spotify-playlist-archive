@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Nicole Horts en portada.
 
-166 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+167 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Wiken](https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wiken](https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP) | 3:43 | 2021-12-13 |  |
 | [Yo sigo aquí](https://open.spotify.com/track/1MRoHyLRphJUWL2hmVC9VN) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Yo sigo aquí](https://open.spotify.com/album/4yAlIlVC8mk5tLKAGxf9cd) | 3:28 | 2021-12-13 | 2022-03-09 |
 | [Zaï](https://open.spotify.com/track/1oXr8VGtgPHF3niV9lA21u) | [BFlecha](https://open.spotify.com/artist/269q1RiWEIZ2IwKRF0jXNO) | [Vacío / Zaï](https://open.spotify.com/album/3Mse1uCmatA3uZmCAIwgY3) | 3:04 | 2021-12-13 | 2022-08-02 |
-| [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-14 |  |
+| [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-14 | 2022-12-01 |
+| [Íntimo](https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO) | 2:23 | 2022-11-24 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 124288,
+  "num_followers": 124343,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGRjZDE4ZWI1NTAzNTVkMTAwY2MxZWM1N2QxNDI4NzRl",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDQ4YmEyZmE4ZDJiNDZmYzc5NmEzOTYxYTU3MTgyZmJh",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -653,26 +653,6 @@
       "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Turn It On",
-        "url": "https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 270530,
-      "name": "Turn It On",
-      "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
-    },
-    {
       "added_at": "2022-07-22 04:00:00",
       "album": {
         "name": "Jamtown",
@@ -699,6 +679,26 @@
       "duration_ms": 235407,
       "name": "Island Time",
       "url": "https://open.spotify.com/track/64ITiMSrRWmyU5WDQCG6Rm"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Turn It On",
+        "url": "https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 270530,
+      "name": "Turn It On",
+      "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
     },
     {
       "added_at": "2022-07-22 04:00:00",

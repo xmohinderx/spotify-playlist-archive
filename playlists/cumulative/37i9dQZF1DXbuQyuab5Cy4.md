@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-103 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
+104 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bump This](https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:18 | 2022-10-07 |  |
 | [Candy Flip](https://open.spotify.com/track/3GbIAc1YF7taTuU6FG1W13) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Candy Flip](https://open.spotify.com/album/2zWd2Kv0sTPEj4Gae9GJyU) | 3:10 | 2021-10-28 |  |
 | [Cyberspace](https://open.spotify.com/track/5u1mRqeDEiNkLee97q458S) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Cyberspace](https://open.spotify.com/album/42Ul7pOsWYrg2OJlAiFB7i) | 4:50 | 2021-10-28 |  |
-| [Dance with Death](https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/6fE8CiM9Pmn3XPwx39LhWJ) | 5:52 | 2021-10-28 |  |
+| [Dance with Death](https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/6fE8CiM9Pmn3XPwx39LhWJ) | 5:52 | 2021-10-28 | 2022-12-01 |
+| [Dance with Death](https://open.spotify.com/track/3WHzdoudaQvAOcGDYFRpWn) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/2RtmP1Gin5BBNgxlu44qeH) | 5:52 | 2022-10-28 |  |
 | [Dancing with the Devil \(feat\. Patrick Stump & Travis Barker\)](https://open.spotify.com/track/23qsXVjMacN21DNRjfWEBx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Get Wet](https://open.spotify.com/album/7d2uP5sqFrhFz9p6CA9gu6) | 3:58 | 2021-10-28 |  |
 | [Dead](https://open.spotify.com/track/7cdOiZBLqp31qFjMTBAXTL) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Duality](https://open.spotify.com/album/4VT2smjUwrP73Ni00hyLta) | 3:20 | 2021-10-28 |  |
 | [Dead To Me \- Original Mix](https://open.spotify.com/track/6yaihZ7YizWwJ61Cu6Kktl) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 3:50 | 2021-10-28 |  |

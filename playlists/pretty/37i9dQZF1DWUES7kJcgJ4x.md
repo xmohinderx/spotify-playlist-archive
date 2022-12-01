@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,791 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,798 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 46 | [Roller Girl](https://open.spotify.com/track/7fxZpBlviGbIQ3MdWr2Nch) | [Anna Karina](https://open.spotify.com/artist/5Hdnj4ih6VtuvwwNFUAMEC) | [BOF Anna](https://open.spotify.com/album/7lamDMJGneBZtJBtfwas9v) | 2:23 |
 | 47 | [Dime Mi Amor](https://open.spotify.com/track/0OntImjbj7R9nZcWx4CkDv) | [Hilda Aguirre](https://open.spotify.com/artist/3OSm0uwQm0s67bllaGW80E) | [Jingle Jangle](https://open.spotify.com/album/4VO4juUpEGOsIxEmRrkwOC) | 2:02 |
 | 48 | [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 |
-| 49 | [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 |
+| 49 | [Boogaloo Smith](https://open.spotify.com/track/69d3Gm32wJVEIjzR554yvM) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Progressive Pop](https://open.spotify.com/album/7GVgvor1nx7BAu9XA1mvie) | 1:38 |
 | 50 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 |
 
-Snapshot ID: `MTYxMDk5NjI5MSwwMDAwMDAwMDk2MDliYmZjMjg1MTkxYzg1NGZkYWNiYmU1NWMwNTFh`
+Snapshot ID: `MTYxMDk5NjI5MSwwMDAwMDAwMDBmMzdjYjY4ZGJiOTE5NWNmZmE0YzBjYWNjZTVlMmQ5`

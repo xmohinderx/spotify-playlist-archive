@@ -6153,10 +6153,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 144904,
       "name": "Play Pretend",
       "url": "https://open.spotify.com/track/0rpXpKiDSJ5QiAuo3JVky7"
+    },
+    {
+      "album": {
+        "name": "Fortune Cookie",
+        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144904,
+      "name": "Play Pretend",
+      "url": "https://open.spotify.com/track/1vnqb52HFcKSrqsL2HRjM2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-75 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
+76 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Doin' Our Thing](https://open.spotify.com/track/22t9iuxxXPGYuRZ0R0Mgej) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:28 | 2020-12-01 |  |
 | [Don't Knock It](https://open.spotify.com/track/4FgpSAmdj1G6QxyPaYFwOy) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:31 | 2020-12-01 |  |
 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 | 2020-12-01 |  |
-| [Everything I Do Goin' Be Funky](https://open.spotify.com/track/5EQRiL6hOtongNIxiTKIM4) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/3iSaoLNyr2b1u0hfAzNsiM) | 3:17 | 2020-12-01 |  |
+| [Everything I Do Goin' Be Funky](https://open.spotify.com/track/2DeZEHRDH35GWfHMkAV6Ih) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/7Lwx1Q6GHeKp6p8pnSgGu6) | 3:17 | 2020-12-01 |  |
+| [Everything I Do Goin' Be Funky](https://open.spotify.com/track/5EQRiL6hOtongNIxiTKIM4) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/3iSaoLNyr2b1u0hfAzNsiM) | 3:17 | 2020-12-01 | 2022-12-01 |
 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 | 2020-12-01 |  |
 | [Funky Street](https://open.spotify.com/track/6uu9g2xpWSPda9SFPvrAmO) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Soul Directions](https://open.spotify.com/album/3PowoJrtqNFSY8HEJ3a1v4) | 2:23 | 2020-12-01 |  |
 | [Girls Can't Do What the Guys Do](https://open.spotify.com/track/2geMYfXFhqZFMdrF08XSLz) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [My First Time Around](https://open.spotify.com/album/60MgM22GTqUI7JI7KddEIA) | 2:07 | 2020-12-01 |  |

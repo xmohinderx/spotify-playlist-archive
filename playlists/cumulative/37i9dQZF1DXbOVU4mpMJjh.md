@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-449 songs - 1 day 12 hr 26 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+450 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [How Can I Tell You \- Live](https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Passin' Thru \(Live\)](https://open.spotify.com/album/2qiyL96vDeoFjWhRdJ4vL5) | 9:46 | 2022-04-14 | 2022-10-08 |
 | [How Many More](https://open.spotify.com/track/5zpqkOpg31ksUdhuqJ9CQU) | [Courtney Pine](https://open.spotify.com/artist/2OfIB3yNJjX3AElLJnz8am) | [Black Notes from the Deep](https://open.spotify.com/album/38TrCRGLXPUSCMWCbC9Lym) | 6:27 | 2022-04-14 | 2022-09-23 |
 | [I Can´t Get Started](https://open.spotify.com/track/4WnIvYavScSqhquPBhSEof) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [I Can´t Get Started](https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp) | 3:28 | 2022-08-16 | 2022-10-08 |
+| [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Didn't Know About You](https://open.spotify.com/track/0tiIQkcdPcECxqbS9dgDXx) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Blues\-a\-Plenty \(feat\. Ben Webster\) \[Bonus Track Version\]](https://open.spotify.com/album/5TIcHwhIh3kESyuHXA69r7) | 3:32 | 2022-04-14 | 2022-07-29 |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/5FpmRoCduqD28smrRs6mdl) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [WomanChild](https://open.spotify.com/album/5JE6HnCPJ9is6pnewMaaSe) | 6:07 | 2022-04-14 | 2022-09-30 |
 | [I Got It Bad](https://open.spotify.com/track/2Smeb5R5N2aCYAi7cIhema) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Rosario Giuliani](https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06) | [Duke's Dream](https://open.spotify.com/album/59TvEAv7zdGTO8Eu3oy52f) | 7:20 | 2022-04-14 | 2022-07-29 |
@@ -323,7 +324,7 @@
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-11 |  |
 | [Romance / Hommage à Milhaud](https://open.spotify.com/track/3lw4OExcjj4kba4uU9gF4P) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:45 | 2022-04-14 | 2022-09-23 |
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2022-04-14 | 2022-05-25 |
-| [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2022-10-27 |  |
+| [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2022-10-27 | 2022-12-01 |
 | [Ruby My Dear](https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:12 | 2022-04-14 | 2022-10-08 |
 | [Ruby My Dear](https://open.spotify.com/track/0VWMeGBrCBB5vFsDWAnXCi) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Ruby My Dear](https://open.spotify.com/album/0mVhiB4QTDZPFSkTF9FDTq) | 3:32 | 2022-06-30 | 2022-10-08 |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-10 |  |

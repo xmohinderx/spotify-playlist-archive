@@ -4,7 +4,7 @@
 
 > New music from Stomrzy, Tone Stith, Pinkpantheress, GloRilla, MFnMelo and more
 
-1,336 songs - 2 day 18 hr 19 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+1,337 songs - 2 day 18 hr 23 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Break Out Dat Cake](https://open.spotify.com/track/2WjrrTmJ7ZsZFvCSQy7bYY) | [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 3:31 | 2022-10-21 | 2022-11-05 |
 | [Breathin Again](https://open.spotify.com/track/16uowkIsA1n67JEARfNPLG) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Breathin Again](https://open.spotify.com/album/48GsGBmW86j7CgeqGWGUAg) | 2:23 | 2022-06-17 | 2022-07-10 |
 | [Broke](https://open.spotify.com/track/4PuK5qsM9yF2x4MhM5sjkT) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Broke](https://open.spotify.com/album/0xZKaOjDHI0Kx3IfS2eb0M) | 2:59 | 2022-11-04 | 2022-11-26 |
-| [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 | 2022-08-26 |  |
+| [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:55 | 2022-11-04 |  |
+| [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 | 2022-08-26 | 2022-12-01 |
 | [BUDDAH ARMS](https://open.spotify.com/track/7AuogiLJdOZop0gEhqD1gT) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [FOREVER FIGUEROA 2](https://open.spotify.com/album/0DVvePo3RyEeGE6BArKnsc) | 1:57 | 2022-04-01 | 2022-04-23 |
 | [Bulletproof Maybach \(feat\. Offset\)](https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:57 | 2022-10-07 | 2022-10-22 |
 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 | 2022-07-22 | 2022-08-13 |

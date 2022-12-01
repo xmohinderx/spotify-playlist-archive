@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-415 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+416 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Like I Do](https://open.spotify.com/track/7gL0h7uIZ6JA2tPv5OLTI8) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Like I Do](https://open.spotify.com/album/0AaaRwz24KqFzKlqYUfUuZ) | 3:12 | 2021-12-16 | 2021-12-28 |
 | [Lilah's Lullaby](https://open.spotify.com/track/6wKMPjmKoeXddZpRIapfPk) | [Lilah](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo) | [Lilah's Lullaby](https://open.spotify.com/album/2EabJgMuDeSBBBokB3l8QJ) | 2:52 | 2022-03-25 | 2022-04-10 |
 | [Limit](https://open.spotify.com/track/10YmqsYYIRO5x1ZS0h4DBg) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [issues, 1](https://open.spotify.com/album/2nzFjEnp0873I46TTiVy6Q) | 3:20 | 2022-03-25 | 2022-07-29 |
-| [listen up](https://open.spotify.com/track/1ZrwOwgJ8CY3PSERs9iX25) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/1On51KcQWiudpZCuy7OH2Q) | 1:48 | 2022-11-23 |  |
+| [listen up](https://open.spotify.com/track/1ZrwOwgJ8CY3PSERs9iX25) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/1On51KcQWiudpZCuy7OH2Q) | 1:48 | 2022-11-23 | 2022-12-01 |
+| [listen up \- Radio Edit](https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9) | 1:48 | 2022-12-01 |  |
 | [Loaded](https://open.spotify.com/track/0fNuZNhPwdriik2iKwyRjl) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Loaded](https://open.spotify.com/album/2cZD3tWDDMa70VzeSAhuIm) | 3:49 | 2022-03-08 | 2022-04-05 |
 | [Logs Are People Too](https://open.spotify.com/track/2IJxDOhnLmsKnvhOOp1VLc) | [Harry Edwards](https://open.spotify.com/artist/5l6T8qOBj24gRiXWJnUT5C) | [Loops](https://open.spotify.com/album/4x6IQrT3xSWV85WXrZaST3) | 3:52 | 2022-03-25 | 2022-05-23 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-25 |  |

@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Supershy
+> The home for alternative electronic music\. Cover: Fred again..
 
-532 songs - 1 day 15 hr 14 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+533 songs - 1 day 15 hr 16 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,8 @@
 | [Unit 18](https://open.spotify.com/track/4QRHWbbFJhPqTFs6RPS1TV) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Unit 18](https://open.spotify.com/album/1uv2fpE0D6tI9hB7Uq0nJe) | 4:11 | 2022-06-09 | 2022-09-02 |
 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 | 2022-09-29 |  |
 | [Upstairs Flat](https://open.spotify.com/track/6VOiyOngpEqCw17OdUfSQj) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/46Tzqoo34KEb0G2hYDp5Ry) | 6:07 | 2022-01-07 | 2022-05-06 |
-| [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-09-15 |  |
+| [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-09-15 | 2022-12-01 |
+| [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2022-11-30 |  |
 | [Vibe Catcher](https://open.spotify.com/track/0JhWSndXoTT6SOVhHkMOj3) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Vibe Catcher](https://open.spotify.com/album/1eyP4K1Oj4rT0wyBMXZjGI) | 6:07 | 2022-03-08 | 2022-03-10 |
 | [Visited By Astronauts \(SHERELLE Had A Groove Remix\)](https://open.spotify.com/track/5UlfojmfPdNxLnt5qcBx93) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [Visited By Astronauts \(SHERELLE Had A Groove Remix\)](https://open.spotify.com/album/7uWrC80CdnlDRoe9pUI1yn) | 4:36 | 2022-02-18 | 2022-07-15 |
 | [Visited By Astronauts \- SHERELLE Had A Groove Remix](https://open.spotify.com/track/5khnuLSFWo3UTKciMrGgza) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [Natural Aerials](https://open.spotify.com/album/7xprKBZv559vWJ5tYF44Wq) | 4:36 | 2022-08-11 | 2022-08-20 |

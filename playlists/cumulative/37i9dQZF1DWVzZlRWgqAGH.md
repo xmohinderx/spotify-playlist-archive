@@ -4,7 +4,7 @@
 
 > 🧈 Smooth joints\. Cover: Adi Oasis
 
-767 songs - 1 day 21 hr 22 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+768 songs - 1 day 21 hr 26 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,8 @@
 | [SRS](https://open.spotify.com/track/6eARmBRQqt4BkuRsDt87zZ) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU) | [SRS](https://open.spotify.com/album/22SxX9KWtygUdQNnnqfr73) | 3:36 | 2021-10-12 | 2022-04-20 |
 | [Stand Up](https://open.spotify.com/track/51jCJS1mfR552iwoqKa9Ss) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Richie Garrison](https://open.spotify.com/artist/6N509XbcG29Nb73k7TtuyD), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Ms MAURICE](https://open.spotify.com/artist/71de3PbzhhP5sSKhcWgNdo) | [Stand Up](https://open.spotify.com/album/3Er6INyfEk1z31YcWG2MqV) | 4:27 | 2019-09-29\* | 2019-10-17 |
 | [Starlife](https://open.spotify.com/track/2oo5LFn3wUCvgFEdTWmEAp) | [Cassowary](https://open.spotify.com/artist/3T3Ta5gL9MFTQ9xuZ0h9Dy), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Starlife](https://open.spotify.com/album/4ZMwN6AxHqHBeQObpMbpGW) | 3:05 | 2020-10-30 | 2020-12-01 |
-| [Stars \(feat\. Yasiin Bey\)](https://open.spotify.com/track/3umzAtRU8JW5uXDPwPq8eE) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 4:18 | 2022-09-02 |  |
+| [Stars \(feat\. Yasiin Bey\)](https://open.spotify.com/track/1SsbAUqPSt20PhHAuVSDNu) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 4:18 | 2022-11-25 |  |
+| [Stars \(feat\. Yasiin Bey\)](https://open.spotify.com/track/3umzAtRU8JW5uXDPwPq8eE) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 4:18 | 2022-09-02 | 2022-12-01 |
 | [Stayback](https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stayback](https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk) | 2:39 | 2020-08-07 | 2020-08-25 |
 | [Stayback \(feat\. Bootsy Collins\) \- Remix](https://open.spotify.com/track/1u92O1jkbQ2pusVdnadI5E) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Stayback \(feat\. Bootsy Collins\) \[Remix\]](https://open.spotify.com/album/5H3maqEjGnvy8mL03evE0Y) | 3:03 | 2020-08-25 | 2020-09-18 |
 | [Steady](https://open.spotify.com/track/6iTXPXOSNUuOyXhY9ccTLJ) | [ashhh.](https://open.spotify.com/artist/3JuopgmygWkRW3uiUI2sZm), [Intervall](https://open.spotify.com/artist/4OXniyALQGujjRd6q2lDJa) | [Steady](https://open.spotify.com/album/4ZifLuPjMkiPqPJzlNBF4P) | 3:21 | 2021-03-08 | 2021-03-22 |

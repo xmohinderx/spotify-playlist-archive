@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-213 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+214 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Coffee and cookies](https://open.spotify.com/track/1p7fGKcaAzYjyzME9GF3PO) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Coffee and cookies](https://open.spotify.com/album/059ZhktGOJDkzsKnze9IwG) | 1:16 | 2022-04-15 | 2022-07-29 |
 | [Coke Wind](https://open.spotify.com/track/3FJSbTPWAy88XfocURuf0q) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Hello Mr.Goodvibe](https://open.spotify.com/album/6mq3p1dQeJYMUZHx7zFcGn) | 2:05 | 2022-04-15 | 2022-07-29 |
 | [Cold Breeze](https://open.spotify.com/track/64fGgroQQGWe6AdqEW0h7H) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Cold Breeze](https://open.spotify.com/album/1Cv3if511L6YHwokHT8pzc) | 1:38 | 2022-04-15 | 2022-07-29 |
-| [Contigo](https://open.spotify.com/track/69UHI9KF5JRwfKmcMNta8k) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT) | [Sorry](https://open.spotify.com/album/7pXpjVPml1bLD3idUmgCtw) | 1:46 | 2022-04-15 |  |
+| [Contigo](https://open.spotify.com/track/69UHI9KF5JRwfKmcMNta8k) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT) | [Sorry](https://open.spotify.com/album/7pXpjVPml1bLD3idUmgCtw) | 1:46 | 2022-04-15 | 2022-12-01 |
 | [crush on you](https://open.spotify.com/track/1vlzSY7AttAiAvSEe1JbVs) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:24 | 2022-04-15 | 2022-11-19 |
 | [crush on you](https://open.spotify.com/track/5nwZjXqJNYVJHV4uLqYxcG) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/7w1VLFYPh1KxlgvRhnqQtv) | 1:24 | 2022-04-15 |  |
 | [Cujo](https://open.spotify.com/track/4reSkHtZwtc3dGnmG8blkE) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Cujo](https://open.spotify.com/album/3hWNMSeDkARnpSCgmQUyLF) | 1:40 | 2022-04-15 | 2022-07-29 |
@@ -197,6 +197,7 @@
 | [this girl](https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 2:02 | 2022-04-15 |  |
 | [this one is for you](https://open.spotify.com/track/4LldbfLNmXOCgFbZdfGEAV) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [longing for you](https://open.spotify.com/album/5g1Wmg2jW2F11eX4aNKcBV) | 1:18 | 2022-04-15 | 2022-07-25 |
 | [Tick Tock](https://open.spotify.com/track/3al8a3uZrOZIHc6J1n8i5f) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:13 | 2022-04-15 | 2022-11-17 |
+| [Tick Tock](https://open.spotify.com/track/7fBCxF9Qt9l7YeEyTMNEQq) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:13 | 2022-04-15 |  |
 | [Tide](https://open.spotify.com/track/5la9kc6osTp6HZU9sHzEJx) | [Egger](https://open.spotify.com/artist/52VGhCTWuqf5fIdUqBtYkR), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [Tide](https://open.spotify.com/album/1zTcLZZrU1J9YISA0lCnYT) | 1:43 | 2022-04-15 | 2022-07-29 |
 | [time's arrow](https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [time's arrow](https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym) | 2:18 | 2022-04-15 |  |
 | [TIMES](https://open.spotify.com/track/1U7XPqYnmrcodq6JLkAeWO) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 1:22 | 2022-04-15 | 2022-06-16 |

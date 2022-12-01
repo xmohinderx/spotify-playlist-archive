@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-130 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
+131 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Maybe](https://open.spotify.com/track/2E3cOBSZuyqQ3yZBH78pXV) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Maybe](https://open.spotify.com/album/1T0IZd7xKscW1ujnmJrwFV) | 3:33 | 2021-12-01 |  |
 | [Meantime](https://open.spotify.com/track/3Pk5juBUclTzB7vVlEfhGn) | [Del Barber](https://open.spotify.com/artist/596XrMi1b7txL6jMiyb1yk) | [Stray Dogs \(Collected B\-Sides / Vol\. 1\)](https://open.spotify.com/album/25bDF9z2yygydHgcg2UXQ7) | 3:49 | 2021-12-01 | 2022-07-29 |
 | [Meantime](https://open.spotify.com/track/3hcbdDw87oX6SPDMekdpi3) | [Del Barber](https://open.spotify.com/artist/596XrMi1b7txL6jMiyb1yk) | [Stray Dogs \(Collected B\-Sides / Vol\. 1\)](https://open.spotify.com/album/1uFRwIffKXo3ptXsCE11pv) | 3:49 | 2021-12-01 |  |
-| [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 | 2021-12-01 |  |
+| [Middle Of Nowhere](https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg) | [Middle Of Nowhere](https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG) | 6:42 | 2021-12-01 |  |
+| [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 | 2021-12-01 | 2022-12-01 |
 | [Misnomer](https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:43 | 2021-12-01 |  |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-12-01 |  |
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2021-12-01 |  |

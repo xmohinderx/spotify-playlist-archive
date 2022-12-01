@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Junior H
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,302 likes - 53 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,489 likes - 53 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 5 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
 | 6 | [Si Yo Me Muero](https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Si Yo Me Muero](https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH) | 3:21 |
 | 7 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 |
-| 8 | [Un Selfie Con 3 Millones](https://open.spotify.com/track/4Buu9Uu1wcv3aqXvrn3igC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 3:10 |
+| 8 | [Un Selfie Con 3 Millones](https://open.spotify.com/track/4Buu9Uu1wcv3aqXvrn3igC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 3:10 |
 | 9 | [Desacatá](https://open.spotify.com/track/4csBBYayvELqvO34oeO7xz) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Desacatá](https://open.spotify.com/album/2riif8Lab8JyhLAPZiVKMs) | 2:52 |
 | 10 | [Agradecido](https://open.spotify.com/track/5ig1NYGNOdSlSJBZi6UBtn) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Agradecido](https://open.spotify.com/album/63o74TKCHxHWlOGl84Q51e) | 3:31 |
 | 11 | [Falsas Promesas](https://open.spotify.com/track/22CiUJfxqy351cndvSdpSE) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Ozziel](https://open.spotify.com/artist/71AORzwbG15at2XVDp6iyh) | [Falsas Promesas](https://open.spotify.com/album/4NbpHL7tRAHNptRXQcsfak) | 4:28 |
 | 12 | [Que Te Perdone](https://open.spotify.com/track/5FxhGtbB5kopGvNETRpcLx) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Que Te Perdone](https://open.spotify.com/album/6nPMcgX2MUuEsGgQvNL1FT) | 3:34 |
 | 13 | [Olé Olé \(feat\. Ronaldinho Gaúcho\)](https://open.spotify.com/track/3eUsJCHaRFj7MUmYbycwHw) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe) | [Olé Olé \(feat\. Ronaldinho Gaúcho\)](https://open.spotify.com/album/12IaoWeaXTEte1MULtTvjm) | 3:00 |
-| 14 | [VICTORIA](https://open.spotify.com/track/0YmXeRxv4o6LrsDaGpLqdg) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [VICTORIA](https://open.spotify.com/album/5daYTq0BH5WgD6U4ClOX62) | 3:20 |
+| 14 | [VICTORIA](https://open.spotify.com/track/0YmXeRxv4o6LrsDaGpLqdg) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [VICTORIA](https://open.spotify.com/album/5daYTq0BH5WgD6U4ClOX62) | 3:19 |
 | 15 | [Suge Knight](https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Suge Knight](https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj) | 8:18 |
 | 16 | [LO TENGO](https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Lo Tengo](https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU) | 2:47 |
 | 17 | [Fundota](https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Fundota](https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo) | 2:20 |

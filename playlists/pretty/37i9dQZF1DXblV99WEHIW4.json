@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 150874,
+  "num_followers": 151450,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGNmMmY3MmUyYmE2YzVjNDkxNTIzMTI2MjdkZjQyMDE3",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDhkNjY2M2UyNDczN2VkNmYyMmUxNzgwMmY3N2ZmZGFh",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "A War You Cannot Win",
-        "url": "https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 277346,
-      "name": "What If I Was Nothing",
-      "url": "https://open.spotify.com/track/28urem2KpSOkljclEk8X8G"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Aggressive",
         "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "A War You Cannot Win",
+        "url": "https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 277346,
+      "name": "What If I Was Nothing",
+      "url": "https://open.spotify.com/track/28urem2KpSOkljclEk8X8G"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/6FIG1qaWuCW4SiY2EtLJE7"
-      },
-      "artists": [
-        {
-          "name": "Pianos Become The Teeth",
-          "url": "https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Ripple Water Shine",
-      "url": "https://open.spotify.com/track/7rPpErLCzp22gTrEmx4XYb"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "XOXO: From Love & Anxiety In Real Time",
         "url": "https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 185146,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/6FIG1qaWuCW4SiY2EtLJE7"
+      },
+      "artists": [
+        {
+          "name": "Pianos Become The Teeth",
+          "url": "https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Ripple Water Shine",
+      "url": "https://open.spotify.com/track/7rPpErLCzp22gTrEmx4XYb"
     },
     {
       "added_at": "2022-08-25 23:00:00",

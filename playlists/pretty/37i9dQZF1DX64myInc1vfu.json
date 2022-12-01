@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era just for you. Los boleritos de hoy. Cover: Yoss Bones",
-  "num_followers": 53878,
+  "num_followers": 53988,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwMDM1MiwwMDAwMDAwMDk5NmNiM2E4YTRmZTViZTE1ZWU5MjdlNjdkYTA2NTYx",
+  "snapshot_id": "MTY2MzYwMDM1MiwwMDAwMDAwMDljMjAxNzNkNjFiN2ZhODc4NDhmODM5YmI1MDQwNTEy",
   "tracks": [
     {
       "added_at": "2022-09-19 15:12:32",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
-        "name": "Amor de Bolero",
-        "url": "https://open.spotify.com/album/7GQCGDiH41ovnH6yQJYr7G"
-      },
-      "artists": [
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Amor de Bolero",
-      "url": "https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
         "name": "Jei Beibi",
         "url": "https://open.spotify.com/album/74eEfGjMICkDu7u8faPlc5"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 232251,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/562C3EC94HrVqmazwHvzej"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
+        "name": "Amor de Bolero",
+        "url": "https://open.spotify.com/album/7GQCGDiH41ovnH6yQJYr7G"
+      },
+      "artists": [
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Amor de Bolero",
+      "url": "https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr"
     }
   ],
   "unique_name": "Lento.",

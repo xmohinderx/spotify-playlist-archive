@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Okoye and Shuri from Black Panther: Wakanda Forever",
-  "num_followers": 468589,
+  "num_followers": 468585,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1OTAzMiwwMDAwMDAwMGNlZDc0NzIwMTFlYWJkM2M3Mjg2NDhlYTVjOGNjNDQ0",
+  "snapshot_id": "MTY2OTA1OTAzMiwwMDAwMDAwMDlhZWZkMWE4YzM2ODZmMTU3YzZmYjUyOGY5ZGFmODY3",
   "tracks": [
     {
       "added_at": "2022-11-21 19:30:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-11-21 19:30:32",
       "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
-    },
-    {
-      "added_at": "2022-11-21 19:30:32",
-      "album": {
         "name": "Most Known Unknown (Explicit)",
         "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 236600,
       "name": "Stay Fly",
       "url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS"
+    },
+    {
+      "added_at": "2022-11-21 19:30:32",
+      "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2022-11-21 19:30:32",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-11-21 19:30:32",
       "album": {
+        "name": "U KNOW ME",
+        "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "U KNOW ME",
+      "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
+    },
+    {
+      "added_at": "2022-11-21 19:30:32",
+      "album": {
         "name": "Dog Food (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 184123,
       "name": "Dog Food (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
-    },
-    {
-      "added_at": "2022-11-21 19:30:32",
-      "album": {
-        "name": "U KNOW ME",
-        "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "U KNOW ME",
-      "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
     },
     {
       "added_at": "2022-11-21 19:30:32",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-11-21 19:30:32",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Super Stars",
-      "url": "https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf"
-    },
-    {
-      "added_at": "2022-11-21 19:30:32",
-      "album": {
         "name": "nice",
         "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 101298,
       "name": "slideshow",
       "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
+    },
+    {
+      "added_at": "2022-11-21 19:30:32",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Super Stars",
+      "url": "https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf"
     },
     {
       "added_at": "2022-11-21 19:30:32",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-11-21 19:30:32",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2022-11-21 19:30:32",
-      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2022-11-21 19:30:32",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2022-11-21 19:30:32",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-11-21 19:30:32",
       "album": {
-        "name": "Something Real",
-        "url": "https://open.spotify.com/album/0KR14TOAs6EAoe0zjMDyQR"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 133085,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/58NhjNniLzv9moIlOzPQGp"
-    },
-    {
-      "added_at": "2022-11-21 19:30:32",
-      "album": {
         "name": "stay away",
         "url": "https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 159509,
       "name": "Ready Pa Volar",
       "url": "https://open.spotify.com/track/21t46dR7JRFXPeIIfqxl0g"
+    },
+    {
+      "added_at": "2022-11-21 19:30:32",
+      "album": {
+        "name": "Fortune Cookie",
+        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 133085,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/3igF3hh2CifmH2ybD3hHiT"
     }
   ],
   "unique_name": "'fit check",

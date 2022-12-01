@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 127774,
+  "num_followers": 127866,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMGM5ZGJkMTEwZTUxYTkxNjFkYTdiODBhNjFjMTFiMGMy",
+  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMDFjZGE5NTM0MzRmYWI2ZmFkMWI0NmYzNDY0YWUwY2Zl",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -579,6 +579,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Fight On, Fighter",
+      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Hills and Valleys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         }
       ],
-      "duration_ms": 218106,
-      "name": "Fight On, Fighter",
-      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -627,22 +643,6 @@
       "duration_ms": 415079,
       "name": "Jesus We Love You - Live",
       "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "I Have This Hope",
-      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Unspoken",
         "url": "https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 175960,
       "name": "Good Fight",
       "url": "https://open.spotify.com/track/6ukP8PkZshgCEw8u9rPsho"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "I Have This Hope",
+      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -871,8 +871,8 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Who You Say I Am (Live)",
-        "url": "https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc"
+        "name": "Christmas: The Peace Project",
+        "url": "https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o"
       },
       "artists": [
         {
@@ -880,17 +880,13 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Reuben Morgan",
-          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 329080,
-      "name": "Who You Say I Am - Live",
-      "url": "https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp"
+      "duration_ms": 274386,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -983,22 +979,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "What If We Were Real",
-        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 213886,
-      "name": "Stronger - With Cold Ending",
-      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "This Is What We Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD"
       },
@@ -1015,8 +995,24 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Christmas: The Peace Project",
-        "url": "https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o"
+        "name": "What If We Were Real",
+        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 213886,
+      "name": "Stronger - With Cold Ending",
+      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Who You Say I Am (Live)",
+        "url": "https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc"
       },
       "artists": [
         {
@@ -1024,13 +1020,17 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
         }
       ],
-      "duration_ms": 274386,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
+      "duration_ms": 329080,
+      "name": "Who You Say I Am - Live",
+      "url": "https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Lead Us Back: Songs of Worship",
-        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
       "artists": [
         {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        },
-        {
-          "name": "Harvest",
-          "url": "https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Your Words (feat. Harvest) (feat. Harvest)",
-      "url": "https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8"
+      "duration_ms": 423376,
+      "name": "Hallelujah Here Below",
+      "url": "https://open.spotify.com/track/5PY5NbWxkAUkVQuvIuTHkz"
     }
   ],
   "unique_name": "Hold Hope",

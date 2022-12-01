@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-127 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
+128 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 | 2021-02-12 |  |
 | [From the Wreckage Build a Home](https://open.spotify.com/track/4nfJaz7eFYR82rWumtPutG) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 3:33 | 2021-02-12 |  |
 | [Ghost](https://open.spotify.com/track/34hnNivtjbAzrpoy4L75uk) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/6SuIleYbiL8pUzX4W7yPXG) | 4:29 | 2021-02-12 | 2022-07-29 |
-| [Ghost](https://open.spotify.com/track/7KqbJ9ct3YZjvB08NawcrF) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/4bCcwaKznhOyjvLysGVGVP) | 4:29 | 2021-02-12 |  |
+| [Ghost](https://open.spotify.com/track/3bwymFXaLawekXh24ZOL9s) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/17l9KWnEV8rjy3QoYAUGT7) | 4:29 | 2022-09-21 |  |
+| [Ghost](https://open.spotify.com/track/7KqbJ9ct3YZjvB08NawcrF) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/4bCcwaKznhOyjvLysGVGVP) | 4:29 | 2021-02-12 | 2022-12-01 |
 | [Gold Rush](https://open.spotify.com/track/0jQNFJUCFPaTo3obowrbqG) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/3D7fUdOMnkiLuuXDtfxFA4) | 3:33 | 2021-02-12 | 2022-07-29 |
 | [Gold Rush](https://open.spotify.com/track/41HBl0MY8sTTe4ZcpMsm5r) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:33 | 2021-02-12 |  |
 | [Gold Rush](https://open.spotify.com/track/71WTX4gL815zPt0l3wGBTl) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart of My Own](https://open.spotify.com/album/2litDL7wIKCHWALJSrdOV8) | 3:33 | 2021-02-12 | 2022-08-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,980 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,006 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,16 +52,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 42 | [Raghsan](https://open.spotify.com/track/0yWWPxQTJWHfQmcRta04tE) | [Shahram Gholami](https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8) | [Persian Oud, Dirine Delkhah](https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4) | 3:39 |
 | 43 | [Lullaby](https://open.spotify.com/track/0qOmbTmCOZNVo3QqifYcZf) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [On Fire](https://open.spotify.com/album/3OyFbJ01WwQw2lD31iytqC) | 5:01 |
 | 44 | [Daramad](https://open.spotify.com/track/4eaYuQ4GWnkKQinHhDfgNi) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP) | [Nava Concert](https://open.spotify.com/album/0Wqh8kAeal14fka66mR0RL) | 3:49 |
-| 45 | [Noor \(Light\)](https://open.spotify.com/track/6tDEBXUKWLJG9xr2WRp1sb) | [Hosein Behroozinia](https://open.spotify.com/artist/1vCSqjfEj5Q0CP58CAhTZ4) | [From Stone Till Diamond \(Az Sang Ta Almas\) \-Iranian Barbat\(Oud\) Solo](https://open.spotify.com/album/27eMj8wEK8uU2FvTt0l0bG) | 5:08 |
-| 46 | [Longing](https://open.spotify.com/track/4luIM6MFbBF3Dsf34hoDoa) | [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow), [Diwan Café](https://open.spotify.com/artist/33LAvkMX74zhQhtOskFavN), [Ousso Lotfy](https://open.spotify.com/artist/4DRl1RJuxljaIX29rTLDCg) | [Longing](https://open.spotify.com/album/6LcJnJHschmyhydB6AgpOI) | 3:13 |
+| 45 | [Longing](https://open.spotify.com/track/4luIM6MFbBF3Dsf34hoDoa) | [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow), [Diwan Café](https://open.spotify.com/artist/33LAvkMX74zhQhtOskFavN), [Ousso Lotfy](https://open.spotify.com/artist/4DRl1RJuxljaIX29rTLDCg) | [Longing](https://open.spotify.com/album/6LcJnJHschmyhydB6AgpOI) | 3:13 |
+| 46 | [Noor \(Light\)](https://open.spotify.com/track/6tDEBXUKWLJG9xr2WRp1sb) | [Hosein Behroozinia](https://open.spotify.com/artist/1vCSqjfEj5Q0CP58CAhTZ4) | [From Stone Till Diamond \(Az Sang Ta Almas\) \-Iranian Barbat\(Oud\) Solo](https://open.spotify.com/album/27eMj8wEK8uU2FvTt0l0bG) | 5:08 |
 | 47 | [Maqam tour reefy mohammdawiy](https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG) | [Ali Hassan](https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd) | [Aloud Taqaseem Ala](https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7) | 3:27 |
 | 48 | [Baraamad](https://open.spotify.com/track/2hITyZ541vVH3TElcLIlTh) | [Golnoosh salehi](https://open.spotify.com/artist/7gi9wcNqidI9zivuE4IEXF), [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm), [Sattar Khatabi](https://open.spotify.com/artist/34wwisNKAfgq1WV7viNxwF), [Harutyun Chkolyan](https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq) | [First Of July](https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v) | 4:17 |
 | 49 | [Farewell With Mirror](https://open.spotify.com/track/1xXueslGJ24IAlwlU73k5r) | [Amir Farhang Eskandari](https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu), [Zakaria Yousefi](https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r) | [And](https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s) | 4:27 |
 | 50 | [Tare Tanha](https://open.spotify.com/track/3wq6LqC40TuXAbdPapGK9Q) | [Arash Badie](https://open.spotify.com/artist/6xGJlTZ5odUFdrBzmCUR13) | [Hejar](https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo) | 3:05 |
 | 51 | [First Gāh](https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa) | [Yasamin Shahhosseini](https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl) | [Gāhān](https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY) | 8:00 |
-| 52 | [Affection](https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46) | [Siavash Roshan](https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS) | [The Passage](https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF) | 5:03 |
-| 53 | [Pause](https://open.spotify.com/track/7g3L86HLw2p9jXb3NPpMzD) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [In Turn](https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe) | 4:46 |
-| 54 | [Kawkab Abad \- Live](https://open.spotify.com/track/46qO8r10VMl72reCQgaqwo) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [Kawkab Abad \(Live\)](https://open.spotify.com/album/6ZhekGr3KKTbX4yfQ4oQym) | 6:54 |
+| 52 | [Kawkab Abad \- Live](https://open.spotify.com/track/46qO8r10VMl72reCQgaqwo) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [Kawkab Abad \(Live\)](https://open.spotify.com/album/6ZhekGr3KKTbX4yfQ4oQym) | 6:54 |
+| 53 | [Affection](https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46) | [Siavash Roshan](https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS) | [The Passage](https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF) | 5:03 |
+| 54 | [Pause](https://open.spotify.com/track/7g3L86HLw2p9jXb3NPpMzD) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [In Turn](https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe) | 4:46 |
 | 55 | [Bovad Aya](https://open.spotify.com/track/3ejtsUvCZzSNAusYt476lM) | [Golnoosh salehi](https://open.spotify.com/artist/7gi9wcNqidI9zivuE4IEXF), [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm), [Sattar Khatabi](https://open.spotify.com/artist/34wwisNKAfgq1WV7viNxwF), [Harutyun Chkolyan](https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq) | [First Of July](https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v) | 5:28 |
 | 56 | [Improvisation In Shour](https://open.spotify.com/track/0bXMGGXGsglxFQcaDhymz0) | [Amir Farhang Eskandari](https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu), [Zakaria Yousefi](https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r) | [And](https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s) | 2:44 |
 | 57 | [Intuition](https://open.spotify.com/track/386a1KJQ3h4plXTpFd5B50) | [Rastak Ensemble](https://open.spotify.com/artist/59y2pjV0vqvuq5r4sIH6ZM) | [Ancient Hues / a Narrative of Iranian Folk Music](https://open.spotify.com/album/10PaLFiCADgQ2rAdq3oLBr) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 |
 | 60 | [Ikarus' Dream](https://open.spotify.com/track/4rgIn7tE7ZyC9HrxPYrQAz) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/1Vep08NRl8GxaFy2BZrYxm) | 3:43 |
 
-Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDA1OWY0NDBhNDRiOGYwYWQwZmI4YzgzZGRiNDU0MmRk`
+Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMGJkNmI4YzMyNzQ2MjdkMTg5Mzc2NDcxMjI5OWQ1ODA4`

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6195,
+  "num_followers": 6206,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk4MDcwMSwwMDAwMDAwMDllZWRiZTNkZGMxMjY4NzdmODgzN2UzZDMyNmJjMmEz",
+  "snapshot_id": "MTY2Nzk4MDcwMSwwMDAwMDAwMGFjYzJiYTk5MDcwN2IzZTFlNDdjYzk5MzNhODYzOTkw",
   "tracks": [
     {
       "added_at": "2022-11-09 07:58:21",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
         "name": "Stroll",
         "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 228266,
       "name": "Forest",
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -287,6 +287,26 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
+        "name": "Greeting",
+        "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
+      },
+      "artists": [
+        {
+          "name": "Kim Oki",
+          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 400871,
+      "name": "Bye (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
         "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 217774,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
-        "name": "Greeting",
-        "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
-      },
-      "artists": [
-        {
-          "name": "Kim Oki",
-          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 400871,
-      "name": "Bye (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "let\u2019s play tug",
-        "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
-      },
-      "artists": [
-        {
-          "name": "heyden",
-          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
-        }
-      ],
-      "duration_ms": 166196,
-      "name": "let\u2019s play tug",
-      "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
-    },
-    {
-      "added_at": "2022-11-09 07:58:21",
-      "album": {
         "name": "CAKE",
         "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "added_at": "2022-11-09 07:58:21",
+      "album": {
+        "name": "let\u2019s play tug",
+        "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "duration_ms": 166196,
+      "name": "let\u2019s play tug",
+      "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -671,18 +671,18 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "Gently, By Your Side",
-        "url": "https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI"
+        "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
       },
       "artists": [
         {
-          "name": "Siwa",
-          "url": "https://open.spotify.com/artist/4Ov1By1bw2tZ0bWYn2mHlX"
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
         }
       ],
-      "duration_ms": 178373,
-      "name": "Gently, By Your Side",
-      "url": "https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ"
+      "duration_ms": 233284,
+      "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
+        "name": "Gently, By Your Side",
+        "url": "https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI"
       },
       "artists": [
         {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/4Ov1By1bw2tZ0bWYn2mHlX"
         }
       ],
-      "duration_ms": 233284,
-      "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
-      "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+      "duration_ms": 178373,
+      "name": "Gently, By Your Side",
+      "url": "https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
-        "url": "https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz"
+        "name": "Night Swimming",
+        "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
       },
       "artists": [
         {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+          "name": "sunwashere",
+          "url": "https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx"
         }
       ],
-      "duration_ms": 220842,
-      "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
-      "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
+      "duration_ms": 249272,
+      "name": "Night Swimming",
+      "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
     },
     {
       "added_at": "2022-11-09 07:58:21",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-11-09 07:58:21",
       "album": {
-        "name": "Night Swimming",
-        "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
+        "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
+        "url": "https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz"
       },
       "artists": [
         {
-          "name": "sunwashere",
-          "url": "https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx"
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
         }
       ],
-      "duration_ms": 249272,
-      "name": "Night Swimming",
-      "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
+      "duration_ms": 220842,
+      "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
+      "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
     },
     {
       "added_at": "2022-11-09 07:58:21",

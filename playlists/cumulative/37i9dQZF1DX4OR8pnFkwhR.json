@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Bakemono no Hanashi",
+        "url": "https://open.spotify.com/album/4ZBKVAEsiMwctHwoaU1qaj"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Bakemono no Hanashi",
+      "url": "https://open.spotify.com/track/4RMXwdVJ4rNwsXravMnTxk"
+    },
+    {
+      "album": {
         "name": "Bankroll",
         "url": "https://open.spotify.com/album/3C5ywR5fla0iOLyoyBXqKj"
       },
@@ -2558,6 +2576,24 @@
     },
     {
       "album": {
+        "name": "ITSUKA",
+        "url": "https://open.spotify.com/album/21pGZoVlohOg9S73qgIsOW"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30c3\u30ad\u30fc\u30bb\u30d9\u30f3",
+          "url": "https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "ITSUKA",
+      "url": "https://open.spotify.com/track/5VmFkO55CHVLQyx0aRlaHC"
+    },
+    {
+      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/6n8QbQQAamira9hPwP1URm"
       },
@@ -3017,6 +3053,24 @@
       "duration_ms": 210000,
       "name": "Lucky Police Day",
       "url": "https://open.spotify.com/track/1AWqAFMimxtdidUreAHgBh"
+    },
+    {
+      "album": {
+        "name": "MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO",
+        "url": "https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235662,
+      "name": "MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO",
+      "url": "https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK"
     },
     {
       "album": {
@@ -5221,7 +5275,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 203500,
       "name": "Time Inn Moder",
       "url": "https://open.spotify.com/track/1JvTJ0XrOzGRgFs3hF6AKb"
@@ -7145,7 +7199,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 205666,
       "name": "\u30d0\u30b1\u30e2\u30ce\u306e\u8a71",
       "url": "https://open.spotify.com/track/6igRMpvxshpgzMwppQnOe3"
@@ -9369,7 +9423,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 235662,
       "name": "\u77ac\u304d\u3068\u7cbe\u795e\u3068\u541b\u306e\u6b4c\u3068\u97f3\u697d\u3068",
       "url": "https://open.spotify.com/track/0u6MZXPVfP9bAVuvGd4DgP"

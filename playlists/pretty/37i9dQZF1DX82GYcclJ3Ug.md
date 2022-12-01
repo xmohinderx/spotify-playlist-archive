@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: White Reaper
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,831 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,909 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 85 | [Pretty Boy](https://open.spotify.com/track/0HLUNrbWZdyUDWVKy3X9JH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Pretty Boy](https://open.spotify.com/album/0H47zdiavh551uJHvO4Nfx) | 4:55 |
 | 86 | [Cinnamon](https://open.spotify.com/track/4WBFBguZw3irFdhWlBemA3) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [Cinnamon](https://open.spotify.com/album/3UoxoqoJehdKekydjznAhU) | 2:38 |
 | 87 | [My People](https://open.spotify.com/track/7LI7D9mKjw5nadfq41LkRr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [My People](https://open.spotify.com/album/4vy5JvUyxYs2O0X8dzxfBe) | 3:12 |
-| 88 | [Otherside](https://open.spotify.com/track/5ZGrAvSbS9qOEphpjwn3Aj) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts III & IV](https://open.spotify.com/album/3KmnHNMnB13nkKbOx7jqv2) | 3:42 |
+| 88 | [Otherside](https://open.spotify.com/track/766xHIE1Ut9IBZ9c4iPq1K) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:42 |
 | 89 | [Keep On Dreamin'](https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Keep On Dreamin'](https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5) | 4:26 |
 | 90 | [How Does It Feel](https://open.spotify.com/track/5zjzqxrN1YsRHJlME6ZBXv) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [How Does It Feel](https://open.spotify.com/album/4782LqFlhYGsAyQo0nucMt) | 3:39 |
 | 91 | [Friends I Barely Know](https://open.spotify.com/track/1LrgCvDcHuPnThKRKkeoqL) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 2:59 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
 | 126 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGNmNjY4NDEwOTE4NTJmNjEwM2RjMWVkMzllYzg2NzZm`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDgxNGJjMDNjZTg2YmQ3Njg2YzkzOTA5ODJkYTdmZWNh`

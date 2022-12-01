@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\. Cover Bree Runway
 
-128 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
+129 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2022-02-04 |  |
 | [Hot Seat](https://open.spotify.com/track/5xukBu3xjGka7Q8bgj6nmE) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Tangible](https://open.spotify.com/album/0fvGi7uj6n88ZBSTVvrgDH) | 2:28 | 2022-02-04 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2022-02-04 | 2022-10-13 |
-| [HUH?](https://open.spotify.com/track/51YAv7jAdOLFVzKSIry2Sw) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:43 | 2022-04-22 |  |
+| [HUH?](https://open.spotify.com/track/41q2qZ5ka6FX52EE3N5v9w) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 2:43 | 2022-04-22 |  |
+| [HUH?](https://open.spotify.com/track/51YAv7jAdOLFVzKSIry2Sw) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:43 | 2022-04-22 | 2022-12-01 |
 | [HUH?](https://open.spotify.com/track/6wvMhmj0Jv7sf4isnzC5RQ) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Voulez\-Vous Me To...](https://open.spotify.com/album/5FWK6nPo20qWr9OAaRyqhk) | 2:43 | 2022-04-22 | 2022-11-13 |
 | [I Love This Song](https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Love This Song](https://open.spotify.com/album/4I5XWDLmyLUaNsJFulMhh7) | 3:26 | 2022-02-04 |  |
 | [I must apologise](https://open.spotify.com/track/2rrq3SGYxk90xLx5fMmPhZ) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:48 | 2022-02-04 |  |

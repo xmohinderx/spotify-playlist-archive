@@ -373,10 +373,32 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 206304,
       "name": "Bayside Lover",
       "url": "https://open.spotify.com/track/0hQfPQFUIkORbgj6rZtswa"
+    },
+    {
+      "album": {
+        "name": "Bayside Lover",
+        "url": "https://open.spotify.com/album/0dM5w3G09YZRE7SN3eMsbe"
+      },
+      "artists": [
+        {
+          "name": "DJ HASEBE",
+          "url": "https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW"
+        },
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206304,
+      "name": "Bayside Lover",
+      "url": "https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC"
     },
     {
       "album": {
@@ -2934,6 +2956,24 @@
     },
     {
       "album": {
+        "name": "Onozomidori",
+        "url": "https://open.spotify.com/album/4gSVJvKLVGJP7cHuQue9qQ"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213484,
+      "name": "Onozomidori",
+      "url": "https://open.spotify.com/track/5zylPPIua3ORvZxLudnjzc"
+    },
+    {
+      "album": {
         "name": "Opening Ceremony",
         "url": "https://open.spotify.com/album/11d3rQ6GBFxUuiOIir59dj"
       },
@@ -4933,7 +4973,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 213484,
       "name": "\u304a\u671b\u307f\u901a\u308a",
       "url": "https://open.spotify.com/track/4i2RvHbnACgAfvfQDRastj"

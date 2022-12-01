@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Foto: Paulo Londra
 
-76 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
+77 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [UNDOSTRES](https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [UNDOSTRES](https://open.spotify.com/album/0uinxnauQiaTu8QySpjkrC) | 3:28 | 2022-04-25 |  |
 | [Verte](https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Verte](https://open.spotify.com/album/0lR6GCdnyfY3kela8SCWdS) | 3:35 | 2022-04-25 |  |
 | [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 | 2022-04-25 |  |
-| [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-25 |  |
+| [Íntimo](https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/2TKf32PAxYdTRMqOwZLOdG) | 2:23 | 2022-04-25 | 2022-12-01 |
+| [Íntimo](https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Íntimo](https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO) | 2:23 | 2022-07-23 |  |
 
 \*This playlist was first scraped on 2022-06-03. Prior content cannot be recovered.

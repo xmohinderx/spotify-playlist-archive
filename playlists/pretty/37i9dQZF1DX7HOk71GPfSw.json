@@ -1,12 +1,12 @@
 {
   "description": "ft. brakence",
-  "num_followers": 351369,
+  "num_followers": 351560,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjUyMCwwMDAwMDAwMDM1NjJhZDhiYTAwMzg3NGE2NjFkYWVhZTM1ZDRiZDQ0",
+  "snapshot_id": "MTY2OTgzNzMzOSwwMDAwMDAwMDJjZjc1NDM0N2VhZTkzMjNjODZlNzhhZDM2MmJkMjQ1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:09:00",
@@ -247,6 +247,30 @@
       "duration_ms": 149691,
       "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
       "url": "https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan"
+    },
+    {
+      "added_at": "2022-11-30 19:42:18",
+      "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 114460,
+      "name": "money machine",
+      "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
     },
     {
       "added_at": "2022-11-18 05:09:00",

@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-176 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
+178 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas: Deluxe Edition](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) | 3:38 | 2021-12-12 | 2022-07-29 |
 | [Blackout Christmas](https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB) | 2:19 | 2021-12-12 | 2022-11-19 |
 | [Blackout Christmas](https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa) | 2:19 | 2021-12-12 | 2022-10-13 |
+| [Blame It On The Mistletoe](https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:28 | 2022-11-30 |  |
 | [By Christmas Eve](https://open.spotify.com/track/50p1UrHZsX6KkVydAvSxHC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:51 | 2021-12-12 | 2022-10-31 |
 | [By Christmas Eve](https://open.spotify.com/track/2QM6q2L4bZHW2evhAjxOrS) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:51 | 2021-12-12 | 2022-07-29 |
 | [By Christmas Eve](https://open.spotify.com/track/5e0vyaiZ6Dng4MXkOEUDwC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:52 | 2021-12-12 |  |
@@ -163,7 +164,8 @@
 | [The Dream Of Christmas](https://open.spotify.com/track/4ocBbhGJ8mvnEz6OXbVa27) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [The Dream of Christmas](https://open.spotify.com/album/79AQ93mdfqoaRrCQuYYeLq) | 3:32 | 2021-12-12 |  |
 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 | 2021-12-12 | 2022-11-11 |
 | [The First Noel](https://open.spotify.com/track/6Lu8BYRVgnlgEj65RvpFdH) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:24 | 2021-12-12 |  |
-| [This Christmas](https://open.spotify.com/track/4zyC8lE8yoC1Y31l5nkQCD) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [This Christmas](https://open.spotify.com/album/0NKE4nxZSQXMht4VFczyox) | 3:02 | 2021-12-12 |  |
+| [This Christmas](https://open.spotify.com/track/1V5219VxOPokxVEWREyZ4f) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [This Christmas](https://open.spotify.com/album/6KPh7fauXVnB5U7gh6y0C4) | 3:02 | 2022-11-30 |  |
+| [This Christmas](https://open.spotify.com/track/4zyC8lE8yoC1Y31l5nkQCD) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [This Christmas](https://open.spotify.com/album/0NKE4nxZSQXMht4VFczyox) | 3:02 | 2021-12-12 | 2022-12-01 |
 | [This Christmas](https://open.spotify.com/track/6sSuMSEeXcE4STNgs7J6TF) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [This Christmas](https://open.spotify.com/album/67CXdJzq72ckk5MvXOKoEw) | 3:02 | 2021-12-12 | 2022-07-29 |
 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 | 2021-12-12 |  |
 | [This Time Of Year](https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [This Time Of Year](https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP) | 3:42 | 2021-12-12 |  |

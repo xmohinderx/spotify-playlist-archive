@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 56789,
+  "num_followers": 56822,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDMwOGViYWE3NTVjYjcyNGQ1YWVkZTVkZjVkODcxZTBm",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGZhMWQxNTFjMzc4ZmQwYzM0MDEyN2MyYjUyYWVkMmRj",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Musica...Recuerdo Inolvidable",
-        "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
-      },
-      "artists": [
-        {
-          "name": "El Super Trio",
-          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
-        }
-      ],
-      "duration_ms": 159240,
-      "name": "Se Rompio la Cadena",
-      "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "El Tr\u00edo Los Panchos / Por Siempre Boleros",
         "url": "https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 174106,
       "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
       "url": "https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Musica...Recuerdo Inolvidable",
+        "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
+      },
+      "artists": [
+        {
+          "name": "El Super Trio",
+          "url": "https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo"
+        }
+      ],
+      "duration_ms": 159240,
+      "name": "Se Rompio la Cadena",
+      "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Un Bolero un Vals",
-        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 384253,
-      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
-      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "El Rey de las Cantinas",
         "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 192040,
       "name": "Corazoncito",
       "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Un Bolero un Vals",
+        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 384253,
+      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
+      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+        "name": "Poker de Ases",
+        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
       },
       "artists": [
         {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
         }
       ],
-      "duration_ms": 264276,
-      "name": "Otra Copa",
-      "url": "https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U"
+      "duration_ms": 184013,
+      "name": "El Hijo Var\u00f3n",
+      "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
     }
   ],
   "unique_name": "Boleros en Casa",

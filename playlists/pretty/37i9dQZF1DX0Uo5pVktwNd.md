@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Remembering KK
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,262 likes - 43 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,339 likes - 43 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pyaar Ke Pal \(From "Pal"\)](https://open.spotify.com/track/7dzXBjG9GHuvvpb0YkiZP2) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Best of Bollywood: KK](https://open.spotify.com/album/1RNb1kwVUmpsCb0ncWeuKJ) | 5:59 |
+| 1 | [Pyaar Ke Pal](https://open.spotify.com/track/7dzXBjG9GHuvvpb0YkiZP2) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Best of Bollywood: KK](https://open.spotify.com/album/1RNb1kwVUmpsCb0ncWeuKJ) | 5:59 |
 | 2 | [Maaeri](https://open.spotify.com/track/6Fvdk2eTzxEa9JsUUa1kP2) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 5:32 |
 | 3 | [Yaaron](https://open.spotify.com/track/55wP1blaV9Vlr1MTsG8ceh) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 4:32 |
 | 4 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 |

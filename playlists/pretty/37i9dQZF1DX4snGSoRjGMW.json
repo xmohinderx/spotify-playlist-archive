@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 5885,
+  "num_followers": 5896,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDNhMmRhNGI5ZmMwOThmMjIyZjQ4ODUwNGUwZDY0MWZk",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDEyMjkyZDI4NzVjNGJiZTIyMzRkYmI3NWVmNzlmZGYx",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
-      },
-      "artists": [
-        {
-          "name": "Tutu Jones",
-          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Starting All Over",
-      "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Midnight Blues",
@@ -215,6 +199,22 @@
       "duration_ms": 215803,
       "name": "I Want My Soul Back",
       "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+      },
+      "artists": [
+        {
+          "name": "Tutu Jones",
+          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Starting All Over",
+      "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Old School",
-        "url": "https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 408413,
-      "name": "Money Is The Name Of The Game",
-      "url": "https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 287480,
       "name": "Bone It Like You Own It",
       "url": "https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 408413,
+      "name": "Money Is The Name Of The Game",
+      "url": "https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -413,20 +413,20 @@
       "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-04-23 04:01:00",
       "album": {
-        "name": "Cheatin' Habit",
-        "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
+        "name": "Fire It Up",
+        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
       },
       "artists": [
         {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+          "name": "Steve Cropper",
+          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Kick My Cheatin' Habits",
-      "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
+      "duration_ms": 222620,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -445,20 +445,20 @@
       "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fire It Up",
-        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
+        "name": "Cheatin' Habit",
+        "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
       },
       "artists": [
         {
-          "name": "Steve Cropper",
-          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 222620,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS"
+      "duration_ms": 281200,
+      "name": "Kick My Cheatin' Habits",
+      "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Royal Blue",
+        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Bring Me Some Water",
+      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "I'll Sing the Blues for You",
         "url": "https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4"
       },
@@ -551,38 +567,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Royal Blue",
-        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Bring Me Some Water",
-      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Bridge to a Legacy",
-        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Who's Still in Love",
-      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Into the Mystic",
         "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Keep Knockin'",
-        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
+        "name": "Bridge to a Legacy",
+        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
       },
       "artists": [
         {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
         }
       ],
-      "duration_ms": 194933,
-      "name": "One Monkey Don't Stop No Show",
-      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
+      "duration_ms": 189093,
+      "name": "Who's Still in Love",
+      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -647,22 +631,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Ghosts of Mississippi Meet the Gods of Africa",
-        "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "Blues All Over You",
-      "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
       },
@@ -679,6 +647,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Ghosts of Mississippi Meet the Gods of Africa",
+        "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 221586,
+      "name": "Blues All Over You",
+      "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Miss Lavelle",
         "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 234760,
       "name": "Yes, I've Been Crying",
       "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues Keep Knockin'",
+        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
+      },
+      "artists": [
+        {
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "One Monkey Don't Stop No Show",
+      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Right On Time!",
-        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
-      },
-      "artists": [
-        {
-          "name": "Little Buster & the Soul Brothers",
-          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Engines And Wings",
-      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Today I Sing The Blues",
         "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 275773,
       "name": "Stop Doggin Me Around",
       "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Sitting on Top of the Blues",
+        "url": "https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 243044,
+      "name": "You Got the Goods on You",
+      "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Sitting on Top of the Blues",
-        "url": "https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10"
+        "name": "Right On Time!",
+        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Little Buster & the Soul Brothers",
+          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
         }
       ],
-      "duration_ms": 243044,
-      "name": "You Got the Goods on You",
-      "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
+      "duration_ms": 256466,
+      "name": "Engines And Wings",
+      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB"
-      },
-      "artists": [
-        {
-          "name": "Ernie Johnson",
-          "url": "https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Cold This Winter",
-      "url": "https://open.spotify.com/track/2UhYPOsrE0iluqm288o6l9"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Black Market",
         "url": "https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Is On Fire",
-        "url": "https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ"
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB"
       },
       "artists": [
         {
-          "name": "Lonnie Shields",
-          "url": "https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV"
+          "name": "Ernie Johnson",
+          "url": "https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr"
         }
       ],
-      "duration_ms": 242027,
-      "name": "All The Way Down",
-      "url": "https://open.spotify.com/track/353BumIgA33r4FzY84JCaF"
+      "duration_ms": 300160,
+      "name": "Cold This Winter",
+      "url": "https://open.spotify.com/track/2UhYPOsrE0iluqm288o6l9"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -987,6 +971,22 @@
       "duration_ms": 255693,
       "name": "Going to the Shack",
       "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues Is On Fire",
+        "url": "https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Shields",
+          "url": "https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV"
+        }
+      ],
+      "duration_ms": 242027,
+      "name": "All The Way Down",
+      "url": "https://open.spotify.com/track/353BumIgA33r4FzY84JCaF"
     }
   ],
   "unique_name": "Soul Blues",

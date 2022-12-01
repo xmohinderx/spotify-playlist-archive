@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 335,
+  "num_followers": 340,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDE4MjcyNGNmZjc2NzczNTFhYzExMWVhNDgyZjE2NTVj",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMGM5N2M3NDdkMGNhNjRmMGZmNDY4NzI1NjU2YjU4ZWJi",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "ZENFAN LAKAZ TOL",
-        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
-      },
-      "artists": [
-        {
-          "name": "Bigg Frankii",
-          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
-        }
-      ],
-      "duration_ms": 301287,
-      "name": "Granper Sorti Diego",
-      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Le Roi du s\u00e9ga",
         "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 192200,
       "name": "S\u00e9ga Jacquot",
       "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "ZENFAN LAKAZ TOL",
+        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+      },
+      "artists": [
+        {
+          "name": "Bigg Frankii",
+          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+        }
+      ],
+      "duration_ms": 301287,
+      "name": "Granper Sorti Diego",
+      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
     },
     {
       "added_at": "2022-08-11 10:05:16",

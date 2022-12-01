@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,946 likes - 73 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,986 likes - 73 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 26 | [I Wanna Be A Kid Again](https://open.spotify.com/track/6KkECwNpkBTq5zSSeSmMyt) | [2OFU](https://open.spotify.com/artist/3nk2jAog2zO4LNboEhMXaa), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [2OFU](https://open.spotify.com/album/1EsJLEg0hPZiSE9BTtFw9L) | 3:03 |
 | 27 | [Enough](https://open.spotify.com/track/4gAOsYjYab3gcAjy6iXUSk) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Enough](https://open.spotify.com/album/6bZ48hDnMVSavEVMcH4qdm) | 2:29 |
 | 28 | [Won't You Come and Sing For Me \(with Chris Thile\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/297nT79xIAqPWlb82As40E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Won't You Come and Sing For Me \(with Chris Thile\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/2XyHHncj5JR6dX09ViDKAT) | 4:28 |
-| 29 | [Be feat\. 904TEZZO](https://open.spotify.com/track/14jRVn8ZAIcFodZmDoJFzZ) | [Lil Boom](https://open.spotify.com/artist/1mmlWsyPJvvxMdabcGJjRn), [904TEZZO](https://open.spotify.com/artist/56HrCPz22OqbQLizgOEjm7) | [Magenta 2 Pack](https://open.spotify.com/album/3v38LMHDPxs0SFWZWhRb8V) | 2:04 |
+| 29 | [Be feat\. 904TEZZO](https://open.spotify.com/track/14jRVn8ZAIcFodZmDoJFzZ) | [Lil Boom](https://open.spotify.com/artist/1mmlWsyPJvvxMdabcGJjRn) | [Magenta 2 Pack](https://open.spotify.com/album/3v38LMHDPxs0SFWZWhRb8V) | 2:04 |
 | 30 | [On My Way](https://open.spotify.com/track/5Hyd9V19bv0lvYaSjYExaj) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn) | [On My Way](https://open.spotify.com/album/2xULvUfPi9vJKZd9Dn0iMv) | 2:59 |
 | 31 | [Stay](https://open.spotify.com/track/3xQxRSJOaNQakPGUeICfyc) | [Hmgnc](https://open.spotify.com/artist/2FSYA29FuLWhdc091MvgYl) | [Stay](https://open.spotify.com/album/4BBc6uxgbbUHnHFMB0FZQi) | 3:36 |
 | 32 | [The Only Blue I Love The Best](https://open.spotify.com/track/1APWUocHisr5wV4Fr2nH4j) | [Oscar Lolang](https://open.spotify.com/artist/1WxiHeimXMJ6kcNlyczScQ), [Alan Davison](https://open.spotify.com/artist/6ZGyLidTBBdkYploi6dH3C) | [Jalan Sendiri](https://open.spotify.com/album/0QcRc65IOYDd5lA3p7fHqR) | 3:52 |

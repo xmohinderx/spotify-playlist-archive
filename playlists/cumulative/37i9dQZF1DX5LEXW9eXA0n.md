@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: Yang Da Il\(양다일\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: Lim Young Woong\(임영웅\)\) \(당신의 감성에 발라드, 려요\)
 
-601 songs - 1 day 14 hr 59 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+602 songs - 1 day 15 hr 4 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [If We](https://open.spotify.com/track/0ENvpfEQxuRPAeppZ602oO) | [Jasin](https://open.spotify.com/artist/1BYFiDNQyKOMXX0EzGXr2B) | [If We](https://open.spotify.com/album/1YX0AJd3Ws9Ws1aGdobvHH) | 3:52 | 2022-07-07 | 2022-09-06 |
 | [If we can't see from tomorrow](https://open.spotify.com/track/2PfE8HKtpBJ1WGTmhuusBE) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [HYENA \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/3oMNELPJtj56mQDk1SHBqy) | 4:09 | 2022-03-24 | 2022-04-17 |
 | [If We Ever Meet Again](https://open.spotify.com/track/0lr8HEEQBvIpDE9xGchTgW) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 4:34 | 2022-05-03 | 2022-07-05 |
+| [If We Ever Meet Again](https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:34 | 2022-11-30 |  |
 | [If With You](https://open.spotify.com/track/0RNKYZOIYM1kWRE2lJ4kJm) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [Bravo, My Life OST Part.9](https://open.spotify.com/album/3dUOi5oer0JUcnmyqI4E1I) | 3:40 | 2022-07-07 | 2022-08-02 |
 | [If you're with me](https://open.spotify.com/track/30aVEUz4NgkGuegz32gjl8) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 | 2021-12-23 | 2021-12-27 |
 | [If You're With Me](https://open.spotify.com/track/1zzWNjnQTR61dar4ESaYuE) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 3:58 | 2022-03-31 | 2022-04-17 |

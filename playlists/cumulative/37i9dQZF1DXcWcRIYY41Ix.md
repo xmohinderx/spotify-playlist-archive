@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Antía Muíño.
 
-322 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+323 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-12-24 |  |
 | [Hay un Camino](https://open.spotify.com/track/6t0sjM2OIAdGs50EmFGu9X) | [Nando Agüeros](https://open.spotify.com/artist/6ABav84uUmY0ykSMNJ1bQ5), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Hay un Camino](https://open.spotify.com/album/4W0tG8gS7GrpI34322mw1t) | 3:36 | 2021-12-24 | 2022-03-02 |
 | [Herba de Namorar](https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Herba de Namorar](https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB) | 2:59 | 2021-12-24 | 2022-07-29 |
+| [Hierbas](https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Hierbas Para la Tristeza](https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK) | 2:46 | 2022-11-25 |  |
 | [Iba Yo Pasando \(Reversión\)](https://open.spotify.com/track/4YDx7sy5SnyjycYYqPZJWB) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Pequeña TANDA](https://open.spotify.com/album/09LCtK37hO7jgJKZujJnx6) | 3:34 | 2022-01-14 | 2022-02-04 |
 | [INFINITO](https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [INFINITO](https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8) | 3:05 | 2022-06-03 | 2022-07-02 |
 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 | 2021-12-24 |  |
@@ -211,7 +212,7 @@
 | [Noviembre](https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Noviembre](https://open.spotify.com/album/5dbmoIYD1zBB64NzQtMtB7) | 2:50 | 2022-09-28 |  |
 | [Nunha Estrela](https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Nunha Estrela](https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG) | 3:52 | 2022-11-11 |  |
 | [Ojalá](https://open.spotify.com/track/1sEL2I1NRU2GZk5nS4ydxD) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Ojalá](https://open.spotify.com/album/119lk8kg6xyDPTvdlHXq9z) | 4:23 | 2022-11-25 |  |
-| [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 |  |
+| [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 | 2022-12-01 |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 |  |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |

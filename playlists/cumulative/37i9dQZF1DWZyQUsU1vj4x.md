@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-159 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+160 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Desolation Point](https://open.spotify.com/track/0iCSwrR44gwwL0cfuLDjvZ) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:55 | 2019-10-31 | 2022-07-29 |
 | [Desolation Point](https://open.spotify.com/track/1xqwwhzRT5V5cSev8sxXOS) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:55 | 2022-01-27 |  |
 | [Desolation Point](https://open.spotify.com/track/7HpHnuK94vWiyXI5iFld4X) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:55 | 2022-01-27 | 2022-11-13 |
-| [Devil's Girl](https://open.spotify.com/track/4bnnv2462H6doSlieJUhrP) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3on6GsTjI3kH4pyof9Arhp) | 3:29 | 2022-01-27 |  |
+| [Devil's Girl](https://open.spotify.com/track/4bnnv2462H6doSlieJUhrP) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3on6GsTjI3kH4pyof9Arhp) | 3:29 | 2022-01-27 | 2022-12-01 |
+| [Devil's Girl](https://open.spotify.com/track/5rEYeXEDqlKDbjArQVIQt6) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14TZLEaVzCm5wnyjCJKLXi) | 3:29 | 2022-10-21 |  |
 | [Devil's Girl \(feat\. Melody Michalski\)](https://open.spotify.com/track/0fgj7wVsVLBI1DCr0BhIOe) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n), [Melody Michalski](https://open.spotify.com/artist/5opjSR8qDqouCY4PNea3v8) | [Outlaws and Angels \(Original Motion Picture Score\)](https://open.spotify.com/album/3l9k3EdmR1W77MCte6fQFk) | 3:29 | 2019-10-31 | 2022-07-29 |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2022-01-27 | 2022-10-17 |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-01-27 |  |

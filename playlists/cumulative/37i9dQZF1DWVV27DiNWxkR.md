@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
 
-305 songs - 20 hr 51 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+306 songs - 20 hr 55 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [intro \(i will hear silence again\)](https://open.spotify.com/track/3uZB7nzQWEu4pZu06E4MwL) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [demoitis](https://open.spotify.com/album/0aB8CKycOAEEQoZ0W2SI7E) | 3:19 | 2019-12-27 | 2020-03-21 |
 | [It's A Wonderful Life](https://open.spotify.com/track/0IQs78HO3ym69mCNFJ0UZp) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:59 | 2019-09-29\* | 2020-03-21 |
 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2022-08-26 |  |
+| [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2022-11-30 |  |
 | [Jason](https://open.spotify.com/track/4pCo0hx75daUKKkfi1XXOO) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/6daEdTBi1hyFQgmsnR7oRr) | 3:05 | 2020-05-15 | 2022-05-21 |
 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/3cpv2bUnUzSZPaSVACXzdJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Jesus Christ 2005 God Bless America](https://open.spotify.com/album/5h2gHGAvkdm3sf2mtAE4Ub) | 4:24 | 2020-04-03 | 2022-05-03 |
 | [Jim Cain](https://open.spotify.com/track/7pVAdbWP9gQZvnOIqBL6Cl) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam) | 4:39 | 2019-09-29\* | 2020-10-15 |

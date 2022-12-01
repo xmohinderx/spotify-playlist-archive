@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-171 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+173 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Come Over](https://open.spotify.com/track/3GSEZewTr5OeI9LnWovr5x) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI), [Christofi](https://open.spotify.com/artist/2wx1SwH78waV7t1dVM2SWS) | [Come Over](https://open.spotify.com/album/5jCH9BuLpbf2fH9rOBo746) | 2:08 | 2019-12-10 | 2022-07-29 |
 | [COMMA$](https://open.spotify.com/track/1Fk9MDDgy1VvMosMh4m34G) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [LORD$OFDOGTOWN](https://open.spotify.com/album/7uBoH5eDFQ7ifeAjjtS9Zn) | 2:26 | 2019-12-10 |  |
 | [Confetti](https://open.spotify.com/track/5yQ3r7YV573w0mpGtNpoAl) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Confetti](https://open.spotify.com/album/433yeUccrhJPYJTqgOkxCv) | 3:04 | 2019-12-10 |  |
-| [Cool to You](https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool to You](https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7) | 3:17 | 2019-12-10 |  |
+| [Cool To You](https://open.spotify.com/track/09rD9G2Dsbn7NjH6H6LTmL) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool To You](https://open.spotify.com/album/33QEbobiBLeUmtw2nsXmE2) | 3:17 | 2019-12-10 |  |
+| [Cool to You](https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool to You](https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7) | 3:17 | 2019-12-10 | 2022-12-01 |
 | [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 | 2019-12-10 |  |
 | [Cotton Candy](https://open.spotify.com/track/7eYpfunwlv4RY6s0pEQe8p) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/1Ai0hOFpZgdTZG3jOS1bRj) | 2:34 | 2019-12-10 | 2022-07-29 |
 | [Could Be a Curse](https://open.spotify.com/track/2iuhthdVVoMu3gc735MOkh) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj), [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Next to The Sun](https://open.spotify.com/album/06nJsKOOzPhANRdoTRIQLl) | 6:12 | 2019-12-10 |  |
@@ -43,7 +44,8 @@
 | [dreamgurl](https://open.spotify.com/track/7l47dRm8jw7NMs0OFoQrrK) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX), [Keith Goodwin](https://open.spotify.com/artist/3Q1T3DDlR4lY9kqIQsDhMn) | [dreamgurl](https://open.spotify.com/album/5dfy4vYwLnM8RLpV0DpM36) | 2:58 | 2019-12-10 |  |
 | [Dreams](https://open.spotify.com/track/60gPDYEZ9DyV1OuL9YKM0q) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2LT7lNoWT6svQOEUeSrbyH) | 2:42 | 2019-12-10 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/6iCnwfimIzp1CTp06er7Te) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/429Bd8x5qNmBK9z6lyOXr6) | 2:42 | 2019-12-10 |  |
-| [dying together](https://open.spotify.com/track/703SHNf8XtJnM3gtryjyJ6) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3) | 2:36 | 2019-12-10 |  |
+| [dying together](https://open.spotify.com/track/4rT2YF1iXeCemJhhee2pQN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/2a4x992loSNgqAdvP1LjOn) | 2:36 | 2019-12-10 |  |
+| [dying together](https://open.spotify.com/track/703SHNf8XtJnM3gtryjyJ6) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3) | 2:36 | 2019-12-10 | 2022-12-01 |
 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 | 2019-12-10 |  |
 | [Eggshell](https://open.spotify.com/track/1yLVGAg988iUYmodV42kT5) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Fan On](https://open.spotify.com/album/5NyZLTuvYFH5pfMAwOhNq5) | 3:24 | 2019-12-10 |  |
 | [Eggshell](https://open.spotify.com/track/3FVBclNMrglEl6qnquLwYp) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A) | 3:24 | 2019-12-10 | 2022-10-20 |

@@ -1788,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179946,
+      "name": "Friends I Barely Know",
+      "url": "https://open.spotify.com/track/1LrgCvDcHuPnThKRKkeoqL"
+    },
+    {
+      "album": {
         "name": "Friends I Barely Know",
         "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
       },
@@ -4729,7 +4747,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 274148,
       "name": "Too Young to Fall in Love",
       "url": "https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP"

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-236 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+237 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 | 2021-12-24 |  |
 | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/track/6bwi6DRMwySEQ1UPzJTSew) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/album/3ggV8f813nt3mOWA0o31jj) | 2:18 | 2021-12-24 | 2022-07-29 |
 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 | 2021-12-24 |  |
+| [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 | 2022-11-28 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:49 | 2021-12-24 |  |
 | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co) | 2:14 | 2021-12-24 | 2022-11-18 |
 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 | 2022-11-25 |  |
@@ -94,7 +95,7 @@
 | [Happy Holiday](https://open.spotify.com/track/5kuhQjY80oIsygVaOdHV4z) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Old School Yule!](https://open.spotify.com/album/470tIaLwsoJxEczDC7tBQ6) | 3:21 | 2021-12-24 | 2022-07-29 |
 | [Happy Xmas](https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Happy Xmas](https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW) | 3:11 | 2022-11-18 |  |
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Happy Xmas \(War is Over\)](https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA) | 3:55 | 2021-12-24 | 2022-11-22 |
-| [Hard Candy Christmas](https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd) | 3:28 | 2021-12-24 |  |
+| [Hard Candy Christmas](https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd) | 3:28 | 2021-12-24 | 2022-12-01 |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/72PSnMgQWeC4tcNdxgqXYM) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Hark The Herald Angels Sing](https://open.spotify.com/album/2EP9Q1buJSeGrL5Wm3u1pU) | 2:02 | 2021-12-24 | 2022-10-18 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3mPGMPw0NSpyaKbdcoOojP) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4DifssqO8gcaLrdit8MR0R) | 3:49 | 2021-12-24 | 2022-01-05 |
 | [Hold on to Christmas Day](https://open.spotify.com/track/460mYWJRMeBop9psdCtc0w) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold on to Christmas Day](https://open.spotify.com/album/6LZwtQdCxHYSmFjZVFiWgO) | 4:03 | 2021-12-24 | 2022-07-24 |

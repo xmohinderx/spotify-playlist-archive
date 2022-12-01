@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=nNMrzwyiTe2P\_3y00xhTkQ">Maandy </a> and <a href="https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u?si=P\_ibN3lPRXKA12JffrSK0g">Mejja </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,133 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,153 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 4 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Man](https://open.spotify.com/artist/5aPQde9UW5ec9Rl3kQ94lh) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 |
 | 5 | [Nasikia Wah](https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Nasikia Wah](https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh) | 3:39 |
 | 6 | [Dala Wa](https://open.spotify.com/track/3vwCLR1fyjeMCkPFfnfnHL) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Kamwana](https://open.spotify.com/artist/4CUMYYAed2LFHyCTLb4caq), [Veryl Mkali Wao](https://open.spotify.com/artist/4htwtJq9AaxSbpVnA9yopl) | [Dala Wa](https://open.spotify.com/album/5w7xl4ONKgqcsGBXXUcjxd) | 3:36 |
-| 7 | [Makofi](https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Fabio](https://open.spotify.com/artist/1whozOVVllaopi95PnKqPv), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Makofi](https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC) | 3:29 |
+| 7 | [Makofi](https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Omollo](https://open.spotify.com/artist/7HPHXUb4hjkkVdGe1YzxGf), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Makofi](https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC) | 3:29 |
 | 8 | [Aroma](https://open.spotify.com/track/3JUlWwEE1F1sa8aHalyBCH) | [Bussa J](https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd) | [Aroma](https://open.spotify.com/album/64YiygXtvR7rw1KmkoMeOd) | 2:47 |
 | 9 | [Napiga Bibi](https://open.spotify.com/track/7qDcJBu71qtzajtnfwiLLt) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Mr Deen Muziq Official](https://open.spotify.com/artist/1J0m3Mq15kyJdbFZ1sll68), [Seska](https://open.spotify.com/artist/6Aaa7yDYK3riykCOqG0WrA), [Fralee Boloking](https://open.spotify.com/artist/1ppiPecpEIES9iJWXUwMDC), [Maaad Gwanxoo](https://open.spotify.com/artist/2OkImjfy6EigBSAdYbCe6d), [Pitah Scarlet](https://open.spotify.com/artist/37xOjKWzLCbsHbC0ESgkMM), [Sexy Wa Dallo](https://open.spotify.com/artist/11Uq4NN7X6z5VUVCpL4nOR) | [Napiga Bibi](https://open.spotify.com/album/2rQ7eEV6XmtabKYIJsagrM) | 3:44 |
 | 10 | [DANCEHALLING](https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [DANCEHALLING](https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc) | 2:24 |

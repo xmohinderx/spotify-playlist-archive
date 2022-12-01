@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 27895,
+  "num_followers": 27898,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIzMDQzMzUzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIzMTI3MTcxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Trotinete (From \"Romina VTM\" The Movie)",
         "url": "https://open.spotify.com/album/5mUAT2d6j1AAVWdpapiBDg"
@@ -45,27 +45,27 @@
       "url": "https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+        "name": "Test Drive",
+        "url": "https://open.spotify.com/album/1LW6IajlZo7hz8gAveGJhx"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+      "duration_ms": 150957,
+      "name": "Test Drive",
+      "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Gestu",
         "url": "https://open.spotify.com/album/0mmWK0LujdU55qyyODPUDD"
@@ -93,27 +93,43 @@
       "url": "https://open.spotify.com/track/4JjurgsSCdNejiuOZ98PyQ"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
-        "name": "Test Drive",
-        "url": "https://open.spotify.com/album/1LW6IajlZo7hz8gAveGJhx"
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
       "artists": [
         {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 150957,
-      "name": "Test Drive",
-      "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Bam Bam Bam",
+        "url": "https://open.spotify.com/album/7uRlKQOkTL8BjvL8NwEt9s"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "duration_ms": 119877,
+      "name": "Bam Bam Bam",
+      "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "TRAUME & CO\u0218MARURI",
         "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
@@ -133,23 +149,7 @@
       "url": "https://open.spotify.com/track/4kQ4Sk47IeG6fAQkNCQVs6"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Bam Bam Bam",
-        "url": "https://open.spotify.com/album/7uRlKQOkTL8BjvL8NwEt9s"
-      },
-      "artists": [
-        {
-          "name": "Berechet",
-          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
-        }
-      ],
-      "duration_ms": 119877,
-      "name": "Bam Bam Bam",
-      "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/64YBjqNhYcJX2Ui4o1bEZz"
@@ -169,23 +169,7 @@
       "url": "https://open.spotify.com/track/1y2H991hMLiHtiPENF9sjO"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "BULIBA$HA",
-      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
@@ -201,7 +185,7 @@
       "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Centaur",
         "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
@@ -217,7 +201,7 @@
       "url": "https://open.spotify.com/track/0DC15gtBUKpv4hh1kScGIY"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Brasileira (From \u201cTEAMBUILDING\u201d The Movie)",
         "url": "https://open.spotify.com/album/5qKXyDVdH0WeXEfwAmoDVj"
@@ -237,7 +221,7 @@
       "url": "https://open.spotify.com/track/1oanM8lNb88L5ZuKkVp9va"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "La san",
         "url": "https://open.spotify.com/album/1U4yGL8pUHvWbUdEjBuA1w"
@@ -253,7 +237,127 @@
       "url": "https://open.spotify.com/track/4XLLdFJdwmvdtkwQuXAFut"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "BULIBA$HA",
+        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "BULIBA$HA",
+      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 200178,
+      "name": "Urgen\u021be",
+      "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Slayer",
+        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 76460,
+      "name": "Timeout",
+      "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "La nevedere",
+        "url": "https://open.spotify.com/album/2JAV46kerV34tgOkuUn0fn"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "duration_ms": 190801,
+      "name": "La nevedere",
+      "url": "https://open.spotify.com/track/2Eh3mKeLBrmiyAQUOLI0bW"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Regina Nop\u021bii",
+        "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 193588,
+      "name": "Regina Nop\u021bii",
+      "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "BULIBA$HA (Deluxe)",
+        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Iustin",
+          "url": "https://open.spotify.com/artist/6DLSa5TygaSHU61aI2TPYY"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "IN LIPSA TA",
+      "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Centaur",
         "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
@@ -277,147 +381,7 @@
       "url": "https://open.spotify.com/track/4jRAdGPN0S20hLSaPWZ34p"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "\u00eentr-o bun\u0103 zi o s\u0103 fim bine",
-        "url": "https://open.spotify.com/album/1oN0fH6kMlsmq4mJVtxdmg"
-      },
-      "artists": [
-        {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
-        }
-      ],
-      "duration_ms": 221462,
-      "name": "wattba",
-      "url": "https://open.spotify.com/track/216xjc8iQfOfP7reMpR7jO"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 200178,
-      "name": "Urgen\u021be",
-      "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "La nevedere",
-        "url": "https://open.spotify.com/album/2JAV46kerV34tgOkuUn0fn"
-      },
-      "artists": [
-        {
-          "name": "Andia",
-          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
-        }
-      ],
-      "duration_ms": 190801,
-      "name": "La nevedere",
-      "url": "https://open.spotify.com/track/2Eh3mKeLBrmiyAQUOLI0bW"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Slayer",
-        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 76460,
-      "name": "Timeout",
-      "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "BULIBA$HA (Deluxe)",
-        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Iustin",
-          "url": "https://open.spotify.com/artist/6DLSa5TygaSHU61aI2TPYY"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "IN LIPSA TA",
-      "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Regina Nop\u021bii",
-        "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 193588,
-      "name": "Regina Nop\u021bii",
-      "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Centaur",
-        "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        },
-        {
-          "name": "Bvcovia",
-          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "S\u00e2nge pe pat \u0219i pe podea",
-      "url": "https://open.spotify.com/track/0AFTEC66MiVSaRN0AobM2n"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Te-am vazut fara inel",
         "url": "https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI"
@@ -433,7 +397,23 @@
       "url": "https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "\u00cenapoi La Via\u021b\u0103",
+        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 297272,
+      "name": "Antetokounmpo",
+      "url": "https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -449,7 +429,7 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -469,23 +449,23 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
-        "name": "\u00cenapoi La Via\u021b\u0103",
-        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
+        "name": "\u00eentr-o bun\u0103 zi o s\u0103 fim bine",
+        "url": "https://open.spotify.com/album/1oN0fH6kMlsmq4mJVtxdmg"
       },
       "artists": [
         {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
         }
       ],
-      "duration_ms": 297272,
-      "name": "Antetokounmpo",
-      "url": "https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE"
+      "duration_ms": 221462,
+      "name": "wattba",
+      "url": "https://open.spotify.com/track/216xjc8iQfOfP7reMpR7jO"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
@@ -501,39 +481,27 @@
       "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Centaur",
+        "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "\u00eentr-o bun\u0103 zi o s\u0103 fim bine",
-        "url": "https://open.spotify.com/album/1oN0fH6kMlsmq4mJVtxdmg"
-      },
-      "artists": [
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
         {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
         }
       ],
-      "duration_ms": 262199,
-      "name": "troy & gabriella",
-      "url": "https://open.spotify.com/track/1ijqaX5uZUTxeoaqR6gIbM"
+      "duration_ms": 169541,
+      "name": "S\u00e2nge pe pat \u0219i pe podea",
+      "url": "https://open.spotify.com/track/0AFTEC66MiVSaRN0AobM2n"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
@@ -549,7 +517,7 @@
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Banii",
         "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
@@ -569,7 +537,23 @@
       "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Nonchalant (Deluxe)",
         "url": "https://open.spotify.com/album/4bkgiCcYCKEnQ6bOeW2IvJ"
@@ -593,7 +577,23 @@
       "url": "https://open.spotify.com/track/6VQ955KM1zNzpLdLSBFSCv"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "\u00cenapoi La Via\u021b\u0103",
+        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 123448,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/6VcmY5O2WE00BaF9fomffm"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -633,27 +633,7 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Nonchalant",
-        "url": "https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "Berechet",
-          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Promite-mi",
-      "url": "https://open.spotify.com/track/1Z150PGFyhGbzADUI3tdki"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
@@ -673,91 +653,7 @@
       "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "\u00cenapoi La Via\u021b\u0103",
-        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 123448,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "Cum Am \u0218tiut",
-        "url": "https://open.spotify.com/album/0qbcaaHKkwHdhPnMoNvcqf"
-      },
-      "artists": [
-        {
-          "name": "Killa Fonic",
-          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
-        },
-        {
-          "name": "Delia",
-          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "Cum Am \u0218tiut",
-      "url": "https://open.spotify.com/track/4KoesiedslACxSRFunogFJ"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "BULIBA$HA",
         "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
@@ -773,75 +669,59 @@
       "url": "https://open.spotify.com/track/6EIBhgEms3hJczZMzB7iTX"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+        "name": "Deniz F\u0103",
+        "url": "https://open.spotify.com/album/7jQHWnwN3JXrJC9IpnUVnK"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
         }
       ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+      "duration_ms": 129670,
+      "name": "Deniz F\u0103",
+      "url": "https://open.spotify.com/track/0cqfLySKmg5szTjlk7BHBO"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
-        "name": "Dung\u0103",
-        "url": "https://open.spotify.com/album/6rr7GlJlnOmaI4YVl6cMo8"
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
         },
         {
-          "name": "Alduts Sherdley",
-          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Dung\u0103",
-      "url": "https://open.spotify.com/track/6KJ9V4Veqlc46xQK5GmyRY"
+      "duration_ms": 216000,
+      "name": "Promite-mi",
+      "url": "https://open.spotify.com/track/1Z150PGFyhGbzADUI3tdki"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
-        "name": "Veste",
-        "url": "https://open.spotify.com/album/5KcTncpATDwoLVX9DtXiJ0"
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
       "artists": [
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Veste",
-      "url": "https://open.spotify.com/track/5wQYjcX7kA26lF4pIcNVnP"
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "\u00eentr-o bun\u0103 zi o s\u0103 fim bine",
-        "url": "https://open.spotify.com/album/1oN0fH6kMlsmq4mJVtxdmg"
-      },
-      "artists": [
-        {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
-        }
-      ],
-      "duration_ms": 200028,
-      "name": "stfu",
-      "url": "https://open.spotify.com/track/7JJ9aeGhgmGuhKibOW95Oa"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "CONTACT FATAL 2",
         "url": "https://open.spotify.com/album/4xPeqymbeBMtRyYntgUQ8n"
@@ -857,23 +737,7 @@
       "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
-      "album": {
-        "name": "BUGATTI",
-        "url": "https://open.spotify.com/album/5PBXhBuqnaIayYAuTWvYAb"
-      },
-      "artists": [
-        {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        }
-      ],
-      "duration_ms": 160551,
-      "name": "BUGATTI",
-      "url": "https://open.spotify.com/track/4ZIUTq57n9YpRCIl5WLM0i"
-    },
-    {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Fata cu paharul",
         "url": "https://open.spotify.com/album/1XZxYwRQQ6TkIsRTvxkdNj"
@@ -893,7 +757,23 @@
       "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
     },
     {
-      "added_at": "2022-11-29 13:22:33",
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
       "album": {
         "name": "Dac\u0103 n-ai bani",
         "url": "https://open.spotify.com/album/4yjhAtoHX508L5AU7ofXTU"
@@ -923,6 +803,122 @@
       "duration_ms": 197333,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Veste",
+        "url": "https://open.spotify.com/album/5KcTncpATDwoLVX9DtXiJ0"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Veste",
+      "url": "https://open.spotify.com/track/5wQYjcX7kA26lF4pIcNVnP"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Cum Am \u0218tiut",
+        "url": "https://open.spotify.com/album/0qbcaaHKkwHdhPnMoNvcqf"
+      },
+      "artists": [
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        },
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "duration_ms": 213428,
+      "name": "Cum Am \u0218tiut",
+      "url": "https://open.spotify.com/track/4KoesiedslACxSRFunogFJ"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Slayer",
+        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "60 De Zile II",
+      "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2022-11-30 12:39:31",
+      "album": {
+        "name": "$P$ (Studio Session #02)",
+        "url": "https://open.spotify.com/album/0L2CClpmtssAMgzfH1VNS6"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "$P$ - Studio Session #02",
+      "url": "https://open.spotify.com/track/19sbsJ3EPMs1nQdmMXCFFi"
     }
   ],
   "unique_name": "Top 50 - Romania",

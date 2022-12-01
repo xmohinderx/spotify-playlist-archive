@@ -1,12 +1,12 @@
 {
   "description": "Quiet mornings, wake up early and take a moment with nature for a positive start of your day.",
-  "num_followers": 143,
+  "num_followers": 151,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMDY3MmM0MjNmM2VjNmU1Njg2MDA2ZTZjY2ZiNTY2YTVh",
+  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMGFiZThlMWJjNDI1Y2I4NTdjMTYyMTNkMWRlZDQyMGU1",
   "tracks": [
     {
       "added_at": "2022-10-28 11:51:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Rain Forest Bird Sounds",
-        "url": "https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c"
-      },
-      "artists": [
-        {
-          "name": "S. Key",
-          "url": "https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3"
-        }
-      ],
-      "duration_ms": 130031,
-      "name": "Early Summer Birds",
-      "url": "https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI"
-    },
-    {
-      "added_at": "2022-10-28 11:51:00",
-      "album": {
         "name": "Forest Bird Sounds Vol. 1",
         "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 154552,
       "name": "Moment Of Peace (Forest Birds)",
       "url": "https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk"
+    },
+    {
+      "added_at": "2022-10-28 11:51:00",
+      "album": {
+        "name": "Rain Forest Bird Sounds",
+        "url": "https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c"
+      },
+      "artists": [
+        {
+          "name": "S. Key",
+          "url": "https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3"
+        }
+      ],
+      "duration_ms": 130031,
+      "name": "Early Summer Birds",
+      "url": "https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI"
     },
     {
       "added_at": "2022-10-28 11:51:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "When Calm Comes",
-        "url": "https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu"
-      },
-      "artists": [
-        {
-          "name": "The Land Seven",
-          "url": "https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "When calm comes",
-      "url": "https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U"
-    },
-    {
-      "added_at": "2022-10-28 11:51:00",
-      "album": {
         "name": "Orchid Stories",
         "url": "https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Birds Of Yosemite",
-        "url": "https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu"
+        "name": "When Calm Comes",
+        "url": "https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu"
       },
       "artists": [
         {
-          "name": "Feathered Tranquility",
-          "url": "https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC"
+          "name": "The Land Seven",
+          "url": "https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Birds Of Yosemite In The Morning",
-      "url": "https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2"
+      "duration_ms": 153488,
+      "name": "When calm comes",
+      "url": "https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U"
     },
     {
       "added_at": "2022-10-28 11:51:00",
@@ -555,18 +539,18 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Timber Slumber",
-        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+        "name": "Birds Of Yosemite",
+        "url": "https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu"
       },
       "artists": [
         {
-          "name": "The Sleepy Forest",
-          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+          "name": "Feathered Tranquility",
+          "url": "https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Raindrops In The Forest - Seamless",
-      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
+      "duration_ms": 170000,
+      "name": "Birds Of Yosemite In The Morning",
+      "url": "https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2"
     },
     {
       "added_at": "2022-10-28 11:51:00",
@@ -583,6 +567,22 @@
       "duration_ms": 151209,
       "name": "Ocean Winds And Birds",
       "url": "https://open.spotify.com/track/0Ky7FA9AeAsAGiLUW7fKUv"
+    },
+    {
+      "added_at": "2022-10-28 11:51:00",
+      "album": {
+        "name": "Timber Slumber",
+        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+      },
+      "artists": [
+        {
+          "name": "The Sleepy Forest",
+          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Raindrops In The Forest - Seamless",
+      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
     },
     {
       "added_at": "2022-10-28 11:51:00",

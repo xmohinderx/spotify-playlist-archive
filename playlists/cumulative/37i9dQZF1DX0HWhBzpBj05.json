@@ -926,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Pick Out A Christmas Tree",
+        "url": "https://open.spotify.com/album/5vvy2MDeEzVJc4CvGpPKDu"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Holiday Party",
+      "url": "https://open.spotify.com/track/29mIEUY4YHQmFyZ2tspe71"
+    },
+    {
+      "album": {
         "name": "A Christmas Gift For You From Phil Spector",
         "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
       },

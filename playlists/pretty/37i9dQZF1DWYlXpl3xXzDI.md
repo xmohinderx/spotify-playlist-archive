@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 80 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 81 | [Flowers in Your Hair](https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 1:49 |
 | 82 | [Day to Day for 6 Days a Week](https://open.spotify.com/track/50JxXwTIEITUAXD0rvXNdX) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/5s0L3TKdsrVc3OdWd6Rmly) | 5:06 |
-| 83 | [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 |
+| 83 | [Wake Up This Day](https://open.spotify.com/track/3j2NATzA9yHM6okc3cBkPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN) | 3:49 |
 | 84 | [Wait For You](https://open.spotify.com/track/3JxsDs3cx0DDLxSYkFh1CZ) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Ady Suleiman](https://open.spotify.com/album/6DeDaoXGyIngJjzcRK6OH0) | 3:17 |
 | 85 | [Gracefully](https://open.spotify.com/track/6o48EgHLxA0g0NLcDXukz7) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 3:38 |
 | 86 | [In Your Arms](https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Paper Doors](https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 99 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 |
 | 100 | [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 |
 
-Snapshot ID: `MTY1OTk2MzA0MiwwMDAwMDAwMDRmY2IzODBhMDU2ZTliYWM1OGRmY2I5ZTc5YzVmODcz`
+Snapshot ID: `MTY1OTk2MzA0MiwwMDAwMDAwMDI4MzIyMmIwMTVkOWJlOTMwMDNlM2I3MTJhY2YwOGE1`

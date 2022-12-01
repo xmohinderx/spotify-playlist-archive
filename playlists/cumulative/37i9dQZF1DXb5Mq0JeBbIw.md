@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-192 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+193 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 | 2022-06-24 |  |
 | [find me wrong](https://open.spotify.com/track/51Ah5WLGqFapuowJaxKMQg) | [Coral](https://open.spotify.com/artist/6OrtrrYAjzBNILMrtty09i) | [find me wrong](https://open.spotify.com/album/59wwhZPCWFcCJo7S7EUx4F) | 3:16 | 2022-05-30 | 2022-07-29 |
 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 | 2022-05-30 | 2022-11-13 |
-| [Fine On Your Own](https://open.spotify.com/track/5AVInbrIxdDksDyAqjvE7l) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Fine On Your Own](https://open.spotify.com/album/7Ip0syd58UqHIO4i74FHUl) | 3:42 | 2022-11-07 |  |
+| [Fine On Your Own](https://open.spotify.com/track/5AVInbrIxdDksDyAqjvE7l) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Fine On Your Own](https://open.spotify.com/album/7Ip0syd58UqHIO4i74FHUl) | 3:42 | 2022-11-07 | 2022-12-01 |
 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 | 2022-06-24 |  |
 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 | 2022-05-30 |  |
 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 | 2022-05-30 | 2022-07-29 |
@@ -123,6 +123,7 @@
 | [Mirou](https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA) | 4:12 | 2022-06-24 |  |
 | [Mirou](https://open.spotify.com/track/6tYjeVpoBagQoXWIcEaAzP) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/54CEHp4lRYwCajjs74k14p) | 4:12 | 2022-05-30 | 2022-07-29 |
 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/21OihIGdTCAL856FOjcs3j) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 4:12 | 2022-05-30 | 2022-11-17 |
+| [Modern Loneliness \- acoustic](https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 4:12 | 2022-11-07 |  |
 | [More](https://open.spotify.com/track/0RjJ3YHeqcfAF3gSNEaKKD) | [brodyn](https://open.spotify.com/artist/5Atytc4w4HE9vlkPs4tBXj) | [TwentySomething](https://open.spotify.com/album/1QfuevkaevzBoHobD2wZ4z) | 3:17 | 2022-05-30 | 2022-07-28 |
 | [More & More](https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [More & More](https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD) | 3:31 | 2022-06-24 |  |
 | [Most of Us Are Strangers](https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Most of Us Are Strangers](https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE) | 3:42 | 2022-08-05 |  |

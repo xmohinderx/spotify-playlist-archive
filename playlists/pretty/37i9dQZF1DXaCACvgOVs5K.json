@@ -1,12 +1,12 @@
 {
   "description": "Ibiza season is back for 2022. Let's dance!",
-  "num_followers": 72954,
+  "num_followers": 73245,
   "original_name": "Ibiza 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMGY4MjI4NDg4MjZmMGIwNDEwMDVlOWQwNGQwYTRhYTAy",
+  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMDE3NzAzNzUwNDVmMTY3YmVhNjdmMGE3NjFkMDcwZTc3",
   "tracks": [
     {
       "added_at": "2022-08-26 18:16:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Do You Dance?",
-        "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "Do You Dance?",
+        "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "You're Toxic",
-        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 371555,
-      "name": "You're Toxic",
-      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "My Paradise",
         "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "You're Toxic",
+        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 371555,
+      "name": "You're Toxic",
+      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6XVwl4AeJhcFWOLlZiKsgO"
-      },
-      "artists": [
-        {
-          "name": "Jaden Thompson",
-          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
-        }
-      ],
-      "duration_ms": 176612,
-      "name": "Closer - Edit",
-      "url": "https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 445440,
       "name": "Age of Love - ARTBAT Rave Mix",
       "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6XVwl4AeJhcFWOLlZiKsgO"
+      },
+      "artists": [
+        {
+          "name": "Jaden Thompson",
+          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
+        }
+      ],
+      "duration_ms": 176612,
+      "name": "Closer - Edit",
+      "url": "https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr"
     },
     {
       "added_at": "2022-08-26 18:16:00",

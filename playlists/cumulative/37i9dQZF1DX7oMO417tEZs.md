@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: RAYE
 
-587 songs - 1 day 8 hr 29 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+588 songs - 1 day 8 hr 32 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 3:56 | 2022-04-29 | 2022-06-04 |
 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 | 2022-07-08 | 2022-09-10 |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2022-02-18 | 2022-03-05 |
-| [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/6b1uvC2GnPm4wNsHaOlZM7) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:23 | 2022-09-03 |  |
+| [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 | 2022-11-25 |  |
+| [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/6b1uvC2GnPm4wNsHaOlZM7) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:23 | 2022-09-03 | 2022-12-01 |
 | [Car Crash](https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Car Crash](https://open.spotify.com/album/5FoPytrHR7RO00bCHEDJEa) | 1:56 | 2022-02-18 | 2022-04-23 |
 | [Cardigan](https://open.spotify.com/track/7CCKYz9WZ0G2D3nELghKl3) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Cardigan](https://open.spotify.com/album/5boWNREF7G7SqWNGOzmhFO) | 3:10 | 2022-09-25 | 2022-11-26 |
 | [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-02-18 | 2022-04-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,808 likes - 72 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,955 likes - 72 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 48 | [Midnight Legend](https://open.spotify.com/track/7wnRHeYAAd0KqkFe3ZQHcI) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Midnight Legend](https://open.spotify.com/album/2MJDkHvOuzpQg1q3AMeYC6) | 3:24 |
 | 49 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 |
 | 50 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 |
-| 51 | [Sunset Drive](https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:13 |
+| 51 | [Sunset Drive](https://open.spotify.com/track/2ItjyMOgf5kjfyrTo98Nor) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 3:13 |
 | 52 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 |
 | 53 | [Starting To Get To You](https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Starting To Get To You](https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO) | 2:41 |
 | 54 | [Spell on Me](https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq), [Hunter Yerrell](https://open.spotify.com/artist/6v8sw8c85yxp5UCdk92MeI) | [Spell on Me](https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S) | 2:42 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 71 | [Someone to Chill With](https://open.spotify.com/track/3sAcsAVnlvrJK4R2PWliot) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:19 |
 | 72 | [I'm Just A Fan](https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [I'm Just A Fan](https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0) | 3:03 |
 
-Snapshot ID: `MTY2ODE4NzMzNywwMDAwMDAwMGM0NDE2MDRlOWU2NDQwNjJmYzY5NjIyZTJhYTJlOWY2`
+Snapshot ID: `MTY2ODE4NzMzNywwMDAwMDAwMDZmNWNmM2JlZmQzNTY0ZGEzYmM0ZmYwYWJkMzI4OGM0`

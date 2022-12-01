@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-276 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+277 songs - 15 hr 51 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Blessed](https://open.spotify.com/track/7jrfqHvcRvJluOlCGJU54G) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Blessed](https://open.spotify.com/album/3e55MhiRUpp3FnfkLlr4aH) | 3:08 | 2022-04-07 | 2022-09-30 |
 | [Blind Man](https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Blind Man](https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X) | 4:02 | 2021-12-15 | 2022-04-03 |
 | [Bodies \- Intro](https://open.spotify.com/track/2Itnx6zp6Ztkex5JnRcy3U) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:01 | 2021-12-15 | 2022-04-07 |
-| [Bound \(with Blood Orange\)](https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Bound \(with Blood Orange\)](https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX) | 3:40 | 2021-12-15 |  |
+| [Bound](https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 3:40 | 2022-11-09 |  |
+| [Bound \(with Blood Orange\)](https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Bound \(with Blood Orange\)](https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX) | 3:40 | 2021-12-15 | 2022-12-01 |
 | [Bout It](https://open.spotify.com/track/3H4ohIbQHof4qKgrV6Fchc) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Bout It](https://open.spotify.com/album/1PbSsoxiRuWMV9CVmXvHXd) | 3:50 | 2021-12-15 | 2022-07-29 |
 | [Brakelights](https://open.spotify.com/track/43IjtK3IEEyTM5Ek32a2Pr) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Brakelights](https://open.spotify.com/album/51MDT07zYxiW3QMBeyVJJp) | 2:48 | 2021-12-15 | 2022-04-21 |
 | [Buying Time](https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Buying Time](https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3) | 3:56 | 2021-12-15 |  |

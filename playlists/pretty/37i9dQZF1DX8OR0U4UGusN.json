@@ -1,12 +1,12 @@
 {
   "description": "cool tunes for walking, driving, running, flying, etc",
-  "num_followers": 157160,
+  "num_followers": 157361,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MDkyMCwwMDAwMDAwMDY4YjIwOTdlNDAyMjIzODg4NTBjMjY3Zjg3MTMxYThm",
+  "snapshot_id": "MTY2NTc2MDkyMCwwMDAwMDAwMGVlYjA5NTllMGMzMGJiZWI4N2ZhOGRiNTRkZDY4MTVk",
   "tracks": [
     {
       "added_at": "2022-10-06 17:50:33",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 154115,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "its alright :)",
         "url": "https://open.spotify.com/album/4x8tDeytfMzIVZMrDwlF0Y"
       },
@@ -231,22 +215,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "JEWELZ",
-        "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "JEWELZ",
-      "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Bunny Is A Rider",
         "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
       },
@@ -259,6 +227,22 @@
       "duration_ms": 197480,
       "name": "Bunny Is A Rider",
       "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "JEWELZ",
+        "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "JEWELZ",
+      "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -395,22 +379,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 254871,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -443,22 +427,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Berhana",
-        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Janet",
-      "url": "https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Duo",
         "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
       },
@@ -475,18 +443,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Hannah (the sun)",
-        "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
+        "name": "Berhana",
+        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
         }
       ],
-      "duration_ms": 196796,
-      "name": "Hannah (the sun)",
-      "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
+      "duration_ms": 204000,
+      "name": "Janet",
+      "url": "https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -503,6 +471,22 @@
       "duration_ms": 92000,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Hannah (the sun)",
+        "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196796,
+      "name": "Hannah (the sun)",
+      "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -643,6 +627,22 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
+        "name": "What Does That Make Me?",
+        "url": "https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "What Does That Make Me?",
+      "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
         "name": "Andromeda (feat. D.R.A.M.) [Purple Disco Machine Remix]",
         "url": "https://open.spotify.com/album/106oSRdZYwswMFOAPwROxf"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 363091,
       "name": "Andromeda (feat. DRAM) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2LczIiNTOfbD4yxohajgjB"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
-        "name": "What Does That Make Me?",
-        "url": "https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "What Does That Make Me?",
-      "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -719,22 +703,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -927,22 +911,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 219795,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv"
       },
@@ -979,18 +947,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Too Sensitive",
-        "url": "https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM"
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
       },
       "artists": [
         {
-          "name": "Sean Kennedy",
-          "url": "https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         }
       ],
-      "duration_ms": 161176,
-      "name": "Too Sensitive",
-      "url": "https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01"
+      "duration_ms": 219795,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1023,6 +991,22 @@
       "duration_ms": 267386,
       "name": "HOW CAN I SLEEP",
       "url": "https://open.spotify.com/track/7GfDyeYSkBWENSzZH0pYOv"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Too Sensitive",
+        "url": "https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM"
+      },
+      "artists": [
+        {
+          "name": "Sean Kennedy",
+          "url": "https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK"
+        }
+      ],
+      "duration_ms": 161176,
+      "name": "Too Sensitive",
+      "url": "https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1159,26 +1143,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/6PiOphZVJXwygC6QbfDYiT"
-      },
-      "artists": [
-        {
-          "name": "Kwajo",
-          "url": "https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6"
-        },
-        {
-          "name": "SH1NOB1",
-          "url": "https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0"
-        }
-      ],
-      "duration_ms": 181514,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/6knSS9IpIjq4RLMcAcuS8g"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Floating Head",
         "url": "https://open.spotify.com/album/4neSleLeckCi30cdozC6U7"
       },
@@ -1195,6 +1159,26 @@
       "duration_ms": 179200,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/4t7lpIdS2F527iGYuTZopQ"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/6PiOphZVJXwygC6QbfDYiT"
+      },
+      "artists": [
+        {
+          "name": "Kwajo",
+          "url": "https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6"
+        },
+        {
+          "name": "SH1NOB1",
+          "url": "https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0"
+        }
+      ],
+      "duration_ms": 181514,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6knSS9IpIjq4RLMcAcuS8g"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Bling Up",
-        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
-        }
-      ],
-      "duration_ms": 177914,
-      "name": "Bling Up",
-      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Make U Stay",
         "url": "https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL"
       },
@@ -1447,6 +1415,22 @@
       "duration_ms": 200500,
       "name": "Make U Stay",
       "url": "https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Bling Up",
+        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
+        }
+      ],
+      "duration_ms": 177914,
+      "name": "Bling Up",
+      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1555,22 +1539,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "The Start",
-        "url": "https://open.spotify.com/album/0KrSUDXYpQdGuLWc0qw4v8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 188869,
-      "name": "The Start",
-      "url": "https://open.spotify.com/track/1uyOb4rVDC4QkTwqTH9Thj"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "fitt (with Amaarae)",
         "url": "https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo"
       },
@@ -1591,26 +1559,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
-        "url": "https://open.spotify.com/album/3vISKUoTTH8qBj5YetUSTI"
+        "name": "The Start",
+        "url": "https://open.spotify.com/album/0KrSUDXYpQdGuLWc0qw4v8"
       },
       "artists": [
         {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
         }
       ],
-      "duration_ms": 177538,
-      "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
-      "url": "https://open.spotify.com/track/1QVTgEwKTkuKkA3UDyxGDX"
+      "duration_ms": 188869,
+      "name": "The Start",
+      "url": "https://open.spotify.com/track/1uyOb4rVDC4QkTwqTH9Thj"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1635,6 +1595,30 @@
       "duration_ms": 185779,
       "name": "Head on Fire - Danny L Harle Remix",
       "url": "https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
+        "url": "https://open.spotify.com/album/3vISKUoTTH8qBj5YetUSTI"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 177538,
+      "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
+      "url": "https://open.spotify.com/track/1QVTgEwKTkuKkA3UDyxGDX"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1715,6 +1699,22 @@
       "duration_ms": 218451,
       "name": "DEEP END",
       "url": "https://open.spotify.com/track/4oXgYIpKj7qMCJ2U0xvR6y"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "VOCES",
+        "url": "https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 202041,
+      "name": "VOCES",
+      "url": "https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB"
     }
   ],
   "unique_name": "omw",

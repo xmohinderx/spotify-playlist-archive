@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 462429,
+  "num_followers": 462779,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczMDgwMCwwMDAwMDAwMDNlNTdmYjBhYmNmMjFhY2Y3NzAzYzNkMzVkZTU0ZWZh",
+  "snapshot_id": "MTY2NTczMDgwMCwwMDAwMDAwMGFjOWEzYzBmODZkMTliNjk4Zjk0Nzk5YTBkNjZlZGQw",
   "tracks": [
     {
       "added_at": "2022-10-14 07:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Dig. Sow. Love. Grow.",
-        "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Killers",
-          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Gravity X",
         "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
       },
@@ -523,22 +507,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 209643,
-      "name": "Enemy of My Enemy",
-      "url": "https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Agents Of Ahriman",
         "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 185440,
       "name": "Stray Bullit Woman",
       "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Dig. Sow. Love. Grow.",
+        "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Killers",
+          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 209643,
+      "name": "Enemy of My Enemy",
+      "url": "https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Dead Rock Commandos",
-        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
-      },
-      "artists": [
-        {
-          "name": "Nightstalker",
-          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Dead Rock Commandos",
-      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Dead Roots Stirring",
         "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 580237,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
+      },
+      "artists": [
+        {
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
-      },
-      "artists": [
-        {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Elephant Tree",
         "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 367879,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
-      },
-      "artists": [
-        {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
-        }
-      ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+      },
+      "artists": [
+        {
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+        }
+      ],
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
-      },
-      "artists": [
-        {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Back From The Abyss",
-        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
       "artists": [
         {
-          "name": "Orange Goblin",
-          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
         }
       ],
-      "duration_ms": 378920,
-      "name": "Heavy Lies The Crown",
-      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1387,22 +1371,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "Colossal",
-      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Acid Roulette",
         "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
       },
@@ -1415,6 +1383,38 @@
       "duration_ms": 349466,
       "name": "Acid Roulette",
       "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Back From The Abyss",
+        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
+      },
+      "artists": [
+        {
+          "name": "Orange Goblin",
+          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+        }
+      ],
+      "duration_ms": 378920,
+      "name": "Heavy Lies The Crown",
+      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "Colossal",
+      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Boxriff",
-        "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
-      },
-      "artists": [
-        {
-          "name": "The Atomic Bitchwax",
-          "url": "https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "So Come On",
-      "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Trails & Passes",
         "url": "https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 194866,
       "name": "Our Mother Ash",
       "url": "https://open.spotify.com/track/06X9h0zkeEncfohssytDp8"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Boxriff",
+        "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
+      },
+      "artists": [
+        {
+          "name": "The Atomic Bitchwax",
+          "url": "https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "So Come On",
+      "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Unida",
-          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
-        }
-      ],
-      "duration_ms": 346116,
-      "name": "Left Us To Mold",
-      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "King of Cowards",
         "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 349330,
       "name": "GNT",
       "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Unida",
+          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Left Us To Mold",
+      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
     }
   ],
   "unique_name": "Stoner Rock",

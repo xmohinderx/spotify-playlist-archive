@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 481223,
+  "num_followers": 482568,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDM2M2IxYTllOWRjMzg3ZDdkZjg0MjNiM2VjNWFkYzEx",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDk1YWViZTY5NGI0Y2I5ZTI5YzkyOGM1ZGU5YzI2Y2Vk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Simply Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        }
-      ],
-      "duration_ms": 182852,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "The Merriest",
@@ -619,6 +603,22 @@
       "duration_ms": 237613,
       "name": "That Holiday Feeling",
       "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Simply Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        }
+      ],
+      "duration_ms": 182852,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 200516,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 148026,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "A Legendary Christmas",
-        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 200516,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
     },
     {
       "added_at": "2021-11-12 15:48:58",

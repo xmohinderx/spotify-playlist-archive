@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Cassiane, Midian Lima",
-  "num_followers": 55725,
+  "num_followers": 55780,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NDg0NCwwMDAwMDAwMDkwYzU4MzAyYjU4MWI3NDAzNjliYjU2OGYxZjkyODc1",
+  "snapshot_id": "MTY2OTM1NDg0NCwwMDAwMDAwMDEyNWU4ZmU0NWU4NjcyNzM1OTkwYTBhYjU0MjJhOGI2",
   "tracks": [
     {
       "added_at": "2022-11-04 17:57:59",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Que Tal",
-        "url": "https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 309001,
-      "name": "Que Tal",
-      "url": "https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
         "name": "T\u00e1 Gerando",
         "url": "https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 274773,
       "name": "T\u00e1 Gerando",
       "url": "https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
+        "name": "Que Tal",
+        "url": "https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 309001,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf"
     },
     {
+      "added_at": "2022-12-01 01:09:49",
+      "album": {
+        "name": "Recursos",
+        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 346495,
+      "name": "Recursos",
+      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
+    },
+    {
       "added_at": "2022-11-04 17:57:59",
       "album": {
         "name": "Sou Eu",
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 327456,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
         "name": "Soldado Ferido (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7"
       },
@@ -1103,22 +1135,6 @@
       "duration_ms": 267000,
       "name": "Soldado Ferido (Ao Vivo)",
       "url": "https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 327456,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -1155,6 +1171,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
+        "name": "Um Sobrevivente",
+        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        }
+      ],
+      "duration_ms": 301162,
+      "name": "Um Sobrevivente",
+      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
         "name": "O Deus Incompar\u00e1vel",
         "url": "https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt"
       },
@@ -1187,38 +1219,6 @@
       "duration_ms": 277500,
       "name": "Voc\u00ea Disse",
       "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
-    },
-    {
-      "added_at": "2022-11-30 01:03:38",
-      "album": {
-        "name": "Recursos",
-        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 346495,
-      "name": "Recursos",
-      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
-        "name": "Um Sobrevivente",
-        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        }
-      ],
-      "duration_ms": 301162,
-      "name": "Um Sobrevivente",
-      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
     },
     {
       "added_at": "2022-11-04 17:57:59",

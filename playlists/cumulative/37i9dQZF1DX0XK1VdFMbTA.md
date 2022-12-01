@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-832 songs - 2 day 10 hr 9 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
+833 songs - 2 day 10 hr 13 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Alright, Alright, Alright](https://open.spotify.com/track/3KzW4e9ysp81i5b2KwO2SE) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 2:47 | 2022-01-05 |  |
 | [Always Somewhere](https://open.spotify.com/track/6Ok4D4w117mSi9OP8tmrpg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 4:57 | 2022-01-05 |  |
 | [Always Somewhere \- 2015 Remaster](https://open.spotify.com/track/3EYLxYSyCO4fsIIz79rW9z) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/1KWIRGaeCscnnFmZUfbYDj) | 4:57 | 2022-01-05 | 2022-07-29 |
-| [Am I Losin'](https://open.spotify.com/track/3Kf5L7zIhbrj1S5BPCodX8) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 4:35 | 2022-01-05 |  |
+| [Am I Losin'](https://open.spotify.com/track/3Kf5L7zIhbrj1S5BPCodX8) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 4:35 | 2022-01-05 | 2022-12-01 |
 | [Amy](https://open.spotify.com/track/06jttXe119nc0r9Brkpn8a) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:03 | 2022-01-05 | 2022-07-25 |
 | [Anarchy In the U.K.](https://open.spotify.com/track/1H0Qvm9vTEOXYDqh3CGOmC) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Guitar Hero Hits](https://open.spotify.com/album/7vSfW0XLNSwGfGNRME7bz7) | 3:31 | 2022-01-05 | 2022-11-13 |
 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 | 2022-01-05 |  |
@@ -131,6 +131,7 @@
 | [Catch The Rainbow](https://open.spotify.com/track/7FtRUrOEDUHTvenvp1BqZo) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow](https://open.spotify.com/album/3LXOrVXLXwRiOguE446OZo) | 6:36 | 2022-01-05 |  |
 | [Chain Lightning](https://open.spotify.com/track/1UtGIkXG8Y9s3JtSg3CIQp) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Katy Lied](https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b) | 3:00 | 2022-01-05 |  |
 | [Change Of The Guard](https://open.spotify.com/track/4nXetPzsp0cG4HAgBW7dXW) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 3:38 | 2022-01-05 | 2022-11-09 |
+| [Change Of The Guard](https://open.spotify.com/track/1hKDXDtgKCgdVi0L6wtXN0) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 3:39 | 2022-11-17 |  |
 | [Charisma](https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:25 | 2022-01-05 |  |
 | [Cheap Sunglasses](https://open.spotify.com/track/30jsPpxLvSCYTTTtdjRzBp) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 4:48 | 2022-01-05 |  |
 | [Cheatin' Woman](https://open.spotify.com/track/2fnAWGcjkl6TXbq58WjCJv) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 4:39 | 2022-01-05 |  |

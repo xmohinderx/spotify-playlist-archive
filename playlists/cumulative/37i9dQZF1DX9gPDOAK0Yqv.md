@@ -4,14 +4,14 @@
 
 > A hypnotic journey through melodic techno.
 
-80 songs - 8 hr 16 min - not published yet
+81 songs - 8 hr 23 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Accordia](https://open.spotify.com/track/19pZBVcKIpZe6DqpzTEPCM) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:08 | 2022-11-23 |  |
 | [Acumulee](https://open.spotify.com/track/3Zros7lzYTaBOZTwV9Ex3u) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Four to the Floor 14](https://open.spotify.com/album/0CwCIOyY2ThLbis0aVnjMm) | 10:48 | 2022-11-23 |  |
 | [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 | 2022-11-23 |  |
-| [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 |  |
+| [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 | 2022-12-01 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-11-23 |  |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-11-23 |  |
 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 | 2022-11-23 |  |
@@ -84,6 +84,7 @@
 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-23 |  |
 | [Trust The Hours](https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Trust The Hours](https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV) | 6:11 | 2022-11-23 |  |
 | [Try](https://open.spotify.com/track/6dYp9gwmnHvLdjwHhhiJbV) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Try / I Need You Now](https://open.spotify.com/album/4bPpSY4RfqWXcPrlLP8v1G) | 3:39 | 2022-11-23 |  |
+| [Unconventional](https://open.spotify.com/track/1JlWt0i5IvccZPa5VslXaS) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Unconventional Ride](https://open.spotify.com/album/4H2UcxgnKoeE78H5j6RWNq) | 6:39 | 2022-11-23 |  |
 | [Under the Sun](https://open.spotify.com/track/32v7oXsd2S8XcZoPGO488S) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Under the Sun EP](https://open.spotify.com/album/18UianFgcKByeelb2c1lWN) | 6:15 | 2022-11-23 |  |
 | [Urania](https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Urania](https://open.spotify.com/album/6HNtAXj6JDQbfQeKPzTcYR) | 7:25 | 2022-11-23 | 2022-11-29 |
 | [Virgo](https://open.spotify.com/track/1OgmO9reLha6OiQ8PwMCz7) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Vomee](https://open.spotify.com/artist/7AoYKqkWmyz20OmuMC8OeS) | [Talisman](https://open.spotify.com/album/0Dnvoqw5glxqd4uVVDA0cy) | 7:54 | 2022-11-23 |  |

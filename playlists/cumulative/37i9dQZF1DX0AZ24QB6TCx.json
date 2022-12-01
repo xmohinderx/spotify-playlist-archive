@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 287986,
       "name": "AvA",
       "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
@@ -2327,6 +2327,24 @@
       "duration_ms": 332000,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj"
+    },
+    {
+      "album": {
+        "name": "King Curtis",
+        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226848,
+      "name": "King Curtis - Edit",
+      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
     },
     {
       "album": {

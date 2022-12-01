@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,703 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,772 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 45 | [Pills & Good Advice](https://open.spotify.com/track/7mVua1NkDiqHpy5YDkUCfu) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE) | [t.i.a.p.f.y.h.](https://open.spotify.com/album/3AmtZIC01fVMxFCGIIlMzO) | 10:13 |
 | 46 | [Lolo 13](https://open.spotify.com/track/5YGVoookgrVr9Zyw615G1Q) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/1D5mBLxOJpg426RflIyFAf) | 2:41 |
 | 47 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 |
-| 48 | [Really, Really](https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:26 |
+| 48 | [Really, Really](https://open.spotify.com/track/6Ry2hRnTNSQDGuYCzeYvmx) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 2:26 |
 | 49 | [No Thoughts, Head Empty \- Single Version](https://open.spotify.com/track/7v5rX1Id8Lo1t8SeKcGWMf) | [Tape Girl](https://open.spotify.com/artist/04RmwYKUtw7TelYW3UQ3L6) | [No Thoughts, Head Empty](https://open.spotify.com/album/1mc4tA9yDBwHlt6XBGKnlW) | 2:44 |
 | 50 | [Something To Say](https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Something To Say](https://open.spotify.com/album/6CBY5J52PrxflhCEelKeBR) | 4:04 |
 | 51 | [All I Have Is I](https://open.spotify.com/track/2cLrli2NE987jrCHJe4e0l) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [All I Have Is I](https://open.spotify.com/album/3KBzyQJ9hCybruGbPcjczp) | 3:25 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 70 | [Sweet Cis Teen](https://open.spotify.com/track/3BtI05wNziDrIODXJqdKkK) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 4:33 |
 | 71 | [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 |
 | 72 | [Prosecco](https://open.spotify.com/track/4rrEmelWLx5GkbpKTFWbcx) | [Rachel Maria Cox](https://open.spotify.com/artist/1xIb3fCc3TqfNJ24DNKKBq) | [Prosecco](https://open.spotify.com/album/6KeTVzhEgbAHWt3NTJ5QvI) | 2:46 |
-| 73 | [HUH?](https://open.spotify.com/track/51YAv7jAdOLFVzKSIry2Sw) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:43 |
+| 73 | [HUH?](https://open.spotify.com/track/41q2qZ5ka6FX52EE3N5v9w) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 2:43 |
 | 74 | [Nobody Waits](https://open.spotify.com/track/06d71HT8y7szxk3A3Ilixk) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [Nobody Waits b/w San Cristóbal](https://open.spotify.com/album/6Mu2VXjfDj0GA7NPqbY5HP) | 3:11 |
 | 75 | [angel rock](https://open.spotify.com/track/32njoCIl5eqq3rv12cS588) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [angel rock](https://open.spotify.com/album/2NboJlXBlKcA1Cx2i5kNOS) | 3:24 |
 | 76 | [Spell For Nature](https://open.spotify.com/track/6niV6x6Cr37SM7zT5vd8Qi) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 4:03 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 78 | [Hard to Believe](https://open.spotify.com/track/5xDHkY0Om4eN1XMOJV0HLC) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Something Like A War](https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz) | 4:00 |
 | 79 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
 | 80 | [Sharkbait](https://open.spotify.com/track/1u5UqFrPc3h6FMQGS1kw9M) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/2rfrl6hCzss0k9DZMf0pwB) | 3:38 |
-| 81 | [SuperNatural Possession](https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2BBk7kjQwYdV0UgeYx0JYK) | 2:04 |
+| 81 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |
 | 82 | [Precious and Perfect](https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61) | 3:00 |
 | 83 | [I Feel Fantastic](https://open.spotify.com/track/4tFnZmBAYl5L7exZhspwYY) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/0REInqUEj53H3tJjx1ku4Q) | 2:15 |
 | 84 | [Bloodrush](https://open.spotify.com/track/0OOBCBmLFqpLNclXaeFvQV) | [Andrew Broder](https://open.spotify.com/artist/44GbwEtjdUMxpvcBoPEOgH), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Haleek Maul](https://open.spotify.com/artist/1z3a08VnheTF9dwweVtFa3) | [Bloodrush](https://open.spotify.com/album/5g1qB2pKlmliBuz2A1OXmZ) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 99 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 | 100 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 |
 
-Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMGJiOGRhMTdhYWFkMjczMWM2NmRhNWJjOWVmNGQ5ODIy`
+Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMDk4ZTBhN2IzYzI0OTk5M2ZkMTZkM2MyM2JkMjNkOTBi`

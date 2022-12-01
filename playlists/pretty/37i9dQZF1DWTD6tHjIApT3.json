@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u677e\u6d66\u4e9c\u5f25",
-  "num_followers": 86937,
+  "num_followers": 86990,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTczNDAwMCwwMDAwMDAwMGM2YjQ1OWE3ODkwNWQ4MGYxNGFkNThlMDk4YjE3MTRl",
+  "snapshot_id": "MTY2OTczNDAwMCwwMDAwMDAwMDIyNGQ5Y2Y1ZTQ3MWQyMjBkNzdkNDk2MjRjMzQ1YjA0",
   "tracks": [
     {
       "added_at": "2022-11-29 15:00:00",
@@ -43,7 +43,7 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "Mirage Op.4 - Collective ver.",
+        "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
         "url": "https://open.spotify.com/album/3X8NFyIOThWuYBSJnZ3GEs"
       },
       "artists": [
@@ -62,10 +62,14 @@
         {
           "name": "YONCE (Suchmos)",
           "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
+        },
+        {
+          "name": "\u9577\u6fa4\u307e\u3055\u307f",
+          "url": "https://open.spotify.com/artist/6GjALwVkZtW4lkr2vAe24n"
         }
       ],
       "duration_ms": 268119,
-      "name": "Mirage Op.4 - Collective ver.",
+      "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
     },
     {
@@ -123,8 +127,8 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "\u77ac\u304d\u3068\u7cbe\u795e\u3068\u541b\u306e\u6b4c\u3068\u97f3\u697d\u3068",
-        "url": "https://open.spotify.com/album/5TfDk5uhXOdMv8xgjODU1Q"
+        "name": "MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO",
+        "url": "https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI"
       },
       "artists": [
         {
@@ -133,8 +137,8 @@
         }
       ],
       "duration_ms": 235662,
-      "name": "\u77ac\u304d\u3068\u7cbe\u795e\u3068\u541b\u306e\u6b4c\u3068\u97f3\u697d\u3068",
-      "url": "https://open.spotify.com/track/0u6MZXPVfP9bAVuvGd4DgP"
+      "name": "MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO",
+      "url": "https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -391,18 +395,18 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+        "name": "\u597d\u304d\u3060",
+        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 287986,
-      "name": "The World's Continuation",
-      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
+      "duration_ms": 217512,
+      "name": "\u597d\u304d\u3060",
+      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -487,18 +491,18 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "\u597d\u304d\u3060",
-        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 217512,
-      "name": "\u597d\u304d\u3060",
-      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
+      "duration_ms": 287986,
+      "name": "The World's Continuation",
+      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -515,38 +519,6 @@
       "duration_ms": 258428,
       "name": "\u5341\u5b57\u8def\u306b\u7acb\u3064",
       "url": "https://open.spotify.com/track/5UgmUHaao6b2QwcDV5tBaw"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Where the Wind Blows",
-      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V"
-      },
-      "artists": [
-        {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        }
-      ],
-      "duration_ms": 223833,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/1Z9bAkibAZQoHq7qRLySBu"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -575,6 +547,22 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "duration_ms": 223833,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/1Z9bAkibAZQoHq7qRLySBu"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
         "name": "\u305d\u308c\u3092\u611b\u3068\u547c\u3076\u306a\u3089",
         "url": "https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs"
       },
@@ -587,6 +575,22 @@
       "duration_ms": 294666,
       "name": "\u305d\u308c\u3092\u611b\u3068\u547c\u3076\u306a\u3089",
       "url": "https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -607,18 +611,18 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 187000,
-      "name": "\u30df\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
+      "duration_ms": 272466,
+      "name": "Where the Wind Blows",
+      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -675,18 +679,18 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
+        "name": "\u30ec\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 257799,
-      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
+      "duration_ms": 238536,
+      "name": "\u30ec\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -707,18 +711,18 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "\u30ec\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2"
+        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 238536,
-      "name": "\u30ec\u30f3\u30ba",
-      "url": "https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s"
+      "duration_ms": 257799,
+      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -1079,8 +1083,8 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "\u304a\u671b\u307f\u901a\u308a",
-        "url": "https://open.spotify.com/album/0ZoZomnWvls8NN42lGNSpg"
+        "name": "Onozomidori",
+        "url": "https://open.spotify.com/album/4gSVJvKLVGJP7cHuQue9qQ"
       },
       "artists": [
         {
@@ -1089,8 +1093,8 @@
         }
       ],
       "duration_ms": 213484,
-      "name": "\u304a\u671b\u307f\u901a\u308a",
-      "url": "https://open.spotify.com/track/4i2RvHbnACgAfvfQDRastj"
+      "name": "Onozomidori",
+      "url": "https://open.spotify.com/track/5zylPPIua3ORvZxLudnjzc"
     },
     {
       "added_at": "2022-11-29 15:00:00",
@@ -1167,22 +1171,6 @@
     {
       "added_at": "2022-11-29 15:00:00",
       "album": {
-        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
-        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
-      },
-      "artists": [
-        {
-          "name": "KOH+",
-          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
-      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
-    },
-    {
-      "added_at": "2022-11-29 15:00:00",
-      "album": {
         "name": "missing",
         "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
       },
@@ -1195,6 +1183,22 @@
       "duration_ms": 189565,
       "name": "missing",
       "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
+    },
+    {
+      "added_at": "2022-11-29 15:00:00",
+      "album": {
+        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
+        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
+      },
+      "artists": [
+        {
+          "name": "KOH+",
+          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
+      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
     },
     {
       "added_at": "2022-11-29 15:00:00",

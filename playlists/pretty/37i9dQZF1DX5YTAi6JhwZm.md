@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,633 likes - 101 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,694 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,11 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 93 | [On The Second Day](https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye) | [Jørgen Emborg](https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS) | [On the Second Day](https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff) | 4:32 |
 | 94 | [The Chant \(Live 1960\)](https://open.spotify.com/track/1mtO7k5FGRjlJmrM9nf5GH) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Live in Paris](https://open.spotify.com/album/1rNkK7VLotjAHOQJ08nQe1) | 9:02 |
 | 95 | [Running](https://open.spotify.com/track/6XbnOMT8ZYQtombZHv6fDp) | [Jørgen Emborg](https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS) | [Swan Songs](https://open.spotify.com/album/4lMvK2xPVaxRkEtqXUlOh8) | 5:49 |
-| 96 | [Cliff Craft](https://open.spotify.com/track/6NWgoWAfcICQZdQRqAQnlc) | [Cliff Jordan](https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij) | [Cliff Craft](https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a) | 6:30 |
-| 97 | [The Best Things In Life Are Free](https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:26 |
-| 98 | [Libra](https://open.spotify.com/track/1ntx4SY3tRDuEzid4sRFjA) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [The Magic of Now](https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y) | 5:54 |
-| 99 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 |
-| 100 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 |
-| 101 | [The People In Nassau](https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Heads Up!](https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC) | 5:39 |
+| 96 | [Libra](https://open.spotify.com/track/1ntx4SY3tRDuEzid4sRFjA) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [The Magic of Now](https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y) | 5:54 |
+| 97 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 |
+| 98 | [Cliff Craft](https://open.spotify.com/track/6NWgoWAfcICQZdQRqAQnlc) | [Cliff Jordan](https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij) | [Cliff Craft](https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a) | 6:30 |
+| 99 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 |
+| 100 | [The People In Nassau](https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Heads Up!](https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC) | 5:39 |
 
-Snapshot ID: `MTY2OTIxNDc1OSwwMDAwMDAwMDQzNWJjOTA1YWRiZjFkMGEyMDdhM2M0YjNlNTM0ODBl`
+Snapshot ID: `MTY2OTgxMjgzMSwwMDAwMDAwMDgzN2Q1MmQ2MjhmYWU4OGQ1ZWRlYWNlMDVhODgxODA4`

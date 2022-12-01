@@ -1,12 +1,12 @@
 {
   "description": "Funk to these good ol' funky soul classics!",
-  "num_followers": 777635,
+  "num_followers": 777830,
   "original_name": "Funk Outta Here",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU2OTQ2MSwwMDAwMDAwMGNlNjc1YTRmN2YzZjJkYWM2YmI1MTRkN2YzYTY2NTcy",
+  "snapshot_id": "MTY2OTgyMjI2OCwwMDAwMDAwMGYxYzA3NGRmMDk4ODBlMWNkNmU5NzMwZTljOWYwNzVl",
   "tracks": [
     {
       "added_at": "2020-05-08 09:11:07",
@@ -75,6 +75,22 @@
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
+        "name": "Fantastic Voyage",
+        "url": "https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q"
+      },
+      "artists": [
+        {
+          "name": "Lakeside",
+          "url": "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
+        }
+      ],
+      "duration_ms": 370893,
+      "name": "Fantastic Voyage",
+      "url": "https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF"
+    },
+    {
+      "added_at": "2020-05-08 09:11:07",
+      "album": {
         "name": "King Size Soul",
         "url": "https://open.spotify.com/album/10oWkzpDsLfD1lq21m6RPr"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 239908,
       "name": "Pick Up the Pieces",
       "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
-    },
-    {
-      "added_at": "2020-05-08 09:11:07",
-      "album": {
-        "name": "Fantastic Voyage",
-        "url": "https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q"
-      },
-      "artists": [
-        {
-          "name": "Lakeside",
-          "url": "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
-        }
-      ],
-      "duration_ms": 370893,
-      "name": "Fantastic Voyage",
-      "url": "https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF"
     },
     {
       "added_at": "2020-05-08 09:11:07",

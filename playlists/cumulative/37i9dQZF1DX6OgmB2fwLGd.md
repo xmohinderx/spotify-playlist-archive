@@ -2,9 +2,9 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> The soundtrack to the internet\. Featuring new music by Yung Gravy.
+> The soundtrack to the internet\. Cover: TiaCorine
 
-473 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+474 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [DAMN HOMIE \(feat\. Lil Yachty\)](https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [DAMN HOMIE \(feat\. Lil Yachty\)](https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW) | 2:20 | 2022-05-13 | 2022-10-15 |
 | [damn Right](https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:44 | 2022-01-11 | 2022-02-05 |
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-02 | 2022-07-02 |
-| [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-09-02 |  |
+| [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 | 2022-09-02 |  |
+| [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-09-02 | 2022-12-01 |
 | [Dancing In The Rain](https://open.spotify.com/track/4tLaORnfkafV07U8O8dEeL) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Marvelous](https://open.spotify.com/album/3DCLmgvu8dwEyJ3MpBcNka) | 2:05 | 2022-10-28 |  |
 | [Dat Way](https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo) | [Barely Legal](https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol), [Jay Browne](https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ) | [Daytona](https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa) | 3:08 | 2022-03-11 | 2022-07-16 |
 | [Deadguy](https://open.spotify.com/track/1lITtbljRbadZO0eXgSoIX) | [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML) | [Vlamily](https://open.spotify.com/album/04UXzrSTCTv7AN32oxVpKF) | 1:55 | 2022-04-06 | 2022-05-25 |

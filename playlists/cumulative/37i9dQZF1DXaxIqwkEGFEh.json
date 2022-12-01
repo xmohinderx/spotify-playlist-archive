@@ -441,10 +441,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 169416,
       "name": "Add It Up",
       "url": "https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA"
+    },
+    {
+      "album": {
+        "name": "Add It Up (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/0jhDS6QHDbWLapC8gifh9n"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169416,
+      "name": "Add It Up (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo"
     },
     {
       "album": {

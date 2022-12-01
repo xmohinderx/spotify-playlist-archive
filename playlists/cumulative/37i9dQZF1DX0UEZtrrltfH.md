@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-71 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
+72 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Amygdala](https://open.spotify.com/track/7z4a9JihC3kZh8Hdt0tqOR) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/7IUUaatsZEC81o9uWHJ1Nv) | 2:10 | 2022-03-31 |  |
 | [another night](https://open.spotify.com/track/3T6uMRGP8y3LV2KpNZyOAl) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:42 | 2022-03-31 |  |
 | [Auto Salon](https://open.spotify.com/track/5Xw5KbzT7LuvTv07LukrOE) | [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873), [EXODUS1900](https://open.spotify.com/artist/3KBmWkJiBmv1gxLfY4EcoW) | [Auto Salon](https://open.spotify.com/album/4osvPLfw5tgtAbdxO6pp7q) | 2:33 | 2022-03-31 |  |
-| [Beautiful](https://open.spotify.com/track/2NyST1PrdhrIySjgKG8fop) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/6v7bvadPuidJL6o6kepl1f) | 3:49 | 2022-03-31 |  |
+| [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 | 2022-03-31 |  |
+| [Beautiful](https://open.spotify.com/track/2NyST1PrdhrIySjgKG8fop) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/6v7bvadPuidJL6o6kepl1f) | 3:49 | 2022-03-31 | 2022-12-01 |
 | [BFF](https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [BFF](https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD) | 3:35 | 2022-03-31 |  |
 | [Bossed Up](https://open.spotify.com/track/2Ht7vK4FOBUnl2C80OdQsO) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 2:15 | 2022-03-31 |  |
 | [Breathe](https://open.spotify.com/track/0PsRhMfKbjPblbu6Vd7ZGs) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Their Law The Singles 1990 \- 2005](https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy) | 5:36 | 2022-03-31 | 2022-11-14 |

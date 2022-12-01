@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,995 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,003 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 72 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 |
 | 73 | [Wicked Witch \- Original Mix](https://open.spotify.com/track/3rolMdFNBd85KXMawmAazE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [String Theory EP](https://open.spotify.com/album/0LN2Wji8Ln7g2daCcHkeaI) | 3:12 |
 | 74 | [Beautiful Monster](https://open.spotify.com/track/3BkTXfYbVgsvsnoPO73KNN) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Beautiful Monster](https://open.spotify.com/album/7zTGK8FGxxGfbqzSyYZ9iy) | 2:41 |
-| 75 | [Dance with Death](https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/6fE8CiM9Pmn3XPwx39LhWJ) | 5:52 |
+| 75 | [Dance with Death](https://open.spotify.com/track/3WHzdoudaQvAOcGDYFRpWn) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/2RtmP1Gin5BBNgxlu44qeH) | 5:52 |
 | 76 | [Keep Raving](https://open.spotify.com/track/0IJQeY73GsMXqwA5EBzYuP) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Keep Raving](https://open.spotify.com/album/1gsAfjoIcdd8M6XZ9wKpDS) | 2:52 |
 | 77 | [The Evil Folk](https://open.spotify.com/track/2Hdz3K7Nj21JyKdgtOvGIY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [The Evil Folk](https://open.spotify.com/album/1RpZGs7XhczTcZJzduxD0k) | 2:37 |
 | 78 | [The Killer](https://open.spotify.com/track/2Nq9cw839Rz6zLxGYP1YaR) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Bret James](https://open.spotify.com/artist/04NseFrg9L1BHlCQa8tiBl), [RNSOM](https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh) | [The Killer](https://open.spotify.com/album/0L017iQBu2DM0eFfVZchtK) | 3:01 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 87 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 88 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDk1ZGI1YTJmMTI0NjRhNWJjMGE2MzEwMjZlNTAzZTBh`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDk0NDlmM2Y0MWQzNjM5NWNjMDA0MjgwZTE0MDgyNmZl`

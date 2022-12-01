@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 444819,
+  "num_followers": 444848,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NTM0OCwwMDAwMDAwMGYyOGJkZjdlNTI2MzYzNGQzYWFkOTJhZDI0MzY4NjAx",
+  "snapshot_id": "MTY2NTY5NTM0OCwwMDAwMDAwMDY0NjA0YzkwZDZkMTY5MjFmNDVkY2MwYTdkNTIyYmU2",
   "tracks": [
     {
       "added_at": "2022-10-07 16:07:51",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Plan A",
-        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178202,
-      "name": "Plan A",
-      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Plan A",
+        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178202,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1253,7 +1253,7 @@
       "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
     },
     {
-      "added_at": "2022-11-30 01:20:44",
+      "added_at": "2022-12-01 01:28:28",
       "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Garabatos (with Jay Wheeler)",
-        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Garabatos (with Jay Wheeler)",
-      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "AGUILERA",
         "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 173922,
       "name": "Su\u00e9ltame",
       "url": "https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Garabatos (with Jay Wheeler)",
+        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Garabatos (with Jay Wheeler)",
+      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1843,30 +1843,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Dale Pa' Ya (feat. Gente De Zona)",
-        "url": "https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA"
-      },
-      "artists": [
-        {
-          "name": "Big Time Rush",
-          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 216730,
-      "name": "Dale Pa' Ya (feat. Gente de Zona)",
-      "url": "https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Winnie Pooh",
         "url": "https://open.spotify.com/album/0oDpw4EOFV53oC23SU5jJT"
       },
@@ -1891,6 +1867,30 @@
       "duration_ms": 180346,
       "name": "Winnie Pooh",
       "url": "https://open.spotify.com/track/0QupfeRNFEdNatL4gkcZUp"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Dale Pa' Ya (feat. Gente De Zona)",
+        "url": "https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 216730,
+      "name": "Dale Pa' Ya (feat. Gente de Zona)",
+      "url": "https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX"
     },
     {
       "added_at": "2022-10-07 16:07:51",
